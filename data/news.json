@@ -1,0 +1,565 @@
+{
+  "generated_ts": 1780551613,
+  "items": [
+    {
+      "title": "Graphical and algebraic methods for Boolean factoring",
+      "link": "https://arxiv.org/abs/2606.04038",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04038v1 Announce Type: new  Abstract: The problem of factoring Boolean polynomials has significant applications in both classical and quantum computing technology. In this paper we have developed novel algorithms for factoring both ESOP and SOP expressions. Our aim is to optimize the AND-…"
+    },
+    {
+      "title": "Boson Models with Interactions of Arbitrary Order",
+      "link": "https://arxiv.org/abs/2606.04055",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04055v1 Announce Type: new  Abstract: The paper considers quantal many-boson systems that are described by a rotationally invariant and boson-number conserving Hamiltonian. The properties of a generic model are studied which treats N bosons of p different kinds with non-zero angular momen…"
+    },
+    {
+      "title": "Out-of-time-order correlators for Swanson Hamiltonian with interaction terms",
+      "link": "https://arxiv.org/abs/2606.04062",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04062v1 Announce Type: new  Abstract: In this work, we compute the out-of-time-ordered correlator (OTOC) for canonical position and momentum operators across a hierarchy of non-Hermitian oscillator models: the exactly solvable Swanson Hamiltonian, its Kerr-nonlinear extension, and paramet…"
+    },
+    {
+      "title": "Quantum circuit partition as a maze: emerging percolation transition via path finding",
+      "link": "https://arxiv.org/abs/2606.04070",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04070v1 Announce Type: new  Abstract: In quantum circuit optimization, circuit partitioning enables the optimization process to be parallelized across multiple devices. Each device is responsible for either reducing the number of selected gates or simplifying the local circuit structure.…"
+    },
+    {
+      "title": "Quantum error correction with the toric code",
+      "link": "https://arxiv.org/abs/2606.04079",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04079v1 Announce Type: new  Abstract: Quantum computing platforms based on arrays of tweezer-confined neutral atoms have recently emerged as a competitive modality thanks to a direct path toward high qubit count, rapidly advancing operation fidelities, and their ability to execute circuit…"
+    },
+    {
+      "title": "Essential Unitarity for Higher-Order Quantum Computation",
+      "link": "https://arxiv.org/abs/2606.04080",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04080v1 Announce Type: new  Abstract: We develop a semantic framework for higher-order quantum computation based on a boundary-centric presentation of compact closed categories, building on Kelly--Laplaza and Abramsky.Morphisms are polarized boundary linkings composed by execution, with a…"
+    },
+    {
+      "title": "Better Pauli Channel Learning with Maximum Likelihood Estimation",
+      "link": "https://arxiv.org/abs/2606.04096",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04096v1 Announce Type: new  Abstract: Error mitigation in a noisy quantum device requires a very good estimate of the noise channel. The accuracy of probabilistic error cancellation is often limited by the high sample complexity of channel tomography. In principle, optimal sample complexi…"
+    },
+    {
+      "title": "Quantum Information Harvesting with the Parallel Quantum Flow Algorithm",
+      "link": "https://arxiv.org/abs/2606.04186",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04186v1 Announce Type: new  Abstract: The Quantum Flow (QFlow) algorithm provides a resource-efficient framework for describing correlated many-body systems on hybrid quantum-classical architectures. By enabling parallel utilization of quantum and classical resources, QFlow offers a scala…"
+    },
+    {
+      "title": "High-Dimensional Quantum Key Distribution via full Core-mode Encoding over Deployed Multicore Fibers",
+      "link": "https://arxiv.org/abs/2606.04211",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04211v1 Announce Type: new  Abstract: Quantum key distribution (QKD) provides information-theoretic security rooted in quantum physics, while high-dimensional (HD) encoding increases both noise tolerance and secret-key yield. Multicore fibers (MCFs), a leading platform for next-generation…"
+    },
+    {
+      "title": "Continuous-Variable Quantum State Tomography Enabled by Quantum Mirrors",
+      "link": "https://arxiv.org/abs/2606.04277",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04277v1 Announce Type: new  Abstract: In quantum technologies, continuous-variable systems offer advantages over their discrete counterparts. However, continuous-variable tomography suffers from exponentially growing sample complexity. We propose protocols using quantum mirrors to transfe…"
+    },
+    {
+      "title": "Quantum simulations of ultrafast optical spectroscopy of semiconductors on digital quantum computers in the semi-classical approximation",
+      "link": "https://arxiv.org/abs/2606.04295",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04295v1 Announce Type: new  Abstract: We present a digital quantum simulation framework for ultrafast optical spectroscopy of semiconductor materials. The framework is based on Brillouin-zone discretization and the second-quantization formalism, and is designed as a quantum alternative to…"
+    },
+    {
+      "title": "Characterization of errors in photon-heralded quantum operations between non-interacting quantum emitters",
+      "link": "https://arxiv.org/abs/2606.04312",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04312v1 Announce Type: new  Abstract: We develop an analytic perturbative framework that enables the analysis of small Markovian errors in probabilistic, photon-heralded quantum operations between non-interacting emitters. Building on and extending the Zero-Photon-Generation (ZPG) framewo…"
+    },
+    {
+      "title": "Spectral Fusion for Identifying Early State Exclusion in Symmetric Quantum Spin Chains",
+      "link": "https://arxiv.org/abs/2606.04353",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04353v1 Announce Type: new  Abstract: Perfect state transfer (PST) in one-dimensional quantum spin chains provides a natural setting in which quantum information transport can be analyzed using spectral methods. In the single-excitation subspace, the dynamics of a chain with nearest-neigh…"
+    },
+    {
+      "title": "Robust Steerability Classification via Key Feature Extraction and Matrix Structure Preservation",
+      "link": "https://arxiv.org/abs/2606.04363",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04363v1 Announce Type: new  Abstract: Generalization ability is essential for assessing the robustness of quantum steerability classifiers. In this work, we investigate robust steerability classification from the perspective of key feature extraction and matrix structure preservation. The…"
+    },
+    {
+      "title": "Optimizing the Sensitivity-Noise Trade-off in Non-Hermitian Sensing via Off-Exceptional-Deficiency Operation",
+      "link": "https://arxiv.org/abs/2606.04386",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780545600,
+      "summary": "arXiv:2606.04386v1 Announce Type: new  Abstract: A central challenge in non-Hermitian sensing is that spectral singularities simultaneously amplify both the signal and environmental noise. We address this predicament in a double-chain Hatano-Nelson model featuring unidirectional interlayer coupling.…"
+    },
+    {
+      "title": "Nanomagnets control diamond qubits, pointing to more scalable quantum hardware",
+      "link": "https://phys.org/news/2026-06-nanomagnets-diamond-qubits-scalable-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 03 Jun 2026 16:20:04 EDT",
+      "published_ts": 1780518004,
+      "summary": "Quantum computing, once only a theoretical possibility, promises to deliver faster, more energy-efficient computers—but only if scientists can build and scale the hardware needed to run the machines. New research from Virginia Commonwealth University brings scientists one small step closer to quantu…"
+    },
+    {
+      "title": "'Don't scare the cat!' Engineers find smarter way to measure quantum systems",
+      "link": "https://phys.org/news/2026-06-dont-cat-smarter-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 03 Jun 2026 14:40:07 EDT",
+      "published_ts": 1780512007,
+      "summary": "UNSW Sydney engineers have riffed on the famous Schrödinger's cat analogy to demonstrate a more efficient way to eliminate errors in quantum computing."
+    },
+    {
+      "title": "Ooredoo, HBKU, Ministry of Defence Launch Qatar’s First Quantum-Safe Network",
+      "link": "https://thequantuminsider.com/2026/06/03/ooredoo-hbku-ministry-of-defence-launch-qatars-first-quantum-safe-network/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 03 Jun 2026 18:26:05 +0000",
+      "published_ts": 1780511165,
+      "summary": "Insider Brief Ooredoo Qatar announced the deployment of the first quantum-safe communications link in Qatar, a project the company says establishes a foundation for next-generation cybersecurity and secure digital infrastructure in the country. According to the Qatar Tribune, the initiative was deve…"
+    },
+    {
+      "title": "Chip-scale 'acoustic atom' controls sound waves to imitate atomic energy levels and advance computing",
+      "link": "https://phys.org/news/2026-06-chip-scale-acoustic-atom-imitate.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 03 Jun 2026 13:00:04 EDT",
+      "published_ts": 1780506004,
+      "summary": "For every action, there is an equal and opposite reaction. What goes up must come down. Physical laws like these govern all of the natural world—except for the tiny internal components of today's microprocessors, which operate according to the unique and complicated rules of quantum physics."
+    },
+    {
+      "title": "Atom Computing Reveals Quantum Error Correction with Toric Code",
+      "link": "https://thequantuminsider.com/2026/06/03/atom-computing-reveals-quantum-error-correction-with-toric-code/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 03 Jun 2026 15:50:34 +0000",
+      "published_ts": 1780501834,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Atom Computing today announced the industry’s first full demonstration of quantum error correction using a toric code. The results show that the company’s neutral-atom system reduces errors as larger numbers of qubits are used in computations, placing Atom Computi…"
+    },
+    {
+      "title": "Illinois Quantum and Microelectronics Park Appoints Philip Makotyn as Deputy CTO",
+      "link": "https://thequantuminsider.com/2026/06/03/illinois-quantum-and-microelectronics-park-announces-philip-makotyn-as-deputy-chief-technology-officer/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 03 Jun 2026 14:46:18 +0000",
+      "published_ts": 1780497978,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Illinois Quantum and Microelectronics Park (IQMP) today announced Dr. Philip Makotyn as its new Deputy Chief Technology Officer, a senior leadership role focused on shaping the Park&#8217;s technical strategy and growth. After nearly twenty years working in Co…"
+    },
+    {
+      "title": "Infineon Advances Post-Quantum Security for Robotics Applications",
+      "link": "https://thequantuminsider.com/2026/06/03/infineon-advances-post-quantum-security-for-robotics-applications/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 03 Jun 2026 12:38:28 +0000",
+      "published_ts": 1780490308,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Infineon Technologies AG (FSE: IFX) (OTCQX: IFNNY) today announces the integration of its OPTIGA™ Trusted Platform Module (TPM) SLB 9672 with NVIDIA&#8217;s Jetson Thor platform. The hardware-based security solution securely stores cryptographic keys and verifies…"
+    },
+    {
+      "title": "AI-Powered Quantum: Microsoft Turns to Agentic AI to Speed Quantum Computing Push",
+      "link": "https://thequantuminsider.com/2026/06/03/ai-powered-quantum-microsoft-turns-to-agentic-ai-to-speed-quantum-computing-push/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 03 Jun 2026 12:00:29 +0000",
+      "published_ts": 1780488029,
+      "summary": "Insider Brief As quantum AI &#8212; the idea that quantum computers could one day enhance artificial intelligence &#8212; steadily climbs the list of anticipated quantum computing use cases, Microsoft says AI is already playing a growing role in advancing its quantum computing program. The company s…"
+    },
+    {
+      "title": "High Q Technologies and Creative Biostructure Advance Quantum EPR Research",
+      "link": "https://thequantuminsider.com/2026/06/03/high-q-technologies-creative-biostructure-partnership/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 03 Jun 2026 11:57:37 +0000",
+      "published_ts": 1780487857,
+      "summary": "Insider Brief PRESS RELEASE &#8212; High Q Technologies, a developer of quantum computing-ready electron paramagnetic resonance (EPR) spectroscopy systems, and Creative Biostructure, a contract research organization in structural biology, today announce a strategic partnership to support wider adopt…"
+    },
+    {
+      "title": "UK Businesses Expect Significant Value from Quantum Computing, Survey Shows",
+      "link": "https://thequantuminsider.com/2026/06/03/uk-enterprises-quantum-computing-survey/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 03 Jun 2026 11:45:20 +0000",
+      "published_ts": 1780487120,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Forty-one percent of large UK enterprises surveyed estimate quantum computing could unlock more than £100 million in value to their business in as little as one year, according to new findings from Censuswide and D-Wave Quantum Inc. (“D-Wave” or the “Company”). Th…"
+    },
+    {
+      "title": "Qunova Joins JHPC-Quantum Test User Program in Japan, Providing Algorithms For Advanced Industrial Computation",
+      "link": "https://thequantuminsider.com/2026/06/03/qunova-joins-jhpc-quantum-test-user-program-in-japan-providing-algorithms-for-advanced-industrial-computation/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 03 Jun 2026 08:19:39 +0000",
+      "published_ts": 1780474779,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qunova Computing, a pioneering maker of software for quantum computing, has signed a Memorandum of Understanding (MoU) with JHPC-quantum (Japan High-Performance Computing), a landmark Japanese national computing initiative funded by NEDO (New Energy and Industrial…"
+    },
+    {
+      "title": "Report: Quantum Computing Could Unlock More Than £100 Million in Value",
+      "link": "https://thequantuminsider.com/2026/06/03/report-quantum-computing-could-unlock-more-than-100-million-in-value/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 03 Jun 2026 08:11:15 +0000",
+      "published_ts": 1780474275,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Forty-one percent of large UK enterprises surveyed estimate quantum computing could unlock more than £100 million in value to their business in as little as one year, according to new findings from&#160;Censuswide&#160;and D-Wave Quantum Inc. (“D-Wave” or the “Com…"
+    },
+    {
+      "title": "QuiX Quantum Installs Real-Time Control Component for Universal Photonic Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/06/03/quix-quantum-installs-real-time-control-component-for-universal-photonic-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 03 Jun 2026 08:09:11 +0000",
+      "published_ts": 1780474151,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum today announced the first installation of its Feed-Forward Control Unit (FFCU), a high-performance hardware component developed for the company’s universal photonic quantum computing architecture. The FFCU is designed to help the system respond to qua…"
+    },
+    {
+      "title": "Cutting a photon in two creates an infinite swarm of particles",
+      "link": "https://phys.org/news/2026-06-photon-infinite-swarm-particles.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 02 Jun 2026 10:20:08 EDT",
+      "published_ts": 1780410008,
+      "summary": "By definition, elementary particles can't be broken into smaller pieces. But in a new theoretical study published in Physical Review Letters, Johannes Skaar and colleagues have revealed what would happen if you tried anyway for a single photon. The answer is deeply strange: attempting to cut a photo…"
+    },
+    {
+      "title": "New light-powered chip could accelerate AI and quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Tue, 02 Jun 2026 00:30:26 EDT",
+      "published_ts": 1780374626,
+      "summary": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light…"
+    },
+    {
+      "title": "Matter may entangle with light far more easily near quantum critical points",
+      "link": "https://phys.org/news/2026-06-entangle-easily-quantum-critical.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 01 Jun 2026 16:00:04 EDT",
+      "published_ts": 1780344004,
+      "summary": "Quantum entanglement is a state in which particles are entwined with each other. In this entwined state, the properties of one particle influence the other, even when they aren't physically close to each other. This phenomenon has often been observed in small quantum systems with only a few particle…"
+    },
+    {
+      "title": "Better math discriminates exotic from classical materials",
+      "link": "https://phys.org/news/2026-05-math-discriminates-exotic-classical-materials.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 01 Jun 2026 11:00:07 EDT",
+      "published_ts": 1780326007,
+      "summary": "The planar Hall effect is a tabletop diagnostic tool for special quantum properties useful in basic research and technological applications. Or so it was thought, because careful calculation by Kobe University researchers clarifies the conditions under which this effect may also appear in classical…"
+    },
+    {
+      "title": "Quantum light gives a 20-fold boost to ultrafast laser processes",
+      "link": "https://phys.org/news/2026-05-quantum-boost-ultrafast-laser.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 30 May 2026 13:00:02 EDT",
+      "published_ts": 1780160402,
+      "summary": "Nonlinear interactions between light and matter are at the heart of some of the most powerful tools in modern optics, but pushing these processes to their limits has long been hampered by a fundamental constraint: the stronger you make the laser, the more likely it is to destroy whatever it illumina…"
+    },
+    {
+      "title": "Stanford quantum computing breakthrough uses twisted light to work without extreme cooling",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260528074028.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Sat, 30 May 2026 01:08:07 EDT",
+      "published_ts": 1780117687,
+      "summary": "A new room-temperature quantum device uses twisted light to entangle photons and electrons, overcoming one of the biggest hurdles in quantum technology. The breakthrough could pave the way for smaller, cheaper quantum systems with applications ranging from secure communications to future AI and comp…"
+    },
+    {
+      "title": "Diamond quantum sensor could reveal elusive altermagnets",
+      "link": "https://phys.org/news/2026-05-diamond-quantum-sensor-reveal-elusive.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 29 May 2026 15:20:02 EDT",
+      "published_ts": 1780082402,
+      "summary": "For nearly a century, there were two known kinds of magnets. Ferromagnets are the classic magnets that attract metal and keep pictures stuck to the refrigerator. Antiferromagnets hide their magnetism at the atomic scale but are increasingly prized for their technological potential. A third category…"
+    },
+    {
+      "title": "Topological states emerge in quantum Hall-superconductor devices with multiple channels",
+      "link": "https://phys.org/news/2026-05-topological-states-emerge-quantum-hall.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 29 May 2026 07:00:01 EDT",
+      "published_ts": 1780052401,
+      "summary": "Topological phases are unusual states of matter that give rise to properties protected by a material's overall structure (i.e., \"topology\"), as opposed to microscopic details. These phases are of great interest for the development of quantum technologies, as they can yield desirable electronic prope…"
+    },
+    {
+      "title": "'Atom Camera' maps laser light at nanoscale using a single ultracold atom",
+      "link": "https://phys.org/news/2026-05-atom-camera-laser-nanoscale-ultracold.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 29 May 2026 05:00:02 EDT",
+      "published_ts": 1780045202,
+      "summary": "A research group led by Assistant Professor Takafumi Tomita and Professor Kenji Ohmori at the Institute for Molecular Science, National Institutes of Natural Sciences, has developed a new microscopy technique called the Atom Camera, which uses a single ultracold atom at near absolute zero temperatur…"
+    },
+    {
+      "title": "New laboratory at MIT aims to advance quantum research for the nation",
+      "link": "https://news.mit.edu/2026/new-laboratory-aims-to-advance-quantum-research-nation-0528",
+      "source": "MIT News — Quantum Computing",
+      "published": "Thu, 28 May 2026 17:20:00 -0400",
+      "published_ts": 1780003200,
+      "summary": "The Quantum Systems Laboratory will catalyze quantum innovation and be open to government, academic, and industry researchers."
+    },
+    {
+      "title": "Quantum vibronics research points to future energy and computing technologies",
+      "link": "https://phys.org/news/2026-05-quantum-vibronics-future-energy-technologies.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 28 May 2026 15:00:02 EDT",
+      "published_ts": 1779994802,
+      "summary": "Scientists at the University of California, Riverside are making breakthroughs in understanding how quantum wave functions move across ultra-thin materials—research that could eventually improve solar energy technologies and help lay the groundwork for new forms of quantum computing."
+    },
+    {
+      "title": "Quantum pendulum clock overcomes classical accuracy limits and sheds light on quantum to classical transitions",
+      "link": "https://phys.org/news/2026-05-quantum-pendulum-clock-classical-accuracy.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 28 May 2026 12:35:27 EDT",
+      "published_ts": 1779986127,
+      "summary": "In a grandfather clock, a pendulum swings back and forth and this periodic motion is maintained using the energy stored in its suspended weights. This is done with the help of the escapement mechanism, which converts the gravitational energy of the weights into impulses that drive the pendulum, whic…"
+    },
+    {
+      "title": "Media Advisory: MIT to establish regional quantum hub",
+      "link": "https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub",
+      "source": "MIT News — Quantum Computing",
+      "published": "Thu, 28 May 2026 12:00:00 -0400",
+      "published_ts": 1779984000,
+      "summary": "With $25 million investment from the Commonwealth of Massachusetts, MIT to build a new shared-use facility to serve as a statewide quantum toolbox."
+    },
+    {
+      "title": "Cobalt honeycombs open a new path to quantum computing",
+      "link": "https://phys.org/news/2026-05-cobalt-honeycombs-path-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 28 May 2026 11:20:05 EDT",
+      "published_ts": 1779981605,
+      "summary": "Honeycombs are famous for their elegant design, but now they may have found a new application: quantum computing. To collect knowledge from subatomic particles, quantum computers require carefully designed materials capable of performing necessary, complex functions. However, the metals used, such a…"
+    },
+    {
+      "title": "The generation of massive Schrödinger cat states using ultracold atoms",
+      "link": "https://phys.org/news/2026-05-generation-massive-schrdinger-cat-states.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 28 May 2026 07:10:01 EDT",
+      "published_ts": 1779966601,
+      "summary": "Quantum mechanics is a physics framework that describes how matter and energy behave at an extremely small scale, specifically at the scale of atoms and subatomic particles. An effect predicted by the laws of quantum mechanics is superposition, which entails that particles can exist in multiple stat…"
+    },
+    {
+      "title": "Q&A: How researchers are building next-gen quantum computers",
+      "link": "https://phys.org/news/2026-05-qa-gen-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 27 May 2026 15:20:03 EDT",
+      "published_ts": 1779909603,
+      "summary": "Quantum computers have the potential to transform science, accelerating breakthroughs in drug development, cosmology, materials science, nuclear physics, and more."
+    },
+    {
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Mon, 18 May 2026 20:23:26 EDT",
+      "published_ts": 1779150206,
+      "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy. The breakthrough may help replace some electronic computing processes with ultra-efficient light-based technology."
+    },
+    {
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Fri, 15 May 2026 04:13:15 EDT",
+      "published_ts": 1778832795,
+      "summary": "NASA is testing a next-generation space computer chip that could give spacecraft the ability to operate far more independently in deep space. The radiation-hardened processor is showing performance levels hundreds of times beyond current spaceflight computers while surviving punishing tests designed…"
+    },
+    {
+      "title": "Researchers “reprogram” materials by quickly rearranging their atoms",
+      "link": "https://news.mit.edu/2026/researchers-reprogram-materials-quickly-rearranging-their-atoms-0513",
+      "source": "MIT News — Quantum Computing",
+      "published": "Wed, 13 May 2026 11:00:00 -0400",
+      "published_ts": 1778684400,
+      "summary": "A new method for precisely moving columns of individual atoms within a material could give rise to exotic quantum properties."
+    },
+    {
+      "title": "Quantum breakthrough could revolutionize teleportation and computing",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Wed, 13 May 2026 03:55:23 EDT",
+      "published_ts": 1778658923,
+      "summary": "Scientists in Japan have developed a new way to instantly detect elusive quantum “W states,” a major milestone for quantum technology. The breakthrough could help unlock faster quantum communication, teleportation, and powerful new computing systems."
+    },
+    {
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Wed, 13 May 2026 03:33:27 EDT",
+      "published_ts": 1778657607,
+      "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quantum materials known as quasicrystals, opening the door to powerful new quantum devices and ultra-effici…"
+    },
+    {
+      "title": "Improving the reliability of circuits for quantum computers",
+      "link": "https://news.mit.edu/2026/improving-circuit-reliability-quantum-computers-0512",
+      "source": "MIT News — Quantum Computing",
+      "published": "Tue, 12 May 2026 05:00:00 -0400",
+      "published_ts": 1778576400,
+      "summary": "A new technique helps scientists measure a phenomenon that can cause quantum circuits to perform differently than expected, increasing the error in computations."
+    },
+    {
+      "title": "JUPITER supercomputer breaks world record with 50-qubit quantum simulation",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260510234715.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Sun, 10 May 2026 23:47:15 EDT",
+      "published_ts": 1778471235,
+      "summary": "Scientists in Germany have pulled off a staggering computing feat by fully simulating a 50-qubit quantum computer for the first time ever using Europe’s new exascale supercomputer, JUPITER. The breakthrough shatters the previous 48-qubit record and highlights just how powerful next-generation superc…"
+    },
+    {
+      "title": "Scientists just sent unhackable quantum keys across 120 kilometers",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260508003129.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Sat, 09 May 2026 19:19:54 EDT",
+      "published_ts": 1778368794,
+      "summary": "Scientists have taken a major step toward ultra-secure quantum communication by demonstrating a remarkably stable quantum encryption system that worked across more than 120 kilometers of optical fiber. Using tiny semiconductor quantum dots that emit single particles of light on demand, the team achi…"
+    },
+    {
+      "title": "Scientists just created exotic new forms of matter that shouldn’t exist",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Mon, 04 May 2026 22:48:12 EDT",
+      "published_ts": 1777949292,
+      "summary": "A new quantum physics study reveals that simply changing a magnetic field over time can unlock entirely new forms of matter that don’t exist under normal conditions. By carefully “driving” materials with timed magnetic shifts, researchers created exotic quantum states that could be far more stable a…"
+    },
+    {
+      "title": "Oxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum physics",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260501052828.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Fri, 01 May 2026 07:54:52 EDT",
+      "published_ts": 1777636492,
+      "summary": "Scientists have created a powerful new way to control quantum systems, achieving the first-ever demonstration of quadsqueezing—an elusive fourth-order quantum effect. By combining simple forces in a clever way, they made previously hidden quantum behaviors visible and usable, opening new frontiers f…"
+    },
+    {
+      "title": "A materials scientist’s playground",
+      "link": "https://news.mit.edu/2026/materials-scientists-playground-0430",
+      "source": "MIT News — Quantum Computing",
+      "published": "Thu, 30 Apr 2026 13:20:00 -0400",
+      "published_ts": 1777569600,
+      "summary": "New system at MIT.nano will support quantum technology research."
+    },
+    {
+      "title": "A photon was teleported across 270 meters in stunning quantum breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260429102030.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Thu, 30 Apr 2026 02:08:37 EDT",
+      "published_ts": 1777529317,
+      "summary": "Scientists have pulled off a first: teleporting a photon’s state between two separate quantum dots. This was done over a 270-meter open-air link, proving quantum information can travel between independent devices. The achievement marks a key step toward building quantum networks for ultra-secure com…"
+    },
+    {
+      "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
+      "link": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
+      "source": "MIT News — Quantum Computing",
+      "published": "Wed, 29 Apr 2026 06:00:00 -0400",
+      "published_ts": 1777456800,
+      "summary": "Building on a long-standing MIT–IBM collaboration, the new lab will chart the convergence of AI, algorithms, and quantum computing."
+    },
+    {
+      "title": "New chip can protect wireless biomedical devices from quantum attacks",
+      "link": "https://news.mit.edu/2026/new-chip-can-protect-wireless-biomedical-devices-from-quantum-attacks-0423",
+      "source": "MIT News — Quantum Computing",
+      "published": "Thu, 23 Apr 2026 00:00:00 -0400",
+      "published_ts": 1776916800,
+      "summary": "Ultra-efficient chip design enables extremely strong cryptography algorithms to run on energy-constrained edge devices."
+    },
+    {
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Sat, 18 Apr 2026 03:32:36 EDT",
+      "published_ts": 1776497556,
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a…"
+    },
+    {
+      "title": "Quantum AI just got shockingly good at predicting chaos",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Fri, 17 Apr 2026 23:51:09 EDT",
+      "published_ts": 1776484269,
+      "summary": "Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI becomes more accurate and stable over time. The method outperformed standard models while using far…"
+    },
+    {
+      "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Mon, 13 Apr 2026 08:38:46 EDT",
+      "published_ts": 1776083926,
+      "summary": "In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an entirely new quantum system – based on the novel concept of ‘giant superatoms’. This breakthrough enables quantum information to be protected, controlle…"
+    },
+    {
+      "title": "Quantum computers keep losing data. This breakthrough finally tracks it",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260407193857.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Wed, 08 Apr 2026 01:02:44 EDT",
+      "published_ts": 1775624564,
+      "summary": "Quantum computers struggle with a major flaw: their information vanishes unpredictably. Scientists have now created a new method that can measure this loss over 100 times faster than before. By tracking changes in near real time, researchers can finally see what’s going wrong inside these systems. T…"
+    },
+    {
+      "title": "Sixteen new START.nano companies are developing hard-tech solutions with the support of MIT.nano",
+      "link": "https://news.mit.edu/2026/sixteen-new-startnano-companies-developing-hard-tech-solutions-with-mitnano-0407",
+      "source": "MIT News — Quantum Computing",
+      "published": "Tue, 07 Apr 2026 16:40:00 -0400",
+      "published_ts": 1775594400,
+      "summary": "Startup accelerator program grows to over 30 companies, almost half of them with MIT pedigrees."
+    },
+    {
+      "title": "Sustaining diplomacy amid competition in US-China relations",
+      "link": "https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318",
+      "source": "MIT News — Quantum Computing",
+      "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+      "published_ts": 1773806400,
+      "summary": "At MIT, former U.S. ambassador to China Nicholas Burns highlights climate change as an area for diplomatic engagement, while exploring areas including China's emphasis on STEM education."
+    },
+    {
+      "title": "New photonic device efficiently beams light into free space",
+      "link": "https://news.mit.edu/2026/new-photonic-device-efficiently-beams-light-free-space-0311",
+      "source": "MIT News — Quantum Computing",
+      "published": "Wed, 11 Mar 2026 12:00:00 -0400",
+      "published_ts": 1773244800,
+      "summary": "Light-emitting structures that curl off the chip surface could enable advanced displays, high-speed optical communications, and larger-scale quantum computers."
+    },
+    {
+      "title": "Efficient cooling method could enable chip-based trapped-ion quantum computers",
+      "link": "https://news.mit.edu/2026/efficient-cooling-method-could-enable-chip-based-quantum-computers-0115",
+      "source": "MIT News — Quantum Computing",
+      "published": "Thu, 15 Jan 2026 13:00:00 -0500",
+      "published_ts": 1768500000,
+      "summary": "New technique could improve the scalability of trapped-ion quantum computers, an essential step toward making them practically useful."
+    },
+    {
+      "title": "Anything-goes “anyons” may be at the root of surprising quantum experiments",
+      "link": "https://news.mit.edu/2025/anything-goes-anyons-may-be-root-surprising-quantum-experiments-1222",
+      "source": "MIT News — Quantum Computing",
+      "published": "Mon, 22 Dec 2025 10:00:00 -0500",
+      "published_ts": 1766415600,
+      "summary": "MIT physicists say these quasiparticles may explain how superconductivity and magnetism can coexist in certain materials."
+    },
+    {
+      "title": "Teen builds an award-winning virtual reality prototype thanks to free MIT courses",
+      "link": "https://news.mit.edu/2025/teen-builds-vr-prototype-thanks-to-mit-opencourseware-1217",
+      "source": "MIT News — Quantum Computing",
+      "published": "Wed, 17 Dec 2025 13:50:00 -0500",
+      "published_ts": 1765997400,
+      "summary": "Nineteen-year-old Freesia Gaul built a VR prototype thanks to MIT OpenCourseWare classes that provided “a solid foundation of knowledge and problem-solving abilities.”"
+    },
+    {
+      "title": "Quantum modeling for breakthroughs in materials science and sustainable energy",
+      "link": "https://news.mit.edu/2025/quantum-modeling-breakthroughs-materials-science-sustainable-energy-ernest-opoku-1119",
+      "source": "MIT News — Quantum Computing",
+      "published": "Wed, 19 Nov 2025 16:00:00 -0500",
+      "published_ts": 1763586000,
+      "summary": "Quantum chemist and School of Science Dean’s Postdoctoral Fellow Ernest Opoku is working on computational methods to study how electrons behave."
+    },
+    {
+      "title": "From nanoscale to global scale: Advancing MIT’s special initiatives in manufacturing, health, and climate",
+      "link": "https://news.mit.edu/2025/nanoscale-global-scale-advancing-mit-special-initiatives-manufacturing-health-climate-1113",
+      "source": "MIT News — Quantum Computing",
+      "published": "Thu, 13 Nov 2025 15:45:00 -0500",
+      "published_ts": 1763066700,
+      "summary": "MIT.nano cleanroom complex named after Robert Noyce PhD ’53 at the 2025 Nano Summit."
+    }
+  ]
+}
