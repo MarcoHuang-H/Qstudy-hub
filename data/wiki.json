@@ -3,7 +3,7 @@
     {
       "id": "basics",
       "title": "基礎概念",
-      "articles": ["qubit", "superposition", "entanglement", "quantum-gate", "decoherence", "qec"]
+      "articles": ["qubit", "superposition", "entanglement", "quantum-gate", "gate-basics", "decoherence", "qec"]
     },
     {
       "id": "hardware",
@@ -79,7 +79,70 @@
         {"type": "h", "text": "通用閘集"},
         {"type": "p", "text": "只要有一組「通用閘集」（例如 {H, T, CNOT}），就能組合出任意量子運算，如同古典電腦用 NAND 閘可組出任何邏輯。"}
       ],
-      "related": ["qubit", "superposition", "entanglement"]
+      "related": ["qubit", "superposition", "entanglement", "gate-basics"]
+    },
+    {
+      "id": "gate-basics",
+      "title": "Gate 基本操作（1-Qubit / 2-Qubit）",
+      "category": "basics",
+      "summary": "常見單位元與雙位元量子閘的矩陣、物理意義、在 Bloch 球上的旋轉，附互動式動畫與線路圖。",
+      "body": [
+        {"type": "p", "text": "量子閘都是么正（unitary）矩陣，作用在 qubit 上是可逆操作。單位元閘在 Bloch 球上等同於一次「旋轉」：么正算符 $U=e^{-i\\frac{\\theta}{2}(\\hat{n}\\cdot\\vec{\\sigma})}$ 會讓 Bloch 向量繞著軸 $\\hat{n}$ 旋轉 $\\theta$ 角。下面先看單位元閘，再看雙位元閘。"},
+
+        {"type": "h", "text": "🎮 互動式 Bloch 球（點按鈕看旋轉）"},
+        {"type": "bloch", "gates": "X,Y,Z,H,S,T,Rx,Ry,Rz", "state": "0", "caption": "從 |0⟩ 出發，點任一個閘觀察 Bloch 向量如何旋轉；↺ 可重設回 |0⟩。"},
+
+        {"type": "h", "text": "── 1-Qubit 閘 ──"},
+
+        {"type": "h", "text": "Pauli-X 閘"},
+        {"type": "p", "text": "量子版的 NOT 閘：把 $|0\\rangle$ 變 $|1\\rangle$、$|1\\rangle$ 變 $|0\\rangle$。幾何上繞 Bloch 球 X 軸旋轉 180°（π）。"},
+        {"type": "math", "tex": "X=\\begin{pmatrix}0&1\\\\1&0\\end{pmatrix}\\quad X|0\\rangle=|1\\rangle,\\;X|1\\rangle=|0\\rangle"},
+
+        {"type": "h", "text": "Pauli-Y 閘"},
+        {"type": "p", "text": "同時翻轉位元狀態與相位（帶入虛數 $i$）。幾何上繞 Y 軸旋轉 180°。"},
+        {"type": "math", "tex": "Y=\\begin{pmatrix}0&-i\\\\i&0\\end{pmatrix}"},
+
+        {"type": "h", "text": "Pauli-Z 閘"},
+        {"type": "p", "text": "相位翻轉閘（Phase-flip）：$|0\\rangle$ 保持不變，$|1\\rangle$ 變成 $-|1\\rangle$。幾何上繞 Z 軸旋轉 180°——在赤道上會把 $|+\\rangle$ 轉到 $|-\\rangle$。"},
+        {"type": "math", "tex": "Z=\\begin{pmatrix}1&0\\\\0&-1\\end{pmatrix}"},
+
+        {"type": "h", "text": "Hadamard 閘 (H)"},
+        {"type": "p", "text": "製造疊加態的最核心工具：把 $|0\\rangle$ 或 $|1\\rangle$ 變成機率各半的疊加態。幾何上繞 $X+Z$ 軸旋轉 180°，把 Z 軸的點轉到 X 軸（$|0\\rangle\\to|+\\rangle$、$|1\\rangle\\to|-\\rangle$）。"},
+        {"type": "math", "tex": "H=\\frac{1}{\\sqrt{2}}\\begin{pmatrix}1&1\\\\1&-1\\end{pmatrix}\\quad H|0\\rangle=\\tfrac{|0\\rangle+|1\\rangle}{\\sqrt2},\\;H|1\\rangle=\\tfrac{|0\\rangle-|1\\rangle}{\\sqrt2}"},
+
+        {"type": "h", "text": "Phase 閘（S 與 T）"},
+        {"type": "p", "text": "微調位元相位的專用閘。S 閘繞 Z 軸轉 90°（π/2），T 閘繞 Z 軸轉 45°（π/4）。在量子演算法中，T 閘是跨越古典計算障礙的關鍵閘（非 Clifford 閘）。"},
+        {"type": "math", "tex": "S=\\begin{pmatrix}1&0\\\\0&i\\end{pmatrix}\\qquad T=\\begin{pmatrix}1&0\\\\0&e^{i\\pi/4}\\end{pmatrix}"},
+
+        {"type": "h", "text": "通用旋轉閘（Rx, Ry, Rz）"},
+        {"type": "p", "text": "可帶入任意參數 $\\theta$，精準控制 Bloch 向量繞 X / Y / Z 軸轉動的角度。超導硬體常以這些連續旋轉閘為原生操作。"},
+        {"type": "math", "tex": "R_x(\\theta)=\\begin{pmatrix}\\cos\\frac{\\theta}{2}&-i\\sin\\frac{\\theta}{2}\\\\-i\\sin\\frac{\\theta}{2}&\\cos\\frac{\\theta}{2}\\end{pmatrix},\\;R_y(\\theta)=\\begin{pmatrix}\\cos\\frac{\\theta}{2}&-\\sin\\frac{\\theta}{2}\\\\\\sin\\frac{\\theta}{2}&\\cos\\frac{\\theta}{2}\\end{pmatrix},\\;R_z(\\theta)=\\begin{pmatrix}e^{-i\\theta/2}&0\\\\0&e^{i\\theta/2}\\end{pmatrix}"},
+
+        {"type": "h", "text": "── 2-Qubit 閘 ──"},
+        {"type": "p", "text": "雙位元閘是用來讓兩個位元產生交互作用、進而製造量子糾纏的命脈。矩陣作用在 4 維基底 $\\{|00\\rangle,|01\\rangle,|10\\rangle,|11\\rangle\\}$ 上。"},
+
+        {"type": "h", "text": "CNOT 閘（又稱 CX 閘）"},
+        {"type": "p", "text": "條件翻轉（Controlled-NOT）：當控制位元為 $|1\\rangle$ 時，翻轉目標位元。這是演算法工程師最常用的標準雙位元閘，也是製造貝爾態的關鍵。"},
+        {"type": "math", "tex": "\\text{CNOT}=\\begin{pmatrix}1&0&0&0\\\\0&1&0&0\\\\0&0&0&1\\\\0&0&1&0\\end{pmatrix}"},
+        {"type": "svg", "caption": "CNOT 線路：上為控制位元（●），下為目標位元（⊕）。", "svg": "<svg viewBox='0 0 260 110' width='260'><line class='qline' x1='30' y1='30' x2='240' y2='30'/><line class='qline' x1='30' y1='80' x2='240' y2='80'/><text class='qlabel' x='2' y='34'>q0</text><text class='qlabel' x='2' y='84'>q1</text><line x1='135' y1='30' x2='135' y2='80' stroke='#6c7bff' stroke-width='2'/><circle cx='135' cy='30' r='6' fill='#6c7bff'/><circle cx='135' cy='80' r='13' fill='none' stroke='#6c7bff' stroke-width='2'/><line x1='122' y1='80' x2='148' y2='80' stroke='#6c7bff' stroke-width='2'/><line x1='135' y1='67' x2='135' y2='93' stroke='#6c7bff' stroke-width='2'/></svg>"},
+
+        {"type": "h", "text": "CZ 閘（Controlled-Z）"},
+        {"type": "p", "text": "條件相位翻轉：只有當兩個位元同時為 $|11\\rangle$ 時，才在前面加上一個負號（變成 $-|11\\rangle$），其餘狀態（$|00\\rangle,|01\\rangle,|10\\rangle$）完全不動。因為它在物理上對稱且好實現，很多超導硬體喜歡用它當原生閘。"},
+        {"type": "math", "tex": "\\text{CZ}=\\begin{pmatrix}1&0&0&0\\\\0&1&0&0\\\\0&0&1&0\\\\0&0&0&-1\\end{pmatrix}=\\mathrm{diag}(1,1,1,-1)"},
+
+        {"type": "h", "text": "SWAP 閘"},
+        {"type": "p", "text": "交換閘：把兩個位元的量子狀態直接互換（$|01\\rangle\\leftrightarrow|10\\rangle$）。可由三個 CNOT 串接而成。"},
+        {"type": "math", "tex": "\\text{SWAP}=\\begin{pmatrix}1&0&0&0\\\\0&0&1&0\\\\0&1&0&0\\\\0&0&0&1\\end{pmatrix}"},
+
+        {"type": "h", "text": "iSWAP 閘"},
+        {"type": "p", "text": "交換狀態的同時，為交換後的狀態引入一個虛數相位 $i$。這是許多超導晶片的物理天生特性（由 XX+YY 交互作用自然產生）。"},
+        {"type": "math", "tex": "\\text{iSWAP}=\\begin{pmatrix}1&0&0&0\\\\0&0&i&0\\\\0&i&0&0\\\\0&0&0&1\\end{pmatrix}"},
+
+        {"type": "h", "text": "範例：用 H + CNOT 製造貝爾態"},
+        {"type": "p", "text": "先對 q0 施加 H 產生疊加，再用 CNOT 讓 q0、q1 糾纏，得到貝爾態 $\\frac{1}{\\sqrt2}(|00\\rangle+|11\\rangle)$。"},
+        {"type": "svg", "caption": "貝爾態線路：q0 過 H 後作為控制位元，對 q1 做 CNOT。", "svg": "<svg viewBox='0 0 300 110' width='300'><line class='qline' x1='30' y1='30' x2='280' y2='30'/><line class='qline' x1='30' y1='80' x2='280' y2='80'/><text class='qlabel' x='2' y='34'>q0</text><text class='qlabel' x='2' y='84'>q1</text><rect x='70' y='14' width='32' height='32' rx='5' fill='#161d33' stroke='#38d9d2' stroke-width='1.5'/><text x='86' y='35' fill='#e4e9f5' font='14px Helvetica' text-anchor='middle'>H</text><line x1='170' y1='30' x2='170' y2='80' stroke='#6c7bff' stroke-width='2'/><circle cx='170' cy='30' r='6' fill='#6c7bff'/><circle cx='170' cy='80' r='13' fill='none' stroke='#6c7bff' stroke-width='2'/><line x1='157' y1='80' x2='183' y2='80' stroke='#6c7bff' stroke-width='2'/><line x1='170' y1='67' x2='170' y2='93' stroke='#6c7bff' stroke-width='2'/></svg>"}
+      ],
+      "related": ["quantum-gate", "hadamard-gate", "cnot-bell", "cz-gate", "bloch-decomposition"]
     },
     {
       "id": "decoherence",
@@ -307,9 +370,11 @@
         {"type": "h", "text": "核心功能：創造疊加態"},
         {"type": "p", "text": "H 閘把確定的基態（Basis State）轉換為疊加態（Superposition State）。經過 H 閘後，qubit 不再是單純的 0 或 1，而是兩者同時存在——測量時各有 50% 機率得到 0 或 1。\n  H|0⟩ = (|0⟩ + |1⟩)/√2 = |+⟩\n  H|1⟩ = (|0⟩ − |1⟩)/√2 = |−⟩"},
         {"type": "h", "text": "數學定義"},
-        {"type": "p", "text": "H 是一個 2×2 的么正矩陣（Unitary Matrix），元素為 1/√2 × [[1, 1], [1, −1]]。作用於運算基底（|0⟩、|1⟩）就是進行矩陣乘法。"},
+        {"type": "p", "text": "H 是一個 2×2 的么正矩陣（Unitary Matrix），作用於運算基底就是進行矩陣乘法："},
+        {"type": "math", "tex": "H=\\frac{1}{\\sqrt{2}}\\begin{pmatrix}1&1\\\\1&-1\\end{pmatrix},\\quad H|0\\rangle=\\frac{|0\\rangle+|1\\rangle}{\\sqrt2}=|+\\rangle,\\quad H|1\\rangle=\\frac{|0\\rangle-|1\\rangle}{\\sqrt2}=|-\\rangle"},
         {"type": "h", "text": "Bloch 球上的幾何意義"},
-        {"type": "p", "text": "H 閘相當於把狀態向量繞 X+Z 軸旋轉 180°。它把位於 Z 軸（垂直）的向量轉到 X 軸（水平）：|0⟩→|+⟩、|1⟩→|−⟩。本質上是把測量「基底」從 Z 基底（測 0 或 1）切換到 X 基底（測正號或負號）。再做一次 H 會轉回原狀態，因為 H·H = I。"},
+        {"type": "p", "text": "H 閘相當於把狀態向量繞 $X+Z$ 軸旋轉 180°。它把位於 Z 軸（垂直）的向量轉到 X 軸（水平）：$|0\\rangle\\to|+\\rangle$、$|1\\rangle\\to|-\\rangle$。本質上是把測量「基底」從 Z 基底（測 0 或 1）切換到 X 基底（測正號或負號）。再做一次 H 會轉回原狀態，因為 $H\\cdot H = I$。"},
+        {"type": "bloch", "gates": "H,X,Z", "state": "0", "caption": "點 H 看 |0⟩ 如何繞 X+Z 軸轉到赤道上的 |+⟩；再點一次 H 轉回 |0⟩。"},
         {"type": "h", "text": "物理意義：機率平權與相位"},
         {"type": "p", "text": "H 不只是製造 50/50 的機率平權（Equisuperposition），還引入了「相位」。處於赤道上的疊加態雖然測量都是 50% 的 0 或 1，但相位（Phase）決定了這個疊加態的本質（|+⟩ 與 |−⟩ 相位差 π）。H 把「非黑即白」的狀態，精準推向「既黑又白」且具特定相位的疊加態。"}
       ],
@@ -322,8 +387,11 @@
       "summary": "受控反閘搭配 H 閘製造糾纏的貝爾態，是量子通訊與隱形傳態的基礎。",
       "body": [
         {"type": "p", "text": "CNOT 閘（受控反閘）作用於兩個位元：控制位元（Control）與目標位元（Target）。邏輯遵循「若且唯若」原則——只有當控制位元為 1 時，才翻轉目標位元；控制位元為 0 時目標不變。"},
+        {"type": "math", "tex": "\\text{CNOT}=\\begin{pmatrix}1&0&0&0\\\\0&1&0&0\\\\0&0&0&1\\\\0&0&1&0\\end{pmatrix}\\quad|10\\rangle\\to|11\\rangle,\\;|11\\rangle\\to|10\\rangle"},
         {"type": "h", "text": "製造貝爾態"},
-        {"type": "p", "text": "CNOT 最著名的用途是與 H 閘配合產生「貝爾態」（Bell State），展示量子力學最核心的特性——量子糾纏。步驟：\n  1. 初始狀態：兩個位元都在基態 |00⟩。\n  2. 對第一個位元施加 H 閘 → 第一個位元進入疊加，但兩位元尚未糾纏（仍可分離），這步先做「耦合」準備。\n  3. 施加 CNOT → 依第一個位元狀態決定是否翻轉第二個位元。結果得到 (|00⟩ + |11⟩)/√2，兩個位元無法再分離。"},
+        {"type": "p", "text": "CNOT 最著名的用途是與 H 閘配合產生「貝爾態」（Bell State），展示量子力學最核心的特性——量子糾纏。"},
+        {"type": "math", "tex": "|00\\rangle\\xrightarrow{H\\otimes I}\\frac{|00\\rangle+|10\\rangle}{\\sqrt2}\\xrightarrow{\\text{CNOT}}\\frac{|00\\rangle+|11\\rangle}{\\sqrt2}\\equiv|\\Phi^+\\rangle"},
+        {"type": "p", "text": "步驟：\n  1. 初始狀態：兩個位元都在基態 $|00\\rangle$。\n  2. 對第一個位元施加 H 閘 → 第一個位元進入疊加，但兩位元尚未糾纏（仍可分離），這步先做「耦合」準備。\n  3. 施加 CNOT → 依第一個位元狀態決定是否翻轉第二個位元。結果得到 $\\frac{1}{\\sqrt2}(|00\\rangle+|11\\rangle)$，兩個位元無法再分離。"},
         {"type": "h", "text": "為什麼叫「糾纏」"},
         {"type": "p", "text": "在輸出態 (|00⟩+|11⟩)/√2 中，系統不再能拆解為兩個獨立位元的乘積。\n• 相關性：測量第一個位元得到 0，第二個必為 0；得到 1，第二個必為 1。\n• 超距作用：無論兩位元相隔多遠，這種測量相關性都存在。"},
         {"type": "h", "text": "硬體上如何達成糾纏"},
@@ -343,7 +411,8 @@
         {"type": "h", "text": "物理層次：讓兩個 Qubit 溝通"},
         {"type": "p", "text": "超導電路中兩個 Qubit 通常透過電容或耦合器（Coupler）連接，頻率相距遠時互不干擾。實現 CZ 最常見的方法是用 Flux Signal（磁通訊號）做「頻率調諧」：\n• 頻率接近：用 Flux 調整其中一個 Qubit 頻率，使其靠近另一位元的特定能階。\n• 絕熱交互作用（Adiabatic）：不希望真的發生能量交換，而是讓位元靠近產生排斥/吸引效應。\n• 相位累積：當兩位元同時處於 |11⟩ 時，因耦合效應能量發生微小偏移，經一段時間後只有 |11⟩ 獲得額外相位（通常設為 π）。"},
         {"type": "h", "text": "數學層次：相位如何產生糾纏"},
-        {"type": "p", "text": "CZ 的矩陣是對角矩陣 diag(1, 1, 1, −1)：只有控制與目標都是 1（|11⟩）時，狀態才多一個負號（π 相位移）。讓控制位元先過 H 進入疊加、再施加 CZ，只有 |11⟩ 分量變號，就產生了糾纏態（貝爾態的變體）。"},
+        {"type": "math", "tex": "\\text{CZ}=\\mathrm{diag}(1,1,1,-1)=\\begin{pmatrix}1&0&0&0\\\\0&1&0&0\\\\0&0&1&0\\\\0&0&0&-1\\end{pmatrix}"},
+        {"type": "p", "text": "只有控制與目標都是 1（$|11\\rangle$）時，狀態才多一個負號（π 相位移）。讓控制位元先過 H 進入疊加、再施加 CZ，只有 $|11\\rangle$ 分量變號，就產生了糾纏態（貝爾態的變體）。CZ 與 CNOT 的關係為 $\\text{CNOT}=(I\\otimes H)\\,\\text{CZ}\\,(I\\otimes H)$。"},
         {"type": "h", "text": "與標準貝爾態的關係"},
         {"type": "p", "text": "CZ 產生的糾纏態看似與標準貝爾態 (|00⟩+|11⟩)/√2 不同，但透過單位元局域操作（Local Operations）可互相轉換——對第二個位元再做一次 H 閘，就會變回標準貝爾態。"},
         {"type": "h", "text": "與硬體的關聯：CZ vs CNOT"},
@@ -465,7 +534,9 @@
       "body": [
         {"type": "p", "text": "Grover 演算法由 Lov Grover 於 1996 年提出，解決「在無結構資料庫中搜尋特定目標」的問題。傳統電腦像在堆滿雜物的房間一格格找鑰匙；Grover 像擁有超能力讓那把鑰匙在黑暗中逐漸發光，直到一眼就能看見。"},
         {"type": "h", "text": "核心：振幅放大"},
-        {"type": "p", "text": "量子世界中所有可能結果最初並存且機率均等。Grover 的目的不是「排除」錯誤答案，而是透過干涉不斷增加正確答案的機率振幅、削減錯誤答案的振幅。對 N 個元素的資料庫：傳統演算法平均檢查 N/2 次、最差 N 次，複雜度 O(N)；Grover 只需約 √N 次，複雜度 O(√N)。"},
+        {"type": "p", "text": "量子世界中所有可能結果最初並存且機率均等。Grover 的目的不是「排除」錯誤答案，而是透過干涉不斷增加正確答案的機率振幅、削減錯誤答案的振幅。對 $N$ 個元素的資料庫，古典與量子的複雜度對比："},
+        {"type": "math", "tex": "\\text{古典：}O(N)\\qquad\\text{Grover：}O(\\sqrt{N}),\\quad\\text{最佳疊代次數}\\approx\\frac{\\pi}{4}\\sqrt{N}"},
+        {"type": "p", "text": "擴散算子「關於平均值的翻轉」對每個振幅 $a_i$ 的作用是 $a_i \\to 2\\mu - a_i$（$\\mu$ 為所有振幅平均值）。被 Oracle 標記成負值的目標距離平均最遠，翻轉後正振幅大幅跳升。"},
         {"type": "h", "text": "三個階段"},
         {"type": "p", "text": "1. 初始化：所有 qubit 設為均勻疊加態（所有答案機率相同）。\n2. 神諭算子（Oracle）：「標記」正確答案——不改變機率，而是把正確答案的相位翻轉 180°（振幅從正變負）。\n3. 擴散算子（Diffusion Operator）：又稱「關於平均值的翻轉」（Inversion about the Mean）。計算所有振幅平均值，再以平均值為鏡面翻轉每個振幅。被標記成負值的正確答案距離平均最遠，翻轉後正振幅大幅跳升；錯誤答案則縮減。"},
         {"type": "h", "text": "疊代與測量"},

@@ -20,12 +20,17 @@
     `<a href="index.html" class="brand">⚛ <span class="brand-text">Quantum Hub</span></a>` +
     `<nav class="side-nav">` +
     links
-      .map(
-        (l) =>
+      .map((l) => {
+        const linkHTML =
           `<a href="${l.href}" class="side-link ${l.key === page ? "on" : ""}" title="${l.label}">` +
           `<span class="side-icon">${l.icon}</span>` +
-          `<span class="side-label">${l.label}</span></a>`
-      )
+          `<span class="side-label">${l.label}</span></a>`;
+        // Wiki gets a sub-menu placeholder (filled in async below)
+        if (l.key === "wiki") {
+          return linkHTML + `<div class="side-sub" id="wiki-submenu"></div>`;
+        }
+        return linkHTML;
+      })
       .join("") +
     `</nav>`;
 
@@ -81,6 +86,57 @@
   backdrop.addEventListener("click", () =>
     document.body.classList.remove("sidebar-open")
   );
+
+  // ── Wiki sub-menu (categories → topics), expandable ──
+  const currentArticle = new URLSearchParams(location.search).get("id");
+  const SUBKEY = "qhub-wiki-open";
+  fetch("data/wiki.json")
+    .then((r) => r.json())
+    .then((wiki) => {
+      const box = document.getElementById("wiki-submenu");
+      if (!box) return;
+      // which category should start expanded: the one containing the current article
+      let openCat = localStorage.getItem(SUBKEY) || "";
+      if (currentArticle) {
+        const found = wiki.categories.find((c) => c.articles.includes(currentArticle));
+        if (found) openCat = found.id;
+      }
+      box.innerHTML = wiki.categories
+        .map((cat) => {
+          const items = cat.articles
+            .map((aid) => {
+              const art = wiki.articles.find((a) => a.id === aid);
+              if (!art) return "";
+              const on = aid === currentArticle ? "on" : "";
+              return `<a href="article.html?id=${encodeURIComponent(aid)}" class="sub-topic ${on}">${art.title}</a>`;
+            })
+            .join("");
+          const isOpen = cat.id === openCat;
+          return (
+            `<div class="sub-cat ${isOpen ? "open" : ""}" data-cat="${cat.id}">` +
+            `<button class="sub-cat-head">${cat.title}</button>` +
+            `<div class="sub-cat-body">${items}</div>` +
+            `</div>`
+          );
+        })
+        .join("");
+
+      box.querySelectorAll(".sub-cat-head").forEach((btn) => {
+        btn.addEventListener("click", (e) => {
+          e.preventDefault();
+          const cat = btn.parentElement;
+          const wasOpen = cat.classList.contains("open");
+          box.querySelectorAll(".sub-cat").forEach((c) => c.classList.remove("open"));
+          if (!wasOpen) {
+            cat.classList.add("open");
+            localStorage.setItem(SUBKEY, cat.dataset.cat);
+          } else {
+            localStorage.setItem(SUBKEY, "");
+          }
+        });
+      });
+    })
+    .catch(() => {});
 })();
 
 // ── Shared helpers ──
