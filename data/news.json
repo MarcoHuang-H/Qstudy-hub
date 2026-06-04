@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1780551613,
+  "generated_ts": 1780566660,
   "items": [
+    {
+      "title": "C12 Introduces Nanoassembly Process for Carbon Nanotube Quantum Chips",
+      "link": "https://thequantuminsider.com/2026/06/04/c12-introduces-nanoassembly-process-for-carbon-nanotube-quantum-chips/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 09:07:41 +0000",
+      "published_ts": 1780564061,
+      "summary": "Insider Brief PRESS RELEASE &#8212; C12, a Paris-based quantum computing company developing carbon nanotube spin qubit processors,&#160; today announced its proprietary Pick &#38; Place nanoassembly technology: a custom-built, patented nanoassembly method developed entirely in-house to transfer indi…"
+    },
+    {
+      "title": "QuantX Labs Announces Seed Round With Serendipity Capital Lead Investor",
+      "link": "https://thequantuminsider.com/2026/06/04/quantx-labs-announces-seed-round-with-serendipity-capital-lead-investor/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 08:41:20 +0000",
+      "published_ts": 1780562480,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Serendipity Capital, a leading global investor in critical technologies, announced today that it has led the seed fundraising round for QuantX Labs, an Australian company at the forefront of quantum sensing for applications including Positioning, Navigation and Ti…"
+    },
+    {
+      "title": "Quantinuum to Debut on Nasdaq After Raising $1.68 Billion in IPO",
+      "link": "https://thequantuminsider.com/2026/06/04/quantinuum-to-debut-on-nasdaq-after-raising-1-68-billion-in-ipo/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 08:26:16 +0000",
+      "published_ts": 1780561576,
+      "summary": "Insider Brief Quantinuum is set to begin trading on the Nasdaq today (June 4) after raising $1.68 billion in one of the largest quantum computing initial public offerings to date, a closely watched debut that could shape investor sentiment across the emerging sector. The Broomfield, Colorado-based c…"
+    },
+    {
+      "title": "Yaqumo, NKT Photonics and Hamamatsu Photonics Sign Quantum Photonics Agreement",
+      "link": "https://thequantuminsider.com/2026/06/04/yaqumo-nkt-photonics-and-hamamatsu-photonics-sign-quantum-photonics-agreement/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 07:54:20 +0000",
+      "published_ts": 1780559660,
+      "summary": "Insider Brief PRESS RELEASE &#8212; As the industrialization of quantum computing accelerates worldwide, the advancement and stable procurement of optical core components and materials that fundamentally underpin system performance have become critical challenges — beyond the development of quantum…"
+    },
+    {
+      "title": "Quantum Design Acquires Quantum Sensing Company Qnami",
+      "link": "https://thequantuminsider.com/2026/06/04/quantum-design-acquires-quantum-sensing-company-qnami/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 07:46:49 +0000",
+      "published_ts": 1780559209,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Design International, Inc., a leading global provider of scientific instrumentation and advanced materials characterization solutions, announced the acquisition of Qnami, a pioneer in diamond-based quantum sensing technologies. The transaction enhances Qua…"
+    },
     {
       "title": "Graphical and algebraic methods for Boolean factoring",
       "link": "https://arxiv.org/abs/2606.04038",
@@ -184,46 +224,6 @@
       "published": "Wed, 03 Jun 2026 12:00:29 +0000",
       "published_ts": 1780488029,
       "summary": "Insider Brief As quantum AI &#8212; the idea that quantum computers could one day enhance artificial intelligence &#8212; steadily climbs the list of anticipated quantum computing use cases, Microsoft says AI is already playing a growing role in advancing its quantum computing program. The company s…"
-    },
-    {
-      "title": "High Q Technologies and Creative Biostructure Advance Quantum EPR Research",
-      "link": "https://thequantuminsider.com/2026/06/03/high-q-technologies-creative-biostructure-partnership/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 11:57:37 +0000",
-      "published_ts": 1780487857,
-      "summary": "Insider Brief PRESS RELEASE &#8212; High Q Technologies, a developer of quantum computing-ready electron paramagnetic resonance (EPR) spectroscopy systems, and Creative Biostructure, a contract research organization in structural biology, today announce a strategic partnership to support wider adopt…"
-    },
-    {
-      "title": "UK Businesses Expect Significant Value from Quantum Computing, Survey Shows",
-      "link": "https://thequantuminsider.com/2026/06/03/uk-enterprises-quantum-computing-survey/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 11:45:20 +0000",
-      "published_ts": 1780487120,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Forty-one percent of large UK enterprises surveyed estimate quantum computing could unlock more than £100 million in value to their business in as little as one year, according to new findings from Censuswide and D-Wave Quantum Inc. (“D-Wave” or the “Company”). Th…"
-    },
-    {
-      "title": "Qunova Joins JHPC-Quantum Test User Program in Japan, Providing Algorithms For Advanced Industrial Computation",
-      "link": "https://thequantuminsider.com/2026/06/03/qunova-joins-jhpc-quantum-test-user-program-in-japan-providing-algorithms-for-advanced-industrial-computation/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 08:19:39 +0000",
-      "published_ts": 1780474779,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qunova Computing, a pioneering maker of software for quantum computing, has signed a Memorandum of Understanding (MoU) with JHPC-quantum (Japan High-Performance Computing), a landmark Japanese national computing initiative funded by NEDO (New Energy and Industrial…"
-    },
-    {
-      "title": "Report: Quantum Computing Could Unlock More Than £100 Million in Value",
-      "link": "https://thequantuminsider.com/2026/06/03/report-quantum-computing-could-unlock-more-than-100-million-in-value/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 08:11:15 +0000",
-      "published_ts": 1780474275,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Forty-one percent of large UK enterprises surveyed estimate quantum computing could unlock more than £100 million in value to their business in as little as one year, according to new findings from&#160;Censuswide&#160;and D-Wave Quantum Inc. (“D-Wave” or the “Com…"
-    },
-    {
-      "title": "QuiX Quantum Installs Real-Time Control Component for Universal Photonic Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/06/03/quix-quantum-installs-real-time-control-component-for-universal-photonic-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 08:09:11 +0000",
-      "published_ts": 1780474151,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum today announced the first installation of its Feed-Forward Control Unit (FFCU), a high-performance hardware component developed for the company’s universal photonic quantum computing architecture. The FFCU is designed to help the system respond to qua…"
     },
     {
       "title": "Cutting a photon in two creates an infinite swarm of particles",
