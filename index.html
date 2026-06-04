@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quantum Hub — 首頁</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="home">
+  <main class="container">
+    <section class="hero">
+      <h1>⚛ Quantum Computing Hub</h1>
+      <p>全球量子運算公司、即時新聞與技術百科</p>
+    </section>
+
+    <section class="stat-grid">
+      <div class="stat-card"><div class="stat-num" id="stat-total">–</div><div class="stat-label">收錄公司</div></div>
+      <div class="stat-card"><div class="stat-num" id="stat-public">–</div><div class="stat-label">已上市</div></div>
+      <div class="stat-card"><div class="stat-num" id="stat-countries">–</div><div class="stat-label">國家 / 地區</div></div>
+      <div class="stat-card"><div class="stat-num" id="stat-tech">–</div><div class="stat-label">技術路線</div></div>
+    </section>
+
+    <section class="card-row">
+      <a href="companies.html" class="nav-card">
+        <h2>🏢 公司資料庫</h2>
+        <p>依國家、技術路線、上市狀態瀏覽全球量子公司，點進去看晶片、里程碑與代號。</p>
+      </a>
+      <a href="news.html" class="nav-card">
+        <h2>📰 即時新聞</h2>
+        <p>聚合 Phys.org、arXiv、The Quantum Insider 等多個 RSS 來源的最新量子動態。</p>
+      </a>
+      <a href="wiki.html" class="nav-card">
+        <h2>📖 技術 Wiki</h2>
+        <p>超導、離子阱、中性原子、光量子等技術路線與量子運算基礎概念百科。</p>
+      </a>
+    </section>
+
+    <section class="panel">
+      <h2>技術路線分布</h2>
+      <div class="tech-bars" id="tech-bars"></div>
+    </section>
+  </main>
+
+  <script src="js/common.js"></script>
+  <script src="js/index.js"></script>
+</body>
+</html>

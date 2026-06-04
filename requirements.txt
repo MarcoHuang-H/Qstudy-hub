@@ -1,0 +1,4 @@
+# Only needed to run scripts/fetch_news.py locally.
+# The deployed static site needs NO Python at all.
+# (GitHub Actions installs this automatically for the news workflow.)
+feedparser>=6.0.0

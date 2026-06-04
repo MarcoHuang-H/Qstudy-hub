@@ -1,0 +1,272 @@
+{
+  "categories": [
+    {
+      "id": "basics",
+      "title": "基礎概念",
+      "articles": ["qubit", "superposition", "entanglement", "quantum-gate", "decoherence", "qec"]
+    },
+    {
+      "id": "hardware",
+      "title": "硬體技術路線",
+      "articles": ["superconducting", "trapped-ion", "neutral-atom", "photonic", "silicon-spin", "topological", "annealing", "diamond-nv", "nmr"]
+    }
+  ],
+  "articles": [
+    {
+      "id": "qubit",
+      "title": "量子位元 (Qubit)",
+      "category": "basics",
+      "summary": "量子運算的基本資訊單位，可同時處於 0 與 1 的疊加態。",
+      "body": [
+        {"type": "p", "text": "量子位元（quantum bit, qubit）是量子運算的基本單位，相當於古典電腦的位元（bit）。古典位元只能是 0 或 1，但 qubit 可以處於 0 與 1 的「疊加態」——同時帶有兩者的成分。"},
+        {"type": "h", "text": "數學表示"},
+        {"type": "p", "text": "一個 qubit 的狀態寫成 |ψ⟩ = α|0⟩ + β|1⟩，其中 α、β 為複數機率振幅，且 |α|² + |β|² = 1。測量時會以 |α|² 的機率得到 0、|β|² 的機率得到 1。"},
+        {"type": "h", "text": "布洛赫球 (Bloch sphere)"},
+        {"type": "p", "text": "單一 qubit 的狀態可用一個球面上的點來表示，稱為布洛赫球。北極為 |0⟩、南極為 |1⟩，球面上其他點代表各種疊加態。量子閘的作用就是在這個球面上旋轉狀態向量。"},
+        {"type": "h", "text": "為何強大"},
+        {"type": "p", "text": "n 個 qubit 可同時表示 2ⁿ 個狀態的疊加。50 個 qubit 就能表示超過一千兆（10¹⁵）個狀態，這是量子電腦在特定問題上能超越古典電腦的根源。"}
+      ],
+      "related": ["superposition", "entanglement", "quantum-gate"]
+    },
+    {
+      "id": "superposition",
+      "title": "疊加 (Superposition)",
+      "category": "basics",
+      "summary": "量子系統可同時處於多個狀態的線性組合。",
+      "body": [
+        {"type": "p", "text": "疊加是量子力學的核心原理：一個量子系統可以同時處於多個古典狀態的線性組合，直到被測量為止。"},
+        {"type": "p", "text": "著名的「薛丁格的貓」思想實驗就是疊加的比喻——貓在被觀測前同時處於「生」與「死」的疊加態。"},
+        {"type": "h", "text": "在量子運算中的角色"},
+        {"type": "p", "text": "透過疊加，量子電腦可以一次對所有可能的輸入進行運算（量子平行性）。但要注意：測量會讓疊加態塌縮成單一結果，因此量子演算法的精髓在於透過干涉，讓正確答案的機率振幅增強、錯誤答案抵消。"},
+        {"type": "h", "text": "Hadamard 閘"},
+        {"type": "p", "text": "最常用來產生疊加的是 Hadamard 閘（H）。將 |0⟩ 經過 H 閘後，會變成 (|0⟩ + |1⟩)/√2，即 0 與 1 各 50% 的等權疊加。"}
+      ],
+      "related": ["qubit", "quantum-gate", "entanglement"]
+    },
+    {
+      "id": "entanglement",
+      "title": "量子糾纏 (Entanglement)",
+      "category": "basics",
+      "summary": "多個 qubit 之間的強關聯，測量一個會瞬間影響另一個。",
+      "body": [
+        {"type": "p", "text": "量子糾纏是指兩個或多個 qubit 形成一種整體狀態，無法被分解為各自獨立的狀態。對其中一個 qubit 的測量，會瞬間決定另一個的結果，無論兩者距離多遠。"},
+        {"type": "p", "text": "愛因斯坦稱之為「鬼魅般的超距作用」（spooky action at a distance）。"},
+        {"type": "h", "text": "Bell 態"},
+        {"type": "p", "text": "最簡單的糾纏態是 Bell 態，例如 (|00⟩ + |11⟩)/√2。這個狀態下，兩個 qubit 的測量結果永遠相同：要嘛都是 0，要嘛都是 1，但測量前無法預知是哪一種。"},
+        {"type": "h", "text": "如何產生"},
+        {"type": "p", "text": "典型作法：先對第一個 qubit 施加 Hadamard 閘產生疊加，再施加 CNOT 閘讓兩個 qubit 糾纏。這正是 Bell state 程式的核心。"},
+        {"type": "h", "text": "應用"},
+        {"type": "p", "text": "糾纏是量子運算、量子通訊（量子隱形傳態）、量子密碼學（QKD）的關鍵資源。"}
+      ],
+      "related": ["qubit", "superposition", "qec"]
+    },
+    {
+      "id": "quantum-gate",
+      "title": "量子閘 (Quantum Gate)",
+      "category": "basics",
+      "summary": "操作 qubit 狀態的基本運算單元，對應古典邏輯閘。",
+      "body": [
+        {"type": "p", "text": "量子閘是對 qubit 進行操作的基本運算，相當於古典電路的邏輯閘。所有量子閘都是「可逆」的么正（unitary）變換。"},
+        {"type": "h", "text": "常見單 qubit 閘"},
+        {"type": "p", "text": "• X 閘（NOT）：翻轉 0↔1\n• H 閘（Hadamard）：產生疊加\n• Z 閘：對 |1⟩ 加負號（相位翻轉）\n• Rx, Ry, Rz：繞布洛赫球各軸旋轉任意角度"},
+        {"type": "h", "text": "常見雙 qubit 閘"},
+        {"type": "p", "text": "• CNOT（CX）：受控反閘，當控制 qubit 為 1 時翻轉目標 qubit，是產生糾纏的關鍵\n• CZ：受控 Z 閘\n• SWAP：交換兩個 qubit 狀態"},
+        {"type": "h", "text": "通用閘集"},
+        {"type": "p", "text": "只要有一組「通用閘集」（例如 {H, T, CNOT}），就能組合出任意量子運算，如同古典電腦用 NAND 閘可組出任何邏輯。"}
+      ],
+      "related": ["qubit", "superposition", "entanglement"]
+    },
+    {
+      "id": "decoherence",
+      "title": "退相干 (Decoherence)",
+      "category": "basics",
+      "summary": "量子態因與環境作用而失去量子特性的過程，是量子運算的最大敵人。",
+      "body": [
+        {"type": "p", "text": "退相干是指量子系統因為與周遭環境（熱、電磁雜訊、振動等）的交互作用，逐漸失去疊加與糾纏等量子特性，塌縮回古典狀態的過程。"},
+        {"type": "h", "text": "相干時間 (Coherence time)"},
+        {"type": "p", "text": "qubit 能維持量子態的時間稱為相干時間，常以 T1（能量弛豫）與 T2（相位弛豫）衡量。相干時間越長，能執行的量子運算越多。不同硬體差異極大：超導 qubit 約數十至數百微秒，離子阱與中性原子可達秒級甚至更久。"},
+        {"type": "h", "text": "為何重要"},
+        {"type": "p", "text": "退相干限制了在出錯前能執行的閘數量。這也是為什麼量子糾錯（QEC）如此重要——它能在退相干造成不可逆損害前偵測並更正錯誤。"}
+      ],
+      "related": ["qec", "qubit", "superconducting"]
+    },
+    {
+      "id": "qec",
+      "title": "量子糾錯 (Quantum Error Correction)",
+      "category": "basics",
+      "summary": "用多個實體 qubit 編碼成一個可糾錯的邏輯 qubit。",
+      "body": [
+        {"type": "p", "text": "量子糾錯（QEC）是實現大規模實用量子電腦的關鍵。由於 qubit 極易出錯（退相干、閘誤差），需要用多個「實體 qubit」編碼成一個更穩定的「邏輯 qubit」。"},
+        {"type": "h", "text": "為何不能直接複製"},
+        {"type": "p", "text": "量子力學的「不可複製定理」（no-cloning theorem）禁止複製未知量子態，因此不能像古典糾錯那樣單純地備份。QEC 改用糾纏與症狀測量（syndrome measurement），在不破壞量子資訊的前提下偵測錯誤。"},
+        {"type": "h", "text": "表面碼 (Surface code)"},
+        {"type": "p", "text": "目前最受重視的 QEC 方案，將 qubit 排成二維格點，容錯門檻相對寬鬆（約 1% 錯誤率）。代價是一個邏輯 qubit 可能需要數百至上千個實體 qubit。"},
+        {"type": "h", "text": "Below threshold 里程碑"},
+        {"type": "p", "text": "2024 年 Google Willow 晶片首次展示：當編碼距離增大時，邏輯錯誤率呈指數下降，證明 QEC 在實體上可行，是邁向容錯量子運算的重大進展。"}
+      ],
+      "related": ["decoherence", "entanglement", "superconducting"]
+    },
+    {
+      "id": "superconducting",
+      "title": "超導量子位元 (Superconducting Qubit)",
+      "category": "hardware",
+      "summary": "用超導電路與約瑟夫森接面製作的人工原子，目前最主流的技術。",
+      "body": [
+        {"type": "p", "text": "超導量子位元是目前最主流、商業化最成熟的量子硬體技術，IBM、Google、Rigetti 等大廠皆採用。"},
+        {"type": "h", "text": "原理"},
+        {"type": "p", "text": "利用超導材料（如鈮、鋁）製作的微波共振電路，加入「約瑟夫森接面」（Josephson junction）產生非線性，形成能階不等距的人工原子。最常見的設計是 transmon qubit。以微波脈衝操控，需在約 10–20 mK（接近絕對零度）的稀釋冷凍機中運作。"},
+        {"type": "h", "text": "優點"},
+        {"type": "p", "text": "• 可用半導體微影製程製造，利於微縮\n• 閘速度快（奈秒級）\n• 工程與量產生態成熟"},
+        {"type": "h", "text": "挑戰"},
+        {"type": "p", "text": "• 相干時間相對較短（微秒級）\n• 需極低溫稀釋冷凍機\n• qubit 之間多為近鄰連接，需 SWAP 操作\n• 大規模佈線與串擾問題"},
+        {"type": "h", "text": "代表公司"},
+        {"type": "p", "text": "IBM、Google、Rigetti、IQM、OQC、本源量子、Alice & Bob（cat qubit）、Amazon（cat qubit）"}
+      ],
+      "related": ["qubit", "decoherence", "qec"]
+    },
+    {
+      "id": "trapped-ion",
+      "title": "離子阱 (Trapped Ion)",
+      "category": "hardware",
+      "summary": "用電磁場囚禁帶電離子，以雷射操控，保真度與相干時間極佳。",
+      "body": [
+        {"type": "p", "text": "離子阱是與超導並列的主流量子技術，以高保真度與長相干時間著稱。代表公司有 IonQ、Quantinuum、AQT。"},
+        {"type": "h", "text": "原理"},
+        {"type": "p", "text": "用射頻電磁場（Paul trap）將帶電離子（如鈣、鋇、鐿）懸浮在真空中，排成一維鏈。每個離子的內部能階即為 qubit，以精準的雷射脈衝進行操控與讀取。離子間透過共同的振動模態（聲子）實現糾纏。"},
+        {"type": "h", "text": "優點"},
+        {"type": "p", "text": "• 相干時間極長（秒級以上）\n• 閘保真度業界最高\n• 全連接（任兩個 qubit 可直接作用）\n• qubit 完全相同（天然一致）"},
+        {"type": "h", "text": "挑戰"},
+        {"type": "p", "text": "• 閘速度較慢（微秒級）\n• 單一離子鏈可容納的 qubit 數有限，需 QCCD 等架構擴展\n• 需要複雜的雷射系統"},
+        {"type": "h", "text": "代表公司"},
+        {"type": "p", "text": "IonQ、Quantinuum（QCCD 架構）、AQT、eleQtron、Universal Quantum"}
+      ],
+      "related": ["qubit", "neutral-atom", "decoherence"]
+    },
+    {
+      "id": "neutral-atom",
+      "title": "中性原子 (Neutral Atom)",
+      "category": "hardware",
+      "summary": "用光鑷囚禁中性原子陣列，以 Rydberg 態產生糾纏，可微縮性佳。",
+      "body": [
+        {"type": "p", "text": "中性原子是近年快速崛起的技術，以可微縮性與彈性連接性著稱。代表公司有 QuEra、Atom Computing、Pasqal、planqc。"},
+        {"type": "h", "text": "原理"},
+        {"type": "p", "text": "用聚焦雷射形成的「光鑷」（optical tweezer）一個一個囚禁中性原子（如銣、鍶、鈣），排成可重組的二維甚至三維陣列。qubit 編碼在原子的基態能階；要產生糾纏時，將原子激發到高能的 Rydberg 態，利用 Rydberg 阻塞效應實現多 qubit 交互作用。"},
+        {"type": "h", "text": "優點"},
+        {"type": "p", "text": "• 易於擴展至上千 qubit（已有 1000+ qubit 系統）\n• 原子天然一致\n• 陣列可動態重構，連接靈活\n• 相干時間長"},
+        {"type": "h", "text": "挑戰"},
+        {"type": "p", "text": "• 閘速度與讀取速度較慢\n• 原子可能在運作中遺失，需重新裝載\n• 雷射系統複雜"},
+        {"type": "h", "text": "代表公司"},
+        {"type": "p", "text": "QuEra、Atom Computing、Pasqal、planqc"}
+      ],
+      "related": ["trapped-ion", "qubit", "qec"]
+    },
+    {
+      "id": "photonic",
+      "title": "光量子 (Photonic)",
+      "category": "hardware",
+      "summary": "以光子作為 qubit，可室溫運作、易與光纖網路整合。",
+      "body": [
+        {"type": "p", "text": "光量子運算以光子（光的最小單位）作為量子位元，最大特色是可在室溫運作、天然適合量子網路。代表公司有 PsiQuantum、Xanadu、QCi。"},
+        {"type": "h", "text": "原理"},
+        {"type": "p", "text": "qubit 可編碼在光子的偏振、路徑或時間槽。透過分光器、相位器、干涉儀等光學元件操控，並以單光子偵測器讀取。許多方案採用「測量導向量子運算」（MBQC）或連續變數（如高斯玻色取樣）。"},
+        {"type": "h", "text": "優點"},
+        {"type": "p", "text": "• 室溫運作，無需稀釋冷凍機（偵測器除外）\n• 光子不易退相干\n• 可直接與光纖、矽光子晶片整合\n• 利於量子網路與分散式運算"},
+        {"type": "h", "text": "挑戰"},
+        {"type": "p", "text": "• 光子之間難以直接交互作用，雙 qubit 閘是機率性的\n• 需要大量光子源、偵測器與低損耗光路\n• 確定性糾纏困難"},
+        {"type": "h", "text": "代表公司"},
+        {"type": "p", "text": "PsiQuantum、Xanadu、QCi、Quandela、NTT、Photonic Inc"}
+      ],
+      "related": ["qubit", "silicon-spin"]
+    },
+    {
+      "id": "silicon-spin",
+      "title": "矽自旋 (Silicon Spin)",
+      "category": "hardware",
+      "summary": "用矽中電子或原子核的自旋作為 qubit，相容半導體製程。",
+      "body": [
+        {"type": "p", "text": "矽自旋量子位元利用電子或原子核的「自旋」（上/下對應 0/1）作為 qubit，最大賣點是與既有 CMOS 半導體製程相容。代表公司有 Intel、SQC、Diraq、Quantum Motion。"},
+        {"type": "h", "text": "原理"},
+        {"type": "p", "text": "在矽量子點（quantum dot）中囚禁單一電子，或在矽中植入磷等雜質原子，以其自旋編碼 qubit。透過微波或電場操控自旋方向。需在低溫（約 1 K 或更低）運作，但通常比超導所需溫度略高。"},
+        {"type": "h", "text": "優點"},
+        {"type": "p", "text": "• 可沿用成熟的半導體晶圓廠製程，量產潛力大\n• qubit 體積極小，利於高密度整合\n• 相干時間佳（尤其同位素純化矽-28）"},
+        {"type": "h", "text": "挑戰"},
+        {"type": "p", "text": "• 製造均勻性與良率挑戰大\n• 目前 qubit 數仍少\n• 控制線路微縮複雜"},
+        {"type": "h", "text": "代表公司"},
+        {"type": "p", "text": "Intel、Silicon Quantum Computing、Diraq、Quantum Motion、Quobly"}
+      ],
+      "related": ["superconducting", "qubit"]
+    },
+    {
+      "id": "topological",
+      "title": "拓樸量子 (Topological)",
+      "category": "hardware",
+      "summary": "用拓樸保護的準粒子（如馬約拉那）編碼，理論上天生抗噪。",
+      "body": [
+        {"type": "p", "text": "拓樸量子運算是理論上最具吸引力但工程上最具挑戰的路線，主要推動者為 Microsoft。"},
+        {"type": "h", "text": "原理"},
+        {"type": "p", "text": "將量子資訊編碼在「拓樸保護」的準粒子狀態中——例如馬約拉那零模（Majorana zero mode）。量子資訊存於系統的整體拓樸性質，而非單一局部位置，因此對局部雜訊天生免疫。運算透過交換準粒子的「編織」（braiding）來進行。"},
+        {"type": "h", "text": "優點"},
+        {"type": "p", "text": "• 理論上具有硬體層級的抗噪能力，可大幅減少糾錯開銷\n• 若實現，可能是最穩定的 qubit"},
+        {"type": "h", "text": "挑戰"},
+        {"type": "p", "text": "• 馬約拉那準粒子的存在與操控極難驗證\n• 需要特殊的拓樸超導材料與極低溫\n• 仍處於非常早期，工程上爭議大"},
+        {"type": "h", "text": "代表公司"},
+        {"type": "p", "text": "Microsoft（2025 年發表 Majorana 1 晶片，宣稱實現拓樸 qubit）"}
+      ],
+      "related": ["superconducting", "qec"]
+    },
+    {
+      "id": "annealing",
+      "title": "量子退火 (Quantum Annealing)",
+      "category": "hardware",
+      "summary": "利用量子穿隧尋找能量最低態，專門解最佳化問題。",
+      "body": [
+        {"type": "p", "text": "量子退火是一種特殊用途的量子運算，專門用來解組合最佳化問題，與通用閘模型不同。最著名的公司是 D-Wave。"},
+        {"type": "h", "text": "原理"},
+        {"type": "p", "text": "將最佳化問題編碼成一個物理系統的能量函數（Ising 模型），讓系統從容易製備的初始態緩慢演化。利用量子穿隧效應，系統傾向落入能量最低的狀態，對應問題的最佳解。"},
+        {"type": "h", "text": "優點"},
+        {"type": "p", "text": "• 對特定最佳化問題（排程、路徑、投資組合）可能有優勢\n• 已可擴展至數千 qubit（連接度有限）\n• 商業化最早、最成熟"},
+        {"type": "h", "text": "挑戰"},
+        {"type": "p", "text": "• 並非通用量子電腦，無法跑 Shor、Grover 等演算法\n• 相對古典最佳化的優勢仍有爭議\n• qubit 連接度受限"},
+        {"type": "h", "text": "代表公司"},
+        {"type": "p", "text": "D-Wave（同時也發展閘模型）、Fujitsu（數位退火，量子啟發式）"}
+      ],
+      "related": ["superconducting", "qubit"]
+    },
+    {
+      "id": "diamond-nv",
+      "title": "鑽石氮空位 (Diamond NV Center)",
+      "category": "hardware",
+      "summary": "用鑽石晶格中的氮空位色心作為 qubit，可室溫運作。",
+      "body": [
+        {"type": "p", "text": "鑽石氮空位（Nitrogen-Vacancy, NV center）量子位元的最大特色是可在室溫運作，適合小型化、可攜式應用。代表公司為 Quantum Brilliance。"},
+        {"type": "h", "text": "原理"},
+        {"type": "p", "text": "在鑽石晶格中，一個氮原子取代碳原子、旁邊伴隨一個空位，形成 NV 色心。其電子自旋可作為 qubit，並能以雷射初始化與讀取、用微波操控。鄰近的碳-13 核自旋可作為記憶體 qubit。"},
+        {"type": "h", "text": "優點"},
+        {"type": "p", "text": "• 室溫運作，無需冷卻系統\n• 體積小，可做成嵌入式量子加速器\n• 同時是極佳的量子感測器（磁場、溫度）"},
+        {"type": "h", "text": "挑戰"},
+        {"type": "p", "text": "• 大規模 qubit 整合困難\n• NV 色心精準定位與耦合不易\n• 目前 qubit 數少"},
+        {"type": "h", "text": "代表公司"},
+        {"type": "p", "text": "Quantum Brilliance、部分研究機構與量子感測公司"}
+      ],
+      "related": ["photonic", "qubit"]
+    },
+    {
+      "id": "nmr",
+      "title": "核磁共振 (NMR)",
+      "category": "hardware",
+      "summary": "用分子中原子核自旋作為 qubit，早期量子運算的驗證平台。",
+      "body": [
+        {"type": "p", "text": "核磁共振（Nuclear Magnetic Resonance, NMR）量子運算是最早期的量子運算實驗平台之一，2001 年曾用它執行 Shor 演算法分解 15。如今主要用於教育與科普。"},
+        {"type": "h", "text": "原理"},
+        {"type": "p", "text": "利用分子中不同原子核的自旋作為 qubit，以強磁場與射頻脈衝操控，原理類似醫學 MRI。液態 NMR 操作的是大量分子的系綜平均。"},
+        {"type": "h", "text": "優點"},
+        {"type": "p", "text": "• 技術成熟、室溫液態即可操作\n• 適合教學與量子演算法驗證\n• 可做成桌上型裝置"},
+        {"type": "h", "text": "挑戰"},
+        {"type": "p", "text": "• 難以擴展（qubit 數受分子結構限制，通常 < 10）\n• 系綜訊號隨 qubit 數指數衰減\n• 不被視為通往大規模量子電腦的路線"},
+        {"type": "h", "text": "代表公司"},
+        {"type": "p", "text": "SpinQ（桌上型 NMR 量子電腦，主打教育）"}
+      ],
+      "related": ["qubit", "trapped-ion"]
+    }
+  ]
+}

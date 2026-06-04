@@ -1,0 +1,596 @@
+{
+  "companies": [
+    {
+      "id": "ibm",
+      "name": "IBM Quantum",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "founded": 2016,
+      "technology": "Superconducting",
+      "public": true,
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com/quantum",
+      "chips": ["Condor (1121 qubit)", "Heron (133 qubit)", "Eagle (127 qubit)", "Osprey (433 qubit)"],
+      "summary": "量子運算的領導者之一，提供雲端量子服務 IBM Quantum，並推動 Qiskit 開源框架。",
+      "description": "IBM 是最早投入商用量子運算的公司之一。採用超導 transmon qubit 技術，透過 IBM Quantum Network 提供雲端量子電腦存取。2023 年發表 1121 qubit 的 Condor 晶片，並提出以模組化、量子糾錯為核心的 roadmap，目標在 2029 年達成具容錯能力的量子系統 Starling。其開源框架 Qiskit 是全球最廣泛使用的量子程式語言之一。",
+      "milestones": [
+        "2016 — 首度將量子電腦上雲（IBM Quantum Experience）",
+        "2021 — 127 qubit Eagle 晶片",
+        "2023 — 1121 qubit Condor，以及模組化 Heron",
+        "2024 — Qiskit 1.0 正式版"
+      ],
+      "tags": ["超導", "雲端服務", "Qiskit", "大廠"]
+    },
+    {
+      "id": "google",
+      "name": "Google Quantum AI",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "founded": 2012,
+      "technology": "Superconducting",
+      "public": true,
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://quantumai.google",
+      "chips": ["Willow (105 qubit)", "Sycamore (53/70 qubit)"],
+      "summary": "2019 年宣稱達成「量子優越性」，2024 年發表 Willow 晶片展示量子糾錯的突破。",
+      "description": "Google Quantum AI 隸屬 Alphabet。2019 年以 53 qubit 的 Sycamore 晶片宣稱達成量子優越性（quantum supremacy）。2024 年底發表 Willow 晶片，首次展示隨著 qubit 規模擴大、邏輯錯誤率呈指數下降（below threshold），是量子糾錯領域的里程碑。技術路線為超導 transmon qubit。",
+      "milestones": [
+        "2019 — Sycamore 宣稱量子優越性",
+        "2023 — 量子糾錯實驗（surface code）",
+        "2024 — Willow 晶片，達成 below-threshold 糾錯"
+      ],
+      "tags": ["超導", "量子優越性", "量子糾錯", "大廠"]
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft Azure Quantum",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "founded": 2017,
+      "technology": "Topological",
+      "public": true,
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://azure.microsoft.com/products/quantum",
+      "chips": ["Majorana 1"],
+      "summary": "押注拓樸量子位元，2025 年發表 Majorana 1 晶片，宣稱實現拓樸量子位元。",
+      "description": "Microsoft 長期投入拓樸量子運算（topological qubit），理論上具有天生抗噪能力。2025 年 2 月發表 Majorana 1 晶片，宣稱基於 topoconductor 材料實現馬約拉那零模（Majorana zero mode）。同時透過 Azure Quantum 雲端平台整合 IonQ、Quantinuum 等多家硬體，並推出 Q# 量子程式語言。",
+      "milestones": [
+        "2019 — Azure Quantum 雲端平台",
+        "2023 — 宣稱觀測到 Majorana 零模",
+        "2025 — Majorana 1 拓樸量子晶片"
+      ],
+      "tags": ["拓樸", "雲端平台", "Q#", "大廠"]
+    },
+    {
+      "id": "amazon",
+      "name": "AWS / Amazon Braket",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "founded": 2019,
+      "technology": "Superconducting (cat qubit)",
+      "public": true,
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "https://aws.amazon.com/braket",
+      "chips": ["Ocelot"],
+      "summary": "提供 Amazon Braket 量子雲服務，2025 年發表 Ocelot 晶片採用 cat qubit 降低糾錯成本。",
+      "description": "Amazon Web Services 透過 Braket 提供多家量子硬體的雲端存取。其 AWS Center for Quantum Computing（與 Caltech 合作）開發自有硬體，2025 年發表 Ocelot 晶片，採用 bosonic cat qubit 架構，理論上可大幅降低量子糾錯所需的實體 qubit 數量。",
+      "milestones": [
+        "2019 — Amazon Braket 雲端量子服務",
+        "2025 — Ocelot cat-qubit 晶片"
+      ],
+      "tags": ["超導", "cat qubit", "雲端服務", "大廠"]
+    },
+    {
+      "id": "intel",
+      "name": "Intel Quantum",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "founded": 2015,
+      "technology": "Silicon spin",
+      "public": true,
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com/quantum",
+      "chips": ["Tunnel Falls (12 qubit)"],
+      "summary": "利用既有半導體製程開發矽自旋量子位元，主打可量產與可微縮性。",
+      "description": "Intel 運用其成熟的 CMOS 半導體製程開發矽自旋量子位元（silicon spin qubit）。2023 年釋出 12 qubit 的 Tunnel Falls 研究晶片供學術界使用。賣點是可沿用既有晶圓廠基礎設施，理論上具備優異的可微縮性與量產潛力。",
+      "milestones": [
+        "2023 — Tunnel Falls 12 qubit 矽自旋晶片",
+        "2024 — 與學術機構合作擴大研究生態"
+      ],
+      "tags": ["矽自旋", "半導體製程", "大廠"]
+    },
+    {
+      "id": "ionq",
+      "name": "IonQ",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "founded": 2015,
+      "technology": "Trapped ion",
+      "public": true,
+      "ticker": "IONQ",
+      "exchange": "NYSE",
+      "website": "https://ionq.com",
+      "chips": ["Forte", "Aria", "Tempo (規劃中)"],
+      "summary": "全球首家純量子運算上市公司，採用離子阱技術，主打高 qubit 品質。",
+      "description": "IonQ 由馬里蘭大學與 Duke 大學的研究團隊創立，採用囚禁離子（trapped ion）技術。2021 年透過 SPAC 在 NYSE 上市，是首家純量子運算上市公司。其離子阱 qubit 具有極長的相干時間與全連接特性，以演算法 qubit（#AQ）作為效能指標。產品透過 AWS、Azure、Google Cloud 提供。",
+      "milestones": [
+        "2021 — NYSE 上市（首家純量子上市公司）",
+        "2023 — Forte 系統 #AQ 29",
+        "2024 — 收購 Qubitekk 強化量子網路布局"
+      ],
+      "tags": ["離子阱", "上市", "雲端服務"]
+    },
+    {
+      "id": "rigetti",
+      "name": "Rigetti Computing",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "founded": 2013,
+      "technology": "Superconducting",
+      "public": true,
+      "ticker": "RGTI",
+      "exchange": "NASDAQ",
+      "website": "https://www.rigetti.com",
+      "chips": ["Ankaa-3 (84 qubit)", "Aspen 系列"],
+      "summary": "垂直整合的超導量子公司，自有晶圓廠（Fab-1），開發 PyQuil/Forest 框架。",
+      "description": "Rigetti 是少數擁有自有量子晶圓廠（Fab-1）的公司，採用超導 qubit 並垂直整合設計、製造與雲端服務。其 Forest SDK 與 PyQuil 程式框架在學界廣泛使用。2022 年透過 SPAC 上市。近年聚焦提升雙 qubit 閘保真度與模組化多晶片架構。",
+      "milestones": [
+        "2017 — Forest 量子雲平台與 PyQuil",
+        "2022 — NASDAQ 上市",
+        "2024 — Ankaa-3 84 qubit，閘保真度提升"
+      ],
+      "tags": ["超導", "上市", "PyQuil", "自有晶圓廠"]
+    },
+    {
+      "id": "dwave",
+      "name": "D-Wave Quantum",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "founded": 1999,
+      "technology": "Quantum annealing",
+      "public": true,
+      "ticker": "QBTS",
+      "exchange": "NYSE",
+      "website": "https://www.dwavesys.com",
+      "chips": ["Advantage (5000+ qubit)", "Advantage2 (開發中)"],
+      "summary": "全球最早的量子運算公司，專注量子退火，擅長最佳化問題。",
+      "description": "D-Wave 成立於 1999 年，是商用量子運算的先驅，專注量子退火（quantum annealing）技術，特別適合組合最佳化問題。其 Advantage 系統擁有超過 5000 個 qubit。2024 年也開始發展閘模型（gate-model）超導量子電腦。透過 Leap 雲端平台提供服務。",
+      "milestones": [
+        "2011 — D-Wave One，首台商用量子退火機",
+        "2020 — Advantage 5000+ qubit",
+        "2022 — NYSE 上市"
+      ],
+      "tags": ["量子退火", "上市", "最佳化", "老牌"]
+    },
+    {
+      "id": "quantinuum",
+      "name": "Quantinuum",
+      "country": "USA / UK",
+      "flag": "🇺🇸",
+      "founded": 2021,
+      "technology": "Trapped ion",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://www.quantinuum.com",
+      "chips": ["H2 (56 qubit)", "H1 (20 qubit)"],
+      "summary": "由 Honeywell Quantum 與 Cambridge Quantum 合併，離子阱保真度世界領先。",
+      "description": "Quantinuum 由 Honeywell Quantum Solutions 與 Cambridge Quantum Computing 於 2021 年合併而成。採用 QCCD（量子電荷耦合元件）離子阱架構，其 H 系列系統保有業界最高的量子體積（Quantum Volume）紀錄。同時開發 TKET 編譯器與量子自然語言處理等軟體。市場傳聞可能 IPO。",
+      "milestones": [
+        "2021 — Honeywell + Cambridge Quantum 合併",
+        "2023 — H2 達成 56 qubit、QV 創新高",
+        "2024 — 邏輯 qubit 糾錯實驗突破"
+      ],
+      "tags": ["離子阱", "高保真度", "TKET", "傳聞IPO"]
+    },
+    {
+      "id": "psiquantum",
+      "name": "PsiQuantum",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "founded": 2016,
+      "technology": "Photonic",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://www.psiquantum.com",
+      "chips": ["Omega (光子晶片架構)"],
+      "summary": "目標直接打造百萬 qubit 容錯光量子電腦，與 GlobalFoundries 合作量產。",
+      "description": "PsiQuantum 主張跳過 NISQ 階段，直接打造具備百萬實體 qubit 的容錯光量子電腦。採用矽光子（silicon photonics）技術，與 GlobalFoundries 合作以標準半導體製程量產光子晶片。已在美國與澳洲布里斯本建設大型量子電腦設施，募資規模在業界名列前茅。",
+      "milestones": [
+        "2021 — 募資逾 6.5 億美元",
+        "2024 — 與澳洲、美國伊利諾州合作建廠",
+        "2025 — Omega 光子晶片架構發表"
+      ],
+      "tags": ["光量子", "容錯", "半導體製程", "大規模"]
+    },
+    {
+      "id": "xanadu",
+      "name": "Xanadu",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "founded": 2016,
+      "technology": "Photonic",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://www.xanadu.ai",
+      "chips": ["Borealis", "X-series", "Aurora"],
+      "summary": "光量子運算公司，開發 PennyLane 量子機器學習開源框架。",
+      "description": "Xanadu 採用光量子技術，2022 年以 Borealis 系統在高斯玻色取樣（Gaussian boson sampling）任務上宣稱達成量子優越性。其開源框架 PennyLane 專注量子機器學習與量子微分程式設計，在學界使用廣泛。2025 年發表 Aurora 模組化光量子系統。",
+      "milestones": [
+        "2020 — PennyLane 量子機器學習框架",
+        "2022 — Borealis 宣稱光量子優越性",
+        "2025 — Aurora 模組化系統"
+      ],
+      "tags": ["光量子", "PennyLane", "量子機器學習"]
+    },
+    {
+      "id": "quera",
+      "name": "QuEra Computing",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "founded": 2018,
+      "technology": "Neutral atom",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://www.quera.com",
+      "chips": ["Aquila (256 qubit)"],
+      "summary": "源自哈佛/MIT 的中性原子量子公司，2023 年展示 48 個邏輯 qubit。",
+      "description": "QuEra 源自哈佛大學 Lukin 團隊與 MIT，採用中性原子（neutral atom）技術，以雷射鑷子（optical tweezer）排列銣原子陣列。其 Aquila 系統有 256 個 qubit，支援類比量子模擬。2023 年與哈佛、MIT 合作展示 48 個邏輯 qubit 的糾錯實驗，登上 Nature 封面。",
+      "milestones": [
+        "2022 — Aquila 256 qubit 上 Amazon Braket",
+        "2023 — 48 邏輯 qubit 糾錯（Nature）"
+      ],
+      "tags": ["中性原子", "邏輯qubit", "Rydberg"]
+    },
+    {
+      "id": "atom-computing",
+      "name": "Atom Computing",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "founded": 2018,
+      "technology": "Neutral atom",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://atom-computing.com",
+      "chips": ["Phoenix", "次世代 1180 qubit 系統"],
+      "summary": "中性原子量子公司，2023 年宣布超過 1000 qubit 的系統。",
+      "description": "Atom Computing 採用中性原子技術，使用光學鑷子囚禁鍶原子。2023 年宣布建成超過 1180 qubit 的系統，是當時 qubit 數最多的量子電腦之一。與 Microsoft Azure Quantum 合作提供商用服務，主打可微縮性與長相干時間。",
+      "milestones": [
+        "2021 — Phoenix 100 qubit 系統",
+        "2023 — 1180 qubit 中性原子系統",
+        "2024 — 與 Microsoft 合作商用化"
+      ],
+      "tags": ["中性原子", "大規模qubit"]
+    },
+    {
+      "id": "pasqal",
+      "name": "Pasqal",
+      "country": "France",
+      "flag": "🇫🇷",
+      "founded": 2019,
+      "technology": "Neutral atom",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://www.pasqal.com",
+      "chips": ["Orion", "Fresnel"],
+      "summary": "由諾貝爾獎得主 Alain Aspect 共同創立的中性原子量子公司。",
+      "description": "Pasqal 由 2022 年諾貝爾物理獎得主 Alain Aspect 等人共同創立，採用中性原子（Rydberg atom）技術。主打類比量子模擬與最佳化應用，已部署系統至歐洲多個資料中心與超算中心。2024 年與 Welinq 等合作推動量子網路。",
+      "milestones": [
+        "2022 — 共同創辦人 Alain Aspect 獲諾貝爾物理獎",
+        "2023 — 100+ qubit 中性原子系統",
+        "2024 — 部署至歐洲 HPC 中心"
+      ],
+      "tags": ["中性原子", "歐洲", "類比模擬"]
+    },
+    {
+      "id": "alice-bob",
+      "name": "Alice & Bob",
+      "country": "France",
+      "flag": "🇫🇷",
+      "founded": 2020,
+      "technology": "Superconducting (cat qubit)",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://alice-bob.com",
+      "chips": ["Boson 系列"],
+      "summary": "法國超導 cat qubit 公司，主打自帶糾錯能力的貓態量子位元。",
+      "description": "Alice & Bob 專注於超導 cat qubit（貓態量子位元），利用 bosonic 編碼天生抑制位元翻轉錯誤，理論上可大幅減少糾錯開銷。目標以較少的實體 qubit 實現容錯量子運算，是歐洲量子硬體的代表新創之一。",
+      "milestones": [
+        "2022 — 展示 cat qubit 位元翻轉抑制",
+        "2024 — 發布容錯架構 roadmap"
+      ],
+      "tags": ["超導", "cat qubit", "歐洲", "容錯"]
+    },
+    {
+      "id": "iqm",
+      "name": "IQM Quantum Computers",
+      "country": "Finland",
+      "flag": "🇫🇮",
+      "founded": 2018,
+      "technology": "Superconducting",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://www.meetiqm.com",
+      "chips": ["Garnet (20 qubit)", "Radiance (規劃中)"],
+      "summary": "歐洲最大的超導量子硬體公司之一，提供 on-premise 量子電腦。",
+      "description": "IQM 總部位於芬蘭，是歐洲領先的超導量子電腦製造商，主打可安裝於客戶現場（on-premise）的完整量子系統。已售出多套系統給歐洲超算中心（如 LRZ、VTT）。採用 transmon qubit，並發展 co-design 量子處理器以針對特定演算法最佳化。",
+      "milestones": [
+        "2022 — 與德國 LRZ 合作建置量子加速器",
+        "2024 — Garnet 20 qubit 商用系統"
+      ],
+      "tags": ["超導", "歐洲", "on-premise"]
+    },
+    {
+      "id": "oqc",
+      "name": "Oxford Quantum Circuits (OQC)",
+      "country": "UK",
+      "flag": "🇬🇧",
+      "founded": 2017,
+      "technology": "Superconducting",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://oqc.tech",
+      "chips": ["Lucy", "Toshiko"],
+      "summary": "英國超導量子公司，採用獨特的 Coaxmon 3D 量子位元設計。",
+      "description": "OQC 是英國領先的超導量子新創，源自牛津大學。採用專利的 Coaxmon 三維量子位元架構，將控制線從晶片平面移至垂直方向以利微縮。透過雲端與 data center 部署（如與 Equinix 合作）提供量子運算即服務。",
+      "milestones": [
+        "2022 — Lucy 系統上雲",
+        "2024 — Toshiko 32 qubit 部署於資料中心"
+      ],
+      "tags": ["超導", "英國", "Coaxmon"]
+    },
+    {
+      "id": "quantum-brilliance",
+      "name": "Quantum Brilliance",
+      "country": "Australia / Germany",
+      "flag": "🇦🇺",
+      "founded": 2019,
+      "technology": "Diamond NV center",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://quantumbrilliance.com",
+      "chips": ["Diamond NV 量子加速器"],
+      "summary": "鑽石氮空位（NV center）量子公司，主打室溫運作的小型量子加速器。",
+      "description": "Quantum Brilliance 採用鑽石中的氮空位色心（NV center）作為量子位元，最大特色是可在室溫運作、無需稀釋冷凍機，因此能做成小型化、可嵌入式的量子加速器。目標是讓量子運算如 GPU 般部署於邊緣與 HPC 環境。",
+      "milestones": [
+        "2021 — 室溫鑽石量子加速器原型",
+        "2023 — 與 Pawsey 超算中心合作"
+      ],
+      "tags": ["鑽石NV", "室溫", "邊緣運算"]
+    },
+    {
+      "id": "sqc",
+      "name": "Silicon Quantum Computing (SQC)",
+      "country": "Australia",
+      "flag": "🇦🇺",
+      "founded": 2017,
+      "technology": "Silicon (atomic)",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://sqc.com.au",
+      "chips": ["原子級矽量子處理器"],
+      "summary": "由 Michelle Simmons 領導，以原子級精度在矽中放置磷原子製作量子位元。",
+      "description": "SQC 由澳洲量子物理學家 Michelle Simmons 創立，採用獨特的原子級製造技術，以掃描穿隧顯微鏡（STM）在矽晶體中逐一放置磷原子作為量子位元。主打超高精度與與半導體相容性，2022 年宣稱製作出世界首個原子級積體電路。",
+      "milestones": [
+        "2022 — 世界首個原子級積體電路",
+        "2023 — 多 qubit 矽處理器展示"
+      ],
+      "tags": ["矽自旋", "澳洲", "原子級製造"]
+    },
+    {
+      "id": "origin-quantum",
+      "name": "本源量子 (Origin Quantum)",
+      "country": "China",
+      "flag": "🇨🇳",
+      "founded": 2017,
+      "technology": "Superconducting",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://www.originqc.com.cn",
+      "chips": ["悟空 Wukong (72 qubit)", "悟源"],
+      "summary": "中國領先的量子運算公司，源自中科大，發表 72 qubit 悟空晶片。",
+      "description": "本源量子源自中國科學技術大學（USTC），是中國最具代表性的量子運算公司之一。採用超導 qubit 技術，2024 年發表 72 qubit 的「悟空」量子電腦並上線供全球使用。同時開發量子作業系統「本源司南」與量子雲平台，發展量子晶片、測控系統的全棧自主能力。",
+      "milestones": [
+        "2020 — 悟源 6 qubit 超導量子電腦",
+        "2024 — 悟空 72 qubit 上線"
+      ],
+      "tags": ["超導", "中國", "全棧自主"]
+    },
+    {
+      "id": "baidu",
+      "name": "百度量子 (Baidu Quantum)",
+      "country": "China",
+      "flag": "🇨🇳",
+      "founded": 2018,
+      "technology": "Superconducting",
+      "public": true,
+      "ticker": "BIDU",
+      "exchange": "NASDAQ",
+      "website": "https://quantum.baidu.com",
+      "chips": ["乾始 Qian Shi (10 qubit)"],
+      "summary": "百度量子運算研究所，發表 10 qubit 乾始量子電腦與量脈平台。",
+      "description": "百度於 2018 年成立量子運算研究所，2022 年發表 10 qubit 的「乾始」超導量子電腦與「量羲」全平台。提供量子軟硬體一體化方案 Quantum Leaf 量易伏。注意：百度於 2024 年將量子實驗室捐贈予北京量子資訊科學研究院。",
+      "milestones": [
+        "2022 — 乾始 10 qubit 量子電腦",
+        "2024 — 量子實驗室捐贈北京量子院"
+      ],
+      "tags": ["超導", "中國", "大廠"]
+    },
+    {
+      "id": "spinq",
+      "name": "SpinQ (量旋科技)",
+      "country": "China",
+      "flag": "🇨🇳",
+      "founded": 2018,
+      "technology": "NMR / Superconducting",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://www.spinquanta.com",
+      "chips": ["Gemini (桌上型)", "超導系統"],
+      "summary": "中國深圳量子公司，以桌上型 NMR 量子電腦切入教育市場。",
+      "description": "SpinQ（量旋科技）總部位於深圳，最具特色的是推出小型化、可放在桌上的核磁共振（NMR）量子電腦，主打量子教育與科普市場。同時也發展超導量子處理器與量子測控系統，提供完整量子運算解決方案。",
+      "milestones": [
+        "2021 — Gemini 桌上型 NMR 量子電腦",
+        "2023 — 超導量子產品線推出"
+      ],
+      "tags": ["NMR", "中國", "教育市場"]
+    },
+    {
+      "id": "fujitsu",
+      "name": "Fujitsu",
+      "country": "Japan",
+      "flag": "🇯🇵",
+      "founded": 2020,
+      "technology": "Superconducting / Diamond",
+      "public": true,
+      "ticker": "6702",
+      "exchange": "TSE",
+      "website": "https://www.fujitsu.com/global/about/research/quantum",
+      "chips": ["256 qubit 超導系統 (與 RIKEN)"],
+      "summary": "與 RIKEN 合作開發超導量子電腦，並提供量子啟發的數位退火機。",
+      "description": "Fujitsu 與日本理化學研究所（RIKEN）合作開發超導量子電腦，2025 年推出 256 qubit 系統。同時 Fujitsu 也以「數位退火機」（Digital Annealer）提供量子啟發式的最佳化運算服務。並研究鑽石自旋量子位元等多元路線。",
+      "milestones": [
+        "2023 — 與 RIKEN 64 qubit 超導系統",
+        "2025 — 256 qubit 超導量子電腦"
+      ],
+      "tags": ["超導", "日本", "數位退火", "大廠"]
+    },
+    {
+      "id": "ntt",
+      "name": "NTT",
+      "country": "Japan",
+      "flag": "🇯🇵",
+      "founded": 2019,
+      "technology": "Photonic",
+      "public": true,
+      "ticker": "9432",
+      "exchange": "TSE",
+      "website": "https://group.ntt/en/research",
+      "chips": ["LASOLV 光量子相干機"],
+      "summary": "日本電信巨頭，發展光量子與相干伊辛機（coherent Ising machine）。",
+      "description": "NTT 研究光量子運算與相干伊辛機（Coherent Ising Machine, CIM），其 LASOLV 系統以光參量振盪器網路解最佳化問題。NTT 同時投入光子量子位元與量子網路研究，是日本量子生態的重要力量。",
+      "milestones": [
+        "2019 — LASOLV 相干伊辛機商用測試",
+        "2023 — 光量子網路實驗"
+      ],
+      "tags": ["光量子", "日本", "伊辛機", "大廠"]
+    },
+    {
+      "id": "quantware",
+      "name": "QuantWare",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "founded": 2020,
+      "technology": "Superconducting (chips)",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://www.quantware.com",
+      "chips": ["Soprano", "Contralto", "VIO (3D 整合)"],
+      "summary": "超導量子處理器的「晶圓代工」，供應 QPU 給其他量子公司。",
+      "description": "QuantWare 源自荷蘭 Delft 的 QuTech，定位為超導量子處理器（QPU）的供應商與代工廠，讓其他量子公司與研究機構能快速取得客製化量子晶片。其 VIO 技術用 3D 整合解決量子晶片佈線微縮瓶頸，目標降低整個產業的硬體門檻。",
+      "milestones": [
+        "2021 — 首款商用 QPU Soprano",
+        "2024 — VIO 3D 整合技術"
+      ],
+      "tags": ["超導", "歐洲", "QPU代工"]
+    },
+    {
+      "id": "quantum-computing-inc",
+      "name": "Quantum Computing Inc (QCi)",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "founded": 2018,
+      "technology": "Photonic (entropy)",
+      "public": true,
+      "ticker": "QUBT",
+      "exchange": "NASDAQ",
+      "website": "https://quantumcomputinginc.com",
+      "chips": ["Dirac 系列 (熵量子運算)", "TFLN 光子晶片"],
+      "summary": "上市的光量子公司，主打室溫光子熵運算與薄膜鈮酸鋰晶片。",
+      "description": "QCi 是美國 NASDAQ 上市公司，發展室溫運作的光量子系統。其 Dirac 系列採用「熵量子運算」（entropy quantum computing）切入最佳化問題，並自建薄膜鈮酸鋰（TFLN）光子晶片晶圓廠。",
+      "milestones": [
+        "2023 — Dirac-3 熵量子最佳化機",
+        "2024 — TFLN 光子晶片廠投產"
+      ],
+      "tags": ["光量子", "上市", "室溫", "最佳化"]
+    },
+    {
+      "id": "planqc",
+      "name": "planqc",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "founded": 2022,
+      "technology": "Neutral atom",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://www.planqc.eu",
+      "chips": ["中性原子處理器"],
+      "summary": "德國中性原子量子公司，源自馬克斯普朗克量子光學研究所。",
+      "description": "planqc 源自德國馬克斯普朗克量子光學研究所（MPQ），採用中性原子技術，以光晶格與光鑷囚禁原子陣列。獲德國政府與 DLR 大力支持，目標建置數千 qubit 的量子處理器，是歐洲量子主權的代表項目之一。",
+      "milestones": [
+        "2022 — 公司成立、獲 DLR 合約",
+        "2024 — 中性原子處理器開發中"
+      ],
+      "tags": ["中性原子", "歐洲", "德國"]
+    },
+    {
+      "id": "alpine-quantum",
+      "name": "Alpine Quantum Technologies (AQT)",
+      "country": "Austria",
+      "flag": "🇦🇹",
+      "founded": 2018,
+      "technology": "Trapped ion",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://www.aqt.eu",
+      "chips": ["PINE", "機架式離子阱系統"],
+      "summary": "奧地利離子阱量子公司，源自 Innsbruck，主打 19 吋機架式量子電腦。",
+      "description": "AQT 源自奧地利 Innsbruck 大學的離子阱研究重鎮，最大特色是將離子阱量子電腦做成標準 19 吋機架尺寸，可部署於一般資料中心。採用鈣離子 qubit，主打高保真度與可整合性，是歐洲離子阱路線的代表。",
+      "milestones": [
+        "2021 — 機架式離子阱量子電腦",
+        "2024 — 部署於歐洲超算中心"
+      ],
+      "tags": ["離子阱", "歐洲", "機架式"]
+    },
+    {
+      "id": "riverlane",
+      "name": "Riverlane",
+      "country": "UK",
+      "flag": "🇬🇧",
+      "founded": 2016,
+      "technology": "Error correction (software/chip)",
+      "public": false,
+      "ticker": null,
+      "exchange": null,
+      "website": "https://www.riverlane.com",
+      "chips": ["Deltaflow QEC 解碼晶片"],
+      "summary": "英國量子糾錯專家，開發即時 QEC 解碼器，硬體無關。",
+      "description": "Riverlane 專注量子糾錯（QEC）的「作業系統層」，開發即時量子錯誤更正解碼器與專用晶片（Deltaflow），目標讓任何量子硬體都能達到容錯運算。是少數專攻 QEC 軟硬體基礎設施的公司，與多家硬體商及國家實驗室合作。",
+      "milestones": [
+        "2023 — Deltaflow QEC 解碼器",
+        "2024 — 與多家硬體商整合 QEC stack"
+      ],
+      "tags": ["量子糾錯", "英國", "硬體無關"]
+    }
+  ]
+}

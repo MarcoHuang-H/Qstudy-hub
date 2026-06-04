@@ -1,0 +1,40 @@
+name: Update Quantum News
+
+# Fetches RSS feeds and commits data/news.json so the static site shows fresh news.
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours (UTC)
+  workflow_dispatch:         # allow manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Fetch news
+        run: python scripts/fetch_news.py
+
+      - name: Commit news.json if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --staged --quiet; then
+            echo "No news changes."
+          else
+            git commit -m "chore: update quantum news $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

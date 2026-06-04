@@ -1,0 +1,29 @@
+{
+  "feeds": [
+    {
+      "name": "Phys.org — Quantum Physics",
+      "url": "https://phys.org/rss-feed/physics-news/quantum-physics/",
+      "lang": "en"
+    },
+    {
+      "name": "ScienceDaily — Quantum Computers",
+      "url": "https://www.sciencedaily.com/rss/computers_math/quantum_computers.xml",
+      "lang": "en"
+    },
+    {
+      "name": "arXiv — quant-ph (latest)",
+      "url": "http://export.arxiv.org/rss/quant-ph",
+      "lang": "en"
+    },
+    {
+      "name": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/feed/",
+      "lang": "en"
+    },
+    {
+      "name": "MIT News — Quantum Computing",
+      "url": "https://news.mit.edu/topic/mitquantum-computing-rss.xml",
+      "lang": "en"
+    }
+  ]
+}

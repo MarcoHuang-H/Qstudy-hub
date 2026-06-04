@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>量子公司資料庫</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="companies">
+  <main class="container">
+    <h1 class="page-title">🏢 全球量子運算公司</h1>
+
+    <div class="filters">
+      <input type="text" id="search" placeholder="🔍 搜尋公司名稱 / 技術 / 標籤…">
+      <select id="filter-tech"><option value="">所有技術</option></select>
+      <select id="filter-country"><option value="">所有國家</option></select>
+      <select id="filter-public">
+        <option value="">上市狀態</option>
+        <option value="public">已上市</option>
+        <option value="private">未上市</option>
+      </select>
+    </div>
+
+    <div class="count-line"><span id="count">–</span> 間公司</div>
+    <div class="company-grid" id="grid"></div>
+    <div id="empty" class="empty-msg" style="display:none">沒有符合條件的公司</div>
+  </main>
+
+  <script src="js/common.js"></script>
+  <script src="js/companies.js"></script>
+</body>
+</html>
