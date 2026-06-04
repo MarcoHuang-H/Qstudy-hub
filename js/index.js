@@ -1,25 +1,16 @@
-// Home dashboard: load companies.json, compute stats.
+// Home dashboard: load companies.json, render technology distribution chart.
 fetch("data/companies.json")
   .then((r) => r.json())
   .then((d) => {
     const companies = d.companies;
     const byTech = {};
-    let pub = 0;
-    const countries = new Set();
     companies.forEach((c) => {
       byTech[c.technology] = (byTech[c.technology] || 0) + 1;
-      if (c.public) pub++;
-      countries.add(c.country);
     });
     const techSorted = Object.entries(byTech).sort((a, b) => b[1] - a[1]);
-
-    document.getElementById("stat-total").textContent = companies.length;
-    document.getElementById("stat-public").textContent = pub;
-    document.getElementById("stat-countries").textContent = countries.size;
-    document.getElementById("stat-tech").textContent = techSorted.length;
-
     const total = companies.length;
-    const bars = techSorted
+
+    document.getElementById("tech-bars").innerHTML = techSorted
       .map(
         ([tech, n]) => `
       <div class="tech-bar-row">
@@ -31,7 +22,6 @@ fetch("data/companies.json")
       </div>`
       )
       .join("");
-    document.getElementById("tech-bars").innerHTML = bars;
   })
   .catch(() => {
     document.getElementById("tech-bars").innerHTML =
