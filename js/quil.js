@@ -194,7 +194,7 @@ HALT`;
   function init(root) {
     root.innerHTML =
       `<div class="sim-header"><div class="sim-title">🧪 內建量子模擬器</div></div>` +
-      `<p class="sim-desc">貼上 pyQuil / Quil 編譯出來的閘操作，逐步驅動每個 qubit 的 Bloch 球旋轉。支援 RX/RY/RZ/PHASE、H/X/Y/Z/S/T、CZ/CNOT。遇到 CZ 等雙位元閘產生糾纏時，Bloch 向量會縮短（代表純度下降）。</p>` +
+      `<p class="sim-desc">貼上 Qiskit 編譯出來的閘操作，逐步驅動每個 qubit 的 Bloch 球旋轉。支援 RX/RY/RZ/PHASE、H/X/Y/Z/S/T、CZ/CNOT。遇到 CZ 等雙位元閘產生糾纏時，Bloch 向量會縮短（代表純度下降）。</p>` +
       `<div class="quil-top">` +
         `<textarea id="quil-src" spellcheck="false"></textarea>` +
         `<div class="quil-buttons">` +

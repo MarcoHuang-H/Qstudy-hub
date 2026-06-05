@@ -13,7 +13,7 @@
 
   // Simulator tools (Simulation section sub-menu).
   const SIM_TOOLS = [
-    { id: "builtin", name: "內建模擬器（Quil → Bloch）" },
+    { id: "builtin", name: "內建模擬器（Qiskit → Bloch）" },
     { id: "quirk",   name: "Quirk（外部連結）" },
     { id: "ibm",     name: "IBM Composer（外部連結）" },
   ];
