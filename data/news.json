@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1780652347,
+  "generated_ts": 1780670406,
   "items": [
+    {
+      "title": "SEALSQ Broadens Quantum Computing and Post-Quantum Security Strategy",
+      "link": "https://thequantuminsider.com/2026/06/05/sealsq-expands-quantum-strategy-through-investments-in-quantum-computing-companies/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 14:09:29 +0000",
+      "published_ts": 1780668569,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today updated on its strategic expansion into the full qua…"
+    },
+    {
+      "title": "The Companies Building Quantum Computing Chips in 2026",
+      "link": "https://thequantuminsider.com/2026/06/05/how-many-quantum-chip-companies-are-there/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 12:57:33 +0000",
+      "published_ts": 1780664253,
+      "summary": "Insider Brief Quantum computing hardware in 2026 looks like several distinct technologies, each with different physics, different manufacturing constraints, and different ideas about what fault-tolerant quantum computing should look like when it arrives. Superconducting qubits, trapped ions, photoni…"
+    },
+    {
+      "title": "Scientists Identify the Origin of Noise in Spin Qubit Quantum Processors",
+      "link": "https://thequantuminsider.com/2026/06/05/scientists-identify-the-origin-of-noise-in-spin-qubit-quantum-processors/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 11:52:57 +0000",
+      "published_ts": 1780660377,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A spin qubit, in which quantum information is encoded in the spin state of an electron, is one of the most promising platforms for quantum computing. Spin qubits exhibit long coherence times and are compatible with advanced semiconductor manufacturing technologies…"
+    },
+    {
+      "title": "Chinese Scientists Demonstrate Quantum Random Access Memory Architecture Aimed at Solving Data Bottleneck",
+      "link": "https://thequantuminsider.com/2026/06/05/chinese-scientists-demonstrate-quantum-random-access-memory-architecture-aimed-at-solving-data-bottleneck/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 11:34:22 +0000",
+      "published_ts": 1780659262,
+      "summary": "Insider Brief Chinese researchers have experimentally demonstrated a quantum random access memory architecture, or QRAM, on a superconducting quantum processor, marking what researchers describe as a significant step toward improving how quantum computers access large amounts of conventional data. T…"
+    },
+    {
+      "title": "Classiq and UC Chile Launch Quantum Computing Research for Biomedical Imaging",
+      "link": "https://thequantuminsider.com/2026/06/05/classiq-and-uc-chile-launch-quantum-computing-research-for-biomedical-imaging/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 09:42:11 +0000",
+      "published_ts": 1780652531,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq and Pontificia Universidad Católica de Chile (UC Chile) today announced a joint research project to develop hybrid quantum algorithms for biomedical image analysis, assisted by classical machine learning and the NVIDIA CUDA-Q platform for quantum-classical…"
+    },
+    {
+      "title": "Quantinuum and Mitsubishi Electric Sign Quantum Computing MOU",
+      "link": "https://thequantuminsider.com/2026/06/05/quantinuum-and-mitsubishi-electric-sign-quantum-computing-mou/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 09:34:28 +0000",
+      "published_ts": 1780652068,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum, a leading quantum computing company, announced today that it has signed a non-binding Memorandum of Understanding (MOU) with Mitsubishi Electric Corporation, a recognized global leader in the manufacturing, marketing, and sale of electrical and electro…"
+    },
     {
       "title": "OQC, JPMorganChase and AMD Commence Research Collaboration to Develop New Quantum-AI Platform in London",
       "link": "https://thequantuminsider.com/2026/06/05/oqc-jpmorganchase-and-amd-commence-research-collaboration-to-develop-new-quantum-ai-platform-in-london/",
@@ -170,46 +218,6 @@
       "summary": "Quantum materials, materials with properties that are governed by the laws of quantum mechanics describing many-body interactions, have proved promising for the development of various advanced technologies. Many of these materials undergo so-called phase transitions, switching between different phys…"
     },
     {
-      "title": "C12 Introduces Nanoassembly Process for Carbon Nanotube Quantum Chips",
-      "link": "https://thequantuminsider.com/2026/06/04/c12-introduces-nanoassembly-process-for-carbon-nanotube-quantum-chips/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 09:07:41 +0000",
-      "published_ts": 1780564061,
-      "summary": "Insider Brief PRESS RELEASE &#8212; C12, a Paris-based quantum computing company developing carbon nanotube spin qubit processors,&#160; today announced its proprietary Pick &#38; Place nanoassembly technology: a custom-built, patented nanoassembly method developed entirely in-house to transfer indi…"
-    },
-    {
-      "title": "QuantX Labs Announces Seed Round With Serendipity Capital Lead Investor",
-      "link": "https://thequantuminsider.com/2026/06/04/quantx-labs-announces-seed-round-with-serendipity-capital-lead-investor/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 08:41:20 +0000",
-      "published_ts": 1780562480,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Serendipity Capital, a leading global investor in critical technologies, announced today that it has led the seed fundraising round for QuantX Labs, an Australian company at the forefront of quantum sensing for applications including Positioning, Navigation and Ti…"
-    },
-    {
-      "title": "Quantinuum to Debut on Nasdaq After Raising $1.68 Billion in IPO",
-      "link": "https://thequantuminsider.com/2026/06/04/quantinuum-to-debut-on-nasdaq-after-raising-1-68-billion-in-ipo/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 08:26:16 +0000",
-      "published_ts": 1780561576,
-      "summary": "Insider Brief Quantinuum is set to begin trading on the Nasdaq today (June 4) after raising $1.68 billion in one of the largest quantum computing initial public offerings to date, a closely watched debut that could shape investor sentiment across the emerging sector. The Broomfield, Colorado-based c…"
-    },
-    {
-      "title": "Yaqumo, NKT Photonics and Hamamatsu Photonics Sign Quantum Photonics Agreement",
-      "link": "https://thequantuminsider.com/2026/06/04/yaqumo-nkt-photonics-and-hamamatsu-photonics-sign-quantum-photonics-agreement/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 07:54:20 +0000",
-      "published_ts": 1780559660,
-      "summary": "Insider Brief PRESS RELEASE &#8212; As the industrialization of quantum computing accelerates worldwide, the advancement and stable procurement of optical core components and materials that fundamentally underpin system performance have become critical challenges — beyond the development of quantum…"
-    },
-    {
-      "title": "Quantum Design Acquires Quantum Sensing Company Qnami",
-      "link": "https://thequantuminsider.com/2026/06/04/quantum-design-acquires-quantum-sensing-company-qnami/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 07:46:49 +0000",
-      "published_ts": 1780559209,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Design International, Inc., a leading global provider of scientific instrumentation and advanced materials characterization solutions, announced the acquisition of Qnami, a pioneer in diamond-based quantum sensing technologies. The transaction enhances Qua…"
-    },
-    {
       "title": "Nanomagnets control diamond qubits, pointing to more scalable quantum hardware",
       "link": "https://phys.org/news/2026-06-nanomagnets-diamond-qubits-scalable-quantum.html",
       "source": "Phys.org — Quantum Physics",
@@ -224,14 +232,6 @@
       "published": "Wed, 03 Jun 2026 14:40:07 EDT",
       "published_ts": 1780512007,
       "summary": "UNSW Sydney engineers have riffed on the famous Schrödinger's cat analogy to demonstrate a more efficient way to eliminate errors in quantum computing."
-    },
-    {
-      "title": "Ooredoo, HBKU, Ministry of Defence Launch Qatar’s First Quantum-Safe Network",
-      "link": "https://thequantuminsider.com/2026/06/03/ooredoo-hbku-ministry-of-defence-launch-qatars-first-quantum-safe-network/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 18:26:05 +0000",
-      "published_ts": 1780511165,
-      "summary": "Insider Brief Ooredoo Qatar announced the deployment of the first quantum-safe communications link in Qatar, a project the company says establishes a foundation for next-generation cybersecurity and secure digital infrastructure in the country. According to the Qatar Tribune, the initiative was deve…"
     },
     {
       "title": "Chip-scale 'acoustic atom' controls sound waves to imitate atomic energy levels and advance computing",
