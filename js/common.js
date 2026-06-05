@@ -4,10 +4,17 @@
   const page = document.body.dataset.page || "";
 
   const links = [
-    { href: "index.html",     key: "home",      icon: "🏠", label: "首頁" },
-    { href: "companies.html", key: "companies", icon: "🏢", label: "公司" },
-    { href: "news.html",      key: "news",      icon: "📰", label: "新聞" },
-    { href: "wiki.html",      key: "wiki",      icon: "📖", label: "Wiki" },
+    { href: "index.html",      key: "home",      icon: "🏠", label: "首頁" },
+    { href: "companies.html",  key: "companies", icon: "🏢", label: "公司" },
+    { href: "news.html",       key: "news",      icon: "📰", label: "新聞" },
+    { href: "wiki.html",       key: "wiki",      icon: "📖", label: "Wiki" },
+    { href: "simulation.html", key: "sim",       icon: "🧪", label: "Simulation" },
+  ];
+
+  // External simulator tools (Simulation section sub-menu).
+  const SIM_TOOLS = [
+    { id: "quirk", name: "Quirk（線路模擬器）" },
+    { id: "ibm",   name: "IBM Quantum Composer" },
   ];
 
   // The existing page content lives in <main class="container">.
@@ -28,6 +35,18 @@
         // Wiki gets a sub-menu placeholder (filled in async below)
         if (l.key === "wiki") {
           return linkHTML + `<div class="side-sub" id="wiki-submenu"></div>`;
+        }
+        // Simulation sub-menu (only shown when in the sim section)
+        if (l.key === "sim") {
+          let sub = "";
+          if (page === "sim") {
+            const cur = new URLSearchParams(location.search).get("tool") || "quirk";
+            sub = `<div class="side-sub">` +
+              SIM_TOOLS.map((t) =>
+                `<a href="simulation.html?tool=${t.id}" class="sub-topic ${t.id === cur ? "on" : ""}">${t.name}</a>`
+              ).join("") + `</div>`;
+          }
+          return linkHTML + sub;
         }
         return linkHTML;
       })
