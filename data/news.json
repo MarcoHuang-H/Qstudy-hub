@@ -1,6 +1,86 @@
 {
-  "generated_ts": 1780551613,
+  "generated_ts": 1780603198,
   "items": [
+    {
+      "title": "Quantum shell structure reveals new rule for proton-neutron pairing inside nuclei",
+      "link": "https://phys.org/news/2026-06-quantum-shell-reveals-proton-neutron.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 04 Jun 2026 10:20:09 EDT",
+      "published_ts": 1780582809,
+      "summary": "Nuclear physicists used a little magic in their latest experiment conducted at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility, and the result has revealed surprising new information about the behavior of protons and neutrons inside the atom's nucleus. Specifically, th…"
+    },
+    {
+      "title": "UK Risks Repeating Semiconductor and AI Mistakes Unless Government Acts Now on Quantum, Warns Cross-Party Parliamentary Group",
+      "link": "https://thequantuminsider.com/2026/06/04/uk-risks-repeating-semiconductor-and-ai-mistakes-unless-government-acts-now-on-quantum-warns-cross-party-parliamentary-group/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 13:25:43 +0000",
+      "published_ts": 1780579543,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The United Kingdom launched the world&#8217;s first National Quantum Technologies Programme in 2014, and has invested more than £1 billion over the past decade in building an ecosystem that spans quantum computing, sensing, communications and timing. According to…"
+    },
+    {
+      "title": "Quantum X Labs Adds Oren Raz to Scientific Advisory Board",
+      "link": "https://thequantuminsider.com/2026/06/04/quantum-x-labs-adds-oren-raz-to-scientific-advisory-board/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 12:05:27 +0000",
+      "published_ts": 1780574727,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum X Labs Inc. (Nasdaq: QXL), an advanced quantum technologies company, today announces the appointment of Prof. Oren Raz of the Weizmann Institute of Science to its Scientific Advisory Board. Prof. Raz&#8217;s appointment brings one of Israel&#8217;s most di…"
+    },
+    {
+      "title": "Texas Governor Appoints Five to Quantum Initiative Advisory Committee",
+      "link": "https://thequantuminsider.com/2026/06/04/texas-governor-appoints-five-to-quantum-initiative-advisory-committee/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 11:18:02 +0000",
+      "published_ts": 1780571882,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Governor Greg Abbott appointed Victor Fishman, Ph.D. and Lin Zhou, Ph.D. to the Quantum Initiative Advisory Committee for terms set to expire on January 31, 2027. Governor Abbott also&#160;appointed Richard “Ross” Coffman for a term set to expire on January 31, 20…"
+    },
+    {
+      "title": "Photoexcitation flips 2D moiré devices from metals to insulators in ultrafast test",
+      "link": "https://phys.org/news/2026-06-photoexcitation-flips-2d-moir-devices.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 04 Jun 2026 07:00:04 EDT",
+      "published_ts": 1780570804,
+      "summary": "Quantum materials, materials with properties that are governed by the laws of quantum mechanics describing many-body interactions, have proved promising for the development of various advanced technologies. Many of these materials undergo so-called phase transitions, switching between different phys…"
+    },
+    {
+      "title": "C12 Introduces Nanoassembly Process for Carbon Nanotube Quantum Chips",
+      "link": "https://thequantuminsider.com/2026/06/04/c12-introduces-nanoassembly-process-for-carbon-nanotube-quantum-chips/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 09:07:41 +0000",
+      "published_ts": 1780564061,
+      "summary": "Insider Brief PRESS RELEASE &#8212; C12, a Paris-based quantum computing company developing carbon nanotube spin qubit processors,&#160; today announced its proprietary Pick &#38; Place nanoassembly technology: a custom-built, patented nanoassembly method developed entirely in-house to transfer indi…"
+    },
+    {
+      "title": "QuantX Labs Announces Seed Round With Serendipity Capital Lead Investor",
+      "link": "https://thequantuminsider.com/2026/06/04/quantx-labs-announces-seed-round-with-serendipity-capital-lead-investor/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 08:41:20 +0000",
+      "published_ts": 1780562480,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Serendipity Capital, a leading global investor in critical technologies, announced today that it has led the seed fundraising round for QuantX Labs, an Australian company at the forefront of quantum sensing for applications including Positioning, Navigation and Ti…"
+    },
+    {
+      "title": "Quantinuum to Debut on Nasdaq After Raising $1.68 Billion in IPO",
+      "link": "https://thequantuminsider.com/2026/06/04/quantinuum-to-debut-on-nasdaq-after-raising-1-68-billion-in-ipo/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 08:26:16 +0000",
+      "published_ts": 1780561576,
+      "summary": "Insider Brief Quantinuum is set to begin trading on the Nasdaq today (June 4) after raising $1.68 billion in one of the largest quantum computing initial public offerings to date, a closely watched debut that could shape investor sentiment across the emerging sector. The Broomfield, Colorado-based c…"
+    },
+    {
+      "title": "Yaqumo, NKT Photonics and Hamamatsu Photonics Sign Quantum Photonics Agreement",
+      "link": "https://thequantuminsider.com/2026/06/04/yaqumo-nkt-photonics-and-hamamatsu-photonics-sign-quantum-photonics-agreement/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 07:54:20 +0000",
+      "published_ts": 1780559660,
+      "summary": "Insider Brief PRESS RELEASE &#8212; As the industrialization of quantum computing accelerates worldwide, the advancement and stable procurement of optical core components and materials that fundamentally underpin system performance have become critical challenges — beyond the development of quantum…"
+    },
+    {
+      "title": "Quantum Design Acquires Quantum Sensing Company Qnami",
+      "link": "https://thequantuminsider.com/2026/06/04/quantum-design-acquires-quantum-sensing-company-qnami/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 04 Jun 2026 07:46:49 +0000",
+      "published_ts": 1780559209,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Design International, Inc., a leading global provider of scientific instrumentation and advanced materials characterization solutions, announced the acquisition of Qnami, a pioneer in diamond-based quantum sensing technologies. The transaction enhances Qua…"
+    },
     {
       "title": "Graphical and algebraic methods for Boolean factoring",
       "link": "https://arxiv.org/abs/2606.04038",
@@ -162,70 +242,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Atom Computing today announced the industry’s first full demonstration of quantum error correction using a toric code. The results show that the company’s neutral-atom system reduces errors as larger numbers of qubits are used in computations, placing Atom Computi…"
     },
     {
-      "title": "Illinois Quantum and Microelectronics Park Appoints Philip Makotyn as Deputy CTO",
-      "link": "https://thequantuminsider.com/2026/06/03/illinois-quantum-and-microelectronics-park-announces-philip-makotyn-as-deputy-chief-technology-officer/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 14:46:18 +0000",
-      "published_ts": 1780497978,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Illinois Quantum and Microelectronics Park (IQMP) today announced Dr. Philip Makotyn as its new Deputy Chief Technology Officer, a senior leadership role focused on shaping the Park&#8217;s technical strategy and growth. After nearly twenty years working in Co…"
-    },
-    {
-      "title": "Infineon Advances Post-Quantum Security for Robotics Applications",
-      "link": "https://thequantuminsider.com/2026/06/03/infineon-advances-post-quantum-security-for-robotics-applications/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 12:38:28 +0000",
-      "published_ts": 1780490308,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Infineon Technologies AG (FSE: IFX) (OTCQX: IFNNY) today announces the integration of its OPTIGA™ Trusted Platform Module (TPM) SLB 9672 with NVIDIA&#8217;s Jetson Thor platform. The hardware-based security solution securely stores cryptographic keys and verifies…"
-    },
-    {
-      "title": "AI-Powered Quantum: Microsoft Turns to Agentic AI to Speed Quantum Computing Push",
-      "link": "https://thequantuminsider.com/2026/06/03/ai-powered-quantum-microsoft-turns-to-agentic-ai-to-speed-quantum-computing-push/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 12:00:29 +0000",
-      "published_ts": 1780488029,
-      "summary": "Insider Brief As quantum AI &#8212; the idea that quantum computers could one day enhance artificial intelligence &#8212; steadily climbs the list of anticipated quantum computing use cases, Microsoft says AI is already playing a growing role in advancing its quantum computing program. The company s…"
-    },
-    {
-      "title": "High Q Technologies and Creative Biostructure Advance Quantum EPR Research",
-      "link": "https://thequantuminsider.com/2026/06/03/high-q-technologies-creative-biostructure-partnership/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 11:57:37 +0000",
-      "published_ts": 1780487857,
-      "summary": "Insider Brief PRESS RELEASE &#8212; High Q Technologies, a developer of quantum computing-ready electron paramagnetic resonance (EPR) spectroscopy systems, and Creative Biostructure, a contract research organization in structural biology, today announce a strategic partnership to support wider adopt…"
-    },
-    {
-      "title": "UK Businesses Expect Significant Value from Quantum Computing, Survey Shows",
-      "link": "https://thequantuminsider.com/2026/06/03/uk-enterprises-quantum-computing-survey/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 11:45:20 +0000",
-      "published_ts": 1780487120,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Forty-one percent of large UK enterprises surveyed estimate quantum computing could unlock more than £100 million in value to their business in as little as one year, according to new findings from Censuswide and D-Wave Quantum Inc. (“D-Wave” or the “Company”). Th…"
-    },
-    {
-      "title": "Qunova Joins JHPC-Quantum Test User Program in Japan, Providing Algorithms For Advanced Industrial Computation",
-      "link": "https://thequantuminsider.com/2026/06/03/qunova-joins-jhpc-quantum-test-user-program-in-japan-providing-algorithms-for-advanced-industrial-computation/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 08:19:39 +0000",
-      "published_ts": 1780474779,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qunova Computing, a pioneering maker of software for quantum computing, has signed a Memorandum of Understanding (MoU) with JHPC-quantum (Japan High-Performance Computing), a landmark Japanese national computing initiative funded by NEDO (New Energy and Industrial…"
-    },
-    {
-      "title": "Report: Quantum Computing Could Unlock More Than £100 Million in Value",
-      "link": "https://thequantuminsider.com/2026/06/03/report-quantum-computing-could-unlock-more-than-100-million-in-value/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 08:11:15 +0000",
-      "published_ts": 1780474275,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Forty-one percent of large UK enterprises surveyed estimate quantum computing could unlock more than £100 million in value to their business in as little as one year, according to new findings from&#160;Censuswide&#160;and D-Wave Quantum Inc. (“D-Wave” or the “Com…"
-    },
-    {
-      "title": "QuiX Quantum Installs Real-Time Control Component for Universal Photonic Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/06/03/quix-quantum-installs-real-time-control-component-for-universal-photonic-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 08:09:11 +0000",
-      "published_ts": 1780474151,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum today announced the first installation of its Feed-Forward Control Unit (FFCU), a high-performance hardware component developed for the company’s universal photonic quantum computing architecture. The FFCU is designed to help the system respond to qua…"
-    },
-    {
       "title": "Cutting a photon in two creates an infinite swarm of particles",
       "link": "https://phys.org/news/2026-06-photon-infinite-swarm-particles.html",
       "source": "Phys.org — Quantum Physics",
@@ -336,22 +352,6 @@
       "published": "Thu, 28 May 2026 11:20:05 EDT",
       "published_ts": 1779981605,
       "summary": "Honeycombs are famous for their elegant design, but now they may have found a new application: quantum computing. To collect knowledge from subatomic particles, quantum computers require carefully designed materials capable of performing necessary, complex functions. However, the metals used, such a…"
-    },
-    {
-      "title": "The generation of massive Schrödinger cat states using ultracold atoms",
-      "link": "https://phys.org/news/2026-05-generation-massive-schrdinger-cat-states.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 28 May 2026 07:10:01 EDT",
-      "published_ts": 1779966601,
-      "summary": "Quantum mechanics is a physics framework that describes how matter and energy behave at an extremely small scale, specifically at the scale of atoms and subatomic particles. An effect predicted by the laws of quantum mechanics is superposition, which entails that particles can exist in multiple stat…"
-    },
-    {
-      "title": "Q&A: How researchers are building next-gen quantum computers",
-      "link": "https://phys.org/news/2026-05-qa-gen-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 27 May 2026 15:20:03 EDT",
-      "published_ts": 1779909603,
-      "summary": "Quantum computers have the potential to transform science, accelerating breakthroughs in drug development, cosmology, materials science, nuclear physics, and more."
     },
     {
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
