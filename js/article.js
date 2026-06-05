@@ -24,7 +24,10 @@ function renderBlock(b, i) {
       return `<figure class="fig">${b.svg}` +
              (b.caption ? `<figcaption>${esc(b.caption)}</figcaption>` : "") + `</figure>`;
     case "img":
-      return `<figure class="fig"><img src="${esc(b.src)}" alt="${esc(b.caption||"")}" loading="lazy">` +
+      return `<figure class="fig">` +
+             `<img src="${esc(b.src)}" alt="${esc(b.caption||"")}" loading="lazy" ` +
+             `onerror="this.style.display='none';this.nextElementSibling.style.display='block'">` +
+             `<div class="img-missing" style="display:none">圖片尚未上傳：<code>${esc(b.src)}</code></div>` +
              (b.caption ? `<figcaption>${esc(b.caption)}</figcaption>` : "") + `</figure>`;
     case "bloch":
       return `<figure class="fig">` +
