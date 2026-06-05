@@ -87,9 +87,12 @@
     document.body.classList.remove("sidebar-open")
   );
 
-  // ── Wiki sub-menu (categories → topics), expandable ──
+  // ── Wiki sub-menu (categories → topics) ──
+  // Only shown when inside the Wiki section (wiki.html / article.html),
+  // so it doesn't duplicate / clutter the other pages.
   const currentArticle = new URLSearchParams(location.search).get("id");
   const SUBKEY = "qhub-wiki-open";
+  if (page === "wiki")
   fetch("data/wiki.json")
     .then((r) => r.json())
     .then((wiki) => {
