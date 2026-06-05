@@ -556,7 +556,7 @@
         {"type": "h", "text": "資訊如何轉移與干涉"},
         {"type": "p", "text": "呼叫 Oracle 後，f(0)、f(1) 不再在輸出位元上，而變成 |0⟩、|1⟩ 前面的正負號（相位）。最後的 H 閘其實是一個「干涉儀」，根據係數正負決定狀態「相長」（加在一起）還是「相消」（抵銷）：常數函數兩條路徑相對相位差為 0、平衡函數產生 π 的相對相位差。整個過程我們從未得知 f(0)、f(1) 的個別值——這種「不看局部、只看關係」的能力，正是量子演算法超越古典的核心。"},
         {"type": "h", "text": "📷 講義原圖（完整推導）"},
-        {"type": "img", "src": "deutsch-slide.png", "caption": "Deutsch 演算法講義投影片：電路圖、各階段 ψ0–ψ4 狀態與完整張量積推導。"}
+        {"type": "img", "src": "assets/course/deutsch-slide.png", "caption": "Deutsch 演算法講義投影片：電路圖、各階段 ψ0–ψ4 狀態與完整張量積推導。"}
       ],
       "related": ["phase-kickback", "hadamard-gate", "grover"]
     },
