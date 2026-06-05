@@ -11,10 +11,11 @@
     { href: "simulation.html", key: "sim",       icon: "🧪", label: "Simulation" },
   ];
 
-  // External simulator tools (Simulation section sub-menu).
+  // Simulator tools (Simulation section sub-menu).
   const SIM_TOOLS = [
-    { id: "quirk", name: "Quirk（線路模擬器）" },
-    { id: "ibm",   name: "IBM Quantum Composer" },
+    { id: "builtin", name: "內建模擬器（Quil → Bloch）" },
+    { id: "quirk",   name: "Quirk（外部連結）" },
+    { id: "ibm",     name: "IBM Composer（外部連結）" },
   ];
 
   // The existing page content lives in <main class="container">.
@@ -40,7 +41,7 @@
         if (l.key === "sim") {
           let sub = "";
           if (page === "sim") {
-            const cur = new URLSearchParams(location.search).get("tool") || "quirk";
+            const cur = new URLSearchParams(location.search).get("tool") || "builtin";
             sub = `<div class="side-sub">` +
               SIM_TOOLS.map((t) =>
                 `<a href="simulation.html?tool=${t.id}" class="sub-topic ${t.id === cur ? "on" : ""}">${t.name}</a>`

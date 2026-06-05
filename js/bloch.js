@@ -176,6 +176,10 @@
 
   const Bloch = {
     initAll() { document.querySelectorAll(".bloch-widget").forEach(setup); },
+    // Exposed for the built-in Quil simulator (js/quil.js):
+    draw: (ctx, size, vec) => draw(ctx, size, size, vec),  // vec NOT normalized → shows entanglement shrinkage
+    rotate,            // Rodrigues rotation
+    readout,           // |ψ⟩ text from a (normalized) vector
   };
   global.Bloch = Bloch;
   if (document.readyState !== "loading") Bloch.initAll();

@@ -328,6 +328,33 @@ body.sidebar-collapsed .main-wrap { margin-left: 0; }
 .sim-card p { color: var(--text-dim); margin-bottom: 18px; }
 .sim-open-big { font-size: 1rem; padding: 12px 24px; display: inline-block; }
 
+/* ── Built-in Quil simulator ── */
+.quil-top { display: flex; gap: 14px; flex-wrap: wrap; align-items: stretch; margin: 8px 0 14px; }
+#quil-src {
+  flex: 1; min-width: 280px; min-height: 220px; resize: vertical;
+  background: var(--bg); border: 1px solid var(--border); border-radius: 10px;
+  color: var(--text); font-family: "Consolas", monospace; font-size: .9rem;
+  padding: 12px 14px; line-height: 1.5;
+}
+.quil-buttons { display: flex; flex-direction: column; gap: 8px; justify-content: flex-start; }
+.quil-buttons .btn { white-space: nowrap; }
+.quil-msg { color: var(--accent-2); font-size: .9rem; min-height: 1.4em; margin-bottom: 12px; }
+.quil-spheres { display: flex; flex-wrap: wrap; gap: 18px; justify-content: center; margin-bottom: 18px; }
+.quil-sphere {
+  background: var(--bg-soft); border: 1px solid var(--border); border-radius: 12px;
+  padding: 12px; text-align: center;
+}
+.quil-qlabel { color: var(--text); font-size: .95rem; margin-bottom: 6px; }
+.quil-purity { color: var(--text-dim); font-size: .78rem; }
+.quil-gates { display: flex; flex-wrap: wrap; gap: 6px; }
+.quil-gate {
+  font-family: "Consolas", monospace; font-size: .8rem;
+  background: var(--bg-card); border: 1px solid var(--border); color: var(--text-dim);
+  padding: 4px 9px; border-radius: 6px;
+}
+.quil-gate.done { color: var(--text); border-color: #2f6b4a; }
+.quil-gate.cur { color: #0a0e1a; background: var(--accent-2); border-color: var(--accent-2); font-weight: 700; }
+
 /* ── Interactive Bloch sphere widget ── */
 .bloch-widget {
   display: inline-flex; flex-direction: column; align-items: center; gap: 10px;
