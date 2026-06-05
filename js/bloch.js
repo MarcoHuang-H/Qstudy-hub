@@ -126,8 +126,9 @@
     let vec = (STATES[widget.dataset.state] || [0,0,1]).slice();
     let busy = false;
 
+    const SZ = parseInt(widget.dataset.size, 10) || 300;
     const canvas = document.createElement("canvas");
-    canvas.width = 300; canvas.height = 300;
+    canvas.width = SZ; canvas.height = SZ;
     canvas.className = "bloch-canvas";
     const ctx = canvas.getContext("2d");
 
@@ -136,8 +137,9 @@
 
     const state = document.createElement("div");
     state.className = "bloch-state";
+    state.style.maxWidth = SZ + "px";
 
-    function render(){ draw(ctx, 300, 300, norm(vec)); state.textContent = readout(norm(vec)); }
+    function render(){ draw(ctx, SZ, SZ, norm(vec)); state.textContent = readout(norm(vec)); }
 
     function animate(axis, angle, after){
       if (busy) return; busy = true;

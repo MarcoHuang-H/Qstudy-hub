@@ -3,7 +3,7 @@
     {
       "id": "basics",
       "title": "基礎概念",
-      "articles": ["qubit", "superposition", "entanglement", "quantum-gate", "gate-basics", "decoherence", "qec"]
+      "articles": ["qubit", "superposition", "entanglement", "quantum-gate", "gate-1qubit", "gate-2qubit", "decoherence", "qec"]
     },
     {
       "id": "hardware",
@@ -79,47 +79,68 @@
         {"type": "h", "text": "通用閘集"},
         {"type": "p", "text": "只要有一組「通用閘集」（例如 {H, T, CNOT}），就能組合出任意量子運算，如同古典電腦用 NAND 閘可組出任何邏輯。"}
       ],
-      "related": ["qubit", "superposition", "entanglement", "gate-basics"]
+      "related": ["qubit", "superposition", "entanglement", "gate-1qubit", "gate-2qubit"]
     },
     {
-      "id": "gate-basics",
-      "title": "Gate 基本操作（1-Qubit / 2-Qubit）",
+      "id": "gate-1qubit",
+      "title": "1-Qubit 閘（單位元閘）",
       "category": "basics",
-      "summary": "常見單位元與雙位元量子閘的矩陣、物理意義、在 Bloch 球上的旋轉，附互動式動畫與線路圖。",
+      "summary": "單位元量子閘的矩陣、物理意義，每個閘附專屬的互動式 Bloch 球動畫。",
       "body": [
-        {"type": "p", "text": "量子閘都是么正（unitary）矩陣，作用在 qubit 上是可逆操作。單位元閘在 Bloch 球上等同於一次「旋轉」：么正算符 $U=e^{-i\\frac{\\theta}{2}(\\hat{n}\\cdot\\vec{\\sigma})}$ 會讓 Bloch 向量繞著軸 $\\hat{n}$ 旋轉 $\\theta$ 角。下面先看單位元閘，再看雙位元閘。"},
-
-        {"type": "h", "text": "🎮 互動式 Bloch 球（點按鈕看旋轉）"},
-        {"type": "bloch", "gates": "X,Y,Z,H,S,T,Rx,Ry,Rz", "state": "0", "caption": "從 |0⟩ 出發，點任一個閘觀察 Bloch 向量如何旋轉；↺ 可重設回 |0⟩。"},
-
-        {"type": "h", "text": "── 1-Qubit 閘 ──"},
+        {"type": "p", "text": "單位元閘都是么正（unitary）矩陣，在 Bloch 球上等同於一次「旋轉」：么正算符 $U=e^{-i\\frac{\\theta}{2}(\\hat{n}\\cdot\\vec{\\sigma})}$ 會讓 Bloch 向量繞著軸 $\\hat{n}$ 旋轉 $\\theta$ 角。下面每個閘都附一顆專屬的 Bloch 球——點那個閘的按鈕，看它自己的旋轉。"},
 
         {"type": "h", "text": "Pauli-X 閘"},
         {"type": "p", "text": "量子版的 NOT 閘：把 $|0\\rangle$ 變 $|1\\rangle$、$|1\\rangle$ 變 $|0\\rangle$。幾何上繞 Bloch 球 X 軸旋轉 180°（π）。"},
         {"type": "math", "tex": "X=\\begin{pmatrix}0&1\\\\1&0\\end{pmatrix}\\quad X|0\\rangle=|1\\rangle,\\;X|1\\rangle=|0\\rangle"},
+        {"type": "bloch", "gates": "X", "state": "0", "size": 240, "caption": "X 閘：繞 X 軸轉 180°，|0⟩ ↔ |1⟩。"},
 
         {"type": "h", "text": "Pauli-Y 閘"},
         {"type": "p", "text": "同時翻轉位元狀態與相位（帶入虛數 $i$）。幾何上繞 Y 軸旋轉 180°。"},
         {"type": "math", "tex": "Y=\\begin{pmatrix}0&-i\\\\i&0\\end{pmatrix}"},
+        {"type": "bloch", "gates": "Y", "state": "0", "size": 240, "caption": "Y 閘：繞 Y 軸轉 180°。"},
 
         {"type": "h", "text": "Pauli-Z 閘"},
-        {"type": "p", "text": "相位翻轉閘（Phase-flip）：$|0\\rangle$ 保持不變，$|1\\rangle$ 變成 $-|1\\rangle$。幾何上繞 Z 軸旋轉 180°——在赤道上會把 $|+\\rangle$ 轉到 $|-\\rangle$。"},
+        {"type": "p", "text": "相位翻轉閘（Phase-flip）：$|0\\rangle$ 保持不變，$|1\\rangle$ 變成 $-|1\\rangle$。幾何上繞 Z 軸旋轉 180°——在 $|0\\rangle$ 上看不出變化，但在赤道上會把 $|+\\rangle$ 轉到 $|-\\rangle$。"},
         {"type": "math", "tex": "Z=\\begin{pmatrix}1&0\\\\0&-1\\end{pmatrix}"},
+        {"type": "bloch", "gates": "Z", "state": "+", "size": 240, "caption": "Z 閘（從 |+⟩ 出發）：繞 Z 軸轉 180°，|+⟩ → |−⟩。"},
 
         {"type": "h", "text": "Hadamard 閘 (H)"},
         {"type": "p", "text": "製造疊加態的最核心工具：把 $|0\\rangle$ 或 $|1\\rangle$ 變成機率各半的疊加態。幾何上繞 $X+Z$ 軸旋轉 180°，把 Z 軸的點轉到 X 軸（$|0\\rangle\\to|+\\rangle$、$|1\\rangle\\to|-\\rangle$）。"},
         {"type": "math", "tex": "H=\\frac{1}{\\sqrt{2}}\\begin{pmatrix}1&1\\\\1&-1\\end{pmatrix}\\quad H|0\\rangle=\\tfrac{|0\\rangle+|1\\rangle}{\\sqrt2},\\;H|1\\rangle=\\tfrac{|0\\rangle-|1\\rangle}{\\sqrt2}"},
+        {"type": "bloch", "gates": "H", "state": "0", "size": 240, "caption": "H 閘：繞 X+Z 軸轉 180°，|0⟩ → |+⟩；再點一次轉回。"},
 
-        {"type": "h", "text": "Phase 閘（S 與 T）"},
-        {"type": "p", "text": "微調位元相位的專用閘。S 閘繞 Z 軸轉 90°（π/2），T 閘繞 Z 軸轉 45°（π/4）。在量子演算法中，T 閘是跨越古典計算障礙的關鍵閘（非 Clifford 閘）。"},
-        {"type": "math", "tex": "S=\\begin{pmatrix}1&0\\\\0&i\\end{pmatrix}\\qquad T=\\begin{pmatrix}1&0\\\\0&e^{i\\pi/4}\\end{pmatrix}"},
+        {"type": "h", "text": "S 閘（相位閘）"},
+        {"type": "p", "text": "微調相位的專用閘：繞 Z 軸轉 90°（π/2）。對 $|0\\rangle$ 無感，需在赤道上才看得出效果。"},
+        {"type": "math", "tex": "S=\\begin{pmatrix}1&0\\\\0&i\\end{pmatrix}"},
+        {"type": "bloch", "gates": "S", "state": "+", "size": 240, "caption": "S 閘（從 |+⟩ 出發）：繞 Z 軸轉 90°，|+⟩ → |+i⟩。"},
 
-        {"type": "h", "text": "通用旋轉閘（Rx, Ry, Rz）"},
-        {"type": "p", "text": "可帶入任意參數 $\\theta$，精準控制 Bloch 向量繞 X / Y / Z 軸轉動的角度。超導硬體常以這些連續旋轉閘為原生操作。"},
-        {"type": "math", "tex": "R_x(\\theta)=\\begin{pmatrix}\\cos\\frac{\\theta}{2}&-i\\sin\\frac{\\theta}{2}\\\\-i\\sin\\frac{\\theta}{2}&\\cos\\frac{\\theta}{2}\\end{pmatrix},\\;R_y(\\theta)=\\begin{pmatrix}\\cos\\frac{\\theta}{2}&-\\sin\\frac{\\theta}{2}\\\\\\sin\\frac{\\theta}{2}&\\cos\\frac{\\theta}{2}\\end{pmatrix},\\;R_z(\\theta)=\\begin{pmatrix}e^{-i\\theta/2}&0\\\\0&e^{i\\theta/2}\\end{pmatrix}"},
+        {"type": "h", "text": "T 閘"},
+        {"type": "p", "text": "繞 Z 軸轉 45°（π/4）。在量子演算法中，T 閘是跨越古典計算障礙的關鍵閘（非 Clifford 閘）。"},
+        {"type": "math", "tex": "T=\\begin{pmatrix}1&0\\\\0&e^{i\\pi/4}\\end{pmatrix}"},
+        {"type": "bloch", "gates": "T", "state": "+", "size": 240, "caption": "T 閘（從 |+⟩ 出發）：繞 Z 軸轉 45°。"},
 
-        {"type": "h", "text": "── 2-Qubit 閘 ──"},
-        {"type": "p", "text": "雙位元閘是用來讓兩個位元產生交互作用、進而製造量子糾纏的命脈。矩陣作用在 4 維基底 $\\{|00\\rangle,|01\\rangle,|10\\rangle,|11\\rangle\\}$ 上。"},
+        {"type": "h", "text": "Rx 閘（繞 X 軸旋轉）"},
+        {"type": "p", "text": "帶任意角度 $\\theta$ 繞 X 軸旋轉（示範為 π/2）。超導硬體常以這類連續旋轉閘為原生操作。"},
+        {"type": "math", "tex": "R_x(\\theta)=\\begin{pmatrix}\\cos\\frac{\\theta}{2}&-i\\sin\\frac{\\theta}{2}\\\\-i\\sin\\frac{\\theta}{2}&\\cos\\frac{\\theta}{2}\\end{pmatrix}"},
+        {"type": "bloch", "gates": "Rx", "state": "0", "size": 240, "caption": "Rx(π/2)：繞 X 軸轉 90°。"},
+
+        {"type": "h", "text": "Ry 閘（繞 Y 軸旋轉）"},
+        {"type": "math", "tex": "R_y(\\theta)=\\begin{pmatrix}\\cos\\frac{\\theta}{2}&-\\sin\\frac{\\theta}{2}\\\\\\sin\\frac{\\theta}{2}&\\cos\\frac{\\theta}{2}\\end{pmatrix}"},
+        {"type": "bloch", "gates": "Ry", "state": "0", "size": 240, "caption": "Ry(π/2)：繞 Y 軸轉 90°。"},
+
+        {"type": "h", "text": "Rz 閘（繞 Z 軸旋轉）"},
+        {"type": "math", "tex": "R_z(\\theta)=\\begin{pmatrix}e^{-i\\theta/2}&0\\\\0&e^{i\\theta/2}\\end{pmatrix}"},
+        {"type": "bloch", "gates": "Rz", "state": "+", "size": 240, "caption": "Rz(π/2)（從 |+⟩ 出發）：繞 Z 軸轉 90°。"}
+      ],
+      "related": ["quantum-gate", "gate-2qubit", "hadamard-gate", "bloch-decomposition"]
+    },
+    {
+      "id": "gate-2qubit",
+      "title": "2-Qubit 閘（雙位元閘）",
+      "category": "basics",
+      "summary": "CNOT / CZ / SWAP / iSWAP 等雙位元閘的矩陣與線路圖，以及製造貝爾態的範例。",
+      "body": [
+        {"type": "p", "text": "雙位元閘是用來讓兩個位元產生交互作用、進而製造量子糾纏的命脈。矩陣作用在 4 維基底 $\\{|00\\rangle,|01\\rangle,|10\\rangle,|11\\rangle\\}$ 上。由於是兩個 qubit 的聯合狀態，無法用單一顆 Bloch 球表示，因此這裡用線路圖與矩陣說明。"},
 
         {"type": "h", "text": "CNOT 閘（又稱 CX 閘）"},
         {"type": "p", "text": "條件翻轉（Controlled-NOT）：當控制位元為 $|1\\rangle$ 時，翻轉目標位元。這是演算法工程師最常用的標準雙位元閘，也是製造貝爾態的關鍵。"},
@@ -142,7 +163,7 @@
         {"type": "p", "text": "先對 q0 施加 H 產生疊加，再用 CNOT 讓 q0、q1 糾纏，得到貝爾態 $\\frac{1}{\\sqrt2}(|00\\rangle+|11\\rangle)$。"},
         {"type": "svg", "caption": "貝爾態線路：q0 過 H 後作為控制位元，對 q1 做 CNOT。", "svg": "<svg viewBox='0 0 300 110' width='300'><line class='qline' x1='30' y1='30' x2='280' y2='30'/><line class='qline' x1='30' y1='80' x2='280' y2='80'/><text class='qlabel' x='2' y='34'>q0</text><text class='qlabel' x='2' y='84'>q1</text><rect x='70' y='14' width='32' height='32' rx='5' fill='#161d33' stroke='#38d9d2' stroke-width='1.5'/><text x='86' y='35' fill='#e4e9f5' font='14px Helvetica' text-anchor='middle'>H</text><line x1='170' y1='30' x2='170' y2='80' stroke='#6c7bff' stroke-width='2'/><circle cx='170' cy='30' r='6' fill='#6c7bff'/><circle cx='170' cy='80' r='13' fill='none' stroke='#6c7bff' stroke-width='2'/><line x1='157' y1='80' x2='183' y2='80' stroke='#6c7bff' stroke-width='2'/><line x1='170' y1='67' x2='170' y2='93' stroke='#6c7bff' stroke-width='2'/></svg>"}
       ],
-      "related": ["quantum-gate", "hadamard-gate", "cnot-bell", "cz-gate", "bloch-decomposition"]
+      "related": ["gate-1qubit", "cnot-bell", "cz-gate", "entanglement"]
     },
     {
       "id": "decoherence",
@@ -535,7 +556,7 @@
         {"type": "h", "text": "資訊如何轉移與干涉"},
         {"type": "p", "text": "呼叫 Oracle 後，f(0)、f(1) 不再在輸出位元上，而變成 |0⟩、|1⟩ 前面的正負號（相位）。最後的 H 閘其實是一個「干涉儀」，根據係數正負決定狀態「相長」（加在一起）還是「相消」（抵銷）：常數函數兩條路徑相對相位差為 0、平衡函數產生 π 的相對相位差。整個過程我們從未得知 f(0)、f(1) 的個別值——這種「不看局部、只看關係」的能力，正是量子演算法超越古典的核心。"},
         {"type": "h", "text": "📷 講義原圖（完整推導）"},
-        {"type": "img", "src": "assets/course/deutsch-slide.png", "caption": "Deutsch 演算法講義投影片：電路圖、各階段 ψ0–ψ4 狀態與完整張量積推導。"}
+        {"type": "img", "src": "deutsch-slide.png", "caption": "Deutsch 演算法講義投影片：電路圖、各階段 ψ0–ψ4 狀態與完整張量積推導。"}
       ],
       "related": ["phase-kickback", "hadamard-gate", "grover"]
     },

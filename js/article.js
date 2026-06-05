@@ -31,7 +31,7 @@ function renderBlock(b, i) {
              (b.caption ? `<figcaption>${esc(b.caption)}</figcaption>` : "") + `</figure>`;
     case "bloch":
       return `<figure class="fig">` +
-             `<div class="bloch-widget" data-gates="${esc(b.gates||"X,Y,Z,H,S,T")}" data-state="${esc(b.state||"0")}"></div>` +
+             `<div class="bloch-widget" data-gates="${esc(b.gates||"X,Y,Z,H,S,T")}" data-state="${esc(b.state||"0")}" data-size="${esc(b.size||300)}"></div>` +
              (b.caption ? `<figcaption>${esc(b.caption)}</figcaption>` : "") + `</figure>`;
     default:
       return "";
