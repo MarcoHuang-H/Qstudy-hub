@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1780734570,
+  "generated_ts": 1780752186,
   "items": [
+    {
+      "title": "Scientists identify the origin of noise in spin qubit quantum processors",
+      "link": "https://phys.org/news/2026-06-scientists-noise-qubit-quantum-processors.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 06 Jun 2026 09:00:03 EDT",
+      "published_ts": 1780750803,
+      "summary": "A spin qubit, in which quantum information is encoded in the spin state of an electron, is one of the most promising platforms for quantum computing. Spin qubits exhibit long coherence times and are compatible with advanced semiconductor manufacturing technologies. The leading implementation of spin…"
+    },
     {
       "title": "SEALSQ Broadens Quantum Computing and Post-Quantum Security Strategy",
       "link": "https://thequantuminsider.com/2026/06/05/sealsq-expands-quantum-strategy-through-investments-in-quantum-computing-companies/",
@@ -224,14 +232,6 @@
       "published": "Thu, 28 May 2026 12:00:00 -0400",
       "published_ts": 1779984000,
       "summary": "With $25 million investment from the Commonwealth of Massachusetts, MIT to build a new shared-use facility to serve as a statewide quantum toolbox."
-    },
-    {
-      "title": "Cobalt honeycombs open a new path to quantum computing",
-      "link": "https://phys.org/news/2026-05-cobalt-honeycombs-path-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 28 May 2026 11:20:05 EDT",
-      "published_ts": 1779981605,
-      "summary": "Honeycombs are famous for their elegant design, but now they may have found a new application: quantum computing. To collect knowledge from subatomic particles, quantum computers require carefully designed materials capable of performing necessary, complex functions. However, the metals used, such a…"
     },
     {
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
