@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1780752186,
+  "generated_ts": 1780773324,
   "items": [
+    {
+      "title": "Predictive surrogates could cut quantum computing measurement overhead by more than 99.97%",
+      "link": "https://phys.org/news/2026-06-surrogates-quantum-overhead.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 06 Jun 2026 13:20:01 EDT",
+      "published_ts": 1780766401,
+      "summary": "Quantum computers, systems that process information leveraging quantum mechanical effects, have the potential of outperforming classical computers on some tasks. Despite their potential, the use of these systems remains very limited, due to their high cost and other challenges that have so far preve…"
+    },
     {
       "title": "Scientists identify the origin of noise in spin qubit quantum processors",
       "link": "https://phys.org/news/2026-06-scientists-noise-qubit-quantum-processors.html",
@@ -216,14 +224,6 @@
       "published": "Thu, 28 May 2026 15:00:02 EDT",
       "published_ts": 1779994802,
       "summary": "Scientists at the University of California, Riverside are making breakthroughs in understanding how quantum wave functions move across ultra-thin materials—research that could eventually improve solar energy technologies and help lay the groundwork for new forms of quantum computing."
-    },
-    {
-      "title": "Quantum pendulum clock overcomes classical accuracy limits and sheds light on quantum to classical transitions",
-      "link": "https://phys.org/news/2026-05-quantum-pendulum-clock-classical-accuracy.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 28 May 2026 12:35:27 EDT",
-      "published_ts": 1779986127,
-      "summary": "In a grandfather clock, a pendulum swings back and forth and this periodic motion is maintained using the energy stored in its suspended weights. This is done with the help of the escapement mechanism, which converts the gravitational energy of the weights into impulses that drive the pendulum, whic…"
     },
     {
       "title": "Media Advisory: MIT to establish regional quantum hub",
