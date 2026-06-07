@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1780839864,
+  "generated_ts": 1780859754,
   "items": [
+    {
+      "title": "Predictive surrogates could cut quantum computing measurement overhead by more than 99.97%",
+      "link": "https://phys.org/news/2026-06-surrogates-quantum-overhead.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 06 Jun 2026 13:20:01 EDT",
+      "published_ts": 1780766401,
+      "summary": "Quantum computers, systems that process information leveraging quantum mechanical effects, have the potential of outperforming classical computers on some tasks. Despite their potential, the use of these systems remains very limited, due to their high cost and other challenges that have so far preve…"
+    },
+    {
+      "title": "Scientists identify the origin of noise in spin qubit quantum processors",
+      "link": "https://phys.org/news/2026-06-scientists-noise-qubit-quantum-processors.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 06 Jun 2026 09:00:03 EDT",
+      "published_ts": 1780750803,
+      "summary": "A spin qubit, in which quantum information is encoded in the spin state of an electron, is one of the most promising platforms for quantum computing. Spin qubits exhibit long coherence times and are compatible with advanced semiconductor manufacturing technologies. The leading implementation of spin…"
+    },
     {
       "title": "SEALSQ Broadens Quantum Computing and Post-Quantum Security Strategy",
       "link": "https://thequantuminsider.com/2026/06/05/sealsq-expands-quantum-strategy-through-investments-in-quantum-computing-companies/",
@@ -58,6 +74,14 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; OQC, JPMorganChase and AMD today announced a research collaboration leveraging a new and dedicated Quantum-AI Data Centre, built by OQC in London. JPMorganChase researchers will test near-term quantum and hybrid quantum-classical computing applications via a secur…"
     },
     {
+      "title": "Quantum shell structure reveals new rule for proton-neutron pairing inside nuclei",
+      "link": "https://phys.org/news/2026-06-quantum-shell-reveals-proton-neutron.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 04 Jun 2026 10:20:09 EDT",
+      "published_ts": 1780582809,
+      "summary": "Nuclear physicists used a little magic in their latest experiment conducted at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility, and the result has revealed surprising new information about the behavior of protons and neutrons inside the atom's nucleus. Specifically, th…"
+    },
+    {
       "title": "UK Risks Repeating Semiconductor and AI Mistakes Unless Government Acts Now on Quantum, Warns Cross-Party Parliamentary Group",
       "link": "https://thequantuminsider.com/2026/06/04/uk-risks-repeating-semiconductor-and-ai-mistakes-unless-government-acts-now-on-quantum-warns-cross-party-parliamentary-group/",
       "source": "The Quantum Insider",
@@ -82,12 +106,76 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Governor Greg Abbott appointed Victor Fishman, Ph.D. and Lin Zhou, Ph.D. to the Quantum Initiative Advisory Committee for terms set to expire on January 31, 2027. Governor Abbott also&#160;appointed Richard “Ross” Coffman for a term set to expire on January 31, 20…"
     },
     {
+      "title": "Photoexcitation flips 2D moiré devices from metals to insulators in ultrafast test",
+      "link": "https://phys.org/news/2026-06-photoexcitation-flips-2d-moir-devices.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 04 Jun 2026 07:00:04 EDT",
+      "published_ts": 1780570804,
+      "summary": "Quantum materials, materials with properties that are governed by the laws of quantum mechanics describing many-body interactions, have proved promising for the development of various advanced technologies. Many of these materials undergo so-called phase transitions, switching between different phys…"
+    },
+    {
+      "title": "Nanomagnets control diamond qubits, pointing to more scalable quantum hardware",
+      "link": "https://phys.org/news/2026-06-nanomagnets-diamond-qubits-scalable-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 03 Jun 2026 16:20:04 EDT",
+      "published_ts": 1780518004,
+      "summary": "Quantum computing, once only a theoretical possibility, promises to deliver faster, more energy-efficient computers—but only if scientists can build and scale the hardware needed to run the machines. New research from Virginia Commonwealth University brings scientists one small step closer to quantu…"
+    },
+    {
+      "title": "'Don't scare the cat!' Engineers find smarter way to measure quantum systems",
+      "link": "https://phys.org/news/2026-06-dont-cat-smarter-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 03 Jun 2026 14:40:07 EDT",
+      "published_ts": 1780512007,
+      "summary": "UNSW Sydney engineers have riffed on the famous Schrödinger's cat analogy to demonstrate a more efficient way to eliminate errors in quantum computing."
+    },
+    {
+      "title": "Chip-scale 'acoustic atom' controls sound waves to imitate atomic energy levels and advance computing",
+      "link": "https://phys.org/news/2026-06-chip-scale-acoustic-atom-imitate.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 03 Jun 2026 13:00:04 EDT",
+      "published_ts": 1780506004,
+      "summary": "For every action, there is an equal and opposite reaction. What goes up must come down. Physical laws like these govern all of the natural world—except for the tiny internal components of today's microprocessors, which operate according to the unique and complicated rules of quantum physics."
+    },
+    {
+      "title": "Cutting a photon in two creates an infinite swarm of particles",
+      "link": "https://phys.org/news/2026-06-photon-infinite-swarm-particles.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 02 Jun 2026 10:20:08 EDT",
+      "published_ts": 1780410008,
+      "summary": "By definition, elementary particles can't be broken into smaller pieces. But in a new theoretical study published in Physical Review Letters, Johannes Skaar and colleagues have revealed what would happen if you tried anyway for a single photon. The answer is deeply strange: attempting to cut a photo…"
+    },
+    {
       "title": "New light-powered chip could accelerate AI and quantum computing",
       "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Tue, 02 Jun 2026 00:30:26 EDT",
       "published_ts": 1780374626,
       "summary": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light…"
+    },
+    {
+      "title": "Matter may entangle with light far more easily near quantum critical points",
+      "link": "https://phys.org/news/2026-06-entangle-easily-quantum-critical.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 01 Jun 2026 16:00:04 EDT",
+      "published_ts": 1780344004,
+      "summary": "Quantum entanglement is a state in which particles are entwined with each other. In this entwined state, the properties of one particle influence the other, even when they aren't physically close to each other. This phenomenon has often been observed in small quantum systems with only a few particle…"
+    },
+    {
+      "title": "Better math discriminates exotic from classical materials",
+      "link": "https://phys.org/news/2026-05-math-discriminates-exotic-classical-materials.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 01 Jun 2026 11:00:07 EDT",
+      "published_ts": 1780326007,
+      "summary": "The planar Hall effect is a tabletop diagnostic tool for special quantum properties useful in basic research and technological applications. Or so it was thought, because careful calculation by Kobe University researchers clarifies the conditions under which this effect may also appear in classical…"
+    },
+    {
+      "title": "Quantum light gives a 20-fold boost to ultrafast laser processes",
+      "link": "https://phys.org/news/2026-05-quantum-boost-ultrafast-laser.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 30 May 2026 13:00:02 EDT",
+      "published_ts": 1780160402,
+      "summary": "Nonlinear interactions between light and matter are at the heart of some of the most powerful tools in modern optics, but pushing these processes to their limits has long been hampered by a fundamental constraint: the stronger you make the laser, the more likely it is to destroy whatever it illumina…"
     },
     {
       "title": "Stanford quantum computing breakthrough uses twisted light to work without extreme cooling",
@@ -98,12 +186,44 @@
       "summary": "A new room-temperature quantum device uses twisted light to entangle photons and electrons, overcoming one of the biggest hurdles in quantum technology. The breakthrough could pave the way for smaller, cheaper quantum systems with applications ranging from secure communications to future AI and comp…"
     },
     {
+      "title": "Diamond quantum sensor could reveal elusive altermagnets",
+      "link": "https://phys.org/news/2026-05-diamond-quantum-sensor-reveal-elusive.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 29 May 2026 15:20:02 EDT",
+      "published_ts": 1780082402,
+      "summary": "For nearly a century, there were two known kinds of magnets. Ferromagnets are the classic magnets that attract metal and keep pictures stuck to the refrigerator. Antiferromagnets hide their magnetism at the atomic scale but are increasingly prized for their technological potential. A third category…"
+    },
+    {
+      "title": "Topological states emerge in quantum Hall-superconductor devices with multiple channels",
+      "link": "https://phys.org/news/2026-05-topological-states-emerge-quantum-hall.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 29 May 2026 07:00:01 EDT",
+      "published_ts": 1780052401,
+      "summary": "Topological phases are unusual states of matter that give rise to properties protected by a material's overall structure (i.e., \"topology\"), as opposed to microscopic details. These phases are of great interest for the development of quantum technologies, as they can yield desirable electronic prope…"
+    },
+    {
+      "title": "'Atom Camera' maps laser light at nanoscale using a single ultracold atom",
+      "link": "https://phys.org/news/2026-05-atom-camera-laser-nanoscale-ultracold.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 29 May 2026 05:00:02 EDT",
+      "published_ts": 1780045202,
+      "summary": "A research group led by Assistant Professor Takafumi Tomita and Professor Kenji Ohmori at the Institute for Molecular Science, National Institutes of Natural Sciences, has developed a new microscopy technique called the Atom Camera, which uses a single ultracold atom at near absolute zero temperatur…"
+    },
+    {
       "title": "New laboratory at MIT aims to advance quantum research for the nation",
       "link": "https://news.mit.edu/2026/new-laboratory-aims-to-advance-quantum-research-nation-0528",
       "source": "MIT News — Quantum Computing",
       "published": "Thu, 28 May 2026 17:20:00 -0400",
       "published_ts": 1780003200,
       "summary": "The Quantum Systems Laboratory will catalyze quantum innovation and be open to government, academic, and industry researchers."
+    },
+    {
+      "title": "Quantum vibronics research points to future energy and computing technologies",
+      "link": "https://phys.org/news/2026-05-quantum-vibronics-future-energy-technologies.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 28 May 2026 15:00:02 EDT",
+      "published_ts": 1779994802,
+      "summary": "Scientists at the University of California, Riverside are making breakthroughs in understanding how quantum wave functions move across ultra-thin materials—research that could eventually improve solar energy technologies and help lay the groundwork for new forms of quantum computing."
     },
     {
       "title": "Media Advisory: MIT to establish regional quantum hub",
