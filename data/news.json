@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1780628281,
+  "generated_ts": 1780859754,
   "items": [
+    {
+      "title": "Predictive surrogates could cut quantum computing measurement overhead by more than 99.97%",
+      "link": "https://phys.org/news/2026-06-surrogates-quantum-overhead.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 06 Jun 2026 13:20:01 EDT",
+      "published_ts": 1780766401,
+      "summary": "Quantum computers, systems that process information leveraging quantum mechanical effects, have the potential of outperforming classical computers on some tasks. Despite their potential, the use of these systems remains very limited, due to their high cost and other challenges that have so far preve…"
+    },
+    {
+      "title": "Scientists identify the origin of noise in spin qubit quantum processors",
+      "link": "https://phys.org/news/2026-06-scientists-noise-qubit-quantum-processors.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 06 Jun 2026 09:00:03 EDT",
+      "published_ts": 1780750803,
+      "summary": "A spin qubit, in which quantum information is encoded in the spin state of an electron, is one of the most promising platforms for quantum computing. Spin qubits exhibit long coherence times and are compatible with advanced semiconductor manufacturing technologies. The leading implementation of spin…"
+    },
+    {
+      "title": "SEALSQ Broadens Quantum Computing and Post-Quantum Security Strategy",
+      "link": "https://thequantuminsider.com/2026/06/05/sealsq-expands-quantum-strategy-through-investments-in-quantum-computing-companies/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 14:09:29 +0000",
+      "published_ts": 1780668569,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today updated on its strategic expansion into the full qua…"
+    },
+    {
+      "title": "The Companies Building Quantum Computing Chips in 2026",
+      "link": "https://thequantuminsider.com/2026/06/05/how-many-quantum-chip-companies-are-there/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 12:57:33 +0000",
+      "published_ts": 1780664253,
+      "summary": "Insider Brief Quantum computing hardware in 2026 looks like several distinct technologies, each with different physics, different manufacturing constraints, and different ideas about what fault-tolerant quantum computing should look like when it arrives. Superconducting qubits, trapped ions, photoni…"
+    },
+    {
+      "title": "Scientists Identify the Origin of Noise in Spin Qubit Quantum Processors",
+      "link": "https://thequantuminsider.com/2026/06/05/scientists-identify-the-origin-of-noise-in-spin-qubit-quantum-processors/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 11:52:57 +0000",
+      "published_ts": 1780660377,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A spin qubit, in which quantum information is encoded in the spin state of an electron, is one of the most promising platforms for quantum computing. Spin qubits exhibit long coherence times and are compatible with advanced semiconductor manufacturing technologies…"
+    },
+    {
+      "title": "Chinese Scientists Demonstrate Quantum Random Access Memory Architecture Aimed at Solving Data Bottleneck",
+      "link": "https://thequantuminsider.com/2026/06/05/chinese-scientists-demonstrate-quantum-random-access-memory-architecture-aimed-at-solving-data-bottleneck/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 11:34:22 +0000",
+      "published_ts": 1780659262,
+      "summary": "Insider Brief Chinese researchers have experimentally demonstrated a quantum random access memory architecture, or QRAM, on a superconducting quantum processor, marking what researchers describe as a significant step toward improving how quantum computers access large amounts of conventional data. T…"
+    },
+    {
+      "title": "Classiq and UC Chile Launch Quantum Computing Research for Biomedical Imaging",
+      "link": "https://thequantuminsider.com/2026/06/05/classiq-and-uc-chile-launch-quantum-computing-research-for-biomedical-imaging/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 09:42:11 +0000",
+      "published_ts": 1780652531,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq and Pontificia Universidad Católica de Chile (UC Chile) today announced a joint research project to develop hybrid quantum algorithms for biomedical image analysis, assisted by classical machine learning and the NVIDIA CUDA-Q platform for quantum-classical…"
+    },
+    {
+      "title": "Quantinuum and Mitsubishi Electric Sign Quantum Computing MOU",
+      "link": "https://thequantuminsider.com/2026/06/05/quantinuum-and-mitsubishi-electric-sign-quantum-computing-mou/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 09:34:28 +0000",
+      "published_ts": 1780652068,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum, a leading quantum computing company, announced today that it has signed a non-binding Memorandum of Understanding (MOU) with Mitsubishi Electric Corporation, a recognized global leader in the manufacturing, marketing, and sale of electrical and electro…"
+    },
+    {
+      "title": "OQC, JPMorganChase and AMD Commence Research Collaboration to Develop New Quantum-AI Platform in London",
+      "link": "https://thequantuminsider.com/2026/06/05/oqc-jpmorganchase-and-amd-commence-research-collaboration-to-develop-new-quantum-ai-platform-in-london/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 05 Jun 2026 07:48:26 +0000",
+      "published_ts": 1780645706,
+      "summary": "Insider Brief PRESS RELEASE &#8212; OQC, JPMorganChase and AMD today announced a research collaboration leveraging a new and dedicated Quantum-AI Data Centre, built by OQC in London. JPMorganChase researchers will test near-term quantum and hybrid quantum-classical computing applications via a secur…"
+    },
     {
       "title": "Quantum shell structure reveals new rule for proton-neutron pairing inside nuclei",
       "link": "https://phys.org/news/2026-06-quantum-shell-reveals-proton-neutron.html",
@@ -42,166 +114,6 @@
       "summary": "Quantum materials, materials with properties that are governed by the laws of quantum mechanics describing many-body interactions, have proved promising for the development of various advanced technologies. Many of these materials undergo so-called phase transitions, switching between different phys…"
     },
     {
-      "title": "C12 Introduces Nanoassembly Process for Carbon Nanotube Quantum Chips",
-      "link": "https://thequantuminsider.com/2026/06/04/c12-introduces-nanoassembly-process-for-carbon-nanotube-quantum-chips/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 09:07:41 +0000",
-      "published_ts": 1780564061,
-      "summary": "Insider Brief PRESS RELEASE &#8212; C12, a Paris-based quantum computing company developing carbon nanotube spin qubit processors,&#160; today announced its proprietary Pick &#38; Place nanoassembly technology: a custom-built, patented nanoassembly method developed entirely in-house to transfer indi…"
-    },
-    {
-      "title": "QuantX Labs Announces Seed Round With Serendipity Capital Lead Investor",
-      "link": "https://thequantuminsider.com/2026/06/04/quantx-labs-announces-seed-round-with-serendipity-capital-lead-investor/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 08:41:20 +0000",
-      "published_ts": 1780562480,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Serendipity Capital, a leading global investor in critical technologies, announced today that it has led the seed fundraising round for QuantX Labs, an Australian company at the forefront of quantum sensing for applications including Positioning, Navigation and Ti…"
-    },
-    {
-      "title": "Quantinuum to Debut on Nasdaq After Raising $1.68 Billion in IPO",
-      "link": "https://thequantuminsider.com/2026/06/04/quantinuum-to-debut-on-nasdaq-after-raising-1-68-billion-in-ipo/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 08:26:16 +0000",
-      "published_ts": 1780561576,
-      "summary": "Insider Brief Quantinuum is set to begin trading on the Nasdaq today (June 4) after raising $1.68 billion in one of the largest quantum computing initial public offerings to date, a closely watched debut that could shape investor sentiment across the emerging sector. The Broomfield, Colorado-based c…"
-    },
-    {
-      "title": "Yaqumo, NKT Photonics and Hamamatsu Photonics Sign Quantum Photonics Agreement",
-      "link": "https://thequantuminsider.com/2026/06/04/yaqumo-nkt-photonics-and-hamamatsu-photonics-sign-quantum-photonics-agreement/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 07:54:20 +0000",
-      "published_ts": 1780559660,
-      "summary": "Insider Brief PRESS RELEASE &#8212; As the industrialization of quantum computing accelerates worldwide, the advancement and stable procurement of optical core components and materials that fundamentally underpin system performance have become critical challenges — beyond the development of quantum…"
-    },
-    {
-      "title": "Quantum Design Acquires Quantum Sensing Company Qnami",
-      "link": "https://thequantuminsider.com/2026/06/04/quantum-design-acquires-quantum-sensing-company-qnami/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 07:46:49 +0000",
-      "published_ts": 1780559209,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Design International, Inc., a leading global provider of scientific instrumentation and advanced materials characterization solutions, announced the acquisition of Qnami, a pioneer in diamond-based quantum sensing technologies. The transaction enhances Qua…"
-    },
-    {
-      "title": "Graphical and algebraic methods for Boolean factoring",
-      "link": "https://arxiv.org/abs/2606.04038",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04038v1 Announce Type: new  Abstract: The problem of factoring Boolean polynomials has significant applications in both classical and quantum computing technology. In this paper we have developed novel algorithms for factoring both ESOP and SOP expressions. Our aim is to optimize the AND-…"
-    },
-    {
-      "title": "Boson Models with Interactions of Arbitrary Order",
-      "link": "https://arxiv.org/abs/2606.04055",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04055v1 Announce Type: new  Abstract: The paper considers quantal many-boson systems that are described by a rotationally invariant and boson-number conserving Hamiltonian. The properties of a generic model are studied which treats N bosons of p different kinds with non-zero angular momen…"
-    },
-    {
-      "title": "Out-of-time-order correlators for Swanson Hamiltonian with interaction terms",
-      "link": "https://arxiv.org/abs/2606.04062",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04062v1 Announce Type: new  Abstract: In this work, we compute the out-of-time-ordered correlator (OTOC) for canonical position and momentum operators across a hierarchy of non-Hermitian oscillator models: the exactly solvable Swanson Hamiltonian, its Kerr-nonlinear extension, and paramet…"
-    },
-    {
-      "title": "Quantum circuit partition as a maze: emerging percolation transition via path finding",
-      "link": "https://arxiv.org/abs/2606.04070",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04070v1 Announce Type: new  Abstract: In quantum circuit optimization, circuit partitioning enables the optimization process to be parallelized across multiple devices. Each device is responsible for either reducing the number of selected gates or simplifying the local circuit structure.…"
-    },
-    {
-      "title": "Quantum error correction with the toric code",
-      "link": "https://arxiv.org/abs/2606.04079",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04079v1 Announce Type: new  Abstract: Quantum computing platforms based on arrays of tweezer-confined neutral atoms have recently emerged as a competitive modality thanks to a direct path toward high qubit count, rapidly advancing operation fidelities, and their ability to execute circuit…"
-    },
-    {
-      "title": "Essential Unitarity for Higher-Order Quantum Computation",
-      "link": "https://arxiv.org/abs/2606.04080",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04080v1 Announce Type: new  Abstract: We develop a semantic framework for higher-order quantum computation based on a boundary-centric presentation of compact closed categories, building on Kelly--Laplaza and Abramsky.Morphisms are polarized boundary linkings composed by execution, with a…"
-    },
-    {
-      "title": "Better Pauli Channel Learning with Maximum Likelihood Estimation",
-      "link": "https://arxiv.org/abs/2606.04096",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04096v1 Announce Type: new  Abstract: Error mitigation in a noisy quantum device requires a very good estimate of the noise channel. The accuracy of probabilistic error cancellation is often limited by the high sample complexity of channel tomography. In principle, optimal sample complexi…"
-    },
-    {
-      "title": "Quantum Information Harvesting with the Parallel Quantum Flow Algorithm",
-      "link": "https://arxiv.org/abs/2606.04186",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04186v1 Announce Type: new  Abstract: The Quantum Flow (QFlow) algorithm provides a resource-efficient framework for describing correlated many-body systems on hybrid quantum-classical architectures. By enabling parallel utilization of quantum and classical resources, QFlow offers a scala…"
-    },
-    {
-      "title": "High-Dimensional Quantum Key Distribution via full Core-mode Encoding over Deployed Multicore Fibers",
-      "link": "https://arxiv.org/abs/2606.04211",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04211v1 Announce Type: new  Abstract: Quantum key distribution (QKD) provides information-theoretic security rooted in quantum physics, while high-dimensional (HD) encoding increases both noise tolerance and secret-key yield. Multicore fibers (MCFs), a leading platform for next-generation…"
-    },
-    {
-      "title": "Continuous-Variable Quantum State Tomography Enabled by Quantum Mirrors",
-      "link": "https://arxiv.org/abs/2606.04277",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04277v1 Announce Type: new  Abstract: In quantum technologies, continuous-variable systems offer advantages over their discrete counterparts. However, continuous-variable tomography suffers from exponentially growing sample complexity. We propose protocols using quantum mirrors to transfe…"
-    },
-    {
-      "title": "Quantum simulations of ultrafast optical spectroscopy of semiconductors on digital quantum computers in the semi-classical approximation",
-      "link": "https://arxiv.org/abs/2606.04295",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04295v1 Announce Type: new  Abstract: We present a digital quantum simulation framework for ultrafast optical spectroscopy of semiconductor materials. The framework is based on Brillouin-zone discretization and the second-quantization formalism, and is designed as a quantum alternative to…"
-    },
-    {
-      "title": "Characterization of errors in photon-heralded quantum operations between non-interacting quantum emitters",
-      "link": "https://arxiv.org/abs/2606.04312",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04312v1 Announce Type: new  Abstract: We develop an analytic perturbative framework that enables the analysis of small Markovian errors in probabilistic, photon-heralded quantum operations between non-interacting emitters. Building on and extending the Zero-Photon-Generation (ZPG) framewo…"
-    },
-    {
-      "title": "Spectral Fusion for Identifying Early State Exclusion in Symmetric Quantum Spin Chains",
-      "link": "https://arxiv.org/abs/2606.04353",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04353v1 Announce Type: new  Abstract: Perfect state transfer (PST) in one-dimensional quantum spin chains provides a natural setting in which quantum information transport can be analyzed using spectral methods. In the single-excitation subspace, the dynamics of a chain with nearest-neigh…"
-    },
-    {
-      "title": "Robust Steerability Classification via Key Feature Extraction and Matrix Structure Preservation",
-      "link": "https://arxiv.org/abs/2606.04363",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04363v1 Announce Type: new  Abstract: Generalization ability is essential for assessing the robustness of quantum steerability classifiers. In this work, we investigate robust steerability classification from the perspective of key feature extraction and matrix structure preservation. The…"
-    },
-    {
-      "title": "Optimizing the Sensitivity-Noise Trade-off in Non-Hermitian Sensing via Off-Exceptional-Deficiency Operation",
-      "link": "https://arxiv.org/abs/2606.04386",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780545600,
-      "summary": "arXiv:2606.04386v1 Announce Type: new  Abstract: A central challenge in non-Hermitian sensing is that spectral singularities simultaneously amplify both the signal and environmental noise. We address this predicament in a double-chain Hatano-Nelson model featuring unidirectional interlayer coupling.…"
-    },
-    {
       "title": "Nanomagnets control diamond qubits, pointing to more scalable quantum hardware",
       "link": "https://phys.org/news/2026-06-nanomagnets-diamond-qubits-scalable-quantum.html",
       "source": "Phys.org — Quantum Physics",
@@ -218,28 +130,12 @@
       "summary": "UNSW Sydney engineers have riffed on the famous Schrödinger's cat analogy to demonstrate a more efficient way to eliminate errors in quantum computing."
     },
     {
-      "title": "Ooredoo, HBKU, Ministry of Defence Launch Qatar’s First Quantum-Safe Network",
-      "link": "https://thequantuminsider.com/2026/06/03/ooredoo-hbku-ministry-of-defence-launch-qatars-first-quantum-safe-network/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 18:26:05 +0000",
-      "published_ts": 1780511165,
-      "summary": "Insider Brief Ooredoo Qatar announced the deployment of the first quantum-safe communications link in Qatar, a project the company says establishes a foundation for next-generation cybersecurity and secure digital infrastructure in the country. According to the Qatar Tribune, the initiative was deve…"
-    },
-    {
       "title": "Chip-scale 'acoustic atom' controls sound waves to imitate atomic energy levels and advance computing",
       "link": "https://phys.org/news/2026-06-chip-scale-acoustic-atom-imitate.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 03 Jun 2026 13:00:04 EDT",
       "published_ts": 1780506004,
       "summary": "For every action, there is an equal and opposite reaction. What goes up must come down. Physical laws like these govern all of the natural world—except for the tiny internal components of today's microprocessors, which operate according to the unique and complicated rules of quantum physics."
-    },
-    {
-      "title": "Atom Computing Reveals Quantum Error Correction with Toric Code",
-      "link": "https://thequantuminsider.com/2026/06/03/atom-computing-reveals-quantum-error-correction-with-toric-code/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 03 Jun 2026 15:50:34 +0000",
-      "published_ts": 1780501834,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Atom Computing today announced the industry’s first full demonstration of quantum error correction using a toric code. The results show that the company’s neutral-atom system reduces errors as larger numbers of qubits are used in computations, placing Atom Computi…"
     },
     {
       "title": "Cutting a photon in two creates an infinite swarm of particles",
@@ -330,28 +226,12 @@
       "summary": "Scientists at the University of California, Riverside are making breakthroughs in understanding how quantum wave functions move across ultra-thin materials—research that could eventually improve solar energy technologies and help lay the groundwork for new forms of quantum computing."
     },
     {
-      "title": "Quantum pendulum clock overcomes classical accuracy limits and sheds light on quantum to classical transitions",
-      "link": "https://phys.org/news/2026-05-quantum-pendulum-clock-classical-accuracy.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 28 May 2026 12:35:27 EDT",
-      "published_ts": 1779986127,
-      "summary": "In a grandfather clock, a pendulum swings back and forth and this periodic motion is maintained using the energy stored in its suspended weights. This is done with the help of the escapement mechanism, which converts the gravitational energy of the weights into impulses that drive the pendulum, whic…"
-    },
-    {
       "title": "Media Advisory: MIT to establish regional quantum hub",
       "link": "https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub",
       "source": "MIT News — Quantum Computing",
       "published": "Thu, 28 May 2026 12:00:00 -0400",
       "published_ts": 1779984000,
       "summary": "With $25 million investment from the Commonwealth of Massachusetts, MIT to build a new shared-use facility to serve as a statewide quantum toolbox."
-    },
-    {
-      "title": "Cobalt honeycombs open a new path to quantum computing",
-      "link": "https://phys.org/news/2026-05-cobalt-honeycombs-path-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 28 May 2026 11:20:05 EDT",
-      "published_ts": 1779981605,
-      "summary": "Honeycombs are famous for their elegant design, but now they may have found a new application: quantum computing. To collect knowledge from subatomic particles, quantum computers require carefully designed materials capable of performing necessary, complex functions. However, the metals used, such a…"
     },
     {
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
