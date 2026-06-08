@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1780914566,
+  "generated_ts": 1780933282,
   "items": [
+    {
+      "title": "Agentic Operating System for Quantum R&D Teams to Debut During Live Event",
+      "link": "https://thequantuminsider.com/2026/06/08/agentic-operating-system-for-quantum-rd-teams-to-debut-during-live-event/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 08 Jun 2026 14:53:30 +0000",
+      "published_ts": 1780930410,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Are operating inefficiencies holding quantum research and development back? It’s an important question — and one that’s being addressed by The Quantum Insider during an upcoming live panel discussion, “Are Agents the Secret to Quantum R&#38;D Success?” on Tuesday,…"
+    },
+    {
+      "title": "Researchers Craft a New, Simple Recipe For Highly Entangled Quantum States",
+      "link": "https://thequantuminsider.com/2026/06/08/researchers-craft-a-new-simple-recipe-for-highly-entangled-quantum-states/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 08 Jun 2026 13:01:33 +0000",
+      "published_ts": 1780923693,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Building useful quantum technologies—from sensors to computers—requires generating highly complex entangled states, in which the properties of particles are deeply intertwined. Producing such states has traditionally required complex tools and carefully engineered…"
+    },
+    {
+      "title": "How to Benchmark Logical Qubit Claims",
+      "link": "https://thequantuminsider.com/2026/06/08/how-to-benchmark-logical-qubit-claims/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 08 Jun 2026 11:54:24 +0000",
+      "published_ts": 1780919664,
+      "summary": "Insider Brief As the quantum computing sector has evolved, so has the way performance is measured. Early on, qubit count &#8212; the number of quantum bits in a processor &#8212; was viewed as a key benchmark. Today, researchers increasingly argue that raw qubit count matters less than the number of…"
+    },
     {
       "title": "Why Quantum Computing Companies Are Turning to SPACs",
       "link": "https://thequantuminsider.com/2026/06/08/why-quantum-computing-companies-are-turning-to-spacs/",
@@ -194,36 +218,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum, a leading quantum computing company, announced today that it has signed a non-binding Memorandum of Understanding (MOU) with Mitsubishi Electric Corporation, a recognized global leader in the manufacturing, marketing, and sale of electrical and electro…"
     },
     {
-      "title": "OQC, JPMorganChase and AMD Commence Research Collaboration to Develop New Quantum-AI Platform in London",
-      "link": "https://thequantuminsider.com/2026/06/05/oqc-jpmorganchase-and-amd-commence-research-collaboration-to-develop-new-quantum-ai-platform-in-london/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 05 Jun 2026 07:48:26 +0000",
-      "published_ts": 1780645706,
-      "summary": "Insider Brief PRESS RELEASE &#8212; OQC, JPMorganChase and AMD today announced a research collaboration leveraging a new and dedicated Quantum-AI Data Centre, built by OQC in London. JPMorganChase researchers will test near-term quantum and hybrid quantum-classical computing applications via a secur…"
-    },
-    {
       "title": "Quantum shell structure reveals new rule for proton-neutron pairing inside nuclei",
       "link": "https://phys.org/news/2026-06-quantum-shell-reveals-proton-neutron.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 04 Jun 2026 10:20:09 EDT",
       "published_ts": 1780582809,
       "summary": "Nuclear physicists used a little magic in their latest experiment conducted at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility, and the result has revealed surprising new information about the behavior of protons and neutrons inside the atom's nucleus. Specifically, th…"
-    },
-    {
-      "title": "UK Risks Repeating Semiconductor and AI Mistakes Unless Government Acts Now on Quantum, Warns Cross-Party Parliamentary Group",
-      "link": "https://thequantuminsider.com/2026/06/04/uk-risks-repeating-semiconductor-and-ai-mistakes-unless-government-acts-now-on-quantum-warns-cross-party-parliamentary-group/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 13:25:43 +0000",
-      "published_ts": 1780579543,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The United Kingdom launched the world&#8217;s first National Quantum Technologies Programme in 2014, and has invested more than £1 billion over the past decade in building an ecosystem that spans quantum computing, sensing, communications and timing. According to…"
-    },
-    {
-      "title": "Quantum X Labs Adds Oren Raz to Scientific Advisory Board",
-      "link": "https://thequantuminsider.com/2026/06/04/quantum-x-labs-adds-oren-raz-to-scientific-advisory-board/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 12:05:27 +0000",
-      "published_ts": 1780574727,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum X Labs Inc. (Nasdaq: QXL), an advanced quantum technologies company, today announces the appointment of Prof. Oren Raz of the Weizmann Institute of Science to its Scientific Advisory Board. Prof. Raz&#8217;s appointment brings one of Israel&#8217;s most di…"
     },
     {
       "title": "Photoexcitation flips 2D moiré devices from metals to insulators in ultrafast test",
