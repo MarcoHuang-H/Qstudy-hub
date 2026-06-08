@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1780933282,
+  "generated_ts": 1780949353,
   "items": [
+    {
+      "title": "Research uncovers novel electronic properties in quantum material",
+      "link": "https://phys.org/news/2026-06-uncovers-electronic-properties-quantum-material.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 08 Jun 2026 15:00:02 EDT",
+      "published_ts": 1780945202,
+      "summary": "Florida State University physicists are part of a team that has discovered unusual superconducting states in parts of graphene, with the potential to drive unexpected quantum technologies."
+    },
+    {
+      "title": "Physicists create new family of Schrödinger-cat states",
+      "link": "https://phys.org/news/2026-06-physicists-family-schrdinger-cat-states.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 08 Jun 2026 14:40:06 EDT",
+      "published_ts": 1780944006,
+      "summary": "Quantum mechanics, unlike classical physics, allows objects to exist in more than one state at the same time. This idea is often illustrated by Schrödinger's cat, imagined as being both alive and dead until it is observed. In the laboratory, physicists can create less dramatic but very real versions…"
+    },
+    {
+      "title": "Tabletop experiment helps reconcile fundamental physics",
+      "link": "https://phys.org/news/2026-06-tabletop-fundamental-physics.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 08 Jun 2026 14:20:01 EDT",
+      "published_ts": 1780942801,
+      "summary": "Assistant Professor Haocun Yu is something of a scientific diplomat. In a recent Physical Review Letters publication, she and her colleagues show how a tabletop experiment can bring together two bedrock physics theories that have never been fully reconciled."
+    },
+    {
+      "title": "Researchers craft a new, simple recipe for highly entangled quantum states",
+      "link": "https://phys.org/news/2026-06-craft-simple-recipe-highly-entangled.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 08 Jun 2026 12:40:01 EDT",
+      "published_ts": 1780936801,
+      "summary": "Building useful quantum technologies—from sensors to computers—requires generating highly complex entangled states, in which the properties of particles are deeply intertwined. Producing such states has traditionally required complex tools and carefully engineered setups with many parts."
+    },
+    {
+      "title": "WiMi Explores Quantum Algorithms for Multi-Dimensional Data Pooling",
+      "link": "https://thequantuminsider.com/2026/06/08/wimi-explores-quantum-algorithms-for-multi-dimensional-data-pooling/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 08 Jun 2026 16:36:12 +0000",
+      "published_ts": 1780936572,
+      "summary": "Insider Brief PRESS RELEASE &#8212; WiMi Hologram Cloud Inc. (NASDAQ:&#160;WiMi) (&#8220;WiMi&#8221; or the &#8220;Company&#8221;), a leading global Hologram Augmented Reality (&#8220;AR&#8221;) Technology provider, is exploring multi-dimensional pooling optimization technology under the variational…"
+    },
+    {
+      "title": "U.S. and Japan Commit $1 Billion to Joint Quantum and Advanced Computing Research",
+      "link": "https://thequantuminsider.com/2026/06/08/us-and-japan-commit-1-billion-to-joint-quantum-and-advanced-computing-research/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 08 Jun 2026 16:27:59 +0000",
+      "published_ts": 1780936079,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of Energy (DOE) and Japan’s Ministry of Education, Culture, Sports, Science and Technology (MEXT) and Ministry of Economy, Trade and Industry (METI), today announced an historic $1 billion strategic partnership making Japan the first internatio…"
+    },
     {
       "title": "Agentic Operating System for Quantum R&D Teams to Debut During Live Event",
       "link": "https://thequantuminsider.com/2026/06/08/agentic-operating-system-for-quantum-rd-teams-to-debut-during-live-event/",
@@ -10,7 +58,7 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Are operating inefficiencies holding quantum research and development back? It’s an important question — and one that’s being addressed by The Quantum Insider during an upcoming live panel discussion, “Are Agents the Secret to Quantum R&#38;D Success?” on Tuesday,…"
     },
     {
-      "title": "Researchers Craft a New, Simple Recipe For Highly Entangled Quantum States",
+      "title": "Researchers Craft a New, Simple Recipe for Highly Entangled Quantum States",
       "link": "https://thequantuminsider.com/2026/06/08/researchers-craft-a-new-simple-recipe-for-highly-entangled-quantum-states/",
       "source": "The Quantum Insider",
       "published": "Mon, 08 Jun 2026 13:01:33 +0000",
@@ -202,22 +250,6 @@
       "summary": "Insider Brief Chinese researchers have experimentally demonstrated a quantum random access memory architecture, or QRAM, on a superconducting quantum processor, marking what researchers describe as a significant step toward improving how quantum computers access large amounts of conventional data. T…"
     },
     {
-      "title": "Classiq and UC Chile Launch Quantum Computing Research for Biomedical Imaging",
-      "link": "https://thequantuminsider.com/2026/06/05/classiq-and-uc-chile-launch-quantum-computing-research-for-biomedical-imaging/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 05 Jun 2026 09:42:11 +0000",
-      "published_ts": 1780652531,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq and Pontificia Universidad Católica de Chile (UC Chile) today announced a joint research project to develop hybrid quantum algorithms for biomedical image analysis, assisted by classical machine learning and the NVIDIA CUDA-Q platform for quantum-classical…"
-    },
-    {
-      "title": "Quantinuum and Mitsubishi Electric Sign Quantum Computing MOU",
-      "link": "https://thequantuminsider.com/2026/06/05/quantinuum-and-mitsubishi-electric-sign-quantum-computing-mou/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 05 Jun 2026 09:34:28 +0000",
-      "published_ts": 1780652068,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum, a leading quantum computing company, announced today that it has signed a non-binding Memorandum of Understanding (MOU) with Mitsubishi Electric Corporation, a recognized global leader in the manufacturing, marketing, and sale of electrical and electro…"
-    },
-    {
       "title": "Quantum shell structure reveals new rule for proton-neutron pairing inside nuclei",
       "link": "https://phys.org/news/2026-06-quantum-shell-reveals-proton-neutron.html",
       "source": "Phys.org — Quantum Physics",
@@ -306,44 +338,12 @@
       "summary": "A new room-temperature quantum device uses twisted light to entangle photons and electrons, overcoming one of the biggest hurdles in quantum technology. The breakthrough could pave the way for smaller, cheaper quantum systems with applications ranging from secure communications to future AI and comp…"
     },
     {
-      "title": "Diamond quantum sensor could reveal elusive altermagnets",
-      "link": "https://phys.org/news/2026-05-diamond-quantum-sensor-reveal-elusive.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 29 May 2026 15:20:02 EDT",
-      "published_ts": 1780082402,
-      "summary": "For nearly a century, there were two known kinds of magnets. Ferromagnets are the classic magnets that attract metal and keep pictures stuck to the refrigerator. Antiferromagnets hide their magnetism at the atomic scale but are increasingly prized for their technological potential. A third category…"
-    },
-    {
-      "title": "Topological states emerge in quantum Hall-superconductor devices with multiple channels",
-      "link": "https://phys.org/news/2026-05-topological-states-emerge-quantum-hall.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 29 May 2026 07:00:01 EDT",
-      "published_ts": 1780052401,
-      "summary": "Topological phases are unusual states of matter that give rise to properties protected by a material's overall structure (i.e., \"topology\"), as opposed to microscopic details. These phases are of great interest for the development of quantum technologies, as they can yield desirable electronic prope…"
-    },
-    {
-      "title": "'Atom Camera' maps laser light at nanoscale using a single ultracold atom",
-      "link": "https://phys.org/news/2026-05-atom-camera-laser-nanoscale-ultracold.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 29 May 2026 05:00:02 EDT",
-      "published_ts": 1780045202,
-      "summary": "A research group led by Assistant Professor Takafumi Tomita and Professor Kenji Ohmori at the Institute for Molecular Science, National Institutes of Natural Sciences, has developed a new microscopy technique called the Atom Camera, which uses a single ultracold atom at near absolute zero temperatur…"
-    },
-    {
       "title": "New laboratory at MIT aims to advance quantum research for the nation",
       "link": "https://news.mit.edu/2026/new-laboratory-aims-to-advance-quantum-research-nation-0528",
       "source": "MIT News — Quantum Computing",
       "published": "Thu, 28 May 2026 17:20:00 -0400",
       "published_ts": 1780003200,
       "summary": "The Quantum Systems Laboratory will catalyze quantum innovation and be open to government, academic, and industry researchers."
-    },
-    {
-      "title": "Quantum vibronics research points to future energy and computing technologies",
-      "link": "https://phys.org/news/2026-05-quantum-vibronics-future-energy-technologies.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 28 May 2026 15:00:02 EDT",
-      "published_ts": 1779994802,
-      "summary": "Scientists at the University of California, Riverside are making breakthroughs in understanding how quantum wave functions move across ultra-thin materials—research that could eventually improve solar energy technologies and help lay the groundwork for new forms of quantum computing."
     },
     {
       "title": "Media Advisory: MIT to establish regional quantum hub",
