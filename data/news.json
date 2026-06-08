@@ -1,6 +1,134 @@
 {
-  "generated_ts": 1780889615,
+  "generated_ts": 1780914566,
   "items": [
+    {
+      "title": "Why Quantum Computing Companies Are Turning to SPACs",
+      "link": "https://thequantuminsider.com/2026/06/08/why-quantum-computing-companies-are-turning-to-spacs/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 08 Jun 2026 07:59:53 +0000",
+      "published_ts": 1780905593,
+      "summary": "Insider Brief Special purpose acquisition companies, or SPACs, have regained favor among investors and deep-tech executives after a bruising 2022-23 collapse driven by overly speculative pandemic-era deals, according to a leading SPAC executive and investor. Executives, bankers and investors involve…"
+    },
+    {
+      "title": "Coordinated optimization of departure sequencing and section-track allocation in railway short-term concentrated departure scenarios based on qubo and hybrid quantum algorithms",
+      "link": "https://arxiv.org/abs/2606.06543",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06543v1 Announce Type: new  Abstract: This study examines the coordinated optimization of departure sequencing and section-track allocation in railway short-term concentrated departure scenarios. A quadratic unconstrained binary optimization (QUBO) model is formulated to represent departu…"
+    },
+    {
+      "title": "Beyond the Canonical Protocol: Quantum Encrypted Cloning from Secret-Sharing Access Structures",
+      "link": "https://arxiv.org/abs/2606.06552",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06552v1 Announce Type: new  Abstract: Quantum encrypted cloning shows that an unknown quantum state can be distributed into multiple encrypted copies without contradicting the no-cloning theorem: each copy is unusable on its own, but can be redeemed together with a suitable quantum key. R…"
+    },
+    {
+      "title": "Amplitude-dependent quantum hydrodynamics from a \\(\\coth\\)-Madelung ansatz",
+      "link": "https://arxiv.org/abs/2606.06561",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06561v1 Announce Type: new  Abstract: We investigate a nonlinear extension of the Madelung transformation based on a hyperbolic phase--amplitude coupling of the form \\[ \\Psi = R e^{\\imath\\theta \\coth R}, \\] where \\(R\\) is a real amplitude field and \\(\\theta\\) is an auxiliary phase coordin…"
+    },
+    {
+      "title": "Fun with Graph States: Nonlocal Bell Pairs and the Arf Invariant",
+      "link": "https://arxiv.org/abs/2606.06582",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06582v1 Announce Type: new  Abstract: We study inner products and partial amplitudes of graph states--a commonly employed class of quantum states, which are specified by graphs. We find that the magnitudes of these quantities are simply related to the rank of the adjacency matrix of the g…"
+    },
+    {
+      "title": "Demystifying Objectivity with Operator Algebra Quantum Error Correction",
+      "link": "https://arxiv.org/abs/2606.06588",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06588v1 Announce Type: new  Abstract: Quantum Darwinism extends the decoherence formalism to explain how classicality and objectivity emerge from quantum mechanics. However, existing approaches often capture only partial aspects of objectivity, leading to its mischaracterization and makin…"
+    },
+    {
+      "title": "Quantum-stabilized patterns in a vector Hopfield network",
+      "link": "https://arxiv.org/abs/2606.06597",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06597v1 Announce Type: new  Abstract: We introduce the quantum vector Hopfield network, in which patterns are formed by orientations of quantum vector spins; quantum dynamics arise intrinsically from the non-commutativity of the spin operators. We derive the equations of state and the pha…"
+    },
+    {
+      "title": "A superconducting surface-code processor with lattice-surgery logical operations",
+      "link": "https://arxiv.org/abs/2606.06598",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06598v1 Announce Type: new  Abstract: Fault-tolerant logical operations are fundamental for scalable quantum computation. Here, we report the experimental realization of lattice-surgery operations between a pair of distance-three surface-code logical qubits on a planar superconducting pro…"
+    },
+    {
+      "title": "Sensing ac fields with quantum many-body scars",
+      "link": "https://arxiv.org/abs/2606.06611",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06611v1 Announce Type: new  Abstract: Quantum many-body scars (MBS) exhibit weak ergodicity breaking and long-lived coherent dynamics within an otherwise thermal spectrum. We investigate their metrological properties using the quantum Fisher information (QFI), focusing on estimating the a…"
+    },
+    {
+      "title": "Collective decay of interacting bosons",
+      "link": "https://arxiv.org/abs/2606.06621",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06621v1 Announce Type: new  Abstract: We study a bosonic analog of the paradigmatic Dicke model of superradiance, comprising interacting bosonic modes subject to fully symmetric collective decay. Depending on the interaction strength, we uncover qualitatively distinct regimes of emission.…"
+    },
+    {
+      "title": "Higher-order Symmetric Quantum Mpemba Effect in Fragmented Systems",
+      "link": "https://arxiv.org/abs/2606.06653",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06653v1 Announce Type: new  Abstract: A quantum system can restore a broken symmetry faster the more strongly it initially breaks it, an anomaly known as the quantum Mpemba effect. Whether this effect survives once conservation laws fragment the Hilbert space into exponentially many disco…"
+    },
+    {
+      "title": "Computational Superiority of Non-Markovian Kerr Feedback in Continuous-Variable Quantum Reservoir Computing",
+      "link": "https://arxiv.org/abs/2606.06689",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06689v1 Announce Type: new  Abstract: A linear optical medium can delay, mix, and superpose light, but never make two pulses multiply: multiplication is nonlinear, and a linear system has no such operation. This roots a sharp limit on continuous-variable quantum reservoir computers (QRCs)…"
+    },
+    {
+      "title": "Bures geodesics for non-faithful states and quantum speed limit",
+      "link": "https://arxiv.org/abs/2606.06759",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06759v1 Announce Type: new  Abstract: The quantum speed limit establishes a bound on the minimal time required for a quantum system to evolve from a given initial state to a final state. When the mean energy variance is fixed this limitation is captured by the Mandelstam--Tamm bound. The…"
+    },
+    {
+      "title": "Machine-Learning Optimization and Characterization of a High-Optical-Depth Two-Color Nanofiber Trap",
+      "link": "https://arxiv.org/abs/2606.06798",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06798v1 Announce Type: new  Abstract: Optical nanofibers provide a way of coupling quantum information in cold atoms across large distances, however, this coupling requires atoms to reside close to the nanofiber surface. Atoms can be trapped close to the surface using a two-color dipole t…"
+    },
+    {
+      "title": "Cyclic ladder operators and hidden Weyl-Heisenberg structure in a Floquet system",
+      "link": "https://arxiv.org/abs/2606.06810",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06810v1 Announce Type: new  Abstract: Ladder operators, found in the quantum harmonic oscillator and other quantized systems, provide an elegant approach to solving or understanding otherwise intricate physics problems. In this Letter, we discuss cyclic ladder operators in both Hermitian…"
+    },
+    {
+      "title": "Scalable Quantum Algorithms for Gutzwiller Projection",
+      "link": "https://arxiv.org/abs/2606.06919",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "published_ts": 1780891200,
+      "summary": "arXiv:2606.06919v1 Announce Type: new  Abstract: Quantum simulation requires highly accurate input states. Gutzwiller-projected Bardeen-Cooper-Schrieffer (BCS) states provide physically motivated input states for solving strongly correlated lattice models, but their preparation on a quantum computer…"
+    },
     {
       "title": "Predictive surrogates could cut quantum computing measurement overhead by more than 99.97%",
       "link": "https://phys.org/news/2026-06-surrogates-quantum-overhead.html",
@@ -96,14 +224,6 @@
       "published": "Thu, 04 Jun 2026 12:05:27 +0000",
       "published_ts": 1780574727,
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantum X Labs Inc. (Nasdaq: QXL), an advanced quantum technologies company, today announces the appointment of Prof. Oren Raz of the Weizmann Institute of Science to its Scientific Advisory Board. Prof. Raz&#8217;s appointment brings one of Israel&#8217;s most di…"
-    },
-    {
-      "title": "Texas Governor Appoints Five to Quantum Initiative Advisory Committee",
-      "link": "https://thequantuminsider.com/2026/06/04/texas-governor-appoints-five-to-quantum-initiative-advisory-committee/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 04 Jun 2026 11:18:02 +0000",
-      "published_ts": 1780571882,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Governor Greg Abbott appointed Victor Fishman, Ph.D. and Lin Zhou, Ph.D. to the Quantum Initiative Advisory Committee for terms set to expire on January 31, 2027. Governor Abbott also&#160;appointed Richard “Ross” Coffman for a term set to expire on January 31, 20…"
     },
     {
       "title": "Photoexcitation flips 2D moiré devices from metals to insulators in ultrafast test",
