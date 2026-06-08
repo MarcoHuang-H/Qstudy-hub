@@ -13,7 +13,7 @@
     {
       "id": "course",
       "title": "量子運算課程（講義整理）",
-      "articles": ["dirac-notation", "hadamard-gate", "cnot-bell", "cz-gate", "bloch-decomposition", "eigenstate", "superposition-physical", "coherence-time", "phase-kickback", "deutsch", "grover", "meyer-penny"]
+      "articles": ["dirac-notation", "hadamard-gate", "cnot-bell", "cz-gate", "bloch-decomposition", "eigenstate", "superposition-physical", "coherence-time", "phase-kickback", "deutsch", "grover", "shor", "meyer-penny"]
     }
   ],
   "articles": [
@@ -583,6 +583,64 @@
         {"type": "p", "text": "電路無法直接寫「算平均值」的指令，而是透過 Hadamard 閘的基底轉換達成。擴散算子分解為：H 閘 → 條件相位翻轉（針對 |0…0⟩ 態）→ H 閘。第一個 H 把所有狀態「匯聚」回 |0…0⟩（傅立葉觀點下相當於提取直流分量 DC，即平均值）；中間相位翻轉針對代表平均值的那一項；第二個 H 再把資訊「擴散」回所有基底態。這其實是量子傅立葉變換（QFT）的特例。"}
       ],
       "related": ["phase-kickback", "deutsch", "hadamard-gate"]
+    },
+    {
+      "id": "shor",
+      "title": "Shor 大數分解演算法",
+      "category": "course",
+      "summary": "把「質因數分解」化為「找週期」，再用量子傅立葉變換指數加速；威脅 RSA 加密的關鍵演算法。",
+      "body": [
+        {"type": "p", "text": "Shor 演算法由 Peter Shor 於 1994 年提出，是量子計算史上最具衝擊力的成果——它能在多項式時間內分解大整數，而這正是 RSA 公開金鑰加密的安全基礎。古典電腦目前最快的因數分解（一般數域篩法）是次指數時間，Shor 則把它降到多項式時間，這也是「後量子密碼學」興起的主因。"},
+
+        {"type": "h", "text": "核心洞見：分解 → 找週期"},
+        {"type": "p", "text": "Shor 最關鍵的一步是把「分解 N」這個看似困難的問題，轉化成一個「找週期」的問題——而找週期正是量子電腦極為擅長的。流程是先做古典歸約，再用量子部分加速最難的步驟。"},
+        {"type": "p", "text": "要分解 $N$，隨機選一個與 $N$ 互質的整數 $a$（$1<a<N$），考慮模指數函數："},
+        {"type": "math", "tex": "f(x) = a^x \\bmod N"},
+        {"type": "p", "text": "這個函數是「週期函數」，其週期 $r$ 稱為 $a$ 對模 $N$ 的「階」（order），滿足："},
+        {"type": "math", "tex": "a^r \\equiv 1 \\pmod{N},\\qquad r = \\text{使等式成立的最小正整數}"},
+
+        {"type": "h", "text": "古典歸約：從週期到因數"},
+        {"type": "p", "text": "一旦量子部分找出週期 $r$，剩下的就交給古典數論。若 $r$ 為偶數、且 $a^{r/2} \\not\\equiv -1 \\pmod N$，則："},
+        {"type": "math", "tex": "a^r - 1 = (a^{r/2}-1)(a^{r/2}+1) \\equiv 0 \\pmod{N}"},
+        {"type": "p", "text": "這代表 $N$ 與 $a^{r/2}\\pm 1$ 之間存在非平凡的公因數，於是用歐幾里得演算法（GCD，古典上很快）即可求出 $N$ 的因數："},
+        {"type": "math", "tex": "\\gcd(a^{r/2}-1,\\;N)\\quad\\text{與}\\quad\\gcd(a^{r/2}+1,\\;N)"},
+        {"type": "p", "text": "若運氣不好（$r$ 為奇數或落入平凡解），就換一個 $a$ 重試。成功機率夠高，平均試幾次即可。"},
+
+        {"type": "h", "text": "量子部分：用週期找出 r"},
+        {"type": "p", "text": "找週期 $r$ 是整個演算法唯一需要量子加速的地方。使用兩個暫存器：計數暫存器（$t$ 個 qubit，$t\\approx 2\\log_2 N$）與工作暫存器。"},
+        {"type": "p", "text": "步驟 1 — 疊加：對計數暫存器全部施加 H 閘，產生所有 $x$ 的均勻疊加："},
+        {"type": "math", "tex": "\\frac{1}{\\sqrt{2^t}}\\sum_{x=0}^{2^t-1}|x\\rangle\\,|0\\rangle"},
+        {"type": "p", "text": "步驟 2 — 模指數（量子並行）：以受控運算一次算出所有 $x$ 對應的 $a^x \\bmod N$，寫進工作暫存器："},
+        {"type": "math", "tex": "\\frac{1}{\\sqrt{2^t}}\\sum_{x=0}^{2^t-1}|x\\rangle\\,|a^x \\bmod N\\rangle"},
+        {"type": "p", "text": "步驟 3 — 測量工作暫存器（或直接干涉）：因為 $f(x)$ 是週期 $r$ 的函數，計數暫存器塌縮成一串「間隔為 $r$」的 $x$ 值疊加（$x_0, x_0+r, x_0+2r, \\dots$）。週期資訊就藏在這個梳狀（comb）結構裡。"},
+        {"type": "p", "text": "步驟 4 — 量子傅立葉變換（QFT）：對計數暫存器做 QFT，把「時域的週期 $r$」轉成「頻域的尖峰」，尖峰集中在 $2^t/r$ 的整數倍附近。"},
+        {"type": "math", "tex": "\\text{QFT}:\\;|x\\rangle \\longmapsto \\frac{1}{\\sqrt{2^t}}\\sum_{k=0}^{2^t-1} e^{\\,2\\pi i\\,xk/2^t}\\,|k\\rangle"},
+        {"type": "p", "text": "步驟 5 — 測量 + 連分數：測量得到一個 $k \\approx \\dfrac{2^t \\cdot s}{r}$（$s$ 為某整數）。用連分數展開 $\\dfrac{k}{2^t}$ 逼近，就能把分母 $r$ 還原出來。"},
+
+        {"type": "h", "text": "量子傅立葉變換 (QFT)"},
+        {"type": "p", "text": "QFT 是 Shor 的引擎，等同於離散傅立葉變換，但只需 $O(t^2)$ 個量子閘（古典 FFT 需 $O(t\\,2^t)$）。它由 Hadamard 閘與一連串受控相位旋轉閘 $R_k$ 組成："},
+        {"type": "math", "tex": "R_k = \\begin{pmatrix}1 & 0\\\\ 0 & e^{2\\pi i / 2^k}\\end{pmatrix}"},
+        {"type": "p", "text": "QFT 的威力在於：它能讓帶有相同週期的振幅產生「建設性干涉」、其餘相互抵消，等於用一次操作就把隱藏的週期「點亮」成可測量的尖峰。這與 Deutsch、Grover 共用的核心是同一個——量子干涉。"},
+
+        {"type": "h", "text": "物理意義：干涉如何「看見」週期"},
+        {"type": "p", "text": "古典上要知道 $f(x)$ 的週期，必須一個一個算出很多 $f(x)$ 再比對。量子電腦不「逐一觀察」，而是讓所有 $x$ 同時存在（疊加），讓函數的週期性以「相位」的形式寫進整個波函數，再用 QFT 把這個週期性轉成干涉圖樣中的尖峰。"},
+        {"type": "p", "text": "用波的比喻：模指數讓量子態變成一個帶有固定節拍（週期 $r$）的「波列」；QFT 就像一個頻譜儀，把這個波列分解成頻率成分，週期對應的頻率會出現強烈共振。我們從未真的「讀出」每一個 $a^x$，只是讓系統的整體干涉直接告訴我們週期。"},
+
+        {"type": "h", "text": "演算法線路（高階）"},
+        {"type": "svg", "caption": "Shor 量子部分高階線路：計數暫存器疊加 → 受控模指數 → 反量子傅立葉變換 QFT† → 測量。", "svg": "<svg viewBox='0 0 540 150' width='540' font-family='Helvetica'><line class='qline' x1='110' y1='45' x2='500' y2='45' stroke='#46506b'/><line class='qline' x1='110' y1='100' x2='500' y2='100' stroke='#46506b'/><text x='6' y='49' fill='#9aa6c4' font-size='12'>計數 |0⟩⊗t</text><text x='6' y='104' fill='#9aa6c4' font-size='12'>工作 |1⟩</text><rect x='120' y='30' width='34' height='30' rx='5' fill='#161d33' stroke='#38d9d2'/><text x='137' y='50' fill='#fff' font-size='13' text-anchor='middle'>H⊗t</text><rect x='200' y='22' width='120' height='96' rx='6' fill='#2a3142' stroke='#8a93ad'/><text x='260' y='66' fill='#e4e9f5' font-size='14' text-anchor='middle' font-style='italic'>aˣ mod N</text><line x1='245' y1='60' x2='245' y2='100' stroke='#6c7bff' stroke-width='2'/><circle cx='245' cy='45' r='5' fill='#6c7bff'/><rect x='360' y='30' width='52' height='30' rx='5' fill='#161d33' stroke='#38d9d2'/><text x='386' y='50' fill='#fff' font-size='12' text-anchor='middle'>QFT†</text><rect x='450' y='30' width='34' height='30' rx='5' fill='#2a3142' stroke='#ffd166'/><path d='M458 52 a9 9 0 0 1 18 0' fill='none' stroke='#ffd166' stroke-width='1.5'/><line x1='467' y1='52' x2='476' y2='40' stroke='#ffd166' stroke-width='1.5'/></svg>"},
+
+        {"type": "h", "text": "範例：分解 N = 15"},
+        {"type": "p", "text": "取 $a=7$。計算 $7^x \\bmod 15$ 的序列：$7^1=7,\\;7^2=49\\equiv 4,\\;7^3\\equiv 13,\\;7^4\\equiv 1$。所以週期 $r=4$（偶數，可用）。"},
+        {"type": "math", "tex": "a^{r/2}=7^2=49\\equiv 4 \\pmod{15}"},
+        {"type": "p", "text": "再求 GCD："},
+        {"type": "math", "tex": "\\gcd(4-1,\\,15)=\\gcd(3,15)=3,\\qquad \\gcd(4+1,\\,15)=\\gcd(5,15)=5"},
+        {"type": "p", "text": "得到 $15 = 3 \\times 5$。量子電腦的工作只是找出那個週期 $r=4$，其餘都是古典的 GCD。"},
+
+        {"type": "h", "text": "複雜度與影響"},
+        {"type": "p", "text": "古典最佳（一般數域篩法）為次指數 $\\exp\\!\\big(O((\\log N)^{1/3}(\\log\\log N)^{2/3})\\big)$；Shor 為多項式 $O((\\log N)^2(\\log\\log N)(\\log\\log\\log N))$。這個指數級差距意味著一旦有足夠大、夠穩定的容錯量子電腦，現行 RSA / Diffie-Hellman / 橢圓曲線加密都將被破解——這正是 NIST 推動「後量子密碼學（PQC）」標準化的原因。"},
+        {"type": "p", "text": "現實限制：分解 2048-bit RSA 估計需要數千個邏輯 qubit、數百萬至數十億次容錯閘操作，遠超目前 NISQ 硬體。但這也是量子糾錯（QEC）成為兵家必爭之地的根本動機。"}
+      ],
+      "related": ["phase-kickback", "grover", "deutsch", "qec"]
     },
     {
       "id": "meyer-penny",
