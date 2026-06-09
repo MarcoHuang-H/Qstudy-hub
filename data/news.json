@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1780949353,
+  "generated_ts": 1780973023,
   "items": [
+    {
+      "title": "Cloud-tested quantum noise model predicts superconducting qubit errors with sevenfold better accuracy",
+      "link": "https://phys.org/news/2026-06-cloud-quantum-noise-superconducting-qubit.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 08 Jun 2026 19:00:02 EDT",
+      "published_ts": 1780959602,
+      "summary": "Researchers from the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, and Johns Hopkins University in Baltimore have developed a practical, comprehensive noise-modeling framework for a popular class of superconducting quantum processors. Their work, published in the journal PRX Qu…"
+    },
+    {
+      "title": "New cryogenic silicon carbide hardware addresses quantum computing bottleneck",
+      "link": "https://phys.org/news/2026-06-cryogenic-silicon-carbide-hardware-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 08 Jun 2026 17:10:06 EDT",
+      "published_ts": 1780953006,
+      "summary": "Researchers from the Department of Electrical and Computer Engineering in the Faculty of Engineering at the University of Hong Kong (HKU) and the Centre for Advanced Semiconductors and Integrated Circuits (CASIC) have achieved a major breakthrough in cryogenic electronics. The team has developed a p…"
+    },
     {
       "title": "Research uncovers novel electronic properties in quantum material",
       "link": "https://phys.org/news/2026-06-uncovers-electronic-properties-quantum-material.html",
@@ -312,22 +328,6 @@
       "published": "Mon, 01 Jun 2026 16:00:04 EDT",
       "published_ts": 1780344004,
       "summary": "Quantum entanglement is a state in which particles are entwined with each other. In this entwined state, the properties of one particle influence the other, even when they aren't physically close to each other. This phenomenon has often been observed in small quantum systems with only a few particle…"
-    },
-    {
-      "title": "Better math discriminates exotic from classical materials",
-      "link": "https://phys.org/news/2026-05-math-discriminates-exotic-classical-materials.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 01 Jun 2026 11:00:07 EDT",
-      "published_ts": 1780326007,
-      "summary": "The planar Hall effect is a tabletop diagnostic tool for special quantum properties useful in basic research and technological applications. Or so it was thought, because careful calculation by Kobe University researchers clarifies the conditions under which this effect may also appear in classical…"
-    },
-    {
-      "title": "Quantum light gives a 20-fold boost to ultrafast laser processes",
-      "link": "https://phys.org/news/2026-05-quantum-boost-ultrafast-laser.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 30 May 2026 13:00:02 EDT",
-      "published_ts": 1780160402,
-      "summary": "Nonlinear interactions between light and matter are at the heart of some of the most powerful tools in modern optics, but pushing these processes to their limits has long been hampered by a fundamental constraint: the stronger you make the laser, the more likely it is to destroy whatever it illumina…"
     },
     {
       "title": "Stanford quantum computing breakthrough uses twisted light to work without extreme cooling",
