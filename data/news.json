@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1781016015,
+  "generated_ts": 1781035394,
   "items": [
+    {
+      "title": "New buried-growth process enables 2D arrays of position- and orientation-controlled diamond qubits",
+      "link": "https://phys.org/news/2026-06-growth-enables-2d-arrays-position.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 09 Jun 2026 14:40:09 EDT",
+      "published_ts": 1781030409,
+      "summary": "Researchers at Kanazawa University, in collaboration with Diamond and Carbon Applications (Germany), have developed a buried-growth process for nitrogen–vacancy (NV) centers in diamond using microwave plasma chemical vapor deposition (MPCVD). By employing nitrogen-radical selective etching, which si…"
+    },
+    {
+      "title": "Quantum X Labs and IQCC Partner to Evaluate AI-Based Quantum Error Correction",
+      "link": "https://thequantuminsider.com/2026/06/09/quantum-x-labs-and-iqcc-partner-to-evaluate-ai-based-quantum-error-correction/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 09 Jun 2026 16:23:08 +0000",
+      "published_ts": 1781022188,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum X Labs Inc.&#160;(Nasdaq: QXL)&#160;(“Quantum X&#160;Labs” or the “Company”), an advanced quantum technologies company, and&#160;IQCC,&#160;a&#160;Quantum Machines&#160;company, today announced the signing of a strategic cooperation agreement,&#160;under w…"
+    },
+    {
+      "title": "Quantum Sensor Advance Could Transform Army Battlefield Signal Detection",
+      "link": "https://thequantuminsider.com/2026/06/09/quantum-sensor-advance-could-transform-army-battlefield-signal-detection/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 09 Jun 2026 15:38:44 +0000",
+      "published_ts": 1781019524,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Army&#160;scientists&#160;achieved a major milestone in quantum sensing technology&#160;that could&#160;transform how&#160;electromagnetic&#160;signals&#160;are detected&#160;on the battlefield. For the first time,&#160;scientists at&#160;the&#160;U.S. Army Combat…"
+    },
     {
       "title": "Keyfactor Launches Trust Control Plane to Unify Digital Trust Across the Enterprise",
       "link": "https://thequantuminsider.com/2026/06/09/keyfactor-launches-trust-control-plane-to-unify-digital-trust-across-the-enterprise/",
@@ -72,22 +96,6 @@
       "published": "Tue, 09 Jun 2026 07:40:02 EDT",
       "published_ts": 1781005202,
       "summary": "Quantum memories, systems that store and retrieve information leveraging quantum mechanical effects, can outperform classical storage systems on some existing tasks. Yet these promising memories could also complete operations that are very difficult or impossible for classical systems, including the…"
-    },
-    {
-      "title": "Defiance Expands Its Quantum Suite With QTUP, Targeting Early-Stage Quantum Companies",
-      "link": "https://thequantuminsider.com/2026/06/09/defiance-expands-its-quantum-suite-with-qtup-targeting-early-stage-quantum-companies/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 09 Jun 2026 11:37:31 +0000",
-      "published_ts": 1781005051,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Defiance ETFs, a leader in thematic and leveraged exchange-traded funds, announced the launch of the Defiance Long Pure Quantum ETF (Cboe BZX: QTUP), an actively managed ETF that adds early stage quantum computing companies to the firm&#8217;s quantum suite alongs…"
-    },
-    {
-      "title": "Xanadu Founder Says Quantum Literacy May Be Canada’s Next Competitive Imperative",
-      "link": "https://thequantuminsider.com/2026/06/09/xanadu-founder-says-quantum-literacy-may-be-canadas-next-competitive-imperative/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 09 Jun 2026 11:25:17 +0000",
-      "published_ts": 1781004317,
-      "summary": "Insider Brief Canada should treat quantum literacy as a national priority before the technology reaches its defining moment, according to Christian Weedbrook, founder and chief executive of Xanadu Quantum Technologies. Writing in The Globe and Mail, Weedbrook says that Ottawa&#8217;s newly announced…"
     },
     {
       "title": "Hardware-aware Low-latency Quantum Compilation with Data-driven Lightweight Error Detection for Early Fault-Tolerant Systems",
@@ -312,14 +320,6 @@
       "published": "Wed, 03 Jun 2026 13:00:04 EDT",
       "published_ts": 1780506004,
       "summary": "For every action, there is an equal and opposite reaction. What goes up must come down. Physical laws like these govern all of the natural world—except for the tiny internal components of today's microprocessors, which operate according to the unique and complicated rules of quantum physics."
-    },
-    {
-      "title": "Cutting a photon in two creates an infinite swarm of particles",
-      "link": "https://phys.org/news/2026-06-photon-infinite-swarm-particles.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 02 Jun 2026 10:20:08 EDT",
-      "published_ts": 1780410008,
-      "summary": "By definition, elementary particles can't be broken into smaller pieces. But in a new theoretical study published in Physical Review Letters, Johannes Skaar and colleagues have revealed what would happen if you tried anyway for a single photon. The answer is deeply strange: attempting to cut a photo…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
