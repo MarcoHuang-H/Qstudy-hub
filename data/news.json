@@ -1,6 +1,150 @@
 {
-  "generated_ts": 1781060207,
+  "generated_ts": 1781085076,
   "items": [
+    {
+      "title": "Quantum witness technique reveals spinons in quantum spin liquid candidate",
+      "link": "https://phys.org/news/2026-06-quantum-witness-technique-reveals-spinons.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 10 Jun 2026 05:00:11 EDT",
+      "published_ts": 1781082011,
+      "summary": "Physicists at University College Cork have developed a new approach in the search for a quantum spin liquid, a long-sought state of quantum matter resembling a magnetic liquid whose quantum properties mean it never freezes. The work is a key step in the search for quantum silicon, a mineral that cou…"
+    },
+    {
+      "title": "ICQIA Expands Global Reach With New Charter And Members",
+      "link": "https://thequantuminsider.com/2026/06/10/icqia-expands-global-reach-with-new-charter-and-members/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 10 Jun 2026 07:46:53 +0000",
+      "published_ts": 1781077613,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The global quantum industry took a step toward greater international coordination as the International Council of Quantum Industry Associations (ICQIA) adopted a new charter and expanded its membership to welcome two additional member organisations: UKQuantum and…"
+    },
+    {
+      "title": "Quantum Companies Join World Economic Forum’s Technology Pioneers",
+      "link": "https://thequantuminsider.com/2026/06/10/quantum-companies-join-world-economic-forums-technology-pioneers/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 10 Jun 2026 07:30:21 +0000",
+      "published_ts": 1781076621,
+      "summary": "Insider Brief The World Economic Forum has named several quantum technology companies to its 2026 Technology Pioneers cohort, a sign of the growing role of quantum innovation in the next generation of computing, communications and cybersecurity solutions. The selected firms span multiple segments of…"
+    },
+    {
+      "title": "Quantum Fidelity on Krein and S-spaces",
+      "link": "https://arxiv.org/abs/2606.09939",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.09939v1 Announce Type: new  Abstract: The notion of Fidelity for quantum states is a measure of how much two states overlap. In the matrix formalism of quantum mechanics, states are represented by density operators i.e. positive semi-definite matrices with trace equal to 1 in a complex Eu…"
+    },
+    {
+      "title": "Near-projective GHZ certification from disjoint Bell measurements",
+      "link": "https://arxiv.org/abs/2606.09947",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.09947v1 Announce Type: new  Abstract: Certifying multipartite entangled states is a basic task in quantum information processing, but the achievable copy complexity depends crucially on the measurements available to the verifier. The strongest possible certification measurement for a know…"
+    },
+    {
+      "title": "JGRA: Jacobian Geometry Robustness Assessment in NISQ Noise-Aware Quantum Neural Networks",
+      "link": "https://arxiv.org/abs/2606.09964",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.09964v1 Announce Type: new  Abstract: The NISQ era places stringent constraints on quantum computation, where noise and decoherence fundamentally limit performance. In classical deep learning, model robustness and resilience to perturbations are well studied: deep neural networks (DNNs) m…"
+    },
+    {
+      "title": "Magic and entanglement in 1+1-dimensional SU(2) lattice gauge theory",
+      "link": "https://arxiv.org/abs/2606.09971",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.09971v1 Announce Type: new  Abstract: Entanglement and non-stabilizerness (magic) quantify two distinct departures of quantum systems from classical description: the former measures non-local correlations, while the latter measures the deviation from stabilizer states that can be efficien…"
+    },
+    {
+      "title": "Absence of poor local minima in matrix product states",
+      "link": "https://arxiv.org/abs/2606.09988",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.09988v1 Announce Type: new  Abstract: Quantum circuits suffer from severe trainability issues: even shallow circuits are swamped with poor local minima. Yet matrix product states (MPS), which can be prepared by sequential circuits, are remarkably trainable in practice -- as demonstrated b…"
+    },
+    {
+      "title": "Graviton-mediated entanglement due to light bending from a quantum rotor",
+      "link": "https://arxiv.org/abs/2606.09991",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.09991v1 Announce Type: new  Abstract: One of the key tests of the quantum nature of gravity is to test whether the virtual mediator of gravity between matter and photon gives rise to the quantum light-bending phenomenon. The off-shell degrees of freedom, involving the spin-2 and spin-0 co…"
+    },
+    {
+      "title": "Quantum resources in non-stoquastic quantum annealing",
+      "link": "https://arxiv.org/abs/2606.09995",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.09995v1 Announce Type: new  Abstract: Quantum annealing promises to solve combinatorial optimization problems by preparing the ground state of a target Hamiltonian. Standard annealing protocols are, however, stoquastic and can thus be simulated by sign-problem-free quantum Monte-Carlo met…"
+    },
+    {
+      "title": "Wave packets from the spectrum",
+      "link": "https://arxiv.org/abs/2606.10004",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.10004v1 Announce Type: new  Abstract: The freedom to change Fock basis seems to ensure a minimum amount of locality in lattice theories in the following sense: If $\\lbrace (\\hat a_i^\\dagger\\,,\\,\\hat a_i)\\rbrace$ for $i=1,\\dots,n$ is a lattice of creation and annihilation operators and if…"
+    },
+    {
+      "title": "Quantum Non-Gaussian State Preparation of Levitated Particles via Time-Dependent Control of Weakly Nonharmonic Hybrid Potentials",
+      "link": "https://arxiv.org/abs/2606.10042",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.10042v1 Announce Type: new  Abstract: Levitated high-mass quantum systems provide access to unprecedented regimes in both fundamental science and technological applications. However, deterministic generation and manipulation of quantum non-Gaussian states, which are central to many contin…"
+    },
+    {
+      "title": "Scaling law of asymptotic freedom in collective charging of quantum batteries",
+      "link": "https://arxiv.org/abs/2606.10054",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.10054v1 Announce Type: new  Abstract: We establish a universal scaling law for collective charging of quantum batteries, independent of microscopic details. We prove that the ergotropy-to-energy ratio approaches unity at least as fast as $\\sim N^{-1}$ with the number of batteries $N$, imp…"
+    },
+    {
+      "title": "Identical Bosons, large occupation numbers and classical field description",
+      "link": "https://arxiv.org/abs/2606.10055",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.10055v1 Announce Type: new  Abstract: For a system with a large number of identical Bosons, it is common to claim, often without any additional justifications, that, when the mean occupation number in a single particle state is sufficiently large, classical field description will be appli…"
+    },
+    {
+      "title": "A Cryogenic Hybrid Photonic/CMOS Controller Architecture for Scalable Superconducting Qubit Control",
+      "link": "https://arxiv.org/abs/2606.10114",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.10114v1 Announce Type: new  Abstract: Scaling superconducting quantum computers toward thousands of qubits remains a difficult control hardware problem. It requires hardware that reduces room-temperature to cryogenic wiring and cryogenic power while preserving in-fridge programmability fo…"
+    },
+    {
+      "title": "Towards the implementation of a quantum classifier",
+      "link": "https://arxiv.org/abs/2606.10150",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.10150v1 Announce Type: new  Abstract: In this work, we investigate the use of a quantum circuit as a binary classification model in the context of quantum machine learning. We call this model, binary quantum classifier.   First, we describe fundamental concepts of quantum computing and in…"
+    },
+    {
+      "title": "Trainability of IQP Quantum Circuit Born Machines Under Gaussian Initialization",
+      "link": "https://arxiv.org/abs/2606.10179",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.10179v1 Announce Type: new  Abstract: Quantum Circuit Born Machines (QCBMs) offer a natural approach to generative machine learning by leveraging the Born rule. Recent work has provided a method to classically train QCBMs with Instantaneous Quantum Polynomial (IQP) circuits via the Maximu…"
+    },
+    {
+      "title": "Variational Approach for Uniform Quantum Permutation Generators",
+      "link": "https://arxiv.org/abs/2606.10230",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781064000,
+      "summary": "arXiv:2606.10230v1 Announce Type: new  Abstract: Uniform permutation generation is a fundamental task in both classical and quantum computation, with applications ranging from cryptography to quantum optimization and quantum error correction. Existing exact quantum constructions typically require al…"
+    },
     {
       "title": "Physicists harness potential of quantum phase transitions",
       "link": "https://phys.org/news/2026-06-physicists-harness-potential-quantum-phase.html",
@@ -90,148 +234,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; ELECTRA AI (“Electra”) and Naoris Quantum Protocol Inc (“Naoris Quantum Protocol”) today announced a partnership to bring post-quantum cybersecurity to AI battery intelligence, the fast-growing layer where always-connected battery systems meet the AI models that m…"
     },
     {
-      "title": "IQM and Real Asset Acquisition Move Forward with Public Listing Plans",
-      "link": "https://thequantuminsider.com/2026/06/09/iqm-and-real-asset-acquisition-move-forward-with-public-listing-plans/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 09 Jun 2026 12:11:05 +0000",
-      "published_ts": 1781007065,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Finland Oy, a global leader in full-stack superconducting quantum computers (“IQM”, “IQM Quantum Computers” or the “Company”), and Real Asset Acquisition Corp. (Nasdaq: RAAQ), a special purpose acquisition company (“RAAQ”), announced today that the registratio…"
-    },
-    {
-      "title": "Diraq Names Former Broadcom CEO Scott McGregor as Chairman",
-      "link": "https://thequantuminsider.com/2026/06/09/diraq-names-former-broadcom-ceo-scott-mcgregor-as-chairman/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 09 Jun 2026 12:02:12 +0000",
-      "published_ts": 1781006532,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Diraq, the quantum computing pioneer, today announced the appointment of Scott A. McGregor as Chairman of the Board of Directors. McGregor, known for leading development of Microsoft Windows 1.0 and serving as CEO and President for both Broadcom and Philips Semico…"
-    },
-    {
       "title": "Quantum memory surpasses classical limits for storing unknown quantum operations",
       "link": "https://phys.org/news/2026-06-quantum-memory-surpasses-classical-limits.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 09 Jun 2026 07:40:02 EDT",
       "published_ts": 1781005202,
       "summary": "Quantum memories, systems that store and retrieve information leveraging quantum mechanical effects, can outperform classical storage systems on some existing tasks. Yet these promising memories could also complete operations that are very difficult or impossible for classical systems, including the…"
-    },
-    {
-      "title": "Hardware-aware Low-latency Quantum Compilation with Data-driven Lightweight Error Detection for Early Fault-Tolerant Systems",
-      "link": "https://arxiv.org/abs/2606.07666",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07666v1 Announce Type: new  Abstract: Noisy intermediate-scale quantum (NISQ) processors are entering an early fault-tolerance regime where full quantum error correction carries prohibitive resource costs, yet lightweight error detection can meaningfully improve algorithmic success rates.…"
-    },
-    {
-      "title": "Correlation-Assisted Odd-Parity Encoded Gates in Coupled Fluxonium Qubits under Non-Markovian TLS Noise",
-      "link": "https://arxiv.org/abs/2606.07699",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07699v1 Announce Type: new  Abstract: Correlated longitudinal noise can be partially converted into common-mode fluctuations in an oddparity two-qubit subspace. We analyze an encoded logical qubit formed by the states in two coupled fluxonium qubits. Projecting the exchange-coupled two-qu…"
-    },
-    {
-      "title": "Benchmarking Quantum Algorithmic Resilience for CVaR Portfolio Optimization: The Expressibility-Coherence Trade-off",
-      "link": "https://arxiv.org/abs/2606.07727",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07727v1 Announce Type: new  Abstract: Quantum combinatorial optimization offers theoretical advantages for complex financial modeling, but physical implementation on Noisy Intermediate Scale Quantum (NISQ) devices is severely constrained by hardware topology. This study presents a hardwar…"
-    },
-    {
-      "title": "Exploring the landscape of compact magic-state distillation factories",
-      "link": "https://arxiv.org/abs/2606.07734",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07734v1 Announce Type: new  Abstract: Producing high-fidelity magic states using the smallest possible amount of physical qubits and operations stands as a very important challenge to achieve fault-tolerant quantum computation at scale. Besides emerging proposals for alternative methods s…"
-    },
-    {
-      "title": "Exact metastability in a class of driven-dissipative quantum many-body systems",
-      "link": "https://arxiv.org/abs/2606.07736",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07736v1 Announce Type: new  Abstract: Metastability in many-body quantum systems and its associated exponentially-long timescales have been the subject of considerable recent interest. Here, we focus on a class of driven-dissipative many-body open quantum systems described by a Lindbladia…"
-    },
-    {
-      "title": "$100\\pm\\Delta t$ Years of Quantum Uncertainty: From Origins to Modern Insights",
-      "link": "https://arxiv.org/abs/2606.07747",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07747v1 Announce Type: new  Abstract: Heisenberg's uncertainty principle is a cornerstone of quantum mechanics, marking a decisive departure from classical physics. Conceived almost a century ago through a thought experiment showing that measuring an electron's position inevitably disturb…"
-    },
-    {
-      "title": "Floquet Entanglement Generation in Parametrically Driven Coupled Superconducting Qubits",
-      "link": "https://arxiv.org/abs/2606.07797",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07797v1 Announce Type: new  Abstract: We investigate the dynamical generation of entanglement in a system of two superconducting qubits coupled through a parametrically driven longitudinal interaction. Using Floquet theory and exact numerical simulations, we analyze the time evolution of…"
-    },
-    {
-      "title": "Near-deterministic single-atom loading on a photonic integrated circuit",
-      "link": "https://arxiv.org/abs/2606.07800",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07800v1 Announce Type: new  Abstract: Coupling identical quantum emitters to a photonic integrated circuit (PIC) is a key step for scaling up emitter-photon interfaces for quantum science and information processing. Neutral atoms are attractive candidates due to their indistinguishability…"
-    },
-    {
-      "title": "Hamiltonian-Guided Leverage Embedding: Robust Subspace Compression for Efficient QAOA Parameter Estimation",
-      "link": "https://arxiv.org/abs/2606.07814",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07814v1 Announce Type: new  Abstract: The Quantum Approximate Optimization Algorithm (QAOA) is a hybrid quantum-classical framework for combinatorial optimization on near-term quantum devices. A central bottleneck is the classical estimation of its variational parameters {\\gamma} and {\\be…"
-    },
-    {
-      "title": "Projected Inverse Iteration: An Eigenvalue Approach to Ground-State Computation with Neural Quantum States",
-      "link": "https://arxiv.org/abs/2606.07825",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07825v1 Announce Type: new  Abstract: Deep learning offers a powerful approach to quantum many-body problems via neural network wavefunctions, but their optimization remains a severe bottleneck. Existing optimization methods, including natural gradient descent and stochastic reconfigurati…"
-    },
-    {
-      "title": "Affine Filtering Measurements and Their Applications to Quantum Decoding",
-      "link": "https://arxiv.org/abs/2606.07852",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07852v1 Announce Type: new  Abstract: Unambiguous state discrimination (USD) measurements are attractive because outcomes are either marked as conclusive (i.e., error free) or inconclusive (i.e., erased). We study affine filtering measurements, a structured variant of USD for decoding cla…"
-    },
-    {
-      "title": "Defining Unique, Redundant, and Synergistic Quantum Information",
-      "link": "https://arxiv.org/abs/2606.07880",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07880v1 Announce Type: new  Abstract: We extend the classical ideas of the Partial Information Decomposition (PID) to the quantum domain and quantify unique, redundant, and synergistic quantum information. We show that unique information plays the central role in quantum error correction…"
-    },
-    {
-      "title": "All-Optical Wide-Field Magnetometry with Van Der Waals Quantum Sensor",
-      "link": "https://arxiv.org/abs/2606.07899",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.07899v1 Announce Type: new  Abstract: Negatively charged boron vacancy ($V_B^-$) centers in hexagonal boron nitride ($h$-BN) have attracted wide-range interests owing to their van der Waals lattice and their potentials for $in$-$situ$ quantum sensing. Here we propose and experimentally de…"
-    },
-    {
-      "title": "Repair Before Veto, When Repair Is Hidden: Quantum-Accessible Features for Repair-Augmented Constraint Learning",
-      "link": "https://arxiv.org/abs/2606.08020",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.08020v1 Announce Type: new  Abstract: Hard-constraint decision systems usually veto infeasible candidates. This is too rigid when the system can act: if a known affordable repair would make an infeasible candidate feasible and valuable, rejection is a false veto rather than a ranking erro…"
-    },
-    {
-      "title": "Numerical solution of the nonlinear Dirac equation by a splitting variational quantum algorithm",
-      "link": "https://arxiv.org/abs/2606.08053",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 09 Jun 2026 00:00:00 -0400",
-      "published_ts": 1780977600,
-      "summary": "arXiv:2606.08053v1 Announce Type: new  Abstract: In this work, we propose an operator-splitting variational quantum algorithm, termed Dirac-sVQA, for simulating the nonlinear Dirac equation (NLDE). The main difficulty arises from the state-dependent nonlinear interaction, its time-discrete update de…"
     },
     {
       "title": "Cloud-tested quantum noise model predicts superconducting qubit errors with sevenfold better accuracy",
@@ -312,14 +320,6 @@
       "published": "Thu, 04 Jun 2026 07:00:04 EDT",
       "published_ts": 1780570804,
       "summary": "Quantum materials, materials with properties that are governed by the laws of quantum mechanics describing many-body interactions, have proved promising for the development of various advanced technologies. Many of these materials undergo so-called phase transitions, switching between different phys…"
-    },
-    {
-      "title": "Nanomagnets control diamond qubits, pointing to more scalable quantum hardware",
-      "link": "https://phys.org/news/2026-06-nanomagnets-diamond-qubits-scalable-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 03 Jun 2026 16:20:04 EDT",
-      "published_ts": 1780518004,
-      "summary": "Quantum computing, once only a theoretical possibility, promises to deliver faster, more energy-efficient computers—but only if scientists can build and scale the hardware needed to run the machines. New research from Virginia Commonwealth University brings scientists one small step closer to quantu…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
