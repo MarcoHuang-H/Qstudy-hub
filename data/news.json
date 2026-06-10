@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1781085076,
+  "generated_ts": 1781105024,
   "items": [
+    {
+      "title": "Guest Post — The Decade-Defining Race to Lock Down the World’s Data Before Quantum Breaks It",
+      "link": "https://thequantuminsider.com/2026/06/10/the-decade-defining-race-to-lock-down-the-worlds-data-before-quantum-breaks-it/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 10 Jun 2026 13:52:17 +0000",
+      "published_ts": 1781099537,
+      "summary": "Guest Post by American News Group. Every technological revolution arrives with a shadow. Electricity brought the electrocution hazard and, eventually, the entire safety industry built to contain it. The automobile brought the traffic fatality, and with it seatbelts, airbags, and a century of regulat…"
+    },
+    {
+      "title": "Quantropi and Nokia Launch Integrated Quantum-Safe Key Distribution Solution",
+      "link": "https://thequantuminsider.com/2026/06/10/quantropi-and-nokia-launch-integrated-quantum-safe-key-distribution-solution/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 10 Jun 2026 13:32:34 +0000",
+      "published_ts": 1781098354,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantropi, the leader in quantum-safe data and communications, today announced the availability of an integrated solution with Nokia that delivers quantum-safe key distribution at scale. The offering combines Quantropi&#8217;s&#160;Digital Quantum Key Distribution…"
+    },
+    {
+      "title": "Johns Hopkins Team Models Quantum Noise on Superconducting Processors",
+      "link": "https://thequantuminsider.com/2026/06/10/johns-hopkins-team-models-quantum-noise-on-superconducting-processors/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 10 Jun 2026 13:25:01 +0000",
+      "published_ts": 1781097901,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers from the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, and Johns Hopkins University in Baltimore have developed a practical, comprehensive noise-modeling framework for a popular class of superconducting quantum processors. Their w…"
+    },
+    {
+      "title": "UK Poised to Turn Scientific Excellence in Quantum Into Economic Growth, Minister Says",
+      "link": "https://thequantuminsider.com/2026/06/10/uk-poised-to-turn-scientific-excellence-in-quantum-into-economic-growth-minister-says/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 10 Jun 2026 13:10:28 +0000",
+      "published_ts": 1781097028,
+      "summary": "Insider Brief The U.K. government is shifting its quantum strategy from research leadership toward commercial adoption, with Science Minister Lord Vallance arguing that the country&#8217;s next challenge is scaling companies and creating demand for emerging technologies. Speaking at London Tech Week…"
+    },
+    {
+      "title": "Diamond Quanta Announces Peer-Reviewed Validation of Device-Relevant Diamond Processing Published in Carbon Trends",
+      "link": "https://thequantuminsider.com/2026/06/10/diamond-quanta-announces-peer-reviewed-validation-of-device-relevant-diamond-processing-published-in-carbon-trends/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 10 Jun 2026 11:25:36 +0000",
+      "published_ts": 1781090736,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Diamond Quanta Inc., a semiconductor materials platform company developing manufacturable engineered-diamond infrastructure for electronic, photonic, thermal, and quantum applications, today announced that its article, “Sub-melt nanosecond pulsed-laser induced den…"
+    },
+    {
+      "title": "Colt and Ciena Complete Quantum-Safe Transatlantic Network Trial",
+      "link": "https://thequantuminsider.com/2026/06/10/colt-and-ciena-complete-quantum-safe-transatlantic-network-trial/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 10 Jun 2026 11:16:41 +0000",
+      "published_ts": 1781090201,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Colt Technology Services&#160;(Colt), the global digital infrastructure company, and&#160;Ciena&#160;(NYSE: CIEN), the global leader in high-speed connectivity, have completed one of the fastest quantum-safe data transmissions ever demonstrated and the fastest acr…"
+    },
+    {
+      "title": "New Research Shows Distributed Quantum Computing Can Enable Resilient and Elastic Systems at Scale",
+      "link": "https://thequantuminsider.com/2026/06/10/new-research-shows-distributed-quantum-computing-can-enable-resilient-and-elastic-systems-at-scale/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 10 Jun 2026 11:05:09 +0000",
+      "published_ts": 1781089509,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Nu Quantum, the category leader in distributed quantum computing, today announces new research showing that multi-node quantum networks can be designed to tolerate the complete failure of individual QPUs. The simulations show that on a distributed system with quan…"
+    },
+    {
+      "title": "Majorana modes withstand disorder in atomic chains, boosting fault-tolerant quantum computing",
+      "link": "https://phys.org/news/2026-06-majorana-modes-disorder-atomic-chains.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 10 Jun 2026 07:00:03 EDT",
+      "published_ts": 1781089203,
+      "summary": "Quantum computers—systems that process information and perform computations by leveraging the principles of quantum mechanics—could solve some tasks faster and more effectively than classical computers. While some studies have demonstrated the advantages of these computers for specific tasks, ensuri…"
+    },
     {
       "title": "Quantum witness technique reveals spinons in quantum spin liquid candidate",
       "link": "https://phys.org/news/2026-06-quantum-witness-technique-reveals-spinons.html",
@@ -10,7 +74,7 @@
       "summary": "Physicists at University College Cork have developed a new approach in the search for a quantum spin liquid, a long-sought state of quantum matter resembling a magnetic liquid whose quantum properties mean it never freezes. The work is a key step in the search for quantum silicon, a mineral that cou…"
     },
     {
-      "title": "ICQIA Expands Global Reach With New Charter And Members",
+      "title": "ICQIA Expands Global Reach with New Charter and Members",
       "link": "https://thequantuminsider.com/2026/06/10/icqia-expands-global-reach-with-new-charter-and-members/",
       "source": "The Quantum Insider",
       "published": "Wed, 10 Jun 2026 07:46:53 +0000",
@@ -178,62 +242,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantum X Labs Inc.&#160;(Nasdaq: QXL)&#160;(“Quantum X&#160;Labs” or the “Company”), an advanced quantum technologies company, and&#160;IQCC,&#160;a&#160;Quantum Machines&#160;company, today announced the signing of a strategic cooperation agreement,&#160;under w…"
     },
     {
-      "title": "Quantum Sensor Advance Could Transform Army Battlefield Signal Detection",
-      "link": "https://thequantuminsider.com/2026/06/09/quantum-sensor-advance-could-transform-army-battlefield-signal-detection/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 09 Jun 2026 15:38:44 +0000",
-      "published_ts": 1781019524,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Army&#160;scientists&#160;achieved a major milestone in quantum sensing technology&#160;that could&#160;transform how&#160;electromagnetic&#160;signals&#160;are detected&#160;on the battlefield. For the first time,&#160;scientists at&#160;the&#160;U.S. Army Combat…"
-    },
-    {
-      "title": "Keyfactor Launches Trust Control Plane to Unify Digital Trust Across the Enterprise",
-      "link": "https://thequantuminsider.com/2026/06/09/keyfactor-launches-trust-control-plane-to-unify-digital-trust-across-the-enterprise/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 09 Jun 2026 14:18:13 +0000",
-      "published_ts": 1781014693,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Keyfactor, the leader in trust infrastructure for AI and machines, today announced the&#160;Trust Control Plane, a unified operating model for the machine identities and cryptography that secure every digital interaction. It brings together the tools enterprises u…"
-    },
-    {
-      "title": "ZenaTech Included in Russell 3000 Benchmark Index",
-      "link": "https://thequantuminsider.com/2026/06/09/zenatech-included-in-russell-3000-benchmark-index/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 09 Jun 2026 14:09:14 +0000",
-      "published_ts": 1781014154,
-      "summary": "Insider Brief PRESS RELEASE &#8212; ZenaTech, Inc. (Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (&#8220;ZenaTech&#8221;), a technology solution provider specializing in AI (Artificial Intelligence) drone, Drone as a Service (DaaS), enterprise SaaS, and Quantum Computing solutions, today announces the compa…"
-    },
-    {
-      "title": "IQM Announces Novel Quantum Error Correction Approach Toward Fault-Tolerant Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/06/09/iqm-announces-novel-quantum-error-correction-approach-toward-fault-tolerant-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 09 Jun 2026 13:59:29 +0000",
-      "published_ts": 1781013569,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers, the global leader in superconducting quantum computers, has developed a novel quantum error-correcting code that achieves up to three orders of magnitude lower logical error rates than the surface code, also requiring up to eight times fewer…"
-    },
-    {
-      "title": "Estonia Upgrades National Digital Identity Cards with Thales",
-      "link": "https://thequantuminsider.com/2026/06/09/estonia-upgrades-national-digital-identity-cards-with-thales/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 09 Jun 2026 13:53:48 +0000",
-      "published_ts": 1781013228,
-      "summary": "Insider Brief PRESS RELEASE &#8212; With increasing cyber risks and the rapid evolution of digital public services, Estonia is reinforcing the security, durability and adaptability of the documents that underpin its digital society: identity cards, residence permit cards, e-resident digital identity…"
-    },
-    {
-      "title": "QTREX Awarded Government Grant to Advance Native RF Dielectric Material for Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/06/09/qtrex-awarded-government-grant-to-advance-rf-dielectric-material-for-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 09 Jun 2026 13:45:44 +0000",
-      "published_ts": 1781012744,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QTREX Quantum Ltd. (Nasdaq: QTEX) (&#8220;QTREX&#8221; or the &#8220;Company&#8221;), a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure, today announced that the Israel Innovation Authority (“IIA”) has…"
-    },
-    {
-      "title": "ELECTRA AI and Naoris Quantum Protocol Partner on Quantum-Safe Battery Intelligence",
-      "link": "https://thequantuminsider.com/2026/06/09/electra-ai-and-naoris-quantum-protocol-partner-on-quantum-safe-battery-intelligence/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 09 Jun 2026 12:19:45 +0000",
-      "published_ts": 1781007585,
-      "summary": "Insider Brief PRESS RELEASE &#8212; ELECTRA AI (“Electra”) and Naoris Quantum Protocol Inc (“Naoris Quantum Protocol”) today announced a partnership to bring post-quantum cybersecurity to AI battery intelligence, the fast-growing layer where always-connected battery systems meet the AI models that m…"
-    },
-    {
       "title": "Quantum memory surpasses classical limits for storing unknown quantum operations",
       "link": "https://phys.org/news/2026-06-quantum-memory-surpasses-classical-limits.html",
       "source": "Phys.org — Quantum Physics",
@@ -312,14 +320,6 @@
       "published": "Thu, 04 Jun 2026 10:20:09 EDT",
       "published_ts": 1780582809,
       "summary": "Nuclear physicists used a little magic in their latest experiment conducted at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility, and the result has revealed surprising new information about the behavior of protons and neutrons inside the atom's nucleus. Specifically, th…"
-    },
-    {
-      "title": "Photoexcitation flips 2D moiré devices from metals to insulators in ultrafast test",
-      "link": "https://phys.org/news/2026-06-photoexcitation-flips-2d-moir-devices.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 04 Jun 2026 07:00:04 EDT",
-      "published_ts": 1780570804,
-      "summary": "Quantum materials, materials with properties that are governed by the laws of quantum mechanics describing many-body interactions, have proved promising for the development of various advanced technologies. Many of these materials undergo so-called phase transitions, switching between different phys…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
