@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1781105024,
+  "generated_ts": 1781123067,
   "items": [
+    {
+      "title": "enQase to Showcase Quantum Security Leadership at Quantum.Tech World 2026",
+      "link": "https://thequantuminsider.com/2026/06/10/enqase-to-showcase-quantum-security-leadership-at-quantum-tech-world-2026/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 10 Jun 2026 17:28:56 +0000",
+      "published_ts": 1781112536,
+      "summary": "Insider Brief PRESS RELEASE &#8212; enQase, a pioneer in quantum security and crypto-agility solutions, today announced its participation in Quantum.Tech World 2026, taking place June 25-26 at Encore Boston Harbor in Boston, Massachusetts. The event brings together more than 1,000 quantum, AI, cyber…"
+    },
     {
       "title": "Guest Post — The Decade-Defining Race to Lock Down the World’s Data Before Quantum Breaks It",
       "link": "https://thequantuminsider.com/2026/06/10/the-decade-defining-race-to-lock-down-the-worlds-data-before-quantum-breaks-it/",
@@ -232,14 +240,6 @@
       "published": "Tue, 09 Jun 2026 14:40:09 EDT",
       "published_ts": 1781030409,
       "summary": "Researchers at Kanazawa University, in collaboration with Diamond and Carbon Applications (Germany), have developed a buried-growth process for nitrogen–vacancy (NV) centers in diamond using microwave plasma chemical vapor deposition (MPCVD). By employing nitrogen-radical selective etching, which si…"
-    },
-    {
-      "title": "Quantum X Labs and IQCC Partner to Evaluate AI-Based Quantum Error Correction",
-      "link": "https://thequantuminsider.com/2026/06/09/quantum-x-labs-and-iqcc-partner-to-evaluate-ai-based-quantum-error-correction/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 09 Jun 2026 16:23:08 +0000",
-      "published_ts": 1781022188,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum X Labs Inc.&#160;(Nasdaq: QXL)&#160;(“Quantum X&#160;Labs” or the “Company”), an advanced quantum technologies company, and&#160;IQCC,&#160;a&#160;Quantum Machines&#160;company, today announced the signing of a strategic cooperation agreement,&#160;under w…"
     },
     {
       "title": "Quantum memory surpasses classical limits for storing unknown quantum operations",
