@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1781035394,
+  "generated_ts": 1781060207,
   "items": [
+    {
+      "title": "Physicists harness potential of quantum phase transitions",
+      "link": "https://phys.org/news/2026-06-physicists-harness-potential-quantum-phase.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 09 Jun 2026 21:20:03 EDT",
+      "published_ts": 1781054403,
+      "summary": "Researchers at University College Dublin and international collaborators have just published a detailed and accessible guide that aims to translate theoretical ideas into practical devices for quantum enhanced sensing technologies."
+    },
+    {
+      "title": "Physicists observe synchronized quantum dance of excitons and phonons",
+      "link": "https://phys.org/news/2026-06-physicists-synchronized-quantum-excitons-phonons.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 09 Jun 2026 19:40:01 EDT",
+      "published_ts": 1781048401,
+      "summary": "An international team of researchers has reported a major advance in understanding quantum dynamics in semiconductor materials. They directly observed how excitons and phonons evolve together in perovskite nanocrystals, revealing a fully coherent quantum dance between light-induced electronic excita…"
+    },
     {
       "title": "New buried-growth process enables 2D arrays of position- and orientation-controlled diamond qubits",
       "link": "https://phys.org/news/2026-06-growth-enables-2d-arrays-position.html",
@@ -304,22 +320,6 @@
       "published": "Wed, 03 Jun 2026 16:20:04 EDT",
       "published_ts": 1780518004,
       "summary": "Quantum computing, once only a theoretical possibility, promises to deliver faster, more energy-efficient computers—but only if scientists can build and scale the hardware needed to run the machines. New research from Virginia Commonwealth University brings scientists one small step closer to quantu…"
-    },
-    {
-      "title": "'Don't scare the cat!' Engineers find smarter way to measure quantum systems",
-      "link": "https://phys.org/news/2026-06-dont-cat-smarter-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 03 Jun 2026 14:40:07 EDT",
-      "published_ts": 1780512007,
-      "summary": "UNSW Sydney engineers have riffed on the famous Schrödinger's cat analogy to demonstrate a more efficient way to eliminate errors in quantum computing."
-    },
-    {
-      "title": "Chip-scale 'acoustic atom' controls sound waves to imitate atomic energy levels and advance computing",
-      "link": "https://phys.org/news/2026-06-chip-scale-acoustic-atom-imitate.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 03 Jun 2026 13:00:04 EDT",
-      "published_ts": 1780506004,
-      "summary": "For every action, there is an equal and opposite reaction. What goes up must come down. Physical laws like these govern all of the natural world—except for the tiny internal components of today's microprocessors, which operate according to the unique and complicated rules of quantum physics."
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
