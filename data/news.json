@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1781123067,
+  "generated_ts": 1781148715,
   "items": [
+    {
+      "title": "AI helps reveal large-scale quantum effects hidden in stacked atomic sheets",
+      "link": "https://phys.org/news/2026-06-ai-reveal-large-scale-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 10 Jun 2026 17:00:06 EDT",
+      "published_ts": 1781125206,
+      "summary": "Quantum materials are a class of exotic materials with special properties that are governed by quantum mechanics rather than classical physics. Those properties—like superconductivity, entanglement and unusual forms of magnetism—often originate in the tiny repeating patterns of atoms inside crystals…"
+    },
     {
       "title": "enQase to Showcase Quantum Security Leadership at Quantum.Tech World 2026",
       "link": "https://thequantuminsider.com/2026/06/10/enqase-to-showcase-quantum-security-leadership-at-quantum-tech-world-2026/",
@@ -312,14 +320,6 @@
       "published": "Sat, 06 Jun 2026 09:00:03 EDT",
       "published_ts": 1780750803,
       "summary": "A spin qubit, in which quantum information is encoded in the spin state of an electron, is one of the most promising platforms for quantum computing. Spin qubits exhibit long coherence times and are compatible with advanced semiconductor manufacturing technologies. The leading implementation of spin…"
-    },
-    {
-      "title": "Quantum shell structure reveals new rule for proton-neutron pairing inside nuclei",
-      "link": "https://phys.org/news/2026-06-quantum-shell-reveals-proton-neutron.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 04 Jun 2026 10:20:09 EDT",
-      "published_ts": 1780582809,
-      "summary": "Nuclear physicists used a little magic in their latest experiment conducted at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility, and the result has revealed surprising new information about the behavior of protons and neutrons inside the atom's nucleus. Specifically, th…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
