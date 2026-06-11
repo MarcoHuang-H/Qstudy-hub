@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1781173010,
+  "generated_ts": 1781193120,
   "items": [
+    {
+      "title": "Pasqal Launches Italy’s First Neutral-Atom Quantum Computer at CINECA",
+      "link": "https://thequantuminsider.com/2026/06/11/pasqal-inaugurates-italys-first-neutral-atom-quantum-computer-third-system-europe/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 11 Jun 2026 14:53:49 +0000",
+      "published_ts": 1781189629,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal, one of the global leaders in neutral-atom quantum computing, today announced the inauguration of Europe’s third Pasqal quantum computer hosted at CINECA, Italy’s largest public supercomputing operator and a member of the Italian Research Center on High Per…"
+    },
+    {
+      "title": "Horizon Quantum Selects Dublin for Second Quantum Computer Testbed",
+      "link": "https://thequantuminsider.com/2026/06/11/horizon-quantum-dublin-second-quantum-computer-testbed-ireland/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 11 Jun 2026 14:44:49 +0000",
+      "published_ts": 1781189089,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Horizon Quantum Holdings Ltd. (“Horizon Quantum”), a pioneer of software infrastructure for quantum applications, today announced that it expects to locate its second quantum computer—anticipated to be one of the most advanced commercial quantum systems in the wor…"
+    },
+    {
+      "title": "IQM Quantum Computer Installed at CINECA Supercomputing Center in Italy",
+      "link": "https://thequantuminsider.com/2026/06/11/iqm-quantum-computer-installed-cineca-italy/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 11 Jun 2026 14:37:35 +0000",
+      "published_ts": 1781188655,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Italian Research Centre on&#160;High Performance&#160;Computing, Big Data, and Quantum Computing (ICSC) today inaugurated the IQM Radiance 54 quantum computer at CINECA, one of Europe&#8217;s leading supercomputing&#160;centers, enabling advanced applications…"
+    },
+    {
+      "title": "SETU Researchers to Play Key Role in New €460 Million National Research Investment",
+      "link": "https://thequantuminsider.com/2026/06/11/setu-researchers-to-play-key-role-in-new-e460-million-national-research-investment/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 11 Jun 2026 14:37:31 +0000",
+      "published_ts": 1781188651,
+      "summary": "Insider Brief PRESS RELEASE &#8212; South East Technological University (SETU) has welcomed the announcement of a major new national investment in research and innovation, which will see the University contribute to three of Ireland’s newly established Rinn research centres. Announced on Wednesday,…"
+    },
+    {
+      "title": "Alice & Bob Unveils First Quantum System Available For Research Partners",
+      "link": "https://thequantuminsider.com/2026/06/11/alice-bob-unveils-first-quantum-system-available-for-research-partners/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 11 Jun 2026 14:27:32 +0000",
+      "published_ts": 1781188052,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Alice &#38; Bob, a leader in fault-tolerant quantum computing, today unveiled the Helium Quantum System, marking the company’s expansion from developing cat-qubit chips to delivering a complete quantum computing system for&#160;on-premise deployment. The Helium Qu…"
+    },
+    {
+      "title": "Electron matter waves gain ultrafast torque that flips handedness in femtoseconds",
+      "link": "https://phys.org/news/2026-06-electron-gain-ultrafast-torque-flips.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 11 Jun 2026 07:00:01 EDT",
+      "published_ts": 1781175601,
+      "summary": "Many natural processes, ranging from magnetism to chemical reactions, entail the movement and rotation of particles at very small scales. In quantum mechanics, particles exhibit both particle-like and wave-like behaviors, and their states can be described mathematically using representations known a…"
+    },
+    {
+      "title": "Firgun Ventures Announces First Australian Investment in Silicon Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/06/11/firgun-ventures-announces-first-australian-investment-in-silicon-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 11 Jun 2026 10:53:53 +0000",
+      "published_ts": 1781175233,
+      "summary": "Insider Brief PRESS RELEASE &#8212;  Firgun Ventures, a London-based, global quantum-focused venture capital firm specializing in early growth-stage quantum technology, today announced its first Australian investment. Silicon Quantum Computing (SQC), a global silicon modality leader, widely viewed a…"
+    },
+    {
+      "title": "EigenQ Appoints Rika Nakazawa as Chief Growth Officer",
+      "link": "https://thequantuminsider.com/2026/06/11/eigenq-names-rika-nakazawa-chief-growth-officer-global-expansion/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 11 Jun 2026 10:33:13 +0000",
+      "published_ts": 1781173993,
+      "summary": "Insider Brief PRESS RELEASE &#8212; EigenQ today announced the appointment of global technology executive Rika Nakazawa as Chief Growth Officer, strengthening the company&#8217;s leadership team as it expands its AI, cybersecurity, and quantum infrastructure business. Nakazawa joins EigenQ at a defi…"
+    },
     {
       "title": "JIJ And ORCA Computing Report on Path to Commercial Quantum Advantage in Energy Optimization",
       "link": "https://thequantuminsider.com/2026/06/11/jij-and-orca-computing-report-on-path-to-commercial-quantum-advantage-in-energy-optimization/",
@@ -154,62 +218,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; enQase, a pioneer in quantum security and crypto-agility solutions, today announced its participation in Quantum.Tech World 2026, taking place June 25-26 at Encore Boston Harbor in Boston, Massachusetts. The event brings together more than 1,000 quantum, AI, cyber…"
     },
     {
-      "title": "Guest Post — The Decade-Defining Race to Lock Down the World’s Data Before Quantum Breaks It",
-      "link": "https://thequantuminsider.com/2026/06/10/the-decade-defining-race-to-lock-down-the-worlds-data-before-quantum-breaks-it/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 10 Jun 2026 13:52:17 +0000",
-      "published_ts": 1781099537,
-      "summary": "Guest Post by American News Group. Every technological revolution arrives with a shadow. Electricity brought the electrocution hazard and, eventually, the entire safety industry built to contain it. The automobile brought the traffic fatality, and with it seatbelts, airbags, and a century of regulat…"
-    },
-    {
-      "title": "Quantropi and Nokia Launch Integrated Quantum-Safe Key Distribution Solution",
-      "link": "https://thequantuminsider.com/2026/06/10/quantropi-and-nokia-launch-integrated-quantum-safe-key-distribution-solution/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 10 Jun 2026 13:32:34 +0000",
-      "published_ts": 1781098354,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantropi, the leader in quantum-safe data and communications, today announced the availability of an integrated solution with Nokia that delivers quantum-safe key distribution at scale. The offering combines Quantropi&#8217;s&#160;Digital Quantum Key Distribution…"
-    },
-    {
-      "title": "Johns Hopkins Team Models Quantum Noise on Superconducting Processors",
-      "link": "https://thequantuminsider.com/2026/06/10/johns-hopkins-team-models-quantum-noise-on-superconducting-processors/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 10 Jun 2026 13:25:01 +0000",
-      "published_ts": 1781097901,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers from the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, and Johns Hopkins University in Baltimore have developed a practical, comprehensive noise-modeling framework for a popular class of superconducting quantum processors. Their w…"
-    },
-    {
-      "title": "UK Poised to Turn Scientific Excellence in Quantum Into Economic Growth, Minister Says",
-      "link": "https://thequantuminsider.com/2026/06/10/uk-poised-to-turn-scientific-excellence-in-quantum-into-economic-growth-minister-says/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 10 Jun 2026 13:10:28 +0000",
-      "published_ts": 1781097028,
-      "summary": "Insider Brief The U.K. government is shifting its quantum strategy from research leadership toward commercial adoption, with Science Minister Lord Vallance arguing that the country&#8217;s next challenge is scaling companies and creating demand for emerging technologies. Speaking at London Tech Week…"
-    },
-    {
-      "title": "Diamond Quanta Announces Peer-Reviewed Validation of Device-Relevant Diamond Processing Published in Carbon Trends",
-      "link": "https://thequantuminsider.com/2026/06/10/diamond-quanta-announces-peer-reviewed-validation-of-device-relevant-diamond-processing-published-in-carbon-trends/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 10 Jun 2026 11:25:36 +0000",
-      "published_ts": 1781090736,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Diamond Quanta Inc., a semiconductor materials platform company developing manufacturable engineered-diamond infrastructure for electronic, photonic, thermal, and quantum applications, today announced that its article, “Sub-melt nanosecond pulsed-laser induced den…"
-    },
-    {
-      "title": "Colt and Ciena Complete Quantum-Safe Transatlantic Network Trial",
-      "link": "https://thequantuminsider.com/2026/06/10/colt-and-ciena-complete-quantum-safe-transatlantic-network-trial/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 10 Jun 2026 11:16:41 +0000",
-      "published_ts": 1781090201,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Colt Technology Services&#160;(Colt), the global digital infrastructure company, and&#160;Ciena&#160;(NYSE: CIEN), the global leader in high-speed connectivity, have completed one of the fastest quantum-safe data transmissions ever demonstrated and the fastest acr…"
-    },
-    {
-      "title": "New Research Shows Distributed Quantum Computing Can Enable Resilient and Elastic Systems at Scale",
-      "link": "https://thequantuminsider.com/2026/06/10/new-research-shows-distributed-quantum-computing-can-enable-resilient-and-elastic-systems-at-scale/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 10 Jun 2026 11:05:09 +0000",
-      "published_ts": 1781089509,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Nu Quantum, the category leader in distributed quantum computing, today announces new research showing that multi-node quantum networks can be designed to tolerate the complete failure of individual QPUs. The simulations show that on a distributed system with quan…"
-    },
-    {
       "title": "Majorana modes withstand disorder in atomic chains, boosting fault-tolerant quantum computing",
       "link": "https://phys.org/news/2026-06-majorana-modes-disorder-atomic-chains.html",
       "source": "Phys.org — Quantum Physics",
@@ -312,14 +320,6 @@
       "published": "Sat, 06 Jun 2026 13:20:01 EDT",
       "published_ts": 1780766401,
       "summary": "Quantum computers, systems that process information leveraging quantum mechanical effects, have the potential of outperforming classical computers on some tasks. Despite their potential, the use of these systems remains very limited, due to their high cost and other challenges that have so far preve…"
-    },
-    {
-      "title": "Scientists identify the origin of noise in spin qubit quantum processors",
-      "link": "https://phys.org/news/2026-06-scientists-noise-qubit-quantum-processors.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 06 Jun 2026 09:00:03 EDT",
-      "published_ts": 1780750803,
-      "summary": "A spin qubit, in which quantum information is encoded in the spin state of an electron, is one of the most promising platforms for quantum computing. Spin qubits exhibit long coherence times and are compatible with advanced semiconductor manufacturing technologies. The leading implementation of spin…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
