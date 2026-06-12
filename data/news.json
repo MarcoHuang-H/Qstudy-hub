@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1781275772,
+  "generated_ts": 1781294664,
   "items": [
+    {
+      "title": "Scientist creates 'mini‑universe' to measure time without a clock",
+      "link": "https://phys.org/news/2026-06-scientist-miniuniverse-clock.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 12 Jun 2026 14:20:01 EDT",
+      "published_ts": 1781288401,
+      "summary": "A University of Birmingham scientist has built a \"mini-universe\" that takes a step toward answering one of science's biggest questions: \"What is time?\" Publishing his findings in Physical Review Research, Professor Giovanni Barontini shows how it is possible to measure the flow of time without using…"
+    },
+    {
+      "title": "BQP Appoints Craig Marcinkowski to Board of Directors",
+      "link": "https://thequantuminsider.com/2026/06/12/bqp-appoints-craig-marcinkowski-to-board/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 12 Jun 2026 17:31:08 +0000",
+      "published_ts": 1781285468,
+      "summary": "Insider Brief PRESS RELEASE &#8212; BQP, a quantum simulation company building digital twin platforms for mission-critical applications, today announces the appointment of Craig Marcinkowski, defense technology industry veteran and&#160;President and CEO of NUAIR, to its Board of Directors, as the c…"
+    },
+    {
+      "title": "SEALSQ Advances Satellite-Based Post-Quantum Security Platform",
+      "link": "https://thequantuminsider.com/2026/06/12/sealsq-advances-satellite-based-post-quantum-security/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 12 Jun 2026 15:27:37 +0000",
+      "published_ts": 1781278057,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES), a leader in post-quantum semiconductors, cybersecurity and digital identity technologies, today announced significant progress in the development of the Quantum Spatial Orbital Cloud (QSOC), a next-generation orbital platform designed t…"
+    },
+    {
+      "title": "IQM Appoints Barbara Venneman to Board of Directors",
+      "link": "https://thequantuminsider.com/2026/06/12/iqm-appoints-barbara-venneman-to-board-of-directors/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 12 Jun 2026 15:18:25 +0000",
+      "published_ts": 1781277505,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers, the global leader in superconducting quantum computers, today announced the appointment of Barbara Venneman to its Board of Directors. Venneman deepens the Board&#8217;s expertise in digital transformation, enterprise technology commercializ…"
+    },
     {
       "title": "HKU Engineering Develops ‘Brain-Like’ Chip to Advance Quantum Computing And Deep-Space Exploration",
       "link": "https://thequantuminsider.com/2026/06/12/hku-engineering-develops-brain-like-chip-to-advance-quantum-computing-and-deep-space-exploration/",
@@ -210,30 +242,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; BW Digital and the National University of Singapore’s College of Design and Engineering (NUS CDE) today announced a strategic research collaboration to develop the foundational engineering frameworks required for next-generation quantum-ready digital infrastructur…"
     },
     {
-      "title": "Pasqal Launches Italy’s First Neutral-Atom Quantum Computer at CINECA",
-      "link": "https://thequantuminsider.com/2026/06/11/pasqal-inaugurates-italys-first-neutral-atom-quantum-computer-third-system-europe/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 11 Jun 2026 14:53:49 +0000",
-      "published_ts": 1781189629,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal, one of the global leaders in neutral-atom quantum computing, today announced the inauguration of Europe’s third Pasqal quantum computer hosted at CINECA, Italy’s largest public supercomputing operator and a member of the Italian Research Center on High Per…"
-    },
-    {
-      "title": "Horizon Quantum Selects Dublin for Second Quantum Computer Testbed",
-      "link": "https://thequantuminsider.com/2026/06/11/horizon-quantum-dublin-second-quantum-computer-testbed-ireland/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 11 Jun 2026 14:44:49 +0000",
-      "published_ts": 1781189089,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Horizon Quantum Holdings Ltd. (“Horizon Quantum”), a pioneer of software infrastructure for quantum applications, today announced that it expects to locate its second quantum computer—anticipated to be one of the most advanced commercial quantum systems in the wor…"
-    },
-    {
-      "title": "IQM Quantum Computer Installed at CINECA Supercomputing Center in Italy",
-      "link": "https://thequantuminsider.com/2026/06/11/iqm-quantum-computer-installed-cineca-italy/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 11 Jun 2026 14:37:35 +0000",
-      "published_ts": 1781188655,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Italian Research Centre on&#160;High Performance&#160;Computing, Big Data, and Quantum Computing (ICSC) today inaugurated the IQM Radiance 54 quantum computer at CINECA, one of Europe&#8217;s leading supercomputing&#160;centers, enabling advanced applications…"
-    },
-    {
       "title": "Electron matter waves gain ultrafast torque that flips handedness in femtoseconds",
       "link": "https://phys.org/news/2026-06-electron-gain-ultrafast-torque-flips.html",
       "source": "Phys.org — Quantum Physics",
@@ -320,14 +328,6 @@
       "published": "Mon, 08 Jun 2026 15:00:02 EDT",
       "published_ts": 1780945202,
       "summary": "Florida State University physicists are part of a team that has discovered unusual superconducting states in parts of graphene, with the potential to drive unexpected quantum technologies."
-    },
-    {
-      "title": "Physicists create new family of Schrödinger-cat states",
-      "link": "https://phys.org/news/2026-06-physicists-family-schrdinger-cat-states.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 08 Jun 2026 14:40:06 EDT",
-      "published_ts": 1780944006,
-      "summary": "Quantum mechanics, unlike classical physics, allows objects to exist in more than one state at the same time. This idea is often illustrated by Schrödinger's cat, imagined as being both alive and dead until it is observed. In the laboratory, physicists can create less dramatic but very real versions…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
