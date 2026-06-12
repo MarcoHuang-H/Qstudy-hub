@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1781208921,
+  "generated_ts": 1781235353,
   "items": [
+    {
+      "title": "BW Digital and NUS to Advance Quantum-Ready Data Centres for Southeast Asia",
+      "link": "https://thequantuminsider.com/2026/06/11/bw-digital-and-nus-to-advance-quantum-ready-data-centres-for-southeast-asia/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 11 Jun 2026 19:38:39 +0000",
+      "published_ts": 1781206719,
+      "summary": "Insider Brief PRESS RELEASE &#8212; BW Digital and the National University of Singapore’s College of Design and Engineering (NUS CDE) today announced a strategic research collaboration to develop the foundational engineering frameworks required for next-generation quantum-ready digital infrastructur…"
+    },
     {
       "title": "Pasqal Launches Italy’s First Neutral-Atom Quantum Computer at CINECA",
       "link": "https://thequantuminsider.com/2026/06/11/pasqal-inaugurates-italys-first-neutral-atom-quantum-computer-third-system-europe/",
@@ -40,14 +48,6 @@
       "published": "Thu, 11 Jun 2026 14:27:32 +0000",
       "published_ts": 1781188052,
       "summary": "Insider Brief PRESS RELEASE &#8212; Alice &#38; Bob, a leader in fault-tolerant quantum computing, today unveiled the Helium Quantum System, marking the company’s expansion from developing cat-qubit chips to delivering a complete quantum computing system for&#160;on-premise deployment. The Helium Qu…"
-    },
-    {
-      "title": "Electron matter waves gain ultrafast torque that flips handedness in femtoseconds",
-      "link": "https://phys.org/news/2026-06-electron-gain-ultrafast-torque-flips.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 11 Jun 2026 07:00:01 EDT",
-      "published_ts": 1781175601,
-      "summary": "Many natural processes, ranging from magnetism to chemical reactions, entail the movement and rotation of particles at very small scales. In quantum mechanics, particles exhibit both particle-like and wave-like behaviors, and their states can be described mathematically using representations known a…"
     },
     {
       "title": "Firgun Ventures Announces First Australian Investment in Silicon Quantum Computing",
@@ -200,126 +200,6 @@
       "published": "Thu, 11 Jun 2026 00:00:00 -0400",
       "published_ts": 1781150400,
       "summary": "arXiv:2606.11530v1 Announce Type: new  Abstract: The Grover mixer quantum alternating operator ansatz (GM-QAOA) employs the Grover mixer to confine the quantum evolution to the feasible subspace defined by the problem. Its mixing unitary, however, requires a global multi-controlled phase-shift gate…"
-    },
-    {
-      "title": "AI helps reveal large-scale quantum effects hidden in stacked atomic sheets",
-      "link": "https://phys.org/news/2026-06-ai-reveal-large-scale-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 10 Jun 2026 17:00:06 EDT",
-      "published_ts": 1781125206,
-      "summary": "Quantum materials are a class of exotic materials with special properties that are governed by quantum mechanics rather than classical physics. Those properties—like superconductivity, entanglement and unusual forms of magnetism—often originate in the tiny repeating patterns of atoms inside crystals…"
-    },
-    {
-      "title": "enQase to Showcase Quantum Security Leadership at Quantum.Tech World 2026",
-      "link": "https://thequantuminsider.com/2026/06/10/enqase-to-showcase-quantum-security-leadership-at-quantum-tech-world-2026/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 10 Jun 2026 17:28:56 +0000",
-      "published_ts": 1781112536,
-      "summary": "Insider Brief PRESS RELEASE &#8212; enQase, a pioneer in quantum security and crypto-agility solutions, today announced its participation in Quantum.Tech World 2026, taking place June 25-26 at Encore Boston Harbor in Boston, Massachusetts. The event brings together more than 1,000 quantum, AI, cyber…"
-    },
-    {
-      "title": "Majorana modes withstand disorder in atomic chains, boosting fault-tolerant quantum computing",
-      "link": "https://phys.org/news/2026-06-majorana-modes-disorder-atomic-chains.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 10 Jun 2026 07:00:03 EDT",
-      "published_ts": 1781089203,
-      "summary": "Quantum computers—systems that process information and perform computations by leveraging the principles of quantum mechanics—could solve some tasks faster and more effectively than classical computers. While some studies have demonstrated the advantages of these computers for specific tasks, ensuri…"
-    },
-    {
-      "title": "Quantum witness technique reveals spinons in quantum spin liquid candidate",
-      "link": "https://phys.org/news/2026-06-quantum-witness-technique-reveals-spinons.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 10 Jun 2026 05:00:11 EDT",
-      "published_ts": 1781082011,
-      "summary": "Physicists at University College Cork have developed a new approach in the search for a quantum spin liquid, a long-sought state of quantum matter resembling a magnetic liquid whose quantum properties mean it never freezes. The work is a key step in the search for quantum silicon, a mineral that cou…"
-    },
-    {
-      "title": "Physicists harness potential of quantum phase transitions",
-      "link": "https://phys.org/news/2026-06-physicists-harness-potential-quantum-phase.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 09 Jun 2026 21:20:03 EDT",
-      "published_ts": 1781054403,
-      "summary": "Researchers at University College Dublin and international collaborators have just published a detailed and accessible guide that aims to translate theoretical ideas into practical devices for quantum enhanced sensing technologies."
-    },
-    {
-      "title": "Physicists observe synchronized quantum dance of excitons and phonons",
-      "link": "https://phys.org/news/2026-06-physicists-synchronized-quantum-excitons-phonons.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 09 Jun 2026 19:40:01 EDT",
-      "published_ts": 1781048401,
-      "summary": "An international team of researchers has reported a major advance in understanding quantum dynamics in semiconductor materials. They directly observed how excitons and phonons evolve together in perovskite nanocrystals, revealing a fully coherent quantum dance between light-induced electronic excita…"
-    },
-    {
-      "title": "New buried-growth process enables 2D arrays of position- and orientation-controlled diamond qubits",
-      "link": "https://phys.org/news/2026-06-growth-enables-2d-arrays-position.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 09 Jun 2026 14:40:09 EDT",
-      "published_ts": 1781030409,
-      "summary": "Researchers at Kanazawa University, in collaboration with Diamond and Carbon Applications (Germany), have developed a buried-growth process for nitrogen–vacancy (NV) centers in diamond using microwave plasma chemical vapor deposition (MPCVD). By employing nitrogen-radical selective etching, which si…"
-    },
-    {
-      "title": "Quantum memory surpasses classical limits for storing unknown quantum operations",
-      "link": "https://phys.org/news/2026-06-quantum-memory-surpasses-classical-limits.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 09 Jun 2026 07:40:02 EDT",
-      "published_ts": 1781005202,
-      "summary": "Quantum memories, systems that store and retrieve information leveraging quantum mechanical effects, can outperform classical storage systems on some existing tasks. Yet these promising memories could also complete operations that are very difficult or impossible for classical systems, including the…"
-    },
-    {
-      "title": "Cloud-tested quantum noise model predicts superconducting qubit errors with sevenfold better accuracy",
-      "link": "https://phys.org/news/2026-06-cloud-quantum-noise-superconducting-qubit.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 08 Jun 2026 19:00:02 EDT",
-      "published_ts": 1780959602,
-      "summary": "Researchers from the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, and Johns Hopkins University in Baltimore have developed a practical, comprehensive noise-modeling framework for a popular class of superconducting quantum processors. Their work, published in the journal PRX Qu…"
-    },
-    {
-      "title": "New cryogenic silicon carbide hardware addresses quantum computing bottleneck",
-      "link": "https://phys.org/news/2026-06-cryogenic-silicon-carbide-hardware-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 08 Jun 2026 17:10:06 EDT",
-      "published_ts": 1780953006,
-      "summary": "Researchers from the Department of Electrical and Computer Engineering in the Faculty of Engineering at the University of Hong Kong (HKU) and the Centre for Advanced Semiconductors and Integrated Circuits (CASIC) have achieved a major breakthrough in cryogenic electronics. The team has developed a p…"
-    },
-    {
-      "title": "Research uncovers novel electronic properties in quantum material",
-      "link": "https://phys.org/news/2026-06-uncovers-electronic-properties-quantum-material.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 08 Jun 2026 15:00:02 EDT",
-      "published_ts": 1780945202,
-      "summary": "Florida State University physicists are part of a team that has discovered unusual superconducting states in parts of graphene, with the potential to drive unexpected quantum technologies."
-    },
-    {
-      "title": "Physicists create new family of Schrödinger-cat states",
-      "link": "https://phys.org/news/2026-06-physicists-family-schrdinger-cat-states.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 08 Jun 2026 14:40:06 EDT",
-      "published_ts": 1780944006,
-      "summary": "Quantum mechanics, unlike classical physics, allows objects to exist in more than one state at the same time. This idea is often illustrated by Schrödinger's cat, imagined as being both alive and dead until it is observed. In the laboratory, physicists can create less dramatic but very real versions…"
-    },
-    {
-      "title": "Tabletop experiment helps reconcile fundamental physics",
-      "link": "https://phys.org/news/2026-06-tabletop-fundamental-physics.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 08 Jun 2026 14:20:01 EDT",
-      "published_ts": 1780942801,
-      "summary": "Assistant Professor Haocun Yu is something of a scientific diplomat. In a recent Physical Review Letters publication, she and her colleagues show how a tabletop experiment can bring together two bedrock physics theories that have never been fully reconciled."
-    },
-    {
-      "title": "Researchers craft a new, simple recipe for highly entangled quantum states",
-      "link": "https://phys.org/news/2026-06-craft-simple-recipe-highly-entangled.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 08 Jun 2026 12:40:01 EDT",
-      "published_ts": 1780936801,
-      "summary": "Building useful quantum technologies—from sensors to computers—requires generating highly complex entangled states, in which the properties of particles are deeply intertwined. Producing such states has traditionally required complex tools and carefully engineered setups with many parts."
-    },
-    {
-      "title": "Predictive surrogates could cut quantum computing measurement overhead by more than 99.97%",
-      "link": "https://phys.org/news/2026-06-surrogates-quantum-overhead.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 06 Jun 2026 13:20:01 EDT",
-      "published_ts": 1780766401,
-      "summary": "Quantum computers, systems that process information leveraging quantum mechanical effects, have the potential of outperforming classical computers on some tasks. Despite their potential, the use of these systems remains very limited, due to their high cost and other challenges that have so far preve…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
