@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1781258677,
+  "generated_ts": 1781275772,
   "items": [
+    {
+      "title": "HKU Engineering Develops ‘Brain-Like’ Chip to Advance Quantum Computing And Deep-Space Exploration",
+      "link": "https://thequantuminsider.com/2026/06/12/hku-engineering-develops-brain-like-chip-to-advance-quantum-computing-and-deep-space-exploration/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 12 Jun 2026 13:29:32 +0000",
+      "published_ts": 1781270972,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers from Department of Electrical and Computer Engineering under the Faculty of Engineering at the University of Hong Kong (HKU) and the Centre for Advanced Semiconductors and Integrated Circuits (CASIC), have achieved a major breakthrough in cryogenic ele…"
+    },
+    {
+      "title": "ORCA Computing Joins Digital Realty Innovation Lab in London",
+      "link": "https://thequantuminsider.com/2026/06/12/orca-computing-joins-digital-realty-innovation-lab-in-london/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 12 Jun 2026 12:01:12 +0000",
+      "published_ts": 1781265672,
+      "summary": "Insider Brief PRESS RELEASE &#8212; ORCA Computing announced its participation in the newly launched Digital Realty Innovation Lab (DRIL) in London, a next-generation infrastructure testing environment developed by&#160;Digital Realty, the world’s largest cloud-and carrier-neutral data center provid…"
+    },
+    {
+      "title": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions",
+      "link": "https://thequantuminsider.com/2026/06/12/google-declined-u-s-quantum-funding-initiative-over-program-restrictions/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 12 Jun 2026 11:55:23 +0000",
+      "published_ts": 1781265323,
+      "summary": "Insider Brief Google chose not to participate in the U.S. government&#8217;s recent $2 billion quantum technology funding initiative because the conditions attached to the program would have slowed the company&#8217;s development efforts, according to comments made by a senior executive this week. S…"
+    },
+    {
+      "title": "Trapped-Ion Quantum Computing Companies in 2026",
+      "link": "https://thequantuminsider.com/2026/06/12/trapped-ion-quantum-computing-companies-technology-and-where-it-stands-in-2026/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 12 Jun 2026 11:34:09 +0000",
+      "published_ts": 1781264049,
+      "summary": "Insider Brief Of the major quantum computing approaches in active commercial development, trapped-ion systems hold a specific and well-established position. They are not the fastest to scale in terms of raw qubit counts, and they are not the cheapest to operate. What they offer is gate fidelity &#82…"
+    },
+    {
+      "title": "Engineering quantum Hall stripes in 2D materials inside electromagnetic cavities",
+      "link": "https://phys.org/news/2026-06-quantum-hall-stripes-2d-materials.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 12 Jun 2026 07:00:03 EDT",
+      "published_ts": 1781262003,
+      "summary": "Quantum materials, materials with properties that are governed by the laws of quantum mechanics, have proved to be highly promising for the development of ultra-efficient electronic devices, quantum processors, highly precise sensors and various other technologies. Reliably controlling these materia…"
+    },
+    {
+      "title": "Arkeon Lands Seed Investment to Boost Quantum Chip Production Yields",
+      "link": "https://thequantuminsider.com/2026/06/12/arkeon-lands-seed-investment-to-boost-quantum-chip-production-yields/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 12 Jun 2026 10:56:06 +0000",
+      "published_ts": 1781261766,
+      "summary": "Insider Brief Swedish startup Arkeon has raised €594,200 (SEK 6.5 million) in seed funding to advance a manufacturing technology designed to improve the consistency and performance of superconducting quantum chips, according to information reported by EU Startups. The investment was led by Chalmers…"
+    },
+    {
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Fri, 12 Jun 2026 06:38:54 EDT",
+      "published_ts": 1781260734,
+      "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave lik…"
+    },
     {
       "title": "Alumni Ventures Backs Yaqumo in First Japan Investment",
       "link": "https://thequantuminsider.com/2026/06/12/alumni-ventures-backs-yaqumo-in-first-japan-investment/",
@@ -178,52 +234,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; The Italian Research Centre on&#160;High Performance&#160;Computing, Big Data, and Quantum Computing (ICSC) today inaugurated the IQM Radiance 54 quantum computer at CINECA, one of Europe&#8217;s leading supercomputing&#160;centers, enabling advanced applications…"
     },
     {
-      "title": "SETU Researchers to Play Key Role in New €460 Million National Research Investment",
-      "link": "https://thequantuminsider.com/2026/06/11/setu-researchers-to-play-key-role-in-new-e460-million-national-research-investment/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 11 Jun 2026 14:37:31 +0000",
-      "published_ts": 1781188651,
-      "summary": "Insider Brief PRESS RELEASE &#8212; South East Technological University (SETU) has welcomed the announcement of a major new national investment in research and innovation, which will see the University contribute to three of Ireland’s newly established Rinn research centres. Announced on Wednesday,…"
-    },
-    {
-      "title": "Alice & Bob Unveils First Quantum System Available For Research Partners",
-      "link": "https://thequantuminsider.com/2026/06/11/alice-bob-unveils-first-quantum-system-available-for-research-partners/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 11 Jun 2026 14:27:32 +0000",
-      "published_ts": 1781188052,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Alice &#38; Bob, a leader in fault-tolerant quantum computing, today unveiled the Helium Quantum System, marking the company’s expansion from developing cat-qubit chips to delivering a complete quantum computing system for&#160;on-premise deployment. The Helium Qu…"
-    },
-    {
       "title": "Electron matter waves gain ultrafast torque that flips handedness in femtoseconds",
       "link": "https://phys.org/news/2026-06-electron-gain-ultrafast-torque-flips.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 11 Jun 2026 07:00:01 EDT",
       "published_ts": 1781175601,
       "summary": "Many natural processes, ranging from magnetism to chemical reactions, entail the movement and rotation of particles at very small scales. In quantum mechanics, particles exhibit both particle-like and wave-like behaviors, and their states can be described mathematically using representations known a…"
-    },
-    {
-      "title": "Firgun Ventures Announces First Australian Investment in Silicon Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/06/11/firgun-ventures-announces-first-australian-investment-in-silicon-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 11 Jun 2026 10:53:53 +0000",
-      "published_ts": 1781175233,
-      "summary": "Insider Brief PRESS RELEASE &#8212;  Firgun Ventures, a London-based, global quantum-focused venture capital firm specializing in early growth-stage quantum technology, today announced its first Australian investment. Silicon Quantum Computing (SQC), a global silicon modality leader, widely viewed a…"
-    },
-    {
-      "title": "EigenQ Appoints Rika Nakazawa as Chief Growth Officer",
-      "link": "https://thequantuminsider.com/2026/06/11/eigenq-names-rika-nakazawa-chief-growth-officer-global-expansion/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 11 Jun 2026 10:33:13 +0000",
-      "published_ts": 1781173993,
-      "summary": "Insider Brief PRESS RELEASE &#8212; EigenQ today announced the appointment of global technology executive Rika Nakazawa as Chief Growth Officer, strengthening the company&#8217;s leadership team as it expands its AI, cybersecurity, and quantum infrastructure business. Nakazawa joins EigenQ at a defi…"
-    },
-    {
-      "title": "JIJ And ORCA Computing Report on Path to Commercial Quantum Advantage in Energy Optimization",
-      "link": "https://thequantuminsider.com/2026/06/11/jij-and-orca-computing-report-on-path-to-commercial-quantum-advantage-in-energy-optimization/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 11 Jun 2026 07:50:51 +0000",
-      "published_ts": 1781164251,
-      "summary": "Insider Brief PRESS RELEASE &#8212; JIJ Inc. and ORCA Computing, in collaboration with bp and the UK&#8217;s National Quantum Computing Centre (NQCC), today released a white paper demonstrating that hybrid quantum–classical optimisation is moving closer to commercial relevance for one of the energy…"
     },
     {
       "title": "AI helps reveal large-scale quantum effects hidden in stacked atomic sheets",
@@ -312,14 +328,6 @@
       "published": "Mon, 08 Jun 2026 14:40:06 EDT",
       "published_ts": 1780944006,
       "summary": "Quantum mechanics, unlike classical physics, allows objects to exist in more than one state at the same time. This idea is often illustrated by Schrödinger's cat, imagined as being both alive and dead until it is observed. In the laboratory, physicists can create less dramatic but very real versions…"
-    },
-    {
-      "title": "Tabletop experiment helps reconcile fundamental physics",
-      "link": "https://phys.org/news/2026-06-tabletop-fundamental-physics.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 08 Jun 2026 14:20:01 EDT",
-      "published_ts": 1780942801,
-      "summary": "Assistant Professor Haocun Yu is something of a scientific diplomat. In a recent Physical Review Letters publication, she and her colleagues show how a tabletop experiment can bring together two bedrock physics theories that have never been fully reconciled."
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
@@ -488,14 +496,6 @@
       "published": "Mon, 13 Apr 2026 08:38:46 EDT",
       "published_ts": 1776083926,
       "summary": "In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an entirely new quantum system – based on the novel concept of ‘giant superatoms’. This breakthrough enables quantum information to be protected, controlle…"
-    },
-    {
-      "title": "Quantum computers keep losing data. This breakthrough finally tracks it",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260407193857.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Wed, 08 Apr 2026 01:02:44 EDT",
-      "published_ts": 1775624564,
-      "summary": "Quantum computers struggle with a major flaw: their information vanishes unpredictably. Scientists have now created a new method that can measure this loss over 100 times faster than before. By tracking changes in near real time, researchers can finally see what’s going wrong inside these systems. T…"
     },
     {
       "title": "Sixteen new START.nano companies are developing hard-tech solutions with the support of MIT.nano",
