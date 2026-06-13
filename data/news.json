@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1781319388,
+  "generated_ts": 1781340766,
   "items": [
+    {
+      "title": "Quantum Threat to Crypto Is Not Here Yet, but Coinbase Advisory Board Says the Time to Prepare Is Now",
+      "link": "https://thequantuminsider.com/2026/06/13/quantum-threat-to-crypto-is-not-here-yet-but-coinbase-advisory-board-says-the-time-to-prepare-is-now/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 13 Jun 2026 07:25:08 +0000",
+      "published_ts": 1781335508,
+      "summary": "Insider Brief The cryptocurrency industry should stop debating exactly when quantum computers will become a threat and start preparing for their eventual arrival, according to a new report commissioned by Coinbase and prepared by a group of leading experts in quantum computing, cryptography and bloc…"
+    },
     {
       "title": "Scientist creates 'mini‑universe' to measure time without a clock",
       "link": "https://phys.org/news/2026-06-scientist-miniuniverse-clock.html",
@@ -98,126 +106,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Yaqumo&#160;Inc. (“Yaqumo”), a startup developing neutral-atom quantum computers in Japan, today announced that it has raised funding in a seed extension round from Alumni Ventures, LLC (“Alumni Ventures”), a venture capital firm headquartered in Manchester, New H…"
     },
     {
-      "title": "Effective Geometry and Position-Dependent Mass in Dual-$q$ Quantum Mechanics",
-      "link": "https://arxiv.org/abs/2606.12444",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12444v1 Announce Type: new  Abstract: This work investigates the deformed-derivative formalism introduced by Borges, with emphasis on the relation between the linear operator $D_{(q)}$ and its nonlinear dual counterpart $D^{(q)}$. Directly inserting the dual derivative into the kinetic te…"
-    },
-    {
-      "title": "SAT, MaxSAT, and SMT for QLDPC Distance Computation: A Large-Scale Empirical Study",
-      "link": "https://arxiv.org/abs/2606.12445",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12445v1 Announce Type: new  Abstract: Exact distance computation for quantum LDPC (QLDPC) codes plays a central role in validating candidate fault-tolerant quantum-code constructions, yet the computational structure of this problem remains poorly understood. Despite substantial recent pro…"
-    },
-    {
-      "title": "Theoretical Study for Generating Optical GKP State via a Single-Photon-Added Squeezed Vacuum",
-      "link": "https://arxiv.org/abs/2606.12467",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12467v1 Announce Type: new  Abstract: A theoretical framework is developed to analyze the generation of the optical GKP state using a single-photon-added squeezed vacuum. This state, defined by the squeezing parameter $r$, is injected into a 50:50 beam splitter, and the optical GKP state…"
-    },
-    {
-      "title": "Geometric Algebra Quantum Gate Decomposition",
-      "link": "https://arxiv.org/abs/2606.12480",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12480v1 Announce Type: new  Abstract: Quantum gates are usually described through matrix and tensor-product formalisms that often obscure their geometric structure. In this work, we formulate the Pauli and Clifford groups within the complex Geometric Algebra (GA) framework. We show that t…"
-    },
-    {
-      "title": "Statistical Mechanics and Symmetries of Non-Abelian Anyon Proliferation: From Deformation to Decoherence",
-      "link": "https://arxiv.org/abs/2606.12527",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12527v1 Announce Type: new  Abstract: Topological quantum computation relies on braiding non-Abelian anyons, but requires the underlying topological order to survive imperfect state preparation and environmental noise. We show that the instability of topological order to wavefunction defo…"
-    },
-    {
-      "title": "Unifying spacetime approaches to quantum mechanics",
-      "link": "https://arxiv.org/abs/2606.12539",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12539v1 Announce Type: new  Abstract: Recent efforts to formulate quantum mechanics in a way that treats space and time on a more equal footing have led to a large variety of spacetime-oriented approaches. In this work we present a detailed study of spacetime states, the objects that play…"
-    },
-    {
-      "title": "Spectral analysis of equilibration: information leakage in isolated quantum systems",
-      "link": "https://arxiv.org/abs/2606.12545",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12545v1 Announce Type: new  Abstract: We develop a unified dynamical-spectral framework for equilibration in isolated quantum systems based on a subspace coarse-graining approach. Central to our formulation is the Leakage Fidelity Function (LFF), defined as the probability that a unitaril…"
-    },
-    {
-      "title": "New bounds on private simultaneous quantum message passing",
-      "link": "https://arxiv.org/abs/2606.12557",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12557v1 Announce Type: new  Abstract: In the private simultaneous message (PSM) setting, $k$ players obtain inputs $x_i\\in\\{0,1\\}^n$ and then each send messages to a referee, who should learn $f(x_1,...,x_k)$ but no other information about $(x_1,...,x_k)$. The PSM setting was introduced a…"
-    },
-    {
-      "title": "Roto-Reflection Geometry of Pure Two-Qubit Entanglement",
-      "link": "https://arxiv.org/abs/2606.12637",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12637v1 Announce Type: new  Abstract: Pure two-qubit entanglement is usually characterized by scalar quantities such as concurrence. Here we show that it also has a natural geometric form. In the Pauli correlation tensor, maximally entangled states appear as improper orthogonal maps betwe…"
-    },
-    {
-      "title": "Supersymmetry of dissipative Bose-Fermi systems with application to Jaynes-Cummings and Dicke models",
-      "link": "https://arxiv.org/abs/2606.12682",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12682v1 Announce Type: new  Abstract: We demonstrate how supersymmetries of Hamiltonians for coupled Bose-Fermi systems can be used to place the Hamiltonians of the Jaynes-Cummings model and Dicke model under the rotating wave approximation in matrix form and provide explicit analytic sol…"
-    },
-    {
-      "title": "Multiple Topological Haldane Phases for Symmetry-Protected Quantum Information Processing",
-      "link": "https://arxiv.org/abs/2606.12685",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12685v1 Announce Type: new  Abstract: Symmetry-protected topological phases have attracted significant interest at the fundamental level and as a potential platform for quantum information processing, owing to their protected edge states and resilience to perturbations. Applying these fea…"
-    },
-    {
-      "title": "Measurement Geometry for Quantum Random Access Codes: Beyond Nayak Bound and Toward Optimality",
-      "link": "https://arxiv.org/abs/2606.12700",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12700v1 Announce Type: new  Abstract: Quantum random access codes (QRACs) ask how well N classical bits can be encoded into M qubits while allowing any single bit to be recovered. Although the Nayak bound remains the standard general upper bound on the decoding probability, numerical evid…"
-    },
-    {
-      "title": "Block algebra for morphing circuits",
-      "link": "https://arxiv.org/abs/2606.12724",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12724v1 Announce Type: new  Abstract: Morphing circuits are a new paradigm for quantum error correction that relaxes hardware requirements. We present four constructions for CNOT-based CSS morphing circuits with explicit qubit connectivity degrees. All four constructions are specified in…"
-    },
-    {
-      "title": "Stable, bidirectional electro-optic transduction in thin film lithium tantalate",
-      "link": "https://arxiv.org/abs/2606.12726",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12726v1 Announce Type: new  Abstract: Efficient and stable microwave-optical transduction is a key enabling technology for distributed superconducting quantum computing and heterogeneous quantum networks. Electro-optic transducers based on thin-film lithium niobate (TFLN) have shown stron…"
-    },
-    {
-      "title": "Certifying Nonclassical Proper-Time Histories with a Quantum Clock",
-      "link": "https://arxiv.org/abs/2606.12755",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781236800,
-      "summary": "arXiv:2606.12755v1 Announce Type: new  Abstract: Quantum clocks can acquire relativistic phases from motional or gravitational proper-time differences, but reduced clock dephasing alone does not certify nonclassical proper-time histories. We formulate this distinction as a channel-certification prob…"
-    },
-    {
       "title": "A new kind of entanglement helps quantum sensors tune out noise",
       "link": "https://phys.org/news/2026-06-kind-entanglement-quantum-sensors-tune.html",
       "source": "Phys.org — Quantum Physics",
@@ -232,14 +120,6 @@
       "published": "Thu, 11 Jun 2026 17:40:01 EDT",
       "published_ts": 1781214001,
       "summary": "An international team whose research was coordinated by Osaka Metropolitan University (OMU) has reported the survival of metallic behavior in the strongly correlated molecular material ytterbium cesium fulleride (Yb₂CsC₆₀). The electrons in the newly synthesized material remained mobile and continue…"
-    },
-    {
-      "title": "BW Digital and NUS to Advance Quantum-Ready Data Centres for Southeast Asia",
-      "link": "https://thequantuminsider.com/2026/06/11/bw-digital-and-nus-to-advance-quantum-ready-data-centres-for-southeast-asia/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 11 Jun 2026 19:38:39 +0000",
-      "published_ts": 1781206719,
-      "summary": "Insider Brief PRESS RELEASE &#8212; BW Digital and the National University of Singapore’s College of Design and Engineering (NUS CDE) today announced a strategic research collaboration to develop the foundational engineering frameworks required for next-generation quantum-ready digital infrastructur…"
     },
     {
       "title": "Electron matter waves gain ultrafast torque that flips handedness in femtoseconds",
