@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1781445165,
+  "generated_ts": 1781464830,
   "items": [
+    {
+      "title": "Israel Innovation Authority And Israeli DDR&D (MAFAT) Launch NIS 150 Million Initiative to Advance Israel’s Next Generation of Photonic Chips",
+      "link": "https://thequantuminsider.com/2026/06/14/israel-innovation-authority-and-israeli-ddrd-mafat-launch-nis-150-million-initiative-to-advance-israels-next-generation-of-photonic-chips/",
+      "source": "The Quantum Insider",
+      "published": "Sun, 14 Jun 2026 14:21:36 +0000",
+      "published_ts": 1781446896,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Israel Innovation Authority, in collaboration with the Directorate of Defense Research &#38; Development (DDR&#38;D/MAFAT) at the Ministry of Defense, has launched a new call for proposals to establish or provide an advanced research and development infrastruc…"
+    },
     {
       "title": "Bidirectional manipulation of gate-free quantum electronic states via semiconductor interface engineering",
       "link": "https://phys.org/news/2026-06-bidirectional-gate-free-quantum-electronic.html",
@@ -88,14 +96,6 @@
       "published": "Fri, 12 Jun 2026 11:55:23 +0000",
       "published_ts": 1781265323,
       "summary": "Insider Brief Google chose not to participate in the U.S. government&#8217;s recent $2 billion quantum technology funding initiative because the conditions attached to the program would have slowed the company&#8217;s development efforts, according to comments made by a senior executive this week. S…"
-    },
-    {
-      "title": "Trapped-Ion Quantum Computing Companies in 2026",
-      "link": "https://thequantuminsider.com/2026/06/12/trapped-ion-quantum-computing-companies-technology-and-where-it-stands-in-2026/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 12 Jun 2026 11:34:09 +0000",
-      "published_ts": 1781264049,
-      "summary": "Insider Brief Of the major quantum computing approaches in active commercial development, trapped-ion systems hold a specific and well-established position. They are not the fastest to scale in terms of raw qubit counts, and they are not the cheapest to operate. What they offer is gate fidelity &#82…"
     },
     {
       "title": "Engineering quantum Hall stripes in 2D materials inside electromagnetic cavities",
