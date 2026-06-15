@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1781543514,
+  "generated_ts": 1781556679,
   "items": [
+    {
+      "title": "Cleveland Clinic And IBM Forum Highlights Advancements in AI And Quantum Computing For Healthcare Research",
+      "link": "https://thequantuminsider.com/2026/06/15/cleveland-clinic-and-ibm-forum-highlights-advancements-in-ai-and-quantum-computing-for-healthcare-research/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 19:59:16 +0000",
+      "published_ts": 1781553556,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The third annual Cleveland Discovery and Innovation Forum, hosted by&#160;Cleveland Clinic&#160;and IBM, highlighted progress in applying quantum computing and AI to healthcare and life sciences research. The forum brought together global leaders in healthcare, sc…"
+    },
+    {
+      "title": "How to create distinguishable states for quantum systems",
+      "link": "https://news.mit.edu/2026/how-to-create-distinguishable-states-for-quantum-systems-0615",
+      "source": "MIT News — Quantum Computing",
+      "published": "Mon, 15 Jun 2026 15:55:00 -0400",
+      "published_ts": 1781553300,
+      "summary": "Researchers establish key insights for reading and writing information for quantum sensing, communication, computing, and control."
+    },
+    {
+      "title": "Ultrafast laser pulses reveal a material's hidden state of matter",
+      "link": "https://phys.org/news/2026-06-ultrafast-laser-pulses-reveal-material.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 15 Jun 2026 14:00:03 EDT",
+      "published_ts": 1781546403,
+      "summary": "What would it take to instantly transform a material from an electrical insulator into a conductive state without ever touching it? Using ultrafast laser pulses and powerful X-rays, scientists at the National Synchrotron Light Source II (NSLS-II)—a U.S. Department of Energy (DOE) Office of Science u…"
+    },
     {
       "title": "WiMi Develops Quantum Kernel Convolution Method for NISQ Quantum Devices",
       "link": "https://thequantuminsider.com/2026/06/15/wimi-implements-quantum-kernel-convolution-scheme-for-nisq-devices/",
@@ -80,14 +104,6 @@
       "published": "Mon, 15 Jun 2026 13:05:00 +0000",
       "published_ts": 1781528700,
       "summary": "Insider Brief Atom Computing and quantum algorithms company Phasecraft today announced the signing of a Memorandum of Understanding (MOU) to explore how application-focused algorithms can be used to benchmark progress toward utility-scale quantum computers.  Through this MOU, the companies will coll…"
-    },
-    {
-      "title": "EigenQ Announces Collaboration With TD SYNNEX to Advance Post-Quantum Security Readiness for AMD EPYC CPU-based Server Environments",
-      "link": "https://thequantuminsider.com/2026/06/15/eigenq-announces-collaboration-with-td-synnex-to-advance-post-quantum-security-readiness-for-amd-epyc-cpu-based-server-environments/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 15 Jun 2026 12:42:13 +0000",
-      "published_ts": 1781527333,
-      "summary": "Insider Brief PRESS RELEASE &#8212; EigenQ, Inc. today announced a collaboration with TD SYNNEX (NYSE:&#160;SNX) intended to help public-sector, defense, critical infrastructure and enterprise customers assess and prepare AMD EPYC™ processor-based server environments for the post-quantum security tr…"
     },
     {
       "title": "Quasi-1D material unlocks electric control of charge waves beyond standard limits",
@@ -330,14 +346,6 @@
       "summary": "Researchers at Kanazawa University, in collaboration with Diamond and Carbon Applications (Germany), have developed a buried-growth process for nitrogen–vacancy (NV) centers in diamond using microwave plasma chemical vapor deposition (MPCVD). By employing nitrogen-radical selective etching, which si…"
     },
     {
-      "title": "Quantum memory surpasses classical limits for storing unknown quantum operations",
-      "link": "https://phys.org/news/2026-06-quantum-memory-surpasses-classical-limits.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 09 Jun 2026 07:40:02 EDT",
-      "published_ts": 1781005202,
-      "summary": "Quantum memories, systems that store and retrieve information leveraging quantum mechanical effects, can outperform classical storage systems on some existing tasks. Yet these promising memories could also complete operations that are very difficult or impossible for classical systems, including the…"
-    },
-    {
       "title": "New light-powered chip could accelerate AI and quantum computing",
       "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -552,14 +560,6 @@
       "published": "Wed, 19 Nov 2025 16:00:00 -0500",
       "published_ts": 1763586000,
       "summary": "Quantum chemist and School of Science Dean’s Postdoctoral Fellow Ernest Opoku is working on computational methods to study how electrons behave."
-    },
-    {
-      "title": "From nanoscale to global scale: Advancing MIT’s special initiatives in manufacturing, health, and climate",
-      "link": "https://news.mit.edu/2025/nanoscale-global-scale-advancing-mit-special-initiatives-manufacturing-health-climate-1113",
-      "source": "MIT News — Quantum Computing",
-      "published": "Thu, 13 Nov 2025 15:45:00 -0500",
-      "published_ts": 1763066700,
-      "summary": "MIT.nano cleanroom complex named after Robert Noyce PhD ’53 at the 2025 Nano Summit."
     }
   ]
 }
