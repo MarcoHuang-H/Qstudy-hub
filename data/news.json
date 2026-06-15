@@ -1,6 +1,158 @@
 {
-  "generated_ts": 1781495067,
+  "generated_ts": 1781524558,
   "items": [
+    {
+      "title": "Quasi-1D material unlocks electric control of charge waves beyond standard limits",
+      "link": "https://phys.org/news/2026-06-quasi-1d-material-electric-standard.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 15 Jun 2026 06:40:01 EDT",
+      "published_ts": 1781520001,
+      "summary": "The ability to control the movement of negatively charged particles (i.e., electrons) is central to the functioning of all modern electronic devices. This control is typically attained using a gate, an electrode via which an applied electric field alters a material's electrical properties."
+    },
+    {
+      "title": "QuiX Quantum Joins QuantumBW and Photonics BW Networks",
+      "link": "https://thequantuminsider.com/2026/06/15/quix-quantum-joins-quantumbw-and-photonics-bw/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 10:26:03 +0000",
+      "published_ts": 1781519163,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum is pleased to announce its membership in QuantumBW and Photonics BW, two leading Baden-Württemberg networks driving collaboration across quantum technologies, photonics, research, industry and technology transfer. As a Dutch-German deep-tech company,…"
+    },
+    {
+      "title": "QNu Labs Takes India’s Quantum Cybersecurity to Bharat Innovates 2026, Signs Research Deal with Eindhoven University of Technology",
+      "link": "https://thequantuminsider.com/2026/06/15/qnu-labs-takes-indias-quantum-cybersecurity-to-bharat-innovates-2026-signs-research-deal-with-eindhoven-university-of-technology/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 07:49:37 +0000",
+      "published_ts": 1781509777,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QNu Labs is in Nice, France this week at Bharat Innovates 2026&#160; a global platform organised by India&#8217;s Ministry of Education and the French Ministry to connect deep tech founders with global enterprises, investors, research institutions, and policymaker…"
+    },
+    {
+      "title": "Oxford physicists just made Schrödinger’s cat even stranger",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Mon, 15 Jun 2026 03:29:46 EDT",
+      "published_ts": 1781508586,
+      "summary": "Oxford physicists have created an entirely new type of Schrödinger’s cat-like quantum state using components that are themselves highly quantum in nature. The advance could open new possibilities for more resilient quantum computers and deeper insights into the strange rules that govern the quantum…"
+    },
+    {
+      "title": "Tantalum as a base material for superconducting integrated circuits",
+      "link": "https://arxiv.org/abs/2606.13750",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.13750v1 Announce Type: new  Abstract: The performance of superconducting integrated circuits for quantum applications is fundamentally limited by material-related losses. Tantalum, as an emerging material for next-generation quantum circuits, has attracted considerable attention in recent…"
+    },
+    {
+      "title": "Computational regimes in matrix-product-state-based quantum trajectory simulations",
+      "link": "https://arxiv.org/abs/2606.13779",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.13779v1 Announce Type: new  Abstract: Efficient simulation of open quantum systems is central to modeling noisy quantum hardware and many-body dynamics. In trajectory-based tensor network methods, cost is often associated with trajectory-level quantities such as entanglement growth or bon…"
+    },
+    {
+      "title": "Universal Crossovers of Stabilizer Entropy Beyond Criticality",
+      "link": "https://arxiv.org/abs/2606.13810",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.13810v1 Announce Type: new  Abstract: Stabilizer R\\'enyi entropy has emerged as a probe of nonstabilizerness in quantum many-body systems, but its scaling structure beyond critical points remains poorly understood compared with entanglement entropy. Recent field-theory approaches indicate…"
+    },
+    {
+      "title": "Aligning Quantum Operators with Large Language Models",
+      "link": "https://arxiv.org/abs/2606.13811",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.13811v1 Announce Type: new  Abstract: Can Large Language Models (LLMs) understand and reason about quantum operators? Despite their remarkable capabilities in mathematics and symbolic reasoning, LLMs remain inherently blind to quantum representations such as unitary matrices. In this work…"
+    },
+    {
+      "title": "Calibrated Helstrom geometry on the Bloch ball via Connes spectral distance",
+      "link": "https://arxiv.org/abs/2606.13824",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.13824v1 Announce Type: new  Abstract: We show that the equal-prior Helstrom trace-distance geometry of qubit states is recovered from Connes spectral distance in a finite scalar-qubit-scalar model. The two scalar reference sectors couple isotropically to the qubit block through identity D…"
+    },
+    {
+      "title": "Local correlations in long-range dual-unitary kicked Hamiltonian chains",
+      "link": "https://arxiv.org/abs/2606.13857",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.13857v1 Announce Type: new  Abstract: Many-body Floquet models with exact space--time symmetry, such as the kicked Ising spin chain (KIC), provide natural examples of systems with dual-unitary dynamics. The requirement of exact space--time symmetry is, however, highly restrictive, as it p…"
+    },
+    {
+      "title": "Compact graphs and quantum automorphisms",
+      "link": "https://arxiv.org/abs/2606.13928",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.13928v1 Announce Type: new  Abstract: Compact graphs are graphs for which the fractional automorphism polytope has no genuinely fractional vertices. This paper proposes a quantum analogue of this idea by evaluating the fundamental magic unitary of the quantum automorphism group on states,…"
+    },
+    {
+      "title": "Quantum Simulation of Spin-Dependent Electron Transfer in a Synthetic Chiral Lattice with a Trapped Ion",
+      "link": "https://arxiv.org/abs/2606.13930",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.13930v1 Announce Type: new  Abstract: Electron transfer through chiral structures can exhibit spin asymmetry, known as the chiral-induced spin selectivity effect, whose microscopic origin remains an open question. While path-interference within the chiral moiety has been proposed as a key…"
+    },
+    {
+      "title": "An integrated ultrahigh vacuum cluster tool for diamond surface science and single nitrogen-vacancy center measurements",
+      "link": "https://arxiv.org/abs/2606.13961",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.13961v1 Announce Type: new  Abstract: We present a custom-designed ultrahigh vacuum (UHV) cluster tool developed for studying shallow nitrogen-vacancy (NV) centers in diamond, enabling in situ diamond surface preparation, characterization, and single NV center dynamics measurements within…"
+    },
+    {
+      "title": "Implementation of two-qubit Rydberg operations on neutral Rb-87 atoms in systems with different intermediate states",
+      "link": "https://arxiv.org/abs/2606.13975",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.13975v1 Announce Type: new  Abstract: This work presents an experimental setup for implementing two-qubit operations on neutral atoms ($^{87}$Rb) with the possibility of using two different Rydberg excitation schemes. One of them uses 5P$_{1/2}$ as the intermediate level and applies the s…"
+    },
+    {
+      "title": "All about quantum error correction: distillation, mitigation, self-correction and beyond",
+      "link": "https://arxiv.org/abs/2606.14034",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.14034v1 Announce Type: new  Abstract: In this work, it is shown that many quantum error-manipulating techniques, such as distillation, error mitigation, and dynamical decoupling, are special cases of the most general framework for quantum error correction. This unifying perspective is ach…"
+    },
+    {
+      "title": "Link-Free Multi-Node Timing Synchronization for Scalable Quantum Networking",
+      "link": "https://arxiv.org/abs/2606.14077",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.14077v1 Announce Type: new  Abstract: Precise timing synchronization is essential for distributed quantum networking, enabling entanglement distribution, quantum teleportation, and entanglement swapping across remote nodes. Existing synchronization architectures rely on dedicated timing-d…"
+    },
+    {
+      "title": "OQMD: Single-Qubit Rotation Control Improves Low-CNOT Multiclass Quantum Classification",
+      "link": "https://arxiv.org/abs/2606.14088",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.14088v1 Announce Type: new  Abstract: Near-term variational classifiers incur substantial error and latency from two-qubit gates, yet practitioners often assume that additional entangling depth is the default route to higher accuracy. This work studies Optimal Quantum Measurement Decoding…"
+    },
+    {
+      "title": "Collision models for open quantum systems coupled to finite environments",
+      "link": "https://arxiv.org/abs/2606.14163",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.14163v1 Announce Type: new  Abstract: We study a system qubit repeatedly interacting with the same environmental qubit, with a reservoir acting on the environment between collisions via a completely positive, trace-preserving map. We show that complete suppression of system--environment c…"
+    },
+    {
+      "title": "Dynamically frozen long-distance entanglement via non-Hermitian PT-symmetric systems",
+      "link": "https://arxiv.org/abs/2606.14177",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781496000,
+      "summary": "arXiv:2606.14177v1 Announce Type: new  Abstract: In distributed quantum networks, interacting spin systems can mediate the generation of highly entangled links between distant nodes. We investigate the role of effective parity-time (PT)-symmetric non-Hermitian spin-1/2 bulks weakly coupled to two qu…"
+    },
     {
       "title": "Israel Innovation Authority And Israeli DDR&D (MAFAT) Launch NIS 150 Million Initiative to Advance Israel’s Next Generation of Photonic Chips",
       "link": "https://thequantuminsider.com/2026/06/14/israel-innovation-authority-and-israeli-ddrd-mafat-launch-nis-150-million-initiative-to-advance-israels-next-generation-of-photonic-chips/",
@@ -80,22 +232,6 @@
       "published": "Fri, 12 Jun 2026 13:29:32 +0000",
       "published_ts": 1781270972,
       "summary": "Insider Brief PRESS RELEASE &#8212; Researchers from Department of Electrical and Computer Engineering under the Faculty of Engineering at the University of Hong Kong (HKU) and the Centre for Advanced Semiconductors and Integrated Circuits (CASIC), have achieved a major breakthrough in cryogenic ele…"
-    },
-    {
-      "title": "ORCA Computing Joins Digital Realty Innovation Lab in London",
-      "link": "https://thequantuminsider.com/2026/06/12/orca-computing-joins-digital-realty-innovation-lab-in-london/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 12 Jun 2026 12:01:12 +0000",
-      "published_ts": 1781265672,
-      "summary": "Insider Brief PRESS RELEASE &#8212; ORCA Computing announced its participation in the newly launched Digital Realty Innovation Lab (DRIL) in London, a next-generation infrastructure testing environment developed by&#160;Digital Realty, the world’s largest cloud-and carrier-neutral data center provid…"
-    },
-    {
-      "title": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions",
-      "link": "https://thequantuminsider.com/2026/06/12/google-declined-u-s-quantum-funding-initiative-over-program-restrictions/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 12 Jun 2026 11:55:23 +0000",
-      "published_ts": 1781265323,
-      "summary": "Insider Brief Google chose not to participate in the U.S. government&#8217;s recent $2 billion quantum technology funding initiative because the conditions attached to the program would have slowed the company&#8217;s development efforts, according to comments made by a senior executive this week. S…"
     },
     {
       "title": "Engineering quantum Hall stripes in 2D materials inside electromagnetic cavities",
@@ -200,14 +336,6 @@
       "published": "Mon, 08 Jun 2026 19:00:02 EDT",
       "published_ts": 1780959602,
       "summary": "Researchers from the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, and Johns Hopkins University in Baltimore have developed a practical, comprehensive noise-modeling framework for a popular class of superconducting quantum processors. Their work, published in the journal PRX Qu…"
-    },
-    {
-      "title": "New cryogenic silicon carbide hardware addresses quantum computing bottleneck",
-      "link": "https://phys.org/news/2026-06-cryogenic-silicon-carbide-hardware-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 08 Jun 2026 17:10:06 EDT",
-      "published_ts": 1780953006,
-      "summary": "Researchers from the Department of Electrical and Computer Engineering in the Faculty of Engineering at the University of Hong Kong (HKU) and the Centre for Advanced Semiconductors and Integrated Circuits (CASIC) have achieved a major breakthrough in cryogenic electronics. The team has developed a p…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
@@ -368,14 +496,6 @@
       "published": "Fri, 17 Apr 2026 23:51:09 EDT",
       "published_ts": 1776484269,
       "summary": "Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI becomes more accurate and stable over time. The method outperformed standard models while using far…"
-    },
-    {
-      "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Mon, 13 Apr 2026 08:38:46 EDT",
-      "published_ts": 1776083926,
-      "summary": "In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an entirely new quantum system – based on the novel concept of ‘giant superatoms’. This breakthrough enables quantum information to be protected, controlle…"
     },
     {
       "title": "Sixteen new START.nano companies are developing hard-tech solutions with the support of MIT.nano",
