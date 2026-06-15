@@ -1,6 +1,94 @@
 {
-  "generated_ts": 1781524558,
+  "generated_ts": 1781543514,
   "items": [
+    {
+      "title": "WiMi Develops Quantum Kernel Convolution Method for NISQ Quantum Devices",
+      "link": "https://thequantuminsider.com/2026/06/15/wimi-implements-quantum-kernel-convolution-scheme-for-nisq-devices/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 15:14:16 +0000",
+      "published_ts": 1781536456,
+      "summary": "Insider Brief PRESS RELEASE &#8212; WiMi Hologram Cloud Inc. (NASDAQ:&#160;WiMi) (&#8220;WiMi&#8221; or the &#8220;Company&#8221;), a leading global Hologram Augmented Reality (&#8220;AR&#8221;) Technology provider, announces the release of a core technology for hybrid Quantum Convolutional Neural N…"
+    },
+    {
+      "title": "DigitalXForce Launches AI and Quantum Risk Management Platform",
+      "link": "https://thequantuminsider.com/2026/06/15/digitalxforce-launches-ai-and-quantum-risk-management-platform/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 14:59:13 +0000",
+      "published_ts": 1781535553,
+      "summary": "Insider Brief PRESS RELEASE &#8212; DigitalXForce today announced the launch of the industry&#8217;s first Enterprise TRiSCM™ (Trust, Risk, and Security Management) platform designed for the AI and Quantum era, introducing a new operating model for organizations to manage Trust, Risk, Security and C…"
+    },
+    {
+      "title": "UK, Japan Expand Quantum Partnership With Focus on Commercial Deployment",
+      "link": "https://thequantuminsider.com/2026/06/15/uk-japan-expand-quantum-partnership-with-focus-on-commercial-deployment/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 14:57:35 +0000",
+      "published_ts": 1781535455,
+      "summary": "Insider Brief The United Kingdom and Japan are expanding their quantum partnership beyond research collaboration and toward commercialization, infrastructure integration and long-term industrial coordination. The two countries on Sunday unveiled a new Frontier Technology Partnership that places quan…"
+    },
+    {
+      "title": "Capital of Quantum Welcomes Quantum Motion to Discovery District Maryland",
+      "link": "https://thequantuminsider.com/2026/06/15/capital-of-quantum-welcomes-quantum-motion-to-discovery-district-maryland/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 14:12:02 +0000",
+      "published_ts": 1781532722,
+      "summary": "Insider Brief PRESS RELEASE &#8211; The Capital of Quantum (CoQ) announced today that Quantum Motion, a U.K. company that develops full-stack silicon CMOS quantum computers, will establish a facility in Discovery District Maryland. Quantum Motion joins a growing roster of global quantum leaders at t…"
+    },
+    {
+      "title": "Quantonation Strengthens Platform with Two Global Deep-Tech Industry Executives",
+      "link": "https://thequantuminsider.com/2026/06/15/quantonation-strengthens-platform-with-two-global-deep-tech-industry-executives/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 14:04:28 +0000",
+      "published_ts": 1781532268,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantonation, the world’s leading venture firm for quantum and physics technologies,&#160;today&#160;announced the appointment of Magnus Bengtsson and Elizabeth Ruetsch as Venture Partners, strengthening the firm’s ability to support portfolio companies as they sc…"
+    },
+    {
+      "title": "CHIRON Project Launches Quantum Communication Network Initiative in Germany",
+      "link": "https://thequantuminsider.com/2026/06/15/chiron-project-launches-quantum-communication-network-initiative/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 13:52:43 +0000",
+      "published_ts": 1781531563,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The CHIRON project has officially launched, bringing together leading German research institutions and technology companies to build a scalable, entanglement-based quantum communication infrastructure designed to secure Europe’s digital networks against emerging c…"
+    },
+    {
+      "title": "Passive quantum error correction doubles qubit lifetime, reaching break-even point",
+      "link": "https://phys.org/news/2026-06-passive-quantum-error-qubit-lifetime.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 15 Jun 2026 09:40:08 EDT",
+      "published_ts": 1781530808,
+      "summary": "A team of U.S. researchers has designed a passive quantum error correction technique that enables qubits to correct their own errors. Demonstrated by Shruti Shirol and colleagues at the University of Massachusetts Amherst, the protocol transforms the inevitable dissipation of energy in qubit systems…"
+    },
+    {
+      "title": "Report: U.S. Still Leads in Quantum Technology, But China is Closing the Gap",
+      "link": "https://thequantuminsider.com/2026/06/15/report-u-s-still-leads-in-quantum-technology-but-china-is-closing-the-gap/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 13:33:38 +0000",
+      "published_ts": 1781530418,
+      "summary": "Insider Brief The United States still holds a narrow lead over China in the race to develop quantum technologies, but that advantage is shrinking as Beijing deploys a coordinated national strategy that increasingly challenges American strengths in research, manufacturing and commercialization. A new…"
+    },
+    {
+      "title": "QuEra Announces 2028 Fault-Tolerant Quantum Computer and Expanded Multi-Year Strategic Collaboration with AWS",
+      "link": "https://thequantuminsider.com/2026/06/15/quera-announces-2028-fault-tolerant-quantum-computer-and-expanded-aws-collaboration/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 13:10:00 +0000",
+      "published_ts": 1781529000,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the fault-tolerant quantum computing leader, today announced Libra, a fault-tolerant quantum computer arriving in 2028, alongside a significantly expanded multi-year strategic collaboration with Amazon Web Services (AWS) to bring it to the cloud (…"
+    },
+    {
+      "title": "Atom Computing and Phasecraft Announce Strategic Collaboration to Accelerate Development of Next-Generation Materials",
+      "link": "https://thequantuminsider.com/2026/06/15/atom-computing-and-phasecraft-announce-strategic-collaboration-to-accelerate-development-of-next-generation-materials/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 13:05:00 +0000",
+      "published_ts": 1781528700,
+      "summary": "Insider Brief Atom Computing and quantum algorithms company Phasecraft today announced the signing of a Memorandum of Understanding (MOU) to explore how application-focused algorithms can be used to benchmark progress toward utility-scale quantum computers.  Through this MOU, the companies will coll…"
+    },
+    {
+      "title": "EigenQ Announces Collaboration With TD SYNNEX to Advance Post-Quantum Security Readiness for AMD EPYC CPU-based Server Environments",
+      "link": "https://thequantuminsider.com/2026/06/15/eigenq-announces-collaboration-with-td-synnex-to-advance-post-quantum-security-readiness-for-amd-epyc-cpu-based-server-environments/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 15 Jun 2026 12:42:13 +0000",
+      "published_ts": 1781527333,
+      "summary": "Insider Brief PRESS RELEASE &#8212; EigenQ, Inc. today announced a collaboration with TD SYNNEX (NYSE:&#160;SNX) intended to help public-sector, defense, critical infrastructure and enterprise customers assess and prepare AMD EPYC™ processor-based server environments for the post-quantum security tr…"
+    },
     {
       "title": "Quasi-1D material unlocks electric control of charge waves beyond standard limits",
       "link": "https://phys.org/news/2026-06-quasi-1d-material-electric-standard.html",
@@ -8,22 +96,6 @@
       "published": "Mon, 15 Jun 2026 06:40:01 EDT",
       "published_ts": 1781520001,
       "summary": "The ability to control the movement of negatively charged particles (i.e., electrons) is central to the functioning of all modern electronic devices. This control is typically attained using a gate, an electrode via which an applied electric field alters a material's electrical properties."
-    },
-    {
-      "title": "QuiX Quantum Joins QuantumBW and Photonics BW Networks",
-      "link": "https://thequantuminsider.com/2026/06/15/quix-quantum-joins-quantumbw-and-photonics-bw/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 15 Jun 2026 10:26:03 +0000",
-      "published_ts": 1781519163,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum is pleased to announce its membership in QuantumBW and Photonics BW, two leading Baden-Württemberg networks driving collaboration across quantum technologies, photonics, research, industry and technology transfer. As a Dutch-German deep-tech company,…"
-    },
-    {
-      "title": "QNu Labs Takes India’s Quantum Cybersecurity to Bharat Innovates 2026, Signs Research Deal with Eindhoven University of Technology",
-      "link": "https://thequantuminsider.com/2026/06/15/qnu-labs-takes-indias-quantum-cybersecurity-to-bharat-innovates-2026-signs-research-deal-with-eindhoven-university-of-technology/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 15 Jun 2026 07:49:37 +0000",
-      "published_ts": 1781509777,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QNu Labs is in Nice, France this week at Bharat Innovates 2026&#160; a global platform organised by India&#8217;s Ministry of Education and the French Ministry to connect deep tech founders with global enterprises, investors, research institutions, and policymaker…"
     },
     {
       "title": "Oxford physicists just made Schrödinger’s cat even stranger",
@@ -154,14 +226,6 @@
       "summary": "arXiv:2606.14177v1 Announce Type: new  Abstract: In distributed quantum networks, interacting spin systems can mediate the generation of highly entangled links between distant nodes. We investigate the role of effective parity-time (PT)-symmetric non-Hermitian spin-1/2 bulks weakly coupled to two qu…"
     },
     {
-      "title": "Israel Innovation Authority And Israeli DDR&D (MAFAT) Launch NIS 150 Million Initiative to Advance Israel’s Next Generation of Photonic Chips",
-      "link": "https://thequantuminsider.com/2026/06/14/israel-innovation-authority-and-israeli-ddrd-mafat-launch-nis-150-million-initiative-to-advance-israels-next-generation-of-photonic-chips/",
-      "source": "The Quantum Insider",
-      "published": "Sun, 14 Jun 2026 14:21:36 +0000",
-      "published_ts": 1781446896,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Israel Innovation Authority, in collaboration with the Directorate of Defense Research &#38; Development (DDR&#38;D/MAFAT) at the Ministry of Defense, has launched a new call for proposals to establish or provide an advanced research and development infrastruc…"
-    },
-    {
       "title": "Bidirectional manipulation of gate-free quantum electronic states via semiconductor interface engineering",
       "link": "https://phys.org/news/2026-06-bidirectional-gate-free-quantum-electronic.html",
       "source": "Phys.org — Quantum Physics",
@@ -170,68 +234,12 @@
       "summary": "A recent study published in Nature Communications demonstrates precise control over electron spatial arrangement in two directions simultaneously—without any applied voltage—through interface engineering between semimetal bismuth (Bi) thin films and two-dimensional semiconductor MoS₂."
     },
     {
-      "title": "Microsoft And Quantinuum Report on Major Gains in Quantum Error Correction",
-      "link": "https://thequantuminsider.com/2026/06/13/microsoft-and-quantinuum-report-on-major-gains-in-quantum-error-correction/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 13 Jun 2026 13:59:57 +0000",
-      "published_ts": 1781359197,
-      "summary": "Insider Brief Quantum computers have long promised to solve problems beyond the reach of conventional machines. Yet the field has faced a persistent obstacle. The quantum bits, or qubits, that store and process information are extremely fragile. Even minor disturbances from their environment can int…"
-    },
-    {
-      "title": "What Quantum Can Learn from the Data Center Playbook",
-      "link": "https://thequantuminsider.com/2026/06/13/what-quantum-can-learn-from-the-data-center-playbook/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 13 Jun 2026 13:45:36 +0000",
-      "published_ts": 1781358336,
-      "summary": "Guest Post by Komala S Madineedi Every new compute paradigm eventually gets measured against the data center playbook. Not because data centers represent the endpoint of computing, but because they represent one of the most successful examples of compute industrialization. Over decades, computing ev…"
-    },
-    {
-      "title": "Quantum Threat to Crypto Is Not Here Yet, but Coinbase Advisory Board Says the Time to Prepare Is Now",
-      "link": "https://thequantuminsider.com/2026/06/13/quantum-threat-to-crypto-is-not-here-yet-but-coinbase-advisory-board-says-the-time-to-prepare-is-now/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 13 Jun 2026 07:25:08 +0000",
-      "published_ts": 1781335508,
-      "summary": "Insider Brief The cryptocurrency industry should stop debating exactly when quantum computers will become a threat and start preparing for their eventual arrival, according to a new report commissioned by Coinbase and prepared by a group of leading experts in quantum computing, cryptography and bloc…"
-    },
-    {
       "title": "Scientist creates 'mini‑universe' to measure time without a clock",
       "link": "https://phys.org/news/2026-06-scientist-miniuniverse-clock.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 12 Jun 2026 14:20:01 EDT",
       "published_ts": 1781288401,
       "summary": "A University of Birmingham scientist has built a \"mini-universe\" that takes a step toward answering one of science's biggest questions: \"What is time?\" Publishing his findings in Physical Review Research, Professor Giovanni Barontini shows how it is possible to measure the flow of time without using…"
-    },
-    {
-      "title": "BQP Appoints Craig Marcinkowski to Board of Directors",
-      "link": "https://thequantuminsider.com/2026/06/12/bqp-appoints-craig-marcinkowski-to-board/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 12 Jun 2026 17:31:08 +0000",
-      "published_ts": 1781285468,
-      "summary": "Insider Brief PRESS RELEASE &#8212; BQP, a quantum simulation company building digital twin platforms for mission-critical applications, today announces the appointment of Craig Marcinkowski, defense technology industry veteran and&#160;President and CEO of NUAIR, to its Board of Directors, as the c…"
-    },
-    {
-      "title": "SEALSQ Advances Satellite-Based Post-Quantum Security Platform",
-      "link": "https://thequantuminsider.com/2026/06/12/sealsq-advances-satellite-based-post-quantum-security/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 12 Jun 2026 15:27:37 +0000",
-      "published_ts": 1781278057,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES), a leader in post-quantum semiconductors, cybersecurity and digital identity technologies, today announced significant progress in the development of the Quantum Spatial Orbital Cloud (QSOC), a next-generation orbital platform designed t…"
-    },
-    {
-      "title": "IQM Appoints Barbara Venneman to Board of Directors",
-      "link": "https://thequantuminsider.com/2026/06/12/iqm-appoints-barbara-venneman-to-board-of-directors/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 12 Jun 2026 15:18:25 +0000",
-      "published_ts": 1781277505,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers, the global leader in superconducting quantum computers, today announced the appointment of Barbara Venneman to its Board of Directors. Venneman deepens the Board&#8217;s expertise in digital transformation, enterprise technology commercializ…"
-    },
-    {
-      "title": "HKU Engineering Develops ‘Brain-Like’ Chip to Advance Quantum Computing And Deep-Space Exploration",
-      "link": "https://thequantuminsider.com/2026/06/12/hku-engineering-develops-brain-like-chip-to-advance-quantum-computing-and-deep-space-exploration/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 12 Jun 2026 13:29:32 +0000",
-      "published_ts": 1781270972,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers from Department of Electrical and Computer Engineering under the Faculty of Engineering at the University of Hong Kong (HKU) and the Centre for Advanced Semiconductors and Integrated Circuits (CASIC), have achieved a major breakthrough in cryogenic ele…"
     },
     {
       "title": "Engineering quantum Hall stripes in 2D materials inside electromagnetic cavities",
@@ -328,14 +336,6 @@
       "published": "Tue, 09 Jun 2026 07:40:02 EDT",
       "published_ts": 1781005202,
       "summary": "Quantum memories, systems that store and retrieve information leveraging quantum mechanical effects, can outperform classical storage systems on some existing tasks. Yet these promising memories could also complete operations that are very difficult or impossible for classical systems, including the…"
-    },
-    {
-      "title": "Cloud-tested quantum noise model predicts superconducting qubit errors with sevenfold better accuracy",
-      "link": "https://phys.org/news/2026-06-cloud-quantum-noise-superconducting-qubit.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 08 Jun 2026 19:00:02 EDT",
-      "published_ts": 1780959602,
-      "summary": "Researchers from the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, and Johns Hopkins University in Baltimore have developed a practical, comprehensive noise-modeling framework for a popular class of superconducting quantum processors. Their work, published in the journal PRX Qu…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
