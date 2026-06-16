@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1781556679,
+  "generated_ts": 1781581131,
   "items": [
+    {
+      "title": "Abstract algebra unlocks distinguishable states for quantum systems",
+      "link": "https://phys.org/news/2026-06-abstract-algebra-distinguishable-states-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 15 Jun 2026 17:30:04 EDT",
+      "published_ts": 1781559004,
+      "summary": "Researchers around the world are racing to develop new quantum-based systems for sensing, communication, computing and control that have the promise of outperforming traditional systems. Creating stable, measurable, distinguishable quantum states—which would be the heart of any such system—is a daun…"
+    },
     {
       "title": "Cleveland Clinic And IBM Forum Highlights Advancements in AI And Quantum Computing For Healthcare Research",
       "link": "https://thequantuminsider.com/2026/06/15/cleveland-clinic-and-ibm-forum-highlights-advancements-in-ai-and-quantum-computing-for-healthcare-research/",
@@ -336,14 +344,6 @@
       "published": "Tue, 09 Jun 2026 19:40:01 EDT",
       "published_ts": 1781048401,
       "summary": "An international team of researchers has reported a major advance in understanding quantum dynamics in semiconductor materials. They directly observed how excitons and phonons evolve together in perovskite nanocrystals, revealing a fully coherent quantum dance between light-induced electronic excita…"
-    },
-    {
-      "title": "New buried-growth process enables 2D arrays of position- and orientation-controlled diamond qubits",
-      "link": "https://phys.org/news/2026-06-growth-enables-2d-arrays-position.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 09 Jun 2026 14:40:09 EDT",
-      "published_ts": 1781030409,
-      "summary": "Researchers at Kanazawa University, in collaboration with Diamond and Carbon Applications (Germany), have developed a buried-growth process for nitrogen–vacancy (NV) centers in diamond using microwave plasma chemical vapor deposition (MPCVD). By employing nitrogen-radical selective etching, which si…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
