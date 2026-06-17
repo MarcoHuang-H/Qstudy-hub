@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1781642737,
+  "generated_ts": 1781667491,
   "items": [
+    {
+      "title": "OVHcloud Expands Quantum Platform and Launches Quantum Networking Collaboration",
+      "link": "https://thequantuminsider.com/2026/06/17/ovhcloud-expands-quantum-platform-and-launches-quantum-networking-collaboration/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 17 Jun 2026 03:17:46 +0000",
+      "published_ts": 1781666266,
+      "summary": "Insider Brief PRESS RELEASE &#8212; OVHcloud, a global player and European leader in cloud computing, established in Canada since 2011, and a cofounding member of France Quantum, is taking part today in the fifth edition of the event. With over 1,500&#160;attendees and 60&#160;speakers, France Quant…"
+    },
+    {
+      "title": "Quantum hyperdimensional computing can work 500 times faster than other methods",
+      "link": "https://phys.org/news/2026-06-quantum-hyperdimensional-faster-methods.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 16 Jun 2026 19:00:03 EDT",
+      "published_ts": 1781650803,
+      "summary": "Cleveland Clinic researchers are unlocking quantum computing's full potential through the creation of a new computing paradigm inspired by the human brain. Fabio Cumbo, Ph.D., research associate in the lab of Daniel Blankenberg, Ph.D., associate staff, Computational Life Sciences, is developing the…"
+    },
+    {
+      "title": "The Quantum Kid Podcast: How Do You Build a Quantum Startup?",
+      "link": "https://thequantuminsider.com/2026/06/16/the-quantum-kid-podcast-how-do-you-build-a-quantum-startup/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 16 Jun 2026 21:13:25 +0000",
+      "published_ts": 1781644405,
+      "summary": "Insider Brief: Quantum computing has no shortage of ambitious ideas. But explaining those ideas &#8212; and why they actually matter &#8212; is often just as challenging. That was the inspiration behind The Quantum Kid. Our podcast began with a simple observation: children often ask the questions ad…"
+    },
+    {
+      "title": "High degree of quantum entanglement detected for first time in centimeter-sized crystal of strange metal",
+      "link": "https://phys.org/news/2026-06-high-degree-quantum-entanglement-centimeter.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 16 Jun 2026 17:00:04 EDT",
+      "published_ts": 1781643604,
+      "summary": "Many quantum effects can be observed only when a small number of particles is studied—individual atoms, molecules or photons, for example, carefully shielded from the rest of the world. But what about macroscopic objects, consisting of an unimaginably large number of particles? Can they, too, displa…"
+    },
     {
       "title": "Nord Quantique Names Tobi Day-Hamilton CCO and Angela Olano VP of Marketing",
       "link": "https://thequantuminsider.com/2026/06/16/nord-quantique-adds-two-executives-to-support-growth-and-market-expansion/",
@@ -64,22 +96,6 @@
       "published": "Tue, 16 Jun 2026 12:28:00 +0000",
       "published_ts": 1781612880,
       "summary": "Insider Brief PRESS RELEASE &#8212; SEEQC, Inc. (“SEEQC” or the “Company”), a developer and manufacturer of scalable, energy efficient digital chips for quantum computing systems, today announced its participation in a four-year Microelectronics Commons Northeast Regional Defense Technology Hub (NOR…"
-    },
-    {
-      "title": "Researchers Clear Critical Hurdle For Electron-on-Helium Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/06/16/researchers-clear-critical-hurdle-for-electron-on-helium-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 16 Jun 2026 11:36:13 +0000",
-      "published_ts": 1781609773,
-      "summary": "Insider Brief Researchers have demonstrated the strong coupling of a microwave photon to the motion of a single electron trapped above superfluid helium. The result, a long-sought milestone in quantum science, that the researcher suggest could advance efforts to build quantum computers using one of…"
-    },
-    {
-      "title": "PNNL Discusses How Quantum Computing Could Impact Chemistry Research",
-      "link": "https://thequantuminsider.com/2026/06/16/pnnl-discusses-how-quantum-computing-could-impact-chemistry-research/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 16 Jun 2026 11:23:22 +0000",
-      "published_ts": 1781609002,
-      "summary": "Insider Brief PRESS RELEASE &#8212; With the first practical quantum computers expected to arrive in about two years’ time, global quantum computing leaders are thinking about how&#160;these systems should first be deployed for the largest scientific impact.&#160; This spring, the Department of Ener…"
     },
     {
       "title": "Quantum Machine Learning for Industrial Applications",
@@ -328,22 +344,6 @@
       "published": "Wed, 10 Jun 2026 05:00:11 EDT",
       "published_ts": 1781082011,
       "summary": "Physicists at University College Cork have developed a new approach in the search for a quantum spin liquid, a long-sought state of quantum matter resembling a magnetic liquid whose quantum properties mean it never freezes. The work is a key step in the search for quantum silicon, a mineral that cou…"
-    },
-    {
-      "title": "Physicists harness potential of quantum phase transitions",
-      "link": "https://phys.org/news/2026-06-physicists-harness-potential-quantum-phase.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 09 Jun 2026 21:20:03 EDT",
-      "published_ts": 1781054403,
-      "summary": "Researchers at University College Dublin and international collaborators have just published a detailed and accessible guide that aims to translate theoretical ideas into practical devices for quantum enhanced sensing technologies."
-    },
-    {
-      "title": "Physicists observe synchronized quantum dance of excitons and phonons",
-      "link": "https://phys.org/news/2026-06-physicists-synchronized-quantum-excitons-phonons.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 09 Jun 2026 19:40:01 EDT",
-      "published_ts": 1781048401,
-      "summary": "An international team of researchers has reported a major advance in understanding quantum dynamics in semiconductor materials. They directly observed how excitons and phonons evolve together in perovskite nanocrystals, revealing a fully coherent quantum dance between light-induced electronic excita…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
