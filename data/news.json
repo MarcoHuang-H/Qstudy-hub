@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1781709403,
+  "generated_ts": 1781726875,
   "items": [
+    {
+      "title": "Superconducting TES array X-ray spectrometer goes into operation at BESSY II",
+      "link": "https://phys.org/news/2026-06-superconducting-tes-array-ray-spectrometer.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 17 Jun 2026 15:40:03 EDT",
+      "published_ts": 1781725203,
+      "summary": "Europe's first and only TES spectrometer at a synchrotron source is now in operation at BESSY II, developed within a collaboration between the HZB, the MPI-CEC (Mühlheim-an-der-Ruhr, Germany) and the NIST (Boulder, Colorado, U.S.). The photon detection efficiency of the new instrument exceeds that o…"
+    },
+    {
+      "title": "Flexible cryogenic cables solve a challenge in quantum system development",
+      "link": "https://news.mit.edu/2026/flexible-cryogenic-cables-solve-challenge-in-quantum-system-development-0617",
+      "source": "MIT News — Quantum Computing",
+      "published": "Wed, 17 Jun 2026 14:35:00 -0400",
+      "published_ts": 1781721300,
+      "summary": "A prototype wiring system for dilution refrigerators could advance the realization of practical quantum computers."
+    },
+    {
+      "title": "IQM Highlights Commercial Progress and Quantum Roadmap at Investor Event",
+      "link": "https://thequantuminsider.com/2026/06/17/iqm-highlights-commercial-progress-and-quantum-roadmap-at-investor-event/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 17 Jun 2026 17:46:43 +0000",
+      "published_ts": 1781718403,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers Oy (f/k/a IQM Finland Oy), a global leader in full-stack superconducting quantum computers (&#8220;IQM,&#8221; &#8220;IQM Quantum Computers&#8221; or the &#8220;Company&#8221;), today announced that its Capital Markets Day presentation is now…"
+    },
+    {
+      "title": "Reversible chirality switching in MoS₂ generates spin currents without magnets",
+      "link": "https://phys.org/news/2026-06-reversible-chirality-mos-generates-currents.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 17 Jun 2026 12:40:05 EDT",
+      "published_ts": 1781714405,
+      "summary": "A newly developed method allows researchers to dynamically switch chirality—a particular lack of mirror symmetry—to generate spin currents in semiconductors, researchers from Science Tokyo report. Their approach relies on the reversible insertion and removal of small chiral molecules from the interl…"
+    },
+    {
+      "title": "PsiQuantum Advances Utility-Scale Quantum Computing Project in Australia",
+      "link": "https://thequantuminsider.com/2026/06/17/psiquantum-advances-utility-scale-quantum-computing-project-in-australia/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 17 Jun 2026 15:21:22 +0000",
+      "published_ts": 1781709682,
+      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum today broke ground and started construction on its facility at Moreton Bay Central, where the company will build and deploy the world&#8217;s first utility-scale, fault-tolerant quantum computer. Minister for Industry and Innovation and Minister for Sci…"
+    },
     {
       "title": "Quantum sensor overcomes major obstacle in search for dark matter and gravitational waves",
       "link": "https://phys.org/news/2026-06-quantum-sensor-major-obstacle-dark.html",
@@ -80,22 +120,6 @@
       "published": "Wed, 17 Jun 2026 08:50:00 +0000",
       "published_ts": 1781686200,
       "summary": "Insider Brief PRESS RELEASE &#8212; Element Six (E6) and Orbray, both leaders in advanced materials, announced the next phase of their partnership, building on a joint vision to deliver wafer-scale single crystal diamond (WSC™) for next-generation applications. This collaboration reinforces Element…"
-    },
-    {
-      "title": "Guest Post: Is Australia Leading The Way in Quantum With Its Deliberate Bet on Manufacturing Economics?",
-      "link": "https://thequantuminsider.com/2026/06/17/guest-post-is-australia-leading-the-way-in-quantum-with-its-deliberate-bet-on-manufacturing-economics/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 08:27:35 +0000",
-      "published_ts": 1781684855,
-      "summary": "Guest Post by Dr. Kris Naudts, Zeynep Koruturk and Donald Harmitt @ Firgun Ventures. Firgun Ventures is a VC firm investing in Series A/B quantum scale-ups globally. Australia&#8217;s quantum reputation has rested for a quarter of a century on world-leading quantum research talent, exemplified by th…"
-    },
-    {
-      "title": "IQM Deploys Its First U.S. Quantum Computer at Oak Ridge National Laboratory",
-      "link": "https://thequantuminsider.com/2026/06/17/iqm-deploys-its-first-u-s-quantum-computer-at-oak-ridge-national-laboratory/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 08:00:18 +0000",
-      "published_ts": 1781683218,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Department of Energy&#8217;s Oak Ridge National Laboratory (ORNL) today launched Pathfinder, the first commercially procured quantum computer at ORNL, built and deployed by IQM Quantum Computers. The 20-qubit IQM Radiance system marks IQM&#8217;s first quantum…"
     },
     {
       "title": "Projected logical ensembles in surface codes via the random-matrix theory of quantum dots",
@@ -330,22 +354,6 @@
       "summary": "An international team whose research was coordinated by Osaka Metropolitan University (OMU) has reported the survival of metallic behavior in the strongly correlated molecular material ytterbium cesium fulleride (Yb₂CsC₆₀). The electrons in the newly synthesized material remained mobile and continue…"
     },
     {
-      "title": "Electron matter waves gain ultrafast torque that flips handedness in femtoseconds",
-      "link": "https://phys.org/news/2026-06-electron-gain-ultrafast-torque-flips.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 11 Jun 2026 07:00:01 EDT",
-      "published_ts": 1781175601,
-      "summary": "Many natural processes, ranging from magnetism to chemical reactions, entail the movement and rotation of particles at very small scales. In quantum mechanics, particles exhibit both particle-like and wave-like behaviors, and their states can be described mathematically using representations known a…"
-    },
-    {
-      "title": "AI helps reveal large-scale quantum effects hidden in stacked atomic sheets",
-      "link": "https://phys.org/news/2026-06-ai-reveal-large-scale-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 10 Jun 2026 17:00:06 EDT",
-      "published_ts": 1781125206,
-      "summary": "Quantum materials are a class of exotic materials with special properties that are governed by quantum mechanics rather than classical physics. Those properties—like superconductivity, entanglement and unusual forms of magnetism—often originate in the tiny repeating patterns of atoms inside crystals…"
-    },
-    {
       "title": "New light-powered chip could accelerate AI and quantum computing",
       "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -552,14 +560,6 @@
       "published": "Wed, 17 Dec 2025 13:50:00 -0500",
       "published_ts": 1765997400,
       "summary": "Nineteen-year-old Freesia Gaul built a VR prototype thanks to MIT OpenCourseWare classes that provided “a solid foundation of knowledge and problem-solving abilities.”"
-    },
-    {
-      "title": "Quantum modeling for breakthroughs in materials science and sustainable energy",
-      "link": "https://news.mit.edu/2025/quantum-modeling-breakthroughs-materials-science-sustainable-energy-ernest-opoku-1119",
-      "source": "MIT News — Quantum Computing",
-      "published": "Wed, 19 Nov 2025 16:00:00 -0500",
-      "published_ts": 1763586000,
-      "summary": "Quantum chemist and School of Science Dean’s Postdoctoral Fellow Ernest Opoku is working on computational methods to study how electrons behave."
     }
   ]
 }
