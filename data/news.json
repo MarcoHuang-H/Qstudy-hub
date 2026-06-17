@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1781693261,
+  "generated_ts": 1781709403,
   "items": [
+    {
+      "title": "Quantum sensor overcomes major obstacle in search for dark matter and gravitational waves",
+      "link": "https://phys.org/news/2026-06-quantum-sensor-major-obstacle-dark.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 17 Jun 2026 11:00:07 EDT",
+      "published_ts": 1781708407,
+      "summary": "A prototype quantum sensor developed by researchers at Imperial has demonstrated for the first time that a key principle behind next-generation quantum detectors can work under realistic conditions."
+    },
+    {
+      "title": "IonQ Launches Clavis XG Multiplex for Quantum Key Distribution on Existing Fiber Networks",
+      "link": "https://thequantuminsider.com/2026/06/17/ionq-launches-clavis-xg-multiplex-for-quantum-key-distribution-on-existing-fiber-networks/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 17 Jun 2026 14:30:26 +0000",
+      "published_ts": 1781706626,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading quantum platform company, today announced Clavis XG Multiplex, a new addition to the company’s Clavis XG Quantum Key Distribution (QKD) portfolio designed to make quantum security even more practical and deployable across met…"
+    },
+    {
+      "title": "Origin Wukong Reaches One Million Tasks as China Advances Quantum Security Efforts",
+      "link": "https://thequantuminsider.com/2026/06/17/origin-wukong-reaches-one-million-tasks-as-china-advances-quantum-security-efforts/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 17 Jun 2026 14:20:51 +0000",
+      "published_ts": 1781706051,
+      "summary": "Insider Brief China&#8217;s Origin Wukong series of superconducting quantum computers has completed more than 1 million global quantum computing tasks, according to a joint statement from the Anhui Provincial Key Laboratory of Quantum Computing Chips and the Anhui Quantum Computing Engineering Resea…"
+    },
+    {
+      "title": "Quantum Hall effect gains a new twist in graphene moiré systems",
+      "link": "https://phys.org/news/2026-06-quantum-hall-effect-gains-graphene.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 17 Jun 2026 09:40:01 EDT",
+      "published_ts": 1781703601,
+      "summary": "Physicists have long been drawn to the nonlinear Hall effect: a subtle variant of the classical Hall effect, in which an electric voltage appears perpendicular to a current flowing through a material. Unlike its classical counterpart, the nonlinear version can arise even without breaking time-revers…"
+    },
+    {
+      "title": "France Acquires Alice & Bob Cat-Qubit Quantum Computer for National Research Infrastructure",
+      "link": "https://thequantuminsider.com/2026/06/17/france-acquires-alice-and-bob-cat-qubit-quantum-computer-for-national-research-infrastructure/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 17 Jun 2026 12:23:10 +0000",
+      "published_ts": 1781698990,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Following the announcements made by the President of the French Republic on 22 May at the CEA&#8217;s Très Grand Centre de Calcul (TGCC) regarding the second phase of France&#8217;s National Quantum Strategy (SNQ), GENCI (Grand Équipement National de Calcul Intens…"
+    },
+    {
+      "title": "Atom Computing and Nu Quantum Partner to Scale Neutral Atom Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/06/17/atom-computing-and-nu-quantum-partner-to-scale-neutral-atom-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 17 Jun 2026 12:06:00 +0000",
+      "published_ts": 1781697960,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Atom Computing and Nu Quantum today announced a strategic collaboration to build the hardware essential to scaling neutral atom quantum computers to utility. Under the proposed collaboration, formalised via a Memorandum of Understanding (MoU), the companies will e…"
+    },
+    {
+      "title": "SandboxAQ Signs Definitive Agreement with the U.S. Department of Commerce for $500 Million CHIPS R&D Award",
+      "link": "https://thequantuminsider.com/2026/06/17/sandboxaq-secures-500-million-chips-award-for-semiconductor-materials-research/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 17 Jun 2026 11:59:56 +0000",
+      "published_ts": 1781697596,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SandboxAQ&#160;announced today a definitive agreement with the U.S. Department of Commerce&#8217;s CHIPS Research and Development Office for a $500 million award to address one of the most urgent challenges in American manufacturing: the foreign control of critica…"
+    },
+    {
+      "title": "EigenQ And Silicon Valley Acquisition Corp. Announce Definitive Business Combination Agreement to Create a Publicly Traded Quantum Technology Company",
+      "link": "https://thequantuminsider.com/2026/06/17/eigenq-and-silicon-valley-acquisition-corp-announce-definitive-business-combination-agreement-to-create-a-publicly-traded-quantum-technology-company/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 17 Jun 2026 11:57:21 +0000",
+      "published_ts": 1781697441,
+      "summary": "Insider Brief PRESS RELEASE &#8212; EigenQ Inc. (&#8220;EigenQ&#8221; or the &#8220;Company&#8221;), a quantum technology company, and Silicon Valley Acquisition Corp. (NASDAQ:&#160;SVAQ) (&#8220;SVAQ&#8221;), a publicly traded blank check company, announced today that they have entered into a defin…"
+    },
+    {
+      "title": "Quantum Machines Acquires PCB Engineering and Opens Budapest R&D Hub",
+      "link": "https://thequantuminsider.com/2026/06/17/quantum-machines-acquires-pcb-engineering-and-opens-budapest-rd-hub/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 17 Jun 2026 11:29:22 +0000",
+      "published_ts": 1781695762,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Machines (QM), whose control systems are used by more than half of the world&#8217;s quantum computing companies, today announces the acquisition of Hungarian company PCB Engineering – its second European acquisition in six weeks. The deal establishes a ne…"
+    },
     {
       "title": "Element Six And Orbray Accelerate Wafer-Scale Single Crystal Diamond For Volume Production",
       "link": "https://thequantuminsider.com/2026/06/17/element-six-and-orbray-accelerate-wafer-scale-single-crystal-diamond-for-volume-production/",
@@ -24,14 +96,6 @@
       "published": "Wed, 17 Jun 2026 08:00:18 +0000",
       "published_ts": 1781683218,
       "summary": "Insider Brief PRESS RELEASE &#8212; The Department of Energy&#8217;s Oak Ridge National Laboratory (ORNL) today launched Pathfinder, the first commercially procured quantum computer at ORNL, built and deployed by IQM Quantum Computers. The 20-qubit IQM Radiance system marks IQM&#8217;s first quantum…"
-    },
-    {
-      "title": "Atom Computing Raises More Than $300 Million to Accelerate Deployment of Fault-Tolerant, Neutral-Atom Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/06/17/atom-computing-raises-more-than-300-million-to-accelerate-deployment-of-fault-tolerant-neutral-atom-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 07:20:16 +0000",
-      "published_ts": 1781680816,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Atom Computing today announced it has raised a total funding of more than $300 million to accelerate the development and deployment of commercial-scale fault-tolerant quantum computers. The total includes a $100 million Series C investment round and a signed Lette…"
     },
     {
       "title": "Projected logical ensembles in surface codes via the random-matrix theory of quantum dots",
@@ -154,14 +218,6 @@
       "summary": "arXiv:2606.17589v1 Announce Type: new  Abstract: Diagonal unitaries are a fundamental but resource-intensive class of quantum operations, arising as the phase separators of QAOA and the time-evolution blocks of Hamiltonian simulation. Under all-to-all connectivity their optimal depth is established,…"
     },
     {
-      "title": "OVHcloud Expands Quantum Platform and Launches Quantum Networking Collaboration",
-      "link": "https://thequantuminsider.com/2026/06/17/ovhcloud-expands-quantum-platform-and-launches-quantum-networking-collaboration/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 03:17:46 +0000",
-      "published_ts": 1781666266,
-      "summary": "Insider Brief PRESS RELEASE &#8212; OVHcloud, a global player and European leader in cloud computing, established in Canada since 2011, and a cofounding member of France Quantum, is taking part today in the fifth edition of the event. With over 1,500&#160;attendees and 60&#160;speakers, France Quant…"
-    },
-    {
       "title": "Quantum hyperdimensional computing can work 500 times faster than other methods",
       "link": "https://phys.org/news/2026-06-quantum-hyperdimensional-faster-methods.html",
       "source": "Phys.org — Quantum Physics",
@@ -170,52 +226,12 @@
       "summary": "Cleveland Clinic researchers are unlocking quantum computing's full potential through the creation of a new computing paradigm inspired by the human brain. Fabio Cumbo, Ph.D., research associate in the lab of Daniel Blankenberg, Ph.D., associate staff, Computational Life Sciences, is developing the…"
     },
     {
-      "title": "The Quantum Kid Podcast: How Do You Build a Quantum Startup?",
-      "link": "https://thequantuminsider.com/2026/06/16/the-quantum-kid-podcast-how-do-you-build-a-quantum-startup/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 16 Jun 2026 21:13:25 +0000",
-      "published_ts": 1781644405,
-      "summary": "Insider Brief: Quantum computing has no shortage of ambitious ideas. But explaining those ideas &#8212; and why they actually matter &#8212; is often just as challenging. That was the inspiration behind The Quantum Kid. Our podcast began with a simple observation: children often ask the questions ad…"
-    },
-    {
       "title": "High degree of quantum entanglement detected for first time in centimeter-sized crystal of strange metal",
       "link": "https://phys.org/news/2026-06-high-degree-quantum-entanglement-centimeter.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 16 Jun 2026 17:00:04 EDT",
       "published_ts": 1781643604,
       "summary": "Many quantum effects can be observed only when a small number of particles is studied—individual atoms, molecules or photons, for example, carefully shielded from the rest of the world. But what about macroscopic objects, consisting of an unimaginably large number of particles? Can they, too, displa…"
-    },
-    {
-      "title": "Nord Quantique Names Tobi Day-Hamilton CCO and Angela Olano VP of Marketing",
-      "link": "https://thequantuminsider.com/2026/06/16/nord-quantique-adds-two-executives-to-support-growth-and-market-expansion/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 16 Jun 2026 15:48:08 +0000",
-      "published_ts": 1781624888,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Nord Quantique, a quantum computing company advancing efficient, scalable, and error corrected architectures, today announced the appointments of Tobi Day-Hamilton as Chief Communications Officer and Angela Olano as Vice President, Marketing. Nord Quantique has em…"
-    },
-    {
-      "title": "EPB Quantum to Host First Quantum in Business Event in Chattanooga",
-      "link": "https://thequantuminsider.com/2026/06/16/epb-quantum-to-host-first-quantum-in-business-event-in-chattanooga/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 16 Jun 2026 15:31:02 +0000",
-      "published_ts": 1781623862,
-      "summary": "Insider Brief PRESS RELEASE &#8212; On October 1, 2026, EPB Quantum will host the inaugural Quantum in Business (QiB) conference, exclusively in Chattanooga, Tennessee. QiB will highlight how companies can benefit from a projected $2.7 trillion in economic value by utilizing quantum computing in the…"
-    },
-    {
-      "title": "Quantum Catalyzer And Roadrunner Venture Studios Announce Strategic Partnership to Accelerate Quantum Innovation",
-      "link": "https://thequantuminsider.com/2026/06/16/quantum-catalyzer-and-roadrunner-venture-studios-announce-strategic-partnership-to-accelerate-quantum-innovation/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 16 Jun 2026 14:22:51 +0000",
-      "published_ts": 1781619771,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Catalyzer (Q-Cat) and Roadrunner Venture Studios today announced a strategic partnership to support Roadrunner&#8217;s advancement in building breakthrough quantum technology companies in the United States. &#8220;Quantum Catalyzer is a leader in quantum t…"
-    },
-    {
-      "title": "Agentic Operating System for Quantum R&D Teams",
-      "link": "https://thequantuminsider.com/2026/06/16/agentic-operating-system-for-quantum-rd-teams/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 16 Jun 2026 13:20:08 +0000",
-      "published_ts": 1781616008,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Are operating inefficiencies holding quantum research and development back? It’s an important question — one that’s being addressed by The Quantum Insider during an upcoming live panel discussion, “Are Agents the Secret to Quantum R&#38;D Success?” on Tuesday, Jul…"
     },
     {
       "title": "Abstract algebra unlocks distinguishable states for quantum systems",
@@ -328,22 +344,6 @@
       "published": "Wed, 10 Jun 2026 17:00:06 EDT",
       "published_ts": 1781125206,
       "summary": "Quantum materials are a class of exotic materials with special properties that are governed by quantum mechanics rather than classical physics. Those properties—like superconductivity, entanglement and unusual forms of magnetism—often originate in the tiny repeating patterns of atoms inside crystals…"
-    },
-    {
-      "title": "Majorana modes withstand disorder in atomic chains, boosting fault-tolerant quantum computing",
-      "link": "https://phys.org/news/2026-06-majorana-modes-disorder-atomic-chains.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 10 Jun 2026 07:00:03 EDT",
-      "published_ts": 1781089203,
-      "summary": "Quantum computers—systems that process information and perform computations by leveraging the principles of quantum mechanics—could solve some tasks faster and more effectively than classical computers. While some studies have demonstrated the advantages of these computers for specific tasks, ensuri…"
-    },
-    {
-      "title": "Quantum witness technique reveals spinons in quantum spin liquid candidate",
-      "link": "https://phys.org/news/2026-06-quantum-witness-technique-reveals-spinons.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 10 Jun 2026 05:00:11 EDT",
-      "published_ts": 1781082011,
-      "summary": "Physicists at University College Cork have developed a new approach in the search for a quantum spin liquid, a long-sought state of quantum matter resembling a magnetic liquid whose quantum properties mean it never freezes. The work is a key step in the search for quantum silicon, a mineral that cou…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
