@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1781726875,
+  "generated_ts": 1781753407,
   "items": [
+    {
+      "title": "Flexible cryogenic cables for dilution refrigerators could pave path to practical quantum computers",
+      "link": "https://phys.org/news/2026-06-flexible-cryogenic-cables-dilution-refrigerators.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 17 Jun 2026 20:00:01 EDT",
+      "published_ts": 1781740801,
+      "summary": "By harnessing the unique properties of quantum mechanics, scientists and engineers worldwide seek to enable systems with extraordinary capabilities. Many of them are working on the highly anticipated development of quantum computers capable of completing complex calculations at unprecedented speeds.…"
+    },
+    {
+      "title": "Helios quantum computer tops 99.9% fidelity rates for one- and two-qubit operations",
+      "link": "https://phys.org/news/2026-06-helios-quantum-tops-fidelity-qubit.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 17 Jun 2026 18:40:03 EDT",
+      "published_ts": 1781736003,
+      "summary": "A public-private partnership in the Mountain West announced new results today that mark steady progress toward the Department of Energy's goal of fault-tolerant quantum computing, systems large and reliable enough to solve complex problems."
+    },
+    {
+      "title": "Flipped quantum interference unlocks clearer gluon maps from near-miss nuclear encounters",
+      "link": "https://phys.org/news/2026-06-flipped-quantum-clearer-gluon-nuclear.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 17 Jun 2026 18:20:01 EDT",
+      "published_ts": 1781734801,
+      "summary": "Scientists studying particle collisions at the Relativistic Heavy Ion Collider (RHIC) usually capture what happens when atomic nuclei smash into one another at nearly the speed of light. But even when the nuclei don't collide, interesting things can happen. In a new paper just published in Physical…"
+    },
     {
       "title": "Superconducting TES array X-ray spectrometer goes into operation at BESSY II",
       "link": "https://phys.org/news/2026-06-superconducting-tes-array-ray-spectrometer.html",
@@ -322,36 +346,12 @@
       "summary": "A University of Birmingham scientist has built a \"mini-universe\" that takes a step toward answering one of science's biggest questions: \"What is time?\" Publishing his findings in Physical Review Research, Professor Giovanni Barontini shows how it is possible to measure the flow of time without using…"
     },
     {
-      "title": "Engineering quantum Hall stripes in 2D materials inside electromagnetic cavities",
-      "link": "https://phys.org/news/2026-06-quantum-hall-stripes-2d-materials.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 12 Jun 2026 07:00:03 EDT",
-      "published_ts": 1781262003,
-      "summary": "Quantum materials, materials with properties that are governed by the laws of quantum mechanics, have proved to be highly promising for the development of ultra-efficient electronic devices, quantum processors, highly precise sensors and various other technologies. Reliably controlling these materia…"
-    },
-    {
       "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
       "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Fri, 12 Jun 2026 06:38:54 EDT",
       "published_ts": 1781260734,
       "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave lik…"
-    },
-    {
-      "title": "A new kind of entanglement helps quantum sensors tune out noise",
-      "link": "https://phys.org/news/2026-06-kind-entanglement-quantum-sensors-tune.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 11 Jun 2026 18:30:04 EDT",
-      "published_ts": 1781217004,
-      "summary": "In a quest to build the most accurate quantum sensors in the world, scientists are constantly improving their performance, making them more precise, more stable and more reliable. But eventually, physical constraints will prevent further improvements."
-    },
-    {
-      "title": "Newly synthesized fullerene material remains metallic even under low temperatures",
-      "link": "https://phys.org/news/2026-06-newly-fullerene-material-metallic-temperatures.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 11 Jun 2026 17:40:01 EDT",
-      "published_ts": 1781214001,
-      "summary": "An international team whose research was coordinated by Osaka Metropolitan University (OMU) has reported the survival of metallic behavior in the strongly correlated molecular material ytterbium cesium fulleride (Yb₂CsC₆₀). The electrons in the newly synthesized material remained mobile and continue…"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
