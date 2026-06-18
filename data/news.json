@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1781777694,
+  "generated_ts": 1781795760,
   "items": [
+    {
+      "title": "New Industry Study Finds Quantum Computing Has Entered a Capability Era, With Early Movers Building an Advantage Later Entrants Will Struggle to Close",
+      "link": "https://thequantuminsider.com/2026/06/18/new-industry-study-finds-quantum-computing-has-entered-a-capability-era-with-early-movers-building-an-advantage-later-entrants-will-struggle-to-close/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 18 Jun 2026 13:07:36 +0000",
+      "published_ts": 1781788056,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computing has moved past the question of whether organizations can access a quantum system and onto whether they can build something useful around one. According to the State of Quantum 2026, the fourth annual industry study published today by IQM Quantum…"
+    },
+    {
+      "title": "Former CIA Executive Eman Blair Joins QuSecure Federal Advisory Board",
+      "link": "https://thequantuminsider.com/2026/06/18/former-cia-executive-eman-blair-joins-qusecure-federal-advisory-board/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 18 Jun 2026 12:36:32 +0000",
+      "published_ts": 1781786192,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuSecure™, Inc., a leader in post-quantum cryptography (PQC) and cryptographic agility, today announced that Eman Blair, former CIA Senior Intelligence Service Officer, has joined its Federal Advisory Boar Blair joins QuSecure as federal agencies move from plannin…"
+    },
+    {
+      "title": "QTREX Develops Cryogenic Chip Carrier for Quantum Computing Applications",
+      "link": "https://thequantuminsider.com/2026/06/18/qtrex-develops-cryogenic-chip-carrier-for-quantum-computing-applications/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 18 Jun 2026 12:19:38 +0000",
+      "published_ts": 1781785178,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QTREX Quantum Ltd. (Nasdaq: QTEX) (&#8220;QTREX&#8221; or the &#8220;Company&#8221;) a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure, today announced a major technical and strategic milestone: the Com…"
+    },
+    {
+      "title": "Researchers Publish Peer-Reviewed Results on Quantinuum’s Helios Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/06/18/researchers-publish-peer-reviewed-results-on-quantinuums-helios-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 18 Jun 2026 12:06:32 +0000",
+      "published_ts": 1781784392,
+      "summary": "Insider Brief A public-private partnership in the Mountain West announced today new results that mark steady progress toward the Department of Energy’s goal of fault-tolerant quantum computing, systems large and reliable enough to solve complex problems. Sandia National Laboratories, home to the DOE…"
+    },
+    {
+      "title": "D-Wave Introduces Gate-Model Quantum Simulator for Error-Aware Development",
+      "link": "https://thequantuminsider.com/2026/06/18/d-wave-introduces-gate-model-quantum-simulator-for-error-aware-development/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 18 Jun 2026 11:48:58 +0000",
+      "published_ts": 1781783338,
+      "summary": "Insider Brief PRESS RELEASE &#8212; D-Wave Quantum Inc.&#160;(NYSE: QBTS), (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced its forthcoming gate-model quantum computing simulator, whi…"
+    },
+    {
+      "title": "U.S. Lawmakers Introduce Bill to Create National Quantum Security Commission",
+      "link": "https://thequantuminsider.com/2026/06/18/u-s-lawmakers-introduce-bill-to-create-national-quantum-security-commission/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 18 Jun 2026 11:37:59 +0000",
+      "published_ts": 1781782679,
+      "summary": "Insider Brief Two New York lawmakers have introduced legislation that would establish a federal commission to evaluate the rapid advancement of quantum computing and recommend policies aimed at preserving U.S. technological and national security advantages in the field. Reps. Mike Lawler, R-N.Y., an…"
+    },
+    {
+      "title": "CNM Expands Quantum Workforce Education Through National Educator Workshop",
+      "link": "https://thequantuminsider.com/2026/06/18/cnm-expands-quantum-workforce-education-through-national-educator-workshop/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 18 Jun 2026 11:36:55 +0000",
+      "published_ts": 1781782615,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Central New Mexico Community College (CNM) is helping shape the future of America&#8217;s quantum workforce by demonstrating its pioneering quantum technician training model with educators across the country, while also bringing together leading quantum educators…"
+    },
     {
       "title": "Hexaware Plans UK Quantum and AI Research Expansion with £25 Million Investment",
       "link": "https://thequantuminsider.com/2026/06/18/hexaware-plans-uk-quantum-and-ai-research-expansion-with-25-million-investment/",
@@ -146,6 +202,14 @@
       "summary": "arXiv:2606.17589v1 Announce Type: new  Abstract: Diagonal unitaries are a fundamental but resource-intensive class of quantum operations, arising as the phase separators of QAOA and the time-evolution blocks of Hamiltonian simulation. Under all-to-all connectivity their optimal depth is established,…"
     },
     {
+      "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
+      "link": "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead",
+      "source": "MIT News — Quantum Computing",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "Leaders, faculty across MIT discuss fostering innovation and talent in Greater Boston in special series of articles published alongside the outlet's annual list of 'Tech Power Players'"
+    },
+    {
       "title": "Flexible cryogenic cables for dilution refrigerators could pave path to practical quantum computers",
       "link": "https://phys.org/news/2026-06-flexible-cryogenic-cables-dilution-refrigerators.html",
       "source": "Phys.org — Quantum Physics",
@@ -186,28 +250,12 @@
       "summary": "A prototype wiring system for dilution refrigerators could advance the realization of practical quantum computers."
     },
     {
-      "title": "IQM Highlights Commercial Progress and Quantum Roadmap at Investor Event",
-      "link": "https://thequantuminsider.com/2026/06/17/iqm-highlights-commercial-progress-and-quantum-roadmap-at-investor-event/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 17:46:43 +0000",
-      "published_ts": 1781718403,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers Oy (f/k/a IQM Finland Oy), a global leader in full-stack superconducting quantum computers (&#8220;IQM,&#8221; &#8220;IQM Quantum Computers&#8221; or the &#8220;Company&#8221;), today announced that its Capital Markets Day presentation is now…"
-    },
-    {
       "title": "Reversible chirality switching in MoS₂ generates spin currents without magnets",
       "link": "https://phys.org/news/2026-06-reversible-chirality-mos-generates-currents.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 17 Jun 2026 12:40:05 EDT",
       "published_ts": 1781714405,
       "summary": "A newly developed method allows researchers to dynamically switch chirality—a particular lack of mirror symmetry—to generate spin currents in semiconductors, researchers from Science Tokyo report. Their approach relies on the reversible insertion and removal of small chiral molecules from the interl…"
-    },
-    {
-      "title": "PsiQuantum Advances Utility-Scale Quantum Computing Project in Australia",
-      "link": "https://thequantuminsider.com/2026/06/17/psiquantum-advances-utility-scale-quantum-computing-project-in-australia/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 15:21:22 +0000",
-      "published_ts": 1781709682,
-      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum today broke ground and started construction on its facility at Moreton Bay Central, where the company will build and deploy the world&#8217;s first utility-scale, fault-tolerant quantum computer. Minister for Industry and Innovation and Minister for Sci…"
     },
     {
       "title": "Quantum sensor overcomes major obstacle in search for dark matter and gravitational waves",
@@ -218,52 +266,12 @@
       "summary": "A prototype quantum sensor developed by researchers at Imperial has demonstrated for the first time that a key principle behind next-generation quantum detectors can work under realistic conditions."
     },
     {
-      "title": "IonQ Launches Clavis XG Multiplex for Quantum Key Distribution on Existing Fiber Networks",
-      "link": "https://thequantuminsider.com/2026/06/17/ionq-launches-clavis-xg-multiplex-for-quantum-key-distribution-on-existing-fiber-networks/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 14:30:26 +0000",
-      "published_ts": 1781706626,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading quantum platform company, today announced Clavis XG Multiplex, a new addition to the company’s Clavis XG Quantum Key Distribution (QKD) portfolio designed to make quantum security even more practical and deployable across met…"
-    },
-    {
-      "title": "Origin Wukong Reaches One Million Tasks as China Advances Quantum Security Efforts",
-      "link": "https://thequantuminsider.com/2026/06/17/origin-wukong-reaches-one-million-tasks-as-china-advances-quantum-security-efforts/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 14:20:51 +0000",
-      "published_ts": 1781706051,
-      "summary": "Insider Brief China&#8217;s Origin Wukong series of superconducting quantum computers has completed more than 1 million global quantum computing tasks, according to a joint statement from the Anhui Provincial Key Laboratory of Quantum Computing Chips and the Anhui Quantum Computing Engineering Resea…"
-    },
-    {
       "title": "Quantum Hall effect gains a new twist in graphene moiré systems",
       "link": "https://phys.org/news/2026-06-quantum-hall-effect-gains-graphene.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 17 Jun 2026 09:40:01 EDT",
       "published_ts": 1781703601,
       "summary": "Physicists have long been drawn to the nonlinear Hall effect: a subtle variant of the classical Hall effect, in which an electric voltage appears perpendicular to a current flowing through a material. Unlike its classical counterpart, the nonlinear version can arise even without breaking time-revers…"
-    },
-    {
-      "title": "France Acquires Alice & Bob Cat-Qubit Quantum Computer for National Research Infrastructure",
-      "link": "https://thequantuminsider.com/2026/06/17/france-acquires-alice-and-bob-cat-qubit-quantum-computer-for-national-research-infrastructure/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 12:23:10 +0000",
-      "published_ts": 1781698990,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Following the announcements made by the President of the French Republic on 22 May at the CEA&#8217;s Très Grand Centre de Calcul (TGCC) regarding the second phase of France&#8217;s National Quantum Strategy (SNQ), GENCI (Grand Équipement National de Calcul Intens…"
-    },
-    {
-      "title": "Atom Computing and Nu Quantum Partner to Scale Neutral Atom Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/06/17/atom-computing-and-nu-quantum-partner-to-scale-neutral-atom-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 12:06:00 +0000",
-      "published_ts": 1781697960,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Atom Computing and Nu Quantum today announced a strategic collaboration to build the hardware essential to scaling neutral atom quantum computers to utility. Under the proposed collaboration, formalised via a Memorandum of Understanding (MoU), the companies will e…"
-    },
-    {
-      "title": "SandboxAQ Signs Definitive Agreement with the U.S. Department of Commerce for $500 Million CHIPS R&D Award",
-      "link": "https://thequantuminsider.com/2026/06/17/sandboxaq-secures-500-million-chips-award-for-semiconductor-materials-research/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 11:59:56 +0000",
-      "published_ts": 1781697596,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SandboxAQ&#160;announced today a definitive agreement with the U.S. Department of Commerce&#8217;s CHIPS Research and Development Office for a $500 million award to address one of the most urgent challenges in American manufacturing: the foreign control of critica…"
     },
     {
       "title": "Quantum hyperdimensional computing can work 500 times faster than other methods",
@@ -552,14 +560,6 @@
       "published": "Mon, 22 Dec 2025 10:00:00 -0500",
       "published_ts": 1766415600,
       "summary": "MIT physicists say these quasiparticles may explain how superconductivity and magnetism can coexist in certain materials."
-    },
-    {
-      "title": "Teen builds an award-winning virtual reality prototype thanks to free MIT courses",
-      "link": "https://news.mit.edu/2025/teen-builds-vr-prototype-thanks-to-mit-opencourseware-1217",
-      "source": "MIT News — Quantum Computing",
-      "published": "Wed, 17 Dec 2025 13:50:00 -0500",
-      "published_ts": 1765997400,
-      "summary": "Nineteen-year-old Freesia Gaul built a VR prototype thanks to MIT OpenCourseWare classes that provided “a solid foundation of knowledge and problem-solving abilities.”"
     }
   ]
 }
