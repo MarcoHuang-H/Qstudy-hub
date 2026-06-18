@@ -1,6 +1,150 @@
 {
-  "generated_ts": 1781753407,
+  "generated_ts": 1781777694,
   "items": [
+    {
+      "title": "Hexaware Plans UK Quantum and AI Research Expansion with £25 Million Investment",
+      "link": "https://thequantuminsider.com/2026/06/18/hexaware-plans-uk-quantum-and-ai-research-expansion-with-25-million-investment/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 18 Jun 2026 08:48:31 +0000",
+      "published_ts": 1781772511,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Hexaware Technologies (NSE: HEXT), a global provider of IT solutions and services, plans to invest £25 million to expand its UK operations, a move expected to create around 1,200 jobs across Manchester, Leeds, and Birmingham over the next three to five years. Hexa…"
+    },
+    {
+      "title": "France Says It Will Won’t Certify Security Products That Aren’t Quantum-Resistent Starting in 2027",
+      "link": "https://thequantuminsider.com/2026/06/18/france-says-it-will-wont-certify-security-products-that-arent-quantum-resistent-starting-in-2027/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 18 Jun 2026 08:17:21 +0000",
+      "published_ts": 1781770641,
+      "summary": "Insider Brief France&#8217;s national cybersecurity agency, ANSSI, will stop certifying security products that do not include quantum-resistant encryption beginning in 2027, a policy that will effectively require government agencies and operators of critical infrastructure to move away from traditio…"
+    },
+    {
+      "title": "Researchers Use Graphene Quantum Dots to Target Antibiotic-Resistant Bacteria",
+      "link": "https://thequantuminsider.com/2026/06/18/researchers-use-graphene-quantum-dots-to-target-antibiotic-resistant-bacteria/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 18 Jun 2026 07:10:00 +0000",
+      "published_ts": 1781766600,
+      "summary": "Insider Brief Researchers have developed an antibacterial strategy using graphene-based quantum dots that eliminated over 99.9% of S. aureus and E. coli bacteria under low-intensity blue light, including strains resistant to multiple antibiotics &#8211; without the use of conventional antibiotics. T…"
+    },
+    {
+      "title": "Projected logical ensembles in surface codes via the random-matrix theory of quantum dots",
+      "link": "https://arxiv.org/abs/2606.17140",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17140v1 Announce Type: new  Abstract: Measurements underpin active quantum error correction (QEC) and have been recognized as a source of novel measurement-induced many-body phenomena. Here, we study the statistical properties of post-measurement logical states arising in QEC on topologic…"
+    },
+    {
+      "title": "Fermionic Hamiltonian engineering with local control",
+      "link": "https://arxiv.org/abs/2606.17158",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17158v1 Announce Type: new  Abstract: Quantum simulators enable the exploration of complex quantum phenomena in condensed-matter systems by reproducing their dynamics on controllable quantum devices. However, experimental constraints often restrict the class of Hamiltonians that can be re…"
+    },
+    {
+      "title": "Tripartite entanglement of remote atomic qubits",
+      "link": "https://arxiv.org/abs/2606.17173",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17173v1 Announce Type: new  Abstract: Distributed entanglement across multi-node quantum networks is essential for a wide range of quantum technologies, including modular quantum computers, distributed sensing and metrology, and multi-party secure communication protocols. Such large-scale…"
+    },
+    {
+      "title": "Post-Selection Probability and Fidelity of Bidirectional Teleportation",
+      "link": "https://arxiv.org/abs/2606.17251",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17251v1 Announce Type: new  Abstract: Understanding the scrambling of quantum information is central to many areas of quantum physics, including quantum thermalization, entanglement growth, and quantum information processing. Insights from these studies have, in turn, inspired the develop…"
+    },
+    {
+      "title": "Breaking the bicycle frame: Coset-based quantum LDPC codes",
+      "link": "https://arxiv.org/abs/2606.17268",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17268v1 Announce Type: new  Abstract: Generalizing the construction of two-block group algebra (2BGA) codes, we introduce a family of two-block quantum LDPC codes constructed using the action of a group on the cosets of its subgroup. This replaces the regular group actions of the earlier…"
+    },
+    {
+      "title": "Induced Resource Theories and Harvesting via Quantum Probes",
+      "link": "https://arxiv.org/abs/2606.17287",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17287v1 Announce Type: new  Abstract: We consider scenarios in which a quantum system with a well-defined resource theory is used as a probe to interact with an environment, such as a quantum field, for which a resource-theoretic description is absent or incomplete. We clarify if and how…"
+    },
+    {
+      "title": "Effects of Josephson Junction Non-idealities on Adiabatic Quantum Flux Parametron Circuits",
+      "link": "https://arxiv.org/abs/2606.17338",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17338v1 Announce Type: new  Abstract: Adiabatic quantum flux parametron (AQFP) gate is a promising approach to scale up the cryogenic microwave electronics for superconducting qubit multiplexed control. However, the performance of these circuits depends on the quality of the Josephson jun…"
+    },
+    {
+      "title": "Pulse-optimised circuit elements for scalable and noise-resilient quantum chemistry",
+      "link": "https://arxiv.org/abs/2606.17357",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17357v1 Announce Type: new  Abstract: Useful chemistry calculations on near-term quantum processors are hindered by current algorithmic runtimes. We develop a methodology to significantly reduce these runtimes. Typically, variational quantum eigensolver (VQE) algorithms are implemented as…"
+    },
+    {
+      "title": "Canonical regularization of the stationary Coulomb problem and an Aufbau-like spectral ordering",
+      "link": "https://arxiv.org/abs/2606.17359",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17359v1 Announce Type: new  Abstract: The stationary hydrogen atom has Coulomb degeneracy across orbital levels, whereas the Aufbau/Madelung ordering is an empirical, many-electron rule established in atomic physics. We examine the hydrogen atom through a regularized de Broglie--Bohm repr…"
+    },
+    {
+      "title": "Time-spectral control of accidental coincidences in daylight entanglement-based free-space QKD",
+      "link": "https://arxiv.org/abs/2606.17365",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17365v1 Announce Type: new  Abstract: Daylight entanglement-based free-space quantum key distribution (QKD) is limited by accidental coincidences from receiver-admitted background light. We develop and experimentally validate a receiver-level framework linking receiver bandwidth, accepted…"
+    },
+    {
+      "title": "Broadband High-Level Squeezed Light using Waveguide Optical Parametric Amplifiers with External Dispersion Compensation",
+      "link": "https://arxiv.org/abs/2606.17422",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17422v1 Announce Type: new  Abstract: We demonstrate broadband phase-sensitive amplification (PSA) measurement of squeezed light generated by a waveguide optical parametric amplifier (OPA) with external dispersion compensation. In broadband systems, group velocity dispersion (GVD) induces…"
+    },
+    {
+      "title": "Impact of Network Constraints on Fault-Tolerant Distributed Quantum Computing",
+      "link": "https://arxiv.org/abs/2606.17495",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17495v1 Announce Type: new  Abstract: As we move towards scalable and modular quantum computing, quantum data centres become imperative. Existing analyses typically treat network constraints in isolation or through simplified models, leaving the interplay between error correction operatio…"
+    },
+    {
+      "title": "Kinematic properties of the Pauli equation",
+      "link": "https://arxiv.org/abs/2606.17548",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17548v1 Announce Type: new  Abstract: Based on the Wigner-Vlasov formalism, this paper investigates the kinematic properties of the Pauli equation. It is shown that the probability current associated with the Pauli equation can be represented as a superposition of two currents with certai…"
+    },
+    {
+      "title": "On the entanglement induced by the deformation of phase-space",
+      "link": "https://arxiv.org/abs/2606.17587",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17587v1 Announce Type: new  Abstract: Most quantum gravity theories propose that the fundamental concept of space-time is mostly compatible with quantum theory in noncommutative (NC) space. In the present paper, we revisit the notion of entanglement induced by NC deformations of phase spa…"
+    },
+    {
+      "title": "Asymptotically Optimal Circuit Depth for Diagonal Unitary Synthesis and Compilation on Two-Dimensional Grids",
+      "link": "https://arxiv.org/abs/2606.17589",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "published_ts": 1781755200,
+      "summary": "arXiv:2606.17589v1 Announce Type: new  Abstract: Diagonal unitaries are a fundamental but resource-intensive class of quantum operations, arising as the phase separators of QAOA and the time-evolution blocks of Hamiltonian simulation. Under all-to-all connectivity their optimal depth is established,…"
+    },
     {
       "title": "Flexible cryogenic cables for dilution refrigerators could pave path to practical quantum computers",
       "link": "https://phys.org/news/2026-06-flexible-cryogenic-cables-dilution-refrigerators.html",
@@ -120,150 +264,6 @@
       "published": "Wed, 17 Jun 2026 11:59:56 +0000",
       "published_ts": 1781697596,
       "summary": "Insider Brief PRESS RELEASE &#8212; SandboxAQ&#160;announced today a definitive agreement with the U.S. Department of Commerce&#8217;s CHIPS Research and Development Office for a $500 million award to address one of the most urgent challenges in American manufacturing: the foreign control of critica…"
-    },
-    {
-      "title": "EigenQ And Silicon Valley Acquisition Corp. Announce Definitive Business Combination Agreement to Create a Publicly Traded Quantum Technology Company",
-      "link": "https://thequantuminsider.com/2026/06/17/eigenq-and-silicon-valley-acquisition-corp-announce-definitive-business-combination-agreement-to-create-a-publicly-traded-quantum-technology-company/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 11:57:21 +0000",
-      "published_ts": 1781697441,
-      "summary": "Insider Brief PRESS RELEASE &#8212; EigenQ Inc. (&#8220;EigenQ&#8221; or the &#8220;Company&#8221;), a quantum technology company, and Silicon Valley Acquisition Corp. (NASDAQ:&#160;SVAQ) (&#8220;SVAQ&#8221;), a publicly traded blank check company, announced today that they have entered into a defin…"
-    },
-    {
-      "title": "Quantum Machines Acquires PCB Engineering and Opens Budapest R&D Hub",
-      "link": "https://thequantuminsider.com/2026/06/17/quantum-machines-acquires-pcb-engineering-and-opens-budapest-rd-hub/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 11:29:22 +0000",
-      "published_ts": 1781695762,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Machines (QM), whose control systems are used by more than half of the world&#8217;s quantum computing companies, today announces the acquisition of Hungarian company PCB Engineering – its second European acquisition in six weeks. The deal establishes a ne…"
-    },
-    {
-      "title": "Element Six And Orbray Accelerate Wafer-Scale Single Crystal Diamond For Volume Production",
-      "link": "https://thequantuminsider.com/2026/06/17/element-six-and-orbray-accelerate-wafer-scale-single-crystal-diamond-for-volume-production/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 17 Jun 2026 08:50:00 +0000",
-      "published_ts": 1781686200,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Element Six (E6) and Orbray, both leaders in advanced materials, announced the next phase of their partnership, building on a joint vision to deliver wafer-scale single crystal diamond (WSC™) for next-generation applications. This collaboration reinforces Element…"
-    },
-    {
-      "title": "Projected logical ensembles in surface codes via the random-matrix theory of quantum dots",
-      "link": "https://arxiv.org/abs/2606.17140",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17140v1 Announce Type: new  Abstract: Measurements underpin active quantum error correction (QEC) and have been recognized as a source of novel measurement-induced many-body phenomena. Here, we study the statistical properties of post-measurement logical states arising in QEC on topologic…"
-    },
-    {
-      "title": "Fermionic Hamiltonian engineering with local control",
-      "link": "https://arxiv.org/abs/2606.17158",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17158v1 Announce Type: new  Abstract: Quantum simulators enable the exploration of complex quantum phenomena in condensed-matter systems by reproducing their dynamics on controllable quantum devices. However, experimental constraints often restrict the class of Hamiltonians that can be re…"
-    },
-    {
-      "title": "Tripartite entanglement of remote atomic qubits",
-      "link": "https://arxiv.org/abs/2606.17173",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17173v1 Announce Type: new  Abstract: Distributed entanglement across multi-node quantum networks is essential for a wide range of quantum technologies, including modular quantum computers, distributed sensing and metrology, and multi-party secure communication protocols. Such large-scale…"
-    },
-    {
-      "title": "Post-Selection Probability and Fidelity of Bidirectional Teleportation",
-      "link": "https://arxiv.org/abs/2606.17251",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17251v1 Announce Type: new  Abstract: Understanding the scrambling of quantum information is central to many areas of quantum physics, including quantum thermalization, entanglement growth, and quantum information processing. Insights from these studies have, in turn, inspired the develop…"
-    },
-    {
-      "title": "Breaking the bicycle frame: Coset-based quantum LDPC codes",
-      "link": "https://arxiv.org/abs/2606.17268",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17268v1 Announce Type: new  Abstract: Generalizing the construction of two-block group algebra (2BGA) codes, we introduce a family of two-block quantum LDPC codes constructed using the action of a group on the cosets of its subgroup. This replaces the regular group actions of the earlier…"
-    },
-    {
-      "title": "Induced Resource Theories and Harvesting via Quantum Probes",
-      "link": "https://arxiv.org/abs/2606.17287",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17287v1 Announce Type: new  Abstract: We consider scenarios in which a quantum system with a well-defined resource theory is used as a probe to interact with an environment, such as a quantum field, for which a resource-theoretic description is absent or incomplete. We clarify if and how…"
-    },
-    {
-      "title": "Effects of Josephson Junction Non-idealities on Adiabatic Quantum Flux Parametron Circuits",
-      "link": "https://arxiv.org/abs/2606.17338",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17338v1 Announce Type: new  Abstract: Adiabatic quantum flux parametron (AQFP) gate is a promising approach to scale up the cryogenic microwave electronics for superconducting qubit multiplexed control. However, the performance of these circuits depends on the quality of the Josephson jun…"
-    },
-    {
-      "title": "Pulse-optimised circuit elements for scalable and noise-resilient quantum chemistry",
-      "link": "https://arxiv.org/abs/2606.17357",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17357v1 Announce Type: new  Abstract: Useful chemistry calculations on near-term quantum processors are hindered by current algorithmic runtimes. We develop a methodology to significantly reduce these runtimes. Typically, variational quantum eigensolver (VQE) algorithms are implemented as…"
-    },
-    {
-      "title": "Canonical regularization of the stationary Coulomb problem and an Aufbau-like spectral ordering",
-      "link": "https://arxiv.org/abs/2606.17359",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17359v1 Announce Type: new  Abstract: The stationary hydrogen atom has Coulomb degeneracy across orbital levels, whereas the Aufbau/Madelung ordering is an empirical, many-electron rule established in atomic physics. We examine the hydrogen atom through a regularized de Broglie--Bohm repr…"
-    },
-    {
-      "title": "Time-spectral control of accidental coincidences in daylight entanglement-based free-space QKD",
-      "link": "https://arxiv.org/abs/2606.17365",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17365v1 Announce Type: new  Abstract: Daylight entanglement-based free-space quantum key distribution (QKD) is limited by accidental coincidences from receiver-admitted background light. We develop and experimentally validate a receiver-level framework linking receiver bandwidth, accepted…"
-    },
-    {
-      "title": "Broadband High-Level Squeezed Light using Waveguide Optical Parametric Amplifiers with External Dispersion Compensation",
-      "link": "https://arxiv.org/abs/2606.17422",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17422v1 Announce Type: new  Abstract: We demonstrate broadband phase-sensitive amplification (PSA) measurement of squeezed light generated by a waveguide optical parametric amplifier (OPA) with external dispersion compensation. In broadband systems, group velocity dispersion (GVD) induces…"
-    },
-    {
-      "title": "Impact of Network Constraints on Fault-Tolerant Distributed Quantum Computing",
-      "link": "https://arxiv.org/abs/2606.17495",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17495v1 Announce Type: new  Abstract: As we move towards scalable and modular quantum computing, quantum data centres become imperative. Existing analyses typically treat network constraints in isolation or through simplified models, leaving the interplay between error correction operatio…"
-    },
-    {
-      "title": "Kinematic properties of the Pauli equation",
-      "link": "https://arxiv.org/abs/2606.17548",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17548v1 Announce Type: new  Abstract: Based on the Wigner-Vlasov formalism, this paper investigates the kinematic properties of the Pauli equation. It is shown that the probability current associated with the Pauli equation can be represented as a superposition of two currents with certai…"
-    },
-    {
-      "title": "On the entanglement induced by the deformation of phase-space",
-      "link": "https://arxiv.org/abs/2606.17587",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17587v1 Announce Type: new  Abstract: Most quantum gravity theories propose that the fundamental concept of space-time is mostly compatible with quantum theory in noncommutative (NC) space. In the present paper, we revisit the notion of entanglement induced by NC deformations of phase spa…"
-    },
-    {
-      "title": "Asymptotically Optimal Circuit Depth for Diagonal Unitary Synthesis and Compilation on Two-Dimensional Grids",
-      "link": "https://arxiv.org/abs/2606.17589",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "published_ts": 1781668800,
-      "summary": "arXiv:2606.17589v1 Announce Type: new  Abstract: Diagonal unitaries are a fundamental but resource-intensive class of quantum operations, arising as the phase separators of QAOA and the time-evolution blocks of Hamiltonian simulation. Under all-to-all connectivity their optimal depth is established,…"
     },
     {
       "title": "Quantum hyperdimensional computing can work 500 times faster than other methods",
