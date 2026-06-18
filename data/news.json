@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1781795760,
+  "generated_ts": 1781814039,
   "items": [
+    {
+      "title": "Boeing Lab Tests Mark Major Step Toward Space-Based Quantum Network",
+      "link": "https://thequantuminsider.com/2026/06/18/boeing-lab-tests-mark-major-step-toward-space-based-quantum-network/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 18 Jun 2026 18:13:42 +0000",
+      "published_ts": 1781806422,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Boeing [NYSE: BA] today announced that its Q4S quantum networking satellite system successfully demonstrated high-fidelity entanglement swapping during ground testing on a compact, space-qualified payload. This result marks a major step toward proving quantum netw…"
+    },
+    {
+      "title": "Out-of-equilibrium cesium atoms reveal fractional Fermi seas, exposing new critical quantum phase",
+      "link": "https://phys.org/news/2026-06-equilibrium-cesium-atoms-reveal-fractional.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 18 Jun 2026 12:20:01 EDT",
+      "published_ts": 1781799601,
+      "summary": "In a new study published in Physical Review Letters, a team from the Nägerl group, together with theory collaborator Alvise Bastianello from the CNRS and the Université Paris-Dauphine, demonstrates that highly unusual quantum states known as \"fractional Fermi seas\" can be quantum engineered."
+    },
     {
       "title": "New Industry Study Finds Quantum Computing Has Entered a Capability Era, With Early Movers Building an Advantage Later Entrants Will Struggle to Close",
       "link": "https://thequantuminsider.com/2026/06/18/new-industry-study-finds-quantum-computing-has-entered-a-capability-era-with-early-movers-building-an-advantage-later-entrants-will-struggle-to-close/",
@@ -72,14 +88,6 @@
       "published": "Thu, 18 Jun 2026 08:17:21 +0000",
       "published_ts": 1781770641,
       "summary": "Insider Brief France&#8217;s national cybersecurity agency, ANSSI, will stop certifying security products that do not include quantum-resistant encryption beginning in 2027, a policy that will effectively require government agencies and operators of critical infrastructure to move away from traditio…"
-    },
-    {
-      "title": "Researchers Use Graphene Quantum Dots to Target Antibiotic-Resistant Bacteria",
-      "link": "https://thequantuminsider.com/2026/06/18/researchers-use-graphene-quantum-dots-to-target-antibiotic-resistant-bacteria/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 18 Jun 2026 07:10:00 +0000",
-      "published_ts": 1781766600,
-      "summary": "Insider Brief Researchers have developed an antibacterial strategy using graphene-based quantum dots that eliminated over 99.9% of S. aureus and E. coli bacteria under low-intensity blue light, including strains resistant to multiple antibiotics &#8211; without the use of conventional antibiotics. T…"
     },
     {
       "title": "Projected logical ensembles in surface codes via the random-matrix theory of quantum dots",
@@ -344,14 +352,6 @@
       "published": "Sat, 13 Jun 2026 11:00:04 EDT",
       "published_ts": 1781362804,
       "summary": "A recent study published in Nature Communications demonstrates precise control over electron spatial arrangement in two directions simultaneously—without any applied voltage—through interface engineering between semimetal bismuth (Bi) thin films and two-dimensional semiconductor MoS₂."
-    },
-    {
-      "title": "Scientist creates 'mini‑universe' to measure time without a clock",
-      "link": "https://phys.org/news/2026-06-scientist-miniuniverse-clock.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 12 Jun 2026 14:20:01 EDT",
-      "published_ts": 1781288401,
-      "summary": "A University of Birmingham scientist has built a \"mini-universe\" that takes a step toward answering one of science's biggest questions: \"What is time?\" Publishing his findings in Physical Review Research, Professor Giovanni Barontini shows how it is possible to measure the flow of time without using…"
     },
     {
       "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
