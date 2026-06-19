@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1781880913,
+  "generated_ts": 1781898218,
   "items": [
+    {
+      "title": "A new way to control tiny quantum light sources by twisting atomically thin layers of hexagonal boron nitride",
+      "link": "https://phys.org/news/2026-06-tiny-quantum-sources-atomically-thin.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 19 Jun 2026 14:00:06 EDT",
+      "published_ts": 1781892006,
+      "summary": "In a paper published in Science Advances, researchers at the University of Technology Sydney (UTS) in collaboration with the University of Minnesota and Kyung Hee University have found a new way to control quantum light sources, which is one of the key elements needed before quantum technologies can…"
+    },
+    {
+      "title": "Tiny objects swimming in a superfluid of light move against the flow",
+      "link": "https://phys.org/news/2026-06-tiny-superfluid.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 19 Jun 2026 13:20:01 EDT",
+      "published_ts": 1781889601,
+      "summary": "Superfluids are intriguing states of matter in which particles behave like a giant collective wave, allowing them to flow without any friction. When this fluid flows past a fixed obstacle at a velocity below a specific threshold, it moves around it without slowing down or exerting any drag. Above th…"
+    },
     {
       "title": "EPB Announces Robert Long as President of Strategic Initiatives",
       "link": "https://thequantuminsider.com/2026/06/19/epb-announces-robert-long-as-president-of-strategic-initiatives/",
@@ -336,22 +352,6 @@
       "published": "Mon, 15 Jun 2026 15:55:00 -0400",
       "published_ts": 1781553300,
       "summary": "Researchers establish key insights for reading and writing information for quantum sensing, communication, computing, and control."
-    },
-    {
-      "title": "Ultrafast laser pulses reveal a material's hidden state of matter",
-      "link": "https://phys.org/news/2026-06-ultrafast-laser-pulses-reveal-material.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 15 Jun 2026 14:00:03 EDT",
-      "published_ts": 1781546403,
-      "summary": "What would it take to instantly transform a material from an electrical insulator into a conductive state without ever touching it? Using ultrafast laser pulses and powerful X-rays, scientists at the National Synchrotron Light Source II (NSLS-II)—a U.S. Department of Energy (DOE) Office of Science u…"
-    },
-    {
-      "title": "Passive quantum error correction doubles qubit lifetime, reaching break-even point",
-      "link": "https://phys.org/news/2026-06-passive-quantum-error-qubit-lifetime.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 15 Jun 2026 09:40:08 EDT",
-      "published_ts": 1781530808,
-      "summary": "A team of U.S. researchers has designed a passive quantum error correction technique that enables qubits to correct their own errors. Demonstrated by Shruti Shirol and colleagues at the University of Massachusetts Amherst, the protocol transforms the inevitable dissipation of energy in qubit systems…"
     },
     {
       "title": "Oxford physicists just made Schrödinger’s cat even stranger",
