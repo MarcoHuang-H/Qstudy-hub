@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1781814039,
+  "generated_ts": 1781841156,
   "items": [
+    {
+      "title": "Electrically tunable spin polarization in graphene opens path toward low-power spintronic devices",
+      "link": "https://phys.org/news/2026-06-electrically-tunable-polarization-graphene-path.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 18 Jun 2026 18:00:03 EDT",
+      "published_ts": 1781820003,
+      "summary": "Researchers at the National Graphene Institute, in collaboration with the National University of Singapore, have shown that the magnetic behavior of electrons in graphene can be precisely controlled using electricity, revealing unusually large spin signals in a carefully engineered graphene system."
+    },
     {
       "title": "Boeing Lab Tests Mark Major Step Toward Space-Based Quantum Network",
       "link": "https://thequantuminsider.com/2026/06/18/boeing-lab-tests-mark-major-step-toward-space-based-quantum-network/",
@@ -344,14 +352,6 @@
       "published": "Mon, 15 Jun 2026 03:29:46 EDT",
       "published_ts": 1781508586,
       "summary": "Oxford physicists have created an entirely new type of Schrödinger’s cat-like quantum state using components that are themselves highly quantum in nature. The advance could open new possibilities for more resilient quantum computers and deeper insights into the strange rules that govern the quantum…"
-    },
-    {
-      "title": "Bidirectional manipulation of gate-free quantum electronic states via semiconductor interface engineering",
-      "link": "https://phys.org/news/2026-06-bidirectional-gate-free-quantum-electronic.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 13 Jun 2026 11:00:04 EDT",
-      "published_ts": 1781362804,
-      "summary": "A recent study published in Nature Communications demonstrates precise control over electron spatial arrangement in two directions simultaneously—without any applied voltage—through interface engineering between semimetal bismuth (Bi) thin films and two-dimensional semiconductor MoS₂."
     },
     {
       "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
