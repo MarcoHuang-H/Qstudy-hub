@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1781864382,
+  "generated_ts": 1781880913,
   "items": [
+    {
+      "title": "EPB Announces Robert Long as President of Strategic Initiatives",
+      "link": "https://thequantuminsider.com/2026/06/19/epb-announces-robert-long-as-president-of-strategic-initiatives/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 19 Jun 2026 13:01:30 +0000",
+      "published_ts": 1781874090,
+      "summary": "Insider Brief PRESS RELEASE &#8212; EPB has named Robert Long to serve as President of Strategic Initiatives. He will lead efforts to identify, develop and advance forward-looking initiatives that leverage EPB’s advanced energy, connectivity and quantum infrastructure to benefit local customers whil…"
+    },
+    {
+      "title": "Diraq Expands U.S. Presence with Palo Alto Office",
+      "link": "https://thequantuminsider.com/2026/06/19/diraq-expands-us-presence-with-palo-alto-office/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 19 Jun 2026 11:09:57 +0000",
+      "published_ts": 1781867397,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Diraq, the quantum-computing pioneer, today announced the expansion of its U.S. operations with a new office in Palo Alto, California. The office strengthens Diraq’s ability to scale its technology, partnerships, and team as it advances toward commercially viable,…"
+    },
+    {
+      "title": "Five phases of localization physics observed in a single quantum system",
+      "link": "https://phys.org/news/2026-06-phases-localization-physics-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 19 Jun 2026 07:00:12 EDT",
+      "published_ts": 1781866812,
+      "summary": "Physicists in China have observed five phases in localization physics within a single quantum system. Using an advanced photonic platform, the team, led by Yucheng Wang and Jingyun Fan at the Southern University of Science and Technology, Shenzhen, has demonstrated that localization physics is likel…"
+    },
+    {
+      "title": "Quantum Australia joins Women in STEMM Leadership Summit to Advance Measurable Allyship",
+      "link": "https://thequantuminsider.com/2026/06/19/quantum-australia-joins-women-in-stemm-leadership-summit-to-advance-measurable-allyship/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 19 Jun 2026 10:42:46 +0000",
+      "published_ts": 1781865766,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Australia, the national centre for quantum growth, has participated in the Women in STEMM Leadership Summit today, discussing how leaders can create measurable impact for women in science, technology, engineering, mathematics, and medicine (STEMM). The sum…"
+    },
+    {
+      "title": "Welinq and OVHCloud Partner on Networked Quantum Computing Architectures",
+      "link": "https://thequantuminsider.com/2026/06/19/welinq-and-ovhcloud-partner-on-networked-quantum-computing-architectures/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 19 Jun 2026 10:28:20 +0000",
+      "published_ts": 1781864900,
+      "summary": "Insider Brief PRESS RELEASE &#8212; European leader in the cloud and co-founding member of France Quantum, is participating in the fifth edition of the event. With more than 1,500 visitors and 60 speakers, France Quantum 2026 brings together European specialists in quantum computing for a day of con…"
+    },
+    {
+      "title": "Quantum Industry Canada Announces Leadership Transition and Appointment of Sean Lee as Acting CEO",
+      "link": "https://thequantuminsider.com/2026/06/19/quantum-industry-canada-announces-leadership-transition-and-appointment-of-sean-lee-as-acting-ceo/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 19 Jun 2026 10:20:37 +0000",
+      "published_ts": 1781864437,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Industry Canada (QIC)&#160;announced today that Lisa Lambert, the organization&#8217;s inaugural Chief Executive Officer (CEO), will conclude her tenure with QIC at the end of June to pursue a new career opportunity, and that&#160;Sean Lee&#160;of TRIUMF w…"
+    },
+    {
+      "title": "IQM Names Craig Ciesla CTO and Appoints Inés de Vega as Chief Scientist",
+      "link": "https://thequantuminsider.com/2026/06/19/iqm-appoints-craig-ciesla-former-illumina-vp-as-cto-ines-de-vega-becomes-chief-scientist/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 19 Jun 2026 10:11:57 +0000",
+      "published_ts": 1781863917,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers, the global leader in superconducting quantum computers, today announced the appointments of Dr. Craig Ciesla as Chief Technology Officer (CTO) and Dr. Inés de Vega as Chief Scientist, as she transitions from her role as Vice President of Qua…"
+    },
+    {
+      "title": "Top Quantum Programming Languages and Frameworks in 2026",
+      "link": "https://thequantuminsider.com/2026/06/19/state-of-quantum-computing-programming-languages/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 19 Jun 2026 10:00:00 +0000",
+      "published_ts": 1781863200,
+      "summary": "Insider Brief The majority of the conversations about quantum computing focus on hardware and the software side gets less attention, but it is where most people who work with quantum computers actually spend their time. Quantum programming is the practice of writing algorithms and applications for q…"
+    },
     {
       "title": "Magnet-Free Structured Light Control Could Advance Quantum Communications",
       "link": "https://thequantuminsider.com/2026/06/19/magnet-free-structured-light-control-could-advance-quantum-communications/",
@@ -170,62 +234,6 @@
       "summary": "In a new study published in Physical Review Letters, a team from the Nägerl group, together with theory collaborator Alvise Bastianello from the CNRS and the Université Paris-Dauphine, demonstrates that highly unusual quantum states known as \"fractional Fermi seas\" can be quantum engineered."
     },
     {
-      "title": "New Industry Study Finds Quantum Computing Has Entered a Capability Era, With Early Movers Building an Advantage Later Entrants Will Struggle to Close",
-      "link": "https://thequantuminsider.com/2026/06/18/new-industry-study-finds-quantum-computing-has-entered-a-capability-era-with-early-movers-building-an-advantage-later-entrants-will-struggle-to-close/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 18 Jun 2026 13:07:36 +0000",
-      "published_ts": 1781788056,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computing has moved past the question of whether organizations can access a quantum system and onto whether they can build something useful around one. According to the State of Quantum 2026, the fourth annual industry study published today by IQM Quantum…"
-    },
-    {
-      "title": "Former CIA Executive Eman Blair Joins QuSecure Federal Advisory Board",
-      "link": "https://thequantuminsider.com/2026/06/18/former-cia-executive-eman-blair-joins-qusecure-federal-advisory-board/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 18 Jun 2026 12:36:32 +0000",
-      "published_ts": 1781786192,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuSecure™, Inc., a leader in post-quantum cryptography (PQC) and cryptographic agility, today announced that Eman Blair, former CIA Senior Intelligence Service Officer, has joined its Federal Advisory Boar Blair joins QuSecure as federal agencies move from plannin…"
-    },
-    {
-      "title": "QTREX Develops Cryogenic Chip Carrier for Quantum Computing Applications",
-      "link": "https://thequantuminsider.com/2026/06/18/qtrex-develops-cryogenic-chip-carrier-for-quantum-computing-applications/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 18 Jun 2026 12:19:38 +0000",
-      "published_ts": 1781785178,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QTREX Quantum Ltd. (Nasdaq: QTEX) (&#8220;QTREX&#8221; or the &#8220;Company&#8221;) a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure, today announced a major technical and strategic milestone: the Com…"
-    },
-    {
-      "title": "Researchers Publish Peer-Reviewed Results on Quantinuum’s Helios Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/06/18/researchers-publish-peer-reviewed-results-on-quantinuums-helios-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 18 Jun 2026 12:06:32 +0000",
-      "published_ts": 1781784392,
-      "summary": "Insider Brief A public-private partnership in the Mountain West announced today new results that mark steady progress toward the Department of Energy’s goal of fault-tolerant quantum computing, systems large and reliable enough to solve complex problems. Sandia National Laboratories, home to the DOE…"
-    },
-    {
-      "title": "D-Wave Introduces Gate-Model Quantum Simulator for Error-Aware Development",
-      "link": "https://thequantuminsider.com/2026/06/18/d-wave-introduces-gate-model-quantum-simulator-for-error-aware-development/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 18 Jun 2026 11:48:58 +0000",
-      "published_ts": 1781783338,
-      "summary": "Insider Brief PRESS RELEASE &#8212; D-Wave Quantum Inc.&#160;(NYSE: QBTS), (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced its forthcoming gate-model quantum computing simulator, whi…"
-    },
-    {
-      "title": "U.S. Lawmakers Introduce Bill to Create National Quantum Security Commission",
-      "link": "https://thequantuminsider.com/2026/06/18/u-s-lawmakers-introduce-bill-to-create-national-quantum-security-commission/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 18 Jun 2026 11:37:59 +0000",
-      "published_ts": 1781782679,
-      "summary": "Insider Brief Two New York lawmakers have introduced legislation that would establish a federal commission to evaluate the rapid advancement of quantum computing and recommend policies aimed at preserving U.S. technological and national security advantages in the field. Reps. Mike Lawler, R-N.Y., an…"
-    },
-    {
-      "title": "CNM Expands Quantum Workforce Education Through National Educator Workshop",
-      "link": "https://thequantuminsider.com/2026/06/18/cnm-expands-quantum-workforce-education-through-national-educator-workshop/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 18 Jun 2026 11:36:55 +0000",
-      "published_ts": 1781782615,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Central New Mexico Community College (CNM) is helping shape the future of America&#8217;s quantum workforce by demonstrating its pioneering quantum technician training model with educators across the country, while also bringing together leading quantum educators…"
-    },
-    {
       "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
       "link": "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead",
       "source": "MIT News — Quantum Computing",
@@ -344,14 +352,6 @@
       "published": "Mon, 15 Jun 2026 09:40:08 EDT",
       "published_ts": 1781530808,
       "summary": "A team of U.S. researchers has designed a passive quantum error correction technique that enables qubits to correct their own errors. Demonstrated by Shruti Shirol and colleagues at the University of Massachusetts Amherst, the protocol transforms the inevitable dissipation of energy in qubit systems…"
-    },
-    {
-      "title": "Quasi-1D material unlocks electric control of charge waves beyond standard limits",
-      "link": "https://phys.org/news/2026-06-quasi-1d-material-electric-standard.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 15 Jun 2026 06:40:01 EDT",
-      "published_ts": 1781520001,
-      "summary": "The ability to control the movement of negatively charged particles (i.e., electrons) is central to the functioning of all modern electronic devices. This control is typically attained using a gate, an electrode via which an applied electric field alters a material's electrical properties."
     },
     {
       "title": "Oxford physicists just made Schrödinger’s cat even stranger",
