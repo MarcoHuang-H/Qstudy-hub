@@ -1,30 +1,6 @@
 {
-  "generated_ts": 1782035007,
+  "generated_ts": 1782050417,
   "items": [
-    {
-      "title": "Quantum gravity research links continuous parameters to local operators within the theory itself",
-      "link": "https://phys.org/news/2026-06-quantum-gravity-links-parameters-local.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 20 Jun 2026 15:00:01 EDT",
-      "published_ts": 1781982001,
-      "summary": "A researcher at Kyushu University and his collaborators have shown that continuous parameters in quantum gravity may not be freely adjustable \"dials\" from outside the theory, but rather arise from operators within the theory itself, supporting the century-old claim by Albert Einstein about the funda…"
-    },
-    {
-      "title": "A new way to control tiny quantum light sources by twisting atomically thin layers of hexagonal boron nitride",
-      "link": "https://phys.org/news/2026-06-tiny-quantum-sources-atomically-thin.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 19 Jun 2026 14:00:06 EDT",
-      "published_ts": 1781892006,
-      "summary": "In a paper published in Science Advances, researchers at the University of Technology Sydney (UTS) in collaboration with the University of Minnesota and Kyung Hee University have found a new way to control quantum light sources, which is one of the key elements needed before quantum technologies can…"
-    },
-    {
-      "title": "Tiny objects swimming in a superfluid of light move against the flow",
-      "link": "https://phys.org/news/2026-06-tiny-superfluid.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 19 Jun 2026 13:20:01 EDT",
-      "published_ts": 1781889601,
-      "summary": "Superfluids are intriguing states of matter in which particles behave like a giant collective wave, allowing them to flow without any friction. When this fluid flows past a fixed obstacle at a velocity below a specific threshold, it moves around it without slowing down or exerting any drag. Above th…"
-    },
     {
       "title": "EPB Announces Robert Long as President of Strategic Initiatives",
       "link": "https://thequantuminsider.com/2026/06/19/epb-announces-robert-long-as-president-of-strategic-initiatives/",
@@ -40,14 +16,6 @@
       "published": "Fri, 19 Jun 2026 11:09:57 +0000",
       "published_ts": 1781867397,
       "summary": "Insider Brief PRESS RELEASE &#8212; Diraq, the quantum-computing pioneer, today announced the expansion of its U.S. operations with a new office in Palo Alto, California. The office strengthens Diraq’s ability to scale its technology, partnerships, and team as it advances toward commercially viable,…"
-    },
-    {
-      "title": "Five phases of localization physics observed in a single quantum system",
-      "link": "https://phys.org/news/2026-06-phases-localization-physics-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 19 Jun 2026 07:00:12 EDT",
-      "published_ts": 1781866812,
-      "summary": "Physicists in China have observed five phases in localization physics within a single quantum system. Using an advanced photonic platform, the team, led by Yucheng Wang and Jingyun Fan at the Southern University of Science and Technology, Shenzhen, has demonstrated that localization physics is likel…"
     },
     {
       "title": "Quantum Australia joins Women in STEMM Leadership Summit to Advance Measurable Allyship",
@@ -114,28 +82,12 @@
       "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with maj…"
     },
     {
-      "title": "Electrically tunable spin polarization in graphene opens path toward low-power spintronic devices",
-      "link": "https://phys.org/news/2026-06-electrically-tunable-polarization-graphene-path.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 18 Jun 2026 18:00:03 EDT",
-      "published_ts": 1781820003,
-      "summary": "Researchers at the National Graphene Institute, in collaboration with the National University of Singapore, have shown that the magnetic behavior of electrons in graphene can be precisely controlled using electricity, revealing unusually large spin signals in a carefully engineered graphene system."
-    },
-    {
       "title": "Boeing Lab Tests Mark Major Step Toward Space-Based Quantum Network",
       "link": "https://thequantuminsider.com/2026/06/18/boeing-lab-tests-mark-major-step-toward-space-based-quantum-network/",
       "source": "The Quantum Insider",
       "published": "Thu, 18 Jun 2026 18:13:42 +0000",
       "published_ts": 1781806422,
       "summary": "Insider Brief PRESS RELEASE &#8212; Boeing [NYSE: BA] today announced that its Q4S quantum networking satellite system successfully demonstrated high-fidelity entanglement swapping during ground testing on a compact, space-qualified payload. This result marks a major step toward proving quantum netw…"
-    },
-    {
-      "title": "Out-of-equilibrium cesium atoms reveal fractional Fermi seas, exposing new critical quantum phase",
-      "link": "https://phys.org/news/2026-06-equilibrium-cesium-atoms-reveal-fractional.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 18 Jun 2026 12:20:01 EDT",
-      "published_ts": 1781799601,
-      "summary": "In a new study published in Physical Review Letters, a team from the Nägerl group, together with theory collaborator Alvise Bastianello from the CNRS and the Université Paris-Dauphine, demonstrates that highly unusual quantum states known as \"fractional Fermi seas\" can be quantum engineered."
     },
     {
       "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
@@ -146,84 +98,12 @@
       "summary": "Leaders, faculty across MIT discuss fostering innovation and talent in Greater Boston in special series of articles published alongside the outlet's annual list of 'Tech Power Players'"
     },
     {
-      "title": "Flexible cryogenic cables for dilution refrigerators could pave path to practical quantum computers",
-      "link": "https://phys.org/news/2026-06-flexible-cryogenic-cables-dilution-refrigerators.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 20:00:01 EDT",
-      "published_ts": 1781740801,
-      "summary": "By harnessing the unique properties of quantum mechanics, scientists and engineers worldwide seek to enable systems with extraordinary capabilities. Many of them are working on the highly anticipated development of quantum computers capable of completing complex calculations at unprecedented speeds.…"
-    },
-    {
-      "title": "Helios quantum computer tops 99.9% fidelity rates for one- and two-qubit operations",
-      "link": "https://phys.org/news/2026-06-helios-quantum-tops-fidelity-qubit.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 18:40:03 EDT",
-      "published_ts": 1781736003,
-      "summary": "A public-private partnership in the Mountain West announced new results today that mark steady progress toward the Department of Energy's goal of fault-tolerant quantum computing, systems large and reliable enough to solve complex problems."
-    },
-    {
-      "title": "Flipped quantum interference unlocks clearer gluon maps from near-miss nuclear encounters",
-      "link": "https://phys.org/news/2026-06-flipped-quantum-clearer-gluon-nuclear.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 18:20:01 EDT",
-      "published_ts": 1781734801,
-      "summary": "Scientists studying particle collisions at the Relativistic Heavy Ion Collider (RHIC) usually capture what happens when atomic nuclei smash into one another at nearly the speed of light. But even when the nuclei don't collide, interesting things can happen. In a new paper just published in Physical…"
-    },
-    {
-      "title": "Superconducting TES array X-ray spectrometer goes into operation at BESSY II",
-      "link": "https://phys.org/news/2026-06-superconducting-tes-array-ray-spectrometer.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 15:40:03 EDT",
-      "published_ts": 1781725203,
-      "summary": "Europe's first and only TES spectrometer at a synchrotron source is now in operation at BESSY II, developed within a collaboration between the HZB, the MPI-CEC (Mühlheim-an-der-Ruhr, Germany) and the NIST (Boulder, Colorado, U.S.). The photon detection efficiency of the new instrument exceeds that o…"
-    },
-    {
       "title": "Flexible cryogenic cables solve a challenge in quantum system development",
       "link": "https://news.mit.edu/2026/flexible-cryogenic-cables-solve-challenge-in-quantum-system-development-0617",
       "source": "MIT News — Quantum Computing",
       "published": "Wed, 17 Jun 2026 14:35:00 -0400",
       "published_ts": 1781721300,
       "summary": "A prototype wiring system for dilution refrigerators could advance the realization of practical quantum computers."
-    },
-    {
-      "title": "Reversible chirality switching in MoS₂ generates spin currents without magnets",
-      "link": "https://phys.org/news/2026-06-reversible-chirality-mos-generates-currents.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 12:40:05 EDT",
-      "published_ts": 1781714405,
-      "summary": "A newly developed method allows researchers to dynamically switch chirality—a particular lack of mirror symmetry—to generate spin currents in semiconductors, researchers from Science Tokyo report. Their approach relies on the reversible insertion and removal of small chiral molecules from the interl…"
-    },
-    {
-      "title": "Quantum sensor overcomes major obstacle in search for dark matter and gravitational waves",
-      "link": "https://phys.org/news/2026-06-quantum-sensor-major-obstacle-dark.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 11:00:07 EDT",
-      "published_ts": 1781708407,
-      "summary": "A prototype quantum sensor developed by researchers at Imperial has demonstrated for the first time that a key principle behind next-generation quantum detectors can work under realistic conditions."
-    },
-    {
-      "title": "Quantum Hall effect gains a new twist in graphene moiré systems",
-      "link": "https://phys.org/news/2026-06-quantum-hall-effect-gains-graphene.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 09:40:01 EDT",
-      "published_ts": 1781703601,
-      "summary": "Physicists have long been drawn to the nonlinear Hall effect: a subtle variant of the classical Hall effect, in which an electric voltage appears perpendicular to a current flowing through a material. Unlike its classical counterpart, the nonlinear version can arise even without breaking time-revers…"
-    },
-    {
-      "title": "Quantum hyperdimensional computing can work 500 times faster than other methods",
-      "link": "https://phys.org/news/2026-06-quantum-hyperdimensional-faster-methods.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 16 Jun 2026 19:00:03 EDT",
-      "published_ts": 1781650803,
-      "summary": "Cleveland Clinic researchers are unlocking quantum computing's full potential through the creation of a new computing paradigm inspired by the human brain. Fabio Cumbo, Ph.D., research associate in the lab of Daniel Blankenberg, Ph.D., associate staff, Computational Life Sciences, is developing the…"
-    },
-    {
-      "title": "High degree of quantum entanglement detected for first time in centimeter-sized crystal of strange metal",
-      "link": "https://phys.org/news/2026-06-high-degree-quantum-entanglement-centimeter.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 16 Jun 2026 17:00:04 EDT",
-      "published_ts": 1781643604,
-      "summary": "Many quantum effects can be observed only when a small number of particles is studied—individual atoms, molecules or photons, for example, carefully shielded from the rest of the world. But what about macroscopic objects, consisting of an unimaginably large number of particles? Can they, too, displa…"
     },
     {
       "title": "How to create distinguishable states for quantum systems",
