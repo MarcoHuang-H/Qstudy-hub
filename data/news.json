@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1782050417,
+  "generated_ts": 1782069881,
   "items": [
+    {
+      "title": "The Path to Quantum Advantage Is Built on Readiness, Not Hype, IBM Report Suggests",
+      "link": "https://thequantuminsider.com/2026/06/21/the-path-to-quantum-advantage-is-built-on-readiness-not-hype-ibm-report-suggests/",
+      "source": "The Quantum Insider",
+      "published": "Sun, 21 Jun 2026 13:48:43 +0000",
+      "published_ts": 1782049723,
+      "summary": "Insider Brief Quantum computing is entering a new phase, according to a recent report from IBM&#8217;s Institute for Business Value. The question is no longer whether organizations should pay attention to the technology. It is swiftly becoming how they should prepare for a future in which quantum sy…"
+    },
     {
       "title": "EPB Announces Robert Long as President of Strategic Initiatives",
       "link": "https://thequantuminsider.com/2026/06/19/epb-announces-robert-long-as-president-of-strategic-initiatives/",
@@ -80,14 +88,6 @@
       "published": "Thu, 18 Jun 2026 23:43:09 EDT",
       "published_ts": 1781840589,
       "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with maj…"
-    },
-    {
-      "title": "Boeing Lab Tests Mark Major Step Toward Space-Based Quantum Network",
-      "link": "https://thequantuminsider.com/2026/06/18/boeing-lab-tests-mark-major-step-toward-space-based-quantum-network/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 18 Jun 2026 18:13:42 +0000",
-      "published_ts": 1781806422,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Boeing [NYSE: BA] today announced that its Q4S quantum networking satellite system successfully demonstrated high-fidelity entanglement swapping during ground testing on a compact, space-qualified payload. This result marks a major step toward proving quantum netw…"
     },
     {
       "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
