@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1782099858,
+  "generated_ts": 1782128745,
   "items": [
+    {
+      "title": "Fixstars Amplify adds IonQ’s Quantum Computing Environment to its Standard Machines",
+      "link": "https://thequantuminsider.com/2026/06/22/fixstars-amplify-integrates-ionq-quantum-simulator/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 22 Jun 2026 10:37:55 +0000",
+      "published_ts": 1782124675,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Fixstars Amplify&#160;Corporation (President and CEO: Yoshiki Matsuda) is pleased to announce the addition of the IonQ quantum simulator, provided by IonQ, Inc. (hereinafter “IonQ”), as a standard machine for its optimization cloud service “Fixstars Amplify” (here…"
+    },
+    {
+      "title": "Fraunhofer IPMS Unveils Quantum Random Number Generator to Deliver True Randomness",
+      "link": "https://thequantuminsider.com/2026/06/22/fraunhofer-ipms-unveils-quantum-random-number-generator-to-deliver-true-randomness/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 22 Jun 2026 10:34:58 +0000",
+      "published_ts": 1782124498,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Fraunhofer Institute for Photonic Microsystems IPMS announces Q‑Dice, a high‑performance Quantum Random Number Generator (QRNG) that generates randomness based on quantum vacuum fluctuations. The system delivers true random numbers at bit rates exceeding 4 Gbit/s…"
+    },
+    {
+      "title": "LFI Appoints Defense and Manufacturing Operator Michael Datta to Board of Advisors",
+      "link": "https://thequantuminsider.com/2026/06/22/lfi-appoints-defense-and-manufacturing-operator-michael-datta-to-board-of-advisors/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 22 Jun 2026 09:45:36 +0000",
+      "published_ts": 1782121536,
+      "summary": "Insider Brief PRESS RELEASE &#8212; LFI (www.lfiusa.com), the world&#8217;s first industrial quantum management firm, today announced the appointment of Michael Datta to its Board of Advisors, effective June 20, 2026. The appointment brings to LFI an operator&#8217;s perspective built across more th…"
+    },
+    {
+      "title": "Twisting Quantum Potential Into Reality",
+      "link": "https://thequantuminsider.com/2026/06/22/twisting-quantum-potential-into-reality/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 22 Jun 2026 07:42:47 +0000",
+      "published_ts": 1782114167,
+      "summary": "Insider Brief PRESS RELEASE &#8212; In a paper published in Science Advances, researchers at the University of Technology Sydney (UTS) in collaboration with the University of Minnesota and Kyung Hee University have found a new way to control quantum light sources, which is one of the key elements ne…"
+    },
     {
       "title": "Quantum mechanics theory may work without imaginary numbers, new analysis suggests",
       "link": "https://phys.org/news/2026-06-quantum-mechanics-theory-imaginary-analysis.html",
@@ -88,38 +120,6 @@
       "published": "Fri, 19 Jun 2026 10:20:37 +0000",
       "published_ts": 1781864437,
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Industry Canada (QIC)&#160;announced today that Lisa Lambert, the organization&#8217;s inaugural Chief Executive Officer (CEO), will conclude her tenure with QIC at the end of June to pursue a new career opportunity, and that&#160;Sean Lee&#160;of TRIUMF w…"
-    },
-    {
-      "title": "IQM Names Craig Ciesla CTO and Appoints Inés de Vega as Chief Scientist",
-      "link": "https://thequantuminsider.com/2026/06/19/iqm-appoints-craig-ciesla-former-illumina-vp-as-cto-ines-de-vega-becomes-chief-scientist/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 19 Jun 2026 10:11:57 +0000",
-      "published_ts": 1781863917,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers, the global leader in superconducting quantum computers, today announced the appointments of Dr. Craig Ciesla as Chief Technology Officer (CTO) and Dr. Inés de Vega as Chief Scientist, as she transitions from her role as Vice President of Qua…"
-    },
-    {
-      "title": "Top Quantum Programming Languages and Frameworks in 2026",
-      "link": "https://thequantuminsider.com/2026/06/19/state-of-quantum-computing-programming-languages/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 19 Jun 2026 10:00:00 +0000",
-      "published_ts": 1781863200,
-      "summary": "Insider Brief The majority of the conversations about quantum computing focus on hardware and the software side gets less attention, but it is where most people who work with quantum computers actually spend their time. Quantum programming is the practice of writing algorithms and applications for q…"
-    },
-    {
-      "title": "Magnet-Free Structured Light Control Could Advance Quantum Communications",
-      "link": "https://thequantuminsider.com/2026/06/19/magnet-free-structured-light-control-could-advance-quantum-communications/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 19 Jun 2026 08:27:02 +0000",
-      "published_ts": 1781857622,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers from the Faculty of Physics at Vilnius University have developed a theoretical model that allows atoms to be “pre-programmed” by light alone to reshape laser beams that carry both a twist and a polarisation. The study by master’s student Dharma Prasety…"
-    },
-    {
-      "title": "INNOSPACE Signs MOU With Norma For Space Quantum Computing Center, Joint R&D And Government Projects",
-      "link": "https://thequantuminsider.com/2026/06/19/innospace-signs-mou-with-norma-for-space-quantum-computing-center-joint-rd-and-government-projects/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 19 Jun 2026 08:13:47 +0000",
-      "published_ts": 1781856827,
-      "summary": "Insider Brief PRESS RELEASE &#8212; INNOSPACE announced today that it has signed a memorandum of understanding (MOU) with Norma, a Korean quantum computing technology company, to explore cooperation in space-based quantum computing technologies and related business development. Under the MOU, the tw…"
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
