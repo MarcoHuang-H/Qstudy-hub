@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1782128745,
+  "generated_ts": 1782146854,
   "items": [
+    {
+      "title": "NTHU Researchers Develop World’s Brightest Room-Temperature Single-Photon Source",
+      "link": "https://thequantuminsider.com/2026/06/22/nthu-researchers-develop-worlds-brightest-single-photon-source-for-quantum-technologies/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 22 Jun 2026 14:35:53 +0000",
+      "published_ts": 1782138953,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A research team led by Professor Hao-Wu Lin from the Department of Materials Science and Engineering at National Tsing Hua University (NTHU) has developed the world’s brightest room-temperature single-photon source, which uniquely combines ultrafast and non-blinki…"
+    },
+    {
+      "title": "Europe Expands Quantum-GPU Computing as NVIDIA Announces 35 New AI Supercomputers",
+      "link": "https://thequantuminsider.com/2026/06/22/europe-expands-quantum-gpu-computing-as-nvidia-announces-35-new-ai-supercomputers/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 22 Jun 2026 14:06:57 +0000",
+      "published_ts": 1782137217,
+      "summary": "Insider Brief NVIDIA said Europe is expanding its quantum-GPU computing infrastructure as part of a broader rollout of 35 new artificial intelligence supercomputers across the continent, a move aimed at strengthening the region&#8217;s capabilities in quantum research, AI development and scientific…"
+    },
+    {
+      "title": "Investigating quantum and molecular plumbing in nanofluidics research",
+      "link": "https://phys.org/news/2026-06-quantum-molecular-plumbing-nanofluidics.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 22 Jun 2026 10:00:01 EDT",
+      "published_ts": 1782136801,
+      "summary": "Our body contains an intricate system of tiny vessels through which blood, water and other molecules flow. When the size of the pipes shrinks to the nanoscale, where only a few molecules can fit side by side, the classical laws of physics governing the behavior of water are influenced by the atomic…"
+    },
+    {
+      "title": "Infleqtion Launches America’s Quantum Space Initiative to Accelerate the Future of Quantum-Enabled Space Infrastructure",
+      "link": "https://thequantuminsider.com/2026/06/22/infleqtion-launches-americas-quantum-space-initiative-to-accelerate-the-future-of-quantum-enabled-space-infrastructure/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 22 Jun 2026 13:45:43 +0000",
+      "published_ts": 1782135943,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ),&#160;a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today announced the launch of America&#8217;s Quantum Space Initiative, bringing together founding innovators including Voyager Technologies,…"
+    },
+    {
+      "title": "IQM Named as Quantum Partner in HPE Hybrid Quantum-HPC Platform",
+      "link": "https://thequantuminsider.com/2026/06/22/iqm-named-among-quantum-collaborators-in-hpes-new-hybrid-quantum-hpc-platform/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 22 Jun 2026 13:15:35 +0000",
+      "published_ts": 1782134135,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Hewlett Packard Enterprise has named IQM Quantum Computers among the companies collaborating on its hybrid classical-quantum computing platform,&#160;announced&#160;at HPE Discover Las Vegas. IQM, a global leader in full-stack superconducting quantum computers, is…"
+    },
     {
       "title": "Fixstars Amplify adds IonQ’s Quantum Computing Environment to its Standard Machines",
       "link": "https://thequantuminsider.com/2026/06/22/fixstars-amplify-integrates-ionq-quantum-simulator/",
@@ -82,44 +122,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; EPB has named Robert Long to serve as President of Strategic Initiatives. He will lead efforts to identify, develop and advance forward-looking initiatives that leverage EPB’s advanced energy, connectivity and quantum infrastructure to benefit local customers whil…"
     },
     {
-      "title": "Diraq Expands U.S. Presence with Palo Alto Office",
-      "link": "https://thequantuminsider.com/2026/06/19/diraq-expands-us-presence-with-palo-alto-office/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 19 Jun 2026 11:09:57 +0000",
-      "published_ts": 1781867397,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Diraq, the quantum-computing pioneer, today announced the expansion of its U.S. operations with a new office in Palo Alto, California. The office strengthens Diraq’s ability to scale its technology, partnerships, and team as it advances toward commercially viable,…"
-    },
-    {
       "title": "Five phases of localization physics observed in a single quantum system",
       "link": "https://phys.org/news/2026-06-phases-localization-physics-quantum.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 19 Jun 2026 07:00:12 EDT",
       "published_ts": 1781866812,
       "summary": "Physicists in China have observed five phases in localization physics within a single quantum system. Using an advanced photonic platform, the team, led by Yucheng Wang and Jingyun Fan at the Southern University of Science and Technology, Shenzhen, has demonstrated that localization physics is likel…"
-    },
-    {
-      "title": "Quantum Australia joins Women in STEMM Leadership Summit to Advance Measurable Allyship",
-      "link": "https://thequantuminsider.com/2026/06/19/quantum-australia-joins-women-in-stemm-leadership-summit-to-advance-measurable-allyship/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 19 Jun 2026 10:42:46 +0000",
-      "published_ts": 1781865766,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Australia, the national centre for quantum growth, has participated in the Women in STEMM Leadership Summit today, discussing how leaders can create measurable impact for women in science, technology, engineering, mathematics, and medicine (STEMM). The sum…"
-    },
-    {
-      "title": "Welinq and OVHCloud Partner on Networked Quantum Computing Architectures",
-      "link": "https://thequantuminsider.com/2026/06/19/welinq-and-ovhcloud-partner-on-networked-quantum-computing-architectures/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 19 Jun 2026 10:28:20 +0000",
-      "published_ts": 1781864900,
-      "summary": "Insider Brief PRESS RELEASE &#8212; European leader in the cloud and co-founding member of France Quantum, is participating in the fifth edition of the event. With more than 1,500 visitors and 60 speakers, France Quantum 2026 brings together European specialists in quantum computing for a day of con…"
-    },
-    {
-      "title": "Quantum Industry Canada Announces Leadership Transition and Appointment of Sean Lee as Acting CEO",
-      "link": "https://thequantuminsider.com/2026/06/19/quantum-industry-canada-announces-leadership-transition-and-appointment-of-sean-lee-as-acting-ceo/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 19 Jun 2026 10:20:37 +0000",
-      "published_ts": 1781864437,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Industry Canada (QIC)&#160;announced today that Lisa Lambert, the organization&#8217;s inaugural Chief Executive Officer (CEO), will conclude her tenure with QIC at the end of June to pursue a new career opportunity, and that&#160;Sean Lee&#160;of TRIUMF w…"
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
@@ -216,14 +224,6 @@
       "published": "Wed, 17 Jun 2026 09:40:01 EDT",
       "published_ts": 1781703601,
       "summary": "Physicists have long been drawn to the nonlinear Hall effect: a subtle variant of the classical Hall effect, in which an electric voltage appears perpendicular to a current flowing through a material. Unlike its classical counterpart, the nonlinear version can arise even without breaking time-revers…"
-    },
-    {
-      "title": "Quantum hyperdimensional computing can work 500 times faster than other methods",
-      "link": "https://phys.org/news/2026-06-quantum-hyperdimensional-faster-methods.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 16 Jun 2026 19:00:03 EDT",
-      "published_ts": 1781650803,
-      "summary": "Cleveland Clinic researchers are unlocking quantum computing's full potential through the creation of a new computing paradigm inspired by the human brain. Fabio Cumbo, Ph.D., research associate in the lab of Daniel Blankenberg, Ph.D., associate staff, Computational Life Sciences, is developing the…"
     },
     {
       "title": "How to create distinguishable states for quantum systems",
