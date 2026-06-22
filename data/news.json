@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1782146854,
+  "generated_ts": 1782160782,
   "items": [
+    {
+      "title": "Trump Administration Expected to Issue Executive Order on Protecting Quantum Research",
+      "link": "https://thequantuminsider.com/2026/06/22/trump-administration-expected-to-issue-executive-order-on-protecting-quantum-research/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 22 Jun 2026 19:30:12 +0000",
+      "published_ts": 1782156612,
+      "summary": "Insider Brief The Trump administration is expected to order U.S. intelligence and law enforcement agencies to better protect quantum research from foreign spying, a move that could tie one of the nation’s most important emerging technologies more closely to national security. A pending executive ord…"
+    },
+    {
+      "title": "Broken time-reversal symmetry phase in kagome metals may establish conditions for superconductivity",
+      "link": "https://phys.org/news/2026-06-broken-reversal-symmetry-phase-kagome.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 22 Jun 2026 13:40:10 EDT",
+      "published_ts": 1782150010,
+      "summary": "Physicists have long suspected that a peculiar quantum state lurks inside a class of materials known as kagome metals, but proving its existence has been elusive. Now, a team led by Yeongkwan Kim at the Korea Advanced Institute of Science and Technology has performed experiments on a kagome metal th…"
+    },
     {
       "title": "NTHU Researchers Develop World’s Brightest Room-Temperature Single-Photon Source",
       "link": "https://thequantuminsider.com/2026/06/22/nthu-researchers-develop-worlds-brightest-single-photon-source-for-quantum-technologies/",
@@ -114,14 +130,6 @@
       "summary": "Superfluids are intriguing states of matter in which particles behave like a giant collective wave, allowing them to flow without any friction. When this fluid flows past a fixed obstacle at a velocity below a specific threshold, it moves around it without slowing down or exerting any drag. Above th…"
     },
     {
-      "title": "EPB Announces Robert Long as President of Strategic Initiatives",
-      "link": "https://thequantuminsider.com/2026/06/19/epb-announces-robert-long-as-president-of-strategic-initiatives/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 19 Jun 2026 13:01:30 +0000",
-      "published_ts": 1781874090,
-      "summary": "Insider Brief PRESS RELEASE &#8212; EPB has named Robert Long to serve as President of Strategic Initiatives. He will lead efforts to identify, develop and advance forward-looking initiatives that leverage EPB’s advanced energy, connectivity and quantum infrastructure to benefit local customers whil…"
-    },
-    {
       "title": "Five phases of localization physics observed in a single quantum system",
       "link": "https://phys.org/news/2026-06-phases-localization-physics-quantum.html",
       "source": "Phys.org — Quantum Physics",
@@ -216,14 +224,6 @@
       "published": "Wed, 17 Jun 2026 11:00:07 EDT",
       "published_ts": 1781708407,
       "summary": "A prototype quantum sensor developed by researchers at Imperial has demonstrated for the first time that a key principle behind next-generation quantum detectors can work under realistic conditions."
-    },
-    {
-      "title": "Quantum Hall effect gains a new twist in graphene moiré systems",
-      "link": "https://phys.org/news/2026-06-quantum-hall-effect-gains-graphene.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 09:40:01 EDT",
-      "published_ts": 1781703601,
-      "summary": "Physicists have long been drawn to the nonlinear Hall effect: a subtle variant of the classical Hall effect, in which an electric voltage appears perpendicular to a current flowing through a material. Unlike its classical counterpart, the nonlinear version can arise even without breaking time-revers…"
     },
     {
       "title": "How to create distinguishable states for quantum systems",
