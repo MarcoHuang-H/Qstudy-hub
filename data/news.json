@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1782225596,
+  "generated_ts": 1782244524,
   "items": [
+    {
+      "title": "DOE Unveils Quantum Genesis Push to Accelerate Fault-Tolerant Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/06/23/doe-unveils-quantum-genesis-push-to-accelerate-fault-tolerant-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 17:57:14 +0000",
+      "published_ts": 1782237434,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of Energy (DOE) today announced the establishment of the ambitious new Quantum Genesis initiative to develop and deploy the world&#8217;s first fault-tolerant, scientifically relevant quantum computing capability for research and development by…"
+    },
+    {
+      "title": "Pathway to high-fidelity quantum computing identified",
+      "link": "https://phys.org/news/2026-06-pathway-high-fidelity-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 23 Jun 2026 13:20:01 EDT",
+      "published_ts": 1782235201,
+      "summary": "Researchers from the University of Sydney, working with IBM, have identified and quantified important factors limiting the performance of quantum computers and demonstrated ways to overcome their impact."
+    },
+    {
+      "title": "Qubic Raises $2.5 Million Seed Round for Quantum Computing Hardware",
+      "link": "https://thequantuminsider.com/2026/06/23/qubic-secures-oversubscribed-2-5-million-usd-seed-round/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 16:19:36 +0000",
+      "published_ts": 1782231576,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qubic,&#160;a quantum technology company developing&#160;low-noise&#160;cryogenic amplifiers&#160;solving one of the major bottlenecks for scaling&#160;for quantum computing and&#160;with promising&#160;applications&#160;in&#160;sensing&#160;and defence,&#160;toda…"
+    },
+    {
+      "title": "IQM Says New Quantum Codes Cut Logical Error Rates by Up to 1,000 Times",
+      "link": "https://thequantuminsider.com/2026/06/23/iqm-says-new-quantum-codes-cut-logical-error-rates-by-up-to-1000-times/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 14:34:47 +0000",
+      "published_ts": 1782225287,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers, the global leader in superconducting quantum computers, today announced a significant achievement in quantum error correction, using directional tile codes, marking a major step toward practical, large-scale fault-tolerant quantum computing.…"
+    },
+    {
+      "title": "Quantum Computing Inc. Completes NHanced Semiconductors Acquisition",
+      "link": "https://thequantuminsider.com/2026/06/23/quantum-computing-inc-completes-acquisition-of-nhanced-semiconductors/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 14:17:01 +0000",
+      "published_ts": 1782224221,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Computing Inc.&#160;(&#8220;QCi&#8221; or the &#8220;Company&#8221;) (Nasdaq:&#160;QUBT), an innovative, quantum optics and integrated photonics technology company, today announced the completion of acquiring NHanced Semiconductors, Inc. (&#8220;NHanced&#8…"
+    },
+    {
+      "title": "Q.ANT Runs Generative AI on Photonic Hardware",
+      "link": "https://thequantuminsider.com/2026/06/23/q-ant-runs-generative-ai-on-photonic-hardware/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 14:15:11 +0000",
+      "published_ts": 1782224111,
+      "summary": "Insider Brief PRESS RELEASE &#8212; &#160;Q.ANT, the pioneer in commercial photonic computing, today&#160;demonstrated&#160;the first complex, production-relevant AI workloads on its photonic hardware.&#160; Q.ANT successfully&#160;demonstrated&#160;a diffusion model and a recurrent neural network o…"
+    },
+    {
+      "title": "Symmatrics Launches Quantum-Secure VPN for Enterprise Networks",
+      "link": "https://thequantuminsider.com/2026/06/23/symmatrics-introduces-quantum-secure-vpn-to-eliminate-credential-based-attacks-and-future-proof-secure-access/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 14:07:39 +0000",
+      "published_ts": 1782223659,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Symmatrics, a quantum secure data protection platform, today announced its next-generation VPN providing secure remote access, hardened against today’s credential-based cyberattacks and emerging quantum threats.&#160; As organizations increasingly rely on distribu…"
+    },
     {
       "title": "Horizon edge states gain finite description in string theory calculation",
       "link": "https://phys.org/news/2026-06-horizon-edge-states-gain-finite.html",
@@ -42,60 +98,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Quandela today announced that it has experimentally validated a low-latency integration path between photonic quantum processors and NVIDIA ​AI​​ infrastructure, marking an important milestone toward bringing quantum processing units directly into high-performance…"
     },
     {
-      "title": "Aegiq Uses NVIDIA Ising AI for Photonic Quantum Computer Calibration",
-      "link": "https://thequantuminsider.com/2026/06/23/aegiq-photonic-quantum-computer-performs-ai-driven-calibration-using-nvidia-ising/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 11:26:47 +0000",
-      "published_ts": 1782214007,
-      "summary": "Insider Brief Quantum computers are inherently unstable systems, requiring frequent calibration to maintain optimal performance. Traditionally, this process relies on manual intervention, as traditional algorithmic approaches struggle to interpret complex data and balance competing figures of merit…"
-    },
-    {
-      "title": "Zapata Quantum Teams with NVIDIA to Apply Agentic AI to Accelerate Quantum Algorithm Development",
-      "link": "https://thequantuminsider.com/2026/06/23/zapata-quantum-teams-with-nvidia-to-apply-agentic-ai-to-accelerate-quantum-algorithm-development/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 11:19:01 +0000",
-      "published_ts": 1782213541,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Zapata Quantum (OTCQB: ZPTA) (“Zapata” or the “Company”) today announced it is applying agentic AI to accelerate quantum algorithm development by automating quantum resource estimation (“QRE”) workflows, in collaboration with NVIDIA. The effort initially targets a…"
-    },
-    {
-      "title": "NVIDIA CUDA-Q Comes to QiliSDK for Hybrid Quantum-Classical Computing",
-      "link": "https://thequantuminsider.com/2026/06/23/nvidia-cuda-q-comes-to-qilisdk-upgrade-brings-gpu-power-to-qilimanjaros-multimodal-quantum-stack/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 11:18:38 +0000",
-      "published_ts": 1782213518,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qilimanjaro Quantum Tech’s software development toolbox QiliSDK is now integrated with NVIDIA CUDA-Q – the platform for quantum-classical computing. This upgrade provides researchers with GPU acceleration for production-scale emulation of quantum workflows on clas…"
-    },
-    {
       "title": "Solid-state material turns visible light into high-energy UV at sunlight intensity, expanding solar energy potential",
       "link": "https://phys.org/news/2026-06-solid-state-material-visible-high.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 23 Jun 2026 05:00:05 EDT",
       "published_ts": 1782205205,
       "summary": "Two cups of warm water don't make one cup of boiling water. But in the quantum world, multiple low-energy photons can combine to produce a single, higher-energy photon."
-    },
-    {
-      "title": "The Quantum Industry Responds to Trump Administration’s New Executive Order",
-      "link": "https://thequantuminsider.com/2026/06/23/the-quantum-industry-responds-to-trump-administrations-new-executive-order/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 08:26:44 +0000",
-      "published_ts": 1782203204,
-      "summary": "Insider Brief The Trump administration’s new quantum executive order marks one of the most expansive federal efforts yet to move quantum technology from a research priority into a national strategy for economic competitiveness, scientific discovery and security. The order directs federal agencies to…"
-    },
-    {
-      "title": "Pathway to High-Fidelity Quantum Computing Identified in New Research",
-      "link": "https://thequantuminsider.com/2026/06/23/pathway-to-high-fidelity-quantum-computing-identified-in-new-research/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 07:59:02 +0000",
-      "published_ts": 1782201542,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers from the University of Sydney, working with IBM, have identified and quantified important factors limiting the performance of quantum computers and demonstrated ways to overcome their impact. The findings, which improve our understanding of how errors…"
-    },
-    {
-      "title": "Guest Post — Looking Ahead: ‘The Best Time to Prep for Quantum Was 20 Years Ago…’",
-      "link": "https://thequantuminsider.com/2026/06/23/guest-post-looking-ahead-the-best-time-to-prep-for-quantum-was-20-years-ago/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 07:47:17 +0000",
-      "published_ts": 1782200837,
-      "summary": "Guest Post by Matt Todd and Bryce Bailey Quantum computing has long been discussed as a distant technical ambition. However, recent developments suggest it is closer as a legal issue than we may think. In late 2024, Google announced its “Willow” chip and described a significant error-correction adva…"
     },
     {
       "title": "Broken time-reversal symmetry phase in kagome metals may establish conditions for superconductivity",
@@ -208,14 +216,6 @@
       "published": "Wed, 17 Jun 2026 18:20:01 EDT",
       "published_ts": 1781734801,
       "summary": "Scientists studying particle collisions at the Relativistic Heavy Ion Collider (RHIC) usually capture what happens when atomic nuclei smash into one another at nearly the speed of light. But even when the nuclei don't collide, interesting things can happen. In a new paper just published in Physical…"
-    },
-    {
-      "title": "Superconducting TES array X-ray spectrometer goes into operation at BESSY II",
-      "link": "https://phys.org/news/2026-06-superconducting-tes-array-ray-spectrometer.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 15:40:03 EDT",
-      "published_ts": 1781725203,
-      "summary": "Europe's first and only TES spectrometer at a synchrotron source is now in operation at BESSY II, developed within a collaboration between the HZB, the MPI-CEC (Mühlheim-an-der-Ruhr, Germany) and the NIST (Boulder, Colorado, U.S.). The photon detection efficiency of the new instrument exceeds that o…"
     },
     {
       "title": "Flexible cryogenic cables solve a challenge in quantum system development",
