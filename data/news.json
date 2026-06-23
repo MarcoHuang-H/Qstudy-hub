@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1782207088,
+  "generated_ts": 1782225596,
   "items": [
+    {
+      "title": "Horizon edge states gain finite description in string theory calculation",
+      "link": "https://phys.org/news/2026-06-horizon-edge-states-gain-finite.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 23 Jun 2026 08:20:01 EDT",
+      "published_ts": 1782217201,
+      "summary": "Modern physics theories highlight the key role of horizons—boundaries beyond which information cannot reach an observer—in a variety of cosmological and gravitational phenomena. Two renowned examples of these boundaries are event horizons in black holes and the cosmological horizon of the de Sitter…"
+    },
+    {
+      "title": "RIKEN Launches ROQUO Supercomputer for Quantum-HPC Hybrid Computing",
+      "link": "https://thequantuminsider.com/2026/06/23/riken-launches-roquo-quantum-hpc-supercomputer/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 12:04:42 +0000",
+      "published_ts": 1782216282,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Quantum-HPC Hybrid Platform Division (Director: Mitsuhisa Sato) of the RIKEN Center for Computational Science (hereafter &#8220;R-CCS&#8221;) has installed a new JHPC-quantum GPU supercomputer, &#8220;ROQUO&#8221;, at R-CCS in Kobe and has begun its operation,…"
+    },
+    {
+      "title": "BTQ Technologies Appoints Brandt Pasco as Post-Quantum Cryptography Advisor",
+      "link": "https://thequantuminsider.com/2026/06/23/btq-appoints-brandt-pasco-strategic-advisor/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 11:54:32 +0000",
+      "published_ts": 1782215672,
+      "summary": "Insider Brief PRESS RELEASE &#8212; BTQ Technologies Corp. (&#8220;BTQ&#8221; or the &#8220;Company&#8221;) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, is pleased to announce the appointment of Brandt Pasco as U.S. Strategic Adviso…"
+    },
+    {
+      "title": "Aegiq Uses NVIDIA cuQuantum to Develop Quantum-Ready CFD Methods",
+      "link": "https://thequantuminsider.com/2026/06/23/aegiq-brings-quantum-cfd-closer-than-you-think-using-nvidia-cuquantum/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 11:41:42 +0000",
+      "published_ts": 1782214902,
+      "summary": "Computational fluid dynamics has become one of the essential tools of modern engineering and science. It shapes the design of aircraft and jet engines, informs the aerodynamics of cars and ships, and underpins the numerical models used to forecast weather and understand climate. In each of these dom…"
+    },
+    {
+      "title": "Quandela Validates Low-Latency Photonic QPU Integration with NVIDIA NVQLink",
+      "link": "https://thequantuminsider.com/2026/06/23/quandela-validates-low-latency-photonic-qpu-integration-with-nvidia-accelerated-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 11:34:13 +0000",
+      "published_ts": 1782214453,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quandela today announced that it has experimentally validated a low-latency integration path between photonic quantum processors and NVIDIA ​AI​​ infrastructure, marking an important milestone toward bringing quantum processing units directly into high-performance…"
+    },
+    {
+      "title": "Aegiq Uses NVIDIA Ising AI for Photonic Quantum Computer Calibration",
+      "link": "https://thequantuminsider.com/2026/06/23/aegiq-photonic-quantum-computer-performs-ai-driven-calibration-using-nvidia-ising/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 11:26:47 +0000",
+      "published_ts": 1782214007,
+      "summary": "Insider Brief Quantum computers are inherently unstable systems, requiring frequent calibration to maintain optimal performance. Traditionally, this process relies on manual intervention, as traditional algorithmic approaches struggle to interpret complex data and balance competing figures of merit…"
+    },
+    {
+      "title": "Zapata Quantum Teams with NVIDIA to Apply Agentic AI to Accelerate Quantum Algorithm Development",
+      "link": "https://thequantuminsider.com/2026/06/23/zapata-quantum-teams-with-nvidia-to-apply-agentic-ai-to-accelerate-quantum-algorithm-development/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 11:19:01 +0000",
+      "published_ts": 1782213541,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Zapata Quantum (OTCQB: ZPTA) (“Zapata” or the “Company”) today announced it is applying agentic AI to accelerate quantum algorithm development by automating quantum resource estimation (“QRE”) workflows, in collaboration with NVIDIA. The effort initially targets a…"
+    },
+    {
+      "title": "NVIDIA CUDA-Q Comes to QiliSDK for Hybrid Quantum-Classical Computing",
+      "link": "https://thequantuminsider.com/2026/06/23/nvidia-cuda-q-comes-to-qilisdk-upgrade-brings-gpu-power-to-qilimanjaros-multimodal-quantum-stack/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 23 Jun 2026 11:18:38 +0000",
+      "published_ts": 1782213518,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qilimanjaro Quantum Tech’s software development toolbox QiliSDK is now integrated with NVIDIA CUDA-Q – the platform for quantum-classical computing. This upgrade provides researchers with GPU acceleration for production-scale emulation of quantum workflows on clas…"
+    },
     {
       "title": "Solid-state material turns visible light into high-energy UV at sunlight intensity, expanding solar energy potential",
       "link": "https://phys.org/news/2026-06-solid-state-material-visible-high.html",
@@ -34,22 +98,6 @@
       "summary": "Guest Post by Matt Todd and Bryce Bailey Quantum computing has long been discussed as a distant technical ambition. However, recent developments suggest it is closer as a legal issue than we may think. In late 2024, Google announced its “Willow” chip and described a significant error-correction adva…"
     },
     {
-      "title": "Trump Administration Executive Order Places Quantum at Center of Federal Technology Strategy",
-      "link": "https://thequantuminsider.com/2026/06/22/trump-administration-executive-order-places-quantum-at-center-of-federal-technology-strategy/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 22 Jun 2026 21:09:24 +0000",
-      "published_ts": 1782162564,
-      "summary": "Insider Brief As expected and reported earlier, President Donald Trump signed an executive order directing the federal government to accelerate quantum technology while expanding protections against foreign espionage, a move that puts the emerging field more firmly inside U.S. economic and national…"
-    },
-    {
-      "title": "Trump Administration Expected to Issue Executive Order on Protecting Quantum Research",
-      "link": "https://thequantuminsider.com/2026/06/22/trump-administration-expected-to-issue-executive-order-on-protecting-quantum-research/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 22 Jun 2026 19:30:12 +0000",
-      "published_ts": 1782156612,
-      "summary": "Insider Brief The Trump administration is expected to order U.S. intelligence and law enforcement agencies to better protect quantum research from foreign spying, a move that could tie one of the nation’s most important emerging technologies more closely to national security. A pending executive ord…"
-    },
-    {
       "title": "Broken time-reversal symmetry phase in kagome metals may establish conditions for superconductivity",
       "link": "https://phys.org/news/2026-06-broken-reversal-symmetry-phase-kagome.html",
       "source": "Phys.org — Quantum Physics",
@@ -58,52 +106,12 @@
       "summary": "Physicists have long suspected that a peculiar quantum state lurks inside a class of materials known as kagome metals, but proving its existence has been elusive. Now, a team led by Yeongkwan Kim at the Korea Advanced Institute of Science and Technology has performed experiments on a kagome metal th…"
     },
     {
-      "title": "NTHU Researchers Develop World’s Brightest Room-Temperature Single-Photon Source",
-      "link": "https://thequantuminsider.com/2026/06/22/nthu-researchers-develop-worlds-brightest-single-photon-source-for-quantum-technologies/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 22 Jun 2026 14:35:53 +0000",
-      "published_ts": 1782138953,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A research team led by Professor Hao-Wu Lin from the Department of Materials Science and Engineering at National Tsing Hua University (NTHU) has developed the world’s brightest room-temperature single-photon source, which uniquely combines ultrafast and non-blinki…"
-    },
-    {
-      "title": "Europe Expands Quantum-GPU Computing as NVIDIA Announces 35 New AI Supercomputers",
-      "link": "https://thequantuminsider.com/2026/06/22/europe-expands-quantum-gpu-computing-as-nvidia-announces-35-new-ai-supercomputers/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 22 Jun 2026 14:06:57 +0000",
-      "published_ts": 1782137217,
-      "summary": "Insider Brief NVIDIA said Europe is expanding its quantum-GPU computing infrastructure as part of a broader rollout of 35 new artificial intelligence supercomputers across the continent, a move aimed at strengthening the region&#8217;s capabilities in quantum research, AI development and scientific…"
-    },
-    {
       "title": "Investigating quantum and molecular plumbing in nanofluidics research",
       "link": "https://phys.org/news/2026-06-quantum-molecular-plumbing-nanofluidics.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 22 Jun 2026 10:00:01 EDT",
       "published_ts": 1782136801,
       "summary": "Our body contains an intricate system of tiny vessels through which blood, water and other molecules flow. When the size of the pipes shrinks to the nanoscale, where only a few molecules can fit side by side, the classical laws of physics governing the behavior of water are influenced by the atomic…"
-    },
-    {
-      "title": "Infleqtion Launches America’s Quantum Space Initiative to Accelerate the Future of Quantum-Enabled Space Infrastructure",
-      "link": "https://thequantuminsider.com/2026/06/22/infleqtion-launches-americas-quantum-space-initiative-to-accelerate-the-future-of-quantum-enabled-space-infrastructure/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 22 Jun 2026 13:45:43 +0000",
-      "published_ts": 1782135943,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ),&#160;a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today announced the launch of America&#8217;s Quantum Space Initiative, bringing together founding innovators including Voyager Technologies,…"
-    },
-    {
-      "title": "IQM Named as Quantum Partner in HPE Hybrid Quantum-HPC Platform",
-      "link": "https://thequantuminsider.com/2026/06/22/iqm-named-among-quantum-collaborators-in-hpes-new-hybrid-quantum-hpc-platform/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 22 Jun 2026 13:15:35 +0000",
-      "published_ts": 1782134135,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Hewlett Packard Enterprise has named IQM Quantum Computers among the companies collaborating on its hybrid classical-quantum computing platform,&#160;announced&#160;at HPE Discover Las Vegas. IQM, a global leader in full-stack superconducting quantum computers, is…"
-    },
-    {
-      "title": "Fixstars Amplify adds IonQ’s Quantum Computing Environment to its Standard Machines",
-      "link": "https://thequantuminsider.com/2026/06/22/fixstars-amplify-integrates-ionq-quantum-simulator/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 22 Jun 2026 10:37:55 +0000",
-      "published_ts": 1782124675,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Fixstars Amplify&#160;Corporation (President and CEO: Yoshiki Matsuda) is pleased to announce the addition of the IonQ quantum simulator, provided by IonQ, Inc. (hereinafter “IonQ”), as a standard machine for its optimization cloud service “Fixstars Amplify” (here…"
     },
     {
       "title": "Quantum mechanics theory may work without imaginary numbers, new analysis suggests",
@@ -216,14 +224,6 @@
       "published": "Wed, 17 Jun 2026 14:35:00 -0400",
       "published_ts": 1781721300,
       "summary": "A prototype wiring system for dilution refrigerators could advance the realization of practical quantum computers."
-    },
-    {
-      "title": "Reversible chirality switching in MoS₂ generates spin currents without magnets",
-      "link": "https://phys.org/news/2026-06-reversible-chirality-mos-generates-currents.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 12:40:05 EDT",
-      "published_ts": 1781714405,
-      "summary": "A newly developed method allows researchers to dynamically switch chirality—a particular lack of mirror symmetry—to generate spin currents in semiconductors, researchers from Science Tokyo report. Their approach relies on the reversible insertion and removal of small chiral molecules from the interl…"
     },
     {
       "title": "How to create distinguishable states for quantum systems",
