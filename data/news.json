@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1782310893,
+  "generated_ts": 1782330034,
   "items": [
+    {
+      "title": "A new quantum computer sets a high watermark for accuracy. Are we on the verge of a big breakthrough?",
+      "link": "https://phys.org/news/2026-06-quantum-high-watermark-accuracy-verge.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 24 Jun 2026 15:20:05 EDT",
+      "published_ts": 1782328805,
+      "summary": "In a laboratory in Broomfield, Colorado, 98 atoms are suspended in midair, held in place by electric fields and cooled to temperatures close to absolute zero."
+    },
+    {
+      "title": "Classiq and TEA TEK Group Launch Quantum Computing Hub in Naples",
+      "link": "https://thequantuminsider.com/2026/06/24/classiq-tea-tek-group-quantum-computing-hub-naples/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 24 Jun 2026 16:43:05 +0000",
+      "published_ts": 1782319385,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq, the leading quantum computing software company, and TEA TEK Group, an emerging force in Italy&#8217;s and Europe&#8217;s quantum landscape, today announced a landmark multi-million-euro strategic partnership to establish one of Europe&#8217;s most signifi…"
+    },
+    {
+      "title": "Geometric anti-spring works near absolute zero, suppressing vibrations below 0.185 hertz",
+      "link": "https://phys.org/news/2026-06-geometric-anti-absolute-suppressing-vibrations.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 24 Jun 2026 12:20:01 EDT",
+      "published_ts": 1782318001,
+      "summary": "Physicists and instrument makers in Leiden have succeeded in optimizing a spring that almost completely filters out vibrations at temperatures near absolute zero. This breakthrough opens the door to a new generation of highly sensitive experiments. The research is published in the journal Measuremen…"
+    },
+    {
+      "title": "Turning low-value diamond dust into high-performance quantum materials",
+      "link": "https://phys.org/news/2026-06-diamond-high-quantum-materials.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 24 Jun 2026 11:00:01 EDT",
+      "published_ts": 1782313201,
+      "summary": "Diamonds have long been coveted for their beauty. Their dazzling color and clarity make them perfect candidates for luxury jewelry. However, it's their other unique characteristics, including their hardness, thermal conductivity and chemical resistance, that make diamonds suitable for various applic…"
+    },
+    {
+      "title": "Quantum squeezing sidesteps the limits on mechanical transducers",
+      "link": "https://phys.org/news/2026-06-quantum-sidesteps-limits-mechanical-transducers.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 24 Jun 2026 10:40:02 EDT",
+      "published_ts": 1782312002,
+      "summary": "From detecting the ripples of colliding black holes to imaging individual chemical bonds, mechanical transducers have repeatedly transformed our understanding of the universe. So far, however, the sensitivity of these devices has been intrinsically limited by the laws of quantum mechanics itself."
+    },
+    {
+      "title": "NSF Selects Five New Teams for National Quantum Virtual Laboratory",
+      "link": "https://thequantuminsider.com/2026/06/24/nsf-national-quantum-virtual-laboratory-teams/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 24 Jun 2026 14:36:59 +0000",
+      "published_ts": 1782311819,
+      "summary": "Insider Brief Press release &#8211; The U.S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry fragile quantum information across long distances to sensors that can measure faint properties inside a single cell. The team…"
+    },
+    {
+      "title": "STMicroelectronics Launches ST54M Post-Quantum Security Chip for Mobile Devices",
+      "link": "https://thequantuminsider.com/2026/06/24/stmicroelectronics-unveils-worlds-first-st54m-secure-mobile-chip-with-post-quantum-cryptography-for-next-generation-connected-services/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 24 Jun 2026 14:23:51 +0000",
+      "published_ts": 1782311031,
+      "summary": "Insider Brief PRESS RELEASE &#8211; STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, has introduced the ST54M, a secure mobile chip designed to help smartphone and personal electronics manufacturers meet upcoming quantum…"
+    },
     {
       "title": "Scientists catch classical space-time crystals moving like Majorana quasiparticles",
       "link": "https://phys.org/news/2026-06-scientists-classical-space-crystals-majorana.html",
@@ -15,7 +71,7 @@
       "source": "The Quantum Insider",
       "published": "Wed, 24 Jun 2026 14:06:29 +0000",
       "published_ts": 1782309989,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Bull, a leader in advanced computing and AI, and Alice &#38; Bob, a leader in fault-tolerant quantum computing specialising in cat qubits, today announce the signature of a Memorandum of Understanding to extend their joint collaboration across research, product in…"
+      "summary": "Insider Brief PRESS RELEASE &#8212; Bull, a leader in advanced computing and AI, and&#160;Alice &#38; Bob, a leader in fault-tolerant quantum computing specialising in cat qubits, today announce the signature of a Memorandum of Understanding to extend their joint collaboration across research, produ…"
     },
     {
       "title": "Quantum Elements And USC Advance Noisy Quantum Circuit Simulation With New Quantum Monte Carlo Algorithm",
@@ -23,7 +79,7 @@
       "source": "The Quantum Insider",
       "published": "Wed, 24 Jun 2026 13:05:00 +0000",
       "published_ts": 1782306300,
-      "summary": "Insider Brief PRESS RELEASE &#8212;  Quantum Elements and USC today announced the publication of a new Quantum Monte Carlo algorithm in Physical Review Letters, providing a more efficient way to simulate noisy quantum circuits on classical computers and supporting the company’s development of digita…"
+      "summary": "Insider Brief PRESS RELEASE &#8212; &#160;Quantum Elements&#160;and USC today announced the publication of a new Quantum Monte Carlo algorithm in&#160;Physical Review Letters, providing a more efficient way to simulate noisy quantum circuits on classical computers and supporting the company’s develo…"
     },
     {
       "title": "SPRIND Launches Quantum Sensing Initiative to Back European Projects and Startups",
@@ -64,22 +120,6 @@
       "published": "Wed, 24 Jun 2026 11:15:40 +0000",
       "published_ts": 1782299740,
       "summary": "Insider Brief A new quantum mechanics-based form of AI may help researchers find medical predictors in data sets that are too small, noisy and complex for many standard machine-learning methods. The study, published in APL Quantum, reports a mathematical framework designed to analyze several layers…"
-    },
-    {
-      "title": "Eclipse Qrisp Integrates NVIDIA CUDA-Q for Quantum Software Development",
-      "link": "https://thequantuminsider.com/2026/06/24/eclipse-qrisp-integrates-nvidia-cuda-q/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 24 Jun 2026 11:09:40 +0000",
-      "published_ts": 1782299380,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Eclipse Qrisp developer community has integrated Eclipse Qrisp – the open-source framework for quantum programming initiated by Fraunhofer FOKUS – with the NVIDIA CUDA-Q platform for hybrid quantum-classical computing. The integration will be made publicly ava…"
-    },
-    {
-      "title": "Department of War Announces Initiative to Revolutionize ISR via Quantum Sensing",
-      "link": "https://thequantuminsider.com/2026/06/24/department-of-war-announces-initiative-to-revolutionize-isr-via-quantum-sensing/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 24 Jun 2026 09:02:15 +0000",
-      "published_ts": 1782291735,
-      "summary": "Insider Brief PRESS RELEASE &#8212; In support of President Trump&#8217;s recent Executive Order, Ushering In the Next Frontier of Quantum Innovation (E.O. 14411), the Department of War&#8217;s Defense Innovation Unit (DIU) announced the launch of a multi-phase initiative designed to transition matu…"
     },
     {
       "title": "Dimensionality Reduction of QAOA Parameter Space with Kernel PCA for Max-Cut",
@@ -218,14 +258,6 @@
       "summary": "In a recent study, Manish Garg, independent group leader at Max Planck Institute for Solid State Research (MPI FKF), succeeded in probing the local properties of bright and dark excitons in the organic superconductor copper naphthalocyanine (CuNc). The findings are published in the journal Nature Co…"
     },
     {
-      "title": "DOE Unveils Quantum Genesis Push to Accelerate Fault-Tolerant Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/06/23/doe-unveils-quantum-genesis-push-to-accelerate-fault-tolerant-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 17:57:14 +0000",
-      "published_ts": 1782237434,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of Energy (DOE) today announced the establishment of the ambitious new Quantum Genesis initiative to develop and deploy the world&#8217;s first fault-tolerant, scientifically relevant quantum computing capability for research and development by…"
-    },
-    {
       "title": "Pathway to high-fidelity quantum computing identified",
       "link": "https://phys.org/news/2026-06-pathway-high-fidelity-quantum.html",
       "source": "Phys.org — Quantum Physics",
@@ -290,44 +322,12 @@
       "summary": "In a paper published in Science Advances, researchers at the University of Technology Sydney (UTS) in collaboration with the University of Minnesota and Kyung Hee University have found a new way to control quantum light sources, which is one of the key elements needed before quantum technologies can…"
     },
     {
-      "title": "Tiny objects swimming in a superfluid of light move against the flow",
-      "link": "https://phys.org/news/2026-06-tiny-superfluid.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 19 Jun 2026 13:20:01 EDT",
-      "published_ts": 1781889601,
-      "summary": "Superfluids are intriguing states of matter in which particles behave like a giant collective wave, allowing them to flow without any friction. When this fluid flows past a fixed obstacle at a velocity below a specific threshold, it moves around it without slowing down or exerting any drag. Above th…"
-    },
-    {
-      "title": "Five phases of localization physics observed in a single quantum system",
-      "link": "https://phys.org/news/2026-06-phases-localization-physics-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 19 Jun 2026 07:00:12 EDT",
-      "published_ts": 1781866812,
-      "summary": "Physicists in China have observed five phases in localization physics within a single quantum system. Using an advanced photonic platform, the team, led by Yucheng Wang and Jingyun Fan at the Southern University of Science and Technology, Shenzhen, has demonstrated that localization physics is likel…"
-    },
-    {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
       "link": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Thu, 18 Jun 2026 23:43:09 EDT",
       "published_ts": 1781840589,
       "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with maj…"
-    },
-    {
-      "title": "Electrically tunable spin polarization in graphene opens path toward low-power spintronic devices",
-      "link": "https://phys.org/news/2026-06-electrically-tunable-polarization-graphene-path.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 18 Jun 2026 18:00:03 EDT",
-      "published_ts": 1781820003,
-      "summary": "Researchers at the National Graphene Institute, in collaboration with the National University of Singapore, have shown that the magnetic behavior of electrons in graphene can be precisely controlled using electricity, revealing unusually large spin signals in a carefully engineered graphene system."
-    },
-    {
-      "title": "Out-of-equilibrium cesium atoms reveal fractional Fermi seas, exposing new critical quantum phase",
-      "link": "https://phys.org/news/2026-06-equilibrium-cesium-atoms-reveal-fractional.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 18 Jun 2026 12:20:01 EDT",
-      "published_ts": 1781799601,
-      "summary": "In a new study published in Physical Review Letters, a team from the Nägerl group, together with theory collaborator Alvise Bastianello from the CNRS and the Université Paris-Dauphine, demonstrates that highly unusual quantum states known as \"fractional Fermi seas\" can be quantum engineered."
     },
     {
       "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
