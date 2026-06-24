@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1782244524,
+  "generated_ts": 1782269376,
   "items": [
+    {
+      "title": "Listening for quantum oscillations in the Kondo insulator ytterbium dodecaboride",
+      "link": "https://phys.org/news/2026-06-quantum-oscillations-kondo-insulator-ytterbium.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 23 Jun 2026 20:40:01 EDT",
+      "published_ts": 1782261601,
+      "summary": "Magnetic quantum oscillations have been unexpectedly observed in insulators, where freely moving charge carriers are not expected to exist. A joint study by researchers from Tokyo University of Science, The University of Tokyo and Kobe University investigated this puzzling behavior in the Kondo insu…"
+    },
+    {
+      "title": "Wave-packet interferometry captures elusive dark excitons in organic superconductor",
+      "link": "https://phys.org/news/2026-06-packet-interferometry-captures-elusive-dark.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 23 Jun 2026 18:10:03 EDT",
+      "published_ts": 1782252603,
+      "summary": "In a recent study, Manish Garg, independent group leader at Max Planck Institute for Solid State Research (MPI FKF), succeeded in probing the local properties of bright and dark excitons in the organic superconductor copper naphthalocyanine (CuNc). The findings are published in the journal Nature Co…"
+    },
     {
       "title": "DOE Unveils Quantum Genesis Push to Accelerate Fault-Tolerant Quantum Computing",
       "link": "https://thequantuminsider.com/2026/06/23/doe-unveils-quantum-genesis-push-to-accelerate-fault-tolerant-quantum-computing/",
@@ -23,7 +39,7 @@
       "source": "The Quantum Insider",
       "published": "Tue, 23 Jun 2026 16:19:36 +0000",
       "published_ts": 1782231576,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qubic,&#160;a quantum technology company developing&#160;low-noise&#160;cryogenic amplifiers&#160;solving one of the major bottlenecks for scaling&#160;for quantum computing and&#160;with promising&#160;applications&#160;in&#160;sensing&#160;and defence,&#160;toda…"
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qubic, a quantum technology company developing low-noise cryogenic amplifiers solving one of the major bottlenecks for scaling for quantum computing and with promising applications in sensing and defence, today announces it has closed an oversubscribed round of ve…"
     },
     {
       "title": "IQM Says New Quantum Codes Cut Logical Error Rates by Up to 1,000 Times",
@@ -200,22 +216,6 @@
       "published": "Wed, 17 Jun 2026 20:00:01 EDT",
       "published_ts": 1781740801,
       "summary": "By harnessing the unique properties of quantum mechanics, scientists and engineers worldwide seek to enable systems with extraordinary capabilities. Many of them are working on the highly anticipated development of quantum computers capable of completing complex calculations at unprecedented speeds.…"
-    },
-    {
-      "title": "Helios quantum computer tops 99.9% fidelity rates for one- and two-qubit operations",
-      "link": "https://phys.org/news/2026-06-helios-quantum-tops-fidelity-qubit.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 18:40:03 EDT",
-      "published_ts": 1781736003,
-      "summary": "A public-private partnership in the Mountain West announced new results today that mark steady progress toward the Department of Energy's goal of fault-tolerant quantum computing, systems large and reliable enough to solve complex problems."
-    },
-    {
-      "title": "Flipped quantum interference unlocks clearer gluon maps from near-miss nuclear encounters",
-      "link": "https://phys.org/news/2026-06-flipped-quantum-clearer-gluon-nuclear.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 18:20:01 EDT",
-      "published_ts": 1781734801,
-      "summary": "Scientists studying particle collisions at the Relativistic Heavy Ion Collider (RHIC) usually capture what happens when atomic nuclei smash into one another at nearly the speed of light. But even when the nuclei don't collide, interesting things can happen. In a new paper just published in Physical…"
     },
     {
       "title": "Flexible cryogenic cables solve a challenge in quantum system development",
