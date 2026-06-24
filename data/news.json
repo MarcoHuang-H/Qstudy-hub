@@ -1,6 +1,134 @@
 {
-  "generated_ts": 1782269376,
+  "generated_ts": 1782292875,
   "items": [
+    {
+      "title": "Department of War Announces Initiative to Revolutionize ISR via Quantum Sensing",
+      "link": "https://thequantuminsider.com/2026/06/24/department-of-war-announces-initiative-to-revolutionize-isr-via-quantum-sensing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 24 Jun 2026 09:02:15 +0000",
+      "published_ts": 1782291735,
+      "summary": "Insider Brief PRESS RELEASE &#8212; In support of President Trump&#8217;s recent Executive Order, Ushering In the Next Frontier of Quantum Innovation (E.O. 14411), the Department of War&#8217;s Defense Innovation Unit (DIU) announced the launch of a multi-phase initiative designed to transition matu…"
+    },
+    {
+      "title": "Dimensionality Reduction of QAOA Parameter Space with Kernel PCA for Max-Cut",
+      "link": "https://arxiv.org/abs/2606.23718",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23718v1 Announce Type: new  Abstract: The Quantum Approximate Optimization Algorithm (QAOA) is a leading variational algorithm for combinatorial optimization on near term quantum devices. As circuit depth increases, the number of optimization parameters grows, making the search landscape…"
+    },
+    {
+      "title": "A Hybrid Quantum-Classical Approach for Melt Pool Prediction in Laser Powder Bed Fusion",
+      "link": "https://arxiv.org/abs/2606.23719",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23719v1 Announce Type: new  Abstract: Laser powder bed fusion (LPBF) is a promising additive manufacturing technique that suffers from quality assurance concerns. Predicting melt pools from process parameters is crucial for assessing quality prior to manufacturing but remains a difficult…"
+    },
+    {
+      "title": "Quantum-enhanced estimation of stimulated Raman optical activity",
+      "link": "https://arxiv.org/abs/2606.23722",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23722v1 Announce Type: new  Abstract: In recent times there has been growing interest in Raman optical activity (ROA) for its label free detection of absolute configuration, conformation, and stereochemical structure in chiral biosamples and drug molecules. Since ROA signals are generally…"
+    },
+    {
+      "title": "Ultra-Low-Rate Information Reconciliation: Repetition Coding or Dedicated Codes?",
+      "link": "https://arxiv.org/abs/2606.23726",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23726v1 Announce Type: new  Abstract: We compare repetition-based ultra-low-rate information reconciliation with dedicated ultra-low-rate codes for CV-QKD. Repetition coding offers a favorable performance-complexity trade-off, incurring only a moderate error-rate penalty while reducing de…"
+    },
+    {
+      "title": "Certifying Quantum Optimization and Circuit Cutting by Using Quantum-Classical Moment Duality",
+      "link": "https://arxiv.org/abs/2606.23727",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23727v1 Announce Type: new  Abstract: We establish a direct quantum-classical duality based on the degree-$2$ Sum-of-Squares (SoS) semidefinite programming cone: the matrix of two-qubit Pauli-$Z$ correlation functions obtained from \\emph{any} quantum state $\\rho$ is automatically a feasib…"
+    },
+    {
+      "title": "Challenges in Barren Plateau Mitigation with Dynamic Parameterized Quantum Circuits",
+      "link": "https://arxiv.org/abs/2606.23751",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23751v1 Announce Type: new  Abstract: Variational quantum algorithms (VQAs) are a promising paradigm for quantum advantage, yet their trainability is severely hampered by barren plateaus (BPs). Several works have proposed using dynamic parameterized quantum circuits (DPQCs) which interspe…"
+    },
+    {
+      "title": "Connecting Quantum Tomography and Quantum Retrodiction",
+      "link": "https://arxiv.org/abs/2606.23777",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23777v1 Announce Type: new  Abstract: Quantum tomography and quantum retrodiction are traditionally viewed as separate inference tasks: tomography reconstructs quantum states from measurement data, whereas retrodiction infers past quantum states from observed outcomes. We show that the tw…"
+    },
+    {
+      "title": "A no-go theorem for privacy in distributed sensing using Gaussian states",
+      "link": "https://arxiv.org/abs/2606.23796",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23796v1 Announce Type: new  Abstract: In the discrete variable setting, entangled resource states allow a set of parties to learn a global function of a set of spatially separated systems, whilst keeping the local parameters of those systems completely private. In the continuous variable…"
+    },
+    {
+      "title": "Unitary Designs from Doped Matchgate Circuits",
+      "link": "https://arxiv.org/abs/2606.23800",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23800v1 Announce Type: new  Abstract: Matchgate circuits realize free-fermion dynamics: they are efficiently classically simulable, yet cannot on their own generate the generic randomness required for universal computation or unitary design formation. We study a controlled route beyond th…"
+    },
+    {
+      "title": "Infinite-Level Hierarchy of Solvable Quantum Circuits",
+      "link": "https://arxiv.org/abs/2606.23803",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23803v1 Announce Type: new  Abstract: Dual-unitary circuits have emerged as a paradigm of exactly solvable yet non-integrable quantum dynamics. Recently, a generalization of dual unitarity attempting to extend the phenomenology of exactly solvable circuits has been introduced through a hi…"
+    },
+    {
+      "title": "Efficient Graph State Purification with Factorized Graph-Preserving Operations across Local Clifford Orbits",
+      "link": "https://arxiv.org/abs/2606.23809",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23809v1 Announce Type: new  Abstract: Graph states form a broad class of multipartite entangled states underlying measurement-based quantum computation, quantum networks, and stabilizer codes. However, systematic entanglement distillation for arbitrary graph states remains challenging bec…"
+    },
+    {
+      "title": "Revealing high-dimensional entanglement through symmetry",
+      "link": "https://arxiv.org/abs/2606.23817",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23817v1 Announce Type: new  Abstract: Photons encoded in discrete time bins can be routinely prepared in temporal superposition states, enabling high-dimensional entanglement and enhanced quantum communication rates. However, characterizing this high-dimensional entanglement presents sign…"
+    },
+    {
+      "title": "Wavelet Matrix Product States for Quantum Fields",
+      "link": "https://arxiv.org/abs/2606.23823",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23823v1 Announce Type: new  Abstract: We introduce a variational method to solve continuum quantum models with discrete tensor network techniques. The method leverages wavelet matrix product states (wMPS): matrix product states built on top of sufficiently regular ($N\\geq 6$) Daubechies s…"
+    },
+    {
+      "title": "Mode-selective nonlinear interference for high-brightness and high-purity fiber-coupled SPDC sources",
+      "link": "https://arxiv.org/abs/2606.23836",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23836v1 Announce Type: new  Abstract: Single-mode-fiber-coupled spontaneous parametric down-conversion (SPDC) sources are a key resource for photonic quantum technologies, but in single-crystal geometries brightness, heralding efficiency, and spectral purity remain constrained by intrinsi…"
+    },
+    {
+      "title": "When does dissipation help neural surrogates learn open quantum dynamics?",
+      "link": "https://arxiv.org/abs/2606.23894",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 24 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782273600,
+      "summary": "arXiv:2606.23894v1 Announce Type: new  Abstract: Dissipation is usually viewed as an obstacle to predicting quantum dynamics, yet it can also contract trajectories toward steady states and thereby suppress accumulated prediction errors, leaving it unclear whether dissipation ultimately helps or hind…"
+    },
     {
       "title": "Listening for quantum oscillations in the Kondo insulator ytterbium dodecaboride",
       "link": "https://phys.org/news/2026-06-quantum-oscillations-kondo-insulator-ytterbium.html",
@@ -104,14 +232,6 @@
       "published": "Tue, 23 Jun 2026 11:41:42 +0000",
       "published_ts": 1782214902,
       "summary": "Computational fluid dynamics has become one of the essential tools of modern engineering and science. It shapes the design of aircraft and jet engines, informs the aerodynamics of cars and ships, and underpins the numerical models used to forecast weather and understand climate. In each of these dom…"
-    },
-    {
-      "title": "Quandela Validates Low-Latency Photonic QPU Integration with NVIDIA NVQLink",
-      "link": "https://thequantuminsider.com/2026/06/23/quandela-validates-low-latency-photonic-qpu-integration-with-nvidia-accelerated-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 11:34:13 +0000",
-      "published_ts": 1782214453,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quandela today announced that it has experimentally validated a low-latency integration path between photonic quantum processors and NVIDIA ​AI​​ infrastructure, marking an important milestone toward bringing quantum processing units directly into high-performance…"
     },
     {
       "title": "Solid-state material turns visible light into high-energy UV at sunlight intensity, expanding solar energy potential",
