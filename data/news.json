@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1782292875,
+  "generated_ts": 1782310893,
   "items": [
+    {
+      "title": "Scientists catch classical space-time crystals moving like Majorana quasiparticles",
+      "link": "https://phys.org/news/2026-06-scientists-classical-space-crystals-majorana.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 24 Jun 2026 10:07:24 EDT",
+      "published_ts": 1782310044,
+      "summary": "A research team from Hiroshima University, the University of Colorado, and other collaborators have demonstrated that space-time crystals—exotic structures that, under external drive, loop endlessly through both space and time—can be created using everyday liquid-crystal materials."
+    },
+    {
+      "title": "Bull and Alice & Bob Partner up to Bring Quantum Computers into HPC",
+      "link": "https://thequantuminsider.com/2026/06/24/bull-and-alice-and-bob-partner-up-to-bring-quantum-computers-into-hpc/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 24 Jun 2026 14:06:29 +0000",
+      "published_ts": 1782309989,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Bull, a leader in advanced computing and AI, and Alice &#38; Bob, a leader in fault-tolerant quantum computing specialising in cat qubits, today announce the signature of a Memorandum of Understanding to extend their joint collaboration across research, product in…"
+    },
+    {
+      "title": "Quantum Elements And USC Advance Noisy Quantum Circuit Simulation With New Quantum Monte Carlo Algorithm",
+      "link": "https://thequantuminsider.com/2026/06/24/quantum-elements-and-usc-advance-noisy-quantum-circuit-simulation-with-new-quantum-monte-carlo-algorithm/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 24 Jun 2026 13:05:00 +0000",
+      "published_ts": 1782306300,
+      "summary": "Insider Brief PRESS RELEASE &#8212;  Quantum Elements and USC today announced the publication of a new Quantum Monte Carlo algorithm in Physical Review Letters, providing a more efficient way to simulate noisy quantum circuits on classical computers and supporting the company’s development of digita…"
+    },
+    {
+      "title": "SPRIND Launches Quantum Sensing Initiative to Back European Projects and Startups",
+      "link": "https://thequantuminsider.com/2026/06/24/sprind-launches-quantum-sensing-initiative-to-back-european-projects-and-startups/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 24 Jun 2026 11:48:22 +0000",
+      "published_ts": 1782301702,
+      "summary": "Insider Brief SPRIND, the German Federal Agency for Breakthrough Innovation, has launched a Quantum Sensing Initiative to identify, fund and accelerate quantum sensing projects and startups in Germany and Europe. The initiative is designed to help move lab-tested quantum sensing technologies toward…"
+    },
+    {
+      "title": "QuantWare and Maybell Partner to Maximize Compute-Per-Watt Performance of VIO-40K systems",
+      "link": "https://thequantuminsider.com/2026/06/24/quantware-and-maybell-partner-to-maximize-compute-per-watt-performance-of-vio-40k-systems/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 24 Jun 2026 11:47:37 +0000",
+      "published_ts": 1782301657,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuantWare, the industrial quantum processor company, and Maybell Quantum, today announced a partnership to ensure Maybell’s ColdCloud cooling infrastructure is compatible with and commercially available for Quantware’s VIO-40K processors. By co-designing their res…"
+    },
+    {
+      "title": "Classiq and Hatch Advance Quantum Chemistry with AWS and Amazon Braket",
+      "link": "https://thequantuminsider.com/2026/06/24/classiq-and-hatch-advance-quantum-chemistry-in-singapore-running-on-aws/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 24 Jun 2026 11:39:17 +0000",
+      "published_ts": 1782301157,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq and Hatch today announced the completion of a quantum-classical computational chemistry proof-of-concept (PoC), executed via Amazon Web Services (AWS) and Braket, that demonstrated a workflow for estimating molecular binding energy, a key step in understan…"
+    },
+    {
+      "title": "FirstQFM Reports Quantum Forecasting Results Using NVIDIA CUDA-Q",
+      "link": "https://thequantuminsider.com/2026/06/24/firstqfm-outperforms-leading-classical-forecasting-models-with-quantum-powered-system-at-isc-2026-built-with-nvidia-cuda-q/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 24 Jun 2026 11:24:20 +0000",
+      "published_ts": 1782300260,
+      "summary": "Insider Brief PRESS RELEASE &#8212; FirstQFM, a pioneer in machine learning foundation models for quantum computing, announces a significant milestone in the commercial application of quantum computing today at the ISC High Performance conference. Built on NVIDIA accelerated computing, FirstQFM&#821…"
+    },
+    {
+      "title": "Quantum-Inspired AI Finds Cancer Signals in Small, Noisy Data Sets",
+      "link": "https://thequantuminsider.com/2026/06/24/quantum-inspired-ai-finds-cancer-signals-in-small-noisy-data-sets/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 24 Jun 2026 11:15:40 +0000",
+      "published_ts": 1782299740,
+      "summary": "Insider Brief A new quantum mechanics-based form of AI may help researchers find medical predictors in data sets that are too small, noisy and complex for many standard machine-learning methods. The study, published in APL Quantum, reports a mathematical framework designed to analyze several layers…"
+    },
+    {
+      "title": "Eclipse Qrisp Integrates NVIDIA CUDA-Q for Quantum Software Development",
+      "link": "https://thequantuminsider.com/2026/06/24/eclipse-qrisp-integrates-nvidia-cuda-q/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 24 Jun 2026 11:09:40 +0000",
+      "published_ts": 1782299380,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Eclipse Qrisp developer community has integrated Eclipse Qrisp – the open-source framework for quantum programming initiated by Fraunhofer FOKUS – with the NVIDIA CUDA-Q platform for hybrid quantum-classical computing. The integration will be made publicly ava…"
+    },
     {
       "title": "Department of War Announces Initiative to Revolutionize ISR via Quantum Sensing",
       "link": "https://thequantuminsider.com/2026/06/24/department-of-war-announces-initiative-to-revolutionize-isr-via-quantum-sensing/",
@@ -162,76 +234,12 @@
       "summary": "Researchers from the University of Sydney, working with IBM, have identified and quantified important factors limiting the performance of quantum computers and demonstrated ways to overcome their impact."
     },
     {
-      "title": "Qubic Raises $2.5 Million Seed Round for Quantum Computing Hardware",
-      "link": "https://thequantuminsider.com/2026/06/23/qubic-secures-oversubscribed-2-5-million-usd-seed-round/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 16:19:36 +0000",
-      "published_ts": 1782231576,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qubic, a quantum technology company developing low-noise cryogenic amplifiers solving one of the major bottlenecks for scaling for quantum computing and with promising applications in sensing and defence, today announces it has closed an oversubscribed round of ve…"
-    },
-    {
-      "title": "IQM Says New Quantum Codes Cut Logical Error Rates by Up to 1,000 Times",
-      "link": "https://thequantuminsider.com/2026/06/23/iqm-says-new-quantum-codes-cut-logical-error-rates-by-up-to-1000-times/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 14:34:47 +0000",
-      "published_ts": 1782225287,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers, the global leader in superconducting quantum computers, today announced a significant achievement in quantum error correction, using directional tile codes, marking a major step toward practical, large-scale fault-tolerant quantum computing.…"
-    },
-    {
-      "title": "Quantum Computing Inc. Completes NHanced Semiconductors Acquisition",
-      "link": "https://thequantuminsider.com/2026/06/23/quantum-computing-inc-completes-acquisition-of-nhanced-semiconductors/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 14:17:01 +0000",
-      "published_ts": 1782224221,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Computing Inc.&#160;(&#8220;QCi&#8221; or the &#8220;Company&#8221;) (Nasdaq:&#160;QUBT), an innovative, quantum optics and integrated photonics technology company, today announced the completion of acquiring NHanced Semiconductors, Inc. (&#8220;NHanced&#8…"
-    },
-    {
-      "title": "Q.ANT Runs Generative AI on Photonic Hardware",
-      "link": "https://thequantuminsider.com/2026/06/23/q-ant-runs-generative-ai-on-photonic-hardware/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 14:15:11 +0000",
-      "published_ts": 1782224111,
-      "summary": "Insider Brief PRESS RELEASE &#8212; &#160;Q.ANT, the pioneer in commercial photonic computing, today&#160;demonstrated&#160;the first complex, production-relevant AI workloads on its photonic hardware.&#160; Q.ANT successfully&#160;demonstrated&#160;a diffusion model and a recurrent neural network o…"
-    },
-    {
-      "title": "Symmatrics Launches Quantum-Secure VPN for Enterprise Networks",
-      "link": "https://thequantuminsider.com/2026/06/23/symmatrics-introduces-quantum-secure-vpn-to-eliminate-credential-based-attacks-and-future-proof-secure-access/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 14:07:39 +0000",
-      "published_ts": 1782223659,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Symmatrics, a quantum secure data protection platform, today announced its next-generation VPN providing secure remote access, hardened against today’s credential-based cyberattacks and emerging quantum threats.&#160; As organizations increasingly rely on distribu…"
-    },
-    {
       "title": "Horizon edge states gain finite description in string theory calculation",
       "link": "https://phys.org/news/2026-06-horizon-edge-states-gain-finite.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 23 Jun 2026 08:20:01 EDT",
       "published_ts": 1782217201,
       "summary": "Modern physics theories highlight the key role of horizons—boundaries beyond which information cannot reach an observer—in a variety of cosmological and gravitational phenomena. Two renowned examples of these boundaries are event horizons in black holes and the cosmological horizon of the de Sitter…"
-    },
-    {
-      "title": "RIKEN Launches ROQUO Supercomputer for Quantum-HPC Hybrid Computing",
-      "link": "https://thequantuminsider.com/2026/06/23/riken-launches-roquo-quantum-hpc-supercomputer/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 12:04:42 +0000",
-      "published_ts": 1782216282,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Quantum-HPC Hybrid Platform Division (Director: Mitsuhisa Sato) of the RIKEN Center for Computational Science (hereafter &#8220;R-CCS&#8221;) has installed a new JHPC-quantum GPU supercomputer, &#8220;ROQUO&#8221;, at R-CCS in Kobe and has begun its operation,…"
-    },
-    {
-      "title": "BTQ Technologies Appoints Brandt Pasco as Post-Quantum Cryptography Advisor",
-      "link": "https://thequantuminsider.com/2026/06/23/btq-appoints-brandt-pasco-strategic-advisor/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 11:54:32 +0000",
-      "published_ts": 1782215672,
-      "summary": "Insider Brief PRESS RELEASE &#8212; BTQ Technologies Corp. (&#8220;BTQ&#8221; or the &#8220;Company&#8221;) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, is pleased to announce the appointment of Brandt Pasco as U.S. Strategic Adviso…"
-    },
-    {
-      "title": "Aegiq Uses NVIDIA cuQuantum to Develop Quantum-Ready CFD Methods",
-      "link": "https://thequantuminsider.com/2026/06/23/aegiq-brings-quantum-cfd-closer-than-you-think-using-nvidia-cuquantum/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 23 Jun 2026 11:41:42 +0000",
-      "published_ts": 1782214902,
-      "summary": "Computational fluid dynamics has become one of the essential tools of modern engineering and science. It shapes the design of aircraft and jet engines, informs the aerodynamics of cars and ships, and underpins the numerical models used to forecast weather and understand climate. In each of these dom…"
     },
     {
       "title": "Solid-state material turns visible light into high-energy UV at sunlight intensity, expanding solar energy potential",
@@ -328,14 +336,6 @@
       "published": "Thu, 18 Jun 2026 00:00:00 -0400",
       "published_ts": 1781755200,
       "summary": "Leaders, faculty across MIT discuss fostering innovation and talent in Greater Boston in special series of articles published alongside the outlet's annual list of 'Tech Power Players'"
-    },
-    {
-      "title": "Flexible cryogenic cables for dilution refrigerators could pave path to practical quantum computers",
-      "link": "https://phys.org/news/2026-06-flexible-cryogenic-cables-dilution-refrigerators.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 17 Jun 2026 20:00:01 EDT",
-      "published_ts": 1781740801,
-      "summary": "By harnessing the unique properties of quantum mechanics, scientists and engineers worldwide seek to enable systems with extraordinary capabilities. Many of them are working on the highly anticipated development of quantum computers capable of completing complex calculations at unprecedented speeds.…"
     },
     {
       "title": "Flexible cryogenic cables solve a challenge in quantum system development",
