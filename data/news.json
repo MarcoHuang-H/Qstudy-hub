@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1782377671,
+  "generated_ts": 1782397317,
   "items": [
+    {
+      "title": "A thermodynamic approach to gravity could explain cosmic acceleration without dark energy",
+      "link": "https://phys.org/news/2026-06-thermodynamic-approach-gravity-cosmic-dark.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 25 Jun 2026 08:20:01 EDT",
+      "published_ts": 1782390001,
+      "summary": "Gravity, the force that attracts objects toward each other, is currently framed by Albert Einstein's theory of general relativity. This framework describes gravity as the curvature of spacetime, the invisible four-dimensional fabric of the universe."
+    },
+    {
+      "title": "Lockheed Martin Sees GPS And Quantum Navigation Working Together",
+      "link": "https://thequantuminsider.com/2026/06/25/lockheed-martin-sees-gps-and-quantum-navigation-working-together/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 25 Jun 2026 11:40:41 +0000",
+      "published_ts": 1782387641,
+      "summary": "Insider Brief Lockheed Martin is positioning quantum navigation as a backup and companion to GPS, aiming to give military users more precise location data when satellite signals are blocked, jammed or spoofed. The company said in a news story that the future of positioning, navigation and timing, or…"
+    },
+    {
+      "title": "WISeKey and SEALSQ Plan Nasdaq Listing for Quantisimo Through GigCapital8",
+      "link": "https://thequantuminsider.com/2026/06/25/wisekey-and-sealsq-establish-quantisimo-corp-as-a-special-purpose-vehicle-and-execute-letter-of-intent-with-gigcapital8-corp/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 25 Jun 2026 11:10:06 +0000",
+      "published_ts": 1782385806,
+      "summary": "Insider Brief Press release &#8211; WISeKey International Holding Ltd. (“Wisekey”) (SIX: WIHN; Nasdaq: WKEY), a global leader in cybersecurity and trusted digital ecosystems, and its subsidiary SEALSQ Corp. (Nasdaq: LAES), a leading developer of semiconductors, PKI, and post-quantum technologies, to…"
+    },
+    {
+      "title": "Quantum waves reveal one-sided motion marking elusive critical states",
+      "link": "https://phys.org/news/2026-06-quantum-reveal-sided-motion-elusive.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 25 Jun 2026 06:40:01 EDT",
+      "published_ts": 1782384001,
+      "summary": "Sound waves, light waves and other types of waves, generally spread freely through space and over time. In 1958, physicist Philip W. Anderson first described a phenomenon via which irregularities or other sources of disorder in materials would prevent waves from propagating freely, which is now know…"
+    },
+    {
+      "title": "AQSolotl and QuantrolOx Partner to Automate Quantum System Calibration",
+      "link": "https://thequantuminsider.com/2026/06/25/aqsolotl-and-quantrolox-partner-to-automate-quantum-control-targeting-scalable-production-ready-systems/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 25 Jun 2026 09:38:25 +0000",
+      "published_ts": 1782380305,
+      "summary": "Insider Brief Press release &#8211; AQSolotl and QuantrolOx today announced a  strategic partnership to integrate quantum control hardware and automated machine learning  software, in a move aimed at accelerating the shift from experimental quantum systems to  scalable, production-ready infrastructu…"
+    },
+    {
+      "title": "Economist Columnists Say U.S. Quantum Investments Show Promise — But Need Clearer Rules",
+      "link": "https://thequantuminsider.com/2026/06/25/economist-columnists-say-u-s-quantum-investments-show-promise-but-need-clearer-rules/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 25 Jun 2026 08:22:00 +0000",
+      "published_ts": 1782375720,
+      "summary": "Insider Brief An opinion piece in The Economist by argues that quantum computing may be one of the clearest cases for direct federal intervention in an emerging industry. At the same time, it warns that the Trump administration’s broader embrace of equity stakes and industrial investment still lacks…"
+    },
     {
       "title": "The Conversation: A New Quantum Computer Sets a High Watermark For Accuracy – Are We on The Verge of a Big Breakthrough?",
       "link": "https://thequantuminsider.com/2026/06/25/the-conversation-a-new-quantum-computer-sets-a-high-watermark-for-accuracy-are-we-on-the-verge-of-a-big-breakthrough/",
@@ -210,38 +258,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; &#160;Quantum Elements&#160;and USC today announced the publication of a new Quantum Monte Carlo algorithm in&#160;Physical Review Letters, providing a more efficient way to simulate noisy quantum circuits on classical computers and supporting the company’s develo…"
     },
     {
-      "title": "SPRIND Launches Quantum Sensing Initiative to Back European Projects and Startups",
-      "link": "https://thequantuminsider.com/2026/06/24/sprind-launches-quantum-sensing-initiative-to-back-european-projects-and-startups/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 24 Jun 2026 11:48:22 +0000",
-      "published_ts": 1782301702,
-      "summary": "Insider Brief SPRIND, the German Federal Agency for Breakthrough Innovation, has launched a Quantum Sensing Initiative to identify, fund and accelerate quantum sensing projects and startups in Germany and Europe. The initiative is designed to help move lab-tested quantum sensing technologies toward…"
-    },
-    {
-      "title": "QuantWare and Maybell Partner to Maximize Compute-Per-Watt Performance of VIO-40K systems",
-      "link": "https://thequantuminsider.com/2026/06/24/quantware-and-maybell-partner-to-maximize-compute-per-watt-performance-of-vio-40k-systems/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 24 Jun 2026 11:47:37 +0000",
-      "published_ts": 1782301657,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuantWare, the industrial quantum processor company, and Maybell Quantum, today announced a partnership to ensure Maybell’s ColdCloud cooling infrastructure is compatible with and commercially available for Quantware’s VIO-40K processors. By co-designing their res…"
-    },
-    {
-      "title": "Classiq and Hatch Advance Quantum Chemistry with AWS and Amazon Braket",
-      "link": "https://thequantuminsider.com/2026/06/24/classiq-and-hatch-advance-quantum-chemistry-in-singapore-running-on-aws/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 24 Jun 2026 11:39:17 +0000",
-      "published_ts": 1782301157,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq and Hatch today announced the completion of a quantum-classical computational chemistry proof-of-concept (PoC), executed via Amazon Web Services (AWS) and Braket, that demonstrated a workflow for estimating molecular binding energy, a key step in understan…"
-    },
-    {
-      "title": "FirstQFM Reports Quantum Forecasting Results Using NVIDIA CUDA-Q",
-      "link": "https://thequantuminsider.com/2026/06/24/firstqfm-outperforms-leading-classical-forecasting-models-with-quantum-powered-system-at-isc-2026-built-with-nvidia-cuda-q/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 24 Jun 2026 11:24:20 +0000",
-      "published_ts": 1782300260,
-      "summary": "Insider Brief PRESS RELEASE &#8212; FirstQFM, a pioneer in machine learning foundation models for quantum computing, announces a significant milestone in the commercial application of quantum computing today at the ISC High Performance conference. Built on NVIDIA accelerated computing, FirstQFM&#821…"
-    },
-    {
       "title": "Listening for quantum oscillations in the Kondo insulator ytterbium dodecaboride",
       "link": "https://phys.org/news/2026-06-quantum-oscillations-kondo-insulator-ytterbium.html",
       "source": "Phys.org — Quantum Physics",
@@ -304,22 +320,6 @@
       "published": "Sun, 21 Jun 2026 18:20:01 EDT",
       "published_ts": 1782080401,
       "summary": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In an article published in the journal Physical Review Letters, they show that this theory does not necessarily need to be for…"
-    },
-    {
-      "title": "Quantum gravity research links continuous parameters to local operators within the theory itself",
-      "link": "https://phys.org/news/2026-06-quantum-gravity-links-parameters-local.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 20 Jun 2026 15:00:01 EDT",
-      "published_ts": 1781982001,
-      "summary": "A researcher at Kyushu University and his collaborators have shown that continuous parameters in quantum gravity may not be freely adjustable \"dials\" from outside the theory, but rather arise from operators within the theory itself, supporting the century-old claim by Albert Einstein about the funda…"
-    },
-    {
-      "title": "A new way to control tiny quantum light sources by twisting atomically thin layers of hexagonal boron nitride",
-      "link": "https://phys.org/news/2026-06-tiny-quantum-sources-atomically-thin.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 19 Jun 2026 14:00:06 EDT",
-      "published_ts": 1781892006,
-      "summary": "In a paper published in Science Advances, researchers at the University of Technology Sydney (UTS) in collaboration with the University of Minnesota and Kyung Hee University have found a new way to control quantum light sources, which is one of the key elements needed before quantum technologies can…"
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
