@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1782397317,
+  "generated_ts": 1782417183,
   "items": [
+    {
+      "title": "Seven exotic quantum phases predicted in ultracold magnetic atoms, including topological superconductivity",
+      "link": "https://phys.org/news/2026-06-exotic-quantum-phases-ultracold-magnetic.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 25 Jun 2026 14:20:09 EDT",
+      "published_ts": 1782411609,
+      "summary": "Strongly interacting quantum particles are key to some of the most fascinating phenomena in modern physics—from magnetism and superconductivity to topological states. Yet the complexity of such systems makes many of their properties difficult to understand even today. A research team from Innsbruck…"
+    },
+    {
+      "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
+      "link": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
+      "source": "MIT News — Quantum Computing",
+      "published": "Thu, 25 Jun 2026 12:00:00 -0400",
+      "published_ts": 1782403200,
+      "summary": "“Scientific American” showcases the history and future of America’s scientific engine, highlighting promising young scientists and icons at MIT and beyond."
+    },
+    {
+      "title": "Tennessee Employers Explore Quantum Opportunities Through New Pre-Apprenticeship",
+      "link": "https://thequantuminsider.com/2026/06/25/tennessee-employers-join-nations-first-quantum-pre-apprenticeship-to-prepare-for-emerging-technology-opportunities/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 25 Jun 2026 15:58:28 +0000",
+      "published_ts": 1782403108,
+      "summary": "Insider Brief Press release &#8211; The Chattanooga Quantum Collaborative (CQC) has selected 18 professionals from 17 Tennessee employers to participate in the nation&#8217;s first quantum pre-apprenticeship, an initiative designed to help companies better understand quantum technologies and identif…"
+    },
+    {
+      "title": "Qblox and HPE Collaborate on Hybrid Quantum-HPC Computing",
+      "link": "https://thequantuminsider.com/2026/06/25/qblox-collaborates-with-hpe-to-advance-hybrid-classical-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 25 Jun 2026 15:50:12 +0000",
+      "published_ts": 1782402612,
+      "summary": "Insider Brief Press release &#8211; Qblox, a leading provider of scalable quantum control electronics, today announced a collaboration with HPE to advance hybrid classical-quantum computing. Through this collaboration, Qblox control systems are a core enabler of HPE&#8217;s effort to integrate quant…"
+    },
+    {
+      "title": "Playground Global Joins NUS Initiative Supporting Singapore’s Quantum Ecosystem",
+      "link": "https://thequantuminsider.com/2026/06/25/playground-global-and-matter-venture-partners-join-us117-million-nus-vc-programme-to-tap-singapores-deep-tech-ecosystem/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 25 Jun 2026 15:32:45 +0000",
+      "published_ts": 1782401565,
+      "summary": "Insider Brief Press release &#8211; US-based venture capital (VC) firms, Playground Global and Matter Venture Partners, have partnered with NUS Enterprise, the entrepreneurial heart of the National University of Singapore (NUS), to join its US$117 million NUS VC Programme. Through these partnerships…"
+    },
+    {
+      "title": "QuEra Unveils Gigaquop-Class Fault-Tolerant Roadmap and Invites Organizations to Co-Design Quantum Applications",
+      "link": "https://thequantuminsider.com/2026/06/25/quera-unveils-gigaquop-class-fault-tolerant-roadmap-and-invites-organizations-to-co-design-quantum-applications/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 25 Jun 2026 15:23:54 +0000",
+      "published_ts": 1782401034,
+      "summary": "Insider Brief Press release &#8211; QuEra Computing today detailed the next phase of its fault-tolerant roadmap, including plans for a next-generation gigaquop-class quantum computer coming in 2028 to 2029, and launched a call for solutions inviting enterprises, HPC centers, and government programs…"
+    },
+    {
+      "title": "Trios of quantum particles form checkerboard layouts when particle density hits sweet spot",
+      "link": "https://phys.org/news/2026-06-trios-quantum-particles-checkerboard-layouts.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 25 Jun 2026 10:40:03 EDT",
+      "published_ts": 1782398403,
+      "summary": "Trions form when three particles, like quarks or electrons, come together. This formation occurs in quantum particles in nuclear physics, semiconductors and magnets, and understanding its behavior can be challenging. Rice University's Kaden Hazzard and his team recently developed a theory on how the…"
+    },
     {
       "title": "A thermodynamic approach to gravity could explain cosmic acceleration without dark energy",
       "link": "https://phys.org/news/2026-06-thermodynamic-approach-gravity-cosmic-dark.html",
@@ -218,44 +274,12 @@
       "summary": "From detecting the ripples of colliding black holes to imaging individual chemical bonds, mechanical transducers have repeatedly transformed our understanding of the universe. So far, however, the sensitivity of these devices has been intrinsically limited by the laws of quantum mechanics itself."
     },
     {
-      "title": "NSF Selects Five New Teams for National Quantum Virtual Laboratory",
-      "link": "https://thequantuminsider.com/2026/06/24/nsf-national-quantum-virtual-laboratory-teams/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 24 Jun 2026 14:36:59 +0000",
-      "published_ts": 1782311819,
-      "summary": "Insider Brief Press release &#8211; The U.S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry fragile quantum information across long distances to sensors that can measure faint properties inside a single cell. The team…"
-    },
-    {
-      "title": "STMicroelectronics Launches ST54M Post-Quantum Security Chip for Mobile Devices",
-      "link": "https://thequantuminsider.com/2026/06/24/stmicroelectronics-unveils-worlds-first-st54m-secure-mobile-chip-with-post-quantum-cryptography-for-next-generation-connected-services/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 24 Jun 2026 14:23:51 +0000",
-      "published_ts": 1782311031,
-      "summary": "Insider Brief PRESS RELEASE &#8211; STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, has introduced the ST54M, a secure mobile chip designed to help smartphone and personal electronics manufacturers meet upcoming quantum…"
-    },
-    {
       "title": "Scientists catch classical space-time crystals moving like Majorana quasiparticles",
       "link": "https://phys.org/news/2026-06-scientists-classical-space-crystals-majorana.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 24 Jun 2026 10:07:24 EDT",
       "published_ts": 1782310044,
       "summary": "A research team from Hiroshima University, the University of Colorado, and other collaborators have demonstrated that space-time crystals—exotic structures that, under external drive, loop endlessly through both space and time—can be created using everyday liquid-crystal materials."
-    },
-    {
-      "title": "Bull and Alice & Bob Partner up to Bring Quantum Computers into HPC",
-      "link": "https://thequantuminsider.com/2026/06/24/bull-and-alice-and-bob-partner-up-to-bring-quantum-computers-into-hpc/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 24 Jun 2026 14:06:29 +0000",
-      "published_ts": 1782309989,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Bull, a leader in advanced computing and AI, and&#160;Alice &#38; Bob, a leader in fault-tolerant quantum computing specialising in cat qubits, today announce the signature of a Memorandum of Understanding to extend their joint collaboration across research, produ…"
-    },
-    {
-      "title": "Quantum Elements And USC Advance Noisy Quantum Circuit Simulation With New Quantum Monte Carlo Algorithm",
-      "link": "https://thequantuminsider.com/2026/06/24/quantum-elements-and-usc-advance-noisy-quantum-circuit-simulation-with-new-quantum-monte-carlo-algorithm/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 24 Jun 2026 13:05:00 +0000",
-      "published_ts": 1782306300,
-      "summary": "Insider Brief PRESS RELEASE &#8212; &#160;Quantum Elements&#160;and USC today announced the publication of a new Quantum Monte Carlo algorithm in&#160;Physical Review Letters, providing a more efficient way to simulate noisy quantum circuits on classical computers and supporting the company’s develo…"
     },
     {
       "title": "Listening for quantum oscillations in the Kondo insulator ytterbium dodecaboride",
@@ -304,22 +328,6 @@
       "published": "Mon, 22 Jun 2026 13:40:10 EDT",
       "published_ts": 1782150010,
       "summary": "Physicists have long suspected that a peculiar quantum state lurks inside a class of materials known as kagome metals, but proving its existence has been elusive. Now, a team led by Yeongkwan Kim at the Korea Advanced Institute of Science and Technology has performed experiments on a kagome metal th…"
-    },
-    {
-      "title": "Investigating quantum and molecular plumbing in nanofluidics research",
-      "link": "https://phys.org/news/2026-06-quantum-molecular-plumbing-nanofluidics.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 22 Jun 2026 10:00:01 EDT",
-      "published_ts": 1782136801,
-      "summary": "Our body contains an intricate system of tiny vessels through which blood, water and other molecules flow. When the size of the pipes shrinks to the nanoscale, where only a few molecules can fit side by side, the classical laws of physics governing the behavior of water are influenced by the atomic…"
-    },
-    {
-      "title": "Quantum mechanics theory may work without imaginary numbers, new analysis suggests",
-      "link": "https://phys.org/news/2026-06-quantum-mechanics-theory-imaginary-analysis.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sun, 21 Jun 2026 18:20:01 EDT",
-      "published_ts": 1782080401,
-      "summary": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In an article published in the journal Physical Review Letters, they show that this theory does not necessarily need to be for…"
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
@@ -552,14 +560,6 @@
       "published": "Thu, 15 Jan 2026 13:00:00 -0500",
       "published_ts": 1768500000,
       "summary": "New technique could improve the scalability of trapped-ion quantum computers, an essential step toward making them practically useful."
-    },
-    {
-      "title": "Anything-goes “anyons” may be at the root of surprising quantum experiments",
-      "link": "https://news.mit.edu/2025/anything-goes-anyons-may-be-root-surprising-quantum-experiments-1222",
-      "source": "MIT News — Quantum Computing",
-      "published": "Mon, 22 Dec 2025 10:00:00 -0500",
-      "published_ts": 1766415600,
-      "summary": "MIT physicists say these quasiparticles may explain how superconductivity and magnetism can coexist in certain materials."
     }
   ]
 }
