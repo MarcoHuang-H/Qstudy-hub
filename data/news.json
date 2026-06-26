@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1782417183,
+  "generated_ts": 1782442466,
   "items": [
+    {
+      "title": "Scientists measure hidden quantum forces that could power a new generation of pharmaceutical drugs",
+      "link": "https://phys.org/news/2026-06-scientists-hidden-quantum-power-generation.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 25 Jun 2026 16:20:10 EDT",
+      "published_ts": 1782418810,
+      "summary": "It's one thing to design a pharmaceutical drug. It's another to know if and why it actually works; not on paper or in a computer model, but inside the chaotic world of living systems, where proteins twist into shape, atoms constantly pull and push each other apart, and molecular interactions are the…"
+    },
     {
       "title": "Seven exotic quantum phases predicted in ultracold magnetic atoms, including topological superconductivity",
       "link": "https://phys.org/news/2026-06-exotic-quantum-phases-ultracold-magnetic.html",
@@ -320,14 +328,6 @@
       "published": "Tue, 23 Jun 2026 05:00:05 EDT",
       "published_ts": 1782205205,
       "summary": "Two cups of warm water don't make one cup of boiling water. But in the quantum world, multiple low-energy photons can combine to produce a single, higher-energy photon."
-    },
-    {
-      "title": "Broken time-reversal symmetry phase in kagome metals may establish conditions for superconductivity",
-      "link": "https://phys.org/news/2026-06-broken-reversal-symmetry-phase-kagome.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 22 Jun 2026 13:40:10 EDT",
-      "published_ts": 1782150010,
-      "summary": "Physicists have long suspected that a peculiar quantum state lurks inside a class of materials known as kagome metals, but proving its existence has been elusive. Now, a team led by Yeongkwan Kim at the Korea Advanced Institute of Science and Technology has performed experiments on a kagome metal th…"
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
