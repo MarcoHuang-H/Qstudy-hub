@@ -1,6 +1,142 @@
 {
-  "generated_ts": 1782442466,
+  "generated_ts": 1782464250,
   "items": [
+    {
+      "title": "University of Maryland Grant Targets Quantum and AI Tools for Cancer Research",
+      "link": "https://thequantuminsider.com/2026/06/26/university-of-maryland-grant-targets-quantum-and-ai-tools-for-cancer-research/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 26 Jun 2026 08:21:22 +0000",
+      "published_ts": 1782462082,
+      "summary": "Insider Brief The University of Maryland is backing a new effort to use quantum computing and artificial intelligence to speed the search for better ways to detect and treat cancer. The project is one of 11 research efforts funded through the university’s Grand Challenges Grants Program, a three-yea…"
+    },
+    {
+      "title": "Yale Officials Say $4 Million NSF Grant Will Boost Unique Approach to Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/06/26/yale-officials-say-4-million-nsf-grant-will-boost-unique-approach-to-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 26 Jun 2026 07:54:49 +0000",
+      "published_ts": 1782460489,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A Yale-led project — aided by a national community of researchers — has reached the next step in its effort to develop the first large-scale, error-correcting quantum computer. More than a year ago, the&#160;ERASE&#160;project — Erasure Qubits and Dynamic Circuits…"
+    },
+    {
+      "title": "Dissipative Quantum Multiplicative Weights with Sampling Feedback: A Classically Hard Primitive Realized via Engineered Open-System Dynamics",
+      "link": "https://arxiv.org/abs/2606.26162",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26162v1 Announce Type: new  Abstract: We introduce \\emph{Dissipative Quantum Multiplicative Weights with Sampling Feedback} (DQMW-Sample), an online-learning primitive in which engineered open quantum-system dynamics prepare a Gibbs state whose computational-basis measurement supplies the…"
+    },
+    {
+      "title": "Criterion for qubit-assisted quantum metrology approaching Heisenberg scaling",
+      "link": "https://arxiv.org/abs/2606.26167",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26167v1 Announce Type: new  Abstract: We study in this work the metrology precision of a probe system coupled to an ancillary qubit. Restricting the probe-qubit coupling along only one or two directions is found to be a sufficient criterion for the effective dynamical generator to achieve…"
+    },
+    {
+      "title": "Interpretable rule-based learning in an autonomous thermodynamic network",
+      "link": "https://arxiv.org/abs/2606.26220",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26220v1 Announce Type: new  Abstract: Machine learning is typically described in terms of deterministic logical operations, whereas physical systems generally operate in the presence of noise, dissipation and irreversibility. Here, we turn these physical effects into computational resourc…"
+    },
+    {
+      "title": "A fidelity metric for quantum annealing benchmarked by extreme scaling quantum Monte-Carlo simulations",
+      "link": "https://arxiv.org/abs/2606.26233",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26233v1 Announce Type: new  Abstract: Quantum annealers are supposed to follow adiabatically the ground state of a system as its Hamiltonian slowly interpolates between a trivial phase and a non-trivial one; the non-trivial ground state being the solution to an optimization problem. Overw…"
+    },
+    {
+      "title": "Measures of Chirality in Mixed-State Topological Phases",
+      "link": "https://arxiv.org/abs/2606.26235",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26235v1 Announce Type: new  Abstract: What does it mean for a mixed-state topological phase to be chiral? Mathematically, chirality can be sharply characterized through the symmetry algebra of the mixed state. Physically, however, the question is far more subtle. In pure states, chirality…"
+    },
+    {
+      "title": "Permutation asymmetry unlocks emergent advantage in randomized Bell tests",
+      "link": "https://arxiv.org/abs/2606.26242",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26242v1 Announce Type: new  Abstract: All maximally entangled two-qubit states violate local realism with the same probability under uniformly random projective measurements, yet they need not behave identically in randomized Bell tests. We show that when measurement settings are exchange…"
+    },
+    {
+      "title": "Optimal observables for quantum-enhanced sensing and applications in a Floquet time crystal sensor",
+      "link": "https://arxiv.org/abs/2606.26248",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26248v1 Announce Type: new  Abstract: In this work, we discuss how to determine and implement feasible optimal observables for a metrology protocol that saturates the quantum Fisher information (QFI) bound. In particular, we focus our study on a simple protocol, namely the method of momen…"
+    },
+    {
+      "title": "A Survey of Quantum Programming Languages",
+      "link": "https://arxiv.org/abs/2606.26254",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26254v1 Announce Type: new  Abstract: Quantum computing has seen multiple recent breakthroughs and is getting closer to demonstrations of an exponential advantage over classical computing for certain problems. Programmers will require high-level, general-purpose, executable programming la…"
+    },
+    {
+      "title": "Complex frequency-dependent quadrature squeezing in semiconductor lasers",
+      "link": "https://arxiv.org/abs/2606.26266",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26266v1 Announce Type: new  Abstract: We present a comprehensive study of quadrature squeezing in a quantum well laser based on a fully quantum Langevin approach. We compute the frequency-resolved squeezing map of the laser field and identify optimal squeezing curves, revealing, for the f…"
+    },
+    {
+      "title": "Mechanisms governing photon-pair generation and emission directionality in quantum metasurfaces",
+      "link": "https://arxiv.org/abs/2606.26303",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26303v1 Announce Type: new  Abstract: Metasurfaces are emerging as a promising platform for photon-pair generation through spontaneous parametric down-conversion, thanks to their compactness, integrability, and intrinsic multifunctionality, which enables the engineering of complex quantum…"
+    },
+    {
+      "title": "Tailor Made Embeddings for Quantum Machine Learning",
+      "link": "https://arxiv.org/abs/2606.26312",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26312v1 Announce Type: new  Abstract: Autoencoders transformed classical machine learning by solving the curse of dimensionality, enabling principled weight initialization and learning compact, structured representations. In this work, we extend this paradigm to quantum machine learning b…"
+    },
+    {
+      "title": "Improving device-independent quantum key distribution protocols through multiple routed Bell tests",
+      "link": "https://arxiv.org/abs/2606.26329",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26329v1 Announce Type: new  Abstract: Device-independent quantum key distribution (DI-QKD) offers security with the smallest possible set of assumptions about the experimental setup. The challenge posed by its implementation could be tackled using routed Bell tests with entanglement swapp…"
+    },
+    {
+      "title": "Equivalence of non-local computation tasks beyond Clifford operations",
+      "link": "https://arxiv.org/abs/2606.26354",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26354v1 Announce Type: new  Abstract: Non-local quantum computation (NLQC) studies how two collaborating players can implement channels on distributed systems using a single simultaneous round of quantum communication and shared entanglement. NLQC has applications in diverse areas, rangin…"
+    },
+    {
+      "title": "Algebraic structures of the Lindblad equation",
+      "link": "https://arxiv.org/abs/2606.26477",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26477v1 Announce Type: new  Abstract: We investigate the algebraic structure underlying the Lindblad equation for finite-dimensional open quantum systems. By introducing a suitable operator representation of the Liouville superoperator, we show that the dynamics can be formulated in terms…"
+    },
+    {
+      "title": "Non-Hermitian Bloch Oscillations",
+      "link": "https://arxiv.org/abs/2606.26480",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782446400,
+      "summary": "arXiv:2606.26480v1 Announce Type: new  Abstract: We establish a general framework for non-Hermitian Bloch oscillations by investigating the wave-packet dynamics in one-dimensional non-Hermitian lattices driven by a dc force. The equations of motion for the momentum, center of mass, and group velocit…"
+    },
     {
       "title": "Scientists measure hidden quantum forces that could power a new generation of pharmaceutical drugs",
       "link": "https://phys.org/news/2026-06-scientists-hidden-quantum-power-generation.html",
@@ -114,148 +250,12 @@
       "summary": "Insider Brief An opinion piece in The Economist by argues that quantum computing may be one of the clearest cases for direct federal intervention in an emerging industry. At the same time, it warns that the Trump administration’s broader embrace of equity stakes and industrial investment still lacks…"
     },
     {
-      "title": "The Conversation: A New Quantum Computer Sets a High Watermark For Accuracy – Are We on The Verge of a Big Breakthrough?",
-      "link": "https://thequantuminsider.com/2026/06/25/the-conversation-a-new-quantum-computer-sets-a-high-watermark-for-accuracy-are-we-on-the-verge-of-a-big-breakthrough/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 25 Jun 2026 07:38:05 +0000",
-      "published_ts": 1782373085,
-      "summary": "The Conversation by Domenico VicinanzaAssociate Professor of Intelligent Systems and Data Science, Anglia Ruskin University In a laboratory in Broomfield, Colorado, 98 atoms are suspended in mid-air, held in place by electric fields and cooled to temperatures close to absolute zero. Each atom is far…"
-    },
-    {
-      "title": "Variants of the Quantum Phase Operator for the Harmonic Oscillator",
-      "link": "https://arxiv.org/abs/2606.24913",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.24913v1 Announce Type: new  Abstract: We introduce and study quantum phase operators associated with the Quantum Harmonic Oscillator (QHO). We show that these operators are trace-class perturbations of the Susskind-Glogower operators and examine their mathematical and physical properties.…"
-    },
-    {
-      "title": "Constraint-Aware Quantum Optimization of Defect Configurations in Doped ZrO2: XY-Mixer QAOA and Grover Adaptive Search",
-      "link": "https://arxiv.org/abs/2606.24922",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.24922v1 Announce Type: new  Abstract: Quantum optimization offers a route to searching the large defect-configuration spaces that arise in materials design. We develop an end-to-end, constraint-aware quantum optimization workflow for composition-defect search in a doped ZrO2 thermal-barri…"
-    },
-    {
-      "title": "Reading Weakly, Acting Strongly: A Static Parity Horizon and its Dynamical Bypass in the Monitored Lipkin-Meshkov-Glick Model",
-      "link": "https://arxiv.org/abs/2606.24928",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.24928v1 Announce Type: new  Abstract: We study the broken-symmetry phase of the Lipkin-Meshkov-Glick (LMG) model, whose two lowest states form a near-degenerate parity doublet split by tunnelling. We show that the same instanton action S_inst that sets the doublet splitting also controls…"
-    },
-    {
-      "title": "Recursive QLSTM with Dynamic Variational Quantum Circuit Adaptation",
-      "link": "https://arxiv.org/abs/2606.24932",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.24932v1 Announce Type: new  Abstract: Recent advances in quantum computing and machine learning have motivated the development of quantum models for sequential data processing. In this paper, we propose a Recursive Quantum Long Short-Term Memory model, or Recursive QLSTM, which extends QL…"
-    },
-    {
-      "title": "Self-Modulating Quantum Fast-Weight Programmers for Efficient Adaptive Sequential Learning",
-      "link": "https://arxiv.org/abs/2606.24933",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.24933v1 Announce Type: new  Abstract: Recent advances in quantum machine learning have motivated efficient models for sequential data processing. In this paper, we propose Self-Modulating Quantum Fast Weight Programmers, or Self-Modulating QFWP, which extends Quantum Fast Weight Programme…"
-    },
-    {
-      "title": "Bright-state source cancellation in dissipative shortcut Raman atom optics",
-      "link": "https://arxiv.org/abs/2606.24939",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.24939v1 Announce Type: new  Abstract: Spontaneous Raman scattering limits shortcut-assisted atom optics, but its microscopic origin is obscured once the lossy excited state is adiabatically eliminated. We organize the problem around a single quantity: in the instantaneous dark-bright basi…"
-    },
-    {
-      "title": "Fast and Parallel High-Rate STAR Architecture for Megaquop Quantum Simulation",
-      "link": "https://arxiv.org/abs/2606.25011",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.25011v1 Announce Type: new  Abstract: Fault-tolerant quantum simulation is approaching a phase where encoding overhead, logical Clifford operations, magic-state preparation, and rotation synthesis must be optimized together for efficient implementation. Space-Time efficient Analog Rotatio…"
-    },
-    {
-      "title": "Efficient Quantum Circuits for Coherent Conversion Between General First- and Second-Quantized Many-Body Representations",
-      "link": "https://arxiv.org/abs/2606.25029",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.25029v1 Announce Type: new  Abstract: Quantum simulation at fixed particle number admits two equivalent descriptions, a first-quantized (particle) representation and a second-quantized (occupation-number) representation. Their quantum resource costs differ sharply across computational tas…"
-    },
-    {
-      "title": "Arbitrarily Loss-Tolerant Quantum Position Verification in a Single Execution",
-      "link": "https://arxiv.org/abs/2606.25037",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.25037v1 Announce Type: new  Abstract: Quantum position verification (QPV) seeks to certify the spatial location of an untrusted prover, but is challenged fundamentally by entanglement-based attacks and experimentally by photon loss. Both issues were addressed separately in different works…"
-    },
-    {
-      "title": "Majorana-Pauli stabilizer codes and duality webs of fermionic topological phases",
-      "link": "https://arxiv.org/abs/2606.25048",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.25048v1 Announce Type: new  Abstract: Stabilizer codes provide exact lattice realizations of bosonic topological orders. In contrast, systematic stabilizer descriptions of intrinsically fermionic topological phases remain much less developed. In this work, we introduce Majorana-Pauli stab…"
-    },
-    {
-      "title": "A Contactless Heat Engine Driven by Nonreciprocal Fluctuation-Induced Torques",
-      "link": "https://arxiv.org/abs/2606.25053",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.25053v1 Announce Type: new  Abstract: We describe a contactless heat engine in which quantum and thermal electromagnetic fluctuations act as the working medium. The setup consists of two concentric cylinders held at different temperatures. The inner cylinder stably levitates within the ou…"
-    },
-    {
-      "title": "Nonlocal Quantum Phase Transitions",
-      "link": "https://arxiv.org/abs/2606.25061",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.25061v1 Announce Type: new  Abstract: Phase transitions are paradigmatic examples of emergent phenomena, in which symmetries present at the microscopic level can be spontaneously broken in the thermodynamic limit. Two primary physical mechanisms can drive this symmetry breaking: thermal f…"
-    },
-    {
-      "title": "Quantum Primitive for Output-Hiding Function Sharing",
-      "link": "https://arxiv.org/abs/2606.25080",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.25080v1 Announce Type: new  Abstract: A quantum information-theoretic primitive is introduced for determining a discrete-valued function that depends on multiple parties' local private inputs. The primitive permits the parties to mutually learn each others' local inputs, and thereby deter…"
-    },
-    {
-      "title": "Note About Koopman-von Neumann Theory and Density Matrix",
-      "link": "https://arxiv.org/abs/2606.25085",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.25085v1 Announce Type: new  Abstract: In this short note we study Koopman-von Neumann theory for N-particle system. We argue that it is natural to identify classical N-particle distribution function as diagonal form of density matrix operator in coordinate representation. We also determin…"
-    },
-    {
-      "title": "Detection of patterns in a discrete-outcome sensor network",
-      "link": "https://arxiv.org/abs/2606.25100",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 25 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782360000,
-      "summary": "arXiv:2606.25100v1 Announce Type: new  Abstract: A discrete outcome quantum sensor network is one in which we are only interested in which detectors are activated. This can be studied in either the strong or weak interaction regime. If the detectors interact strongly with the environment, it is poss…"
-    },
-    {
       "title": "A new quantum computer sets a high watermark for accuracy. Are we on the verge of a big breakthrough?",
       "link": "https://phys.org/news/2026-06-quantum-high-watermark-accuracy-verge.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 24 Jun 2026 15:20:05 EDT",
       "published_ts": 1782328805,
       "summary": "In a laboratory in Broomfield, Colorado, 98 atoms are suspended in midair, held in place by electric fields and cooled to temperatures close to absolute zero."
-    },
-    {
-      "title": "Classiq and TEA TEK Group Launch Quantum Computing Hub in Naples",
-      "link": "https://thequantuminsider.com/2026/06/24/classiq-tea-tek-group-quantum-computing-hub-naples/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 24 Jun 2026 16:43:05 +0000",
-      "published_ts": 1782319385,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq, the leading quantum computing software company, and TEA TEK Group, an emerging force in Italy&#8217;s and Europe&#8217;s quantum landscape, today announced a landmark multi-million-euro strategic partnership to establish one of Europe&#8217;s most signifi…"
     },
     {
       "title": "Geometric anti-spring works near absolute zero, suppressing vibrations below 0.185 hertz",
