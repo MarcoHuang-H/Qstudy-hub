@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1782483251,
+  "generated_ts": 1782502913,
   "items": [
+    {
+      "title": "Semiconductor quantum dots 'reawaken' predicted Rabi oscillations, boosting quantum control",
+      "link": "https://phys.org/news/2026-06-semiconductor-quantum-dots-reawaken-rabi.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 26 Jun 2026 13:00:04 EDT",
+      "published_ts": 1782493204,
+      "summary": "Physicists at Paderborn University have, for the first time, experimentally demonstrated the so-called \"return\" of Rabi oscillations in semiconductor quantum dots. The phenomenon, which was first predicted theoretically in 2007, describes the decrease in the emission intensity of the quantum dots, w…"
+    },
     {
       "title": "Top Quantum Computing Investors in 2026",
       "link": "https://thequantuminsider.com/2026/06/26/top-quantum-computing-investors-in-2026/",
@@ -18,7 +26,7 @@
       "summary": "Controlling and trapping molecules, units of a substance consisting of two or more chemically bound atoms, with laser light is significantly more challenging than trapping individual atoms. This is because molecules exhibit more complex vibrational and rotational dynamics that make them more difficu…"
     },
     {
-      "title": "Former Microsoft Quantum CTO’s New Chinese-Based Startup Lands Pre-A Funding",
+      "title": "Former Microsoft Quantum Employee’s New Chinese-Based Startup Lands Pre-A Funding",
       "link": "https://thequantuminsider.com/2026/06/26/former-microsoft-quantum-ctos-new-chinese-based-startup-lands-pre-a-funding/",
       "source": "The Quantum Insider",
       "published": "Fri, 26 Jun 2026 10:18:18 +0000",
@@ -320,14 +328,6 @@
       "published": "Tue, 23 Jun 2026 13:20:01 EDT",
       "published_ts": 1782235201,
       "summary": "Researchers from the University of Sydney, working with IBM, have identified and quantified important factors limiting the performance of quantum computers and demonstrated ways to overcome their impact."
-    },
-    {
-      "title": "Horizon edge states gain finite description in string theory calculation",
-      "link": "https://phys.org/news/2026-06-horizon-edge-states-gain-finite.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 23 Jun 2026 08:20:01 EDT",
-      "published_ts": 1782217201,
-      "summary": "Modern physics theories highlight the key role of horizons—boundaries beyond which information cannot reach an observer—in a variety of cosmological and gravitational phenomena. Two renowned examples of these boundaries are event horizons in black holes and the cosmological horizon of the de Sitter…"
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
