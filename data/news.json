@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1782464250,
+  "generated_ts": 1782483251,
   "items": [
+    {
+      "title": "Top Quantum Computing Investors in 2026",
+      "link": "https://thequantuminsider.com/2026/06/26/top-quantum-computing-investors-in-2026/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 26 Jun 2026 13:06:27 +0000",
+      "published_ts": 1782479187,
+      "summary": "Insider Brief Quantum computing investment has moved through several distinct phases. The hype-driven cycle of 2018-2020, when capital flowed toward anything with &#8220;quantum&#8221; in the pitch, gave way to a more selective period in 2022-2024, when investors demanded evidence of technical progr…"
+    },
+    {
+      "title": "Metal hydride molecule trapped with laser light opens path to ultracold hydrogen",
+      "link": "https://phys.org/news/2026-06-metal-hydride-molecule-laser-path.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 26 Jun 2026 07:40:01 EDT",
+      "published_ts": 1782474001,
+      "summary": "Controlling and trapping molecules, units of a substance consisting of two or more chemically bound atoms, with laser light is significantly more challenging than trapping individual atoms. This is because molecules exhibit more complex vibrational and rotational dynamics that make them more difficu…"
+    },
+    {
+      "title": "Former Microsoft Quantum CTO’s New Chinese-Based Startup Lands Pre-A Funding",
+      "link": "https://thequantuminsider.com/2026/06/26/former-microsoft-quantum-ctos-new-chinese-based-startup-lands-pre-a-funding/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 26 Jun 2026 10:18:18 +0000",
+      "published_ts": 1782469098,
+      "summary": "Insider Brief Taiyi Quantum, based in Shanghai, announced the completion of a 300 million yuan &#8212; or about $44 million USD &#8212; Pre-A funding round, according to media and social media reports. The round was led by investors including Gaorong Venture Capital and IDG Capital, who were joined…"
+    },
     {
       "title": "University of Maryland Grant Targets Quantum and AI Tools for Cancer Research",
       "link": "https://thequantuminsider.com/2026/06/26/university-of-maryland-grant-targets-quantum-and-ai-tools-for-cancer-research/",
@@ -234,22 +258,6 @@
       "summary": "Sound waves, light waves and other types of waves, generally spread freely through space and over time. In 1958, physicist Philip W. Anderson first described a phenomenon via which irregularities or other sources of disorder in materials would prevent waves from propagating freely, which is now know…"
     },
     {
-      "title": "AQSolotl and QuantrolOx Partner to Automate Quantum System Calibration",
-      "link": "https://thequantuminsider.com/2026/06/25/aqsolotl-and-quantrolox-partner-to-automate-quantum-control-targeting-scalable-production-ready-systems/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 25 Jun 2026 09:38:25 +0000",
-      "published_ts": 1782380305,
-      "summary": "Insider Brief Press release &#8211; AQSolotl and QuantrolOx today announced a  strategic partnership to integrate quantum control hardware and automated machine learning  software, in a move aimed at accelerating the shift from experimental quantum systems to  scalable, production-ready infrastructu…"
-    },
-    {
-      "title": "Economist Columnists Say U.S. Quantum Investments Show Promise — But Need Clearer Rules",
-      "link": "https://thequantuminsider.com/2026/06/25/economist-columnists-say-u-s-quantum-investments-show-promise-but-need-clearer-rules/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 25 Jun 2026 08:22:00 +0000",
-      "published_ts": 1782375720,
-      "summary": "Insider Brief An opinion piece in The Economist by argues that quantum computing may be one of the clearest cases for direct federal intervention in an emerging industry. At the same time, it warns that the Trump administration’s broader embrace of equity stakes and industrial investment still lacks…"
-    },
-    {
       "title": "A new quantum computer sets a high watermark for accuracy. Are we on the verge of a big breakthrough?",
       "link": "https://phys.org/news/2026-06-quantum-high-watermark-accuracy-verge.html",
       "source": "Phys.org — Quantum Physics",
@@ -320,14 +328,6 @@
       "published": "Tue, 23 Jun 2026 08:20:01 EDT",
       "published_ts": 1782217201,
       "summary": "Modern physics theories highlight the key role of horizons—boundaries beyond which information cannot reach an observer—in a variety of cosmological and gravitational phenomena. Two renowned examples of these boundaries are event horizons in black holes and the cosmological horizon of the de Sitter…"
-    },
-    {
-      "title": "Solid-state material turns visible light into high-energy UV at sunlight intensity, expanding solar energy potential",
-      "link": "https://phys.org/news/2026-06-solid-state-material-visible-high.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 23 Jun 2026 05:00:05 EDT",
-      "published_ts": 1782205205,
-      "summary": "Two cups of warm water don't make one cup of boiling water. But in the quantum world, multiple low-energy photons can combine to produce a single, higher-energy photon."
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
