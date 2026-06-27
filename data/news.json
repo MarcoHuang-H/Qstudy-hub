@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1782549072,
+  "generated_ts": 1782566626,
   "items": [
+    {
+      "title": "Türkiye Lays Out a National Quantum Roadmap, Naming 85 Priority Technologies Across Computing, Sensing and Communication",
+      "link": "https://thequantuminsider.com/2026/06/27/turkiye-lays-out-a-national-quantum-roadmap-naming-85-priority-technologies-across-computing-sensing-and-communication/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 27 Jun 2026 08:00:23 +0000",
+      "published_ts": 1782547223,
+      "summary": "Insider Brief Türkiye has set out a detailed plan for entering the global quantum race, publishing a national roadmap that names 85 specific technologies the country intends to pursue across the three pillars of the field — computing, sensing and communication. The document, the Quantum Technologies…"
+    },
     {
       "title": "Clean crystal surface lets single molecules hit ultimate quantum limit",
       "link": "https://phys.org/news/2026-06-crystal-surface-molecules-ultimate-quantum.html",
@@ -136,14 +144,6 @@
       "published": "Thu, 25 Jun 2026 11:40:41 +0000",
       "published_ts": 1782387641,
       "summary": "Insider Brief Lockheed Martin is positioning quantum navigation as a backup and companion to GPS, aiming to give military users more precise location data when satellite signals are blocked, jammed or spoofed. The company said in a news story that the future of positioning, navigation and timing, or…"
-    },
-    {
-      "title": "WISeKey and SEALSQ Plan Nasdaq Listing for Quantisimo Through GigCapital8",
-      "link": "https://thequantuminsider.com/2026/06/25/wisekey-and-sealsq-establish-quantisimo-corp-as-a-special-purpose-vehicle-and-execute-letter-of-intent-with-gigcapital8-corp/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 25 Jun 2026 11:10:06 +0000",
-      "published_ts": 1782385806,
-      "summary": "Insider Brief Press release &#8211; WISeKey International Holding Ltd. (“Wisekey”) (SIX: WIHN; Nasdaq: WKEY), a global leader in cybersecurity and trusted digital ecosystems, and its subsidiary SEALSQ Corp. (Nasdaq: LAES), a leading developer of semiconductors, PKI, and post-quantum technologies, to…"
     },
     {
       "title": "Quantum waves reveal one-sided motion marking elusive critical states",
