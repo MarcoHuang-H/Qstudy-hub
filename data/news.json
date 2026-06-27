@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1782566626,
+  "generated_ts": 1782587659,
   "items": [
+    {
+      "title": "Non-Hermitian geometry reveals when quantum amplification depends only on start and end points",
+      "link": "https://phys.org/news/2026-06-hermitian-geometry-reveals-quantum-amplification.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 27 Jun 2026 11:00:02 EDT",
+      "published_ts": 1782572402,
+      "summary": "In quantum mechanics, the geometry of quantum states has emerged as a powerful framework for understanding phenomena ranging from electrical conductivity to superconductivity. One research direction aims to extend these geometric concepts to non-Hermitian quantum mechanics—where systems can exchange…"
+    },
     {
       "title": "Türkiye Lays Out a National Quantum Roadmap, Naming 85 Priority Technologies Across Computing, Sensing and Communication",
       "link": "https://thequantuminsider.com/2026/06/27/turkiye-lays-out-a-national-quantum-roadmap-naming-85-priority-technologies-across-computing-sensing-and-communication/",
@@ -200,14 +208,6 @@
       "published": "Tue, 23 Jun 2026 20:40:01 EDT",
       "published_ts": 1782261601,
       "summary": "Magnetic quantum oscillations have been unexpectedly observed in insulators, where freely moving charge carriers are not expected to exist. A joint study by researchers from Tokyo University of Science, The University of Tokyo and Kobe University investigated this puzzling behavior in the Kondo insu…"
-    },
-    {
-      "title": "Wave-packet interferometry captures elusive dark excitons in organic superconductor",
-      "link": "https://phys.org/news/2026-06-packet-interferometry-captures-elusive-dark.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 23 Jun 2026 18:10:03 EDT",
-      "published_ts": 1782252603,
-      "summary": "In a recent study, Manish Garg, independent group leader at Max Planck Institute for Solid State Research (MPI FKF), succeeded in probing the local properties of bright and dark excitons in the organic superconductor copper naphthalocyanine (CuNc). The findings are published in the journal Nature Co…"
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
