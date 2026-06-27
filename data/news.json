@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1782502913,
+  "generated_ts": 1782528266,
   "items": [
+    {
+      "title": "Clean crystal surface lets single molecules hit ultimate quantum limit",
+      "link": "https://phys.org/news/2026-06-crystal-surface-molecules-ultimate-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 26 Jun 2026 17:00:01 EDT",
+      "published_ts": 1782507601,
+      "summary": "Scientists at the Max Planck Institute for the Science of Light (MPL) have developed a technique for interrogating molecules on surfaces with spectroscopic precision, thereby reaching the ultimate quantum limit for the first time. With their findings, published in Science, the researchers open new o…"
+    },
     {
       "title": "Semiconductor quantum dots 'reawaken' predicted Rabi oscillations, boosting quantum control",
       "link": "https://phys.org/news/2026-06-semiconductor-quantum-dots-reawaken-rabi.html",
@@ -320,14 +328,6 @@
       "published": "Tue, 23 Jun 2026 18:10:03 EDT",
       "published_ts": 1782252603,
       "summary": "In a recent study, Manish Garg, independent group leader at Max Planck Institute for Solid State Research (MPI FKF), succeeded in probing the local properties of bright and dark excitons in the organic superconductor copper naphthalocyanine (CuNc). The findings are published in the journal Nature Co…"
-    },
-    {
-      "title": "Pathway to high-fidelity quantum computing identified",
-      "link": "https://phys.org/news/2026-06-pathway-high-fidelity-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 23 Jun 2026 13:20:01 EDT",
-      "published_ts": 1782235201,
-      "summary": "Researchers from the University of Sydney, working with IBM, have identified and quantified important factors limiting the performance of quantum computers and demonstrated ways to overcome their impact."
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
