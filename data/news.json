@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1782730099,
+  "generated_ts": 1782747534,
   "items": [
+    {
+      "title": "SandboxAQ Brings Large Quantitative Models to Google Cloud Marketplace",
+      "link": "https://thequantuminsider.com/2026/06/29/sandboxaq-bring-large-quantitative-models-google-cloud-marketplace/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 29 Jun 2026 14:05:16 +0000",
+      "published_ts": 1782741916,
+      "summary": "Insider Brief Press release &#8211; SandboxAQ today announced it will make its Large Quantitative Models (LQMs) accessible through Google Cloud’s Marketplace. Through this marketplace listing, users will be able to tap rigorous, physics-grounded scientific models directly from the conversational AI…"
+    },
+    {
+      "title": "Pasqal Appoints Stéphane Rougeot as Chief Financial Officer",
+      "link": "https://thequantuminsider.com/2026/06/29/pasqal-appoints-stephane-rougeot-chief-financial-officer/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 29 Jun 2026 13:57:03 +0000",
+      "published_ts": 1782741423,
+      "summary": "Insider Brief Press release &#8211; Pasqal, a global leader in neutral-atom quantum computing, today announced the appointment of Stéphane Rougeot as Chief Financial Officer (CFO). Rougeot — a finance leader who has served as CFO of multiple publicly-listed European technology companies — will overs…"
+    },
     {
       "title": "Texas A&M Researchers Develop Quantum Technique for Drug Discovery",
       "link": "https://thequantuminsider.com/2026/06/29/quantum-technique-drug-discovery/",
@@ -218,14 +234,6 @@
       "summary": "Insider Brief The University of Maryland is backing a new effort to use quantum computing and artificial intelligence to speed the search for better ways to detect and treat cancer. The project is one of 11 research efforts funded through the university’s Grand Challenges Grants Program, a three-yea…"
     },
     {
-      "title": "Yale Officials Say $4 Million NSF Grant Will Boost Unique Approach to Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/06/26/yale-officials-say-4-million-nsf-grant-will-boost-unique-approach-to-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 26 Jun 2026 07:54:49 +0000",
-      "published_ts": 1782460489,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A Yale-led project — aided by a national community of researchers — has reached the next step in its effort to develop the first large-scale, error-correcting quantum computer. More than a year ago, the&#160;ERASE&#160;project — Erasure Qubits and Dynamic Circuits…"
-    },
-    {
       "title": "Scientists measure hidden quantum forces that could power a new generation of pharmaceutical drugs",
       "link": "https://phys.org/news/2026-06-scientists-hidden-quantum-power-generation.html",
       "source": "Phys.org — Quantum Physics",
@@ -248,14 +256,6 @@
       "published": "Thu, 25 Jun 2026 12:00:00 -0400",
       "published_ts": 1782403200,
       "summary": "“Scientific American” showcases the history and future of America’s scientific engine, highlighting promising young scientists and icons at MIT and beyond."
-    },
-    {
-      "title": "Tennessee Employers Explore Quantum Opportunities Through New Pre-Apprenticeship",
-      "link": "https://thequantuminsider.com/2026/06/25/tennessee-employers-join-nations-first-quantum-pre-apprenticeship-to-prepare-for-emerging-technology-opportunities/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 25 Jun 2026 15:58:28 +0000",
-      "published_ts": 1782403108,
-      "summary": "Insider Brief Press release &#8211; The Chattanooga Quantum Collaborative (CQC) has selected 18 professionals from 17 Tennessee employers to participate in the nation&#8217;s first quantum pre-apprenticeship, an initiative designed to help companies better understand quantum technologies and identif…"
     },
     {
       "title": "Trios of quantum particles form checkerboard layouts when particle density hits sweet spot",
