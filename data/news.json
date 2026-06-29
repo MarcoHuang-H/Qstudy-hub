@@ -1,6 +1,158 @@
 {
-  "generated_ts": 1782703673,
+  "generated_ts": 1782730099,
   "items": [
+    {
+      "title": "Texas A&M Researchers Develop Quantum Technique for Drug Discovery",
+      "link": "https://thequantuminsider.com/2026/06/29/quantum-technique-drug-discovery/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 29 Jun 2026 10:25:23 +0000",
+      "published_ts": 1782728723,
+      "summary": "Insider Brief It’s one thing to design a pharmaceutical drug. It’s another to know if and why it actually works. Not on paper or in a computer model. But inside the chaotic world of living systems, where proteins twist into shape, atoms constantly pull and push each other apart and molecular interac…"
+    },
+    {
+      "title": "QuTech Demonstrates Coherent Diamond Quantum Emitter Interface for Quantum Networks",
+      "link": "https://thequantuminsider.com/2026/06/29/qutech-diamond-quantum-network-interface/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 29 Jun 2026 10:02:20 +0000",
+      "published_ts": 1782727340,
+      "summary": "Insider Brief Future quantum networks will depend on reliable handshakes between two very different carriers of quantum information: solid-state qubits that can store and process information, and photons that can carry it between distant nodes. A team of researchers from QuTech has demonstrated an e…"
+    },
+    {
+      "title": "Which Light is Right For Quantum Sensing?",
+      "link": "https://thequantuminsider.com/2026/06/29/which-light-is-right-for-quantum-sensing/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 29 Jun 2026 08:01:09 +0000",
+      "published_ts": 1782720069,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Optically addressable spin defects in solid-state materials have rapidly emerged as promising candidates for quantum sensing applications. Defects in diamond have been the most widely studied, demonstrating the ability to sense magnetic and electric fields, temper…"
+    },
+    {
+      "title": "Physicists Set Sail on a Strange Quantum State Called a Fractional Fermi Sea",
+      "link": "https://thequantuminsider.com/2026/06/29/physicists-set-sail-on-a-strange-quantum-state-called-a-fractional-fermi-sea/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 29 Jun 2026 07:54:41 +0000",
+      "published_ts": 1782719681,
+      "summary": "Insider Brief PRESS RELEASE &#8212; In a new study published in Phys­ical Review Letters, a team of the Nägerl group jointly with theory collab­o­rator Alvise Bastianello from the CNRS and the Univer­sité Paris-Dauphine demon­strates that highly unusual quantum states known as &#8220;frac­tional Fer…"
+    },
+    {
+      "title": "Quantum typicality survives non-Abelian gauge constraints: exact analytical prediction confirmed in $SU(2)$ lattice gauge theory",
+      "link": "https://arxiv.org/abs/2606.27402",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27402v1 Announce Type: new  Abstract: Arguments for emergent spacetime require that quantum typicality, the generic absence of inter-subsystem correlations, persists on the physical Hilbert space of a gauge theory, where non-Abelian constraints could in principle inject geometry-supportin…"
+    },
+    {
+      "title": "Reservoir-independent lossless charging and protected storage of an open quantum battery",
+      "link": "https://arxiv.org/abs/2606.27403",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27403v1 Announce Type: new  Abstract: A quantum battery charged through a lossy intermediate state faces a structural trade-off between charging speed and dissipation. We show that an exact algebraic cancellation removes it in a driven three-level cell: the radiatively decaying state is f…"
+    },
+    {
+      "title": "Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder",
+      "link": "https://arxiv.org/abs/2606.27411",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27411v1 Announce Type: new  Abstract: We study a quantum autoencoder (QAE) for compression-driven anomaly detection in brain MRI data. The approach leverages angle encoding to map image patches into quantum states, followed by a variational encoder-decoder architecture trained to discard…"
+    },
+    {
+      "title": "Engineering of non-Hermitian interactions in digital qudit quantum simulators",
+      "link": "https://arxiv.org/abs/2606.27424",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27424v1 Announce Type: new  Abstract: Non-Hermitian Hamiltonians are a fascinating class of many-body models that describe the effective dynamics of quantum systems interacting with the environment through particle, energy, or information exchange. Although their theoretical framework is…"
+    },
+    {
+      "title": "Multi-parameter two-photon polarimetry at the quantum limit",
+      "link": "https://arxiv.org/abs/2606.27428",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27428v1 Announce Type: new  Abstract: Photonic quantum metrology has demonstrated advantages in precision and resource efficiency for a wide range of applications, with several schemes approaching the fundamental quantum Cram\\'er-Rao precision bound (QCRB). However, the intrinsic incompat…"
+    },
+    {
+      "title": "I-QMapper: Error-Aware Layout Optimization and Device Diagnostics for NISQ Hardware",
+      "link": "https://arxiv.org/abs/2606.27508",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27508v1 Announce Type: new  Abstract: Achieving high-fidelity execution on noisy intermediate-scale quantum (NISQ) hardware requires careful selection of physical qubit layouts, as gate errors, readout errors, and coherence times vary across the device and drift over time. Currently, qubi…"
+    },
+    {
+      "title": "Photon avalanche triggered by a single photon in a bistable nonlinear optical cavity",
+      "link": "https://arxiv.org/abs/2606.27555",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27555v1 Announce Type: new  Abstract: We theoretically investigate the response of a coherently-driven nonlinear optical cavity to an additional incident single photon. Using a quantum description of the nonlinear dynamics that fully accounts for the quantum fluctuations of the cavity fie…"
+    },
+    {
+      "title": "Vector Representation of Exact Soliton Dynamics in Multi-component Nonlinear Schr\\\"odinger Systems",
+      "link": "https://arxiv.org/abs/2606.27569",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27569v1 Announce Type: new  Abstract: Multicomponent nonlinear Schr\\\"odinger equations constitute fundamental models for coherent matter waves in multicomponent Bose--Einstein condensates, spinor quantum fluids, and vector nonlinear optical systems. We develop a vector formulation of the…"
+    },
+    {
+      "title": "su(1,1) Symmetry and Exact Solutions of the Dunkl-Klein-Gordon Equation in Higher Dimensions",
+      "link": "https://arxiv.org/abs/2606.27589",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27589v1 Announce Type: new  Abstract: We investigate the $d$-dimensional Dunkl--Klein--Gordon equation for a scalar particle within an algebraic framework. By employing Schr\\\"odinger factorization, we construct the generators of the $\\mathfrak{su}(1,1)$ algebra and establish the associate…"
+    },
+    {
+      "title": "Scalable Acceleration of Many-Body Quantum Dynamics via Time-Rescaling",
+      "link": "https://arxiv.org/abs/2606.27630",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27630v1 Announce Type: new  Abstract: Fast quantum control is essential to overcome decoherence in contemporary quantum platforms, yet achieving this in many-body systems remains a major challenge. We show that the time-rescaling (TR) method enables efficient acceleration of closed many-b…"
+    },
+    {
+      "title": "Enhancing Quantum Metrology with High-order Fisher Information and Experiments",
+      "link": "https://arxiv.org/abs/2606.27633",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27633v1 Announce Type: new  Abstract: Fisher information plays a central role in statistics and quantum metrology, providing the basis for the celebrated Cram\\'{e}r-Rao bound. In this work, we introduce a new information measure based on higher-order Fisher information and show that it na…"
+    },
+    {
+      "title": "Memory and thermal amplification in spin--cavity squared commutators",
+      "link": "https://arxiv.org/abs/2606.27648",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27648v1 Announce Type: new  Abstract: Squared commutators in the Holstein--Primakoff limit of a spin--cavity system provide a compact way to separate propagation from covariance growth in a finite-temperature reservoir with memory. In the finite-temperature NMQSD construction, the linear…"
+    },
+    {
+      "title": "On the generic structures of the protocols for quantum auction and quantum summation and their relation",
+      "link": "https://arxiv.org/abs/2606.27693",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27693v1 Announce Type: new  Abstract: Secure multi-party computation (SMC) addresses the problem of jointly computing global functions of private inputs while revealing minimal information about individual data. Two prominent examples of SMC tasks are sealed-bid auction and secure multi-p…"
+    },
+    {
+      "title": "Fault tolerant computation of the static structure factor and finite size effects",
+      "link": "https://arxiv.org/abs/2606.27734",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27734v1 Announce Type: new  Abstract: Fault-tolerant quantum algorithms offer a promising pathway for estimating the ground-state energies of periodic materials that are beyond the practical reach of classical electronic-structure methods. A remaining challenge is finite-size mitigation:…"
+    },
+    {
+      "title": "No Cloning of Quantum Ensembles",
+      "link": "https://arxiv.org/abs/2606.27756",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 29 Jun 2026 00:00:00 -0400",
+      "published_ts": 1782705600,
+      "summary": "arXiv:2606.27756v1 Announce Type: new  Abstract: Modern quantum physics now enables control of quantum systems at the level of individual trajectories, opening a new frontier that links quantum information theory, quantum many-body physics, and quantum thermodynamics, and uncovers novel non-equilibr…"
+    },
     {
       "title": "Non-Hermitian geometry reveals when quantum amplification depends only on start and end points",
       "link": "https://phys.org/news/2026-06-hermitian-geometry-reveals-quantum-amplification.html",
@@ -106,30 +258,6 @@
       "summary": "Insider Brief Press release &#8211; The Chattanooga Quantum Collaborative (CQC) has selected 18 professionals from 17 Tennessee employers to participate in the nation&#8217;s first quantum pre-apprenticeship, an initiative designed to help companies better understand quantum technologies and identif…"
     },
     {
-      "title": "Qblox and HPE Collaborate on Hybrid Quantum-HPC Computing",
-      "link": "https://thequantuminsider.com/2026/06/25/qblox-collaborates-with-hpe-to-advance-hybrid-classical-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 25 Jun 2026 15:50:12 +0000",
-      "published_ts": 1782402612,
-      "summary": "Insider Brief Press release &#8211; Qblox, a leading provider of scalable quantum control electronics, today announced a collaboration with HPE to advance hybrid classical-quantum computing. Through this collaboration, Qblox control systems are a core enabler of HPE&#8217;s effort to integrate quant…"
-    },
-    {
-      "title": "Playground Global Joins NUS Initiative Supporting Singapore’s Quantum Ecosystem",
-      "link": "https://thequantuminsider.com/2026/06/25/playground-global-and-matter-venture-partners-join-us117-million-nus-vc-programme-to-tap-singapores-deep-tech-ecosystem/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 25 Jun 2026 15:32:45 +0000",
-      "published_ts": 1782401565,
-      "summary": "Insider Brief Press release &#8211; US-based venture capital (VC) firms, Playground Global and Matter Venture Partners, have partnered with NUS Enterprise, the entrepreneurial heart of the National University of Singapore (NUS), to join its US$117 million NUS VC Programme. Through these partnerships…"
-    },
-    {
-      "title": "QuEra Unveils Gigaquop-Class Fault-Tolerant Roadmap and Invites Organizations to Co-Design Quantum Applications",
-      "link": "https://thequantuminsider.com/2026/06/25/quera-unveils-gigaquop-class-fault-tolerant-roadmap-and-invites-organizations-to-co-design-quantum-applications/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 25 Jun 2026 15:23:54 +0000",
-      "published_ts": 1782401034,
-      "summary": "Insider Brief Press release &#8211; QuEra Computing today detailed the next phase of its fault-tolerant roadmap, including plans for a next-generation gigaquop-class quantum computer coming in 2028 to 2029, and launched a call for solutions inviting enterprises, HPC centers, and government programs…"
-    },
-    {
       "title": "Trios of quantum particles form checkerboard layouts when particle density hits sweet spot",
       "link": "https://phys.org/news/2026-06-trios-quantum-particles-checkerboard-layouts.html",
       "source": "Phys.org — Quantum Physics",
@@ -144,14 +272,6 @@
       "published": "Thu, 25 Jun 2026 08:20:01 EDT",
       "published_ts": 1782390001,
       "summary": "Gravity, the force that attracts objects toward each other, is currently framed by Albert Einstein's theory of general relativity. This framework describes gravity as the curvature of spacetime, the invisible four-dimensional fabric of the universe."
-    },
-    {
-      "title": "Lockheed Martin Sees GPS And Quantum Navigation Working Together",
-      "link": "https://thequantuminsider.com/2026/06/25/lockheed-martin-sees-gps-and-quantum-navigation-working-together/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 25 Jun 2026 11:40:41 +0000",
-      "published_ts": 1782387641,
-      "summary": "Insider Brief Lockheed Martin is positioning quantum navigation as a backup and companion to GPS, aiming to give military users more precise location data when satellite signals are blocked, jammed or spoofed. The company said in a news story that the future of positioning, navigation and timing, or…"
     },
     {
       "title": "Quantum waves reveal one-sided motion marking elusive critical states",
