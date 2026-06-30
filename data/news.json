@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1782811573,
+  "generated_ts": 1782828555,
   "items": [
+    {
+      "title": "QuiX Quantum Unveils Path to Universal Photonic Quantum Computing with Logical Qubits",
+      "link": "https://thequantuminsider.com/2026/06/30/quix-quantum-unveils-path-to-universal-photonic-quantum-computing-with-logical-qubits/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 30 Jun 2026 12:59:39 +0000",
+      "published_ts": 1782824379,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum today released its vision of universal photonic quantum computing with logical qubits through Dedalo, the company’s new system architecture designed to achieve practical, fault-tolerant systems that work seamlessly with classical supercomputers. Usefu…"
+    },
+    {
+      "title": "Quantum X Labs Appoints Dr. Ira Wolfson as Quantum Researcher",
+      "link": "https://thequantuminsider.com/2026/06/30/quantum-x-labs-appoints-dr-ira-wolfson/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 30 Jun 2026 12:58:28 +0000",
+      "published_ts": 1782824308,
+      "summary": "Insider Brief Press release &#8211; Quantum X Labs Ltd. (Nasdaq: QXL) today announced the appointment of Dr. Ira Wolfson to its leadership team as a quantum researcher, strengthening the Company&#8217;s scientific and engineering capabilities as it advances the development of next-generation quantum…"
+    },
+    {
+      "title": "Pasqal and Crédit Agricole CIB Deepen Partnership on Quantum Finance Applications",
+      "link": "https://thequantuminsider.com/2026/06/30/credit-agricole-cib-pasqal-strategic-partnership-quantum-computing-finance/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 30 Jun 2026 12:50:51 +0000",
+      "published_ts": 1782823851,
+      "summary": "Insider Brief Press release &#8211; Crédit Agricole CIB, the financing and investment banking arm of Crédit Agricole Group, and Pasqal, a global leader in neutral atom quantum computing, announced the signing of a strategic partnership to accelerate the transition from quantum research to operationa…"
+    },
+    {
+      "title": "D-Wave to Receive $1.5 Million Grant through NSF Project",
+      "link": "https://thequantuminsider.com/2026/06/30/dwave-1-5-million-nsf-grant-strengthen-us-quantum-computing-leadership/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 30 Jun 2026 12:09:48 +0000",
+      "published_ts": 1782821388,
+      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (NYSE: QBTS), (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced it has been selected to receive a $1,566,250 grant from the U.S.…"
+    },
+    {
+      "title": "SpinQ Raises RMB 1 Billion to Advance Fault-Tolerant Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/06/30/spinq-raises-rmb-1-billion-fault-tolerant-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 30 Jun 2026 11:21:02 +0000",
+      "published_ts": 1782818462,
+      "summary": "Insider Brief Press release &#8211;  SpinQ, a leading quantum computing company in China, has completed a RMB 1 billion Series D financing round, bringing its total funding raised over the past six months to RMB 2 billion. The round was backed by a group of prominent institutional and industrial inv…"
+    },
+    {
+      "title": "The Quantum Kid turns 1! (and Kai turns 10)",
+      "link": "https://thequantuminsider.com/2026/06/30/the-quantum-kid-turns-1-and-kai-turns-10/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 30 Jun 2026 11:06:40 +0000",
+      "published_ts": 1782817600,
+      "summary": "Insider Brief: He giggles. He makes faces. And he loves to ask big questions – about time, quarks, the Universe, and everything. He’s 10 now – Kai Weber, one of the youngest science YouTubers out there and possibly the youngest quantum YouTuber, celebrated his birthday by recording an anniversary ep…"
+    },
+    {
+      "title": "Q*Bird Launches the Falqon Key Manager to Enable Scalable Quantum Secure Networks",
+      "link": "https://thequantuminsider.com/2026/06/30/qbird-launches-falqon-key-manager-scalable-quantum-secure-networks/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 30 Jun 2026 10:06:05 +0000",
+      "published_ts": 1782813965,
+      "summary": "Insider Brief Press release &#8211; Q*Bird today announced the launch of the Falqon® Key Manager, a standalone quantum key management system designed to enable scalable, interoperable and hybrid quantum secure networks. As organisations prepare for the quantum era, the challenge is no longer limited…"
+    },
     {
       "title": "French National Quantum Update: June 2026",
       "link": "https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/",
@@ -152,62 +208,6 @@
       "published": "Mon, 29 Jun 2026 19:30:01 EDT",
       "published_ts": 1782775801,
       "summary": "Plutonium is one of the most complex elements in the periodic table. First synthesized and isolated in 1940 by scientists at the University of California, Berkeley, plutonium has been studied closely for more than eight decades. It's most often associated with its role in nuclear security, but it's…"
-    },
-    {
-      "title": "JIJ Appoints Steven Gibson to Lead U.S. Expansion",
-      "link": "https://thequantuminsider.com/2026/06/29/jij-appoints-steven-gibson-to-lead-u-s-expansion/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 29 Jun 2026 21:23:31 +0000",
-      "published_ts": 1782768211,
-      "summary": "Insider Brief PRESS RELEASE &#8212; JIJ Inc. today announced that Steven Gibson has joined the company as President of Americas to lead its U.S. expansion. Andrew J. Ochoa has also joined JIJ as Principal Solution Architect to scope, design, and lead delivery of JIJ’s hybrid quantum, AI, and advance…"
-    },
-    {
-      "title": "NIST Taps SRI to Establish The Quantum Manufacturing Engineering Center (QMEC)",
-      "link": "https://thequantuminsider.com/2026/06/29/nist-taps-sri-to-establish-the-quantum-manufacturing-engineering-center-qmec/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 29 Jun 2026 21:16:17 +0000",
-      "published_ts": 1782767777,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SRI,&#160;leading nonprofit R&#38;D institution,&#160;today announced&#160;that the&#160;U.S. Department of Commerce’s National Institute of Standards and Technology (NIST)&#160;has&#160;expanded&#160;its collaboration with SRI to ensure U.S. leadership in quantum…"
-    },
-    {
-      "title": "WiMi Explores Neural Networks for Twin-Field Quantum Key Distribution Optimization",
-      "link": "https://thequantuminsider.com/2026/06/29/wimi-neural-networks-dual-field-quantum-key-distribution-optimization/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 29 Jun 2026 15:56:19 +0000",
-      "published_ts": 1782748579,
-      "summary": "Insider Brief Press release &#8211; WiMi Hologram Cloud Inc. (NASDAQ: WiMi) (&#8220;WiMi&#8221; or the &#8220;Company&#8221;), a leading global Hologram Augmented Reality (&#8220;AR&#8221;) Technology provider, announced that they are researching the use of neural networks for machine learning to op…"
-    },
-    {
-      "title": "SandboxAQ Brings Large Quantitative Models to Google Cloud Marketplace",
-      "link": "https://thequantuminsider.com/2026/06/29/sandboxaq-bring-large-quantitative-models-google-cloud-marketplace/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 29 Jun 2026 14:05:16 +0000",
-      "published_ts": 1782741916,
-      "summary": "Insider Brief Press release &#8211; SandboxAQ today announced it will make its Large Quantitative Models (LQMs) accessible through Google Cloud’s Marketplace. Through this marketplace listing, users will be able to tap rigorous, physics-grounded scientific models directly from the conversational AI…"
-    },
-    {
-      "title": "Pasqal Appoints Stéphane Rougeot as Chief Financial Officer",
-      "link": "https://thequantuminsider.com/2026/06/29/pasqal-appoints-stephane-rougeot-chief-financial-officer/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 29 Jun 2026 13:57:03 +0000",
-      "published_ts": 1782741423,
-      "summary": "Insider Brief Press release &#8211; Pasqal, a global leader in neutral-atom quantum computing, today announced the appointment of Stéphane Rougeot as Chief Financial Officer (CFO). Rougeot — a finance leader who has served as CFO of multiple publicly-listed European technology companies — will overs…"
-    },
-    {
-      "title": "Texas A&M Researchers Develop Quantum Technique for Drug Discovery",
-      "link": "https://thequantuminsider.com/2026/06/29/quantum-technique-drug-discovery/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 29 Jun 2026 10:25:23 +0000",
-      "published_ts": 1782728723,
-      "summary": "Insider Brief It’s one thing to design a pharmaceutical drug. It’s another to know if and why it actually works. Not on paper or in a computer model. But inside the chaotic world of living systems, where proteins twist into shape, atoms constantly pull and push each other apart and molecular interac…"
-    },
-    {
-      "title": "QuTech Demonstrates Coherent Diamond Quantum Emitter Interface for Quantum Networks",
-      "link": "https://thequantuminsider.com/2026/06/29/qutech-diamond-quantum-network-interface/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 29 Jun 2026 10:02:20 +0000",
-      "published_ts": 1782727340,
-      "summary": "Insider Brief Future quantum networks will depend on reliable handshakes between two very different carriers of quantum information: solid-state qubits that can store and process information, and photons that can carry it between distant nodes. A team of researchers from QuTech has demonstrated an e…"
     },
     {
       "title": "Non-Hermitian geometry reveals when quantum amplification depends only on start and end points",
