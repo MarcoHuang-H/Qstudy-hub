@@ -1,6 +1,142 @@
 {
-  "generated_ts": 1782876197,
+  "generated_ts": 1782898711,
   "items": [
+    {
+      "title": "Researchers Use IBM Quantum Hardware to Model a Key Particle Physics Process",
+      "link": "https://thequantuminsider.com/2026/07/01/researchers-use-ibm-quantum-hardware-to-model-a-key-particle-physics-process/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 01 Jul 2026 07:54:21 +0000",
+      "published_ts": 1782892461,
+      "summary": "Insider Brief PRESS RELEASE &#8212; By remotely accessing an IBM quantum computer through the Quantum Computer User Program (QCUP) — a quantum computing access program managed by the Oak Ridge Leadership Computing Facility, a Department of Energy Office of Science user facility located at DOE’s Oak…"
+    },
+    {
+      "title": "Microsoft Moves Up Quantum-Safe Security Deadline to 2029",
+      "link": "https://thequantuminsider.com/2026/07/01/microsoft-moves-up-quantum-safe-security-deadline-to-2029/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 01 Jul 2026 07:45:51 +0000",
+      "published_ts": 1782891951,
+      "summary": "Insider Brief Microsoft is moving up its deadline for quantum-safe security, a sign that major technology providers see the transition to new encryption as a near-term engineering problem rather than a distant risk. The announcement was in line with an earlier report on quantum research advances tha…"
+    },
+    {
+      "title": "Beyond Worst-Case Branching: Quantum Tree Search via Amplitude Amplification",
+      "link": "https://arxiv.org/abs/2606.28452",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28452v1 Announce Type: new  Abstract: In this work, we investigate quantum tree search via amplitude amplification. Amplitude amplification generalizes Grover's algorithm by replacing the Hadamard initialization with an arbitrary unitary $A$, with Grover's algorithm recovered as the speci…"
+    },
+    {
+      "title": "Quantum Fourier Generative Models Trainable at Large Scale",
+      "link": "https://arxiv.org/abs/2606.28483",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28483v1 Announce Type: new  Abstract: We propose an algorithmic framework for building and training quantum generative models corresponding to multivariate probability distributions. Our model uses parallel Fourier feature maps for embedding continuous-valued variables combined with a for…"
+    },
+    {
+      "title": "The subthreshold issue of fusion-based quantum computing",
+      "link": "https://arxiv.org/abs/2606.28490",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28490v1 Announce Type: new  Abstract: Fusion-based quantum architectures are the leading approach to photonic quantum computing. However, the sub-threshold regime, where logical error rates must reach the levels required by useful applications, has received little attention. We show that…"
+    },
+    {
+      "title": "Dissipative Effects in Transmission Line Analogues of Hawking Radiation",
+      "link": "https://arxiv.org/abs/2606.28505",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28505v1 Announce Type: new  Abstract: Hawking radiation is a fundamental result of quantum field theory in curved spacetime, yet its direct observation remains beyond current experimental capabilities. Circuit quantum electrodynamics provides a practical platform for realizing analogue sy…"
+    },
+    {
+      "title": "Borrowed Identities: Malleable Distillation Factories and a Unified Numerical Search",
+      "link": "https://arxiv.org/abs/2606.28518",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28518v1 Announce Type: new  Abstract: Magic-state distillation is one of the leading overheads in fault-tolerant quantum computation. Existing methods for finding distillation factories require a transversal gate to act correctly on the entire codespace, a constraint that limits both gene…"
+    },
+    {
+      "title": "High yield creation of germanium vacancy centers in diamond by focused ion beam implantation and high temperature annealing",
+      "link": "https://arxiv.org/abs/2606.28528",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28528v1 Announce Type: new  Abstract: Negatively charged germanium vacancy centers (GeV) in diamond are a promising platform for quantum computing and quantum communication. However, these applications require the precise incorporation of GeV centers with good optical properties inside of…"
+    },
+    {
+      "title": "Dynamical decoupling of a quantum dot spin in a micropillar cavity for spin-multiphoton entanglement",
+      "link": "https://arxiv.org/abs/2606.28535",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28535v1 Announce Type: new  Abstract: Graph states of mutually entangled photons are key resources for quantum computation and communication and can be generated by leveraging the entanglement between a single resident spin and emitted photons from a charged semiconductor quantum dot (QD)…"
+    },
+    {
+      "title": "Pauli-Sparse regularised Counterdiabatic Shortcuts for Linear-Ramp QAOA",
+      "link": "https://arxiv.org/abs/2606.28536",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28536v1 Announce Type: new  Abstract: Combinatorial optimization is a leading target for quantum algorithms, but finite-depth QAOA can suffer from strong diabatic errors when the interpolation Hamiltonian has small, or exponentially small, spectral gaps. We propose a Pauli-sparse counterd…"
+    },
+    {
+      "title": "Enhancing Initial-State Sensitivity through Time-Dependent Hamiltonian Readout in Ising Spin Chains",
+      "link": "https://arxiv.org/abs/2606.28552",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28552v2 Announce Type: new  Abstract: Local observables can lose sensitivity to an initial state during strongly interacting many-body evolution even though the global dynamics remain unitary. We show that this sensitivity can be enhanced through a time-dependent Hamiltonian readout. Two…"
+    },
+    {
+      "title": "The Prepare and Broadcast Scenario",
+      "link": "https://arxiv.org/abs/2606.28632",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28632v1 Announce Type: new  Abstract: We introduce the dimension-restricted prepare and broadcast (PAB) scenario, which generalizes standard prepare-and-measure frameworks. Here, the system prepared by a sender undergoes a broadcasting transformation before being locally measured by multi…"
+    },
+    {
+      "title": "The Schr\\\"{o}dinger equation in the complex plane and quantum entanglement",
+      "link": "https://arxiv.org/abs/2606.28640",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28640v1 Announce Type: new  Abstract: We formulate a continuity equation for the Schr\\\"odinger equation in the complex space. We define a complex momentum by normalizing the complex current by the particle density. This momentum is a quantum analog of the classical, kinematic momentum ana…"
+    },
+    {
+      "title": "Exploring the Effects of Entanglement on Quantum Machine Learning of Pathogen Epitope-Receptor Binding",
+      "link": "https://arxiv.org/abs/2606.28655",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28655v1 Announce Type: new  Abstract: Parameterized quantum circuits (PQCs) provide a flexible substrate for hybrid quantum machine learning (QML), but their practical value on Noisy Intermediate-Scale Quantum (NISQ) devices remains an empirical question, especially because training depth…"
+    },
+    {
+      "title": "Emergence of Thermodynamics from Equilibration in Isolated Quantum Systems",
+      "link": "https://arxiv.org/abs/2606.28660",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28660v1 Announce Type: new  Abstract: Understanding how macroscopic thermodynamic behavior emerges from microscopic quantum dynamics remains an open problem. While equilibration of quantum observables is well established, thermodynamics also relies on variables not directly associated wit…"
+    },
+    {
+      "title": "Temporal Dynamical Quantum Phase Transition in Dicke Model with Trapped Ions",
+      "link": "https://arxiv.org/abs/2606.28664",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28664v1 Announce Type: new  Abstract: Temporal non-analyticities in the rate function of the Loschmidt echo manifests a class of dynamical quantum phase transitions (DQPTs) that has emerged as a powerful framework for understanding far-from-equilibrium many-body dynamics. While such DQPT…"
+    },
+    {
+      "title": "A QUBO Formulation for Nowhere-Zero $k$-Flows",
+      "link": "https://arxiv.org/abs/2606.28687",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "published_ts": 1782878400,
+      "summary": "arXiv:2606.28687v1 Announce Type: new  Abstract: We consider the encoding of graph problems as Quadratic Unconstrained Binary Optimization (QUBO) problems, which are solvable by either quantum or classical annealers. Yet, the class of problems encoded as QUBO problems has not previously included now…"
+    },
     {
       "title": "Quantum computer simulates hadronization, reproducing string breaking with 104 qubits",
       "link": "https://phys.org/news/2026-06-quantum-simulates-hadronization-qubits.html",
@@ -80,142 +216,6 @@
       "published": "Tue, 30 Jun 2026 11:21:02 +0000",
       "published_ts": 1782818462,
       "summary": "Insider Brief Press release &#8211;  SpinQ, a leading quantum computing company in China, has completed a RMB 1 billion Series D financing round, bringing its total funding raised over the past six months to RMB 2 billion. The round was backed by a group of prominent institutional and industrial inv…"
-    },
-    {
-      "title": "The Quantum Kid turns 1! (and Kai turns 10)",
-      "link": "https://thequantuminsider.com/2026/06/30/the-quantum-kid-turns-1-and-kai-turns-10/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 30 Jun 2026 11:06:40 +0000",
-      "published_ts": 1782817600,
-      "summary": "Insider Brief: He giggles. He makes faces. And he loves to ask big questions – about time, quarks, the Universe, and everything. He’s 10 now – Kai Weber, one of the youngest science YouTubers out there and possibly the youngest quantum YouTuber, celebrated his birthday by recording an anniversary ep…"
-    },
-    {
-      "title": "Q*Bird Launches the Falqon Key Manager to Enable Scalable Quantum Secure Networks",
-      "link": "https://thequantuminsider.com/2026/06/30/qbird-launches-falqon-key-manager-scalable-quantum-secure-networks/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 30 Jun 2026 10:06:05 +0000",
-      "published_ts": 1782813965,
-      "summary": "Insider Brief Press release &#8211; Q*Bird today announced the launch of the Falqon® Key Manager, a standalone quantum key management system designed to enable scalable, interoperable and hybrid quantum secure networks. As organisations prepare for the quantum era, the challenge is no longer limited…"
-    },
-    {
-      "title": "Beyond Worst-Case Branching: Quantum Tree Search via Amplitude Amplification",
-      "link": "https://arxiv.org/abs/2606.28452",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28452v1 Announce Type: new  Abstract: In this work, we investigate quantum tree search via amplitude amplification. Amplitude amplification generalizes Grover's algorithm by replacing the Hadamard initialization with an arbitrary unitary $A$, with Grover's algorithm recovered as the speci…"
-    },
-    {
-      "title": "Quantum Fourier Generative Models Trainable at Large Scale",
-      "link": "https://arxiv.org/abs/2606.28483",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28483v1 Announce Type: new  Abstract: We propose an algorithmic framework for building and training quantum generative models corresponding to multivariate probability distributions. Our model uses parallel Fourier feature maps for embedding continuous-valued variables combined with a for…"
-    },
-    {
-      "title": "The subthreshold issue of fusion-based quantum computing",
-      "link": "https://arxiv.org/abs/2606.28490",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28490v1 Announce Type: new  Abstract: Fusion-based quantum architectures are the leading approach to photonic quantum computing. However, the sub-threshold regime, where logical error rates must reach the levels required by useful applications, has received little attention. We show that…"
-    },
-    {
-      "title": "Dissipative Effects in Transmission Line Analogues of Hawking Radiation",
-      "link": "https://arxiv.org/abs/2606.28505",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28505v1 Announce Type: new  Abstract: Hawking radiation is a fundamental result of quantum field theory in curved spacetime, yet its direct observation remains beyond current experimental capabilities. Circuit quantum electrodynamics provides a practical platform for realizing analogue sy…"
-    },
-    {
-      "title": "Borrowed Identities: Malleable Distillation Factories and a Unified Numerical Search",
-      "link": "https://arxiv.org/abs/2606.28518",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28518v1 Announce Type: new  Abstract: Magic-state distillation is one of the leading overheads in fault-tolerant quantum computation. Existing methods for finding distillation factories require a transversal gate to act correctly on the entire codespace, a constraint that limits both gene…"
-    },
-    {
-      "title": "High yield creation of germanium vacancy centers in diamond by focused ion beam implantation and high temperature annealing",
-      "link": "https://arxiv.org/abs/2606.28528",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28528v1 Announce Type: new  Abstract: Negatively charged germanium vacancy centers (GeV) in diamond are a promising platform for quantum computing and quantum communication. However, these applications require the precise incorporation of GeV centers with good optical properties inside of…"
-    },
-    {
-      "title": "Dynamical decoupling of a quantum dot spin in a micropillar cavity for spin-multiphoton entanglement",
-      "link": "https://arxiv.org/abs/2606.28535",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28535v1 Announce Type: new  Abstract: Graph states of mutually entangled photons are key resources for quantum computation and communication and can be generated by leveraging the entanglement between a single resident spin and emitted photons from a charged semiconductor quantum dot (QD)…"
-    },
-    {
-      "title": "Pauli-Sparse regularised Counterdiabatic Shortcuts for Linear-Ramp QAOA",
-      "link": "https://arxiv.org/abs/2606.28536",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28536v1 Announce Type: new  Abstract: Combinatorial optimization is a leading target for quantum algorithms, but finite-depth QAOA can suffer from strong diabatic errors when the interpolation Hamiltonian has small, or exponentially small, spectral gaps. We propose a Pauli-sparse counterd…"
-    },
-    {
-      "title": "Enhancing Initial-State Sensitivity through Time-Dependent Hamiltonian Readout in Ising Spin Chains",
-      "link": "https://arxiv.org/abs/2606.28552",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28552v1 Announce Type: new  Abstract: Local observables can lose sensitivity to an initial state during strongly interacting many-body evolution even though the global dynamics remain unitary. We show that this sensitivity can be enhanced through a time-dependent Hamiltonian readout. Two…"
-    },
-    {
-      "title": "The Prepare and Broadcast Scenario",
-      "link": "https://arxiv.org/abs/2606.28632",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28632v1 Announce Type: new  Abstract: We introduce the dimension-restricted prepare and broadcast (PAB) scenario, which generalizes standard prepare-and-measure frameworks. Here, the system prepared by a sender undergoes a broadcasting transformation before being locally measured by multi…"
-    },
-    {
-      "title": "The Schr\\\"{o}dinger equation in the complex plane and quantum entanglement",
-      "link": "https://arxiv.org/abs/2606.28640",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28640v1 Announce Type: new  Abstract: We formulate a continuity equation for the Schr\\\"odinger equation in the complex space. We define a complex momentum by normalizing the complex current by the particle density. This momentum is a quantum analog of the classical, kinematic momentum ana…"
-    },
-    {
-      "title": "Exploring the Effects of Entanglement on Quantum Machine Learning of Pathogen Epitope-Receptor Binding",
-      "link": "https://arxiv.org/abs/2606.28655",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28655v1 Announce Type: new  Abstract: Parameterized quantum circuits (PQCs) provide a flexible substrate for hybrid quantum machine learning (QML), but their practical value on Noisy Intermediate-Scale Quantum (NISQ) devices remains an empirical question, especially because training depth…"
-    },
-    {
-      "title": "Emergence of Thermodynamics from Equilibration in Isolated Quantum Systems",
-      "link": "https://arxiv.org/abs/2606.28660",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28660v1 Announce Type: new  Abstract: Understanding how macroscopic thermodynamic behavior emerges from microscopic quantum dynamics remains an open problem. While equilibration of quantum observables is well established, thermodynamics also relies on variables not directly associated wit…"
-    },
-    {
-      "title": "Temporal Dynamical Quantum Phase Transition in Dicke Model with Trapped Ions",
-      "link": "https://arxiv.org/abs/2606.28664",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28664v1 Announce Type: new  Abstract: Temporal non-analyticities in the rate function of the Loschmidt echo manifests a class of dynamical quantum phase transitions (DQPTs) that has emerged as a powerful framework for understanding far-from-equilibrium many-body dynamics. While such DQPT…"
-    },
-    {
-      "title": "A QUBO Formulation for Nowhere-Zero $k$-Flows",
-      "link": "https://arxiv.org/abs/2606.28687",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "published_ts": 1782792000,
-      "summary": "arXiv:2606.28687v1 Announce Type: new  Abstract: We consider the encoding of graph problems as Quadratic Unconstrained Binary Optimization (QUBO) problems, which are solvable by either quantum or classical annealers. Yet, the class of problems encoded as QUBO problems has not previously included now…"
     },
     {
       "title": "Plutonium compound unlocks rare topological quantum behavior with potential nuclear science applications",
