@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1782898711,
+  "generated_ts": 1782915975,
   "items": [
+    {
+      "title": "Researchers Use AI to Make Quantum Circuit Tuning Less Trial And Error",
+      "link": "https://thequantuminsider.com/2026/07/01/researchers-use-ai-to-make-quantum-circuit-tuning-less-trial-and-error/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 01 Jul 2026 11:18:03 +0000",
+      "published_ts": 1782904683,
+      "summary": "Insider Brief A new AI-assisted framework may help researchers find useful patterns in quantum algorithms before they spend scarce time running them on real machines. The study, posted to arXiv, introduces SCALAR &#8212; short for Symbolic Conjecture and LLM-Assisted Reasoning &#8212; a system desig…"
+    },
+    {
+      "title": "IQM Completes Business Combination with RAAQ and Lists on Nasdaq",
+      "link": "https://thequantuminsider.com/2026/07/01/iqm-completes-raaq-business-combination/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 01 Jul 2026 10:35:42 +0000",
+      "published_ts": 1782902142,
+      "summary": "Insider Brief Press release &#8211; IQM Quantum Computers Plc (“IQM”) has on February 22, 2026 entered into a definitive business combination agreement (the “Business Combination Agreement”) with Real Asset Acquisition Corp. (“RAAQ”), a Nasdaq-listed special purpose acquisition company, pursuant to…"
+    },
+    {
+      "title": "Wave Photonics Adds Synopsys OptoCompiler Support for Its PDK Platform",
+      "link": "https://thequantuminsider.com/2026/07/01/wave-photonics-announces-synopsys-optocompiler-compatibility-for-pdks-hosted-on-its-pdk-management-platform/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 01 Jul 2026 09:23:42 +0000",
+      "published_ts": 1782897822,
+      "summary": "Insider Brief Press release &#8211; Wave Photonics announced that, as of today, all the PDKs developed or managed by Wave Photonics through the PDK management platform are now compatible with Synopsys OptoCompiler. OptoCompiler is the industry’s first unified electronic and photonic design platform,…"
+    },
+    {
+      "title": "BTQ Finalizes QPerfect Acquisition Following French Approval",
+      "link": "https://thequantuminsider.com/2026/07/01/btq-qperfect-acquisition-approved/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 01 Jul 2026 09:13:29 +0000",
+      "published_ts": 1782897209,
+      "summary": "Insider Brief Press release &#8211; BTQ Technologies Corp. (“BTQ” or the “Company”) (Nasdaq: BTQ) (CBOE CA: BTQ), a global quantum technology company focused on securing mission-critical networks, is pleased to announce that it has received regulatory approval from the French Foreign Direct Investme…"
+    },
     {
       "title": "Researchers Use IBM Quantum Hardware to Model a Key Particle Physics Process",
       "link": "https://thequantuminsider.com/2026/07/01/researchers-use-ibm-quantum-hardware-to-model-a-key-particle-physics-process/",
@@ -184,38 +216,6 @@
       "published": "Tue, 30 Jun 2026 12:59:39 +0000",
       "published_ts": 1782824379,
       "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum today released its vision of universal photonic quantum computing with logical qubits through Dedalo, the company’s new system architecture designed to achieve practical, fault-tolerant systems that work seamlessly with classical supercomputers. Usefu…"
-    },
-    {
-      "title": "Quantum X Labs Appoints Dr. Ira Wolfson as Quantum Researcher",
-      "link": "https://thequantuminsider.com/2026/06/30/quantum-x-labs-appoints-dr-ira-wolfson/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 30 Jun 2026 12:58:28 +0000",
-      "published_ts": 1782824308,
-      "summary": "Insider Brief Press release &#8211; Quantum X Labs Ltd. (Nasdaq: QXL) today announced the appointment of Dr. Ira Wolfson to its leadership team as a quantum researcher, strengthening the Company&#8217;s scientific and engineering capabilities as it advances the development of next-generation quantum…"
-    },
-    {
-      "title": "Pasqal and Crédit Agricole CIB Deepen Partnership on Quantum Finance Applications",
-      "link": "https://thequantuminsider.com/2026/06/30/credit-agricole-cib-pasqal-strategic-partnership-quantum-computing-finance/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 30 Jun 2026 12:50:51 +0000",
-      "published_ts": 1782823851,
-      "summary": "Insider Brief Press release &#8211; Crédit Agricole CIB, the financing and investment banking arm of Crédit Agricole Group, and Pasqal, a global leader in neutral atom quantum computing, announced the signing of a strategic partnership to accelerate the transition from quantum research to operationa…"
-    },
-    {
-      "title": "D-Wave to Receive $1.5 Million Grant through NSF Project",
-      "link": "https://thequantuminsider.com/2026/06/30/dwave-1-5-million-nsf-grant-strengthen-us-quantum-computing-leadership/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 30 Jun 2026 12:09:48 +0000",
-      "published_ts": 1782821388,
-      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (NYSE: QBTS), (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced it has been selected to receive a $1,566,250 grant from the U.S.…"
-    },
-    {
-      "title": "SpinQ Raises RMB 1 Billion to Advance Fault-Tolerant Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/06/30/spinq-raises-rmb-1-billion-fault-tolerant-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 30 Jun 2026 11:21:02 +0000",
-      "published_ts": 1782818462,
-      "summary": "Insider Brief Press release &#8211;  SpinQ, a leading quantum computing company in China, has completed a RMB 1 billion Series D financing round, bringing its total funding raised over the past six months to RMB 2 billion. The round was backed by a group of prominent institutional and industrial inv…"
     },
     {
       "title": "Plutonium compound unlocks rare topological quantum behavior with potential nuclear science applications",
