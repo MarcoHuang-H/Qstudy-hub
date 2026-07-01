@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1782915975,
+  "generated_ts": 1782935247,
   "items": [
+    {
+      "title": "Quantum Leap Raises $230 Million as SPAC Eyes AI And Quantum Targets",
+      "link": "https://thequantuminsider.com/2026/07/01/quantum-leap-raises-230-million-as-spac-eyes-ai-and-quantum-targets/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 01 Jul 2026 14:58:42 +0000",
+      "published_ts": 1782917922,
+      "summary": "Insider Brief Quantum Leap Acquisition Corp. has completed the sale of 23 million units in its initial public offering, giving the newly listed blank-check company $230 million in gross proceeds as it begins looking for a business combination in artificial intelligence, quantum computing or blockcha…"
+    },
+    {
+      "title": "Classiq and QAI Launch Quantum Cloud Offering in Korea",
+      "link": "https://thequantuminsider.com/2026/07/01/classiq-and-qai-launch-quantum-cloud-offering-in-korea/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 01 Jul 2026 14:44:28 +0000",
+      "published_ts": 1782917068,
+      "summary": "Insider Brief Press release &#8211; Classiq, a global leader in quantum computing software, announced today that it has signed a significant commercial agreement with Quantum-AI data center specialist QAI Co., Ltd. (CEO Seman Im; “QAI”) to provide nation’s first local Quantum-as-a-Service (“QaaS”) o…"
+    },
+    {
+      "title": "NSA Introduces QuantumEAGLe Program to Advance U.S. Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/07/01/nsa-devcom-army-research-office-launch-quantumeagle-initiative/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 01 Jul 2026 14:40:59 +0000",
+      "published_ts": 1782916859,
+      "summary": "Insider Brief Press release &#8211; The Laboratory for Physical Sciences (LPS) at the National Security Agency (NSA), in close collaboration with the U.S. Army Combat Capabilities Development Command (DEVCOM) Army Research Office (ARO), announces the launch of the Quantum Ecosystem Advancement, Grow…"
+    },
+    {
+      "title": "Wultra Raises €6.8 Million in Series A to Expand Post-Quantum Digital Identity Platform",
+      "link": "https://thequantuminsider.com/2026/07/01/wultra-raises-6-8-million-series-a-funding-to-accelerate-global-expansion-of-post-quantum-digital-identity-solutions/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 01 Jul 2026 14:32:12 +0000",
+      "published_ts": 1782916332,
+      "summary": "Insider Brief Press release &#8211; Wultra, a European provider of post-quantum authentication and digital identity solutions for banks and fintechs, announced the completion of a €6.8 million Series A funding round. The investment round was backed by lead investor Seventure Partners, followed by AR…"
+    },
     {
       "title": "Researchers Use AI to Make Quantum Circuit Tuning Less Trial And Error",
       "link": "https://thequantuminsider.com/2026/07/01/researchers-use-ai-to-make-quantum-circuit-tuning-less-trial-and-error/",
@@ -39,7 +71,7 @@
       "source": "The Quantum Insider",
       "published": "Wed, 01 Jul 2026 07:54:21 +0000",
       "published_ts": 1782892461,
-      "summary": "Insider Brief PRESS RELEASE &#8212; By remotely accessing an IBM quantum computer through the Quantum Computer User Program (QCUP) — a quantum computing access program managed by the Oak Ridge Leadership Computing Facility, a Department of Energy Office of Science user facility located at DOE’s Oak…"
+      "summary": "Insider Brief PRESS RELEASE &#8212; By remotely accessing an IBM quantum computer through the&#160;Quantum Computer User Program&#160;(QCUP) — a quantum computing access program managed by the Oak Ridge Leadership Computing Facility, a Department of Energy Office of Science user facility located at…"
     },
     {
       "title": "Microsoft Moves Up Quantum-Safe Security Deadline to 2029",
@@ -178,44 +210,12 @@
       "summary": "By remotely accessing an IBM quantum computer, a research scientist at Lawrence Berkeley National Laboratory has successfully simulated a key process in particle physics: hadronization. Although based on a simplified model of quantum mechanics, the project lays the groundwork for how physicists can…"
     },
     {
-      "title": "StarkWare Unveils Quantum-Safe Roadmap for Starknet",
-      "link": "https://thequantuminsider.com/2026/06/30/starkware-releases-roadmap-to-make-starknet-quantum-safe/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 30 Jun 2026 16:57:38 +0000",
-      "published_ts": 1782838658,
-      "summary": "Insider Brief Press release &#8211; A new roadmap for quantum-safe blockchain has dropped, and authors say it illustrates that tools already exist to protect crypto from quantum threats and that keys will remain exposed only if the industry is “too stubborn or stupid” to act. The roadmap focuses on…"
-    },
-    {
-      "title": "Europe Launches Quantum Skills Academy to Expand Workforce Development",
-      "link": "https://thequantuminsider.com/2026/06/30/europe-launches-new-quantum-and-ai-skills-academies-to-build-its-critical-tech-workforce/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 30 Jun 2026 16:47:27 +0000",
-      "published_ts": 1782838047,
-      "summary": "Insider Brief Press release &#8211; The European Commission today officially launched three new digital skills academies in Quantum, Generative AI, and Virtual Worlds, marking one of Europe&#8217;s most ambitious pushes yet to build the workforce its critical technologies will require.  The announce…"
-    },
-    {
       "title": "Physicists demonstrate Hong–Ou–Mandel interference with more than 10 atoms",
       "link": "https://phys.org/news/2026-06-physicists-hongoumandel-atoms.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 30 Jun 2026 12:00:01 EDT",
       "published_ts": 1782835201,
       "summary": "In a new study published in Nature Physics, researchers have demonstrated the Hong–Ou–Mandel (HOM) effect with up to 12 indistinguishable neutral atoms—an effect that has been predominantly observed in photonic systems."
-    },
-    {
-      "title": "Copernic Space and Intrana Partner to Secure Space Assets Against Looming Quantum Threat",
-      "link": "https://thequantuminsider.com/2026/06/30/copernic-space-and-intrana-partner-to-secure-space-assets-against-looming-quantum-threat/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 30 Jun 2026 14:19:13 +0000",
-      "published_ts": 1782829153,
-      "summary": "Insider Brief PRESS RELEASE &#8212; &#160;Governments, financial institutions, and blockchain networks worldwide are racing to prepare for a future where quantum computation could break today&#8217;s cryptographic standards, threatening trillions of dollars in digital assets and financial infrastruc…"
-    },
-    {
-      "title": "QuiX Quantum Unveils Path to Universal Photonic Quantum Computing with Logical Qubits",
-      "link": "https://thequantuminsider.com/2026/06/30/quix-quantum-unveils-path-to-universal-photonic-quantum-computing-with-logical-qubits/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 30 Jun 2026 12:59:39 +0000",
-      "published_ts": 1782824379,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum today released its vision of universal photonic quantum computing with logical qubits through Dedalo, the company’s new system architecture designed to achieve practical, fault-tolerant systems that work seamlessly with classical supercomputers. Usefu…"
     },
     {
       "title": "Plutonium compound unlocks rare topological quantum behavior with potential nuclear science applications",
