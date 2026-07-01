@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1782848930,
+  "generated_ts": 1782876197,
   "items": [
+    {
+      "title": "Quantum computer simulates hadronization, reproducing string breaking with 104 qubits",
+      "link": "https://phys.org/news/2026-06-quantum-simulates-hadronization-qubits.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 30 Jun 2026 18:40:01 EDT",
+      "published_ts": 1782859201,
+      "summary": "By remotely accessing an IBM quantum computer, a research scientist at Lawrence Berkeley National Laboratory has successfully simulated a key process in particle physics: hadronization. Although based on a simplified model of quantum mechanics, the project lays the groundwork for how physicists can…"
+    },
     {
       "title": "StarkWare Unveils Quantum-Safe Roadmap for Starknet",
       "link": "https://thequantuminsider.com/2026/06/30/starkware-releases-roadmap-to-make-starknet-quantum-safe/",
@@ -320,14 +328,6 @@
       "published": "Wed, 24 Jun 2026 11:00:01 EDT",
       "published_ts": 1782313201,
       "summary": "Diamonds have long been coveted for their beauty. Their dazzling color and clarity make them perfect candidates for luxury jewelry. However, it's their other unique characteristics, including their hardness, thermal conductivity and chemical resistance, that make diamonds suitable for various applic…"
-    },
-    {
-      "title": "Quantum squeezing sidesteps the limits on mechanical transducers",
-      "link": "https://phys.org/news/2026-06-quantum-sidesteps-limits-mechanical-transducers.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 24 Jun 2026 10:40:02 EDT",
-      "published_ts": 1782312002,
-      "summary": "From detecting the ripples of colliding black holes to imaging individual chemical bonds, mechanical transducers have repeatedly transformed our understanding of the universe. So far, however, the sensitivity of these devices has been intrinsically limited by the laws of quantum mechanics itself."
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
