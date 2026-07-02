@@ -1,6 +1,86 @@
 {
-  "generated_ts": 1782982166,
+  "generated_ts": 1783000145,
   "items": [
+    {
+      "title": "Analog gravity advance offers new insights into Hawking radiation from black holes",
+      "link": "https://phys.org/news/2026-07-analog-gravity-advance-insights-hawking.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 02 Jul 2026 09:40:03 EDT",
+      "published_ts": 1782999603,
+      "summary": "Hawking radiation is a form of radiation emitted by black holes, as theoretically predicted by Stephen Hawking. It suggests that black holes do not merely swallow matter—as had previously been assumed—but also emit very faint radiation themselves. This radiation has not yet been observed in space; i…"
+    },
+    {
+      "title": "Qolab Secures $54.2 Million in Series B to Advance Superconducting Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/07/02/qolab-announces-54-2-million-series-b-financing-and-commitments-led-by-uc-investments/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 02 Jul 2026 13:23:07 +0000",
+      "published_ts": 1782998587,
+      "summary": "Insider Brief Press release &#8211; Qolab Inc., a leader in quantum computing hardware, today announced the initial closings of its Series B Preferred Stock financing, which, together with the conversion of an aggregate of $12.6 million in convertible securities and a commitment for an aggregate of…"
+    },
+    {
+      "title": "Pasqal and Aeponyx Launch Canadian PIC Packaging Center for Quantum Technologies",
+      "link": "https://thequantuminsider.com/2026/07/02/pasqal-and-aeponyx-launch-a-pic-packaging-center-of-competency-for-sensing-and-quantum-applications-at-c2mi/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 02 Jul 2026 13:01:02 +0000",
+      "published_ts": 1782997262,
+      "summary": "Insider Brief Press release &#8211; Pasqal, through its Canadian subsidiary Aeponyx, today announced the creation of a specialized center of competency focused on assembling and packaging key components used in quantum and advanced sensing technologies in Canada. The Center of Competency in Photonic…"
+    },
+    {
+      "title": "CCRAFT Raises $7.8 Million to Expand Swiss Photonic Chip Foundry",
+      "link": "https://thequantuminsider.com/2026/07/02/swiss-ccraft-expands-the-worlds-first-independent-foundry-for-tfln-photonic-chips/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 02 Jul 2026 12:53:39 +0000",
+      "published_ts": 1782996819,
+      "summary": "Insider Brief Press release &#8211; As the global race for AI and quantum technologies accelerates, Swiss deep-tech company CCRAFT is building industrial-scale manufacturing capacity for photonic chips in Neuchâtel. The company aims to position Switzerland at the forefront of one of the most importa…"
+    },
+    {
+      "title": "Single Ion Detector Could Lead to Improvements in Quantum Computers and Sensors",
+      "link": "https://thequantuminsider.com/2026/07/02/single-ion-detector-could-lead-to-improvements-in-quantum-computers-and-sensors/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 02 Jul 2026 10:58:46 +0000",
+      "published_ts": 1782989926,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Single electrically charged atoms – ions – have been successfully used for some time as quantum bits in quantum computers and quantum sensors. Unlike the bulky ion traps of the early years, there are now miniaturised chips in which ions can be trapped and manipula…"
+    },
+    {
+      "title": "Why Asia’s Quantum Ambitions Need Post-Quantum Security",
+      "link": "https://thequantuminsider.com/2026/07/02/asias-quantum-race-needs-a-security-strategy-that-can-keep-pace/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 02 Jul 2026 10:04:19 +0000",
+      "published_ts": 1782986659,
+      "summary": "Guest Post by David Holtzman, Executive Chair at Naoris Quantum Protocol&#160; The White House’s June 22 executive order, which accelerates quantum computing efforts and places post-quantum cryptography firmly on the agenda, reflects a growing recognition that quantum readiness now sits alongside br…"
+    },
+    {
+      "title": "QNu Labs Partners with SAGA Consultants to Expand Quantum Security Services",
+      "link": "https://thequantuminsider.com/2026/07/02/qnu-labs-saga-consultants-partnership/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 02 Jul 2026 09:45:00 +0000",
+      "published_ts": 1782985500,
+      "summary": "Insider Brief Press release &#8211; QNu Labs (www.qnulabs.com), a global leader in end-to-end hybrid quantum cybersecurity solutions, has announced a strategic partnership with SAGA Consultants, a U.S. based technology consulting firm, to expand the reach of quantum safe cybersecurity solutions acro…"
+    },
+    {
+      "title": "UCF Scientist Develops New Approach to Reduce Quantum Computing Errors",
+      "link": "https://thequantuminsider.com/2026/07/02/ucf-researchers-develop-noise-resistant-approach-to-fault-tolerant-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 02 Jul 2026 09:42:12 +0000",
+      "published_ts": 1782985332,
+      "summary": "Insider Brief Quantum computers could one day solve problems beyond the reach of even the world’s most powerful supercomputers, accelerating everything from drug discovery to the development of advanced materials and cleaner energy technologies. But the fragile quantum states that make such machines…"
+    },
+    {
+      "title": "Shanghai Launches Quantum Computing Hub as Chinese Cities Compete for Industry Leadership",
+      "link": "https://thequantuminsider.com/2026/07/02/shanghai-launches-quantum-computing-hub-as-chinese-cities-compete-for-industry-leadership/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 02 Jul 2026 08:28:00 +0000",
+      "published_ts": 1782980880,
+      "summary": "Insider Brief Shanghai has launched a dedicated quantum computing industrial hub, hoping to incubate hundreds of quantum computing companies as cities across the country compete to become centers for the emerging technology. The Shanghai Quantum Computing Future Industry Incubation Zone officially o…"
+    },
+    {
+      "title": "Archer Materials to Access IonQ Cloud, Explore Sovereign Quantum Computer in Australia",
+      "link": "https://thequantuminsider.com/2026/07/02/archer-materials-to-access-ionq-cloud-explore-sovereign-quantum-computer-in-australia/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 02 Jul 2026 08:07:56 +0000",
+      "published_ts": 1782979676,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Archer Materials Limited (ASX: AXE), an Australian quantum technology company, has signed a strategic Quantum Compute Agreement with IonQ, Inc. (NYSE: IONQ), the world&#8217;s leading quantum computing company, in a deal that could pave the way for Australia&#8217…"
+    },
     {
       "title": "TU Wien Researchers Find Entanglement in ‘Strange’ Metal",
       "link": "https://thequantuminsider.com/2026/07/02/tu-wien-researchers-find-entanglement-in-strange-metal/",
@@ -130,78 +210,6 @@
       "summary": "arXiv:2607.00284v1 Announce Type: new  Abstract: The fidelity of a quantum gate is sensitive to small deviations in the physical control parameters. Unfortunately, it is generally difficult to exactly model the implemented Hamiltonian for a set of user-defined parameters, necessitating on-device cal…"
     },
     {
-      "title": "Quantum Leap Raises $230 Million as SPAC Eyes AI And Quantum Targets",
-      "link": "https://thequantuminsider.com/2026/07/01/quantum-leap-raises-230-million-as-spac-eyes-ai-and-quantum-targets/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 01 Jul 2026 14:58:42 +0000",
-      "published_ts": 1782917922,
-      "summary": "Insider Brief Quantum Leap Acquisition Corp. has completed the sale of 23 million units in its initial public offering, giving the newly listed blank-check company $230 million in gross proceeds as it begins looking for a business combination in artificial intelligence, quantum computing or blockcha…"
-    },
-    {
-      "title": "Classiq and QAI Launch Quantum Cloud Offering in Korea",
-      "link": "https://thequantuminsider.com/2026/07/01/classiq-and-qai-launch-quantum-cloud-offering-in-korea/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 01 Jul 2026 14:44:28 +0000",
-      "published_ts": 1782917068,
-      "summary": "Insider Brief Press release &#8211; Classiq, a global leader in quantum computing software, announced today that it has signed a significant commercial agreement with Quantum-AI data center specialist QAI Co., Ltd. (CEO Seman Im; “QAI”) to provide nation’s first local Quantum-as-a-Service (“QaaS”) o…"
-    },
-    {
-      "title": "NSA Introduces QuantumEAGLe Program to Advance U.S. Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/07/01/nsa-devcom-army-research-office-launch-quantumeagle-initiative/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 01 Jul 2026 14:40:59 +0000",
-      "published_ts": 1782916859,
-      "summary": "Insider Brief Press release &#8211; The Laboratory for Physical Sciences (LPS) at the National Security Agency (NSA), in close collaboration with the U.S. Army Combat Capabilities Development Command (DEVCOM) Army Research Office (ARO), announces the launch of the Quantum Ecosystem Advancement, Grow…"
-    },
-    {
-      "title": "Wultra Raises €6.8 Million in Series A to Expand Post-Quantum Digital Identity Platform",
-      "link": "https://thequantuminsider.com/2026/07/01/wultra-raises-6-8-million-series-a-funding-to-accelerate-global-expansion-of-post-quantum-digital-identity-solutions/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 01 Jul 2026 14:32:12 +0000",
-      "published_ts": 1782916332,
-      "summary": "Insider Brief Press release &#8211; Wultra, a European provider of post-quantum authentication and digital identity solutions for banks and fintechs, announced the completion of a €6.8 million Series A funding round. The investment round was backed by lead investor Seventure Partners, followed by AR…"
-    },
-    {
-      "title": "Researchers Use AI to Make Quantum Circuit Tuning Less Trial And Error",
-      "link": "https://thequantuminsider.com/2026/07/01/researchers-use-ai-to-make-quantum-circuit-tuning-less-trial-and-error/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 01 Jul 2026 11:18:03 +0000",
-      "published_ts": 1782904683,
-      "summary": "Insider Brief A new AI-assisted framework may help researchers find useful patterns in quantum algorithms before they spend scarce time running them on real machines. The study, posted to arXiv, introduces SCALAR &#8212; short for Symbolic Conjecture and LLM-Assisted Reasoning &#8212; a system desig…"
-    },
-    {
-      "title": "IQM Completes Business Combination with RAAQ and Lists on Nasdaq",
-      "link": "https://thequantuminsider.com/2026/07/01/iqm-completes-raaq-business-combination/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 01 Jul 2026 10:35:42 +0000",
-      "published_ts": 1782902142,
-      "summary": "Insider Brief Press release &#8211; IQM Quantum Computers Plc (“IQM”) has on February 22, 2026 entered into a definitive business combination agreement (the “Business Combination Agreement”) with Real Asset Acquisition Corp. (“RAAQ”), a Nasdaq-listed special purpose acquisition company, pursuant to…"
-    },
-    {
-      "title": "Wave Photonics Adds Synopsys OptoCompiler Support for Its PDK Platform",
-      "link": "https://thequantuminsider.com/2026/07/01/wave-photonics-announces-synopsys-optocompiler-compatibility-for-pdks-hosted-on-its-pdk-management-platform/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 01 Jul 2026 09:23:42 +0000",
-      "published_ts": 1782897822,
-      "summary": "Insider Brief Press release &#8211; Wave Photonics announced that, as of today, all the PDKs developed or managed by Wave Photonics through the PDK management platform are now compatible with Synopsys OptoCompiler. OptoCompiler is the industry’s first unified electronic and photonic design platform,…"
-    },
-    {
-      "title": "BTQ Finalizes QPerfect Acquisition Following French Approval",
-      "link": "https://thequantuminsider.com/2026/07/01/btq-qperfect-acquisition-approved/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 01 Jul 2026 09:13:29 +0000",
-      "published_ts": 1782897209,
-      "summary": "Insider Brief Press release &#8211; BTQ Technologies Corp. (“BTQ” or the “Company”) (Nasdaq: BTQ) (CBOE CA: BTQ), a global quantum technology company focused on securing mission-critical networks, is pleased to announce that it has received regulatory approval from the French Foreign Direct Investme…"
-    },
-    {
-      "title": "Researchers Use IBM Quantum Hardware to Model a Key Particle Physics Process",
-      "link": "https://thequantuminsider.com/2026/07/01/researchers-use-ibm-quantum-hardware-to-model-a-key-particle-physics-process/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 01 Jul 2026 07:54:21 +0000",
-      "published_ts": 1782892461,
-      "summary": "Insider Brief PRESS RELEASE &#8212; By remotely accessing an IBM quantum computer through the&#160;Quantum Computer User Program&#160;(QCUP) — a quantum computing access program managed by the Oak Ridge Leadership Computing Facility, a Department of Energy Office of Science user facility located at…"
-    },
-    {
       "title": "Quantum computer simulates hadronization, reproducing string breaking with 104 qubits",
       "link": "https://phys.org/news/2026-06-quantum-simulates-hadronization-qubits.html",
       "source": "Phys.org — Quantum Physics",
@@ -320,14 +328,6 @@
       "published": "Wed, 24 Jun 2026 12:20:01 EDT",
       "published_ts": 1782318001,
       "summary": "Physicists and instrument makers in Leiden have succeeded in optimizing a spring that almost completely filters out vibrations at temperatures near absolute zero. This breakthrough opens the door to a new generation of highly sensitive experiments. The research is published in the journal Measuremen…"
-    },
-    {
-      "title": "Turning low-value diamond dust into high-performance quantum materials",
-      "link": "https://phys.org/news/2026-06-diamond-high-quantum-materials.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 24 Jun 2026 11:00:01 EDT",
-      "published_ts": 1782313201,
-      "summary": "Diamonds have long been coveted for their beauty. Their dazzling color and clarity make them perfect candidates for luxury jewelry. However, it's their other unique characteristics, including their hardness, thermal conductivity and chemical resistance, that make diamonds suitable for various applic…"
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
