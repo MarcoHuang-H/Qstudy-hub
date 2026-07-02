@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1783000145,
+  "generated_ts": 1783019883,
   "items": [
+    {
+      "title": "Quantum properties of multimode light observed despite extreme losses",
+      "link": "https://phys.org/news/2026-07-quantum-properties-multimode-extreme-losses.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 02 Jul 2026 14:20:04 EDT",
+      "published_ts": 1783016404,
+      "summary": "Quantum properties of light are extremely delicate. When researchers attempt to measure them, even small losses on the way to a detector can make them invisible, limiting their use outside carefully controlled environments. A collaborative team of researchers involving scientists at the Max Planck I…"
+    },
+    {
+      "title": "University of Michigan-Led Quantum Photonics Project Receives $4 Million NSF Award",
+      "link": "https://thequantuminsider.com/2026/07/02/institute-of-optical-science-advances-with-4-million-nsf-quantum-award/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 02 Jul 2026 16:58:25 +0000",
+      "published_ts": 1783011505,
+      "summary": "Insider Brief Press release &#8211; Four members of the Institute for Optical Science (IOS) and the Department of Physics at The Ohio State University are part of a University of Michigan-led team that has advanced to the second phase of the National Science Foundation&#8217;s National Quantum Virtu…"
+    },
+    {
+      "title": "Quantum gravity tests may mistake ordinary spacetime for superposition",
+      "link": "https://phys.org/news/2026-07-quantum-gravity-ordinary-spacetime-superposition.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 02 Jul 2026 12:20:08 EDT",
+      "published_ts": 1783009208,
+      "summary": "Everything around us, from atoms and molecules to planets and galaxies, is governed by two extraordinarily successful theories of physics: quantum mechanics and gravity. Quantum mechanics explains the behavior of the microscopic world, while Einstein's theory of gravity describes the motion of stars…"
+    },
+    {
+      "title": "JIJ and Kobe Steel Sign Framework Agreement to Advance Quantum Computing Adoption",
+      "link": "https://thequantuminsider.com/2026/07/02/jij-kobe-steel-sign-framework-agreement-advance-quantum-computing-adoption/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 02 Jul 2026 14:19:11 +0000",
+      "published_ts": 1783001951,
+      "summary": "Insider Brief Press release &#8211; JIJ Inc. (“JIJ”) today announced that it has signed a framework agreement with Kobe Steel, Ltd. (“Kobe Steel”) to advance the adoption of quantum computing technologies across the KOBELCO Group. Under the agreement, the companies will launch a multi-year initiativ…"
+    },
+    {
+      "title": "Quantum semiconductor design could expand search for dark matter",
+      "link": "https://phys.org/news/2026-07-quantum-semiconductor-dark.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 02 Jul 2026 10:00:03 EDT",
+      "published_ts": 1783000803,
+      "summary": "Dark matter accounts for 85% of the matter in the universe, but scientists still do not know what it is made of. A study, published in Physical Review Letters, by Rice University researchers proposes a detector design that could help search for axions, hypothetical particles that many physicists thi…"
+    },
+    {
+      "title": "IQM Shares Begin Trading After Nasdaq Debut",
+      "link": "https://thequantuminsider.com/2026/07/02/iqm-shares-begin-trading-after-nasdaq-debut/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 02 Jul 2026 13:54:14 +0000",
+      "published_ts": 1783000454,
+      "summary": "Insider Brief IQM Quantum Computers&#8217; American depositary shares began trading on the Nasdaq Global Select Market today (July 2, 2026), falling 95 cents, or about 7.5%, in early trading after the quantum computing company completed its merger with special purpose acquisition company Real Asset…"
+    },
     {
       "title": "Analog gravity advance offers new insights into Hawking radiation from black holes",
       "link": "https://phys.org/news/2026-07-analog-gravity-advance-insights-hawking.html",
@@ -64,30 +112,6 @@
       "published": "Thu, 02 Jul 2026 09:42:12 +0000",
       "published_ts": 1782985332,
       "summary": "Insider Brief Quantum computers could one day solve problems beyond the reach of even the world’s most powerful supercomputers, accelerating everything from drug discovery to the development of advanced materials and cleaner energy technologies. But the fragile quantum states that make such machines…"
-    },
-    {
-      "title": "Shanghai Launches Quantum Computing Hub as Chinese Cities Compete for Industry Leadership",
-      "link": "https://thequantuminsider.com/2026/07/02/shanghai-launches-quantum-computing-hub-as-chinese-cities-compete-for-industry-leadership/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 02 Jul 2026 08:28:00 +0000",
-      "published_ts": 1782980880,
-      "summary": "Insider Brief Shanghai has launched a dedicated quantum computing industrial hub, hoping to incubate hundreds of quantum computing companies as cities across the country compete to become centers for the emerging technology. The Shanghai Quantum Computing Future Industry Incubation Zone officially o…"
-    },
-    {
-      "title": "Archer Materials to Access IonQ Cloud, Explore Sovereign Quantum Computer in Australia",
-      "link": "https://thequantuminsider.com/2026/07/02/archer-materials-to-access-ionq-cloud-explore-sovereign-quantum-computer-in-australia/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 02 Jul 2026 08:07:56 +0000",
-      "published_ts": 1782979676,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Archer Materials Limited (ASX: AXE), an Australian quantum technology company, has signed a strategic Quantum Compute Agreement with IonQ, Inc. (NYSE: IONQ), the world&#8217;s leading quantum computing company, in a deal that could pave the way for Australia&#8217…"
-    },
-    {
-      "title": "TU Wien Researchers Find Entanglement in ‘Strange’ Metal",
-      "link": "https://thequantuminsider.com/2026/07/02/tu-wien-researchers-find-entanglement-in-strange-metal/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 02 Jul 2026 07:52:08 +0000",
-      "published_ts": 1782978728,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Many quantum effects can only be observed when a small number of particles is studied — individual atoms, molecules or photons, for example, carefully shielded from the rest of the world. But what about macroscopic objects, consisting of an unimaginably large numb…"
     },
     {
       "title": "Quantum Amplitude Estimation in Gradient-Based Stochastic Optimization",
@@ -304,30 +328,6 @@
       "published": "Thu, 25 Jun 2026 08:20:01 EDT",
       "published_ts": 1782390001,
       "summary": "Gravity, the force that attracts objects toward each other, is currently framed by Albert Einstein's theory of general relativity. This framework describes gravity as the curvature of spacetime, the invisible four-dimensional fabric of the universe."
-    },
-    {
-      "title": "Quantum waves reveal one-sided motion marking elusive critical states",
-      "link": "https://phys.org/news/2026-06-quantum-reveal-sided-motion-elusive.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 25 Jun 2026 06:40:01 EDT",
-      "published_ts": 1782384001,
-      "summary": "Sound waves, light waves and other types of waves, generally spread freely through space and over time. In 1958, physicist Philip W. Anderson first described a phenomenon via which irregularities or other sources of disorder in materials would prevent waves from propagating freely, which is now know…"
-    },
-    {
-      "title": "A new quantum computer sets a high watermark for accuracy. Are we on the verge of a big breakthrough?",
-      "link": "https://phys.org/news/2026-06-quantum-high-watermark-accuracy-verge.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 24 Jun 2026 15:20:05 EDT",
-      "published_ts": 1782328805,
-      "summary": "In a laboratory in Broomfield, Colorado, 98 atoms are suspended in midair, held in place by electric fields and cooled to temperatures close to absolute zero."
-    },
-    {
-      "title": "Geometric anti-spring works near absolute zero, suppressing vibrations below 0.185 hertz",
-      "link": "https://phys.org/news/2026-06-geometric-anti-absolute-suppressing-vibrations.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 24 Jun 2026 12:20:01 EDT",
-      "published_ts": 1782318001,
-      "summary": "Physicists and instrument makers in Leiden have succeeded in optimizing a spring that almost completely filters out vibrations at temperatures near absolute zero. This breakthrough opens the door to a new generation of highly sensitive experiments. The research is published in the journal Measuremen…"
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
