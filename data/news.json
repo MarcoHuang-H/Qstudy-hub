@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1783019883,
+  "generated_ts": 1783045963,
   "items": [
+    {
+      "title": "Single ion maps 3D electromagnetic fields above chips with record sensitivity",
+      "link": "https://phys.org/news/2026-07-ion-3d-electromagnetic-fields-chips.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 02 Jul 2026 18:20:04 EDT",
+      "published_ts": 1783030804,
+      "summary": "Researchers at ETH Zurich have developed a method that uses a single ion to detect electromagnetic fields above a surface and to create a three-dimensional map of them. In the future, this approach can be used to improve chips for quantum computers and quantum sensors."
+    },
+    {
+      "title": "Spontaneous current loops in a kagome metal point to hidden quantum order",
+      "link": "https://phys.org/news/2026-07-spontaneous-current-loops-kagome-metal.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 02 Jul 2026 15:20:07 EDT",
+      "published_ts": 1783020007,
+      "summary": "Quantum materials, materials exhibiting physical behavior governed by the laws of quantum mechanics, have proved promising for the development of numerous advanced technologies, including quantum technologies, memory devices and solar panels. In some of these materials, electrons can collectively ar…"
+    },
     {
       "title": "Quantum properties of multimode light observed despite extreme losses",
       "link": "https://phys.org/news/2026-07-quantum-properties-multimode-extreme-losses.html",
@@ -312,22 +328,6 @@
       "published": "Thu, 25 Jun 2026 12:00:00 -0400",
       "published_ts": 1782403200,
       "summary": "“Scientific American” showcases the history and future of America’s scientific engine, highlighting promising young scientists and icons at MIT and beyond."
-    },
-    {
-      "title": "Trios of quantum particles form checkerboard layouts when particle density hits sweet spot",
-      "link": "https://phys.org/news/2026-06-trios-quantum-particles-checkerboard-layouts.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 25 Jun 2026 10:40:03 EDT",
-      "published_ts": 1782398403,
-      "summary": "Trions form when three particles, like quarks or electrons, come together. This formation occurs in quantum particles in nuclear physics, semiconductors and magnets, and understanding its behavior can be challenging. Rice University's Kaden Hazzard and his team recently developed a theory on how the…"
-    },
-    {
-      "title": "A thermodynamic approach to gravity could explain cosmic acceleration without dark energy",
-      "link": "https://phys.org/news/2026-06-thermodynamic-approach-gravity-cosmic-dark.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 25 Jun 2026 08:20:01 EDT",
-      "published_ts": 1782390001,
-      "summary": "Gravity, the force that attracts objects toward each other, is currently framed by Albert Einstein's theory of general relativity. This framework describes gravity as the curvature of spacetime, the invisible four-dimensional fabric of the universe."
     },
     {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
