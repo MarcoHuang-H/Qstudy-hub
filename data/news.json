@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1783086800,
+  "generated_ts": 1783105978,
   "items": [
+    {
+      "title": "Ultrafast scanning tunneling microscopy reaches the quantum mechanical space-time limit for the first time",
+      "link": "https://phys.org/news/2026-07-ultrafast-scanning-tunneling-microscopy-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 03 Jul 2026 12:00:06 EDT",
+      "published_ts": 1783094406,
+      "summary": "Werner Heisenberg's famous uncertainty principle describes one of the most intriguing features of quantum physics: certain pairs of physical quantities describing a particle, such as position and momentum, cannot simultaneously be determined with arbitrary precision—not because of imprecise measurin…"
+    },
+    {
+      "title": "Researchers Propose Thermodynamic Computing Architecture That Could Dramatically Reduce AI Energy Use",
+      "link": "https://thequantuminsider.com/2026/07/03/researchers-propose-thermodynamic-computing-architecture-that-could-dramatically-reduce-ai-energy-use/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 03 Jul 2026 13:35:01 +0000",
+      "published_ts": 1783085701,
+      "summary": "Insider Brief As artificial intelligence drives an unprecedented buildout of power-hungry data centers, researchers are exploring computing architectures that move beyond the graphics processing units (GPUs). One new proposal to address this is a probabilistic computer built from conventional transi…"
+    },
     {
       "title": "How to Start a Career in Quantum Computing in 2026",
       "link": "https://thequantuminsider.com/2026/07/03/how-to-start-a-career-get-a-job-in-quantum-computing/",
@@ -226,14 +242,6 @@
       "summary": "Everything around us, from atoms and molecules to planets and galaxies, is governed by two extraordinarily successful theories of physics: quantum mechanics and gravity. Quantum mechanics explains the behavior of the microscopic world, while Einstein's theory of gravity describes the motion of stars…"
     },
     {
-      "title": "JIJ and Kobe Steel Sign Framework Agreement to Advance Quantum Computing Adoption",
-      "link": "https://thequantuminsider.com/2026/07/02/jij-kobe-steel-sign-framework-agreement-advance-quantum-computing-adoption/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 02 Jul 2026 14:19:11 +0000",
-      "published_ts": 1783001951,
-      "summary": "Insider Brief Press release &#8211; JIJ Inc. (“JIJ”) today announced that it has signed a framework agreement with Kobe Steel, Ltd. (“Kobe Steel”) to advance the adoption of quantum computing technologies across the KOBELCO Group. Under the agreement, the companies will launch a multi-year initiativ…"
-    },
-    {
       "title": "Quantum semiconductor design could expand search for dark matter",
       "link": "https://phys.org/news/2026-07-quantum-semiconductor-dark.html",
       "source": "Phys.org — Quantum Physics",
@@ -320,14 +328,6 @@
       "published": "Thu, 25 Jun 2026 16:20:10 EDT",
       "published_ts": 1782418810,
       "summary": "It's one thing to design a pharmaceutical drug. It's another to know if and why it actually works; not on paper or in a computer model, but inside the chaotic world of living systems, where proteins twist into shape, atoms constantly pull and push each other apart, and molecular interactions are the…"
-    },
-    {
-      "title": "Seven exotic quantum phases predicted in ultracold magnetic atoms, including topological superconductivity",
-      "link": "https://phys.org/news/2026-06-exotic-quantum-phases-ultracold-magnetic.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 25 Jun 2026 14:20:09 EDT",
-      "published_ts": 1782411609,
-      "summary": "Strongly interacting quantum particles are key to some of the most fascinating phenomena in modern physics—from magnetism and superconductivity to topological states. Yet the complexity of such systems makes many of their properties difficult to understand even today. A research team from Innsbruck…"
     },
     {
       "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
