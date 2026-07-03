@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1783068958,
+  "generated_ts": 1783086800,
   "items": [
+    {
+      "title": "How to Start a Career in Quantum Computing in 2026",
+      "link": "https://thequantuminsider.com/2026/07/03/how-to-start-a-career-get-a-job-in-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 03 Jul 2026 11:17:17 +0000",
+      "published_ts": 1783077437,
+      "summary": "Insider Brief For years, quantum was something most people encountered in documentaries, or late-night debates about Schrödinger&#8217;s cat. Today, it&#8217;s also becoming a career.&#160; Companies are hiring now, salaries are rising, and the roles are becoming more defined. According to QED-C&#82…"
+    },
+    {
+      "title": "QoreChain Demonstrates End-to-End Post-Quantum Blockchain Transaction",
+      "link": "https://thequantuminsider.com/2026/07/03/qorechain-first-post-quantum-blockchain-transaction/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 03 Jul 2026 10:37:17 +0000",
+      "published_ts": 1783075037,
+      "summary": "Insider Brief Press release &#8211; QoreChain, a quantum-safe, AI-native Layer 1 blockchain, has recorded what it describes as the first transaction in the history of blockchain to be secured end to end, on a live public mainnet, by all three NIST-standardized post-quantum algorithms. The transactio…"
+    },
+    {
+      "title": "Ohio State-led Team Secures NSF Award to Advance to Next Phase of the National Quantum Virtual Laboratory Program",
+      "link": "https://thequantuminsider.com/2026/07/03/ohio-state-led-team-secures-nsf-award-to-advance-to-next-phase-of-the-national-quantum-virtual-laboratory-program/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 03 Jul 2026 09:44:31 +0000",
+      "published_ts": 1783071871,
+      "summary": "Insider Brief Press release &#8211; The Ohio State University is strengthening its growing prominence in quantum science, technology, and education with a $4 million, two‑year Phase II design award from the U.S. National Science Foundation (NSF) to advance a national effort focused on next‑generatio…"
+    },
+    {
+      "title": "IQM Joins Nasdaq as Public Quantum Computing Company",
+      "link": "https://thequantuminsider.com/2026/07/03/iqm-begins-trading-on-nasdaq/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 03 Jul 2026 09:42:18 +0000",
+      "published_ts": 1783071738,
+      "summary": "Insider Brief Press release &#8211; IQM Quantum Computers (Nasdaq: IQMX) (“IQM”, “IQM Quantum Computers” or the “Company”), a global leader in full-stack superconducting quantum computers, today became a publicly traded company following the completion of its business combination with Real Asset Acq…"
+    },
+    {
+      "title": "Xdotz Unveils Quantum Current Sensor ‘XSI’ for the First Time at Quantum Korea 2026",
+      "link": "https://thequantuminsider.com/2026/07/03/xdotz-unveils-quantum-current-sensor-xsi-for-the-first-time-at-quantum-korea-2026/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 03 Jul 2026 09:32:58 +0000",
+      "published_ts": 1783071178,
+      "summary": "Insider Brief Press release &#8211; XDots (xDots), a company specializing in quantum technology-based energy optimization solutions, participated in Quantum Korea (2026), Korea&#8217;s largest quantum science and technology event, and presented the energy efficiency optimization solution XEnergy (xE…"
+    },
+    {
+      "title": "PostScriptum Invests in Quantum Hardware Developer SemiQon",
+      "link": "https://thequantuminsider.com/2026/07/03/postscriptum-invests-in-quantum-hardware-developer-semiqon/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 03 Jul 2026 08:41:35 +0000",
+      "published_ts": 1783068095,
+      "summary": "Insider Brief PRESS RELEASE &#8212; With the investment,&#160;PostScriptum&#160;will become a shareholder in&#160;SemiQon, a Finnish quantum hardware company building one of Europe’s most ambitious platforms for next-generation quantum technology. The investment will help accelerate the commercializ…"
+    },
+    {
+      "title": "South Korea Expands Quantum Cooperation With Canada, U.K. and EU at Quantum Korea 2026",
+      "link": "https://thequantuminsider.com/2026/07/03/south-korea-expands-quantum-cooperation-with-canada-u-k-and-eu-at-quantum-korea-2026/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 03 Jul 2026 08:33:57 +0000",
+      "published_ts": 1783067637,
+      "summary": "Insider Brief South Korea used this week&#8217;s Quantum Korea 2026 conference to deepen international cooperation on quantum technology, holding separate high-level meetings with officials from Canada, the United Kingdom and the European Union to discuss joint research, commercialization and workfo…"
+    },
     {
       "title": "Legacy, Labs And Leadership: A Look at The University of Texas’s Quantum Ecosystem",
       "link": "https://thequantuminsider.com/2026/07/03/legacy-labs-and-leadership-a-look-at-the-university-of-texass-quantum-ecosystem/",
@@ -186,14 +242,6 @@
       "summary": "Dark matter accounts for 85% of the matter in the universe, but scientists still do not know what it is made of. A study, published in Physical Review Letters, by Rice University researchers proposes a detector design that could help search for axions, hypothetical particles that many physicists thi…"
     },
     {
-      "title": "IQM Shares Begin Trading After Nasdaq Debut",
-      "link": "https://thequantuminsider.com/2026/07/02/iqm-shares-begin-trading-after-nasdaq-debut/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 02 Jul 2026 13:54:14 +0000",
-      "published_ts": 1783000454,
-      "summary": "Insider Brief IQM Quantum Computers&#8217; American depositary shares began trading on the Nasdaq Global Select Market today (July 2, 2026), falling 95 cents, or about 7.5%, in early trading after the quantum computing company completed its merger with special purpose acquisition company Real Asset…"
-    },
-    {
       "title": "Analog gravity advance offers new insights into Hawking radiation from black holes",
       "link": "https://phys.org/news/2026-07-analog-gravity-advance-insights-hawking.html",
       "source": "Phys.org — Quantum Physics",
@@ -202,52 +250,12 @@
       "summary": "Hawking radiation is a form of radiation emitted by black holes, as theoretically predicted by Stephen Hawking. It suggests that black holes do not merely swallow matter—as had previously been assumed—but also emit very faint radiation themselves. This radiation has not yet been observed in space; i…"
     },
     {
-      "title": "Qolab Secures $54.2 Million in Series B to Advance Superconducting Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/07/02/qolab-announces-54-2-million-series-b-financing-and-commitments-led-by-uc-investments/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 02 Jul 2026 13:23:07 +0000",
-      "published_ts": 1782998587,
-      "summary": "Insider Brief Press release &#8211; Qolab Inc., a leader in quantum computing hardware, today announced the initial closings of its Series B Preferred Stock financing, which, together with the conversion of an aggregate of $12.6 million in convertible securities and a commitment for an aggregate of…"
-    },
-    {
-      "title": "Pasqal and Aeponyx Launch Canadian PIC Packaging Center for Quantum Technologies",
-      "link": "https://thequantuminsider.com/2026/07/02/pasqal-and-aeponyx-launch-a-pic-packaging-center-of-competency-for-sensing-and-quantum-applications-at-c2mi/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 02 Jul 2026 13:01:02 +0000",
-      "published_ts": 1782997262,
-      "summary": "Insider Brief Press release &#8211; Pasqal, through its Canadian subsidiary Aeponyx, today announced the creation of a specialized center of competency focused on assembling and packaging key components used in quantum and advanced sensing technologies in Canada. The Center of Competency in Photonic…"
-    },
-    {
-      "title": "CCRAFT Raises $7.8 Million to Expand Swiss Photonic Chip Foundry",
-      "link": "https://thequantuminsider.com/2026/07/02/swiss-ccraft-expands-the-worlds-first-independent-foundry-for-tfln-photonic-chips/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 02 Jul 2026 12:53:39 +0000",
-      "published_ts": 1782996819,
-      "summary": "Insider Brief Press release &#8211; As the global race for AI and quantum technologies accelerates, Swiss deep-tech company CCRAFT is building industrial-scale manufacturing capacity for photonic chips in Neuchâtel. The company aims to position Switzerland at the forefront of one of the most importa…"
-    },
-    {
-      "title": "Single Ion Detector Could Lead to Improvements in Quantum Computers and Sensors",
-      "link": "https://thequantuminsider.com/2026/07/02/single-ion-detector-could-lead-to-improvements-in-quantum-computers-and-sensors/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 02 Jul 2026 10:58:46 +0000",
-      "published_ts": 1782989926,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Single electrically charged atoms – ions – have been successfully used for some time as quantum bits in quantum computers and quantum sensors. Unlike the bulky ion traps of the early years, there are now miniaturised chips in which ions can be trapped and manipula…"
-    },
-    {
-      "title": "Why Asia’s Quantum Ambitions Need Post-Quantum Security",
-      "link": "https://thequantuminsider.com/2026/07/02/asias-quantum-race-needs-a-security-strategy-that-can-keep-pace/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 02 Jul 2026 10:04:19 +0000",
-      "published_ts": 1782986659,
-      "summary": "Guest Post by David Holtzman, Executive Chair at Naoris Quantum Protocol&#160; The White House’s June 22 executive order, which accelerates quantum computing efforts and places post-quantum cryptography firmly on the agenda, reflects a growing recognition that quantum readiness now sits alongside br…"
-    },
-    {
-      "title": "QNu Labs Partners with SAGA Consultants to Expand Quantum Security Services",
-      "link": "https://thequantuminsider.com/2026/07/02/qnu-labs-saga-consultants-partnership/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 02 Jul 2026 09:45:00 +0000",
-      "published_ts": 1782985500,
-      "summary": "Insider Brief Press release &#8211; QNu Labs (www.qnulabs.com), a global leader in end-to-end hybrid quantum cybersecurity solutions, has announced a strategic partnership with SAGA Consultants, a U.S. based technology consulting firm, to expand the reach of quantum safe cybersecurity solutions acro…"
+      "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626030431.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Thu, 02 Jul 2026 02:48:14 EDT",
+      "published_ts": 1782974894,
+      "summary": "A major breakthrough in quantum technology has turned magnons, tiny magnetic waves once considered too short-lived for practical use, into promising carriers of quantum information. Researchers extended their lifetime by nearly 100 times, reaching up to 18 microseconds, and discovered that the main…"
     },
     {
       "title": "Quantum computer simulates hadronization, reproducing string breaking with 104 qubits",
@@ -520,14 +528,6 @@
       "published": "Thu, 23 Apr 2026 00:00:00 -0400",
       "published_ts": 1776916800,
       "summary": "Ultra-efficient chip design enables extremely strong cryptography algorithms to run on energy-constrained edge devices."
-    },
-    {
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Sat, 18 Apr 2026 03:32:36 EDT",
-      "published_ts": 1776497556,
-      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a…"
     },
     {
       "title": "Sixteen new START.nano companies are developing hard-tech solutions with the support of MIT.nano",
