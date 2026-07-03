@@ -1,6 +1,134 @@
 {
-  "generated_ts": 1783045963,
+  "generated_ts": 1783068958,
   "items": [
+    {
+      "title": "Legacy, Labs And Leadership: A Look at The University of Texas’s Quantum Ecosystem",
+      "link": "https://thequantuminsider.com/2026/07/03/legacy-labs-and-leadership-a-look-at-the-university-of-texass-quantum-ecosystem/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 03 Jul 2026 08:14:47 +0000",
+      "published_ts": 1783066487,
+      "summary": "Insider Brief The University of Texas at Austin is expanding its quantum research capabilities with new laboratories, state-backed infrastructure and a roster of scientists whose work has helped shape modern quantum science, positioning the university as one of the nation&#8217;s most established qu…"
+    },
+    {
+      "title": "Exact quantum time compatible with positive energy",
+      "link": "https://arxiv.org/abs/2607.01296",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01296v1 Announce Type: new  Abstract: What would it be like to be in a superposition of yesterday, today, and tomorrow? This question may seem at best entertaining, but it is necessary, and exploring it allows us to understand how exact irreversible clocks and change are possible, despite…"
+    },
+    {
+      "title": "Logarithmic negativity typically equals exact entanglement cost",
+      "link": "https://arxiv.org/abs/2607.01320",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01320v1 Announce Type: new  Abstract: Quantum entanglement plays a leading role in modern understanding of physical systems, from quantum phases of matter to quantum gravity. In quantum information theory, one seeks operationally meaningful quantifiers of entanglement, which for large qua…"
+    },
+    {
+      "title": "Noisy quantum circuit simulation with the tensor jump method",
+      "link": "https://arxiv.org/abs/2607.01323",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01323v1 Announce Type: new  Abstract: Classical simulation of noisy quantum circuits is essential for validating algorithms, benchmarking hardware, and assessing error-mitigation strategies, but remains limited by the exponential cost of density-matrix methods and the high variance of sta…"
+    },
+    {
+      "title": "Integrated Photon-Memory Entanglement Generation using Dual Photonic Resonators",
+      "link": "https://arxiv.org/abs/2607.01324",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01324v1 Announce Type: new  Abstract: Scalable quantum networks require the efficient generation, storage, and synchronization of entanglement between photonic qubits and quantum memories. Quantum repeater architectures based on absorptive rare-earth-ion photonic memories offer a promisin…"
+    },
+    {
+      "title": "One-Body Purity, Non-Gaussianity, and Entanglement in Interacting Integrable Models",
+      "link": "https://arxiv.org/abs/2607.01326",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01326v1 Announce Type: new  Abstract: When describing entanglement in typical midspectrum eigenstates of many-body lattice Hamiltonians, two paradigms have emerged that capture the behavior observed in integrable and nonintegrable systems, Haar-random fermionic Gaussian states and Haar-ra…"
+    },
+    {
+      "title": "Ravines in quantum cost landscapes: opportunities for improved VQA predictions",
+      "link": "https://arxiv.org/abs/2607.01329",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01329v1 Announce Type: new  Abstract: The geometric and topological structure of quantum cost landscapes (QCLs) governs the optimization and thus the predictive power of variational quantum algorithms (VQAs). We systematically analyze ravines - low-cost paths connecting local minima - usi…"
+    },
+    {
+      "title": "Controlling Waiting Time Statistics in Monitored Collective Spins: Mitigating Detector's Resolution Barrier in Measurement-Induced Phase Transitions",
+      "link": "https://arxiv.org/abs/2607.01332",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01332v1 Announce Type: new  Abstract: In collective dissipative spin systems, the postselection barrier can be partially mitigated; however, a further obstacle may be posed by the finite temporal resolution of detectors. In this work, we investigate how initial-state inhomogeneities can c…"
+    },
+    {
+      "title": "Decoupling band topology from criticality in bosonic systems",
+      "link": "https://arxiv.org/abs/2607.01334",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01334v1 Announce Type: new  Abstract: A new understanding of criticality in systems described by quadratic bosonic Hamiltonians (QBHs) ties the emergence of long-range correlations to boundaries of dynamical, not thermodynamical, stability in the parameter space. This separation occurs be…"
+    },
+    {
+      "title": "Quantum Trajectory Entanglement in Seeded Boundary Time Crystals",
+      "link": "https://arxiv.org/abs/2607.01335",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01335v1 Announce Type: new  Abstract: We investigate the entanglement dynamics along quantum trajectories during the seeding of time-crystalline order in a boundary time crystal (BTC). Specifically, how entanglement spreads among different spin ensembles when a BTC attempts to seed its ti…"
+    },
+    {
+      "title": "Mechanistic Interpretability and Causal Feature Steering of Neural Quantum States via Sparse Autoencoders",
+      "link": "https://arxiv.org/abs/2607.01336",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01336v1 Announce Type: new  Abstract: Neural Quantum States (NQS) are a remarkably expressive class of variational ans\\\"atze for quantum many-body wavefunctions, yet little is understood about their internal mechanisms: trained on variational objectives alone, how do NQS accurately captur…"
+    },
+    {
+      "title": "Design rules for fault-tolerant multi-gate teleportation",
+      "link": "https://arxiv.org/abs/2607.01342",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01342v1 Announce Type: new  Abstract: Multi-gate teleportation (MGT) packages $n$ remote gates into a single ebit via a 1-ebit fan-out quantum circuit, saving $n{-}1$ entangled pairs relative to sequential gate teleportation. The cost is a correlated failure mode: a single network fault p…"
+    },
+    {
+      "title": "Decohered toric code under quantum damping noise and its mapping to a classical spin model",
+      "link": "https://arxiv.org/abs/2607.01364",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01364v1 Announce Type: new  Abstract: We investigate properties of toric codes under realistic damping error channels, which include squeezing, thermal and non-Markovian effects. First, we map the decohered toric code under the generalized amplitude-damping (GAD) and the squeezed generali…"
+    },
+    {
+      "title": "Bit flips are erasures in dissipative cat qubits",
+      "link": "https://arxiv.org/abs/2607.01375",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01375v1 Announce Type: new  Abstract: Autonomous quantum error correction (QEC) stabilizes a logical manifold through dissipative events that emit into output channels, which are typically accessible to measurement. These signals are often discarded, and whether they contain useful inform…"
+    },
+    {
+      "title": "Coherent states in minimal-length Quantum Mechanics: inequivalent characterizations and emergent squeezing",
+      "link": "https://arxiv.org/abs/2607.01393",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01393v1 Announce Type: new  Abstract: Several approaches to quantum gravity suggest the emergence of a fundamental minimal length at the Planck scale. In quantum mechanics, this feature is naturally encoded through deformations of the Heisenberg algebra, leading to the Generalized Uncerta…"
+    },
+    {
+      "title": "High-Precision Calibration Workflow Achieves Above $99.9\\%$ CZ Gate Fidelity on a Scalable Superconducting Processor",
+      "link": "https://arxiv.org/abs/2607.01422",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783051200,
+      "summary": "arXiv:2607.01422v1 Announce Type: new  Abstract: High-fidelity universal two-qubit gates are critical for building fault-tolerant quantum computers. In scalable superconducting processors, shortened coherence times introduce more incoherent errors in gate operations. With a constrained error budget,…"
+    },
     {
       "title": "Single ion maps 3D electromagnetic fields above chips with record sensitivity",
       "link": "https://phys.org/news/2026-07-ion-3d-electromagnetic-fields-chips.html",
@@ -120,134 +248,6 @@
       "published": "Thu, 02 Jul 2026 09:45:00 +0000",
       "published_ts": 1782985500,
       "summary": "Insider Brief Press release &#8211; QNu Labs (www.qnulabs.com), a global leader in end-to-end hybrid quantum cybersecurity solutions, has announced a strategic partnership with SAGA Consultants, a U.S. based technology consulting firm, to expand the reach of quantum safe cybersecurity solutions acro…"
-    },
-    {
-      "title": "UCF Scientist Develops New Approach to Reduce Quantum Computing Errors",
-      "link": "https://thequantuminsider.com/2026/07/02/ucf-researchers-develop-noise-resistant-approach-to-fault-tolerant-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 02 Jul 2026 09:42:12 +0000",
-      "published_ts": 1782985332,
-      "summary": "Insider Brief Quantum computers could one day solve problems beyond the reach of even the world’s most powerful supercomputers, accelerating everything from drug discovery to the development of advanced materials and cleaner energy technologies. But the fragile quantum states that make such machines…"
-    },
-    {
-      "title": "Quantum Amplitude Estimation in Gradient-Based Stochastic Optimization",
-      "link": "https://arxiv.org/abs/2607.00040",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00040v1 Announce Type: new  Abstract: In this paper we prove, both mathematically and through a simulation, how the Quantum Amplitude Estimation algorithm can obtain quadratic improvements with respect to the Monte Carlo method in gradient-based stochastic optimization, highlighting the c…"
-    },
-    {
-      "title": "Quantum Reconstruction and Phenomenology per the Relativity Principle",
-      "link": "https://arxiv.org/abs/2607.00045",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00045v1 Announce Type: new  Abstract: We use the relativity principle to complete axiomatic reconstructions of quantum mechanics (QM) via information-theoretic principles that are based on Darrigol's \"discreteness\" requirement or its equivalent, e.g., Brukner & Zeilinger's Information Inv…"
-    },
-    {
-      "title": "Comment on \"Ideal clocks -- a convenient fiction\" by K. Lorek et al",
-      "link": "https://arxiv.org/abs/2607.00059",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00059v1 Announce Type: new  Abstract: We correct a subtle oversight in Eq.(19) of K. Lorek et al. [Class. Quantum Grav. 32 175003 (2015)] concerning the decay probability of a uniformly accelerated quantum clock. The original expression included unphysical cross-wedge term ($|\\bar{\\gamma}…"
-    },
-    {
-      "title": "Spectral Geometry and Bosonic-Bloch Probes: Explorations in Quantum Learning",
-      "link": "https://arxiv.org/abs/2607.00063",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00063v1 Announce Type: new  Abstract: This paper studies how spectral geometry emerges in quantum learning models and how it can be diagnosed with physically grounded probes. In graph-regularized quantum networks, training reorganizes the output similarity graph, increases the effective s…"
-    },
-    {
-      "title": "Velocity of a Quantum Particle in a Classically Forbidden Region",
-      "link": "https://arxiv.org/abs/2607.00100",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00100v1 Announce Type: new  Abstract: Recently, Sharoglazova et al. [Nature 643, 67 (2025)] proposed a procedure for determining the speed of a quantum particle in the classically forbidden region of a potential step, and implemented it in a beautiful experiment. The inferred speeds disag…"
-    },
-    {
-      "title": "Optically Active Single Hole Spin in ZnSe",
-      "link": "https://arxiv.org/abs/2607.00110",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00110v1 Announce Type: new  Abstract: Semiconductor hole spins offer a pathway to extended coherence times by decoupling from nuclear magnetic noise, while their spin-orbit coupling enables fast all-electrical control. In ZnSe, however, realizing this potential has been limited by p-dopin…"
-    },
-    {
-      "title": "Work Statistics Under Quantum-Jump and Quench Dynamics in Monitored Ising Chains",
-      "link": "https://arxiv.org/abs/2607.00131",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00131v1 Announce Type: new  Abstract: We investigate work statistics in monitored transverse-field Ising chains subject to both a quantum quench of the transverse field and either stochastic quantum jumps or controlled measurement sequences. For generalized measurements, we derive a traje…"
-    },
-    {
-      "title": "Superconducting Spiral Inductors for RF Reflectometry: Operation at Elevated Temperatures and Magnetic Fields",
-      "link": "https://arxiv.org/abs/2607.00172",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00172v1 Announce Type: new  Abstract: Superconducting spiral inductors are emerging as key components for radio-frequency (RF) reflectometry, a widely used readout technique for semiconductor spin qubits. Future scalable quantum-computing architectures are expected to operate at elevated…"
-    },
-    {
-      "title": "A universal time-of-arrival signature of Bose--Einstein condensation",
-      "link": "https://arxiv.org/abs/2607.00184",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00184v1 Announce Type: new  Abstract: We show that Bose--Einstein condensation produces a cusp in the time-of-arrival (TOA) statistics of a harmonically trapped gas released into free fall. In the semiclassical long time-of-flight regime, with $\\epsilon=\\sigma_V/\\sqrt{2gH}\\ll1$, both the…"
-    },
-    {
-      "title": "TCL4 Asymptotic Redundancy and Canonically Consistent Master Equations",
-      "link": "https://arxiv.org/abs/2607.00193",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00193v1 Announce Type: new  Abstract: Left alone, open quantum systems relax toward a Kubo--Martin--Schwinger (KMS) equilibrium state, yet the inner workings of this process remain opaque. It remains unclear why the intricate fourth-order time-convolutionless (TCL4) population generator r…"
-    },
-    {
-      "title": "Wavefunctions localization, and the Wigner's Friend Paradox in a Framework of Discrete-Space Hypothesis",
-      "link": "https://arxiv.org/abs/2607.00198",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00198v1 Announce Type: new  Abstract: We present a resolution of the Wigner's Friend paradox within a framework of quantum mechanics (QM) on the hybrid space RxQ_{p}, where Q_{p} denotes the field of p-adic numbers, regarded as a model of discrete microscopic space at the Planck-Bronstein…"
-    },
-    {
-      "title": "Classification and Exact Local Masking in Finite-Field Clifford Dual-Unitary Circuits",
-      "link": "https://arxiv.org/abs/2607.00210",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00210v1 Announce Type: new  Abstract: We classify two-qudit finite-field Clifford dual-unitary gates and apply the classification to exact local masking and operator transport in homogeneous brickwork circuits. Under ordered one-qudit Clifford equivalence, the dual-unitary locus contains…"
-    },
-    {
-      "title": "Learning Low-Energy Subspace Overlaps in Many-Body Systems with Measurement-Based and Coherent Quantum Strategies",
-      "link": "https://arxiv.org/abs/2607.00235",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00235v1 Announce Type: new  Abstract: Predicting the overlap of quantum states with specified low-energy subspaces is a key diagnostic for quantum many-body dynamics, with direct applications in state preparation, subspace-based algorithms, and the study of thermalization. We study the su…"
-    },
-    {
-      "title": "Quantum-advantage resource of a two-mode Gaussian state: Analytical theory of convex optimization and a Galois no-go for the closed-form solution",
-      "link": "https://arxiv.org/abs/2607.00266",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00266v1 Announce Type: new  Abstract: We study the problem of extracting a quantum complexity resource from a mixed Gaussian state of the multimode light. We present the first complete, certificate-checked solution to this problem in a genuinely coupled sector. We carry this out for the t…"
-    },
-    {
-      "title": "Active Learning for Calibrating Entangling Gates via Surrogate-Based Optimization",
-      "link": "https://arxiv.org/abs/2607.00284",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 02 Jul 2026 00:00:00 -0400",
-      "published_ts": 1782964800,
-      "summary": "arXiv:2607.00284v1 Announce Type: new  Abstract: The fidelity of a quantum gate is sensitive to small deviations in the physical control parameters. Unfortunately, it is generally difficult to exactly model the implemented Hamiltonian for a set of user-defined parameters, necessitating on-device cal…"
     },
     {
       "title": "Quantum computer simulates hadronization, reproducing string breaking with 104 qubits",
