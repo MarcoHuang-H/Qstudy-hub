@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1783105978,
+  "generated_ts": 1783132200,
   "items": [
+    {
+      "title": "Plug-and-play single-photon source can work at room temperature",
+      "link": "https://phys.org/news/2026-07-play-photon-source-room-temperature.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 03 Jul 2026 18:40:01 EDT",
+      "published_ts": 1783118401,
+      "summary": "The Korea Research Institute of Standards and Science (KRISS) has developed a room-temperature single-photon source built into a compact 19-inch rack-mounted device that operates without cryogenic cooling. Designed as a plug-and-play system that works as soon as it is powered on, the device moves qu…"
+    },
     {
       "title": "Ultrafast scanning tunneling microscopy reaches the quantum mechanical space-time limit for the first time",
       "link": "https://phys.org/news/2026-07-ultrafast-scanning-tunneling-microscopy-quantum.html",
@@ -320,14 +328,6 @@
       "published": "Fri, 26 Jun 2026 07:40:01 EDT",
       "published_ts": 1782474001,
       "summary": "Controlling and trapping molecules, units of a substance consisting of two or more chemically bound atoms, with laser light is significantly more challenging than trapping individual atoms. This is because molecules exhibit more complex vibrational and rotational dynamics that make them more difficu…"
-    },
-    {
-      "title": "Scientists measure hidden quantum forces that could power a new generation of pharmaceutical drugs",
-      "link": "https://phys.org/news/2026-06-scientists-hidden-quantum-power-generation.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 25 Jun 2026 16:20:10 EDT",
-      "published_ts": 1782418810,
-      "summary": "It's one thing to design a pharmaceutical drug. It's another to know if and why it actually works; not on paper or in a computer model, but inside the chaotic world of living systems, where proteins twist into shape, atoms constantly pull and push each other apart, and molecular interactions are the…"
     },
     {
       "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
