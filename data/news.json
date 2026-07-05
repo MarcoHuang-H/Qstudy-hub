@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1783257710,
+  "generated_ts": 1783278607,
   "items": [
+    {
+      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Sun, 05 Jul 2026 14:13:44 EDT",
+      "published_ts": 1783275224,
+      "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe."
+    },
     {
       "title": "Plug-and-play single-photon source can work at room temperature",
       "link": "https://phys.org/news/2026-07-play-photon-source-room-temperature.html",
@@ -384,14 +392,6 @@
       "published": "Thu, 30 Apr 2026 13:20:00 -0400",
       "published_ts": 1777569600,
       "summary": "New system at MIT.nano will support quantum technology research."
-    },
-    {
-      "title": "A photon was teleported across 270 meters in stunning quantum breakthrough",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260429102030.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Thu, 30 Apr 2026 02:08:37 EDT",
-      "published_ts": 1777529317,
-      "summary": "Scientists have pulled off a first: teleporting a photon’s state between two separate quantum dots. This was done over a 270-meter open-air link, proving quantum information can travel between independent devices. The achievement marks a key step toward building quantum networks for ultra-secure com…"
     },
     {
       "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
