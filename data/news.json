@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1783351316,
+  "generated_ts": 1783367393,
   "items": [
+    {
+      "title": "China’s Bose Quantum Reportedly Raises Pre-IPO Funding",
+      "link": "https://thequantuminsider.com/2026/07/06/chinas-bose-quantum-reportedly-raises-pre-ipo-funding/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 06 Jul 2026 18:07:47 +0000",
+      "published_ts": 1783361267,
+      "summary": "Insider Brief Beijing-based Bose Quantum has completed a pre-IPO financing round worth several hundred million yuan, which would be tens of millions of U.S. dollars. If confirmed, the move potentially positions the company to become China&#8217;s second quantum computing company to begin an IPO proc…"
+    },
     {
       "title": "MagiQware Raises €575K Pre-Seed Round to Advance AI Software For Quantum Computing",
       "link": "https://thequantuminsider.com/2026/07/06/magiqware-raises-e575k-pre-seed-round-to-advance-ai-software-for-quantum-computing/",
@@ -96,14 +104,6 @@
       "published": "Fri, 03 Jul 2026 12:00:06 EDT",
       "published_ts": 1783094406,
       "summary": "Werner Heisenberg's famous uncertainty principle describes one of the most intriguing features of quantum physics: certain pairs of physical quantities describing a particle, such as position and momentum, cannot simultaneously be determined with arbitrary precision—not because of imprecise measurin…"
-    },
-    {
-      "title": "Researchers Propose Thermodynamic Computing Architecture That Could Dramatically Reduce AI Energy Use",
-      "link": "https://thequantuminsider.com/2026/07/03/researchers-propose-thermodynamic-computing-architecture-that-could-dramatically-reduce-ai-energy-use/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 03 Jul 2026 13:35:01 +0000",
-      "published_ts": 1783085701,
-      "summary": "Insider Brief As artificial intelligence drives an unprecedented buildout of power-hungry data centers, researchers are exploring computing architectures that move beyond the graphics processing units (GPUs). One new proposal to address this is a probabilistic computer built from conventional transi…"
     },
     {
       "title": "Single ion maps 3D electromagnetic fields above chips with record sensitivity",
