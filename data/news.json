@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1783332566,
+  "generated_ts": 1783351316,
   "items": [
+    {
+      "title": "MagiQware Raises €575K Pre-Seed Round to Advance AI Software For Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/07/06/magiqware-raises-e575k-pre-seed-round-to-advance-ai-software-for-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 06 Jul 2026 13:37:23 +0000",
+      "published_ts": 1783345043,
+      "summary": "Insider Brief MagiQware has raised €575,000 in a pre-seed funding round to further develop artificial intelligence software designed to reduce the cost of fault-tolerant quantum computing, according to a LinkedIn post announcing the investment. The round included participation from Graduate Ventures…"
+    },
+    {
+      "title": "IQM Acquires Quantistry Assets to Expand Industrial Quantum Software Capabilities",
+      "link": "https://thequantuminsider.com/2026/07/06/iqm-acquires-quantistry-assets/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 06 Jul 2026 13:05:46 +0000",
+      "published_ts": 1783343146,
+      "summary": "Insider Brief Press release &#8211; IQM Quantum Computers (Nasdaq: IQMX) (“IQM”, “IQM Quantum Computers” or the “Company”), a global leader in full-stack superconducting quantum computers, has acquired selected assets of Quantistry GmbH, a Berlin-based developer of cloud-native simulation workflow p…"
+    },
+    {
+      "title": "University of Sydney and IBM Identify Major Source of Quantum Computing Errors",
+      "link": "https://thequantuminsider.com/2026/07/06/university-of-sydney-and-ibm-identify-major-source-of-quantum-computing-errors/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 06 Jul 2026 13:00:39 +0000",
+      "published_ts": 1783342839,
+      "summary": "Insider Brief Researchers from the University of Sydney, working with IBM, have identified and quantified important factors limiting the performance of quantum computers and demonstrated ways to overcome their impact. The findings, which improve our understanding of how errors emerge during quantum…"
+    },
+    {
+      "title": "EigenQ Announces Post-Quantum Security Integration for Intel Xeon Systems",
+      "link": "https://thequantuminsider.com/2026/07/06/eigenq-post-quantum-intel-xeon-security/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 06 Jul 2026 12:24:16 +0000",
+      "published_ts": 1783340656,
+      "summary": "Insider Brief Press release &#8211; EigenQ, Inc. today announced new platform capabilities designed to help organizations prepare deployed Intel Xeon processor-based infrastructures for CNSA 2.0-aligned post-quantum migration requirements. As advancements in quantum computing progress, agencies and…"
+    },
+    {
+      "title": "Oak Ridge, Cleveland Clinic, and IBM Demonstrate Quantum Simulations for Fusion Materials",
+      "link": "https://thequantuminsider.com/2026/07/06/quantum-simulation-fusion-material-ornl-ibm-cleveland-clinic/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 06 Jul 2026 12:13:57 +0000",
+      "published_ts": 1783340037,
+      "summary": "Insider Brief A team of scientists from Oak Ridge National Laboratory (ORNL), Cleveland Clinic, and IBM (NYSE: IBM), have calculated nine molecular configurations of a promising material to produce fuel for fusion energy – the first-known instance of such computations on quantum computers. Such calc…"
+    },
+    {
+      "title": "Keyfactor Announces $1B+ Strategic Growth Investment to Expand Leadership in Securing Post-Quantum Enterprise",
+      "link": "https://thequantuminsider.com/2026/07/06/keyfactor-1b-growth-investment-summit-partners/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 06 Jul 2026 12:07:37 +0000",
+      "published_ts": 1783339657,
+      "summary": "Insider Brief Press release &#8211; Keyfactor, the leader in trust infrastructure for the AI and quantum era, today announced a $1 billion+ strategic growth investment led by Summit Partners. The transaction reflects the increasing strategic urgency around machine identity security, reinforcing Keyf…"
+    },
+    {
+      "title": "Hybrid Quantum Algorithm Improves Portfolio Optimization on Trapped-Ion Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/07/06/hybrid-quantum-algorithm-improves-portfolio-optimization-on-trapped-ion-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 06 Jul 2026 11:49:22 +0000",
+      "published_ts": 1783338562,
+      "summary": "Insider Brief Researchers have demonstrated a hybrid quantum-classical approach to portfolio optimization that solved real-world financial optimization problems more effectively than a standard quantum algorithm alone, offering evidence that near-term quantum computers may be most useful when paired…"
+    },
+    {
+      "title": "SQC Names Karna Nisewaner as Chief Legal Officer",
+      "link": "https://thequantuminsider.com/2026/07/06/sqc-strengthens-executive-team-with-appointment-of-chief-legal-officer/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 06 Jul 2026 09:31:49 +0000",
+      "published_ts": 1783330309,
+      "summary": "Insider Brief Press release &#8211; Silicon Quantum Computing (SQC), a global pioneer in quantum computing and atomic-precision manufacturing, today announced the appointment of Karna Nisewaner as Chief Legal Officer, effective 1 June 2026.  The appointment strengthens SQC&#8217;s executive team as…"
+    },
     {
       "title": "Scientists Develop Framework to Distinguish Quantum Gravity Signatures",
       "link": "https://thequantuminsider.com/2026/07/06/scientists-develop-framework-to-distinguish-quantum-gravity-signatures/",
@@ -40,70 +104,6 @@
       "published": "Fri, 03 Jul 2026 13:35:01 +0000",
       "published_ts": 1783085701,
       "summary": "Insider Brief As artificial intelligence drives an unprecedented buildout of power-hungry data centers, researchers are exploring computing architectures that move beyond the graphics processing units (GPUs). One new proposal to address this is a probabilistic computer built from conventional transi…"
-    },
-    {
-      "title": "How to Start a Career in Quantum Computing in 2026",
-      "link": "https://thequantuminsider.com/2026/07/03/how-to-start-a-career-get-a-job-in-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 03 Jul 2026 11:17:17 +0000",
-      "published_ts": 1783077437,
-      "summary": "Insider Brief For years, quantum was something most people encountered in documentaries, or late-night debates about Schrödinger&#8217;s cat. Today, it&#8217;s also becoming a career.&#160; Companies are hiring now, salaries are rising, and the roles are becoming more defined. According to QED-C&#82…"
-    },
-    {
-      "title": "QoreChain Demonstrates End-to-End Post-Quantum Blockchain Transaction",
-      "link": "https://thequantuminsider.com/2026/07/03/qorechain-first-post-quantum-blockchain-transaction/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 03 Jul 2026 10:37:17 +0000",
-      "published_ts": 1783075037,
-      "summary": "Insider Brief Press release &#8211; QoreChain, a quantum-safe, AI-native Layer 1 blockchain, has recorded what it describes as the first transaction in the history of blockchain to be secured end to end, on a live public mainnet, by all three NIST-standardized post-quantum algorithms. The transactio…"
-    },
-    {
-      "title": "Ohio State-led Team Secures NSF Award to Advance to Next Phase of the National Quantum Virtual Laboratory Program",
-      "link": "https://thequantuminsider.com/2026/07/03/ohio-state-led-team-secures-nsf-award-to-advance-to-next-phase-of-the-national-quantum-virtual-laboratory-program/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 03 Jul 2026 09:44:31 +0000",
-      "published_ts": 1783071871,
-      "summary": "Insider Brief Press release &#8211; The Ohio State University is strengthening its growing prominence in quantum science, technology, and education with a $4 million, two‑year Phase II design award from the U.S. National Science Foundation (NSF) to advance a national effort focused on next‑generatio…"
-    },
-    {
-      "title": "IQM Joins Nasdaq as Public Quantum Computing Company",
-      "link": "https://thequantuminsider.com/2026/07/03/iqm-begins-trading-on-nasdaq/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 03 Jul 2026 09:42:18 +0000",
-      "published_ts": 1783071738,
-      "summary": "Insider Brief Press release &#8211; IQM Quantum Computers (Nasdaq: IQMX) (“IQM”, “IQM Quantum Computers” or the “Company”), a global leader in full-stack superconducting quantum computers, today became a publicly traded company following the completion of its business combination with Real Asset Acq…"
-    },
-    {
-      "title": "Xdotz Unveils Quantum Current Sensor ‘XSI’ for the First Time at Quantum Korea 2026",
-      "link": "https://thequantuminsider.com/2026/07/03/xdotz-unveils-quantum-current-sensor-xsi-for-the-first-time-at-quantum-korea-2026/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 03 Jul 2026 09:32:58 +0000",
-      "published_ts": 1783071178,
-      "summary": "Insider Brief Press release &#8211; XDots (xDots), a company specializing in quantum technology-based energy optimization solutions, participated in Quantum Korea (2026), Korea&#8217;s largest quantum science and technology event, and presented the energy efficiency optimization solution XEnergy (xE…"
-    },
-    {
-      "title": "PostScriptum Invests in Quantum Hardware Developer SemiQon",
-      "link": "https://thequantuminsider.com/2026/07/03/postscriptum-invests-in-quantum-hardware-developer-semiqon/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 03 Jul 2026 08:41:35 +0000",
-      "published_ts": 1783068095,
-      "summary": "Insider Brief PRESS RELEASE &#8212; With the investment,&#160;PostScriptum&#160;will become a shareholder in&#160;SemiQon, a Finnish quantum hardware company building one of Europe’s most ambitious platforms for next-generation quantum technology. The investment will help accelerate the commercializ…"
-    },
-    {
-      "title": "South Korea Expands Quantum Cooperation With Canada, U.K. and EU at Quantum Korea 2026",
-      "link": "https://thequantuminsider.com/2026/07/03/south-korea-expands-quantum-cooperation-with-canada-u-k-and-eu-at-quantum-korea-2026/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 03 Jul 2026 08:33:57 +0000",
-      "published_ts": 1783067637,
-      "summary": "Insider Brief South Korea used this week&#8217;s Quantum Korea 2026 conference to deepen international cooperation on quantum technology, holding separate high-level meetings with officials from Canada, the United Kingdom and the European Union to discuss joint research, commercialization and workfo…"
-    },
-    {
-      "title": "Legacy, Labs And Leadership: A Look at The University of Texas’s Quantum Ecosystem",
-      "link": "https://thequantuminsider.com/2026/07/03/legacy-labs-and-leadership-a-look-at-the-university-of-texass-quantum-ecosystem/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 03 Jul 2026 08:14:47 +0000",
-      "published_ts": 1783066487,
-      "summary": "Insider Brief The University of Texas at Austin is expanding its quantum research capabilities with new laboratories, state-backed infrastructure and a roster of scientists whose work has helped shape modern quantum science, positioning the university as one of the nation&#8217;s most established qu…"
     },
     {
       "title": "Single ion maps 3D electromagnetic fields above chips with record sensitivity",
