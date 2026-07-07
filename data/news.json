@@ -1,6 +1,142 @@
 {
-  "generated_ts": 1783392047,
+  "generated_ts": 1783416832,
   "items": [
+    {
+      "title": "White House to Convene Quantum Industry Summit as Administration Pushes Innovation Agenda",
+      "link": "https://thequantuminsider.com/2026/07/07/white-house-to-convene-quantum-industry-summit-as-administration-pushes-innovation-agenda/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 07:45:12 +0000",
+      "published_ts": 1783410312,
+      "summary": "Insider Brief The White House is set to bring together government leaders and representatives of the U.S. quantum industry on Tuesday for a summit focused on advancing quantum information science and technology, according to NextGov. The White House Summit on Quantum Innovation is scheduled to begin…"
+    },
+    {
+      "title": "Guest Post: Why Chemistry Could Be Quantum Computing’s First Foothold",
+      "link": "https://thequantuminsider.com/2026/07/07/guest-post-why-chemistry-could-be-quantum-computings-first-foothold/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 07:31:48 +0000",
+      "published_ts": 1783409508,
+      "summary": "By Dr. Kris Naudts, Zeynep Koruturk and Donald Harmitt @ Firgun Ventures. Firgun Ventures is a VC firm investing in Series A/B quantum scale-ups globally. Among the futures promised for quantum computing, chemistry has the strongest claim to arriving first, and being the most direct line to human he…"
+    },
+    {
+      "title": "MLIR for Quantum Beyond Gate Cancellation: Quantum Circuit Mapping Reimagined",
+      "link": "https://arxiv.org/abs/2607.02616",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02616v1 Announce Type: new  Abstract: The Multi-Level Intermediate Representation (MLIR) framework has become a cornerstone for building extensible, domain-specific compilers, with the quantum computing community already leveraging it to model quantum programs and implement basic optimiza…"
+    },
+    {
+      "title": "Comparing the Performance of Leading VQE Algorithms for Computing Ground-State Energies of Amino Acids",
+      "link": "https://arxiv.org/abs/2607.02620",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02620v1 Announce Type: new  Abstract: Simulating molecules is a major application of quantum computing, with the potential to overcome exponential scaling constraints of classical computation. Researchers use different methods in order to evaluate the readiness of NISQ computers in order…"
+    },
+    {
+      "title": "COMET: Combinatorial Optimization for Multiplex Editing Targets Via Constraint-Preserving QAOA",
+      "link": "https://arxiv.org/abs/2607.02622",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02622v1 Announce Type: new  Abstract: Multiplex CRISPR-Cas9 gene editing requires selecting one guide RNA per target gene subject to cross-gene interactions: a constrained combinatorial problem that can be formulated as a Quadratic Unconstrained Binary Optimization (QUBO) and solved via t…"
+    },
+    {
+      "title": "Krylov-Lie Algebras for Variational Quantum Algorithms: Geometric, Depth-Aware Insights into Expressivity and Trainability",
+      "link": "https://arxiv.org/abs/2607.02626",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02626v1 Announce Type: new  Abstract: Variational quantum algorithms (VQAs) are a leading approach to near-term quantum computation, but their utility is limited by barren plateaus and other pathologies in their loss landscapes. Existing landscape theories based on dynamical Lie algebras,…"
+    },
+    {
+      "title": "Minimally invasive measurement of work in coherent quantum systems",
+      "link": "https://arxiv.org/abs/2607.02652",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02652v1 Announce Type: new  Abstract: A central challenge in quantum thermodynamics is to access work fluctuations in coherent processes without distorting the energetics of the unmeasured evolution. In standard two-point schemes, the initial energy measurement dephases coherent inputs, c…"
+    },
+    {
+      "title": "Quench Spectroscopy of Magnetic Excitations on a Superconducting Quantum Processor",
+      "link": "https://arxiv.org/abs/2607.02673",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02673v1 Announce Type: new  Abstract: The elementary excitation spectrum of a many-body quantum system encodes many key properties, including phenomena as diverse as transport, thermalisation and ground state structure. Excitation spectra of strongly correlated systems are typically encod…"
+    },
+    {
+      "title": "Parametrized-circuit-free quantum regression with variance regularization",
+      "link": "https://arxiv.org/abs/2607.02696",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02696v1 Announce Type: new  Abstract: Quantum regression tasks for predicting properties of quantum states are commonly addressed using variational quantum algorithms. While variational quantum circuits are highly expressive and allow to achieve reasonable accuracy, training these circuit…"
+    },
+    {
+      "title": "Encoding matroids into quantum states",
+      "link": "https://arxiv.org/abs/2607.02736",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02736v1 Announce Type: new  Abstract: Efficient representations of multipartite quantum states play a fundamental role in quantum information theory, providing both conceptual insight and practical tools for characterizing entanglement. Motivated by the axiomatic framework for graph state…"
+    },
+    {
+      "title": "Self-Attention for Quantum Entanglement Prediction",
+      "link": "https://arxiv.org/abs/2607.02767",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02767v1 Announce Type: new  Abstract: Quantum entanglement is a powerful resource for quantum-enhanced technologies. However, its reliable quantification remains challenging due to the exponential scaling of the Hilbert space with system size, which renders full state tomography infeasibl…"
+    },
+    {
+      "title": "Reducing quantum measurements in qubit-based overlapping grouping methods for quantum energy estimation through better initializations",
+      "link": "https://arxiv.org/abs/2607.02794",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02794v1 Announce Type: new  Abstract: The measurement cost for estimating expectation values of Hamiltonians is a central bottleneck in variational quantum algorithms. Grouping strategies significantly reduce this cost, with overlapping techniques being the state of the art in the field.…"
+    },
+    {
+      "title": "Fault-tolerant quantum computation with static atomic buses",
+      "link": "https://arxiv.org/abs/2607.02804",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02804v1 Announce Type: new  Abstract: Efficient quantum error correction and fault-tolerant quantum computing require scalable, high-fidelity long-range connectivity. In neutral-atom quantum computers, this is commonly achieved through atom transport, but shuttling introduces latency and…"
+    },
+    {
+      "title": "Locally Passive, Globally Charged Quantum Batteries: Coherence-Controlled Work and the Robustness of the Stored Charge",
+      "link": "https://arxiv.org/abs/2607.02810",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02810v1 Announce Type: new  Abstract: A solvable charger--battery model is introduced in which quantum coherence controls both where a quantum battery's charge is stored and how robustly it survives noise. Charging converts the charger's coherence into charger--battery entanglement and sp…"
+    },
+    {
+      "title": "An approach for calculating astrophysical opacities on quantum computers",
+      "link": "https://arxiv.org/abs/2607.02811",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02811v1 Announce Type: new  Abstract: We propose a quantum algorithmic protocol for calculating astrophysical opacities. Our implementation uses first- and second-quantized representations of interacting electronic and photonic subsystems and Hamiltonian simulation via the interaction pic…"
+    },
+    {
+      "title": "Tunable M-Ary Quantum Secure Direct Communication via Correlation-Histogram Modulation",
+      "link": "https://arxiv.org/abs/2607.02858",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02858v1 Announce Type: new  Abstract: We propose a two-way entanglement-based quantum secure direct communication (QSDC) protocol in which information is encoded as the value of a continuously tunable parameter and decoded from empirically estimated joint-outcome histograms over windows o…"
+    },
+    {
+      "title": "Photon Squeezing and Its Signatures of Quantum Phase Transitions in the Open Quantum Rabi-Stark Model",
+      "link": "https://arxiv.org/abs/2607.02868",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783396800,
+      "summary": "arXiv:2607.02868v1 Announce Type: new  Abstract: As a hallmark of nonclassical light, squeezed light is of profound theoretical interest and holds broad practical promise for emerging quantum technologies. In this work, we investigate steady-state optical quadrature squeezing in the open quantum Rab…"
+    },
     {
       "title": "Quantum computing: Laser-optical system offers full control over 2,000 trapped Rydberg atoms",
       "link": "https://phys.org/news/2026-07-quantum-laser-optical-full-rydberg.html",
@@ -72,22 +208,6 @@
       "published": "Mon, 06 Jul 2026 11:49:22 +0000",
       "published_ts": 1783338562,
       "summary": "Insider Brief Researchers have demonstrated a hybrid quantum-classical approach to portfolio optimization that solved real-world financial optimization problems more effectively than a standard quantum algorithm alone, offering evidence that near-term quantum computers may be most useful when paired…"
-    },
-    {
-      "title": "SQC Names Karna Nisewaner as Chief Legal Officer",
-      "link": "https://thequantuminsider.com/2026/07/06/sqc-strengthens-executive-team-with-appointment-of-chief-legal-officer/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 06 Jul 2026 09:31:49 +0000",
-      "published_ts": 1783330309,
-      "summary": "Insider Brief Press release &#8211; Silicon Quantum Computing (SQC), a global pioneer in quantum computing and atomic-precision manufacturing, today announced the appointment of Karna Nisewaner as Chief Legal Officer, effective 1 June 2026.  The appointment strengthens SQC&#8217;s executive team as…"
-    },
-    {
-      "title": "Scientists Develop Framework to Distinguish Quantum Gravity Signatures",
-      "link": "https://thequantuminsider.com/2026/07/06/scientists-develop-framework-to-distinguish-quantum-gravity-signatures/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 06 Jul 2026 08:05:55 +0000",
-      "published_ts": 1783325155,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Everything around us, from atoms and molecules to planets and galaxies, is governed by two extraordinarily successful theories of physics: Quantum mechanics and gravity. Quantum mechanics explains the behavior of the microscopic world, while Einstein’s theory of g…"
     },
     {
       "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
