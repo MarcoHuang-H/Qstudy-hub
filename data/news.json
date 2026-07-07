@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1783416832,
+  "generated_ts": 1783434092,
   "items": [
+    {
+      "title": "Evidence of elusive high-energy gravitons in quantum Hall systems",
+      "link": "https://phys.org/news/2026-07-evidence-elusive-high-energy-gravitons.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 07 Jul 2026 10:00:08 EDT",
+      "published_ts": 1783432808,
+      "summary": "Electrons, negatively charged particles, sometimes coordinate their movements in ways that produce certain collective excitations referred to as quasiparticles. One case in which this occurs is the quantum Hall effect, a phenomenon that emerges when electrons are confined to a very thin layer, coole…"
+    },
+    {
+      "title": "Metallic rutile oxides break the rules of cooling",
+      "link": "https://phys.org/news/2026-07-metallic-rutile-oxides-cooling.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 07 Jul 2026 09:00:09 EDT",
+      "published_ts": 1783429209,
+      "summary": "Physicists have long puzzled over a strange contradiction inside a family of minerals called rutile oxides. These materials all share the same crystal structure—but while some of them, like titanium dioxide, are firmly insulating, others, like ruthenium dioxide, conduct electricity like a metal. So…"
+    },
+    {
+      "title": "Pasqal and MegazoneCloud Partner to Bring Quantum Computing to South Korea",
+      "link": "https://thequantuminsider.com/2026/07/07/pasqal-megazonecloud-quantum-computing-korea/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 12:35:23 +0000",
+      "published_ts": 1783427723,
+      "summary": "Insider Brief Press release &#8211; Pasqal, a global leader in neutral-atom quantum computing, and MegazoneCloud, South Korea&#8217;s leading cloud and AI transformation company, have signed a Memorandum of Understanding (MoU) to jointly explore a series of quantum computing initiatives designed to…"
+    },
+    {
+      "title": "QuSecure Appoints Former Navy Rear Admiral Doug Small to Federal Advisory Board",
+      "link": "https://thequantuminsider.com/2026/07/07/qusecure-doug-small-federal-advisory-board/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 12:26:46 +0000",
+      "published_ts": 1783427206,
+      "summary": "Insider Brief Press release &#8211; QuSecure, Inc., a leader in post-quantum cryptography (PQC) and cryptographic agility, today announced that U.S. Navy Rear Admiral Doug Small has joined its Federal Advisory Board (FAB). Admiral Small (Ret.) joins QuSecure as federal agencies move from planning to…"
+    },
+    {
+      "title": "USC Researcher Explores Quantum Computing for Database Optimization",
+      "link": "https://thequantuminsider.com/2026/07/07/usc-quantum-augmented-database-research/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 11:49:47 +0000",
+      "published_ts": 1783424987,
+      "summary": "Insider Brief Modern database systems are struggling to maintain real-time performance as data volumes and workloads continue to grow exponentially. Without more efficient optimization, the systems responsible for processing massive amounts of data will face significant delays and scalability challe…"
+    },
+    {
+      "title": "Governments Face a New Quantum Reality as IBM Report Urges Broader Strategy Beyond Computing",
+      "link": "https://thequantuminsider.com/2026/07/07/governments-face-a-new-quantum-reality-as-ibm-report-urges-broader-strategy-beyond-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 11:29:12 +0000",
+      "published_ts": 1783423752,
+      "summary": "Insider Brief Governments that focus narrowly on quantum computing risk falling behind in a technology race that increasingly encompasses communications, sensing, cybersecurity and international partnerships, according to a new report from the IBM Center for The Business of Government. The report co…"
+    },
+    {
+      "title": "IBM Adds Post-Quantum Security Features to New z17 and LinuxONE Systems",
+      "link": "https://thequantuminsider.com/2026/07/07/ibm-z17-linuxone-post-quantum-cryptography/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 11:26:13 +0000",
+      "published_ts": 1783423573,
+      "summary": "Insider Brief Press release &#8211; IBM (NYSE: IBM) today announces new IBM z17 and IBM LinuxONE 5 configurations, marking the first time IBM is offering rack mount alongside single frame systems across its full Z and LinuxONE portfolio. The expanded IBM z17 and LinuxONE 5 portfolios now offer a wid…"
+    },
     {
       "title": "White House to Convene Quantum Industry Summit as Administration Pushes Innovation Agenda",
       "link": "https://thequantuminsider.com/2026/07/07/white-house-to-convene-quantum-industry-summit-as-administration-pushes-innovation-agenda/",
@@ -170,46 +226,6 @@
       "summary": "Insider Brief Press release &#8211; IQM Quantum Computers (Nasdaq: IQMX) (“IQM”, “IQM Quantum Computers” or the “Company”), a global leader in full-stack superconducting quantum computers, has acquired selected assets of Quantistry GmbH, a Berlin-based developer of cloud-native simulation workflow p…"
     },
     {
-      "title": "University of Sydney and IBM Identify Major Source of Quantum Computing Errors",
-      "link": "https://thequantuminsider.com/2026/07/06/university-of-sydney-and-ibm-identify-major-source-of-quantum-computing-errors/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 06 Jul 2026 13:00:39 +0000",
-      "published_ts": 1783342839,
-      "summary": "Insider Brief Researchers from the University of Sydney, working with IBM, have identified and quantified important factors limiting the performance of quantum computers and demonstrated ways to overcome their impact. The findings, which improve our understanding of how errors emerge during quantum…"
-    },
-    {
-      "title": "EigenQ Announces Post-Quantum Security Integration for Intel Xeon Systems",
-      "link": "https://thequantuminsider.com/2026/07/06/eigenq-post-quantum-intel-xeon-security/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 06 Jul 2026 12:24:16 +0000",
-      "published_ts": 1783340656,
-      "summary": "Insider Brief Press release &#8211; EigenQ, Inc. today announced new platform capabilities designed to help organizations prepare deployed Intel Xeon processor-based infrastructures for CNSA 2.0-aligned post-quantum migration requirements. As advancements in quantum computing progress, agencies and…"
-    },
-    {
-      "title": "Oak Ridge, Cleveland Clinic, and IBM Demonstrate Quantum Simulations for Fusion Materials",
-      "link": "https://thequantuminsider.com/2026/07/06/quantum-simulation-fusion-material-ornl-ibm-cleveland-clinic/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 06 Jul 2026 12:13:57 +0000",
-      "published_ts": 1783340037,
-      "summary": "Insider Brief A team of scientists from Oak Ridge National Laboratory (ORNL), Cleveland Clinic, and IBM (NYSE: IBM), have calculated nine molecular configurations of a promising material to produce fuel for fusion energy – the first-known instance of such computations on quantum computers. Such calc…"
-    },
-    {
-      "title": "Keyfactor Announces $1B+ Strategic Growth Investment to Expand Leadership in Securing Post-Quantum Enterprise",
-      "link": "https://thequantuminsider.com/2026/07/06/keyfactor-1b-growth-investment-summit-partners/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 06 Jul 2026 12:07:37 +0000",
-      "published_ts": 1783339657,
-      "summary": "Insider Brief Press release &#8211; Keyfactor, the leader in trust infrastructure for the AI and quantum era, today announced a $1 billion+ strategic growth investment led by Summit Partners. The transaction reflects the increasing strategic urgency around machine identity security, reinforcing Keyf…"
-    },
-    {
-      "title": "Hybrid Quantum Algorithm Improves Portfolio Optimization on Trapped-Ion Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/07/06/hybrid-quantum-algorithm-improves-portfolio-optimization-on-trapped-ion-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 06 Jul 2026 11:49:22 +0000",
-      "published_ts": 1783338562,
-      "summary": "Insider Brief Researchers have demonstrated a hybrid quantum-classical approach to portfolio optimization that solved real-world financial optimization problems more effectively than a standard quantum algorithm alone, offering evidence that near-term quantum computers may be most useful when paired…"
-    },
-    {
       "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
       "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -320,22 +336,6 @@
       "published": "Sat, 27 Jun 2026 11:00:02 EDT",
       "published_ts": 1782572402,
       "summary": "In quantum mechanics, the geometry of quantum states has emerged as a powerful framework for understanding phenomena ranging from electrical conductivity to superconductivity. One research direction aims to extend these geometric concepts to non-Hermitian quantum mechanics—where systems can exchange…"
-    },
-    {
-      "title": "Clean crystal surface lets single molecules hit ultimate quantum limit",
-      "link": "https://phys.org/news/2026-06-crystal-surface-molecules-ultimate-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 26 Jun 2026 17:00:01 EDT",
-      "published_ts": 1782507601,
-      "summary": "Scientists at the Max Planck Institute for the Science of Light (MPL) have developed a technique for interrogating molecules on surfaces with spectroscopic precision, thereby reaching the ultimate quantum limit for the first time. With their findings, published in Science, the researchers open new o…"
-    },
-    {
-      "title": "Semiconductor quantum dots 'reawaken' predicted Rabi oscillations, boosting quantum control",
-      "link": "https://phys.org/news/2026-06-semiconductor-quantum-dots-reawaken-rabi.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 26 Jun 2026 13:00:04 EDT",
-      "published_ts": 1782493204,
-      "summary": "Physicists at Paderborn University have, for the first time, experimentally demonstrated the so-called \"return\" of Rabi oscillations in semiconductor quantum dots. The phenomenon, which was first predicted theoretically in 2007, describes the decrease in the emission intensity of the quantum dots, w…"
     },
     {
       "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
