@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1783434092,
+  "generated_ts": 1783453738,
   "items": [
+    {
+      "title": "Quantum computers model nine fusion fuel material configurations for first time",
+      "link": "https://phys.org/news/2026-07-quantum-fusion-fuel-material-configurations.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 07 Jul 2026 15:40:01 EDT",
+      "published_ts": 1783453201,
+      "summary": "A team of scientists from Oak Ridge National Laboratory, Cleveland Clinic and IBM has calculated nine molecular configurations of a promising material to produce fuel for fusion energy—the first known instance of such computations on quantum computers."
+    },
+    {
+      "title": "NSF Launches Project Triad to Advance Quantum Technology For Real-World Applications",
+      "link": "https://thequantuminsider.com/2026/07/07/nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 19:30:41 +0000",
+      "published_ts": 1783452641,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single operational system. By bringing these three capabilities together for the first…"
+    },
+    {
+      "title": "Using quantum entanglement to secure ground-to-satellite timing",
+      "link": "https://phys.org/news/2026-07-quantum-entanglement-ground-satellite.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 07 Jul 2026 14:00:01 EDT",
+      "published_ts": 1783447201,
+      "summary": "From mobile phones and banking systems to aircraft, ships and emergency services, much of modern life relies on precise timing signals from satellites. Known as the Global Navigation Satellite System (GNSS), satellites carrying atomic clocks transmit time-stamped signals to receivers on Earth. The G…"
+    },
+    {
+      "title": "Oratomic Raises $300 Million Series A",
+      "link": "https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 17:38:03 +0000",
+      "published_ts": 1783445883,
+      "summary": "Insider Brief Oratomic has raised a $300 million Series A financing round as the quantum computing startup moves to accelerate development of a fault-tolerant quantum computer that it says could reach commercial utility before the end of the decade. According to a company blog post, the financing wa…"
+    },
+    {
+      "title": "Ultra-compact sensor paves the way for more powerful and scalable silicon quantum processors",
+      "link": "https://phys.org/news/2026-07-ultra-compact-sensor-paves-powerful.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 07 Jul 2026 13:20:01 EDT",
+      "published_ts": 1783444801,
+      "summary": "Researchers from the Quantum Hardware group at CIC nanoGUNE, in collaboration with the British company Quantum Motion, have demonstrated an advanced readout sensor for spin qubits that, while being more compact than previous designs, can reach the level of readout precision needed to implement quant…"
+    },
+    {
+      "title": "Photonic Names Orlagh Neary and Briony Shipman to Executive Roles",
+      "link": "https://thequantuminsider.com/2026/07/07/photonic-appoints-marketing-government-affairs-leaders/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 15:22:43 +0000",
+      "published_ts": 1783437763,
+      "summary": "Insider Brief Press release &#8211; Photonic Inc., a global leader in distributed quantum computing, today announced the appointments of Orlagh Neary as Chief Marketing Officer (CMO), and Briony Shipman as Vice President, Global Government Affairs. The strategic appointments of&#160;Neary&#160;and&#…"
+    },
+    {
+      "title": "University of Pretoria Expands South Africa’s Quantum Research Capacity",
+      "link": "https://thequantuminsider.com/2026/07/07/university-pretoria-quantum-research-hub/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 14:14:30 +0000",
+      "published_ts": 1783433670,
+      "summary": "Insider Brief As countries around the world race to secure leadership in quantum technologies – an emerging field expected to transform computing, healthcare, manufacturing, agriculture and cybersecurity – the&#160;University of Pretoria&#160;(UP) has been selected to play a significant role in Sout…"
+    },
+    {
+      "title": "SEALSQ Corp Reports Revenue Up 120% in Preliminary H1 2026 Results",
+      "link": "https://thequantuminsider.com/2026/07/07/sealsq-corp-reports-revenue-up-120-in-preliminary-h1-2026-results/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 14:01:59 +0000",
+      "published_ts": 1783432919,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced its preliminary unaudited financial result…"
+    },
     {
       "title": "Evidence of elusive high-energy gravitons in quantum Hall systems",
       "link": "https://phys.org/news/2026-07-evidence-elusive-high-energy-gravitons.html",
@@ -8,6 +72,22 @@
       "published": "Tue, 07 Jul 2026 10:00:08 EDT",
       "published_ts": 1783432808,
       "summary": "Electrons, negatively charged particles, sometimes coordinate their movements in ways that produce certain collective excitations referred to as quasiparticles. One case in which this occurs is the quantum Hall effect, a phenomenon that emerges when electrons are confined to a very thin layer, coole…"
+    },
+    {
+      "title": "Quantum X Labs Advances Development of Quantum Atomic Clock Technology",
+      "link": "https://thequantuminsider.com/2026/07/07/quantum-x-labs-ramsey-cpt-atomic-clock/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 13:59:12 +0000",
+      "published_ts": 1783432752,
+      "summary": "Insider Brief Press release &#8211;Quantum X Labs Inc. Ltd. (Nasdaq: QXL) (“Quantum X” or the “Company”) today announced the successful demonstration by its wholly-owned subsidiary, Quantum X Labs Ltd. (“Quantum X Labs”), a developer of advanced quantum technologies, of a high-sensitivity atomic clo…"
+    },
+    {
+      "title": "Alfred University and Classiq Launch Quantum Computing Initiative",
+      "link": "https://thequantuminsider.com/2026/07/07/alfred-university-and-classiq-launch-quantum-computing-initiative/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 07 Jul 2026 13:49:35 +0000",
+      "published_ts": 1783432175,
+      "summary": "Insider Brief Press release &#8211; Alfred University, the State University of New York College of Ceramics at Alfred University, and Classiq today announced a joint quantum computing initiative using Classiq’s quantum software engineering platform to support engineering education, applied energy sy…"
     },
     {
       "title": "Metallic rutile oxides break the rules of cooling",
@@ -40,38 +120,6 @@
       "published": "Tue, 07 Jul 2026 11:49:47 +0000",
       "published_ts": 1783424987,
       "summary": "Insider Brief Modern database systems are struggling to maintain real-time performance as data volumes and workloads continue to grow exponentially. Without more efficient optimization, the systems responsible for processing massive amounts of data will face significant delays and scalability challe…"
-    },
-    {
-      "title": "Governments Face a New Quantum Reality as IBM Report Urges Broader Strategy Beyond Computing",
-      "link": "https://thequantuminsider.com/2026/07/07/governments-face-a-new-quantum-reality-as-ibm-report-urges-broader-strategy-beyond-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 11:29:12 +0000",
-      "published_ts": 1783423752,
-      "summary": "Insider Brief Governments that focus narrowly on quantum computing risk falling behind in a technology race that increasingly encompasses communications, sensing, cybersecurity and international partnerships, according to a new report from the IBM Center for The Business of Government. The report co…"
-    },
-    {
-      "title": "IBM Adds Post-Quantum Security Features to New z17 and LinuxONE Systems",
-      "link": "https://thequantuminsider.com/2026/07/07/ibm-z17-linuxone-post-quantum-cryptography/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 11:26:13 +0000",
-      "published_ts": 1783423573,
-      "summary": "Insider Brief Press release &#8211; IBM (NYSE: IBM) today announces new IBM z17 and IBM LinuxONE 5 configurations, marking the first time IBM is offering rack mount alongside single frame systems across its full Z and LinuxONE portfolio. The expanded IBM z17 and LinuxONE 5 portfolios now offer a wid…"
-    },
-    {
-      "title": "White House to Convene Quantum Industry Summit as Administration Pushes Innovation Agenda",
-      "link": "https://thequantuminsider.com/2026/07/07/white-house-to-convene-quantum-industry-summit-as-administration-pushes-innovation-agenda/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 07:45:12 +0000",
-      "published_ts": 1783410312,
-      "summary": "Insider Brief The White House is set to bring together government leaders and representatives of the U.S. quantum industry on Tuesday for a summit focused on advancing quantum information science and technology, according to NextGov. The White House Summit on Quantum Innovation is scheduled to begin…"
-    },
-    {
-      "title": "Guest Post: Why Chemistry Could Be Quantum Computing’s First Foothold",
-      "link": "https://thequantuminsider.com/2026/07/07/guest-post-why-chemistry-could-be-quantum-computings-first-foothold/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 07:31:48 +0000",
-      "published_ts": 1783409508,
-      "summary": "By Dr. Kris Naudts, Zeynep Koruturk and Donald Harmitt @ Firgun Ventures. Firgun Ventures is a VC firm investing in Series A/B quantum scale-ups globally. Among the futures promised for quantum computing, chemistry has the strongest claim to arriving first, and being the most direct line to human he…"
     },
     {
       "title": "MLIR for Quantum Beyond Gate Cancellation: Quantum Circuit Mapping Reimagined",
@@ -202,30 +250,6 @@
       "summary": "Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be positioned with submicrometer precision in the computer's hig…"
     },
     {
-      "title": "China’s Bose Quantum Reportedly Raises Pre-IPO Funding",
-      "link": "https://thequantuminsider.com/2026/07/06/chinas-bose-quantum-reportedly-raises-pre-ipo-funding/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 06 Jul 2026 18:07:47 +0000",
-      "published_ts": 1783361267,
-      "summary": "Insider Brief Beijing-based Bose Quantum has completed a pre-IPO financing round worth several hundred million yuan, which would be tens of millions of U.S. dollars. If confirmed, the move potentially positions the company to become China&#8217;s second quantum computing company to begin an IPO proc…"
-    },
-    {
-      "title": "MagiQware Raises €575K Pre-Seed Round to Advance AI Software For Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/07/06/magiqware-raises-e575k-pre-seed-round-to-advance-ai-software-for-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 06 Jul 2026 13:37:23 +0000",
-      "published_ts": 1783345043,
-      "summary": "Insider Brief MagiQware has raised €575,000 in a pre-seed funding round to further develop artificial intelligence software designed to reduce the cost of fault-tolerant quantum computing, according to a LinkedIn post announcing the investment. The round included participation from Graduate Ventures…"
-    },
-    {
-      "title": "IQM Acquires Quantistry Assets to Expand Industrial Quantum Software Capabilities",
-      "link": "https://thequantuminsider.com/2026/07/06/iqm-acquires-quantistry-assets/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 06 Jul 2026 13:05:46 +0000",
-      "published_ts": 1783343146,
-      "summary": "Insider Brief Press release &#8211; IQM Quantum Computers (Nasdaq: IQMX) (“IQM”, “IQM Quantum Computers” or the “Company”), a global leader in full-stack superconducting quantum computers, has acquired selected assets of Quantistry GmbH, a Berlin-based developer of cloud-native simulation workflow p…"
-    },
-    {
       "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
       "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -312,30 +336,6 @@
       "published": "Tue, 30 Jun 2026 18:40:01 EDT",
       "published_ts": 1782859201,
       "summary": "By remotely accessing an IBM quantum computer, a research scientist at Lawrence Berkeley National Laboratory has successfully simulated a key process in particle physics: hadronization. Although based on a simplified model of quantum mechanics, the project lays the groundwork for how physicists can…"
-    },
-    {
-      "title": "Physicists demonstrate Hong–Ou–Mandel interference with more than 10 atoms",
-      "link": "https://phys.org/news/2026-06-physicists-hongoumandel-atoms.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 30 Jun 2026 12:00:01 EDT",
-      "published_ts": 1782835201,
-      "summary": "In a new study published in Nature Physics, researchers have demonstrated the Hong–Ou–Mandel (HOM) effect with up to 12 indistinguishable neutral atoms—an effect that has been predominantly observed in photonic systems."
-    },
-    {
-      "title": "Plutonium compound unlocks rare topological quantum behavior with potential nuclear science applications",
-      "link": "https://phys.org/news/2026-06-plutonium-compound-rare-topological-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 29 Jun 2026 19:30:01 EDT",
-      "published_ts": 1782775801,
-      "summary": "Plutonium is one of the most complex elements in the periodic table. First synthesized and isolated in 1940 by scientists at the University of California, Berkeley, plutonium has been studied closely for more than eight decades. It's most often associated with its role in nuclear security, but it's…"
-    },
-    {
-      "title": "Non-Hermitian geometry reveals when quantum amplification depends only on start and end points",
-      "link": "https://phys.org/news/2026-06-hermitian-geometry-reveals-quantum-amplification.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 27 Jun 2026 11:00:02 EDT",
-      "published_ts": 1782572402,
-      "summary": "In quantum mechanics, the geometry of quantum states has emerged as a powerful framework for understanding phenomena ranging from electrical conductivity to superconductivity. One research direction aims to extend these geometric concepts to non-Hermitian quantum mechanics—where systems can exchange…"
     },
     {
       "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
