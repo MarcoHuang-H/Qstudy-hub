@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1783367393,
+  "generated_ts": 1783392047,
   "items": [
+    {
+      "title": "Quantum computing: Laser-optical system offers full control over 2,000 trapped Rydberg atoms",
+      "link": "https://phys.org/news/2026-07-quantum-laser-optical-full-rydberg.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 06 Jul 2026 20:20:02 EDT",
+      "published_ts": 1783383602,
+      "summary": "Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be positioned with submicrometer precision in the computer's hig…"
+    },
     {
       "title": "China’s Bose Quantum Reportedly Raises Pre-IPO Funding",
       "link": "https://thequantuminsider.com/2026/07/06/chinas-bose-quantum-reportedly-raises-pre-ipo-funding/",
@@ -208,14 +216,6 @@
       "published": "Fri, 26 Jun 2026 13:00:04 EDT",
       "published_ts": 1782493204,
       "summary": "Physicists at Paderborn University have, for the first time, experimentally demonstrated the so-called \"return\" of Rabi oscillations in semiconductor quantum dots. The phenomenon, which was first predicted theoretically in 2007, describes the decrease in the emission intensity of the quantum dots, w…"
-    },
-    {
-      "title": "Metal hydride molecule trapped with laser light opens path to ultracold hydrogen",
-      "link": "https://phys.org/news/2026-06-metal-hydride-molecule-laser-path.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 26 Jun 2026 07:40:01 EDT",
-      "published_ts": 1782474001,
-      "summary": "Controlling and trapping molecules, units of a substance consisting of two or more chemically bound atoms, with laser light is significantly more challenging than trapping individual atoms. This is because molecules exhibit more complex vibrational and rotational dynamics that make them more difficu…"
     },
     {
       "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
