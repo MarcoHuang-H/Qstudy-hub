@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1783518749,
+  "generated_ts": 1783538298,
   "items": [
+    {
+      "title": "White House Quantum Summit Exclusive: America’s Commitment to a Quantum Future",
+      "link": "https://thequantuminsider.com/2026/07/08/white-house-quantum-summit-exclusive-americas-commitment-to-a-quantum-future/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 08 Jul 2026 14:49:43 +0000",
+      "published_ts": 1783522183,
+      "summary": "Insider Brief The invitation came in plain language. A summit from the White House on American quantum innovation, a Tuesday in July, eleven in the morning. I have spent years in rooms where quantum is the subject, most of them nothing like this one. I accepted without hesitation. Nearly every major…"
+    },
+    {
+      "title": "Long-theorized electron-on-helium qubit achieves strong coupling to a single microwave photon",
+      "link": "https://phys.org/news/2026-07-theorized-electron-helium-qubit-strong.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 08 Jul 2026 10:20:02 EDT",
+      "published_ts": 1783520402,
+      "summary": "Quantum computers, devices that store and process information leveraging the principles of quantum mechanics, have been found to be promising for tackling some problems that cannot be solved by classical computers. Quantum computers store data in the form of qubits (i.e., quantum bits), units of inf…"
+    },
     {
       "title": "SEALSQ and GlobalFoundries Partner on Post-Quantum Security",
       "link": "https://thequantuminsider.com/2026/07/08/sealsq-globalfoundries-post-quantum-cryptography-partnership/",
@@ -72,14 +88,6 @@
       "published": "Wed, 08 Jul 2026 09:24:37 +0000",
       "published_ts": 1783502677,
       "summary": "Insider Brief The U.S. Department of Energy’s Argonne National Laboratory convened leaders from business, government, academia and nonprofit organizations in May for the inaugural Quantum Prairie Economic Symposium, bringing together nearly 100 participants to examine how advances in quantum science…"
-    },
-    {
-      "title": "QpiAI Launches Open Quantum SDK for Developers and Researchers",
-      "link": "https://thequantuminsider.com/2026/07/08/qpiai-launches-open-quantum-sdk-for-developers-and-researchers/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 08 Jul 2026 09:13:39 +0000",
-      "published_ts": 1783502019,
-      "summary": "Insider Brief Press release &#8211; QpiAI, a globally leading full-stack quantum computing company, today released the QpiAI Quantum SDK as open-source software. Available now at https://github.com/qpiai/quantum-sdk, the QpiAI Quantum SDK gives developers, researchers, and startups an accessible, de…"
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
@@ -328,14 +336,6 @@
       "published": "Thu, 02 Jul 2026 10:00:03 EDT",
       "published_ts": 1783000803,
       "summary": "Dark matter accounts for 85% of the matter in the universe, but scientists still do not know what it is made of. A study, published in Physical Review Letters, by Rice University researchers proposes a detector design that could help search for axions, hypothetical particles that many physicists thi…"
-    },
-    {
-      "title": "Analog gravity advance offers new insights into Hawking radiation from black holes",
-      "link": "https://phys.org/news/2026-07-analog-gravity-advance-insights-hawking.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 02 Jul 2026 09:40:03 EDT",
-      "published_ts": 1782999603,
-      "summary": "Hawking radiation is a form of radiation emitted by black holes, as theoretically predicted by Stephen Hawking. It suggests that black holes do not merely swallow matter—as had previously been assumed—but also emit very faint radiation themselves. This radiation has not yet been observed in space; i…"
     },
     {
       "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
