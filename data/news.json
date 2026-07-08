@@ -1,13 +1,93 @@
 {
-  "generated_ts": 1783498837,
+  "generated_ts": 1783518749,
   "items": [
     {
-      "title": "Fraunhofer ILT Develops Laser System for 2,000-Qubit Neutral-Atom Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/07/08/fraunhofer-ilt-develops-laser-system-for-2000-qubit-neutral-atom-quantum-computer/",
+      "title": "SEALSQ and GlobalFoundries Partner on Post-Quantum Security",
+      "link": "https://thequantuminsider.com/2026/07/08/sealsq-globalfoundries-post-quantum-cryptography-partnership/",
       "source": "The Quantum Insider",
-      "published": "Wed, 08 Jul 2026 08:02:37 +0000",
-      "published_ts": 1783497757,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be positioned with sub-micro…"
+      "published": "Wed, 08 Jul 2026 13:11:27 +0000",
+      "published_ts": 1783516287,
+      "summary": "Insider Brief Press release &#8211; SEALSQ Corp (Nasdaq: LAES) (&#8220;SEALSQ&#8220;) and GlobalFoundries (Nasdaq: GFS) (GF) today announced a strategic Memorandum of Understanding (MoU) to co-develop across secure semiconductor platforms, Post-Quantum Cryptography (PQC) and emerging semiconductor-b…"
+    },
+    {
+      "title": "New Optical Technique Captures Three Material Properties in a Single Measurement",
+      "link": "https://thequantuminsider.com/2026/07/08/new-optical-technique-captures-three-material-properties-in-a-single-measurement/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 08 Jul 2026 13:09:52 +0000",
+      "published_ts": 1783516192,
+      "summary": "Insider Brief PRESS RELEASE &#8212; An international team of researchers has developed an optical technique that measures the chemical, structural, and mechanical properties of a material at the same time, from a single point, and without touching or labeling the sample. The work, published in Natur…"
+    },
+    {
+      "title": "BTQ Technologies Completes Acquisition of QPerfect to Expand Quantum Software Capabilities",
+      "link": "https://thequantuminsider.com/2026/07/08/btq-technologies-completes-qperfect-acquisition-quantum-software-capabilities/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 08 Jul 2026 13:01:22 +0000",
+      "published_ts": 1783515682,
+      "summary": "Insider Brief Press release &#8211; BTQ Technologies Corp. (&#8220;BTQ&#8221; or the &#8220;Company&#8221;) (Nasdaq: BTQ) (CBOE CA: BTQ), a global quantum technology company focused on securing mission-critical networks, is pleased to announce that it has completed the acquisition of QPerfect SA (&#…"
+    },
+    {
+      "title": "CSIRO Builds Quantum Light Sources to Counter GPS Jamming and Spoofing",
+      "link": "https://thequantuminsider.com/2026/07/08/csiro-builds-quantum-light-sources-to-detect-gnss-signal-tampering/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 08 Jul 2026 12:29:46 +0000",
+      "published_ts": 1783513786,
+      "summary": "Insider Brief GPS signals are weak by the time they reach Earth. That weakness is why they are increasingly being disrupted &#8211; blocked through jamming, or overridden with false signals through spoofing. GPS is the best-known satellite timing system in Australia and the United States, but it is…"
+    },
+    {
+      "title": "IQM to Deliver Quantum Computer for Europe’s LUMI AI Factory",
+      "link": "https://thequantuminsider.com/2026/07/08/lumi-ai-factory-iqm-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 08 Jul 2026 11:48:48 +0000",
+      "published_ts": 1783511328,
+      "summary": "Insider Brief Press release &#8211; The LUMI AI Factory, led by CSC – IT Center for Science, has selected IQM Quantum Computers (Nasdaq: IQMX) to deliver IQM Halocene H4, an advanced quantum computer aimed at accelerating hybrid high-performance computing, artificial intelligence, and quantum comput…"
+    },
+    {
+      "title": "Guest Post – QSE Expands Post-Quantum Cryptography Solutions for Enterprise Quantum Security Migration",
+      "link": "https://thequantuminsider.com/2026/07/08/qse-post-quantum-security-southeast-asia/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 08 Jul 2026 10:08:15 +0000",
+      "published_ts": 1783505295,
+      "summary": "Insider Brief Guest Post by QSE &#8211; Quantum Secure Encryption Corp. Equity Insider News Commentary, One of the quieter but more consequential races in technology is the effort to rebuild the world&#8217;s encryption before quantum computers grow powerful enough to break it. Governments and stand…"
+    },
+    {
+      "title": "European QUARTERNEXT Consortium Advances Quantum-Safe Communication Systems",
+      "link": "https://thequantuminsider.com/2026/07/08/quarternext-quantum-safe-communications/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 08 Jul 2026 09:40:58 +0000",
+      "published_ts": 1783503658,
+      "summary": "Insider Brief Press release &#8211; QUARTERNEXT, a European-funded consortium dedicated to advancing quantum-safe communication technologies toward certifiable, industrial-grade systems, has officially launched. Bringing together six leading organizations across Spain, Austria, and the Netherlands,…"
+    },
+    {
+      "title": "Rice University and Max Planck Society Launch Quantum Materials Research Partnership",
+      "link": "https://thequantuminsider.com/2026/07/08/rice-university-and-the-max-planck-society-establish-a-partnership-on-quantum-materials/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 08 Jul 2026 09:30:03 +0000",
+      "published_ts": 1783503003,
+      "summary": "Insider Brief Press release &#8211; Rice University and the Max Planck Society officially launched the Quantum Materials &#8211; Rice and Max Planck Partnership (Q-RaMP) June 19, aimed at supporting the identification and development of quantum materials that will support breakthroughs in sustainabi…"
+    },
+    {
+      "title": "Argonne Brings Together Leaders to Discuss Quantum Technology Opportunities",
+      "link": "https://thequantuminsider.com/2026/07/08/argonne-quantum-prairie-economic-symposium/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 08 Jul 2026 09:24:37 +0000",
+      "published_ts": 1783502677,
+      "summary": "Insider Brief The U.S. Department of Energy’s Argonne National Laboratory convened leaders from business, government, academia and nonprofit organizations in May for the inaugural Quantum Prairie Economic Symposium, bringing together nearly 100 participants to examine how advances in quantum science…"
+    },
+    {
+      "title": "QpiAI Launches Open Quantum SDK for Developers and Researchers",
+      "link": "https://thequantuminsider.com/2026/07/08/qpiai-launches-open-quantum-sdk-for-developers-and-researchers/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 08 Jul 2026 09:13:39 +0000",
+      "published_ts": 1783502019,
+      "summary": "Insider Brief Press release &#8211; QpiAI, a globally leading full-stack quantum computing company, today released the QpiAI Quantum SDK as open-source software. Available now at https://github.com/qpiai/quantum-sdk, the QpiAI Quantum SDK gives developers, researchers, and startups an accessible, de…"
+    },
+    {
+      "title": "New AI model reveals how neutron star mergers forge heavy elements",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626030426.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Wed, 08 Jul 2026 00:07:40 EDT",
+      "published_ts": 1783483660,
+      "summary": "Researchers have created an AI-based simulation that makes it much faster to model how neutron star mergers produce many of the universe's heaviest elements. The new tool could improve predictions of these powerful explosions while helping scientists better connect observations in space with experim…"
     },
     {
       "title": "The Hermitian inner product selects the time axis, the Born rule measures it",
@@ -146,28 +226,12 @@
       "summary": "A team of scientists from Oak Ridge National Laboratory, Cleveland Clinic and IBM has calculated nine molecular configurations of a promising material to produce fuel for fusion energy—the first known instance of such computations on quantum computers."
     },
     {
-      "title": "NSF Launches Project Triad to Advance Quantum Technology For Real-World Applications",
-      "link": "https://thequantuminsider.com/2026/07/07/nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 19:30:41 +0000",
-      "published_ts": 1783452641,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single operational system. By bringing these three capabilities together for the first…"
-    },
-    {
       "title": "Using quantum entanglement to secure ground-to-satellite timing",
       "link": "https://phys.org/news/2026-07-quantum-entanglement-ground-satellite.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 07 Jul 2026 14:00:01 EDT",
       "published_ts": 1783447201,
       "summary": "From mobile phones and banking systems to aircraft, ships and emergency services, much of modern life relies on precise timing signals from satellites. Known as the Global Navigation Satellite System (GNSS), satellites carrying atomic clocks transmit time-stamped signals to receivers on Earth. The G…"
-    },
-    {
-      "title": "Oratomic Raises $300 Million Series A",
-      "link": "https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 17:38:03 +0000",
-      "published_ts": 1783445883,
-      "summary": "Insider Brief Oratomic has raised a $300 million Series A financing round as the quantum computing startup moves to accelerate development of a fault-tolerant quantum computer that it says could reach commercial utility before the end of the decade. According to a company blog post, the financing wa…"
     },
     {
       "title": "Ultra-compact sensor paves the way for more powerful and scalable silicon quantum processors",
@@ -178,30 +242,6 @@
       "summary": "Researchers from the Quantum Hardware group at CIC nanoGUNE, in collaboration with the British company Quantum Motion, have demonstrated an advanced readout sensor for spin qubits that, while being more compact than previous designs, can reach the level of readout precision needed to implement quant…"
     },
     {
-      "title": "Photonic Names Orlagh Neary and Briony Shipman to Executive Roles",
-      "link": "https://thequantuminsider.com/2026/07/07/photonic-appoints-marketing-government-affairs-leaders/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 15:22:43 +0000",
-      "published_ts": 1783437763,
-      "summary": "Insider Brief Press release &#8211; Photonic Inc., a global leader in distributed quantum computing, today announced the appointments of Orlagh Neary as Chief Marketing Officer (CMO), and Briony Shipman as Vice President, Global Government Affairs. The strategic appointments of&#160;Neary&#160;and&#…"
-    },
-    {
-      "title": "University of Pretoria Expands South Africa’s Quantum Research Capacity",
-      "link": "https://thequantuminsider.com/2026/07/07/university-pretoria-quantum-research-hub/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 14:14:30 +0000",
-      "published_ts": 1783433670,
-      "summary": "Insider Brief As countries around the world race to secure leadership in quantum technologies – an emerging field expected to transform computing, healthcare, manufacturing, agriculture and cybersecurity – the&#160;University of Pretoria&#160;(UP) has been selected to play a significant role in Sout…"
-    },
-    {
-      "title": "SEALSQ Corp Reports Revenue Up 120% in Preliminary H1 2026 Results",
-      "link": "https://thequantuminsider.com/2026/07/07/sealsq-corp-reports-revenue-up-120-in-preliminary-h1-2026-results/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 14:01:59 +0000",
-      "published_ts": 1783432919,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced its preliminary unaudited financial result…"
-    },
-    {
       "title": "Evidence of elusive high-energy gravitons in quantum Hall systems",
       "link": "https://phys.org/news/2026-07-evidence-elusive-high-energy-gravitons.html",
       "source": "Phys.org — Quantum Physics",
@@ -210,44 +250,12 @@
       "summary": "Electrons, negatively charged particles, sometimes coordinate their movements in ways that produce certain collective excitations referred to as quasiparticles. One case in which this occurs is the quantum Hall effect, a phenomenon that emerges when electrons are confined to a very thin layer, coole…"
     },
     {
-      "title": "Quantum X Labs Advances Development of Quantum Atomic Clock Technology",
-      "link": "https://thequantuminsider.com/2026/07/07/quantum-x-labs-ramsey-cpt-atomic-clock/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 13:59:12 +0000",
-      "published_ts": 1783432752,
-      "summary": "Insider Brief Press release &#8211;Quantum X Labs Inc. Ltd. (Nasdaq: QXL) (“Quantum X” or the “Company”) today announced the successful demonstration by its wholly-owned subsidiary, Quantum X Labs Ltd. (“Quantum X Labs”), a developer of advanced quantum technologies, of a high-sensitivity atomic clo…"
-    },
-    {
-      "title": "Alfred University and Classiq Launch Quantum Computing Initiative",
-      "link": "https://thequantuminsider.com/2026/07/07/alfred-university-and-classiq-launch-quantum-computing-initiative/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 13:49:35 +0000",
-      "published_ts": 1783432175,
-      "summary": "Insider Brief Press release &#8211; Alfred University, the State University of New York College of Ceramics at Alfred University, and Classiq today announced a joint quantum computing initiative using Classiq’s quantum software engineering platform to support engineering education, applied energy sy…"
-    },
-    {
       "title": "Metallic rutile oxides break the rules of cooling",
       "link": "https://phys.org/news/2026-07-metallic-rutile-oxides-cooling.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 07 Jul 2026 09:00:09 EDT",
       "published_ts": 1783429209,
       "summary": "Physicists have long puzzled over a strange contradiction inside a family of minerals called rutile oxides. These materials all share the same crystal structure—but while some of them, like titanium dioxide, are firmly insulating, others, like ruthenium dioxide, conduct electricity like a metal. So…"
-    },
-    {
-      "title": "Pasqal and MegazoneCloud Partner to Bring Quantum Computing to South Korea",
-      "link": "https://thequantuminsider.com/2026/07/07/pasqal-megazonecloud-quantum-computing-korea/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 12:35:23 +0000",
-      "published_ts": 1783427723,
-      "summary": "Insider Brief Press release &#8211; Pasqal, a global leader in neutral-atom quantum computing, and MegazoneCloud, South Korea&#8217;s leading cloud and AI transformation company, have signed a Memorandum of Understanding (MoU) to jointly explore a series of quantum computing initiatives designed to…"
-    },
-    {
-      "title": "QuSecure Appoints Former Navy Rear Admiral Doug Small to Federal Advisory Board",
-      "link": "https://thequantuminsider.com/2026/07/07/qusecure-doug-small-federal-advisory-board/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 12:26:46 +0000",
-      "published_ts": 1783427206,
-      "summary": "Insider Brief Press release &#8211; QuSecure, Inc., a leader in post-quantum cryptography (PQC) and cryptographic agility, today announced that U.S. Navy Rear Admiral Doug Small has joined its Federal Advisory Board (FAB). Admiral Small (Ret.) joins QuSecure as federal agencies move from planning to…"
     },
     {
       "title": "Quantum computing: Laser-optical system offers full control over 2,000 trapped Rydberg atoms",
@@ -496,14 +504,6 @@
       "published": "Mon, 04 May 2026 22:48:12 EDT",
       "published_ts": 1777949292,
       "summary": "A new quantum physics study reveals that simply changing a magnetic field over time can unlock entirely new forms of matter that don’t exist under normal conditions. By carefully “driving” materials with timed magnetic shifts, researchers created exotic quantum states that could be far more stable a…"
-    },
-    {
-      "title": "Oxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum physics",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260501052828.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Fri, 01 May 2026 07:54:52 EDT",
-      "published_ts": 1777636492,
-      "summary": "Scientists have created a powerful new way to control quantum systems, achieving the first-ever demonstration of quadsqueezing—an elusive fourth-order quantum effect. By combining simple forces in a clever way, they made previously hidden quantum behaviors visible and usable, opening new frontiers f…"
     },
     {
       "title": "A materials scientist’s playground",
