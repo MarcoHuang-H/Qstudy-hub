@@ -1,6 +1,134 @@
 {
-  "generated_ts": 1783476831,
+  "generated_ts": 1783498837,
   "items": [
+    {
+      "title": "Fraunhofer ILT Develops Laser System for 2,000-Qubit Neutral-Atom Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/07/08/fraunhofer-ilt-develops-laser-system-for-2000-qubit-neutral-atom-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 08 Jul 2026 08:02:37 +0000",
+      "published_ts": 1783497757,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be positioned with sub-micro…"
+    },
+    {
+      "title": "The Hermitian inner product selects the time axis, the Born rule measures it",
+      "link": "https://arxiv.org/abs/2607.05447",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05447v1 Announce Type: new  Abstract: The correspondence between $2\\times 2$ Hermitian matrices and Minkowski $4$-vectors recovers Lorentzian symmetries from the internal degrees of freedom of a qubit, with no reference to an external spacetime. Recent work characterises the resulting Lor…"
+    },
+    {
+      "title": "Against Totalitarianism -- Introduction to Tractatus Quanticum",
+      "link": "https://arxiv.org/abs/2607.05459",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05459v1 Announce Type: new  Abstract: Tractatus Quanticum (arXiv:2512.06034 [quant-ph]) is described by its authors as 'a re-editing, which takes quantum mechanics into account, of Wittgenstein's famous Tractatus.' The original Tractatus appeared with an introduction by Bertrand Russell.…"
+    },
+    {
+      "title": "Lean-Quantum: Toward AI-Assisted Formalization of Quantum Information",
+      "link": "https://arxiv.org/abs/2607.05492",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05492v1 Announce Type: new  Abstract: Quantum information theory is built on entropic quantities; among them, the sandwiched R\\'enyi relative entropy is a fundamental divergence with various applications, and its data processing inequality (DPI) under quantum channels is a cornerstone res…"
+    },
+    {
+      "title": "Towards Lattice Surgery Compilation for the Color Code Using Pipe Diagrams",
+      "link": "https://arxiv.org/abs/2607.05501",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05501v1 Announce Type: new  Abstract: Pipe diagrams have emerged as a powerful framework for flexible lattice surgery compilation and spacetime optimization for the surface code. In contrast, analogous compilation techniques for color code architectures remain largely unexplored, despite…"
+    },
+    {
+      "title": "Low-depth simulation of non-Markovianity under quantum hardware noise",
+      "link": "https://arxiv.org/abs/2607.05519",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05519v1 Announce Type: new  Abstract: Simulating open quantum systems on digital quantum computers typically relies on the use of auxiliary qubits, resulting in overheads of noisy multi-qubit gates, that severely limit execution on near-term hardware. In this work, we explore the simulati…"
+    },
+    {
+      "title": "Reduced Quantum-Reference-Frame Channels for Open Quantum Systems",
+      "link": "https://arxiv.org/abs/2607.05578",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05578v1 Announce Type: new  Abstract: When reference frames are treated quantum mechanically, the subsystem structure of quantum systems is no longer absolute, but depends on the choice of the quantum reference frame (QRF). This raises a basic question: which dynamical properties are pres…"
+    },
+    {
+      "title": "Nonlocal transfer of quantized toroidal magnetic flux",
+      "link": "https://arxiv.org/abs/2607.05581",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05581v1 Announce Type: new  Abstract: We propose a nonlocal flux-transfer experiment in which a quantized magnetic-field excitation confined within one toroidal superconducting structure is coherently transferred to a spatially separated toroid without magnetic-field occupation of the int…"
+    },
+    {
+      "title": "Wilczek-Zee Realization of Uhlmann Parallel Transport",
+      "link": "https://arxiv.org/abs/2607.05591",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05591v1 Announce Type: new  Abstract: The Uhlmann phase extends geometric phases to mixed quantum states via a parallel-transport condition on purification amplitudes, yet its direct implementation under standard Hamiltonian dynamics is obstructed by the non-Hermitian nature of the purifi…"
+    },
+    {
+      "title": "Entanglement Entropy of Free Fermions on Random Fractal Lattices",
+      "link": "https://arxiv.org/abs/2607.05611",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05611v1 Announce Type: new  Abstract: Random fractal lattices provide a geometrically disordered setting in which quantum correlations can be shaped by noninteger dimensionality rather than onsite randomness. We investigate the entanglement properties of noninteracting fermions on random…"
+    },
+    {
+      "title": "Contractivity of the Hilbert--Schmidt Speed in Unital Quantum Channels: Foundation for Witnessing Non-Markovianity and Discriminating Unital from Non-Unital Markovian Dynamics",
+      "link": "https://arxiv.org/abs/2607.05619",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05619v1 Announce Type: new  Abstract: We investigate the Hilbert--Schmidt speed (HSS), a geometric indicator defined through the Hilbert--Schmidt norm of the tangent vector to a parametrized family of quantum states, under general open-system dynamics. Working in the framework of finite-d…"
+    },
+    {
+      "title": "Spin-1 teleportation-based quantum state tomography",
+      "link": "https://arxiv.org/abs/2607.05621",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05621v1 Announce Type: new  Abstract: We show that the teleportation-based quantum state tomography (QST) protocol, originally built to reconstruct qubits (spin-1/2 systems), can be extended to deal with qutrits (spin-1 systems) as well. Similarly to the original proposal, only two resour…"
+    },
+    {
+      "title": "Towards Quantum Network Performance Metrics: Challenges and Demonstration",
+      "link": "https://arxiv.org/abs/2607.05642",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05642v1 Announce Type: new  Abstract: As quantum networks move toward practical deployment, standardized performance monitoring becomes essential. This article proposes a structured monitoring framework for quantum networks with performance metrics, including quality (e.g., entanglement f…"
+    },
+    {
+      "title": "Coherent Control of Channel Dilations Activate Temporal Bell Nonclassicality",
+      "link": "https://arxiv.org/abs/2607.05643",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05643v1 Announce Type: new  Abstract: The temporal Clauser-Horne-Shimony-Holt (CHSH) inequality witnesses the nonclassicality of temporal correlations, but its violation is generally degraded by environmental noise. Here, we show that violation of the temporal CHSH inequality can be reviv…"
+    },
+    {
+      "title": "Verifiable blind quantum computing: Comparative analysis and design considerations for client architectures",
+      "link": "https://arxiv.org/abs/2607.05650",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05650v1 Announce Type: new  Abstract: Blind quantum computing (BQC) allows a client to delegate quantum computations to a remote server without revealing the input, computation, or output. In addition to being blind, the client can sometimes also verify that the server has performed their…"
+    },
+    {
+      "title": "Interplay Between Quantum Coherence and Multiparameter Quantum Estimation in Graphene",
+      "link": "https://arxiv.org/abs/2607.05661",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783483200,
+      "summary": "arXiv:2607.05661v1 Announce Type: new  Abstract: In this work, we investigate the relationship between quantum coherence and multiparameter quantum estimation in a graphene-based system. We focus on the estimation of two relevant physical parameters, namely the temperature $T$ and the wave vector $k…"
+    },
     {
       "title": "Quantum vacuum could help break molecular bonds with less energy, simulations suggest",
       "link": "https://phys.org/news/2026-07-quantum-vacuum-molecular-bonds-energy.html",
@@ -120,134 +248,6 @@
       "published": "Tue, 07 Jul 2026 12:26:46 +0000",
       "published_ts": 1783427206,
       "summary": "Insider Brief Press release &#8211; QuSecure, Inc., a leader in post-quantum cryptography (PQC) and cryptographic agility, today announced that U.S. Navy Rear Admiral Doug Small has joined its Federal Advisory Board (FAB). Admiral Small (Ret.) joins QuSecure as federal agencies move from planning to…"
-    },
-    {
-      "title": "USC Researcher Explores Quantum Computing for Database Optimization",
-      "link": "https://thequantuminsider.com/2026/07/07/usc-quantum-augmented-database-research/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 07 Jul 2026 11:49:47 +0000",
-      "published_ts": 1783424987,
-      "summary": "Insider Brief Modern database systems are struggling to maintain real-time performance as data volumes and workloads continue to grow exponentially. Without more efficient optimization, the systems responsible for processing massive amounts of data will face significant delays and scalability challe…"
-    },
-    {
-      "title": "MLIR for Quantum Beyond Gate Cancellation: Quantum Circuit Mapping Reimagined",
-      "link": "https://arxiv.org/abs/2607.02616",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02616v1 Announce Type: new  Abstract: The Multi-Level Intermediate Representation (MLIR) framework has become a cornerstone for building extensible, domain-specific compilers, with the quantum computing community already leveraging it to model quantum programs and implement basic optimiza…"
-    },
-    {
-      "title": "Comparing the Performance of Leading VQE Algorithms for Computing Ground-State Energies of Amino Acids",
-      "link": "https://arxiv.org/abs/2607.02620",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02620v1 Announce Type: new  Abstract: Simulating molecules is a major application of quantum computing, with the potential to overcome exponential scaling constraints of classical computation. Researchers use different methods in order to evaluate the readiness of NISQ computers in order…"
-    },
-    {
-      "title": "COMET: Combinatorial Optimization for Multiplex Editing Targets Via Constraint-Preserving QAOA",
-      "link": "https://arxiv.org/abs/2607.02622",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02622v1 Announce Type: new  Abstract: Multiplex CRISPR-Cas9 gene editing requires selecting one guide RNA per target gene subject to cross-gene interactions: a constrained combinatorial problem that can be formulated as a Quadratic Unconstrained Binary Optimization (QUBO) and solved via t…"
-    },
-    {
-      "title": "Krylov-Lie Algebras for Variational Quantum Algorithms: Geometric, Depth-Aware Insights into Expressivity and Trainability",
-      "link": "https://arxiv.org/abs/2607.02626",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02626v1 Announce Type: new  Abstract: Variational quantum algorithms (VQAs) are a leading approach to near-term quantum computation, but their utility is limited by barren plateaus and other pathologies in their loss landscapes. Existing landscape theories based on dynamical Lie algebras,…"
-    },
-    {
-      "title": "Minimally invasive measurement of work in coherent quantum systems",
-      "link": "https://arxiv.org/abs/2607.02652",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02652v1 Announce Type: new  Abstract: A central challenge in quantum thermodynamics is to access work fluctuations in coherent processes without distorting the energetics of the unmeasured evolution. In standard two-point schemes, the initial energy measurement dephases coherent inputs, c…"
-    },
-    {
-      "title": "Quench Spectroscopy of Magnetic Excitations on a Superconducting Quantum Processor",
-      "link": "https://arxiv.org/abs/2607.02673",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02673v1 Announce Type: new  Abstract: The elementary excitation spectrum of a many-body quantum system encodes many key properties, including phenomena as diverse as transport, thermalisation and ground state structure. Excitation spectra of strongly correlated systems are typically encod…"
-    },
-    {
-      "title": "Parametrized-circuit-free quantum regression with variance regularization",
-      "link": "https://arxiv.org/abs/2607.02696",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02696v1 Announce Type: new  Abstract: Quantum regression tasks for predicting properties of quantum states are commonly addressed using variational quantum algorithms. While variational quantum circuits are highly expressive and allow to achieve reasonable accuracy, training these circuit…"
-    },
-    {
-      "title": "Encoding matroids into quantum states",
-      "link": "https://arxiv.org/abs/2607.02736",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02736v1 Announce Type: new  Abstract: Efficient representations of multipartite quantum states play a fundamental role in quantum information theory, providing both conceptual insight and practical tools for characterizing entanglement. Motivated by the axiomatic framework for graph state…"
-    },
-    {
-      "title": "Self-Attention for Quantum Entanglement Prediction",
-      "link": "https://arxiv.org/abs/2607.02767",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02767v1 Announce Type: new  Abstract: Quantum entanglement is a powerful resource for quantum-enhanced technologies. However, its reliable quantification remains challenging due to the exponential scaling of the Hilbert space with system size, which renders full state tomography infeasibl…"
-    },
-    {
-      "title": "Reducing quantum measurements in qubit-based overlapping grouping methods for quantum energy estimation through better initializations",
-      "link": "https://arxiv.org/abs/2607.02794",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02794v1 Announce Type: new  Abstract: The measurement cost for estimating expectation values of Hamiltonians is a central bottleneck in variational quantum algorithms. Grouping strategies significantly reduce this cost, with overlapping techniques being the state of the art in the field.…"
-    },
-    {
-      "title": "Fault-tolerant quantum computation with static atomic buses",
-      "link": "https://arxiv.org/abs/2607.02804",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02804v1 Announce Type: new  Abstract: Efficient quantum error correction and fault-tolerant quantum computing require scalable, high-fidelity long-range connectivity. In neutral-atom quantum computers, this is commonly achieved through atom transport, but shuttling introduces latency and…"
-    },
-    {
-      "title": "Locally Passive, Globally Charged Quantum Batteries: Coherence-Controlled Work and the Robustness of the Stored Charge",
-      "link": "https://arxiv.org/abs/2607.02810",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02810v1 Announce Type: new  Abstract: A solvable charger--battery model is introduced in which quantum coherence controls both where a quantum battery's charge is stored and how robustly it survives noise. Charging converts the charger's coherence into charger--battery entanglement and sp…"
-    },
-    {
-      "title": "An approach for calculating astrophysical opacities on quantum computers",
-      "link": "https://arxiv.org/abs/2607.02811",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02811v1 Announce Type: new  Abstract: We propose a quantum algorithmic protocol for calculating astrophysical opacities. Our implementation uses first- and second-quantized representations of interacting electronic and photonic subsystems and Hamiltonian simulation via the interaction pic…"
-    },
-    {
-      "title": "Tunable M-Ary Quantum Secure Direct Communication via Correlation-Histogram Modulation",
-      "link": "https://arxiv.org/abs/2607.02858",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02858v1 Announce Type: new  Abstract: We propose a two-way entanglement-based quantum secure direct communication (QSDC) protocol in which information is encoded as the value of a continuously tunable parameter and decoded from empirically estimated joint-outcome histograms over windows o…"
-    },
-    {
-      "title": "Photon Squeezing and Its Signatures of Quantum Phase Transitions in the Open Quantum Rabi-Stark Model",
-      "link": "https://arxiv.org/abs/2607.02868",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783396800,
-      "summary": "arXiv:2607.02868v1 Announce Type: new  Abstract: As a hallmark of nonclassical light, squeezed light is of profound theoretical interest and holds broad practical promise for emerging quantum technologies. In this work, we investigate steady-state optical quadrature squeezing in the open quantum Rab…"
     },
     {
       "title": "Quantum computing: Laser-optical system offers full control over 2,000 trapped Rydberg atoms",
