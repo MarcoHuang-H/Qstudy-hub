@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1783608479,
+  "generated_ts": 1783625871,
   "items": [
+    {
+      "title": "New physics-based machine-learning method speeds search for 2D quantum materials",
+      "link": "https://phys.org/news/2026-07-physics-based-machine-method-2d.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 09 Jul 2026 15:10:02 EDT",
+      "published_ts": 1783624202,
+      "summary": "Researchers at The University of Manchester have developed a new computational approach to help identify two-dimensional materials that may host unusual quantum behavior. The work, published in Science Advances, focuses on materials with \"flat bands,\" electronic states where electrons have very litt…"
+    },
+    {
+      "title": "Quantum material opens new path for studying unusual electronic behavior",
+      "link": "https://phys.org/news/2026-07-quantum-material-path-unusual-electronic.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 09 Jul 2026 14:10:03 EDT",
+      "published_ts": 1783620603,
+      "summary": "By combining approaches from two rapidly growing fields of quantum physics, researchers at Penn State and Saint Louis University have demonstrated that a novel specialized material can naturally enable a new way to study unusual physical phenomena known as non-Hermitian dynamics."
+    },
+    {
+      "title": "Shanghai Quantum Sensing Startup Raises Angel Funding to Expand Navigation And Gas Detection Products",
+      "link": "https://thequantuminsider.com/2026/07/09/shanghai-quantum-sensing-startup-raises-angel-funding-to-expand-navigation-and-gas-detection-products/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 15:16:55 +0000",
+      "published_ts": 1783610215,
+      "summary": "Insider Brief A Shanghai quantum sensing startup has raised an angel funding round worth tens of millions of yuan &#8212; or millions of dollars U.S. &#8212; as it looks to scale commercial production of quantum sensors for navigation and industrial monitoring, underscoring growing investor interest…"
+    },
+    {
+      "title": "Xanadu Accelerates U.S. Growth with New York State Office",
+      "link": "https://thequantuminsider.com/2026/07/09/xanadu-accelerates-us-growth-with-new-york-state-office/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 15:10:52 +0000",
+      "published_ts": 1783609852,
+      "summary": "Insider Brief Press release &#8211; Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, today announced a significant expansion of its U.S. operations, anchored by its growing presence in Albany, New York. Albany has emerged as a hub for gl…"
+    },
+    {
+      "title": "Quantum Rings, qBraid Partner to Expand Free Access to Quantum Hardware",
+      "link": "https://thequantuminsider.com/2026/07/09/quantum-rings-qbraid-partner-to-expand-free-access-to-quantum-hardware/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 15:05:00 +0000",
+      "published_ts": 1783609500,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Rings, a leader in quantum developer tools whose toolchain lets any developer run quantum workloads anywhere, and qBraid (Chicago, Illinois), a leader in quantum-cloud computing, announced a partnership today to make Quantum Rings’ Open Quantum platform av…"
+    },
     {
       "title": "Using mechanical vibrations instead of magnetic memory for quantum computing",
       "link": "https://phys.org/news/2026-07-mechanical-vibrations-magnetic-memory-quantum.html",
@@ -16,14 +56,6 @@
       "published": "Thu, 09 Jul 2026 13:48:58 +0000",
       "published_ts": 1783604938,
       "summary": "Insider Brief PRESS RELEASE &#8212; QIZ Security, the cryptographic posture and Post-Quantum Cryptography (PQC) management platform, today announced a $17 million seed round led by Bessemer Venture Partners and Merlin Ventures, with participation from, Evolution Equity Partners, Qbeat Ventures, Sing…"
-    },
-    {
-      "title": "BQP Awarded Federal Contract to Advance Quantum-Assisted AI for Space Domain Awareness",
-      "link": "https://thequantuminsider.com/2026/07/09/bqp-awarded-federal-contract-to-advance-quantum-assisted-ai-for-space-domain-awareness/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 09 Jul 2026 13:05:00 +0000",
-      "published_ts": 1783602300,
-      "summary": "Insider Brief PRESS RELEASE &#8212; BosonQ Psi Federal LLC (BQP), a New York-based developer of BQPhy®, a quantum-powered backend platform for engineering and physics intelligence helping enterprises leverage hybrid quantum algorithms and high-performance computing, today announced it has been award…"
     },
     {
       "title": "'Check your ingredients': A new blueprint for using Fermi's 'Golden Rule'",
@@ -80,22 +112,6 @@
       "published": "Thu, 09 Jul 2026 10:50:40 +0000",
       "published_ts": 1783594240,
       "summary": "Insider Brief PRESS RELEASE &#8212; QuantumDiamonds (QD), one of Europe’s fastest-growing semiconductor equipment companies, today announced the close of a €91 million funding round to scale production of its quantum-based semiconductor inspection technology. The financing combines an €15 million eq…"
-    },
-    {
-      "title": "Illinois Launches $3 Million Fund to Support NSF Quantum Technology Teams",
-      "link": "https://thequantuminsider.com/2026/07/09/governor-pritzker-announces-funding-for-nsf-quantum-x-labs-teams/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 09 Jul 2026 10:50:38 +0000",
-      "published_ts": 1783594238,
-      "summary": "Insider Brief Press release &#8211; Governor JB Pritzker and the Illinois Department of Commerce and Economic Opportunity (DCEO) announced today the X-Labs Fast Fund to encourage U.S. National Science Foundation X-Labs (NSF X-Labs initiative) teams to choose Illinois as the place to pursue technical…"
-    },
-    {
-      "title": "ETH Zurich Demonstrates Quantum Computer Architecture With Mechanical Working Memory",
-      "link": "https://thequantuminsider.com/2026/07/09/eth-zurich-demonstrates-quantum-computer-architecture-with-mechanical-working-memory/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 09 Jul 2026 09:38:43 +0000",
-      "published_ts": 1783589923,
-      "summary": "Insider Brief A team at ETH Zurich has demonstrated a new quantum computer architecture that uses tiny mechanical vibrations as working memory, offering an alternative to conventional electromagnetic quantum memory while separating computation and storage in a design that more closely resembles a mo…"
     },
     {
       "title": "Real-Time VPN Traffic over ETSI GS QKD 014 Key Delivery with a LuxQuanta NOVA QKD Platform",
@@ -320,22 +336,6 @@
       "published": "Thu, 02 Jul 2026 18:20:04 EDT",
       "published_ts": 1783030804,
       "summary": "Researchers at ETH Zurich have developed a method that uses a single ion to detect electromagnetic fields above a surface and to create a three-dimensional map of them. In the future, this approach can be used to improve chips for quantum computers and quantum sensors."
-    },
-    {
-      "title": "Spontaneous current loops in a kagome metal point to hidden quantum order",
-      "link": "https://phys.org/news/2026-07-spontaneous-current-loops-kagome-metal.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 02 Jul 2026 15:20:07 EDT",
-      "published_ts": 1783020007,
-      "summary": "Quantum materials, materials exhibiting physical behavior governed by the laws of quantum mechanics, have proved promising for the development of numerous advanced technologies, including quantum technologies, memory devices and solar panels. In some of these materials, electrons can collectively ar…"
-    },
-    {
-      "title": "Quantum properties of multimode light observed despite extreme losses",
-      "link": "https://phys.org/news/2026-07-quantum-properties-multimode-extreme-losses.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 02 Jul 2026 14:20:04 EDT",
-      "published_ts": 1783016404,
-      "summary": "Quantum properties of light are extremely delicate. When researchers attempt to measure them, even small losses on the way to a detector can make them invisible, limiting their use outside carefully controlled environments. A collaborative team of researchers involving scientists at the Max Planck I…"
     },
     {
       "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
