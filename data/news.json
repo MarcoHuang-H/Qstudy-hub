@@ -1,6 +1,126 @@
 {
-  "generated_ts": 1783564345,
+  "generated_ts": 1783589449,
   "items": [
+    {
+      "title": "Real-Time VPN Traffic over ETSI GS QKD 014 Key Delivery with a LuxQuanta NOVA QKD Platform",
+      "link": "https://arxiv.org/abs/2607.06602",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06602v1 Announce Type: new  Abstract: This report presents a prototype VPN that uses QKD-derived keys delivered through the ETSI GS QKD 014 API. The VPN encrypts IP traffic with AES-256-GCM, transports ETSI key identifiers in-band, and retrieves matching keys from local KMEs. After valida…"
+    },
+    {
+      "title": "Localized control of large ion crystals in a Penning trap using a spatial light modulator",
+      "link": "https://arxiv.org/abs/2607.06654",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06654v1 Announce Type: new  Abstract: Penning ion traps as quantum platforms have primarily utilized global control and symmetric Dicke states for quantum simulation and sensing experiments. The introduction of local control greatly increases the power of the platform as a quantum simulat…"
+    },
+    {
+      "title": "Localized Thermometry via Dayem Bridges Integrated on Superconducting Qubit Chips",
+      "link": "https://arxiv.org/abs/2607.06670",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06670v1 Announce Type: new  Abstract: Accurate knowledge of the on-chip temperature is essential for understanding and optimizing the performance of superconducting qubits, yet direct thermometry at millikelvin temperatures remains challenging. While qubits themselves are sensitive to the…"
+    },
+    {
+      "title": "Spin singlets are useful",
+      "link": "https://arxiv.org/abs/2607.06672",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06672v1 Announce Type: new  Abstract: We evaluate the utility of the spin-zero manifold of an exchange-coupled array of $N$ spins for tasks in quantum computation and quantum simulation. Since pairs of electrons can be readily initialized into a product state of singlets in semiconducting…"
+    },
+    {
+      "title": "Spectral Born machines: classically trainable quantum generative models for discrete data",
+      "link": "https://arxiv.org/abs/2607.06675",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06675v1 Announce Type: new  Abstract: We present \\emph{spectral Born machines}, a class of quantum generative models that results from viewing and generalizing the class of IQP Born machines through the lens of group Fourier analysis. These quantum models exploit the quantum Fourier trans…"
+    },
+    {
+      "title": "Semi-Device-Independent Quantum Key Distribution from Operational Assumptions",
+      "link": "https://arxiv.org/abs/2607.06682",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06682v1 Announce Type: new  Abstract: Semi-device-independent quantum key distribution leaves the measurement devices uncharacterized while placing a trusted assumption on Alice's source. We formulate this source assumption operationally on Alice's four-preparation ensemble as a scalar bo…"
+    },
+    {
+      "title": "Universal purification dynamics of monitored Clifford circuits",
+      "link": "https://arxiv.org/abs/2607.06683",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06683v1 Announce Type: new  Abstract: Quantum circuits under sufficiently weak monitoring purify on a timescale $T_P$ exponentially long in the system size. This slowness underlies a universal purification dynamics, whose quantitative description has so far required the replica trick, wit…"
+    },
+    {
+      "title": "Quantum error correction of a grid-state qubit with state preparation and measurement errors below $10^{-3}$",
+      "link": "https://arxiv.org/abs/2607.06718",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06718v1 Announce Type: new  Abstract: Grid state qubits offer a hardware-efficient approach to large-scale fault-tolerant quantum computing. They access the information redundancy required for quantum error correction by exploiting the large Hilbert space naturally available in harmonic o…"
+    },
+    {
+      "title": "Feynman's clock and hierarchy-informed sampling for quantum error mitigation",
+      "link": "https://arxiv.org/abs/2607.06752",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06752v1 Announce Type: new  Abstract: Near-term physical implementations of quantum algorithms require efficient quantum error mitigation schemes to reduce quantum noise. In this letter we propose a new mitigation technique, by extending the applicability of our BBGKY-ISM scheme from quan…"
+    },
+    {
+      "title": "Secret Key Rate Analysis of Distribution Matching Algorithms for Discrete-Modulated CV-QKD",
+      "link": "https://arxiv.org/abs/2607.06783",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06783v1 Announce Type: new  Abstract: Continuous variable quantum key distribution protocols (CV-QKD) with discrete modulation have been intensively investigated to bridge the gap between ideal Gaussian modulation and modern coherent optical communication systems. To mitigate the penalty…"
+    },
+    {
+      "title": "Entanglement-assisted remote energy transfer",
+      "link": "https://arxiv.org/abs/2607.06837",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06837v1 Announce Type: new  Abstract: Currently, remote energy transfer and immunity to dissipation are hot topics in quantum batteries (QBs). In this work, we propose a protocol to realize energy transfer between two remote atoms (a quantum charger and a quantum battery) each coupled to…"
+    },
+    {
+      "title": "Universal spin-squeezing dynamics in spinor condensates",
+      "link": "https://arxiv.org/abs/2607.06842",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06842v1 Announce Type: new  Abstract: The production of large-scale entangled states is one of the main goals of next-generation quantum technologies, with an immediate potential for applications in the context of entanglement-assisted quantum sensing. A very promising platform to achieve…"
+    },
+    {
+      "title": "How thermal is a filtered state?",
+      "link": "https://arxiv.org/abs/2607.06847",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06847v1 Announce Type: new  Abstract: Quantum many-body states with sufficiently low energy variance can serve as approximations to thermal states, and they may be prepared by energy filtering simple pure states. In this work, we examine how narrow the filter width must be to guarantee th…"
+    },
+    {
+      "title": "A \"squeezed polaron\" variational wavefunction for the spin boson model",
+      "link": "https://arxiv.org/abs/2607.06850",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06850v1 Announce Type: new  Abstract: The localization transition of the sub-Ohmic spin-boson model generates boson bath correlations that are, at low frequencies, analytically inaccessible to standard coherent-state-polaron variational ansatzes. In this paper, we introduce a ``squeezed p…"
+    },
+    {
+      "title": "Explaining the magnitude of Chirality-Induced Spin Selectivity via electron-electron exchange",
+      "link": "https://arxiv.org/abs/2607.06858",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783569600,
+      "summary": "arXiv:2607.06858v1 Announce Type: new  Abstract: Chiral molecular structure can couple to electron spin, leading to unexpected spin polarization effects. This Chirality-Induced Spin Selectivity (CISS) was first reported for DNA molecules adsorbed on gold but its microscopic origin remains unclear. W…"
+    },
     {
       "title": "White House Quantum Summit Exclusive: America’s Commitment to a Quantum Future",
       "link": "https://thequantuminsider.com/2026/07/08/white-house-quantum-summit-exclusive-americas-commitment-to-a-quantum-future/",
@@ -96,126 +216,6 @@
       "published": "Wed, 08 Jul 2026 00:07:40 EDT",
       "published_ts": 1783483660,
       "summary": "Researchers have created an AI-based simulation that makes it much faster to model how neutron star mergers produce many of the universe's heaviest elements. The new tool could improve predictions of these powerful explosions while helping scientists better connect observations in space with experim…"
-    },
-    {
-      "title": "The Hermitian inner product selects the time axis, the Born rule measures it",
-      "link": "https://arxiv.org/abs/2607.05447",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05447v1 Announce Type: new  Abstract: The correspondence between $2\\times 2$ Hermitian matrices and Minkowski $4$-vectors recovers Lorentzian symmetries from the internal degrees of freedom of a qubit, with no reference to an external spacetime. Recent work characterises the resulting Lor…"
-    },
-    {
-      "title": "Against Totalitarianism -- Introduction to Tractatus Quanticum",
-      "link": "https://arxiv.org/abs/2607.05459",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05459v1 Announce Type: new  Abstract: Tractatus Quanticum (arXiv:2512.06034 [quant-ph]) is described by its authors as 'a re-editing, which takes quantum mechanics into account, of Wittgenstein's famous Tractatus.' The original Tractatus appeared with an introduction by Bertrand Russell.…"
-    },
-    {
-      "title": "Lean-Quantum: Toward AI-Assisted Formalization of Quantum Information",
-      "link": "https://arxiv.org/abs/2607.05492",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05492v1 Announce Type: new  Abstract: Quantum information theory is built on entropic quantities; among them, the sandwiched R\\'enyi relative entropy is a fundamental divergence with various applications, and its data processing inequality (DPI) under quantum channels is a cornerstone res…"
-    },
-    {
-      "title": "Towards Lattice Surgery Compilation for the Color Code Using Pipe Diagrams",
-      "link": "https://arxiv.org/abs/2607.05501",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05501v1 Announce Type: new  Abstract: Pipe diagrams have emerged as a powerful framework for flexible lattice surgery compilation and spacetime optimization for the surface code. In contrast, analogous compilation techniques for color code architectures remain largely unexplored, despite…"
-    },
-    {
-      "title": "Low-depth simulation of non-Markovianity under quantum hardware noise",
-      "link": "https://arxiv.org/abs/2607.05519",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05519v1 Announce Type: new  Abstract: Simulating open quantum systems on digital quantum computers typically relies on the use of auxiliary qubits, resulting in overheads of noisy multi-qubit gates, that severely limit execution on near-term hardware. In this work, we explore the simulati…"
-    },
-    {
-      "title": "Reduced Quantum-Reference-Frame Channels for Open Quantum Systems",
-      "link": "https://arxiv.org/abs/2607.05578",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05578v1 Announce Type: new  Abstract: When reference frames are treated quantum mechanically, the subsystem structure of quantum systems is no longer absolute, but depends on the choice of the quantum reference frame (QRF). This raises a basic question: which dynamical properties are pres…"
-    },
-    {
-      "title": "Nonlocal transfer of quantized toroidal magnetic flux",
-      "link": "https://arxiv.org/abs/2607.05581",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05581v1 Announce Type: new  Abstract: We propose a nonlocal flux-transfer experiment in which a quantized magnetic-field excitation confined within one toroidal superconducting structure is coherently transferred to a spatially separated toroid without magnetic-field occupation of the int…"
-    },
-    {
-      "title": "Wilczek-Zee Realization of Uhlmann Parallel Transport",
-      "link": "https://arxiv.org/abs/2607.05591",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05591v1 Announce Type: new  Abstract: The Uhlmann phase extends geometric phases to mixed quantum states via a parallel-transport condition on purification amplitudes, yet its direct implementation under standard Hamiltonian dynamics is obstructed by the non-Hermitian nature of the purifi…"
-    },
-    {
-      "title": "Entanglement Entropy of Free Fermions on Random Fractal Lattices",
-      "link": "https://arxiv.org/abs/2607.05611",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05611v1 Announce Type: new  Abstract: Random fractal lattices provide a geometrically disordered setting in which quantum correlations can be shaped by noninteger dimensionality rather than onsite randomness. We investigate the entanglement properties of noninteracting fermions on random…"
-    },
-    {
-      "title": "Contractivity of the Hilbert--Schmidt Speed in Unital Quantum Channels: Foundation for Witnessing Non-Markovianity and Discriminating Unital from Non-Unital Markovian Dynamics",
-      "link": "https://arxiv.org/abs/2607.05619",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05619v1 Announce Type: new  Abstract: We investigate the Hilbert--Schmidt speed (HSS), a geometric indicator defined through the Hilbert--Schmidt norm of the tangent vector to a parametrized family of quantum states, under general open-system dynamics. Working in the framework of finite-d…"
-    },
-    {
-      "title": "Spin-1 teleportation-based quantum state tomography",
-      "link": "https://arxiv.org/abs/2607.05621",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05621v1 Announce Type: new  Abstract: We show that the teleportation-based quantum state tomography (QST) protocol, originally built to reconstruct qubits (spin-1/2 systems), can be extended to deal with qutrits (spin-1 systems) as well. Similarly to the original proposal, only two resour…"
-    },
-    {
-      "title": "Towards Quantum Network Performance Metrics: Challenges and Demonstration",
-      "link": "https://arxiv.org/abs/2607.05642",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05642v1 Announce Type: new  Abstract: As quantum networks move toward practical deployment, standardized performance monitoring becomes essential. This article proposes a structured monitoring framework for quantum networks with performance metrics, including quality (e.g., entanglement f…"
-    },
-    {
-      "title": "Coherent Control of Channel Dilations Activate Temporal Bell Nonclassicality",
-      "link": "https://arxiv.org/abs/2607.05643",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05643v1 Announce Type: new  Abstract: The temporal Clauser-Horne-Shimony-Holt (CHSH) inequality witnesses the nonclassicality of temporal correlations, but its violation is generally degraded by environmental noise. Here, we show that violation of the temporal CHSH inequality can be reviv…"
-    },
-    {
-      "title": "Verifiable blind quantum computing: Comparative analysis and design considerations for client architectures",
-      "link": "https://arxiv.org/abs/2607.05650",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05650v1 Announce Type: new  Abstract: Blind quantum computing (BQC) allows a client to delegate quantum computations to a remote server without revealing the input, computation, or output. In addition to being blind, the client can sometimes also verify that the server has performed their…"
-    },
-    {
-      "title": "Interplay Between Quantum Coherence and Multiparameter Quantum Estimation in Graphene",
-      "link": "https://arxiv.org/abs/2607.05661",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783483200,
-      "summary": "arXiv:2607.05661v1 Announce Type: new  Abstract: In this work, we investigate the relationship between quantum coherence and multiparameter quantum estimation in a graphene-based system. We focus on the estimation of two relevant physical parameters, namely the temperature $T$ and the wave vector $k…"
     },
     {
       "title": "Quantum vacuum could help break molecular bonds with less energy, simulations suggest",
