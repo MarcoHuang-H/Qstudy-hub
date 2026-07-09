@@ -1,6 +1,102 @@
 {
-  "generated_ts": 1783589449,
+  "generated_ts": 1783608479,
   "items": [
+    {
+      "title": "Using mechanical vibrations instead of magnetic memory for quantum computing",
+      "link": "https://phys.org/news/2026-07-mechanical-vibrations-magnetic-memory-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 09 Jul 2026 10:40:17 EDT",
+      "published_ts": 1783608017,
+      "summary": "Quantum computers still face limits when it comes to storing information. Researchers at ETH Zurich are now turning to mechanical vibrations rather than electromagnetic memory. Their new vibrating memory can store significantly more information in a smaller volume. Combined with a suitable computer…"
+    },
+    {
+      "title": "QIZ Security Raises $17 Million Seed to Lead Cyber Readiness For The Post-Quantum Era",
+      "link": "https://thequantuminsider.com/2026/07/09/qiz-security-raises-17-million-seed-to-lead-cyber-readiness-for-the-post-quantum-era/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 13:48:58 +0000",
+      "published_ts": 1783604938,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QIZ Security, the cryptographic posture and Post-Quantum Cryptography (PQC) management platform, today announced a $17 million seed round led by Bessemer Venture Partners and Merlin Ventures, with participation from, Evolution Equity Partners, Qbeat Ventures, Sing…"
+    },
+    {
+      "title": "BQP Awarded Federal Contract to Advance Quantum-Assisted AI for Space Domain Awareness",
+      "link": "https://thequantuminsider.com/2026/07/09/bqp-awarded-federal-contract-to-advance-quantum-assisted-ai-for-space-domain-awareness/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 13:05:00 +0000",
+      "published_ts": 1783602300,
+      "summary": "Insider Brief PRESS RELEASE &#8212; BosonQ Psi Federal LLC (BQP), a New York-based developer of BQPhy®, a quantum-powered backend platform for engineering and physics intelligence helping enterprises leverage hybrid quantum algorithms and high-performance computing, today announced it has been award…"
+    },
+    {
+      "title": "'Check your ingredients': A new blueprint for using Fermi's 'Golden Rule'",
+      "link": "https://phys.org/news/2026-07-ingredients-blueprint-fermi-golden.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 09 Jul 2026 08:20:03 EDT",
+      "published_ts": 1783599603,
+      "summary": "Underpinning much of modern technology, from smartphones to scanning tunneling microscopes to particle colliders, is Fermi's Golden Rule. Named for 20th-century Italian American physicist Enrico Fermi (but actually discovered by British physicist Paul Dirac), the rule is a formula that connects what…"
+    },
+    {
+      "title": "Guest Post: The Polymarket Bet Quantum Could Break",
+      "link": "https://thequantuminsider.com/2026/07/09/guest-post-the-polymarket-bet-quantum-could-break/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 11:49:07 +0000",
+      "published_ts": 1783597747,
+      "summary": "Guest Post by Eli Ben-Sasson It is the one bet Polymarket cannot guarantee it would pay out. Will quantum computing break the world&#8217;s most famous prediction market, and every other one along with it? If you follow quantum computing coverage, think “I&#8217;m not into crypto,” and skip straight…"
+    },
+    {
+      "title": "Qoro Participates in €3 Million Consortium build the Secure Control-Plane Foundation for Distributed Quantum Systems",
+      "link": "https://thequantuminsider.com/2026/07/09/qoro-german-consortium-distributed-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 11:26:01 +0000",
+      "published_ts": 1783596361,
+      "summary": "Insider Brief Press release &#8211; Qoro has announced its participation in a major €3.06 million collaborative research project funded by the German Federal Ministry for Research, Technology, and Space (BMFTR). The project, titled TruQuaC (Trustworthy Quantum Control and Communication), aims to dev…"
+    },
+    {
+      "title": "Quantum Elements Appoints Ben Pressley as Chief Revenue Officer",
+      "link": "https://thequantuminsider.com/2026/07/09/quantum-elements-announces-ben-pressley-as-chief-revenue-officer/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 11:14:54 +0000",
+      "published_ts": 1783595694,
+      "summary": "Insider Brief Press release &#8211; Quantum Elements, a provider of AI-powered digital twins for quantum computing developers, today announced the appointment of Ben Pressley as Chief Revenue Officer. In this position he will be leveraging his robust experience and expertise in go-to-market executio…"
+    },
+    {
+      "title": "QAI Ventures Selects Four Startups for Singapore Quantum Accelerator Program",
+      "link": "https://thequantuminsider.com/2026/07/09/qai-ventures-launches-first-cohort-of-its-singapore-quantum-accelerator/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 11:07:45 +0000",
+      "published_ts": 1783595265,
+      "summary": "Insider Brief Press release &#8211; QAI Ventures, the global venture capital firm that invests in Quantum Technologies and Advanced Computing, today launched the inaugural cohort of its Singapore Quantum Accelerator. The launch marks the first program of its kind in Singapore, and is the centerpiece…"
+    },
+    {
+      "title": "QUDORA Partners with QAI to Bring Ion-Trap Quantum Computing to South Korea",
+      "link": "https://thequantuminsider.com/2026/07/09/qudora-partners-with-qai-to-bring-ion-trap-quantum-computing-to-south-korea/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 11:00:45 +0000",
+      "published_ts": 1783594845,
+      "summary": "Insider Brief Press release &#8211; QUDORA Technologies GmbH (&#8220;QUDORA&#8220;), a European full-stack ion-trap quantum computing company, today announced the signing of a Memorandum of Understanding (MOU) with Korean quantum AI specialist QAI Co., Ltd. (&#8220;QAI”) to pursue the deployment of…"
+    },
+    {
+      "title": "QuantumDiamonds Raises €91 Million to Set The Global Standard For Next-Generation Chip Inspection",
+      "link": "https://thequantuminsider.com/2026/07/09/quantumdiamonds-raises-e91-million-to-set-the-global-standard-for-next-generation-chip-inspection/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 10:50:40 +0000",
+      "published_ts": 1783594240,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuantumDiamonds (QD), one of Europe’s fastest-growing semiconductor equipment companies, today announced the close of a €91 million funding round to scale production of its quantum-based semiconductor inspection technology. The financing combines an €15 million eq…"
+    },
+    {
+      "title": "Illinois Launches $3 Million Fund to Support NSF Quantum Technology Teams",
+      "link": "https://thequantuminsider.com/2026/07/09/governor-pritzker-announces-funding-for-nsf-quantum-x-labs-teams/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 10:50:38 +0000",
+      "published_ts": 1783594238,
+      "summary": "Insider Brief Press release &#8211; Governor JB Pritzker and the Illinois Department of Commerce and Economic Opportunity (DCEO) announced today the X-Labs Fast Fund to encourage U.S. National Science Foundation X-Labs (NSF X-Labs initiative) teams to choose Illinois as the place to pursue technical…"
+    },
+    {
+      "title": "ETH Zurich Demonstrates Quantum Computer Architecture With Mechanical Working Memory",
+      "link": "https://thequantuminsider.com/2026/07/09/eth-zurich-demonstrates-quantum-computer-architecture-with-mechanical-working-memory/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 09 Jul 2026 09:38:43 +0000",
+      "published_ts": 1783589923,
+      "summary": "Insider Brief A team at ETH Zurich has demonstrated a new quantum computer architecture that uses tiny mechanical vibrations as working memory, offering an alternative to conventional electromagnetic quantum memory while separating computation and storage in a design that more closely resembles a mo…"
+    },
     {
       "title": "Real-Time VPN Traffic over ETSI GS QKD 014 Key Delivery with a LuxQuanta NOVA QKD Platform",
       "link": "https://arxiv.org/abs/2607.06602",
@@ -122,92 +218,12 @@
       "summary": "arXiv:2607.06858v1 Announce Type: new  Abstract: Chiral molecular structure can couple to electron spin, leading to unexpected spin polarization effects. This Chirality-Induced Spin Selectivity (CISS) was first reported for DNA molecules adsorbed on gold but its microscopic origin remains unclear. W…"
     },
     {
-      "title": "White House Quantum Summit Exclusive: America’s Commitment to a Quantum Future",
-      "link": "https://thequantuminsider.com/2026/07/08/white-house-quantum-summit-exclusive-americas-commitment-to-a-quantum-future/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 08 Jul 2026 14:49:43 +0000",
-      "published_ts": 1783522183,
-      "summary": "Insider Brief The invitation came in plain language. A summit from the White House on American quantum innovation, a Tuesday in July, eleven in the morning. I have spent years in rooms where quantum is the subject, most of them nothing like this one. I accepted without hesitation. Nearly every major…"
-    },
-    {
       "title": "Long-theorized electron-on-helium qubit achieves strong coupling to a single microwave photon",
       "link": "https://phys.org/news/2026-07-theorized-electron-helium-qubit-strong.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 08 Jul 2026 10:20:02 EDT",
       "published_ts": 1783520402,
       "summary": "Quantum computers, devices that store and process information leveraging the principles of quantum mechanics, have been found to be promising for tackling some problems that cannot be solved by classical computers. Quantum computers store data in the form of qubits (i.e., quantum bits), units of inf…"
-    },
-    {
-      "title": "SEALSQ and GlobalFoundries Partner on Post-Quantum Security",
-      "link": "https://thequantuminsider.com/2026/07/08/sealsq-globalfoundries-post-quantum-cryptography-partnership/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 08 Jul 2026 13:11:27 +0000",
-      "published_ts": 1783516287,
-      "summary": "Insider Brief Press release &#8211; SEALSQ Corp (Nasdaq: LAES) (&#8220;SEALSQ&#8220;) and GlobalFoundries (Nasdaq: GFS) (GF) today announced a strategic Memorandum of Understanding (MoU) to co-develop across secure semiconductor platforms, Post-Quantum Cryptography (PQC) and emerging semiconductor-b…"
-    },
-    {
-      "title": "New Optical Technique Captures Three Material Properties in a Single Measurement",
-      "link": "https://thequantuminsider.com/2026/07/08/new-optical-technique-captures-three-material-properties-in-a-single-measurement/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 08 Jul 2026 13:09:52 +0000",
-      "published_ts": 1783516192,
-      "summary": "Insider Brief PRESS RELEASE &#8212; An international team of researchers has developed an optical technique that measures the chemical, structural, and mechanical properties of a material at the same time, from a single point, and without touching or labeling the sample. The work, published in Natur…"
-    },
-    {
-      "title": "BTQ Technologies Completes Acquisition of QPerfect to Expand Quantum Software Capabilities",
-      "link": "https://thequantuminsider.com/2026/07/08/btq-technologies-completes-qperfect-acquisition-quantum-software-capabilities/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 08 Jul 2026 13:01:22 +0000",
-      "published_ts": 1783515682,
-      "summary": "Insider Brief Press release &#8211; BTQ Technologies Corp. (&#8220;BTQ&#8221; or the &#8220;Company&#8221;) (Nasdaq: BTQ) (CBOE CA: BTQ), a global quantum technology company focused on securing mission-critical networks, is pleased to announce that it has completed the acquisition of QPerfect SA (&#…"
-    },
-    {
-      "title": "CSIRO Builds Quantum Light Sources to Counter GPS Jamming and Spoofing",
-      "link": "https://thequantuminsider.com/2026/07/08/csiro-builds-quantum-light-sources-to-detect-gnss-signal-tampering/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 08 Jul 2026 12:29:46 +0000",
-      "published_ts": 1783513786,
-      "summary": "Insider Brief GPS signals are weak by the time they reach Earth. That weakness is why they are increasingly being disrupted &#8211; blocked through jamming, or overridden with false signals through spoofing. GPS is the best-known satellite timing system in Australia and the United States, but it is…"
-    },
-    {
-      "title": "IQM to Deliver Quantum Computer for Europe’s LUMI AI Factory",
-      "link": "https://thequantuminsider.com/2026/07/08/lumi-ai-factory-iqm-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 08 Jul 2026 11:48:48 +0000",
-      "published_ts": 1783511328,
-      "summary": "Insider Brief Press release &#8211; The LUMI AI Factory, led by CSC – IT Center for Science, has selected IQM Quantum Computers (Nasdaq: IQMX) to deliver IQM Halocene H4, an advanced quantum computer aimed at accelerating hybrid high-performance computing, artificial intelligence, and quantum comput…"
-    },
-    {
-      "title": "Guest Post – QSE Expands Post-Quantum Cryptography Solutions for Enterprise Quantum Security Migration",
-      "link": "https://thequantuminsider.com/2026/07/08/qse-post-quantum-security-southeast-asia/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 08 Jul 2026 10:08:15 +0000",
-      "published_ts": 1783505295,
-      "summary": "Insider Brief Guest Post by QSE &#8211; Quantum Secure Encryption Corp. Equity Insider News Commentary, One of the quieter but more consequential races in technology is the effort to rebuild the world&#8217;s encryption before quantum computers grow powerful enough to break it. Governments and stand…"
-    },
-    {
-      "title": "European QUARTERNEXT Consortium Advances Quantum-Safe Communication Systems",
-      "link": "https://thequantuminsider.com/2026/07/08/quarternext-quantum-safe-communications/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 08 Jul 2026 09:40:58 +0000",
-      "published_ts": 1783503658,
-      "summary": "Insider Brief Press release &#8211; QUARTERNEXT, a European-funded consortium dedicated to advancing quantum-safe communication technologies toward certifiable, industrial-grade systems, has officially launched. Bringing together six leading organizations across Spain, Austria, and the Netherlands,…"
-    },
-    {
-      "title": "Rice University and Max Planck Society Launch Quantum Materials Research Partnership",
-      "link": "https://thequantuminsider.com/2026/07/08/rice-university-and-the-max-planck-society-establish-a-partnership-on-quantum-materials/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 08 Jul 2026 09:30:03 +0000",
-      "published_ts": 1783503003,
-      "summary": "Insider Brief Press release &#8211; Rice University and the Max Planck Society officially launched the Quantum Materials &#8211; Rice and Max Planck Partnership (Q-RaMP) June 19, aimed at supporting the identification and development of quantum materials that will support breakthroughs in sustainabi…"
-    },
-    {
-      "title": "Argonne Brings Together Leaders to Discuss Quantum Technology Opportunities",
-      "link": "https://thequantuminsider.com/2026/07/08/argonne-quantum-prairie-economic-symposium/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 08 Jul 2026 09:24:37 +0000",
-      "published_ts": 1783502677,
-      "summary": "Insider Brief The U.S. Department of Energy’s Argonne National Laboratory convened leaders from business, government, academia and nonprofit organizations in May for the inaugural Quantum Prairie Economic Symposium, bringing together nearly 100 participants to examine how advances in quantum science…"
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
@@ -320,22 +336,6 @@
       "published": "Thu, 02 Jul 2026 14:20:04 EDT",
       "published_ts": 1783016404,
       "summary": "Quantum properties of light are extremely delicate. When researchers attempt to measure them, even small losses on the way to a detector can make them invisible, limiting their use outside carefully controlled environments. A collaborative team of researchers involving scientists at the Max Planck I…"
-    },
-    {
-      "title": "Quantum gravity tests may mistake ordinary spacetime for superposition",
-      "link": "https://phys.org/news/2026-07-quantum-gravity-ordinary-spacetime-superposition.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 02 Jul 2026 12:20:08 EDT",
-      "published_ts": 1783009208,
-      "summary": "Everything around us, from atoms and molecules to planets and galaxies, is governed by two extraordinarily successful theories of physics: quantum mechanics and gravity. Quantum mechanics explains the behavior of the microscopic world, while Einstein's theory of gravity describes the motion of stars…"
-    },
-    {
-      "title": "Quantum semiconductor design could expand search for dark matter",
-      "link": "https://phys.org/news/2026-07-quantum-semiconductor-dark.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 02 Jul 2026 10:00:03 EDT",
-      "published_ts": 1783000803,
-      "summary": "Dark matter accounts for 85% of the matter in the universe, but scientists still do not know what it is made of. A study, published in Physical Review Letters, by Rice University researchers proposes a detector design that could help search for axions, hypothetical particles that many physicists thi…"
     },
     {
       "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
