@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1783692705,
+  "generated_ts": 1783711275,
   "items": [
+    {
+      "title": "Top Diamond NV-Centre Quantum Computing Companies in 2026",
+      "link": "https://thequantuminsider.com/2026/07/10/8-quantum-computing-companies-working-with-nv-centre-in-diamond-technology/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 10 Jul 2026 17:35:52 +0000",
+      "published_ts": 1783704952,
+      "summary": "Insider Brief Most quantum computing discussions start with superconducting chips in dilution refrigerators, or ion traps in vacuum chambers the size of a washing machine. Diamond NV centers are a different story. The qubit is a defect in a carbon crystal. It runs at room temperature. It fits in you…"
+    },
+    {
+      "title": "New test certifies quantum measurements that simpler methods cannot mimic",
+      "link": "https://phys.org/news/2026-07-certifies-quantum-simpler-methods-mimic.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 10 Jul 2026 13:00:01 EDT",
+      "published_ts": 1783702801,
+      "summary": "Proving that one quantum measurement is more powerful than another has long been difficult. Physicists from Heinrich Heine University Düsseldorf, Lund University and the University of Innsbruck have now developed and demonstrated a simple technique to certify that a certain class of measurements has…"
+    },
+    {
+      "title": "QC Design Publishes Plaquette Framework for Fault-Tolerant Quantum Computer Design",
+      "link": "https://thequantuminsider.com/2026/07/10/qc-design-publishes-plaquette-hardware-aware-design-platform-for-fault-tolerant-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 10 Jul 2026 16:47:26 +0000",
+      "published_ts": 1783702046,
+      "summary": "Insider Brief Press release &#8211; QC Design today announced the publication of “Plaquette: A hardware-aware design platform for fault-tolerant quantum computers”, the paper presenting the theoretical framework and software suite behind its flagship product. The paper describes how Plaquette comput…"
+    },
+    {
+      "title": "NordLocker Prepares Encrypted Cloud Storage for the Post-Quantum Era",
+      "link": "https://thequantuminsider.com/2026/07/10/nordlocker-rebuilds-its-encrypted-cloud-storage-from-the-ground-up/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 10 Jul 2026 14:49:03 +0000",
+      "published_ts": 1783694943,
+      "summary": "Insider Brief Press release &#8211; &#160;NordLocker, the encrypted cloud storage service behind the creators of Nord Security, has announced the most significant architectural upgrade in its history. Codenamed “Project Renaissance,” the upgrade completely reimagines how encrypted data is structured…"
+    },
+    {
+      "title": "BTQ Technologies and ICTK Complete Design of Quantum-Secure QCIM Security Chip",
+      "link": "https://thequantuminsider.com/2026/07/10/btq-technologies-ictk-complete-design-next-generation-qcim-security-chip-integrating-puf-technology/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 10 Jul 2026 14:03:52 +0000",
+      "published_ts": 1783692232,
+      "summary": "Insider Brief Press release &#8211; BTQ Technologies Corp. (&#8220;BTQ&#8220; or the &#8220;Company&#8221;) (Nasdaq: BTQ) (CBOE CA: BTQ), a global quantum technology company focused on securing mission-critical networks, today announced that it has completed the design of its next-generation QCIM +…"
+    },
     {
       "title": "SEALSQ and Quobly Sign $5 Million Agreement to Secure Silicon Quantum Computers",
       "link": "https://thequantuminsider.com/2026/07/10/sealsq-quobly-5-million-quantum-security-agreement/",
@@ -48,14 +88,6 @@
       "published": "Fri, 10 Jul 2026 07:30:00 +0000",
       "published_ts": 1783668600,
       "summary": "Insider Brief Press release &#8211; Robert Loredo has been named executive director of the Florida Atlantic University Center for Quantum Technologies. In this role, Loredo will lead the university’s growing quantum computing enterprise at a pivotal moment as FAU expands its research infrastructure,…"
-    },
-    {
-      "title": "Dr Ilana Wisby joins Cambridge Innovation Capital as Entrepreneur in Residence",
-      "link": "https://thequantuminsider.com/2026/07/10/dr-ilana-wisby-joins-cambridge-innovation-capital-as-entrepreneur-in-residence/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 10 Jul 2026 07:05:00 +0000",
-      "published_ts": 1783667100,
-      "summary": "Insider Brief Press release &#8211; Cambridge Innovation Capital (CIC), the Cambridge-based VC firm investing in the UK’s highest-potential deep tech and life sciences companies, has appointed Dr Ilana Wisby, the founding CEO of Oxford Quantum Circuits (OQC), to its Entrepreneurs in Residence (EIR)…"
     },
     {
       "title": "Comment on 'Quantum Monge-Kantorovich Problem and Transport Distance between Density Matrices'",
@@ -202,30 +234,6 @@
       "summary": "By combining approaches from two rapidly growing fields of quantum physics, researchers at Penn State and Saint Louis University have demonstrated that a novel specialized material can naturally enable a new way to study unusual physical phenomena known as non-Hermitian dynamics."
     },
     {
-      "title": "Shanghai Quantum Sensing Startup Raises Angel Funding to Expand Navigation And Gas Detection Products",
-      "link": "https://thequantuminsider.com/2026/07/09/shanghai-quantum-sensing-startup-raises-angel-funding-to-expand-navigation-and-gas-detection-products/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 09 Jul 2026 15:16:55 +0000",
-      "published_ts": 1783610215,
-      "summary": "Insider Brief A Shanghai quantum sensing startup has raised an angel funding round worth tens of millions of yuan &#8212; or millions of dollars U.S. &#8212; as it looks to scale commercial production of quantum sensors for navigation and industrial monitoring, underscoring growing investor interest…"
-    },
-    {
-      "title": "Xanadu Accelerates U.S. Growth with New York State Office",
-      "link": "https://thequantuminsider.com/2026/07/09/xanadu-accelerates-us-growth-with-new-york-state-office/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 09 Jul 2026 15:10:52 +0000",
-      "published_ts": 1783609852,
-      "summary": "Insider Brief Press release &#8211; Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, today announced a significant expansion of its U.S. operations, anchored by its growing presence in Albany, New York. Albany has emerged as a hub for gl…"
-    },
-    {
-      "title": "Quantum Rings, qBraid Partner to Expand Free Access to Quantum Hardware",
-      "link": "https://thequantuminsider.com/2026/07/09/quantum-rings-qbraid-partner-to-expand-free-access-to-quantum-hardware/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 09 Jul 2026 15:05:00 +0000",
-      "published_ts": 1783609500,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Rings, a leader in quantum developer tools whose toolchain lets any developer run quantum workloads anywhere, and qBraid (Chicago, Illinois), a leader in quantum-cloud computing, announced a partnership today to make Quantum Rings’ Open Quantum platform av…"
-    },
-    {
       "title": "Using mechanical vibrations instead of magnetic memory for quantum computing",
       "link": "https://phys.org/news/2026-07-mechanical-vibrations-magnetic-memory-quantum.html",
       "source": "Phys.org — Quantum Physics",
@@ -328,14 +336,6 @@
       "published": "Fri, 03 Jul 2026 18:40:01 EDT",
       "published_ts": 1783118401,
       "summary": "The Korea Research Institute of Standards and Science (KRISS) has developed a room-temperature single-photon source built into a compact 19-inch rack-mounted device that operates without cryogenic cooling. Designed as a plug-and-play system that works as soon as it is powered on, the device moves qu…"
-    },
-    {
-      "title": "Ultrafast scanning tunneling microscopy reaches the quantum mechanical space-time limit for the first time",
-      "link": "https://phys.org/news/2026-07-ultrafast-scanning-tunneling-microscopy-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 03 Jul 2026 12:00:06 EDT",
-      "published_ts": 1783094406,
-      "summary": "Werner Heisenberg's famous uncertainty principle describes one of the most intriguing features of quantum physics: certain pairs of physical quantities describing a particle, such as position and momentum, cannot simultaneously be determined with arbitrary precision—not because of imprecise measurin…"
     },
     {
       "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
