@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1783625871,
+  "generated_ts": 1783650891,
   "items": [
+    {
+      "title": "Programmable light simulates quantum matter across 300 processes without bigger circuits",
+      "link": "https://phys.org/news/2026-07-programmable-simulates-quantum-bigger-circuits.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 09 Jul 2026 17:40:06 EDT",
+      "published_ts": 1783633206,
+      "summary": "A team of researchers at the University of Ottawa and its Nexus for Quantum Technologies Institute, in collaboration with researchers from Federico II University in Italy, has developed a programmable quantum simulator that shapes a beam of light to replicate how particles move through complex mater…"
+    },
     {
       "title": "New physics-based machine-learning method speeds search for 2D quantum materials",
       "link": "https://phys.org/news/2026-07-physics-based-machine-method-2d.html",
@@ -328,14 +336,6 @@
       "published": "Fri, 03 Jul 2026 12:00:06 EDT",
       "published_ts": 1783094406,
       "summary": "Werner Heisenberg's famous uncertainty principle describes one of the most intriguing features of quantum physics: certain pairs of physical quantities describing a particle, such as position and momentum, cannot simultaneously be determined with arbitrary precision—not because of imprecise measurin…"
-    },
-    {
-      "title": "Single ion maps 3D electromagnetic fields above chips with record sensitivity",
-      "link": "https://phys.org/news/2026-07-ion-3d-electromagnetic-fields-chips.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 02 Jul 2026 18:20:04 EDT",
-      "published_ts": 1783030804,
-      "summary": "Researchers at ETH Zurich have developed a method that uses a single ion to detect electromagnetic fields above a surface and to create a three-dimensional map of them. In the future, this approach can be used to improve chips for quantum computers and quantum sensors."
     },
     {
       "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
