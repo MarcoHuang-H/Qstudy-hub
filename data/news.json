@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1783675624,
+  "generated_ts": 1783692705,
   "items": [
+    {
+      "title": "SEALSQ and Quobly Sign $5 Million Agreement to Secure Silicon Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/07/10/sealsq-quobly-5-million-quantum-security-agreement/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 10 Jul 2026 12:57:53 +0000",
+      "published_ts": 1783688273,
+      "summary": "Insider Brief Press release &#8211; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, and Quobly, a pioneer in silicon based quantum computing,…"
+    },
+    {
+      "title": "Google Study Shows Quantum Computer Can Learn From Its Own Errors While It Computes",
+      "link": "https://thequantuminsider.com/2026/07/10/google-study-shows-quantum-computer-can-learn-from-its-own-errors-while-it-computes/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 10 Jul 2026 11:06:42 +0000",
+      "published_ts": 1783681602,
+      "summary": "Insider Brief A Google-led research team has demonstrated a quantum computer that continuously learns from its own errors while it is running, replacing one of the biggest operational bottlenecks in quantum computing with an artificial intelligence system that adapts as conditions change. The study,…"
+    },
     {
       "title": "Google Seeks University Proposals for Early Fault-Tolerant Quantum Computing",
       "link": "https://thequantuminsider.com/2026/07/10/google-seeks-university-proposals-for-early-fault-tolerant-quantum-computing/",
@@ -218,28 +234,12 @@
       "summary": "Quantum computers still face limits when it comes to storing information. Researchers at ETH Zurich are now turning to mechanical vibrations rather than electromagnetic memory. Their new vibrating memory can store significantly more information in a smaller volume. Combined with a suitable computer…"
     },
     {
-      "title": "QIZ Security Raises $17 Million Seed to Lead Cyber Readiness For The Post-Quantum Era",
-      "link": "https://thequantuminsider.com/2026/07/09/qiz-security-raises-17-million-seed-to-lead-cyber-readiness-for-the-post-quantum-era/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 09 Jul 2026 13:48:58 +0000",
-      "published_ts": 1783604938,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QIZ Security, the cryptographic posture and Post-Quantum Cryptography (PQC) management platform, today announced a $17 million seed round led by Bessemer Venture Partners and Merlin Ventures, with participation from, Evolution Equity Partners, Qbeat Ventures, Sing…"
-    },
-    {
       "title": "'Check your ingredients': A new blueprint for using Fermi's 'Golden Rule'",
       "link": "https://phys.org/news/2026-07-ingredients-blueprint-fermi-golden.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 09 Jul 2026 08:20:03 EDT",
       "published_ts": 1783599603,
       "summary": "Underpinning much of modern technology, from smartphones to scanning tunneling microscopes to particle colliders, is Fermi's Golden Rule. Named for 20th-century Italian American physicist Enrico Fermi (but actually discovered by British physicist Paul Dirac), the rule is a formula that connects what…"
-    },
-    {
-      "title": "Guest Post: The Polymarket Bet Quantum Could Break",
-      "link": "https://thequantuminsider.com/2026/07/09/guest-post-the-polymarket-bet-quantum-could-break/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 09 Jul 2026 11:49:07 +0000",
-      "published_ts": 1783597747,
-      "summary": "Guest Post by Eli Ben-Sasson It is the one bet Polymarket cannot guarantee it would pay out. Will quantum computing break the world&#8217;s most famous prediction market, and every other one along with it? If you follow quantum computing coverage, think “I&#8217;m not into crypto,” and skip straight…"
     },
     {
       "title": "Long-theorized electron-on-helium qubit achieves strong coupling to a single microwave photon",
