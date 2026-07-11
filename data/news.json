@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1783756064,
+  "generated_ts": 1783775305,
   "items": [
+    {
+      "title": "Why Quantum Computing Needs Strong Ecosystems to Scale",
+      "link": "https://thequantuminsider.com/2026/07/11/why-quantum-computing-needs-national-ecosystems-to-scale/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 11 Jul 2026 07:49:00 +0000",
+      "published_ts": 1783756140,
+      "summary": "Guest Post by Yonathan Cohen, Co-Founder and Chief Technology Officer of Quantum Machines. Something is changing in the quantum industry. Not long ago, most conversations focused almost entirely on qubits: fidelities, coherence times, error rates, and which hardware modality might eventually win. Th…"
+    },
     {
       "title": "Top Diamond NV-Centre Quantum Computing Companies in 2026",
       "link": "https://thequantuminsider.com/2026/07/10/8-quantum-computing-companies-working-with-nv-centre-in-diamond-technology/",
@@ -80,14 +88,6 @@
       "published": "Fri, 10 Jul 2026 07:40:29 +0000",
       "published_ts": 1783669229,
       "summary": "Insider Brief PRESS RELEASE &#8212; INQUBATOR, Fraunhofer&#8217;s quantum computing consulting and testing center, offers businesses an practical and cost-effective access to quantum computing. Starting immediately, companies of all sizes can apply with their use cases to develop customized solution…"
-    },
-    {
-      "title": "Robert Loredo Named Executive Director of FAU Center for Quantum Technologies",
-      "link": "https://thequantuminsider.com/2026/07/10/robert-loredo-to-lead-faus-center-for-quantum-technologies/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 10 Jul 2026 07:30:00 +0000",
-      "published_ts": 1783668600,
-      "summary": "Insider Brief Press release &#8211; Robert Loredo has been named executive director of the Florida Atlantic University Center for Quantum Technologies. In this role, Loredo will lead the university’s growing quantum computing enterprise at a pivotal moment as FAU expands its research infrastructure,…"
     },
     {
       "title": "Programmable light simulates quantum matter across 300 processes without bigger circuits",
