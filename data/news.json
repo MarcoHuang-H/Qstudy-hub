@@ -1,6 +1,158 @@
 {
-  "generated_ts": 1783909372,
+  "generated_ts": 1783934224,
   "items": [
+    {
+      "title": "World's first superconducting quantum heat engine offers path to larger quantum computers",
+      "link": "https://phys.org/news/2026-07-world-superconducting-quantum-path-larger.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 13 Jul 2026 05:00:01 EDT",
+      "published_ts": 1783933201,
+      "summary": "Recent improvements in our understanding of how the principles of thermodynamics apply in the quantum realm could give a boost to quantum technology, and a clearer picture of quantum thermodynamics could in turn enhance our understanding of classical thermodynamics. Now, Aalto University researchers…"
+    },
+    {
+      "title": "JIC Venture Growth Investments And Toyota Invention Partners Join Yaqumo Seed Extension Round",
+      "link": "https://thequantuminsider.com/2026/07/13/jic-venture-growth-investments-and-toyota-invention-partners-join-yaqumo-seed-extension-round/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 13 Jul 2026 08:41:01 +0000",
+      "published_ts": 1783932061,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Yaqumo Inc. (“Yaqumo”), a Japanese startup developing neutral-atom quantum computers, today announced that it has raised funding in a seed extension round from JIC Venture Growth Investments Co., Ltd. (“JIC VGI”) and Toyota Invention Partners,Inc. (“TIP”).  This i…"
+    },
+    {
+      "title": "Quantum Companies Help Develop Hybrid AI for Immune-Targeting Peptides",
+      "link": "https://thequantuminsider.com/2026/07/13/quantum-companies-help-develop-hybrid-ai-for-immune-targeting-peptides/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 13 Jul 2026 08:30:29 +0000",
+      "published_ts": 1783931429,
+      "summary": "Insider Brief A hybrid quantum-classical artificial intelligence system generated short protein fragments that attached to immune-system proteins, with the largest gains appearing for genetic variants that are poorly represented in existing data, according to a preprint posted on bioRxiv. The findin…"
+    },
+    {
+      "title": "Israeli Quantum Startups Eye Wall Street as SPAC Interest Accelerates",
+      "link": "https://thequantuminsider.com/2026/07/13/israeli-quantum-startups-eye-wall-street-as-spac-interest-accelerates/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 13 Jul 2026 07:59:14 +0000",
+      "published_ts": 1783929554,
+      "summary": "Insider Brief PRESS RELEASE &#8212; wo of Israel&#8217;s best-funded quantum computing companies are in advanced discussions to go public on Wall Street through mergers with special purpose acquisition companies, underscoring growing investor demand for a sector that remains largely pre-revenue but…"
+    },
+    {
+      "title": "Comment on \"Beyond-classical computation in quantum simulation\"",
+      "link": "https://arxiv.org/abs/2607.08811",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.08811v1 Announce Type: new  Abstract: A recent article [Science 388, 199-204 (2025)] investigates the applicability of numerical methods and a quantum processor unit in simulating a quantum annealing protocol. One of the findings indicates that Neural Quantum States - a versatile variatio…"
+    },
+    {
+      "title": "The Apparatus Strikes Back: Momentum Conservation and the Cost of Spatial Superpositions",
+      "link": "https://arxiv.org/abs/2607.08819",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.08819v1 Announce Type: new  Abstract: Preparing massive particles in coherent spatial superpositions is a central objective of modern quantum science, motivated by applications ranging from fundamental tests of quantum mechanics and gravity to quantum-enhanced sensing. The experimental di…"
+    },
+    {
+      "title": "Partially-Commutative Polynomial Optimization",
+      "link": "https://arxiv.org/abs/2607.08841",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.08841v1 Announce Type: new  Abstract: Semidefinite programming hierarchies for commutative and non-commutative polynomial optimization represent a powerful computational tool with many applications in quantum information. In such applications, a given variable is typically not either comm…"
+    },
+    {
+      "title": "Two-photon blockade without cascade channel in strong light-matter coupling",
+      "link": "https://arxiv.org/abs/2607.08882",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.08882v1 Announce Type: new  Abstract: We report a distinct two-photon blockade (termed as weak TPB) discovered in the strong-coupling regime of a parity-broken generalized quantum Rabi model, in addition to the other two-photon blockade (termed as strong TPB) in the ultrastrong coupling (…"
+    },
+    {
+      "title": "A diagrammatic field theory of quantum error correction",
+      "link": "https://arxiv.org/abs/2607.08911",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.08911v1 Announce Type: new  Abstract: We develop a field-theoretic framework for quantum error correction centred on fusion-space codes in unitary fusion categories. Admissible clusters determine total-charge sectors and orthogonal footprint projectors recording locally visible data left…"
+    },
+    {
+      "title": "A Novel Parallel QCNN Architecture with Efficient Classical Simulability",
+      "link": "https://arxiv.org/abs/2607.08928",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.08928v1 Announce Type: new  Abstract: This work presents a study of an implementation of a novel Quantum Convolutional Neural Network (QCNN) for binary classification of images from the Modified National Institute of Standards and Technology (MNIST) dataset. Using a novel architecture ins…"
+    },
+    {
+      "title": "Non-Markovian Poissonian Spontaneous Collapse Models",
+      "link": "https://arxiv.org/abs/2607.08955",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.08955v1 Announce Type: new  Abstract: Spontaneous collapse models provide a possible solution to the measurement problem by modifying standard quantum dynamics. The modification consists of adding non-linear and stochastic terms inducing wavefunction collapse in space. Non-Markovian versi…"
+    },
+    {
+      "title": "Probing two-spin entanglement at quantum criticality on a quantum processor",
+      "link": "https://arxiv.org/abs/2607.08967",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.08967v1 Announce Type: new  Abstract: Quantum phase transitions in many-body systems give rise to highly entangled states, and understanding their quantum correlations is crucial for characterizing quantum materials. However, traditional entanglement measures such as entanglement entropy…"
+    },
+    {
+      "title": "A Scalable Approach to Solve the Carleman Linearized Burgers' Equation on a Quantum Computer",
+      "link": "https://arxiv.org/abs/2607.08976",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.08976v1 Announce Type: new  Abstract: Efficiently solving nonlinear ordinary and partial differential equations using a quantum computer is a major challenge due its inherent linearity. To circumvent this challenge, the Carleman linearization method has been proposed to transform a nonlin…"
+    },
+    {
+      "title": "Distillation-Enhanced Continuous-Variable Quantum Teleportation for Satellite Communication Networks",
+      "link": "https://arxiv.org/abs/2607.08977",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.08977v1 Announce Type: new  Abstract: Quantum teleportation (QT) over satellite-based free-space optical (FSO) channels is a promising approach for long-distance quantum communication. However, its performance is significantly degraded by atmospheric loss and turbulence. In this paper, we…"
+    },
+    {
+      "title": "Quantum Logic as the Logic of Contexts",
+      "link": "https://arxiv.org/abs/2607.09032",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.09032v1 Announce Type: new  Abstract: Quantum logic is usually presented as a non-classical departure from ordinary reasoning forced on us by quantum mechanics, with classical logic kept as the secure starting point. We argue for the opposite order of explanation in a finite and fully com…"
+    },
+    {
+      "title": "Classically Realizable Incompatibility",
+      "link": "https://arxiv.org/abs/2607.09047",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.09047v1 Announce Type: new  Abstract: Incompatibility constitutes a fundamental aspect of quantum mechanics. However, not every quantum observable non-classical property arises from incompatibility, nor can all quantum scenarios be fully captured by incompatibility alone. Within the frame…"
+    },
+    {
+      "title": "Simulation of Lindbladian dynamics via adaptive variational quantum trajectory compression",
+      "link": "https://arxiv.org/abs/2607.09051",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.09051v1 Announce Type: new  Abstract: Quantum simulation of open quantum systems in the noisy intermediate-scale quantum (NISQ) era is hindered by the non-unitary nature of dissipative dynamics and the limited quantum resources available on near-term quantum processors. In this work, we p…"
+    },
+    {
+      "title": "Entanglement entropy in two-particle Grover walks on graphs",
+      "link": "https://arxiv.org/abs/2607.09066",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.09066v1 Announce Type: new  Abstract: We define a two-particle quantum walk of identical particles on a graph $G$ via the one-particle Grover walk on the Kronecker product $G \\otimes G$, and call it the two-particle Grover walk. In systems of identical particles, quantum mechanics require…"
+    },
+    {
+      "title": "Quantitative Wigner-Araki-Yanase Theorems for Unitary and Antiunitary Symmetries",
+      "link": "https://arxiv.org/abs/2607.09075",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "published_ts": 1783915200,
+      "summary": "arXiv:2607.09075v1 Announce Type: new  Abstract: Symmetry imposes fundamental constraints on quantum measurement and control. The Wigner-Araki-Yanase theorem and its quantitative extensions capture this restriction for continuous symmetries, in terms of fluctuations of conserved generators. Such gen…"
+    },
     {
       "title": "Why Quantum Computing Needs Strong Ecosystems to Scale",
       "link": "https://thequantuminsider.com/2026/07/11/why-quantum-computing-needs-national-ecosystems-to-scale/",
@@ -64,30 +216,6 @@
       "published": "Fri, 10 Jul 2026 11:06:42 +0000",
       "published_ts": 1783681602,
       "summary": "Insider Brief A Google-led research team has demonstrated a quantum computer that continuously learns from its own errors while it is running, replacing one of the biggest operational bottlenecks in quantum computing with an artificial intelligence system that adapts as conditions change. The study,…"
-    },
-    {
-      "title": "Google Seeks University Proposals for Early Fault-Tolerant Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/07/10/google-seeks-university-proposals-for-early-fault-tolerant-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 10 Jul 2026 08:09:56 +0000",
-      "published_ts": 1783670996,
-      "summary": "Insider Brief Google is seeking university researchers to help solve two of quantum computing&#8217;s most immediate challenges, launching academic funding calls focused on developing useful algorithms for early fault-tolerant quantum computers and securing the systems that control them. The new fun…"
-    },
-    {
-      "title": "QuTech Releases Tuna-17 Superconducting Quantum Computer Through Quantum Inspire",
-      "link": "https://thequantuminsider.com/2026/07/10/quantum-inspire-adds-new-open-architecture-quantum-processor-tuna-17/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 10 Jul 2026 08:00:00 +0000",
-      "published_ts": 1783670400,
-      "summary": "Insider Brief Press release &#8211; QuTech, in collaboration with the Delft quantum technology ecosystem, has released Tuna-17: a new open-architecture superconducting quantum computer designed to advance Europe’s publicly accessible quantum computing capabilities. Developed by QuTech at TU Delft, T…"
-    },
-    {
-      "title": "Application Period Open: Fraunhofer Seeks Industry Partners for Quantum Computing Use Cases",
-      "link": "https://thequantuminsider.com/2026/07/10/application-period-open-fraunhofer-seeks-industry-partners-for-quantum-computing-use-cases/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 10 Jul 2026 07:40:29 +0000",
-      "published_ts": 1783669229,
-      "summary": "Insider Brief PRESS RELEASE &#8212; INQUBATOR, Fraunhofer&#8217;s quantum computing consulting and testing center, offers businesses an practical and cost-effective access to quantum computing. Starting immediately, companies of all sizes can apply with their use cases to develop customized solution…"
     },
     {
       "title": "Programmable light simulates quantum matter across 300 processes without bigger circuits",
@@ -208,14 +336,6 @@
       "published": "Sun, 05 Jul 2026 14:13:44 EDT",
       "published_ts": 1783275224,
       "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe."
-    },
-    {
-      "title": "Plug-and-play single-photon source can work at room temperature",
-      "link": "https://phys.org/news/2026-07-play-photon-source-room-temperature.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 03 Jul 2026 18:40:01 EDT",
-      "published_ts": 1783118401,
-      "summary": "The Korea Research Institute of Standards and Science (KRISS) has developed a room-temperature single-photon source built into a compact 19-inch rack-mounted device that operates without cryogenic cooling. Designed as a plug-and-play system that works as soon as it is powered on, the device moves qu…"
     },
     {
       "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
