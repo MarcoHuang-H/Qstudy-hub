@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1783952617,
+  "generated_ts": 1783970299,
   "items": [
+    {
+      "title": "Q-PLANET Begins Development of European Pilot Line for Neutral Atom Quantum Chips",
+      "link": "https://thequantuminsider.com/2026/07/13/launch-of-q-planet-european-pilot-line-to-industrialize-neutral-atom-quantum-chips/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 13 Jul 2026 16:54:32 +0000",
+      "published_ts": 1783961672,
+      "summary": "Insider Brief Press release &#8211; Last two days marked the official kick-off of Q-PLANET (Quantum Pilot Line for production of Advanced chips for Neutral atom European Technologies), one of the 6 European Quantum Chip Stability Pilot Lines co-founded by the European Union and the Chips Joint Under…"
+    },
+    {
+      "title": "Imec and Diraq Demonstrate Eight-Qubit Silicon Spin Array on CMOS-Compatible Platform",
+      "link": "https://thequantuminsider.com/2026/07/13/imec-diraq-eight-qubit-silicon-spin-qubit-array/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 13 Jul 2026 16:41:44 +0000",
+      "published_ts": 1783960904,
+      "summary": "Insider Brief Press release &#8211; Imec, a world-leading research and innovation hub for advanced semiconductor technologies, and Diraq, a pioneer of silicon-based quantum computing, today announce they have demonstrated the coherent operation and readout of an eight silicon MOS spin-qubit array de…"
+    },
+    {
+      "title": "Study Finds Imaginary Numbers May Not Be Essential to Quantum Mechanics",
+      "link": "https://thequantuminsider.com/2026/07/13/physicists-say-quantum-mechanics-may-not-need-imaginary-numbers-after-all/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 13 Jul 2026 14:01:40 +0000",
+      "published_ts": 1783951300,
+      "summary": "Insider Brief Press release &#8211; Physicists at Heinrich Heine University Düsseldorf (HHU), in collaboration with the German Aerospace Center (DLR), have been investigating a fundamental property of quantum mechanics. In the journal Physical Review Letters, they show that this theory does not nece…"
+    },
     {
       "title": "Nord Quantique Advances Quantum Error Correction with Sub-0.1% SPAM Errors",
       "link": "https://thequantuminsider.com/2026/07/13/ord-quantique-quantum-error-correction-sub-01-percent-spam-errors/",
@@ -192,30 +216,6 @@
       "published": "Fri, 10 Jul 2026 16:47:26 +0000",
       "published_ts": 1783702046,
       "summary": "Insider Brief Press release &#8211; QC Design today announced the publication of “Plaquette: A hardware-aware design platform for fault-tolerant quantum computers”, the paper presenting the theoretical framework and software suite behind its flagship product. The paper describes how Plaquette comput…"
-    },
-    {
-      "title": "NordLocker Prepares Encrypted Cloud Storage for the Post-Quantum Era",
-      "link": "https://thequantuminsider.com/2026/07/10/nordlocker-rebuilds-its-encrypted-cloud-storage-from-the-ground-up/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 10 Jul 2026 14:49:03 +0000",
-      "published_ts": 1783694943,
-      "summary": "Insider Brief Press release &#8211; &#160;NordLocker, the encrypted cloud storage service behind the creators of Nord Security, has announced the most significant architectural upgrade in its history. Codenamed “Project Renaissance,” the upgrade completely reimagines how encrypted data is structured…"
-    },
-    {
-      "title": "BTQ Technologies and ICTK Complete Design of Quantum-Secure QCIM Security Chip",
-      "link": "https://thequantuminsider.com/2026/07/10/btq-technologies-ictk-complete-design-next-generation-qcim-security-chip-integrating-puf-technology/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 10 Jul 2026 14:03:52 +0000",
-      "published_ts": 1783692232,
-      "summary": "Insider Brief Press release &#8211; BTQ Technologies Corp. (&#8220;BTQ&#8220; or the &#8220;Company&#8221;) (Nasdaq: BTQ) (CBOE CA: BTQ), a global quantum technology company focused on securing mission-critical networks, today announced that it has completed the design of its next-generation QCIM +…"
-    },
-    {
-      "title": "SEALSQ and Quobly Sign $5 Million Agreement to Secure Silicon Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/07/10/sealsq-quobly-5-million-quantum-security-agreement/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 10 Jul 2026 12:57:53 +0000",
-      "published_ts": 1783688273,
-      "summary": "Insider Brief Press release &#8211; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, and Quobly, a pioneer in silicon based quantum computing,…"
     },
     {
       "title": "Programmable light simulates quantum matter across 300 processes without bigger circuits",
