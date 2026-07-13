@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1783934224,
+  "generated_ts": 1783952617,
   "items": [
+    {
+      "title": "Nord Quantique Advances Quantum Error Correction with Sub-0.1% SPAM Errors",
+      "link": "https://thequantuminsider.com/2026/07/13/ord-quantique-quantum-error-correction-sub-01-percent-spam-errors/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 13 Jul 2026 13:53:43 +0000",
+      "published_ts": 1783950823,
+      "summary": "Insider Brief Press release &#8211; Nord Quantique, a quantum computing company advancing efficient, scalable, and error corrected architectures, recently published a research paper demonstrating quantum error correction (QEC) of a single-mode grid state qubit with state preparation and measurement…"
+    },
     {
       "title": "World's first superconducting quantum heat engine offers path to larger quantum computers",
       "link": "https://phys.org/news/2026-07-world-superconducting-quantum-path-larger.html",
@@ -208,14 +216,6 @@
       "published": "Fri, 10 Jul 2026 12:57:53 +0000",
       "published_ts": 1783688273,
       "summary": "Insider Brief Press release &#8211; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, and Quobly, a pioneer in silicon based quantum computing,…"
-    },
-    {
-      "title": "Google Study Shows Quantum Computer Can Learn From Its Own Errors While It Computes",
-      "link": "https://thequantuminsider.com/2026/07/10/google-study-shows-quantum-computer-can-learn-from-its-own-errors-while-it-computes/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 10 Jul 2026 11:06:42 +0000",
-      "published_ts": 1783681602,
-      "summary": "Insider Brief A Google-led research team has demonstrated a quantum computer that continuously learns from its own errors while it is running, replacing one of the biggest operational bottlenecks in quantum computing with an artificial intelligence system that adapts as conditions change. The study,…"
     },
     {
       "title": "Programmable light simulates quantum matter across 300 processes without bigger circuits",
