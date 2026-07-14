@@ -1,6 +1,86 @@
 {
-  "generated_ts": 1784015699,
+  "generated_ts": 1784035450,
   "items": [
+    {
+      "title": "Xanadu and Lockheed Martin Expand Quantum Workforce Training With PennyLane",
+      "link": "https://thequantuminsider.com/2026/07/14/xanadu-and-lockheed-martin-expand-quantum-talent-pipeline/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 11:20:41 +0000",
+      "published_ts": 1784028041,
+      "summary": "Insider Brief Press release &#8211; Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, and Lockheed Martin (NYSE: LMT), a global security and aerospace company, today announced a new strategic effort to scale quantum training and workforce…"
+    },
+    {
+      "title": "Quantum Elements and Planckian Partner on Digital Twins for Superconducting Quantum Processors",
+      "link": "https://thequantuminsider.com/2026/07/14/quantum-elements-planckian-digital-twins-superconducting-processors/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 11:16:07 +0000",
+      "published_ts": 1784027767,
+      "summary": "Insider Brief Press release &#8211; Quantum Elements, a provider of AI-powered digital twins for quantum computing developers, today announced a development agreement with Planckian, an Italian quantum computing company pioneering a novel superconducting quantum processor architecture, to support Pl…"
+    },
+    {
+      "title": "QuiX Quantum Announces Photonic Quantum Computing Architecture For Commercial Deployment",
+      "link": "https://thequantuminsider.com/2026/07/14/quix-quantum-announces-photonic-quantum-computing-architecture-for-commercial-deployment/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 10:49:25 +0000",
+      "published_ts": 1784026165,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum today announced Carina, the world’s first universal photonic quantum computing architecture designed for deployment in customer data center environments as an essential foundation for future fault-tolerant systems. Developed as part of the Universal P…"
+    },
+    {
+      "title": "Deutsche Telekom and AIT Lead New European Quantum Communication Infrastructure Projects",
+      "link": "https://thequantuminsider.com/2026/07/14/deutsche-telekom-ait-european-quantum-communication-projects/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 09:59:06 +0000",
+      "published_ts": 1784023146,
+      "summary": "Insider Brief Press release &#8211; Deutsche Telekom and the AIT Austrian Institute of Technology are  pleased to announce that they have been awarded two new Coordination and Support Actions  (CSAs) under the European Commission’s programme on quantum technologies. Deutsche  Telekom will coordinate…"
+    },
+    {
+      "title": "Tennessee Announces $3 Million Commitment to Support NSF X-Labs Quantum Teams",
+      "link": "https://thequantuminsider.com/2026/07/14/tennessee-announces-3-million-commitment-to-support-nsf-x-labs-quantum-teams/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 09:25:20 +0000",
+      "published_ts": 1784021120,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Gov. Bill Lee and Deputy Gov. and Tennessee Department of Economic Development Commissioner (TNECD) Stuart C. McWhorter announced a $3 million funding commitment to support National Science Foundation (NSF) X-Labs quantum teams that choose to establish research, c…"
+    },
+    {
+      "title": "Logical Qubit Technology Launches Quantum Cloud Platform for Superconducting Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/07/14/logical-qubit-technology-launches-quantum-cloud-platform-at-quantum-day-2026/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 09:15:31 +0000",
+      "published_ts": 1784020531,
+      "summary": "Insider Brief Press release &#8211; On July 9, 2026, Logical Qubit Technology Co., Ltd hosted its Quantum Day 2026 event, officially unveiling its superconducting quantum computing cloud platform. The platform delivers high-performance quantum computing cloud services to universities, research insti…"
+    },
+    {
+      "title": "nLighten and Arqit Demonstrate Sovereign Cloud Security Model Using Quantum-Safe Encryption",
+      "link": "https://thequantuminsider.com/2026/07/14/nlighten-arqit-quantum-safe-cloud-security/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 08:54:21 +0000",
+      "published_ts": 1784019261,
+      "summary": "Insider Brief Press release &#8211; nLighten, a European edge data centre platform, and Arqit Quantum Inc. (NASDAQ: ARQQ, ARQQW) a global leader in PQC migration and quantum-safe encryption, today announced the successful completion of a joint proof of concept (POC), demonstrating how organisations…"
+    },
+    {
+      "title": "SLAC Scientist Advances Research on Scalable Quantum Dot Qubits",
+      "link": "https://thequantuminsider.com/2026/07/14/slac-quantum-dot-qubits-scalable-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 08:38:41 +0000",
+      "published_ts": 1784018321,
+      "summary": "Insider Brief Press release &#8211; Studying an object with zero dimensions takes serious creativity. Consider the singularity — a point packed with infinite energy that sparked the Big Bang. Or the humble mathematical point, an abstract but indispensable fixture in space-time. Grasping a thing that…"
+    },
+    {
+      "title": "Quantinuum, Rolls-Royce, Riverlane and University of Edinburgh Sign Agreement to Explore Quantum Computing For Industrial Design And Simulation",
+      "link": "https://thequantuminsider.com/2026/07/14/quantinuum-rolls-royce-riverlane-and-university-of-edinburgh-sign-agreement-to-explore-quantum-computing-for-industrial-design-and-simulation/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 08:05:00 +0000",
+      "published_ts": 1784016300,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum Inc. (NASDAQ:QNT), Rolls-Royce, Riverlane and EPCC, the UK National Supercomputing Centre based at the University of Edinburgh, today announced an agreement to explore the quantum computing capabilities needed in future industrial workflows, such as gas…"
+    },
+    {
+      "title": "Review Maps Roadmap for Excitons in Magnetic Quantum Materials",
+      "link": "https://thequantuminsider.com/2026/07/14/review-maps-roadmap-for-excitons-in-magnetic-quantum-materials/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 07:48:40 +0000",
+      "published_ts": 1784015320,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers in City College of New York physicist&#160;Vinod M. Menon’s&#160;Laboratory for Nano and Micro Photonics (LaNMP) have outlined an emerging frontier in quantum materials: atomically thin systems in which light, magnetism, and electric charge are strongl…"
+    },
     {
       "title": "Hardware-efficient quantum simulation of intense-field QED",
       "link": "https://arxiv.org/abs/2607.09844",
@@ -122,38 +202,6 @@
       "summary": "arXiv:2607.10058v1 Announce Type: new  Abstract: Color codes are promising alternatives to surface codes for universal fault-tolerant quantum computing due to their simpler lattice-surgery protocols and the transversal implementation of logical Clifford gates. However, their practical deployment has…"
     },
     {
-      "title": "Q-PLANET Begins Development of European Pilot Line for Neutral Atom Quantum Chips",
-      "link": "https://thequantuminsider.com/2026/07/13/launch-of-q-planet-european-pilot-line-to-industrialize-neutral-atom-quantum-chips/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 13 Jul 2026 16:54:32 +0000",
-      "published_ts": 1783961672,
-      "summary": "Insider Brief Press release &#8211; Last two days marked the official kick-off of Q-PLANET (Quantum Pilot Line for production of Advanced chips for Neutral atom European Technologies), one of the 6 European Quantum Chip Stability Pilot Lines co-founded by the European Union and the Chips Joint Under…"
-    },
-    {
-      "title": "Imec and Diraq Demonstrate Eight-Qubit Silicon Spin Array on CMOS-Compatible Platform",
-      "link": "https://thequantuminsider.com/2026/07/13/imec-diraq-eight-qubit-silicon-spin-qubit-array/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 13 Jul 2026 16:41:44 +0000",
-      "published_ts": 1783960904,
-      "summary": "Insider Brief Press release &#8211; Imec, a world-leading research and innovation hub for advanced semiconductor technologies, and Diraq, a pioneer of silicon-based quantum computing, today announce they have demonstrated the coherent operation and readout of an eight silicon MOS spin-qubit array de…"
-    },
-    {
-      "title": "Study Finds Imaginary Numbers May Not Be Essential to Quantum Mechanics",
-      "link": "https://thequantuminsider.com/2026/07/13/physicists-say-quantum-mechanics-may-not-need-imaginary-numbers-after-all/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 13 Jul 2026 14:01:40 +0000",
-      "published_ts": 1783951300,
-      "summary": "Insider Brief Press release &#8211; Physicists at Heinrich Heine University Düsseldorf (HHU), in collaboration with the German Aerospace Center (DLR), have been investigating a fundamental property of quantum mechanics. In the journal Physical Review Letters, they show that this theory does not nece…"
-    },
-    {
-      "title": "Nord Quantique Advances Quantum Error Correction with Sub-0.1% SPAM Errors",
-      "link": "https://thequantuminsider.com/2026/07/13/ord-quantique-quantum-error-correction-sub-01-percent-spam-errors/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 13 Jul 2026 13:53:43 +0000",
-      "published_ts": 1783950823,
-      "summary": "Insider Brief Press release &#8211; Nord Quantique, a quantum computing company advancing efficient, scalable, and error corrected architectures, recently published a research paper demonstrating quantum error correction (QEC) of a single-mode grid state qubit with state preparation and measurement…"
-    },
-    {
       "title": "World's first superconducting quantum heat engine offers path to larger quantum computers",
       "link": "https://phys.org/news/2026-07-world-superconducting-quantum-path-larger.html",
       "source": "Phys.org — Quantum Physics",
@@ -162,60 +210,12 @@
       "summary": "Recent improvements in our understanding of how the principles of thermodynamics apply in the quantum realm could give a boost to quantum technology, and a clearer picture of quantum thermodynamics could in turn enhance our understanding of classical thermodynamics. Now, Aalto University researchers…"
     },
     {
-      "title": "JIC Venture Growth Investments And Toyota Invention Partners Join Yaqumo Seed Extension Round",
-      "link": "https://thequantuminsider.com/2026/07/13/jic-venture-growth-investments-and-toyota-invention-partners-join-yaqumo-seed-extension-round/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 13 Jul 2026 08:41:01 +0000",
-      "published_ts": 1783932061,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Yaqumo Inc. (“Yaqumo”), a Japanese startup developing neutral-atom quantum computers, today announced that it has raised funding in a seed extension round from JIC Venture Growth Investments Co., Ltd. (“JIC VGI”) and Toyota Invention Partners,Inc. (“TIP”).  This i…"
-    },
-    {
-      "title": "Quantum Companies Help Develop Hybrid AI for Immune-Targeting Peptides",
-      "link": "https://thequantuminsider.com/2026/07/13/quantum-companies-help-develop-hybrid-ai-for-immune-targeting-peptides/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 13 Jul 2026 08:30:29 +0000",
-      "published_ts": 1783931429,
-      "summary": "Insider Brief A hybrid quantum-classical artificial intelligence system generated short protein fragments that attached to immune-system proteins, with the largest gains appearing for genetic variants that are poorly represented in existing data, according to a preprint posted on bioRxiv. The findin…"
-    },
-    {
-      "title": "Israeli Quantum Startups Eye Wall Street as SPAC Interest Accelerates",
-      "link": "https://thequantuminsider.com/2026/07/13/israeli-quantum-startups-eye-wall-street-as-spac-interest-accelerates/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 13 Jul 2026 07:59:14 +0000",
-      "published_ts": 1783929554,
-      "summary": "Insider Brief PRESS RELEASE &#8212; wo of Israel&#8217;s best-funded quantum computing companies are in advanced discussions to go public on Wall Street through mergers with special purpose acquisition companies, underscoring growing investor demand for a sector that remains largely pre-revenue but…"
-    },
-    {
-      "title": "Why Quantum Computing Needs Strong Ecosystems to Scale",
-      "link": "https://thequantuminsider.com/2026/07/11/why-quantum-computing-needs-national-ecosystems-to-scale/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 11 Jul 2026 07:49:00 +0000",
-      "published_ts": 1783756140,
-      "summary": "Guest Post by Yonathan Cohen, Co-Founder and Chief Technology Officer of Quantum Machines. Something is changing in the quantum industry. Not long ago, most conversations focused almost entirely on qubits: fidelities, coherence times, error rates, and which hardware modality might eventually win. Th…"
-    },
-    {
-      "title": "Top Diamond NV-Centre Quantum Computing Companies in 2026",
-      "link": "https://thequantuminsider.com/2026/07/10/8-quantum-computing-companies-working-with-nv-centre-in-diamond-technology/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 10 Jul 2026 17:35:52 +0000",
-      "published_ts": 1783704952,
-      "summary": "Insider Brief Most quantum computing discussions start with superconducting chips in dilution refrigerators, or ion traps in vacuum chambers the size of a washing machine. Diamond NV centers are a different story. The qubit is a defect in a carbon crystal. It runs at room temperature. It fits in you…"
-    },
-    {
       "title": "New test certifies quantum measurements that simpler methods cannot mimic",
       "link": "https://phys.org/news/2026-07-certifies-quantum-simpler-methods-mimic.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 10 Jul 2026 13:00:01 EDT",
       "published_ts": 1783702801,
       "summary": "Proving that one quantum measurement is more powerful than another has long been difficult. Physicists from Heinrich Heine University Düsseldorf, Lund University and the University of Innsbruck have now developed and demonstrated a simple technique to certify that a certain class of measurements has…"
-    },
-    {
-      "title": "QC Design Publishes Plaquette Framework for Fault-Tolerant Quantum Computer Design",
-      "link": "https://thequantuminsider.com/2026/07/10/qc-design-publishes-plaquette-hardware-aware-design-platform-for-fault-tolerant-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 10 Jul 2026 16:47:26 +0000",
-      "published_ts": 1783702046,
-      "summary": "Insider Brief Press release &#8211; QC Design today announced the publication of “Plaquette: A hardware-aware design platform for fault-tolerant quantum computers”, the paper presenting the theoretical framework and software suite behind its flagship product. The paper describes how Plaquette comput…"
     },
     {
       "title": "Programmable light simulates quantum matter across 300 processes without bigger circuits",
