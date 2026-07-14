@@ -1,6 +1,126 @@
 {
-  "generated_ts": 1783994545,
+  "generated_ts": 1784015699,
   "items": [
+    {
+      "title": "Hardware-efficient quantum simulation of intense-field QED",
+      "link": "https://arxiv.org/abs/2607.09844",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.09844v1 Announce Type: new  Abstract: Strong electromagnetic backgrounds make quantum electrodynamics a real-time nonperturbative problem involving dressed fermions and dynamical photons. We propose a trapped-ion protocol for simulating intense-field QED in $3+1$ dimensions in the Furry p…"
+    },
+    {
+      "title": "Ergotropic and passive contributions on the phase-space information geometry of Gaussian states",
+      "link": "https://arxiv.org/abs/2607.09855",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.09855v1 Announce Type: new  Abstract: We establish a direct connection between quantum thermodynamics and information geometry by introducing an ergotropic decomposition of the Wigner-Fisher information for Gaussian quantum states. We derive an analytical expression for the Wigner-Fisher…"
+    },
+    {
+      "title": "Gauge-invariant thermodynamics of a finite-time quantum Otto engine",
+      "link": "https://arxiv.org/abs/2607.09857",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.09857v1 Announce Type: new  Abstract: We investigate a finite-time quantum Otto engine within the framework of gauge-invariant quantum thermodynamics, using the Lipkin-Meshkov-Glick model as the working medium. In this formulation, thermodynamic quantities are defined on equivalence class…"
+    },
+    {
+      "title": "Revealing Entanglement-Growth Mechanisms through the Magic Barrier",
+      "link": "https://arxiv.org/abs/2607.09875",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.09875v1 Announce Type: new  Abstract: Quantum entanglement and magic are complementary resources underlying quantum computational advantage, yet their dynamical relation in many-body systems remains poorly understood. In this Letter, we show that the mechanism of bipartite entanglement gr…"
+    },
+    {
+      "title": "Benchmarking Zero-Setup Quantum Circuit Simulators",
+      "link": "https://arxiv.org/abs/2607.09882",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.09882v1 Announce Type: new  Abstract: Practitioners increasingly rely on hosted simulation environments, but their performance characteristics remain poorly documented. We present a systematic benchmarking study of GPU-accelerated approximate quantum simulation across two widely used meth…"
+    },
+    {
+      "title": "An End-to-End Hybrid Quantum--Classical Sampling Workflow for Discrete Markov Random Fields: A Reproducible Case Study",
+      "link": "https://arxiv.org/abs/2607.09893",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.09893v1 Announce Type: new  Abstract: Sampling from discrete Markov random fields (MRFs) is a hard problem. We study amplitude-encoded i.i.d. sampling for small MRFs where $2^n$ target probabilities are precomputed classically. This removes quantum exponential speedup but allows a clean c…"
+    },
+    {
+      "title": "When Classical Baselines Are Tuned as Carefully as the Quantum Model, Does Quantum Reservoir Computing Still Win?",
+      "link": "https://arxiv.org/abs/2607.09905",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.09905v1 Announce Type: new  Abstract: Can a small quantum computer forecast a changing signal better than an ordinary classical method? Many studies say yes, but the classical methods they compare against are often left in a basic, untuned state while the quantum model is carefully optimi…"
+    },
+    {
+      "title": "Depth-Efficient Quantum Topological Data Analysis for Regime-Specific Detection of Financial Stress",
+      "link": "https://arxiv.org/abs/2607.09906",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.09906v1 Announce Type: new  Abstract: We present, to our knowledge, the first adaptation of Pauli Correlation Encoding (PCE) to quantum topological data analysis, reformulating Betti number estimation as a depth-efficient variational optimization over a compressed qubit register. From a T…"
+    },
+    {
+      "title": "Heterodyne position detection of an optomechanical system",
+      "link": "https://arxiv.org/abs/2607.09912",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.09912v1 Announce Type: new  Abstract: We report a heterodyne detection scheme for position readout of an optomechanical system, in particular an optically levitated particle, implemented via digital In-phase and Quadrature demodulation on a field-programmable gate array. Compared to the s…"
+    },
+    {
+      "title": "Transferred QAOA Parameters Remember the Penalty Scale: A $\\lambda$-Resonance Law for Constrained Quantum Optimization",
+      "link": "https://arxiv.org/abs/2607.09927",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.09927v1 Announce Type: new  Abstract: Training the variational angles of the Quantum Approximate Optimization Algorithm once on a small instance and reusing them on larger ones, known as parameter transfer, is the standard route past the exact-simulation wall. Existing literature explains…"
+    },
+    {
+      "title": "Device-independent certification of tripartite quantum networks with bilocal Bell inequalities",
+      "link": "https://arxiv.org/abs/2607.09933",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.09933v1 Announce Type: new  Abstract: While quantum networks have been extensively studied as a natural extension of the standard Bell scenario with a richer correlation structure, general constructions of nonlinear Bell inequalities with self-testing properties are still largely lacking.…"
+    },
+    {
+      "title": "GPU-Accelerated Host-Aware Dead-Measurement Detection in Hybrid Quantum--Classical Programs: Full Version",
+      "link": "https://arxiv.org/abs/2607.09976",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.09976v1 Announce Type: new  Abstract: Hybrid programs combine a quantum circuit with a classical host program that consumes measurement outcomes. In such programs, an outcome may be syntactically read by the host but semantically non-contributory: changing the outcome cannot change the re…"
+    },
+    {
+      "title": "Measurement-induced overconcentration in quantum generative models",
+      "link": "https://arxiv.org/abs/2607.10055",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.10055v1 Announce Type: new  Abstract: Quantum measurement is a key resource for quantum generative learning, providing intrinsic stochasticity for generating diverse quantum samples. However, in measurement-assisted state-ensemble resampling, repeated measurements can also induce overconc…"
+    },
+    {
+      "title": "Quantum Circuit Vision: Cost-Aware Evaluation of Visual AI Agents for Quantum Code Generation",
+      "link": "https://arxiv.org/abs/2607.10057",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.10057v1 Announce Type: new  Abstract: Can AI agents visually comprehend quantum circuit diagrams and generate verified executable code--and at what cost? We present Quantum Circuit Vision, a cost-aware evaluation framework for multimodal AI agents on quantum circuit visual understanding.…"
+    },
+    {
+      "title": "Fast and accurate AI-based pre-decoders for color codes",
+      "link": "https://arxiv.org/abs/2607.10058",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784001600,
+      "summary": "arXiv:2607.10058v1 Announce Type: new  Abstract: Color codes are promising alternatives to surface codes for universal fault-tolerant quantum computing due to their simpler lattice-surgery protocols and the transversal implementation of logical Clifford gates. However, their practical deployment has…"
+    },
     {
       "title": "Q-PLANET Begins Development of European Pilot Line for Neutral Atom Quantum Chips",
       "link": "https://thequantuminsider.com/2026/07/13/launch-of-q-planet-european-pilot-line-to-industrialize-neutral-atom-quantum-chips/",
@@ -64,126 +184,6 @@
       "published": "Mon, 13 Jul 2026 07:59:14 +0000",
       "published_ts": 1783929554,
       "summary": "Insider Brief PRESS RELEASE &#8212; wo of Israel&#8217;s best-funded quantum computing companies are in advanced discussions to go public on Wall Street through mergers with special purpose acquisition companies, underscoring growing investor demand for a sector that remains largely pre-revenue but…"
-    },
-    {
-      "title": "Comment on \"Beyond-classical computation in quantum simulation\"",
-      "link": "https://arxiv.org/abs/2607.08811",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.08811v1 Announce Type: new  Abstract: A recent article [Science 388, 199-204 (2025)] investigates the applicability of numerical methods and a quantum processor unit in simulating a quantum annealing protocol. One of the findings indicates that Neural Quantum States - a versatile variatio…"
-    },
-    {
-      "title": "The Apparatus Strikes Back: Momentum Conservation and the Cost of Spatial Superpositions",
-      "link": "https://arxiv.org/abs/2607.08819",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.08819v1 Announce Type: new  Abstract: Preparing massive particles in coherent spatial superpositions is a central objective of modern quantum science, motivated by applications ranging from fundamental tests of quantum mechanics and gravity to quantum-enhanced sensing. The experimental di…"
-    },
-    {
-      "title": "Partially-Commutative Polynomial Optimization",
-      "link": "https://arxiv.org/abs/2607.08841",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.08841v1 Announce Type: new  Abstract: Semidefinite programming hierarchies for commutative and non-commutative polynomial optimization represent a powerful computational tool with many applications in quantum information. In such applications, a given variable is typically not either comm…"
-    },
-    {
-      "title": "Two-photon blockade without cascade channel in strong light-matter coupling",
-      "link": "https://arxiv.org/abs/2607.08882",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.08882v1 Announce Type: new  Abstract: We report a distinct two-photon blockade (termed as weak TPB) discovered in the strong-coupling regime of a parity-broken generalized quantum Rabi model, in addition to the other two-photon blockade (termed as strong TPB) in the ultrastrong coupling (…"
-    },
-    {
-      "title": "A diagrammatic field theory of quantum error correction",
-      "link": "https://arxiv.org/abs/2607.08911",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.08911v1 Announce Type: new  Abstract: We develop a field-theoretic framework for quantum error correction centred on fusion-space codes in unitary fusion categories. Admissible clusters determine total-charge sectors and orthogonal footprint projectors recording locally visible data left…"
-    },
-    {
-      "title": "A Novel Parallel QCNN Architecture with Efficient Classical Simulability",
-      "link": "https://arxiv.org/abs/2607.08928",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.08928v1 Announce Type: new  Abstract: This work presents a study of an implementation of a novel Quantum Convolutional Neural Network (QCNN) for binary classification of images from the Modified National Institute of Standards and Technology (MNIST) dataset. Using a novel architecture ins…"
-    },
-    {
-      "title": "Non-Markovian Poissonian Spontaneous Collapse Models",
-      "link": "https://arxiv.org/abs/2607.08955",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.08955v1 Announce Type: new  Abstract: Spontaneous collapse models provide a possible solution to the measurement problem by modifying standard quantum dynamics. The modification consists of adding non-linear and stochastic terms inducing wavefunction collapse in space. Non-Markovian versi…"
-    },
-    {
-      "title": "Probing two-spin entanglement at quantum criticality on a quantum processor",
-      "link": "https://arxiv.org/abs/2607.08967",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.08967v1 Announce Type: new  Abstract: Quantum phase transitions in many-body systems give rise to highly entangled states, and understanding their quantum correlations is crucial for characterizing quantum materials. However, traditional entanglement measures such as entanglement entropy…"
-    },
-    {
-      "title": "A Scalable Approach to Solve the Carleman Linearized Burgers' Equation on a Quantum Computer",
-      "link": "https://arxiv.org/abs/2607.08976",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.08976v1 Announce Type: new  Abstract: Efficiently solving nonlinear ordinary and partial differential equations using a quantum computer is a major challenge due its inherent linearity. To circumvent this challenge, the Carleman linearization method has been proposed to transform a nonlin…"
-    },
-    {
-      "title": "Distillation-Enhanced Continuous-Variable Quantum Teleportation for Satellite Communication Networks",
-      "link": "https://arxiv.org/abs/2607.08977",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.08977v1 Announce Type: new  Abstract: Quantum teleportation (QT) over satellite-based free-space optical (FSO) channels is a promising approach for long-distance quantum communication. However, its performance is significantly degraded by atmospheric loss and turbulence. In this paper, we…"
-    },
-    {
-      "title": "Quantum Logic as the Logic of Contexts",
-      "link": "https://arxiv.org/abs/2607.09032",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.09032v1 Announce Type: new  Abstract: Quantum logic is usually presented as a non-classical departure from ordinary reasoning forced on us by quantum mechanics, with classical logic kept as the secure starting point. We argue for the opposite order of explanation in a finite and fully com…"
-    },
-    {
-      "title": "Classically Realizable Incompatibility",
-      "link": "https://arxiv.org/abs/2607.09047",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.09047v1 Announce Type: new  Abstract: Incompatibility constitutes a fundamental aspect of quantum mechanics. However, not every quantum observable non-classical property arises from incompatibility, nor can all quantum scenarios be fully captured by incompatibility alone. Within the frame…"
-    },
-    {
-      "title": "Simulation of Lindbladian dynamics via adaptive variational quantum trajectory compression",
-      "link": "https://arxiv.org/abs/2607.09051",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.09051v1 Announce Type: new  Abstract: Quantum simulation of open quantum systems in the noisy intermediate-scale quantum (NISQ) era is hindered by the non-unitary nature of dissipative dynamics and the limited quantum resources available on near-term quantum processors. In this work, we p…"
-    },
-    {
-      "title": "Entanglement entropy in two-particle Grover walks on graphs",
-      "link": "https://arxiv.org/abs/2607.09066",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.09066v1 Announce Type: new  Abstract: We define a two-particle quantum walk of identical particles on a graph $G$ via the one-particle Grover walk on the Kronecker product $G \\otimes G$, and call it the two-particle Grover walk. In systems of identical particles, quantum mechanics require…"
-    },
-    {
-      "title": "Quantitative Wigner-Araki-Yanase Theorems for Unitary and Antiunitary Symmetries",
-      "link": "https://arxiv.org/abs/2607.09075",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 13 Jul 2026 00:00:00 -0400",
-      "published_ts": 1783915200,
-      "summary": "arXiv:2607.09075v1 Announce Type: new  Abstract: Symmetry imposes fundamental constraints on quantum measurement and control. The Wigner-Araki-Yanase theorem and its quantitative extensions capture this restriction for continuous symmetries, in terms of fluctuations of conserved generators. Such gen…"
     },
     {
       "title": "Why Quantum Computing Needs Strong Ecosystems to Scale",
