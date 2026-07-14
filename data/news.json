@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1784035450,
+  "generated_ts": 1784056333,
   "items": [
+    {
+      "title": "New atomic trap boosts quantum performance by using surface forces",
+      "link": "https://phys.org/news/2026-07-atomic-boosts-quantum-surface.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 14 Jul 2026 15:00:07 EDT",
+      "published_ts": 1784055607,
+      "summary": "Researchers at Humboldt-Universität zu Berlin have developed a new method for trapping and controlling atoms near an ultrathin glass fiber. This has significantly improved the atoms' ability to store quantum information—an important step forward for future quantum technologies."
+    },
+    {
+      "title": "NSF Funds 12 New Regional Innovation Engines Including Quantum Technologies Initiative",
+      "link": "https://thequantuminsider.com/2026/07/14/nsf-funds-12-regional-innovation-engines/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 17:31:09 +0000",
+      "published_ts": 1784050269,
+      "summary": "Insider Brief Press release &#8211; The U.S. National Science Foundation announced it awarded the newest&#160;NSF Regional Innovation Engines&#160;(NSF Engines) awards to 12 U.S. teams across 20 states. These NSF Engines will build and scale innovation clusters that aim to accelerate the development…"
+    },
+    {
+      "title": "enQase Receives FIPS 140-3 Validation for Cryptographic Security Module",
+      "link": "https://thequantuminsider.com/2026/07/14/enqase-receives-fips-140-3-validation-for-cryptographic-module/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 17:02:00 +0000",
+      "published_ts": 1784048520,
+      "summary": "Insider Brief Press release &#8211; enQase, a pioneer in quantum security and crypto-agility, today announced that the Cryptographic Module Validation Program (CMVP) has issued FIPS 140-3 Certificate #5346 for the enQase FIPS 140-3 Cryptographic Module. The certificate, issued under the Federal Info…"
+    },
+    {
+      "title": "Direct observation of spontaneous magnon coherence at room temperature",
+      "link": "https://phys.org/news/2026-07-spontaneous-magnon-coherence-room-temperature.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 14 Jul 2026 11:40:11 EDT",
+      "published_ts": 1784043611,
+      "summary": "Researchers at RPTU University Kaiserslautern-Landau have achieved a key experimental breakthrough: For the first time, the spontaneous macroscopic coherence of magnons—the quantized excitations of magnetic materials—has been directly observed. These experiments confirm a central prediction of the t…"
+    },
+    {
+      "title": "NTHU Future Fund to Support Quantum Technology Startups in Taiwan",
+      "link": "https://thequantuminsider.com/2026/07/14/nthu-future-fund-quantum-technology-startups/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 15:03:23 +0000",
+      "published_ts": 1784041403,
+      "summary": "Insider Brief Press release &#8211; To establish a long-term capital mechanism that supports deep tech innovation, National Tsing Hua University (NTHU) and Top Taiwan Venture Capital Co., Ltd. officially launched their collaboration during the 2026 Taiwan Venture Capital &#38; Private Equity Annual…"
+    },
+    {
+      "title": "Photon Queue Wins $500,000 Grant to Establish Quantum Technology Presence in New Mexico",
+      "link": "https://thequantuminsider.com/2026/07/14/photon-queue-wins-500000-grant-to-establish-quantum-technology-presence-in-new-mexico/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 14 Jul 2026 14:56:10 +0000",
+      "published_ts": 1784040970,
+      "summary": "Insider Brief Press release &#8211; Photon Queue, a quantum technology company building high-efficiency quantum storage for next-generation quantum computing systems, today announced it has received $500,000 in grant funding to establish a presence in New Mexico. The funding includes support from th…"
+    },
+    {
+      "title": "Physicists confirm 20-year-old theory that could boost quantum technology",
+      "link": "https://phys.org/news/2026-07-physicists-year-theory-boost-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 14 Jul 2026 10:40:04 EDT",
+      "published_ts": 1784040004,
+      "summary": "Future quantum computing will require correlations between distant modules—a feature known as distributed entanglement. Traditionally, such entanglement has relied on active control and repeated measurements. Now, physicists at the Institute of Science and Technology Austria (ISTA) have realized a f…"
+    },
     {
       "title": "Xanadu and Lockheed Martin Expand Quantum Workforce Training With PennyLane",
       "link": "https://thequantuminsider.com/2026/07/14/xanadu-and-lockheed-martin-expand-quantum-talent-pipeline/",
@@ -48,38 +104,6 @@
       "published": "Tue, 14 Jul 2026 09:15:31 +0000",
       "published_ts": 1784020531,
       "summary": "Insider Brief Press release &#8211; On July 9, 2026, Logical Qubit Technology Co., Ltd hosted its Quantum Day 2026 event, officially unveiling its superconducting quantum computing cloud platform. The platform delivers high-performance quantum computing cloud services to universities, research insti…"
-    },
-    {
-      "title": "nLighten and Arqit Demonstrate Sovereign Cloud Security Model Using Quantum-Safe Encryption",
-      "link": "https://thequantuminsider.com/2026/07/14/nlighten-arqit-quantum-safe-cloud-security/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 08:54:21 +0000",
-      "published_ts": 1784019261,
-      "summary": "Insider Brief Press release &#8211; nLighten, a European edge data centre platform, and Arqit Quantum Inc. (NASDAQ: ARQQ, ARQQW) a global leader in PQC migration and quantum-safe encryption, today announced the successful completion of a joint proof of concept (POC), demonstrating how organisations…"
-    },
-    {
-      "title": "SLAC Scientist Advances Research on Scalable Quantum Dot Qubits",
-      "link": "https://thequantuminsider.com/2026/07/14/slac-quantum-dot-qubits-scalable-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 08:38:41 +0000",
-      "published_ts": 1784018321,
-      "summary": "Insider Brief Press release &#8211; Studying an object with zero dimensions takes serious creativity. Consider the singularity — a point packed with infinite energy that sparked the Big Bang. Or the humble mathematical point, an abstract but indispensable fixture in space-time. Grasping a thing that…"
-    },
-    {
-      "title": "Quantinuum, Rolls-Royce, Riverlane and University of Edinburgh Sign Agreement to Explore Quantum Computing For Industrial Design And Simulation",
-      "link": "https://thequantuminsider.com/2026/07/14/quantinuum-rolls-royce-riverlane-and-university-of-edinburgh-sign-agreement-to-explore-quantum-computing-for-industrial-design-and-simulation/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 08:05:00 +0000",
-      "published_ts": 1784016300,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum Inc. (NASDAQ:QNT), Rolls-Royce, Riverlane and EPCC, the UK National Supercomputing Centre based at the University of Edinburgh, today announced an agreement to explore the quantum computing capabilities needed in future industrial workflows, such as gas…"
-    },
-    {
-      "title": "Review Maps Roadmap for Excitons in Magnetic Quantum Materials",
-      "link": "https://thequantuminsider.com/2026/07/14/review-maps-roadmap-for-excitons-in-magnetic-quantum-materials/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 07:48:40 +0000",
-      "published_ts": 1784015320,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers in City College of New York physicist&#160;Vinod M. Menon’s&#160;Laboratory for Nano and Micro Photonics (LaNMP) have outlined an emerging frontier in quantum materials: atomically thin systems in which light, magnetism, and electric charge are strongl…"
     },
     {
       "title": "Hardware-efficient quantum simulation of intense-field QED",
@@ -304,30 +328,6 @@
       "published": "Tue, 07 Jul 2026 13:20:01 EDT",
       "published_ts": 1783444801,
       "summary": "Researchers from the Quantum Hardware group at CIC nanoGUNE, in collaboration with the British company Quantum Motion, have demonstrated an advanced readout sensor for spin qubits that, while being more compact than previous designs, can reach the level of readout precision needed to implement quant…"
-    },
-    {
-      "title": "Evidence of elusive high-energy chiral graviton excitations in quantum Hall systems",
-      "link": "https://phys.org/news/2026-07-evidence-elusive-high-energy-gravitons.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 07 Jul 2026 10:00:08 EDT",
-      "published_ts": 1783432808,
-      "summary": "Electrons, negatively charged particles, sometimes coordinate their movements in ways that produce certain collective excitations referred to as quasiparticles. One case in which this occurs is the quantum Hall effect, a phenomenon that emerges when electrons are confined to a very thin layer, coole…"
-    },
-    {
-      "title": "Metallic rutile oxides break the rules of cooling",
-      "link": "https://phys.org/news/2026-07-metallic-rutile-oxides-cooling.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 07 Jul 2026 09:00:09 EDT",
-      "published_ts": 1783429209,
-      "summary": "Physicists have long puzzled over a strange contradiction inside a family of minerals called rutile oxides. These materials all share the same crystal structure—but while some of them, like titanium dioxide, are firmly insulating, others, like ruthenium dioxide, conduct electricity like a metal. So…"
-    },
-    {
-      "title": "Quantum computing: Laser-optical system offers full control over 2,000 trapped Rydberg atoms",
-      "link": "https://phys.org/news/2026-07-quantum-laser-optical-full-rydberg.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 06 Jul 2026 20:20:02 EDT",
-      "published_ts": 1783383602,
-      "summary": "Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be positioned with submicrometer precision in the computer's hig…"
     },
     {
       "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
