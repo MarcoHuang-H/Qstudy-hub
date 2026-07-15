@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1784122009,
+  "generated_ts": 1784142262,
   "items": [
+    {
+      "title": "QED-C Brings Quantum Industry to Capitol Hill for 2026 Technology Showcase",
+      "link": "https://thequantuminsider.com/2026/07/15/qed-c-brings-quantum-industry-to-capitol-hill-for-2026-technology-showcase/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 18:01:04 +0000",
+      "published_ts": 1784138464,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Following a landmark year for U.S. quantum policy and innovation, the Quantum Economic Development Consortium (QED-C®) brought together senior government officials, bipartisan&#160;members of Congress, federal agency leaders and leading quantum companies Tuesday f…"
+    },
+    {
+      "title": "Physicists create first room-temperature quantum material",
+      "link": "https://phys.org/news/2026-07-physicists-room-temperature-quantum-material.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 15 Jul 2026 11:00:35 EDT",
+      "published_ts": 1784127635,
+      "summary": "Quantum materials could transform technologies ranging from powerful computers and ultrasecure communications to advanced energy systems. But there has always been one major obstacle."
+    },
+    {
+      "title": "QuSecure Lists QuProtect R3 on AWS Marketplace for U.S. Intelligence Community",
+      "link": "https://thequantuminsider.com/2026/07/15/qusecure-quprotect-r3-listed-in-aws-icmp-for-the-us-federal-government/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 14:10:36 +0000",
+      "published_ts": 1784124636,
+      "summary": "Insider Brief Press release &#8211; QuSecure, Inc., a post-quantum cryptography (PQC)  and cryptographic-agility company helping organizations manage cryptographic risk and prepare for quantum-resilient security, today announced that it listed QuProtect R3™ in the AWS Marketplace for the U.S. Intell…"
+    },
+    {
+      "title": "Aqarios Lists on Düsseldorf Exchange, Says It Is Germany’s First Pure-Play Public Quantum Computing Company",
+      "link": "https://thequantuminsider.com/2026/07/15/aqarios-lists-on-dusseldorf-exchange-says-it-is-germanys-first-pure-play-public-quantum-computing-company/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 14:02:19 +0000",
+      "published_ts": 1784124139,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Aqarios Quantum Technologies AG has begun trading on the Düsseldorf Stock Exchange following the completion of a special purpose acquisition company (SPAC) transaction, a move the company says makes it Germany&#8217;s first publicly listed pure-play quantum comput…"
+    },
+    {
+      "title": "Faster quantum computers can learn from their own mistakes",
+      "link": "https://phys.org/news/2026-07-faster-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 15 Jul 2026 09:40:12 EDT",
+      "published_ts": 1784122812,
+      "summary": "Quantum computers promise to solve problems that would take even the fastest conventional supercomputers a vast amount of time, but the quantum information they store and process is extremely sensitive to even tiny disturbances from their surroundings. To keep these systems operating reliably, they…"
+    },
+    {
+      "title": "High Q Technologies Expands Quantum Protein Analysis Platform For Alzheimer’s Drug Discovery",
+      "link": "https://thequantuminsider.com/2026/07/15/high-q-technologies-expands-quantum-protein-analysis-platform-for-alzheimers-drug-discovery/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 13:36:20 +0000",
+      "published_ts": 1784122580,
+      "summary": "Insider Brief An Ontario startup is deploying quantum sensing technology to help pharmaceutical researchers better understand how proteins move, something the company says could shorten drug discovery timelines for Alzheimer&#8217;s disease and other neurodegenerative disorders. High Q Technologies…"
+    },
     {
       "title": "Pasqal Appoints Former HPE Executive Mark Armstrong as Commercial Chief",
       "link": "https://thequantuminsider.com/2026/07/15/pasqal-appoints-mark-armstrong-chief-commercial-officer/",
@@ -48,38 +96,6 @@
       "published": "Wed, 15 Jul 2026 08:59:26 +0000",
       "published_ts": 1784105966,
       "summary": "Insider Brief IBM reaffirmed its commitment to quantum computing and artificial intelligence even as it reported weaker-than-expected preliminary second-quarter financial results and acknowledged execution problems that weighed on software and infrastructure sales. In a letter to investors, IBM CEO…"
-    },
-    {
-      "title": "NSF Awards $15 Million to Connecticut Quantum Technology Engine",
-      "link": "https://thequantuminsider.com/2026/07/15/major-nsf-award-to-turbocharge-quantum-tech-innovation-in-connecticut/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 08:53:25 +0000",
-      "published_ts": 1784105605,
-      "summary": "Insider Brief The&#160;U.S.&#160;National Science Foundation (NSF) announced today that Connecticut is one of twelve regions selected to receive an&#160;NSF&#160;Regional Innovation Engines&#160;(NSF&#160;Engines) award, joining a portfolio of regional technology clusters that are accelerating the d…"
-    },
-    {
-      "title": "UC Berkeley Quantum Chip to Enter National Time Capsule For America’s 250th",
-      "link": "https://thequantuminsider.com/2026/07/15/uc-berkeley-quantum-chip-to-enter-national-time-capsule-for-americas-250th/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 08:42:59 +0000",
-      "published_ts": 1784104979,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A quantum computing chip fabricated at UC Berkeley was chosen by California Gov. Gavin Newsom as one of the state’s contributions to a time capsule to be buried in honor of the nation’s 250th birthday, or semiquincentennial. The time capsule was built and its cont…"
-    },
-    {
-      "title": "Classiq and ParityQC Partner to Optimize Quantum Circuit Execution",
-      "link": "https://thequantuminsider.com/2026/07/15/classiq-parityqc-quantum-circuit-optimization/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 08:38:49 +0000",
-      "published_ts": 1784104729,
-      "summary": "Insider Brief Press release &#8211; The quantum software company Classiq and the quantum architecture company ParityQC announced a partnership to integrate ParityQC’s Parity Twine technology with Classiq’s quantum software engineering platform, giving developers and enterprises a more efficient path…"
-    },
-    {
-      "title": "D-Wave Announces Transfer of Stock Exchange Listing to Nasdaq",
-      "link": "https://thequantuminsider.com/2026/07/15/d-wave-announces-transfer-of-stock-exchange-listing-to-nasdaq/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 08:36:13 +0000",
-      "published_ts": 1784104573,
-      "summary": "Insider Brief PRESS RELEASE &#8212;D-Wave Quantum will move the listing of its common stock from the New York Stock Exchange to the Nasdaq Stock Market later this month, the company announced in a press release Tuesday. The transfer is scheduled to take effect after the close of trading on July 24,…"
     },
     {
       "title": "A Non-Commutative Voronovskaya Theorem for Quantum Neural Network Operators",
@@ -312,22 +328,6 @@
       "published": "Tue, 07 Jul 2026 15:40:01 EDT",
       "published_ts": 1783453201,
       "summary": "A team of scientists from Oak Ridge National Laboratory, Cleveland Clinic and IBM has calculated nine molecular configurations of a promising material to produce fuel for fusion energy—the first known instance of such computations on quantum computers."
-    },
-    {
-      "title": "Using quantum entanglement to secure ground-to-satellite timing",
-      "link": "https://phys.org/news/2026-07-quantum-entanglement-ground-satellite.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 07 Jul 2026 14:00:01 EDT",
-      "published_ts": 1783447201,
-      "summary": "From mobile phones and banking systems to aircraft, ships and emergency services, much of modern life relies on precise timing signals from satellites. Known as the Global Navigation Satellite System (GNSS), satellites carrying atomic clocks transmit time-stamped signals to receivers on Earth. The G…"
-    },
-    {
-      "title": "Ultra-compact sensor paves the way for more powerful and scalable silicon quantum processors",
-      "link": "https://phys.org/news/2026-07-ultra-compact-sensor-paves-powerful.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 07 Jul 2026 13:20:01 EDT",
-      "published_ts": 1783444801,
-      "summary": "Researchers from the Quantum Hardware group at CIC nanoGUNE, in collaboration with the British company Quantum Motion, have demonstrated an advanced readout sensor for spin qubits that, while being more compact than previous designs, can reach the level of readout precision needed to implement quant…"
     },
     {
       "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
