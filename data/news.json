@@ -1,6 +1,86 @@
 {
-  "generated_ts": 1784102376,
+  "generated_ts": 1784122009,
   "items": [
+    {
+      "title": "Pasqal Appoints Former HPE Executive Mark Armstrong as Commercial Chief",
+      "link": "https://thequantuminsider.com/2026/07/15/pasqal-appoints-mark-armstrong-chief-commercial-officer/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 13:06:41 +0000",
+      "published_ts": 1784120801,
+      "summary": "Insider Brief Press release &#8211; Pasqal, a global leader in neutral-atom quantum computing, today announced the appointment of Mark Armstrong as Chief Commercial Officer for Europe, the Middle East, and Africa (EMEA) and the Asia-Pacific region (APAC). Armstrong, a former Hewlett Packard Enterpri…"
+    },
+    {
+      "title": "SES and Airbus to Build Optical Ground Station for EAGLE-1 Quantum Satellite",
+      "link": "https://thequantuminsider.com/2026/07/15/ses-airbus-optical-ground-station-eagle-1-quantum-satellite/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 09:23:59 +0000",
+      "published_ts": 1784107439,
+      "summary": "Insider Brief Press release &#8211; SES, a space solutions company, jointly with Airbus Netherlands B.V. signed a ground lease agreement with the Dutch municipality of Noordwijk for a plot at the NL Space Campus, next to the European Space Agency’s (ESA) technical center ESTeC. The facility will hos…"
+    },
+    {
+      "title": "ISO Standardizes Classic McEliece for Quantum-Resistant Encryption",
+      "link": "https://thequantuminsider.com/2026/07/15/classic-mceliece-iso-standard-post-quantum-cryptography/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 09:16:34 +0000",
+      "published_ts": 1784106994,
+      "summary": "Insider Brief Press release &#8211; It’s proven that today’s encryption is vulnerable to attack by a sufficiently mature quantum computer running Shor’s algorithm &#8211; a catastrophic event commonly known as Q-Day. Even before such a cryptographically relevant quantum computer emerges it is known…"
+    },
+    {
+      "title": "A Superconductor’s Hidden Identity Revealed",
+      "link": "https://thequantuminsider.com/2026/07/15/a-superconductors-hidden-identity-revealed/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 09:08:48 +0000",
+      "published_ts": 1784106528,
+      "summary": "Insider Brief PRESS RELEASE &#8212; &#160;Sometimes, the biggest scientific discoveries come from looking more closely at something we thought we already understood. For decades, physicists have studied a remarkable class of materials called&#160;superconductors—materials that can carry electricity…"
+    },
+    {
+      "title": "New Mexico Awards $1.2 Million to Six Quantum Technology Companies",
+      "link": "https://thequantuminsider.com/2026/07/15/state-awards-1-2-million-to-grow-new-mexicos-quantum-sector/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 09:05:23 +0000",
+      "published_ts": 1784106323,
+      "summary": "Insider Brief Press release &#8211; Economic Development New Mexico’s Technology &#38; Innovation Office (TIO) has awarded $1.2 million to six companies through the New Mexico Quantum Technologies Award, a competitive grant program that supports early-stage quantum and quantum-enabling technology co…"
+    },
+    {
+      "title": "IBM Reaffirms $10 Billion Quantum Push Despite Weak Preliminary Quarterly Results",
+      "link": "https://thequantuminsider.com/2026/07/15/ibm-reaffirms-10-billion-quantum-push-despite-weak-preliminary-quarterly-results/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 08:59:26 +0000",
+      "published_ts": 1784105966,
+      "summary": "Insider Brief IBM reaffirmed its commitment to quantum computing and artificial intelligence even as it reported weaker-than-expected preliminary second-quarter financial results and acknowledged execution problems that weighed on software and infrastructure sales. In a letter to investors, IBM CEO…"
+    },
+    {
+      "title": "NSF Awards $15 Million to Connecticut Quantum Technology Engine",
+      "link": "https://thequantuminsider.com/2026/07/15/major-nsf-award-to-turbocharge-quantum-tech-innovation-in-connecticut/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 08:53:25 +0000",
+      "published_ts": 1784105605,
+      "summary": "Insider Brief The&#160;U.S.&#160;National Science Foundation (NSF) announced today that Connecticut is one of twelve regions selected to receive an&#160;NSF&#160;Regional Innovation Engines&#160;(NSF&#160;Engines) award, joining a portfolio of regional technology clusters that are accelerating the d…"
+    },
+    {
+      "title": "UC Berkeley Quantum Chip to Enter National Time Capsule For America’s 250th",
+      "link": "https://thequantuminsider.com/2026/07/15/uc-berkeley-quantum-chip-to-enter-national-time-capsule-for-americas-250th/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 08:42:59 +0000",
+      "published_ts": 1784104979,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A quantum computing chip fabricated at UC Berkeley was chosen by California Gov. Gavin Newsom as one of the state’s contributions to a time capsule to be buried in honor of the nation’s 250th birthday, or semiquincentennial. The time capsule was built and its cont…"
+    },
+    {
+      "title": "Classiq and ParityQC Partner to Optimize Quantum Circuit Execution",
+      "link": "https://thequantuminsider.com/2026/07/15/classiq-parityqc-quantum-circuit-optimization/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 08:38:49 +0000",
+      "published_ts": 1784104729,
+      "summary": "Insider Brief Press release &#8211; The quantum software company Classiq and the quantum architecture company ParityQC announced a partnership to integrate ParityQC’s Parity Twine technology with Classiq’s quantum software engineering platform, giving developers and enterprises a more efficient path…"
+    },
+    {
+      "title": "D-Wave Announces Transfer of Stock Exchange Listing to Nasdaq",
+      "link": "https://thequantuminsider.com/2026/07/15/d-wave-announces-transfer-of-stock-exchange-listing-to-nasdaq/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 15 Jul 2026 08:36:13 +0000",
+      "published_ts": 1784104573,
+      "summary": "Insider Brief PRESS RELEASE &#8212;D-Wave Quantum will move the listing of its common stock from the New York Stock Exchange to the Nasdaq Stock Market later this month, the company announced in a press release Tuesday. The transfer is scheduled to take effect after the close of trading on July 24,…"
+    },
     {
       "title": "A Non-Commutative Voronovskaya Theorem for Quantum Neural Network Operators",
       "link": "https://arxiv.org/abs/2607.11907",
@@ -130,22 +210,6 @@
       "summary": "Researchers at Humboldt-Universität zu Berlin have developed a new method for trapping and controlling atoms near an ultrathin glass fiber. This has significantly improved the atoms' ability to store quantum information—an important step forward for future quantum technologies."
     },
     {
-      "title": "NSF Funds 12 New Regional Innovation Engines Including Quantum Technologies Initiative",
-      "link": "https://thequantuminsider.com/2026/07/14/nsf-funds-12-regional-innovation-engines/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 17:31:09 +0000",
-      "published_ts": 1784050269,
-      "summary": "Insider Brief Press release &#8211; The U.S. National Science Foundation announced it awarded the newest&#160;NSF Regional Innovation Engines&#160;(NSF Engines) awards to 12 U.S. teams across 20 states. These NSF Engines will build and scale innovation clusters that aim to accelerate the development…"
-    },
-    {
-      "title": "enQase Receives FIPS 140-3 Validation for Cryptographic Security Module",
-      "link": "https://thequantuminsider.com/2026/07/14/enqase-receives-fips-140-3-validation-for-cryptographic-module/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 17:02:00 +0000",
-      "published_ts": 1784048520,
-      "summary": "Insider Brief Press release &#8211; enQase, a pioneer in quantum security and crypto-agility, today announced that the Cryptographic Module Validation Program (CMVP) has issued FIPS 140-3 Certificate #5346 for the enQase FIPS 140-3 Cryptographic Module. The certificate, issued under the Federal Info…"
-    },
-    {
       "title": "Direct observation of spontaneous magnon coherence at room temperature",
       "link": "https://phys.org/news/2026-07-spontaneous-magnon-coherence-room-temperature.html",
       "source": "Phys.org — Quantum Physics",
@@ -154,76 +218,12 @@
       "summary": "Researchers at RPTU University Kaiserslautern-Landau have achieved a key experimental breakthrough: For the first time, the spontaneous macroscopic coherence of magnons—the quantized excitations of magnetic materials—has been directly observed. These experiments confirm a central prediction of the t…"
     },
     {
-      "title": "NTHU Future Fund to Support Quantum Technology Startups in Taiwan",
-      "link": "https://thequantuminsider.com/2026/07/14/nthu-future-fund-quantum-technology-startups/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 15:03:23 +0000",
-      "published_ts": 1784041403,
-      "summary": "Insider Brief Press release &#8211; To establish a long-term capital mechanism that supports deep tech innovation, National Tsing Hua University (NTHU) and Top Taiwan Venture Capital Co., Ltd. officially launched their collaboration during the 2026 Taiwan Venture Capital &#38; Private Equity Annual…"
-    },
-    {
-      "title": "Photon Queue Wins $500,000 Grant to Establish Quantum Technology Presence in New Mexico",
-      "link": "https://thequantuminsider.com/2026/07/14/photon-queue-wins-500000-grant-to-establish-quantum-technology-presence-in-new-mexico/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 14:56:10 +0000",
-      "published_ts": 1784040970,
-      "summary": "Insider Brief Press release &#8211; Photon Queue, a quantum technology company building high-efficiency quantum storage for next-generation quantum computing systems, today announced it has received $500,000 in grant funding to establish a presence in New Mexico. The funding includes support from th…"
-    },
-    {
       "title": "Physicists confirm 20-year-old theory that could boost quantum technology",
       "link": "https://phys.org/news/2026-07-physicists-year-theory-boost-quantum.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 14 Jul 2026 10:40:04 EDT",
       "published_ts": 1784040004,
       "summary": "Future quantum computing will require correlations between distant modules—a feature known as distributed entanglement. Traditionally, such entanglement has relied on active control and repeated measurements. Now, physicists at the Institute of Science and Technology Austria (ISTA) have realized a f…"
-    },
-    {
-      "title": "Xanadu and Lockheed Martin Expand Quantum Workforce Training With PennyLane",
-      "link": "https://thequantuminsider.com/2026/07/14/xanadu-and-lockheed-martin-expand-quantum-talent-pipeline/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 11:20:41 +0000",
-      "published_ts": 1784028041,
-      "summary": "Insider Brief Press release &#8211; Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, and Lockheed Martin (NYSE: LMT), a global security and aerospace company, today announced a new strategic effort to scale quantum training and workforce…"
-    },
-    {
-      "title": "Quantum Elements and Planckian Partner on Digital Twins for Superconducting Quantum Processors",
-      "link": "https://thequantuminsider.com/2026/07/14/quantum-elements-planckian-digital-twins-superconducting-processors/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 11:16:07 +0000",
-      "published_ts": 1784027767,
-      "summary": "Insider Brief Press release &#8211; Quantum Elements, a provider of AI-powered digital twins for quantum computing developers, today announced a development agreement with Planckian, an Italian quantum computing company pioneering a novel superconducting quantum processor architecture, to support Pl…"
-    },
-    {
-      "title": "QuiX Quantum Announces Photonic Quantum Computing Architecture For Commercial Deployment",
-      "link": "https://thequantuminsider.com/2026/07/14/quix-quantum-announces-photonic-quantum-computing-architecture-for-commercial-deployment/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 10:49:25 +0000",
-      "published_ts": 1784026165,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum today announced Carina, the world’s first universal photonic quantum computing architecture designed for deployment in customer data center environments as an essential foundation for future fault-tolerant systems. Developed as part of the Universal P…"
-    },
-    {
-      "title": "Deutsche Telekom and AIT Lead New European Quantum Communication Infrastructure Projects",
-      "link": "https://thequantuminsider.com/2026/07/14/deutsche-telekom-ait-european-quantum-communication-projects/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 09:59:06 +0000",
-      "published_ts": 1784023146,
-      "summary": "Insider Brief Press release &#8211; Deutsche Telekom and the AIT Austrian Institute of Technology are  pleased to announce that they have been awarded two new Coordination and Support Actions  (CSAs) under the European Commission’s programme on quantum technologies. Deutsche  Telekom will coordinate…"
-    },
-    {
-      "title": "Tennessee Announces $3 Million Commitment to Support NSF X-Labs Quantum Teams",
-      "link": "https://thequantuminsider.com/2026/07/14/tennessee-announces-3-million-commitment-to-support-nsf-x-labs-quantum-teams/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 09:25:20 +0000",
-      "published_ts": 1784021120,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Gov. Bill Lee and Deputy Gov. and Tennessee Department of Economic Development Commissioner (TNECD) Stuart C. McWhorter announced a $3 million funding commitment to support National Science Foundation (NSF) X-Labs quantum teams that choose to establish research, c…"
-    },
-    {
-      "title": "Logical Qubit Technology Launches Quantum Cloud Platform for Superconducting Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/07/14/logical-qubit-technology-launches-quantum-cloud-platform-at-quantum-day-2026/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 14 Jul 2026 09:15:31 +0000",
-      "published_ts": 1784020531,
-      "summary": "Insider Brief Press release &#8211; On July 9, 2026, Logical Qubit Technology Co., Ltd hosted its Quantum Day 2026 event, officially unveiling its superconducting quantum computing cloud platform. The platform delivers high-performance quantum computing cloud services to universities, research insti…"
     },
     {
       "title": "World's first superconducting quantum heat engine offers path to larger quantum computers",
