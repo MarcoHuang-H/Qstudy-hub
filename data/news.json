@@ -1,6 +1,86 @@
 {
-  "generated_ts": 1784189121,
+  "generated_ts": 1784209213,
   "items": [
+    {
+      "title": "Scientists achieve all-electrical control of single-molecule quantum states",
+      "link": "https://phys.org/news/2026-07-scientists-electrical-molecule-quantum-states.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 16 Jul 2026 09:30:03 EDT",
+      "published_ts": 1784208603,
+      "summary": "Quantum technologies promise revolutionary advances in computing, sensing and information processing. However, controlling individual quantum bits (qubits) at the atomic scale remains a major challenge because conventional approaches rely on magnetic fields, which are difficult to confine to a singl…"
+    },
+    {
+      "title": "A new 'library' for Feynman integrals",
+      "link": "https://phys.org/news/2026-07-library-feynman.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 16 Jul 2026 09:20:05 EDT",
+      "published_ts": 1784208005,
+      "summary": "Theoretical physicists at Johannes Gutenberg University Mainz (JGU) have developed a new method of ordering Feynman integrals. This critical step in making theoretical predictions for high-energy precision measurements has posed a major computational bottleneck until now."
+    },
+    {
+      "title": "Braided, exotic particles could build reliable, universal quantum computers",
+      "link": "https://phys.org/news/2026-07-braided-exotic-particles-reliable-universal.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 16 Jul 2026 08:50:01 EDT",
+      "published_ts": 1784206201,
+      "summary": "A truly useful quantum computer must be able to run any algorithm, with the same versatility an ordinary laptop offers. Physicists have now shown a new way to give a quantum computer exactly that flexibility, harnessing the capabilities of exotic quantum particles called non-Abelian anyons."
+    },
+    {
+      "title": "Quantum teleportation could reduce photon loss in long-distance communications",
+      "link": "https://phys.org/news/2026-07-quantum-teleportation-photon-loss-distance.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 16 Jul 2026 08:40:07 EDT",
+      "published_ts": 1784205607,
+      "summary": "Quantum technologies, which leverage the principles of quantum mechanics, have been found to outperform their classical counterparts on specific tasks. Among other things, past studies have highlighted the potential of quantum systems that can enable long-distance communication, using photons (i.e.,…"
+    },
+    {
+      "title": "Bloq Quantum Partners With MIUUL to Expand Quantum Machine Learning Training in Turkey",
+      "link": "https://thequantuminsider.com/2026/07/16/bloq-quantum-miuul-quantum-machine-learning-training-partnership/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 16 Jul 2026 09:41:21 +0000",
+      "published_ts": 1784194881,
+      "summary": "Insider Brief Press release &#8211; Bloq Quantum, a leading provider of enterprise quantum software infrastructure, today announced a strategic partnership with MIUUL, a premier technology training and skilling ecosystem based in Turkey. This collaboration marks Bloq Quantum’s official entry into th…"
+    },
+    {
+      "title": "PsiQuantum Strengthens Executive Leadership with New Appointments",
+      "link": "https://thequantuminsider.com/2026/07/16/psiquantum-strengthens-executive-leadership-with-new-appointments/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 16 Jul 2026 08:46:08 +0000",
+      "published_ts": 1784191568,
+      "summary": "Insider Brief Press release &#8211; PsiQuantum today announced the appointments of Rob Soderbery as Executive Vice President and Sriram Sitaraman as Chief Information Officer, adding two veteran technology leaders to the executive team as the company continues scaling its engineering, operational, a…"
+    },
+    {
+      "title": "ESA Brings Quantum Computing System to Earth Observation Research Centre",
+      "link": "https://thequantuminsider.com/2026/07/16/esas-first-quantum-computer-will-shift-computing-frontiers-in-space/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 16 Jul 2026 08:31:12 +0000",
+      "published_ts": 1784190672,
+      "summary": "Insider Brief Press release &#8211; ESA-ESRIN, the European Space Agency’s Centre for Earth Observation, has welcomed its first quantum computer. The computer’s quantum processing capabilities will be merged with classical high-performance computing capabilities to research the potential advantages…"
+    },
+    {
+      "title": "Arq Raises $1.4 Million Pre-Seed Round to Lay The Foundations For The Quantum Internet",
+      "link": "https://thequantuminsider.com/2026/07/16/arq-raises-1-4-million-pre-seed-round-to-lay-the-foundations-for-the-quantum-internet/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 16 Jul 2026 08:15:37 +0000",
+      "published_ts": 1784189737,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum technology startup Arq has raised a $1.4 million pre-seed round led by Ground State Ventures, joined by Big Sur Ventures, to accelerate the development of the quantum internet. Quantum computing is advancing rapidly, promising a new age of supercomputers t…"
+    },
+    {
+      "title": "Researchers Create Room-Temperature Quantum Material That Filters Light by Its Quantum Statistics",
+      "link": "https://thequantuminsider.com/2026/07/16/researchers-create-room-temperature-quantum-material-that-filters-light-by-its-quantum-statistics/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 16 Jul 2026 08:12:08 +0000",
+      "published_ts": 1784189528,
+      "summary": "Insider Brief A Louisiana State University-led team of researchers have demonstrated what they describe as a new class of room-temperature quantum materials that can distinguish between different types of quantum light, a capability that could eventually aid the development of photonic quantum compu…"
+    },
+    {
+      "title": "What Does it Mean to be ‘Quantum’? A Physicist Explains The Basics Behind Einstein’s Spooky Actions at a Distance",
+      "link": "https://thequantuminsider.com/2026/07/16/what-does-it-mean-to-be-quantum-a-physicist-explains-the-basics-behind-einsteins-spooky-actions-at-a-distance/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 16 Jul 2026 07:40:30 +0000",
+      "published_ts": 1784187630,
+      "summary": "By Aldo Romero, Professor of Physics and Astronomy, West Virginia University The Conversation Imagine shining a flashlight across a dark room. You can predict exactly what the light will do: travel in a straight line from one point to another. That seems obvious, because in the world we see around u…"
+    },
     {
       "title": "Mind Success Unveils Quantum Materials Discovery Platform, Digital Twin Software for Hardware Development",
       "link": "https://thequantuminsider.com/2026/07/16/mind-success-unveils-quantum-materials-discovery-platform-digital-twin-software-for-hardware-development/",
@@ -178,54 +258,6 @@
       "summary": "Quantum computers promise to solve problems that would take even the fastest conventional supercomputers a vast amount of time, but the quantum information they store and process is extremely sensitive to even tiny disturbances from their surroundings. To keep these systems operating reliably, they…"
     },
     {
-      "title": "High Q Technologies Expands Quantum Protein Analysis Platform For Alzheimer’s Drug Discovery",
-      "link": "https://thequantuminsider.com/2026/07/15/high-q-technologies-expands-quantum-protein-analysis-platform-for-alzheimers-drug-discovery/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 13:36:20 +0000",
-      "published_ts": 1784122580,
-      "summary": "Insider Brief An Ontario startup is deploying quantum sensing technology to help pharmaceutical researchers better understand how proteins move, something the company says could shorten drug discovery timelines for Alzheimer&#8217;s disease and other neurodegenerative disorders. High Q Technologies…"
-    },
-    {
-      "title": "Pasqal Appoints Former HPE Executive Mark Armstrong as Commercial Chief",
-      "link": "https://thequantuminsider.com/2026/07/15/pasqal-appoints-mark-armstrong-chief-commercial-officer/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 13:06:41 +0000",
-      "published_ts": 1784120801,
-      "summary": "Insider Brief Press release &#8211; Pasqal, a global leader in neutral-atom quantum computing, today announced the appointment of Mark Armstrong as Chief Commercial Officer for Europe, the Middle East, and Africa (EMEA) and the Asia-Pacific region (APAC). Armstrong, a former Hewlett Packard Enterpri…"
-    },
-    {
-      "title": "SES and Airbus to Build Optical Ground Station for EAGLE-1 Quantum Satellite",
-      "link": "https://thequantuminsider.com/2026/07/15/ses-airbus-optical-ground-station-eagle-1-quantum-satellite/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 09:23:59 +0000",
-      "published_ts": 1784107439,
-      "summary": "Insider Brief Press release &#8211; SES, a space solutions company, jointly with Airbus Netherlands B.V. signed a ground lease agreement with the Dutch municipality of Noordwijk for a plot at the NL Space Campus, next to the European Space Agency’s (ESA) technical center ESTeC. The facility will hos…"
-    },
-    {
-      "title": "ISO Standardizes Classic McEliece for Quantum-Resistant Encryption",
-      "link": "https://thequantuminsider.com/2026/07/15/classic-mceliece-iso-standard-post-quantum-cryptography/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 09:16:34 +0000",
-      "published_ts": 1784106994,
-      "summary": "Insider Brief Press release &#8211; It’s proven that today’s encryption is vulnerable to attack by a sufficiently mature quantum computer running Shor’s algorithm &#8211; a catastrophic event commonly known as Q-Day. Even before such a cryptographically relevant quantum computer emerges it is known…"
-    },
-    {
-      "title": "A Superconductor’s Hidden Identity Revealed",
-      "link": "https://thequantuminsider.com/2026/07/15/a-superconductors-hidden-identity-revealed/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 09:08:48 +0000",
-      "published_ts": 1784106528,
-      "summary": "Insider Brief PRESS RELEASE &#8212; &#160;Sometimes, the biggest scientific discoveries come from looking more closely at something we thought we already understood. For decades, physicists have studied a remarkable class of materials called&#160;superconductors—materials that can carry electricity…"
-    },
-    {
-      "title": "New Mexico Awards $1.2 Million to Six Quantum Technology Companies",
-      "link": "https://thequantuminsider.com/2026/07/15/state-awards-1-2-million-to-grow-new-mexicos-quantum-sector/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 09:05:23 +0000",
-      "published_ts": 1784106323,
-      "summary": "Insider Brief Press release &#8211; Economic Development New Mexico’s Technology &#38; Innovation Office (TIO) has awarded $1.2 million to six companies through the New Mexico Quantum Technologies Award, a competitive grant program that supports early-stage quantum and quantum-enabling technology co…"
-    },
-    {
       "title": "New atomic trap boosts quantum performance by using surface forces",
       "link": "https://phys.org/news/2026-07-atomic-boosts-quantum-surface.html",
       "source": "Phys.org — Quantum Physics",
@@ -290,44 +322,12 @@
       "summary": "By combining approaches from two rapidly growing fields of quantum physics, researchers at Penn State and Saint Louis University have demonstrated that a novel specialized material can naturally enable a new way to study unusual physical phenomena known as non-Hermitian dynamics."
     },
     {
-      "title": "Using mechanical vibrations instead of magnetic memory for quantum computing",
-      "link": "https://phys.org/news/2026-07-mechanical-vibrations-magnetic-memory-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 09 Jul 2026 10:40:17 EDT",
-      "published_ts": 1783608017,
-      "summary": "Quantum computers still face limits when it comes to storing information. Researchers at ETH Zurich are now turning to mechanical vibrations rather than electromagnetic memory. Their new vibrating memory can store significantly more information in a smaller volume. Combined with a suitable computer…"
-    },
-    {
-      "title": "'Check your ingredients': A new blueprint for using Fermi's 'Golden Rule'",
-      "link": "https://phys.org/news/2026-07-ingredients-blueprint-fermi-golden.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 09 Jul 2026 08:20:03 EDT",
-      "published_ts": 1783599603,
-      "summary": "Underpinning much of modern technology, from smartphones to scanning tunneling microscopes to particle colliders, is Fermi's Golden Rule. Named for 20th-century Italian American physicist Enrico Fermi (but actually discovered by British physicist Paul Dirac), the rule is a formula that connects what…"
-    },
-    {
-      "title": "Long-theorized electron-on-helium qubit achieves strong coupling to a single microwave photon",
-      "link": "https://phys.org/news/2026-07-theorized-electron-helium-qubit-strong.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 08 Jul 2026 10:20:02 EDT",
-      "published_ts": 1783520402,
-      "summary": "Quantum computers, devices that store and process information leveraging the principles of quantum mechanics, have been found to be promising for tackling some problems that cannot be solved by classical computers. Quantum computers store data in the form of qubits (i.e., quantum bits), units of inf…"
-    },
-    {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
       "link": "https://www.sciencedaily.com/releases/2026/06/260626030426.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Wed, 08 Jul 2026 00:07:40 EDT",
       "published_ts": 1783483660,
       "summary": "Researchers have created an AI-based simulation that makes it much faster to model how neutron star mergers produce many of the universe's heaviest elements. The new tool could improve predictions of these powerful explosions while helping scientists better connect observations in space with experim…"
-    },
-    {
-      "title": "Quantum vacuum could help break molecular bonds with less energy, simulations suggest",
-      "link": "https://phys.org/news/2026-07-quantum-vacuum-molecular-bonds-energy.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 07 Jul 2026 21:40:06 EDT",
-      "published_ts": 1783474806,
-      "summary": "A team of researchers led by Felipe Herrera, a professor at the University of Santiago and a researcher at the Millennium Institute for Research in Optics (MIRO), has identified a quantum phenomenon that enables chemical bonds to be broken using significantly less energy than is normally required."
     },
     {
       "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
