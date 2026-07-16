@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1784209213,
+  "generated_ts": 1784228576,
   "items": [
+    {
+      "title": "Scientists create stable 'boron graphene' and uncover quantum liquid crystal state",
+      "link": "https://phys.org/news/2026-07-scientists-stable-boron-graphene-uncover.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 16 Jul 2026 12:20:10 EDT",
+      "published_ts": 1784218810,
+      "summary": "Graphene has long been regarded as one of the most promising materials for future electronics, but its relatively weak electron interactions have limited its potential for applications such as high-temperature superconductivity. Now, researchers from Tohoku University have overcome a major obstacle…"
+    },
+    {
+      "title": "Quantum Source and Israel’s DDR&D Demonstrate Robust Single-Atom Source for Real-World Quantum Communication",
+      "link": "https://thequantuminsider.com/2026/07/16/quantum-source-robust-entangled-photon-source-quantum-networks/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 16 Jul 2026 15:47:50 +0000",
+      "published_ts": 1784216870,
+      "summary": "Insider Brief Press release &#8211; Researchers at Quantum Source Labs, an Israeli quantum computing company, in collaboration with the Israel Directorate of Defense Research &#38; Development (DDR&#38;D), today announced the on-demand generation of high-quality polarization-entangled photon pairs i…"
+    },
+    {
+      "title": "Schrödinger‑like charges in six‑molecule clusters point to new quantum components",
+      "link": "https://phys.org/news/2026-07-schrdingerlike-sixmolecule-clusters-quantum-components.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 16 Jul 2026 11:40:13 EDT",
+      "published_ts": 1784216413,
+      "summary": "Researchers from the University of Basel have published details of how electrons within a cluster of molecules interact with one another and can be controlled. Their findings pave the way for new approaches to developing quantum components and electronic circuits on the nanometer scale."
+    },
+    {
+      "title": "Digital Catapult Welcomes New Cohort to Explore Industrial Quantum Applications",
+      "link": "https://thequantuminsider.com/2026/07/16/digital-catapult-quantum-technology-access-programme-cohort/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 16 Jul 2026 14:43:26 +0000",
+      "published_ts": 1784213006,
+      "summary": "Insider Brief Press release &#8211; Digital Catapult has today welcomed eleven leading organisations to the third cohort of its Quantum Technology Access Programme (QTAP), delivered in collaboration with the National Quantum Computing Centre’s (NQCC) SparQ programme. Designed to accelerate the pract…"
+    },
+    {
+      "title": "Former IBM Quantum Executive Denise Ruffner Joins Haiqu to Expand Quantum Software Adoption",
+      "link": "https://thequantuminsider.com/2026/07/16/denise-ruffner-joins-haiqu-to-expand-quantum-software-adoption/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 16 Jul 2026 13:59:25 +0000",
+      "published_ts": 1784210365,
+      "summary": "Insider Brief Press release &#8211; Haiqu, a leading developer of quantum application software, today announced that Denise Ruffner, a veteran quantum commercialization strategist, is joining the company as Vice President, Business Development and Commercial Operations Worldwide. Ruffner was a pione…"
+    },
     {
       "title": "Scientists achieve all-electrical control of single-molecule quantum states",
       "link": "https://phys.org/news/2026-07-scientists-electrical-molecule-quantum-states.html",
@@ -218,36 +258,12 @@
       "summary": "Imagine shining a flashlight across a dark room. You can predict exactly what the light will do: travel in a straight line from one point to another. That seems obvious because, in the world we see around us, light appears to follow a single, clear path."
     },
     {
-      "title": "QED-C Brings Quantum Industry to Capitol Hill for 2026 Technology Showcase",
-      "link": "https://thequantuminsider.com/2026/07/15/qed-c-brings-quantum-industry-to-capitol-hill-for-2026-technology-showcase/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 18:01:04 +0000",
-      "published_ts": 1784138464,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Following a landmark year for U.S. quantum policy and innovation, the Quantum Economic Development Consortium (QED-C®) brought together senior government officials, bipartisan&#160;members of Congress, federal agency leaders and leading quantum companies Tuesday f…"
-    },
-    {
       "title": "Physicists create first room-temperature quantum material",
       "link": "https://phys.org/news/2026-07-physicists-room-temperature-quantum-material.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 15 Jul 2026 11:00:35 EDT",
       "published_ts": 1784127635,
       "summary": "Quantum materials could transform technologies ranging from powerful computers and ultrasecure communications to advanced energy systems. But there has always been one major obstacle."
-    },
-    {
-      "title": "QuSecure Lists QuProtect R3 on AWS Marketplace for U.S. Intelligence Community",
-      "link": "https://thequantuminsider.com/2026/07/15/qusecure-quprotect-r3-listed-in-aws-icmp-for-the-us-federal-government/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 14:10:36 +0000",
-      "published_ts": 1784124636,
-      "summary": "Insider Brief Press release &#8211; QuSecure, Inc., a post-quantum cryptography (PQC)  and cryptographic-agility company helping organizations manage cryptographic risk and prepare for quantum-resilient security, today announced that it listed QuProtect R3™ in the AWS Marketplace for the U.S. Intell…"
-    },
-    {
-      "title": "Aqarios Lists on Düsseldorf Exchange, Says It Is Germany’s First Pure-Play Public Quantum Computing Company",
-      "link": "https://thequantuminsider.com/2026/07/15/aqarios-lists-on-dusseldorf-exchange-says-it-is-germanys-first-pure-play-public-quantum-computing-company/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 15 Jul 2026 14:02:19 +0000",
-      "published_ts": 1784124139,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Aqarios Quantum Technologies AG has begun trading on the Düsseldorf Stock Exchange following the completion of a special purpose acquisition company (SPAC) transaction, a move the company says makes it Germany&#8217;s first publicly listed pure-play quantum comput…"
     },
     {
       "title": "Faster quantum computers can learn from their own mistakes",
@@ -304,22 +320,6 @@
       "published": "Thu, 09 Jul 2026 17:40:06 EDT",
       "published_ts": 1783633206,
       "summary": "A team of researchers at the University of Ottawa and its Nexus for Quantum Technologies Institute, in collaboration with researchers from Federico II University in Italy, has developed a programmable quantum simulator that shapes a beam of light to replicate how particles move through complex mater…"
-    },
-    {
-      "title": "New physics-based machine-learning method speeds search for 2D quantum materials",
-      "link": "https://phys.org/news/2026-07-physics-based-machine-method-2d.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 09 Jul 2026 15:10:02 EDT",
-      "published_ts": 1783624202,
-      "summary": "Researchers at The University of Manchester have developed a new computational approach to help identify two-dimensional materials that may host unusual quantum behavior. The work, published in Science Advances, focuses on materials with \"flat bands,\" electronic states where electrons have very litt…"
-    },
-    {
-      "title": "Quantum material opens new path for studying unusual electronic behavior",
-      "link": "https://phys.org/news/2026-07-quantum-material-path-unusual-electronic.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 09 Jul 2026 14:10:03 EDT",
-      "published_ts": 1783620603,
-      "summary": "By combining approaches from two rapidly growing fields of quantum physics, researchers at Penn State and Saint Louis University have demonstrated that a novel specialized material can naturally enable a new way to study unusual physical phenomena known as non-Hermitian dynamics."
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
