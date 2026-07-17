@@ -1,6 +1,126 @@
 {
-  "generated_ts": 1784254342,
+  "generated_ts": 1784275312,
   "items": [
+    {
+      "title": "Transducer leakage error suppression using invariant-based shortcut",
+      "link": "https://arxiv.org/abs/2607.14175",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14175v1 Announce Type: new  Abstract: We present a method for suppressing transducer leakage errors in spin-superconducting hybrid quantum systems with the theory of optimal invariant-based shortcut. By mediated virtual photons as a transducer to exchange the energy between the spin qubit…"
+    },
+    {
+      "title": "Benchmarking quantum simulation at scale",
+      "link": "https://arxiv.org/abs/2607.14212",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14212v1 Announce Type: new  Abstract: The applications for which quantum computers will clearly outperform classical computers are still being identified and benchmarking such an advantage is challenging. We propose a scalable verification scheme for non-equilibrium quantum simulation bas…"
+    },
+    {
+      "title": "Analytic gradients for low-rank quantum optimal control",
+      "link": "https://arxiv.org/abs/2607.14217",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14217v1 Announce Type: new  Abstract: We introduce low-rank optimal control (LROC), a method for designing control pulses in open quantum systems whose full density-matrix simulation is prohibitively expensive. The method exploits a feature of quantum computing itself: because protocols a…"
+    },
+    {
+      "title": "Magic Without Entanglement: Exact Revivals and Their Fisher Information Origin",
+      "link": "https://arxiv.org/abs/2607.14222",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14222v1 Announce Type: new  Abstract: Magic and entanglement are independent quantum resources, yet their exact relation in many-body dynamics has remained elusive. We uncover two structural principles. First, at any stabilizer state, the curvature of the second stabilizer R\\'enyi entropy…"
+    },
+    {
+      "title": "Quantum many-body mixed phase space revealed by hybrid feedback control",
+      "link": "https://arxiv.org/abs/2607.14223",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14223v1 Announce Type: new  Abstract: Understanding how complex systems transition between order and chaos is a central challenge of nonequilibrium physics. While weak perturbations of classical integrable systems give rise to a mixed phase space of coexisting regular and chaotic trajecto…"
+    },
+    {
+      "title": "Principles of Quantum Optimization for Constrained Problems",
+      "link": "https://arxiv.org/abs/2607.14227",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14227v1 Announce Type: new  Abstract: Constrained combinatorial optimization underlies many industrial and technological decision problems. We develop a spectral theory that unifies many quantum optimization algorithms. We show that computational slowdown is driven by entanglement restruc…"
+    },
+    {
+      "title": "Nonplanar qubit with tunable gauge symmetry",
+      "link": "https://arxiv.org/abs/2607.14229",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14229v1 Announce Type: new  Abstract: Circuit quantum electrodynamics embeds Josephson junction qubits within superconducting cavities, and has emerged as a leading approach to quantum computing and quantum simulation. Despite the many permutations of circuit geometry that have been explo…"
+    },
+    {
+      "title": "A Compass on the Quantum State Sphere: The Hopf Ansatz for Arbitrary Pure-State Optimization",
+      "link": "https://arxiv.org/abs/2607.14231",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14231v1 Announce Type: new  Abstract: Optimizing arbitrary quantum state vectors is like navigating the unit sphere in Hilbert space: beyond target reachability, optimization asks for coordinates, local distance information, and measurable directions. We introduce the Hopf ansatz, a binar…"
+    },
+    {
+      "title": "Fock-state preparation based on amplitude amplification in cavity QED",
+      "link": "https://arxiv.org/abs/2607.14239",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14239v1 Announce Type: new  Abstract: In this work, we develop a coherent control technique for cavity QED based on amplitude amplification. We consider two physical platforms. In the first setting, we study a three-level quantum emitter coupled to a single mode of an optical cavity and i…"
+    },
+    {
+      "title": "Emulation of Entanglement Distribution Networks on a Quantum Computer",
+      "link": "https://arxiv.org/abs/2607.14260",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14260v1 Announce Type: new  Abstract: We investigate how quantum computers can be used to emulate quantum networks and study their performance under practical impairments. In particular, we evaluate how degraded entanglement and communication latency affect teleportation-based distributed…"
+    },
+    {
+      "title": "Worldline-Susceptibility Scheduling for Quantum Annealing Beyond Local-Adiabatic Evolution",
+      "link": "https://arxiv.org/abs/2607.14282",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14282v1 Announce Type: new  Abstract: The performance of quantum annealing depends critically on how the available annealing time is distributed along the evolution. Although the Roland Cerf local adiabatic schedule is theoretically optimal, it requires complete knowledge of the instantan…"
+    },
+    {
+      "title": "Real-Time Detection of Charge Jumps in Superconducting Qubits with a Convolutional Neural Network",
+      "link": "https://arxiv.org/abs/2607.14293",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14293v1 Announce Type: new  Abstract: Ionizing radiation from cosmic rays and gammas can induce discontinuous jumps in the environmental charge of superconducting qubits (charge jumps), causing correlated errors that challenge fault-tolerant quantum computing while simultaneously providin…"
+    },
+    {
+      "title": "Disorder-enhanced compressibility of Floquet random quantum circuits",
+      "link": "https://arxiv.org/abs/2607.14296",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14296v1 Announce Type: new  Abstract: Current quantum hardware is limited by noise and decoherence, which restrict the depth of unitary circuits that can be implemented with high fidelity. We investigate how the compressibility of time-evolution operators depends on the dynamical regime o…"
+    },
+    {
+      "title": "An end-to-end quantum algorithm for weakly nonlinear plasma physics with superquadratic speedup",
+      "link": "https://arxiv.org/abs/2607.14308",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14308v1 Announce Type: new  Abstract: Nonlinear kinetic plasma simulation is high-dimensional and classically demanding, while quantum algorithms face different bottlenecks: embedding nonlinear dynamics into a linear computation, loading dense field-interaction data, and efficiently extra…"
+    },
+    {
+      "title": "General theory of monitored Quantum Reservoir Computing",
+      "link": "https://arxiv.org/abs/2607.14311",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784260800,
+      "summary": "arXiv:2607.14311v1 Announce Type: new  Abstract: Quantum reservoir computing (QRC) provides a powerful framework for processing temporal data using quantum dynamics, but incorporating measurements into the reservoir remains a fundamental challenge and distinctive feature with respect to classical se…"
+    },
     {
       "title": "Scientists create stable 'boron graphene' and uncover quantum liquid crystal state",
       "link": "https://phys.org/news/2026-07-scientists-stable-boron-graphene-uncover.html",
@@ -128,126 +248,6 @@
       "published": "Thu, 16 Jul 2026 07:25:41 +0000",
       "published_ts": 1784186741,
       "summary": "Insider Brief PRESS RELEASE &#8212; Mind Success, a startup focused on predictive modeling for quantum technologies, has launched two software platforms aimed at accelerating quantum hardware development by helping researchers identify new materials and reduce environmental noise that affects qubit…"
-    },
-    {
-      "title": "On multipoles, their decomposition by time-reversal symmetry, and the electric toroidal monopole",
-      "link": "https://arxiv.org/abs/2607.13053",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13053v1 Announce Type: new  Abstract: The multipole decomposition of the single-site density matrix provides a symmetry-adapted representation of local electronic degrees of freedom. Conventional, so-called fixed-shell, formulations do not span the full local single-particle operator spac…"
-    },
-    {
-      "title": "The verifier side of speculative window decoding: a predictability bracket, a machine-checked blast-radius bound, and a decoder-agnostic recover loop",
-      "link": "https://arxiv.org/abs/2607.13062",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13062v1 Announce Type: new  Abstract: Speculative window decoders hide quantum error-correction decoder latency by guessing the cross-boundary decisions that link adjacent decoding windows, running downstream work on the guess, and verifying lazily. SWIPER and ARTERY each build one predic…"
-    },
-    {
-      "title": "Loophole-Robust Certification of Quantum Advantage",
-      "link": "https://arxiv.org/abs/2607.13090",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13090v1 Announce Type: new  Abstract: Claims of quantum advantage should remain robust even when classical strategies have access to side information correlated with the benchmark under evaluation, just as Bell certification must account for measurement dependence. We formalize such corre…"
-    },
-    {
-      "title": "Events as Spacetime Anchors: Local Irreversibility at the Interface of Quantum Field Theory and Relativity",
-      "link": "https://arxiv.org/abs/2607.13096",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13096v1 Announce Type: new  Abstract: General relativity (GR) is naturally organized around spacetime events and their causal order, whereas quantum field theory (QFT) is formulated in terms of states, operators, and unitary evolution, without an intrinsic criterion for when a quantum pro…"
-    },
-    {
-      "title": "Clifford-Only Quantum Reed-Solomon Codes and a Tornado Concatenation for Biased-Noise Cat Qubits",
-      "link": "https://arxiv.org/abs/2607.13105",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13105v1 Announce Type: new  Abstract: Dissipative cat qubits exponentially suppress one Pauli error channel with the mean photon number, leaving the conjugate bit-flip error as the dominant failure mode. This strong noise bias makes the full machinery of general quantum error correction u…"
-    },
-    {
-      "title": "Ultraviolet structure of entanglement harvesting from energy density and other quadratic couplings",
-      "link": "https://arxiv.org/abs/2607.13131",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13131v1 Announce Type: new  Abstract: We study entanglement harvesting with particle detectors coupled to the renormalized energy density of a massless scalar field. Our analysis identifies the distributional mechanism underlying the persistent ultraviolet divergences previously observed…"
-    },
-    {
-      "title": "Classical and quantum mechanics across representations: an operational reading of the Wigner Weyl correspondence",
-      "link": "https://arxiv.org/abs/2607.13135",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13135v1 Announce Type: new  Abstract: The physical content of a theory is not intrinsically tied to any single mathematical formalism. Both classical and quantum mechanics admit equivalent representations, notably in phase space and in Hilbert space, related by the Wigner-Weyl corresponde…"
-    },
-    {
-      "title": "Emulating XX catalysts for quantum annealing via self-consistent transverse fields",
-      "link": "https://arxiv.org/abs/2607.13150",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13150v1 Announce Type: new  Abstract: Fully-connected transverse interactions have been considered as catalysts for quantum annealing that could mitigate exponentially small gaps and circumvent first-order phase transitions, but their experimental implementation remains challenging. In th…"
-    },
-    {
-      "title": "Robust Nonperturbative Trapped-Ion Quantum Logic",
-      "link": "https://arxiv.org/abs/2607.13166",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13166v1 Announce Type: new  Abstract: Entangling gates of trapped ions are typically mediated by collective motional degrees of freedom. Weak coupling between qubit and motional degrees of freedom and the resulting harmonic dynamics give access to a broad range of gate schemes, but also i…"
-    },
-    {
-      "title": "Two-Tower Quantum Matrix Chain Multiplication: Trading Qubits for Depth",
-      "link": "https://arxiv.org/abs/2607.13191",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13191v1 Announce Type: new  Abstract: Matrix chain multiplication -- computing $\\mathcal{W} = M^{(0)}\\cdots M^{(K-1)}$ where $M^{(k)} \\in \\mathbb{R}^{P_k \\times P_{k+1}}$ -- arises in scientific computing, machine learning, and graph analysis. Despite the importance of this problem, for c…"
-    },
-    {
-      "title": "An Information-Theoretic Characterization of Optimal Value-Readout in Response-Register Quantum Oracles",
-      "link": "https://arxiv.org/abs/2607.13198",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13198v1 Announce Type: new  Abstract: Response-register quantum oracles admit two complementary operational interpretations: value readout and phase kickback. Although their computational equivalence is well understood, the quantitative relation between these two operational interpretatio…"
-    },
-    {
-      "title": "A Fibre-Integrated SPDC Heralded Single-Photon Source Using Zn-Indiffused PPLN Ridge Waveguides at Telecom Wavelengths",
-      "link": "https://arxiv.org/abs/2607.13215",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13215v1 Announce Type: new  Abstract: We report a fibre-integrated heralded single-photon source based on a commercial Zn-indiffused MgO:PPLN ridge waveguide operated in Type-0 degenerate spontaneous parametric down-conversion (SPDC). The device emits a broadband spectrum spanning approxi…"
-    },
-    {
-      "title": "Comparing the three W-like states with the W state",
-      "link": "https://arxiv.org/abs/2607.13223",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13223v1 Announce Type: new  Abstract: In [Phy. Rev. Lett., 98, 260501 (2007)] and previous papers, the W-like states were used in many quantum communication schemes, distillation, teleportation and superdense coding. So far, no one has compared the W-like states with the W state. We inves…"
-    },
-    {
-      "title": "Let the Qudit Do the Jacobi: A Structured Quantum Algorithm for Spectral Decomposition",
-      "link": "https://arxiv.org/abs/2607.13244",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13244v1 Announce Type: new  Abstract: Jacobi diagonalization is a long-established numerical algorithm for the spectral decomposition of Hermitian and, more generally, normal matrices. In this work, we develop a qudit-native quantum realization of the Jacobi diagonalization algorithm for…"
-    },
-    {
-      "title": "Quantum Motion from Local Transition Susceptibility",
-      "link": "https://arxiv.org/abs/2607.13267",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784174400,
-      "summary": "arXiv:2607.13267v1 Announce Type: new  Abstract: We characterize quantum motion based on the susceptibility of a quantum state to weak local state conversion. The inverse susceptibility can be interpreted as a passage speed characterizing local motion independently of probability transport. For indi…"
     },
     {
       "title": "What does it mean to be 'quantum?' A physicist explains the basics behind Einstein's spooky actions at a distance",
