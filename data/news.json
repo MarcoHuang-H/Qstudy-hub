@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1784275312,
+  "generated_ts": 1784294292,
   "items": [
+    {
+      "title": "Tennessee Launches K-12 Quantum Education Program Through TN QuantumWorks",
+      "link": "https://thequantuminsider.com/2026/07/17/tn-quantumworks-k12-quantum-education-program/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 17 Jul 2026 12:31:06 +0000",
+      "published_ts": 1784291466,
+      "summary": "Insider Brief Press release &#8211; As quantum technology reshapes industries ranging from cybersecurity and advanced manufacturing to healthcare, logistics, finance, energy and artificial intelligence, Tennessee is taking a bold step to prepare its future workforce. Today, the Chattanooga Quantum C…"
+    },
+    {
+      "title": "Braided, Exotic Particles Could Build Reliable, Universal Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/07/17/braided-exotic-particles-could-build-reliable-universal-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 17 Jul 2026 11:20:17 +0000",
+      "published_ts": 1784287217,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A truly useful quantum computer must be able to run any algorithm at all, with the same versatility an ordinary laptop offers. Physicists have now shown a new way to give a quantum computer exactly that flexibility, harnessing the capabilities of exotic quantum pa…"
+    },
+    {
+      "title": "pQCee Raises US$3.9 Million in Latest Seed Funding Round",
+      "link": "https://thequantuminsider.com/2026/07/17/pqcee-raises-us3-9-million-in-latest-seed-funding-round/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 17 Jul 2026 07:34:11 +0000",
+      "published_ts": 1784273651,
+      "summary": "Insider Brief pQCee Pte Ltd (pQCee), a leading provider of quantum‑safe cybersecurity technologies, today announced that it has raised US$3.9 million in its latest Seed funding round. The round was co‑led by SGInnovate and Lotus One Investment, with participation from In Group Holdings, Wavemaker Pa…"
+    },
     {
       "title": "Transducer leakage error suppression using invariant-based shortcut",
       "link": "https://arxiv.org/abs/2607.14175",
@@ -224,30 +248,6 @@
       "published": "Thu, 16 Jul 2026 08:15:37 +0000",
       "published_ts": 1784189737,
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantum technology startup Arq has raised a $1.4 million pre-seed round led by Ground State Ventures, joined by Big Sur Ventures, to accelerate the development of the quantum internet. Quantum computing is advancing rapidly, promising a new age of supercomputers t…"
-    },
-    {
-      "title": "Researchers Create Room-Temperature Quantum Material That Filters Light by Its Quantum Statistics",
-      "link": "https://thequantuminsider.com/2026/07/16/researchers-create-room-temperature-quantum-material-that-filters-light-by-its-quantum-statistics/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 16 Jul 2026 08:12:08 +0000",
-      "published_ts": 1784189528,
-      "summary": "Insider Brief A Louisiana State University-led team of researchers have demonstrated what they describe as a new class of room-temperature quantum materials that can distinguish between different types of quantum light, a capability that could eventually aid the development of photonic quantum compu…"
-    },
-    {
-      "title": "What Does it Mean to be ‘Quantum’? A Physicist Explains The Basics Behind Einstein’s Spooky Actions at a Distance",
-      "link": "https://thequantuminsider.com/2026/07/16/what-does-it-mean-to-be-quantum-a-physicist-explains-the-basics-behind-einsteins-spooky-actions-at-a-distance/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 16 Jul 2026 07:40:30 +0000",
-      "published_ts": 1784187630,
-      "summary": "By Aldo Romero, Professor of Physics and Astronomy, West Virginia University The Conversation Imagine shining a flashlight across a dark room. You can predict exactly what the light will do: travel in a straight line from one point to another. That seems obvious, because in the world we see around u…"
-    },
-    {
-      "title": "Mind Success Unveils Quantum Materials Discovery Platform, Digital Twin Software for Hardware Development",
-      "link": "https://thequantuminsider.com/2026/07/16/mind-success-unveils-quantum-materials-discovery-platform-digital-twin-software-for-hardware-development/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 16 Jul 2026 07:25:41 +0000",
-      "published_ts": 1784186741,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Mind Success, a startup focused on predictive modeling for quantum technologies, has launched two software platforms aimed at accelerating quantum hardware development by helping researchers identify new materials and reduce environmental noise that affects qubit…"
     },
     {
       "title": "What does it mean to be 'quantum?' A physicist explains the basics behind Einstein's spooky actions at a distance",
