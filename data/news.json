@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1784294292,
+  "generated_ts": 1784314817,
   "items": [
+    {
+      "title": "How Gravity from Entropy theory connects the second law of thermodynamics with the emergence of cosmic structure",
+      "link": "https://phys.org/news/2026-07-gravity-entropy-theory-law-thermodynamics.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 17 Jul 2026 15:00:01 EDT",
+      "published_ts": 1784314801,
+      "summary": "A new study by Queen Mary University of London mathematician Professor Ginestra Bianconi proposes a new perspective on one of the deepest questions in modern physics: How can the universe become increasingly structured and complex while still obeying the second law of thermodynamics?"
+    },
+    {
+      "title": "QTREX Quantum Appoints Dr. Shlomit Chappel-Ram as Independent Director",
+      "link": "https://thequantuminsider.com/2026/07/17/qtrex-quantum-appoints-shlomit-chappel-ram-independent-director/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 17 Jul 2026 14:00:48 +0000",
+      "published_ts": 1784296848,
+      "summary": "Insider Brief Press release &#8211; QTREX Quantum Ltd. (Nasdaq: QTEX) (&#8220;QTREX&#8221; or the &#8220;Company&#8221;), a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure, today announced that on July 14, 2026, its Board of Directors (th…"
+    },
+    {
+      "title": "A scheme to verify gates of a quantum computer without examining devices",
+      "link": "https://phys.org/news/2026-07-scheme-gates-quantum-devices.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 17 Jul 2026 09:20:11 EDT",
+      "published_ts": 1784294411,
+      "summary": "Quantum computers, systems that process information using the principles of quantum mechanics, could solve some problems that cannot be tackled by the classical computers currently used worldwide. Despite their potential, verifying that these computers are working correctly and can reliably perform…"
+    },
     {
       "title": "Tennessee Launches K-12 Quantum Education Program Through TN QuantumWorks",
       "link": "https://thequantuminsider.com/2026/07/17/tn-quantumworks-k12-quantum-education-program/",
@@ -242,14 +266,6 @@
       "summary": "Insider Brief Press release &#8211; ESA-ESRIN, the European Space Agency’s Centre for Earth Observation, has welcomed its first quantum computer. The computer’s quantum processing capabilities will be merged with classical high-performance computing capabilities to research the potential advantages…"
     },
     {
-      "title": "Arq Raises $1.4 Million Pre-Seed Round to Lay The Foundations For The Quantum Internet",
-      "link": "https://thequantuminsider.com/2026/07/16/arq-raises-1-4-million-pre-seed-round-to-lay-the-foundations-for-the-quantum-internet/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 16 Jul 2026 08:15:37 +0000",
-      "published_ts": 1784189737,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum technology startup Arq has raised a $1.4 million pre-seed round led by Ground State Ventures, joined by Big Sur Ventures, to accelerate the development of the quantum internet. Quantum computing is advancing rapidly, promising a new age of supercomputers t…"
-    },
-    {
       "title": "What does it mean to be 'quantum?' A physicist explains the basics behind Einstein's spooky actions at a distance",
       "link": "https://phys.org/news/2026-07-quantum-physicist-basics-einstein-spooky.html",
       "source": "Phys.org — Quantum Physics",
@@ -304,22 +320,6 @@
       "published": "Mon, 13 Jul 2026 05:00:01 EDT",
       "published_ts": 1783933201,
       "summary": "Recent improvements in our understanding of how the principles of thermodynamics apply in the quantum realm could give a boost to quantum technology, and a clearer picture of quantum thermodynamics could in turn enhance our understanding of classical thermodynamics. Now, Aalto University researchers…"
-    },
-    {
-      "title": "New test certifies quantum measurements that simpler methods cannot mimic",
-      "link": "https://phys.org/news/2026-07-certifies-quantum-simpler-methods-mimic.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 10 Jul 2026 13:00:01 EDT",
-      "published_ts": 1783702801,
-      "summary": "Proving that one quantum measurement is more powerful than another has long been difficult. Physicists from Heinrich Heine University Düsseldorf, Lund University and the University of Innsbruck have now developed and demonstrated a simple technique to certify that a certain class of measurements has…"
-    },
-    {
-      "title": "Programmable light simulates quantum matter across 300 processes without bigger circuits",
-      "link": "https://phys.org/news/2026-07-programmable-simulates-quantum-bigger-circuits.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 09 Jul 2026 17:40:06 EDT",
-      "published_ts": 1783633206,
-      "summary": "A team of researchers at the University of Ottawa and its Nexus for Quantum Technologies Institute, in collaboration with researchers from Federico II University in Italy, has developed a programmable quantum simulator that shapes a beam of light to replicate how particles move through complex mater…"
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
