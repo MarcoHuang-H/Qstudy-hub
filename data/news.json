@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1784379857,
+  "generated_ts": 1784400996,
   "items": [
+    {
+      "title": "How quantum circuits based on neutral atoms could find and fix errors",
+      "link": "https://phys.org/news/2026-07-quantum-circuits-based-neutral-atoms.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 18 Jul 2026 09:20:01 EDT",
+      "published_ts": 1784380801,
+      "summary": "Quantum computers, devices that process information by leveraging the laws of quantum mechanics, have been found to outperform classical computers in some advanced tasks. Instead of storing information in the form of classical binary bits (i.e., 0 or 1), quantum computers rely on quantum bits (i.e.,…"
+    },
     {
       "title": "AI unlocks QLED recipe that doubles efficiency and boosts lifetime 40-fold",
       "link": "https://phys.org/news/2026-07-ai-qled-recipe-efficiency-boosts.html",
@@ -192,14 +200,6 @@
       "published": "Tue, 14 Jul 2026 11:40:11 EDT",
       "published_ts": 1784043611,
       "summary": "Researchers at RPTU University Kaiserslautern-Landau have achieved a key experimental breakthrough: For the first time, the spontaneous macroscopic coherence of magnons—the quantized excitations of magnetic materials—has been directly observed. These experiments confirm a central prediction of the t…"
-    },
-    {
-      "title": "Physicists confirm 20-year-old theory that could boost quantum technology",
-      "link": "https://phys.org/news/2026-07-physicists-year-theory-boost-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 14 Jul 2026 10:40:04 EDT",
-      "published_ts": 1784040004,
-      "summary": "Future quantum computing will require correlations between distant modules—a feature known as distributed entanglement. Traditionally, such entanglement has relied on active control and repeated measurements. Now, physicists at the Institute of Science and Technology Austria (ISTA) have realized a f…"
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
