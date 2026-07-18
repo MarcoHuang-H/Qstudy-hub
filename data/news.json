@@ -1,5 +1,5 @@
 {
-  "generated_ts": 1784340092,
+  "generated_ts": 1784360494,
   "items": [
     {
       "title": "How Gravity from Entropy theory connects the second law of thermodynamics with the emergence of cosmic structure",
@@ -16,6 +16,14 @@
       "published": "Fri, 17 Jul 2026 14:00:48 +0000",
       "published_ts": 1784296848,
       "summary": "Insider Brief Press release &#8211; QTREX Quantum Ltd. (Nasdaq: QTEX) (&#8220;QTREX&#8221; or the &#8220;Company&#8221;), a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure, today announced that on July 14, 2026, its Board of Directors (th…"
+    },
+    {
+      "title": "Top 25 Institutions Leading Quantum Computing Research in 2026",
+      "link": "https://thequantuminsider.com/2026/07/17/top-quantum-computing-research-institutions-2026/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 17 Jul 2026 13:50:29 +0000",
+      "published_ts": 1784296229,
+      "summary": "Insider Brief Somewhere between a lab in Innsbruck and a national facility in Tennessee, the next generation of fault-tolerant quantum hardware is being built. It does not look like the quantum computing of conference keynotes. It looks like ion traps, cryogenic chambers, optical tweezers, and resea…"
     },
     {
       "title": "A scheme to verify gates of a quantum computer without examining devices",
@@ -48,126 +56,6 @@
       "published": "Fri, 17 Jul 2026 07:34:11 +0000",
       "published_ts": 1784273651,
       "summary": "Insider Brief pQCee Pte Ltd (pQCee), a leading provider of quantum‑safe cybersecurity technologies, today announced that it has raised US$3.9 million in its latest Seed funding round. The round was co‑led by SGInnovate and Lotus One Investment, with participation from In Group Holdings, Wavemaker Pa…"
-    },
-    {
-      "title": "Transducer leakage error suppression using invariant-based shortcut",
-      "link": "https://arxiv.org/abs/2607.14175",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14175v1 Announce Type: new  Abstract: We present a method for suppressing transducer leakage errors in spin-superconducting hybrid quantum systems with the theory of optimal invariant-based shortcut. By mediated virtual photons as a transducer to exchange the energy between the spin qubit…"
-    },
-    {
-      "title": "Benchmarking quantum simulation at scale",
-      "link": "https://arxiv.org/abs/2607.14212",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14212v1 Announce Type: new  Abstract: The applications for which quantum computers will clearly outperform classical computers are still being identified and benchmarking such an advantage is challenging. We propose a scalable verification scheme for non-equilibrium quantum simulation bas…"
-    },
-    {
-      "title": "Analytic gradients for low-rank quantum optimal control",
-      "link": "https://arxiv.org/abs/2607.14217",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14217v1 Announce Type: new  Abstract: We introduce low-rank optimal control (LROC), a method for designing control pulses in open quantum systems whose full density-matrix simulation is prohibitively expensive. The method exploits a feature of quantum computing itself: because protocols a…"
-    },
-    {
-      "title": "Magic Without Entanglement: Exact Revivals and Their Fisher Information Origin",
-      "link": "https://arxiv.org/abs/2607.14222",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14222v1 Announce Type: new  Abstract: Magic and entanglement are independent quantum resources, yet their exact relation in many-body dynamics has remained elusive. We uncover two structural principles. First, at any stabilizer state, the curvature of the second stabilizer R\\'enyi entropy…"
-    },
-    {
-      "title": "Quantum many-body mixed phase space revealed by hybrid feedback control",
-      "link": "https://arxiv.org/abs/2607.14223",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14223v1 Announce Type: new  Abstract: Understanding how complex systems transition between order and chaos is a central challenge of nonequilibrium physics. While weak perturbations of classical integrable systems give rise to a mixed phase space of coexisting regular and chaotic trajecto…"
-    },
-    {
-      "title": "Principles of Quantum Optimization for Constrained Problems",
-      "link": "https://arxiv.org/abs/2607.14227",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14227v1 Announce Type: new  Abstract: Constrained combinatorial optimization underlies many industrial and technological decision problems. We develop a spectral theory that unifies many quantum optimization algorithms. We show that computational slowdown is driven by entanglement restruc…"
-    },
-    {
-      "title": "Nonplanar qubit with tunable gauge symmetry",
-      "link": "https://arxiv.org/abs/2607.14229",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14229v1 Announce Type: new  Abstract: Circuit quantum electrodynamics embeds Josephson junction qubits within superconducting cavities, and has emerged as a leading approach to quantum computing and quantum simulation. Despite the many permutations of circuit geometry that have been explo…"
-    },
-    {
-      "title": "A Compass on the Quantum State Sphere: The Hopf Ansatz for Arbitrary Pure-State Optimization",
-      "link": "https://arxiv.org/abs/2607.14231",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14231v1 Announce Type: new  Abstract: Optimizing arbitrary quantum state vectors is like navigating the unit sphere in Hilbert space: beyond target reachability, optimization asks for coordinates, local distance information, and measurable directions. We introduce the Hopf ansatz, a binar…"
-    },
-    {
-      "title": "Fock-state preparation based on amplitude amplification in cavity QED",
-      "link": "https://arxiv.org/abs/2607.14239",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14239v1 Announce Type: new  Abstract: In this work, we develop a coherent control technique for cavity QED based on amplitude amplification. We consider two physical platforms. In the first setting, we study a three-level quantum emitter coupled to a single mode of an optical cavity and i…"
-    },
-    {
-      "title": "Emulation of Entanglement Distribution Networks on a Quantum Computer",
-      "link": "https://arxiv.org/abs/2607.14260",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14260v1 Announce Type: new  Abstract: We investigate how quantum computers can be used to emulate quantum networks and study their performance under practical impairments. In particular, we evaluate how degraded entanglement and communication latency affect teleportation-based distributed…"
-    },
-    {
-      "title": "Worldline-Susceptibility Scheduling for Quantum Annealing Beyond Local-Adiabatic Evolution",
-      "link": "https://arxiv.org/abs/2607.14282",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14282v1 Announce Type: new  Abstract: The performance of quantum annealing depends critically on how the available annealing time is distributed along the evolution. Although the Roland Cerf local adiabatic schedule is theoretically optimal, it requires complete knowledge of the instantan…"
-    },
-    {
-      "title": "Real-Time Detection of Charge Jumps in Superconducting Qubits with a Convolutional Neural Network",
-      "link": "https://arxiv.org/abs/2607.14293",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14293v1 Announce Type: new  Abstract: Ionizing radiation from cosmic rays and gammas can induce discontinuous jumps in the environmental charge of superconducting qubits (charge jumps), causing correlated errors that challenge fault-tolerant quantum computing while simultaneously providin…"
-    },
-    {
-      "title": "Disorder-enhanced compressibility of Floquet random quantum circuits",
-      "link": "https://arxiv.org/abs/2607.14296",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14296v1 Announce Type: new  Abstract: Current quantum hardware is limited by noise and decoherence, which restrict the depth of unitary circuits that can be implemented with high fidelity. We investigate how the compressibility of time-evolution operators depends on the dynamical regime o…"
-    },
-    {
-      "title": "An end-to-end quantum algorithm for weakly nonlinear plasma physics with superquadratic speedup",
-      "link": "https://arxiv.org/abs/2607.14308",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14308v1 Announce Type: new  Abstract: Nonlinear kinetic plasma simulation is high-dimensional and classically demanding, while quantum algorithms face different bottlenecks: embedding nonlinear dynamics into a linear computation, loading dense field-interaction data, and efficiently extra…"
-    },
-    {
-      "title": "General theory of monitored Quantum Reservoir Computing",
-      "link": "https://arxiv.org/abs/2607.14311",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784260800,
-      "summary": "arXiv:2607.14311v1 Announce Type: new  Abstract: Quantum reservoir computing (QRC) provides a powerful framework for processing temporal data using quantum dynamics, but incorporating measurements into the reservoir remains a fundamental challenge and distinctive feature with respect to classical se…"
     },
     {
       "title": "Scientists create stable 'boron graphene' and uncover quantum liquid crystal state",
@@ -256,14 +144,6 @@
       "published": "Thu, 16 Jul 2026 08:46:08 +0000",
       "published_ts": 1784191568,
       "summary": "Insider Brief Press release &#8211; PsiQuantum today announced the appointments of Rob Soderbery as Executive Vice President and Sriram Sitaraman as Chief Information Officer, adding two veteran technology leaders to the executive team as the company continues scaling its engineering, operational, a…"
-    },
-    {
-      "title": "ESA Brings Quantum Computing System to Earth Observation Research Centre",
-      "link": "https://thequantuminsider.com/2026/07/16/esas-first-quantum-computer-will-shift-computing-frontiers-in-space/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 16 Jul 2026 08:31:12 +0000",
-      "published_ts": 1784190672,
-      "summary": "Insider Brief Press release &#8211; ESA-ESRIN, the European Space Agency’s Centre for Earth Observation, has welcomed its first quantum computer. The computer’s quantum processing capabilities will be merged with classical high-performance computing capabilities to research the potential advantages…"
     },
     {
       "title": "What does it mean to be 'quantum?' A physicist explains the basics behind Einstein's spooky actions at a distance",
