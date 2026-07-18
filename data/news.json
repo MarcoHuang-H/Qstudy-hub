@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1784360494,
+  "generated_ts": 1784379857,
   "items": [
+    {
+      "title": "AI unlocks QLED recipe that doubles efficiency and boosts lifetime 40-fold",
+      "link": "https://phys.org/news/2026-07-ai-qled-recipe-efficiency-boosts.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 18 Jul 2026 08:00:09 EDT",
+      "published_ts": 1784376009,
+      "summary": "A technology has been developed that allows artificial intelligence to inversely determine the process conditions for quantum-dot light-emitting diode (QLED) devices—conditions that previously required extensive trial and error to identify."
+    },
+    {
+      "title": "Guest Post: Patentability of Quantum Computing Inventions",
+      "link": "https://thequantuminsider.com/2026/07/18/guest-post-patentability-of-quantum-computing-inventions/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 18 Jul 2026 10:57:47 +0000",
+      "published_ts": 1784372267,
+      "summary": "Guest Post by Sinan Utku, Bilkent University Law School (Ankara); J.D. (Columbia University Law School) and Ph.D. (Yale University, physics) The field of quantum computing is poised to advance dramatically in the near future.&#160; If expected advances actually occur, many problems that classical co…"
+    },
     {
       "title": "How Gravity from Entropy theory connects the second law of thermodynamics with the emergence of cosmic structure",
       "link": "https://phys.org/news/2026-07-gravity-entropy-theory-law-thermodynamics.html",
@@ -16,14 +32,6 @@
       "published": "Fri, 17 Jul 2026 14:00:48 +0000",
       "published_ts": 1784296848,
       "summary": "Insider Brief Press release &#8211; QTREX Quantum Ltd. (Nasdaq: QTEX) (&#8220;QTREX&#8221; or the &#8220;Company&#8221;), a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure, today announced that on July 14, 2026, its Board of Directors (th…"
-    },
-    {
-      "title": "Top 25 Institutions Leading Quantum Computing Research in 2026",
-      "link": "https://thequantuminsider.com/2026/07/17/top-quantum-computing-research-institutions-2026/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 17 Jul 2026 13:50:29 +0000",
-      "published_ts": 1784296229,
-      "summary": "Insider Brief Somewhere between a lab in Innsbruck and a national facility in Tennessee, the next generation of fault-tolerant quantum hardware is being built. It does not look like the quantum computing of conference keynotes. It looks like ion traps, cryogenic chambers, optical tweezers, and resea…"
     },
     {
       "title": "A scheme to verify gates of a quantum computer without examining devices",
@@ -192,14 +200,6 @@
       "published": "Tue, 14 Jul 2026 10:40:04 EDT",
       "published_ts": 1784040004,
       "summary": "Future quantum computing will require correlations between distant modules—a feature known as distributed entanglement. Traditionally, such entanglement has relied on active control and repeated measurements. Now, physicists at the Institute of Science and Technology Austria (ISTA) have realized a f…"
-    },
-    {
-      "title": "World's first superconducting quantum heat engine offers path to larger quantum computers",
-      "link": "https://phys.org/news/2026-07-world-superconducting-quantum-path-larger.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 13 Jul 2026 05:00:01 EDT",
-      "published_ts": 1783933201,
-      "summary": "Recent improvements in our understanding of how the principles of thermodynamics apply in the quantum realm could give a boost to quantum technology, and a clearer picture of quantum thermodynamics could in turn enhance our understanding of classical thermodynamics. Now, Aalto University researchers…"
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
