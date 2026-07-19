@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1784466396,
+  "generated_ts": 1784487551,
   "items": [
+    {
+      "title": "Quantum entanglement without transport: Leaky qubits offer route around noisy channels",
+      "link": "https://phys.org/news/2026-07-quantum-entanglement-leaky-qubits-route.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 19 Jul 2026 14:20:01 EDT",
+      "published_ts": 1784485201,
+      "summary": "The inevitable leakage of energy and information from a quantum system into its surrounding environment is the enemy of quantum technology. Now, researchers have demonstrated that it can be exploited to generate entanglement—the \"resource\" that quantum technologies use to perform tasks inaccessible…"
+    },
     {
       "title": "How quantum circuits based on neutral atoms could find and fix errors",
       "link": "https://phys.org/news/2026-07-quantum-circuits-based-neutral-atoms.html",
@@ -192,14 +200,6 @@
       "published": "Tue, 14 Jul 2026 15:00:07 EDT",
       "published_ts": 1784055607,
       "summary": "Researchers at Humboldt-Universität zu Berlin have developed a new method for trapping and controlling atoms near an ultrathin glass fiber. This has significantly improved the atoms' ability to store quantum information—an important step forward for future quantum technologies."
-    },
-    {
-      "title": "Direct observation of spontaneous magnon coherence at room temperature",
-      "link": "https://phys.org/news/2026-07-spontaneous-magnon-coherence-room-temperature.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 14 Jul 2026 11:40:11 EDT",
-      "published_ts": 1784043611,
-      "summary": "Researchers at RPTU University Kaiserslautern-Landau have achieved a key experimental breakthrough: For the first time, the spontaneous macroscopic coherence of magnons—the quantized excitations of magnetic materials—has been directly observed. These experiments confirm a central prediction of the t…"
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
