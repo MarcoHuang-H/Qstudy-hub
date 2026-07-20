@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1784555776,
+  "generated_ts": 1784576334,
   "items": [
+    {
+      "title": "Interlune Develops Cryogenic Technology to Expand Helium-3 Supply for Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/07/20/interlune-produces-pure-helium-3-from-domestic-helium-using-novel-cryogenic-technology/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 20 Jul 2026 17:12:54 +0000",
+      "published_ts": 1784567574,
+      "summary": "Insider Brief Press release &#8211; Interlune, a space infrastructure and resources company, today announced that its Cold Capture technology has demonstrated production of 99% pure helium-3 from Grade A helium. When deployed broadly, the novel technology could triple the current U.S. supply of this…"
+    },
+    {
+      "title": "Maybell Quantum to Establish New Mexico Operations as part of New Mexico’s $450 Million Quantum Initiative",
+      "link": "https://thequantuminsider.com/2026/07/20/maybell-quantum-new-mexico-quantum-lab/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 20 Jul 2026 14:18:00 +0000",
+      "published_ts": 1784557080,
+      "summary": "Insider Brief Press release &#8211; Maybell Quantum today announced it will establish operations at the Roadrunner Quantum Lab Powered by the State of New Mexico. Maybell will expand into the state with new local hires and a fleet of advanced cryogenic systems capable of reaching temperatures near A…"
+    },
     {
       "title": "IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics",
       "link": "https://thequantuminsider.com/2026/07/20/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/",
@@ -56,6 +72,14 @@
       "published": "Mon, 20 Jul 2026 07:50:32 +0000",
       "published_ts": 1784533832,
       "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers (Nasdaq: IQMX), a global leader in full-stack superconducting quantum computers, today published the results of a research collaboration with Deutsche Bahn, Europe’s largest rail operator, exploring how quantum computing can improve railway s…"
+    },
+    {
+      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Mon, 20 Jul 2026 03:40:09 EDT",
+      "published_ts": 1784533209,
+      "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their resul…"
     },
     {
       "title": "Shielded RL for Route-Charged Parity-Term Ordering in QEDA Phase Components",
@@ -218,28 +242,12 @@
       "summary": "A new study by Queen Mary University of London mathematician Professor Ginestra Bianconi proposes a new perspective on one of the deepest questions in modern physics: How can the universe become increasingly structured and complex while still obeying the second law of thermodynamics?"
     },
     {
-      "title": "QTREX Quantum Appoints Dr. Shlomit Chappel-Ram as Independent Director",
-      "link": "https://thequantuminsider.com/2026/07/17/qtrex-quantum-appoints-shlomit-chappel-ram-independent-director/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 17 Jul 2026 14:00:48 +0000",
-      "published_ts": 1784296848,
-      "summary": "Insider Brief Press release &#8211; QTREX Quantum Ltd. (Nasdaq: QTEX) (&#8220;QTREX&#8221; or the &#8220;Company&#8221;), a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure, today announced that on July 14, 2026, its Board of Directors (th…"
-    },
-    {
       "title": "A scheme to verify gates of a quantum computer without examining devices",
       "link": "https://phys.org/news/2026-07-scheme-gates-quantum-devices.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 17 Jul 2026 09:20:11 EDT",
       "published_ts": 1784294411,
       "summary": "Quantum computers, systems that process information using the principles of quantum mechanics, could solve some problems that cannot be tackled by the classical computers currently used worldwide. Despite their potential, verifying that these computers are working correctly and can reliably perform…"
-    },
-    {
-      "title": "Tennessee Launches K-12 Quantum Education Program Through TN QuantumWorks",
-      "link": "https://thequantuminsider.com/2026/07/17/tn-quantumworks-k12-quantum-education-program/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 17 Jul 2026 12:31:06 +0000",
-      "published_ts": 1784291466,
-      "summary": "Insider Brief Press release &#8211; As quantum technology reshapes industries ranging from cybersecurity and advanced manufacturing to healthcare, logistics, finance, energy and artificial intelligence, Tennessee is taking a bold step to prepare its future workforce. Today, the Chattanooga Quantum C…"
     },
     {
       "title": "Scientists create stable 'boron graphene' and uncover quantum liquid crystal state",
@@ -496,14 +504,6 @@
       "published": "Sat, 09 May 2026 19:19:54 EDT",
       "published_ts": 1778368794,
       "summary": "Scientists have taken a major step toward ultra-secure quantum communication by demonstrating a remarkably stable quantum encryption system that worked across more than 120 kilometers of optical fiber. Using tiny semiconductor quantum dots that emit single particles of light on demand, the team achi…"
-    },
-    {
-      "title": "Scientists just created exotic new forms of matter that shouldn’t exist",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Mon, 04 May 2026 22:48:12 EDT",
-      "published_ts": 1777949292,
-      "summary": "A new quantum physics study reveals that simply changing a magnetic field over time can unlock entirely new forms of matter that don’t exist under normal conditions. By carefully “driving” materials with timed magnetic shifts, researchers created exotic quantum states that could be far more stable a…"
     },
     {
       "title": "A materials scientist’s playground",
