@@ -1,6 +1,142 @@
 {
-  "generated_ts": 1784514813,
+  "generated_ts": 1784537415,
   "items": [
+    {
+      "title": "DOE Advances Domestic Silicon and Germanium Isotope Supply Chains For Quantum Information Science",
+      "link": "https://thequantuminsider.com/2026/07/20/doe-advances-domestic-silicon-and-germanium-isotope-supply-chains-for-quantum-information-science/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 20 Jul 2026 07:59:19 +0000",
+      "published_ts": 1784534359,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of Energy’s (DOE) Office of Isotope R&#38;D and Production (IRP), within the Office of Science, today announced a major, multi-laboratory breakthrough in domestic stable isotope enrichment and production capabilities. Through a collaborative ef…"
+    },
+    {
+      "title": "IQM and Deutsche Bahn Demonstrate Quantum Algorithm For Railway Scheduling on Real Operational Data",
+      "link": "https://thequantuminsider.com/2026/07/20/iqm-and-deutsche-bahn-demonstrate-quantum-algorithm-for-railway-scheduling-on-real-operational-data/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 20 Jul 2026 07:50:32 +0000",
+      "published_ts": 1784533832,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers (Nasdaq: IQMX), a global leader in full-stack superconducting quantum computers, today published the results of a research collaboration with Deutsche Bahn, Europe’s largest rail operator, exploring how quantum computing can improve railway s…"
+    },
+    {
+      "title": "Shielded RL for Route-Charged Parity-Term Ordering in QEDA Phase Components",
+      "link": "https://arxiv.org/abs/2607.15307",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15307v1 Announce Type: new  Abstract: Commuting phase terms in quantum electronic design automation (QEDA) placement circuits are logically invariant under reordering, yet their routed cost varies substantially after hardware mapping, since term order affects CNOT cancellation, interactio…"
+    },
+    {
+      "title": "Structure-Agnostic Unitary Learning from Quantum Observable Dynamics with Application to Hamiltonian Identification",
+      "link": "https://arxiv.org/abs/2607.15316",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15316v1 Announce Type: new  Abstract: We present a variational algorithm for learning an unknown quantum unitary from time-series observable measurements, with no structural assumption about the target. The core separation: a hardware-efficient parametrised circuit learns the evolution op…"
+    },
+    {
+      "title": "Collective Enhancement of Nuclear Excitation for a Nuclear Quantum Battery",
+      "link": "https://arxiv.org/abs/2607.15319",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15319v1 Announce Type: new  Abstract: Current implementations of quantum batteries are constrained by limited energy density and short retention times associated with the electronic or molecular excitations. Here we propose a nuclear quantum battery based on collective excitation of the $…"
+    },
+    {
+      "title": "Quantum error-correcting codes from aperiodic monotiles: the Hat and the Spectre",
+      "link": "https://arxiv.org/abs/2607.15326",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15326v1 Announce Type: new  Abstract: Li and Boyle showed that the Penrose tiling defines a quantum error-correcting code: superpositions of tilings over isometry orbits protect quantum information against erasure of any bounded region. We extend the construction to the aperiodic monotile…"
+    },
+    {
+      "title": "Non-Hermitian Quantum Adiabatic Algorithm",
+      "link": "https://arxiv.org/abs/2607.15343",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15343v1 Announce Type: new  Abstract: Non-Hermitian systems offer new opportunities for quantum optimization and computation. Here, we show that non-Hermitian quantum adiabatic algorithms require not only a real, gapped spectrum, but also a stable pseudospectrum. We propose a novel framew…"
+    },
+    {
+      "title": "Causality from the spectrum: Emergence of causal order from process-matrix mereology",
+      "link": "https://arxiv.org/abs/2607.15345",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15345v1 Announce Type: new  Abstract: In Hamiltonian systems, the only basis-independent quantity is the spectrum. Given a spectrum, quantum mereology seeks preferred tensor-product decompositions into local subsystems, leading to the emergence of locality. Causal order, however, remains…"
+    },
+    {
+      "title": "The Paradox of the Third Particle is classical",
+      "link": "https://arxiv.org/abs/2607.15351",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15351v1 Announce Type: new  Abstract: The Paradox of the Third Particle arises when particles are described relative to one of them serving as a reference frame. Although it is typically attributed to quantum superpositions, we show that the paradox and its ramifications$\\unicode{x2014}$s…"
+    },
+    {
+      "title": "Spectral amplification for ground-state energy estimation of electronic structure in first quantization",
+      "link": "https://arxiv.org/abs/2607.15358",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15358v1 Announce Type: new  Abstract: We demonstrate an asymptotic gate complexity improvement in first-quantized ground-state energy estimation of electronic structure Hamiltonians in a plane wave basis by employing the sum-of-squares spectral gap amplification protocol. The improvement…"
+    },
+    {
+      "title": "The Trinity of Markovian Quantum Thermodynamics: Unifying the Axiomatic, Microscopic, and Operational Paradigms",
+      "link": "https://arxiv.org/abs/2607.15376",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15376v1 Announce Type: new  Abstract: Thermodynamics imposes fundamental constraints on the evolution of quantum systems. These constraints and their dynamical consequences have been formulated within distinct paradigms, including axiomatic approaches based on quantum master equations, mi…"
+    },
+    {
+      "title": "Saturating the Bayesian Nagaoka-Hayashi bound within numerical precision for the depolarization SU(2) rotation channel",
+      "link": "https://arxiv.org/abs/2607.15398",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15398v1 Announce Type: new  Abstract: The Bayesian Nagaoka--Hayashi (NH) bound is a semidefinite lower bound on the Bayes risk of multiparameter estimation, tighter than the Bayesian symmertic logarithmic derivative (SLD) Cram\\'er--Rao bounds, and whether it can be attained is an open pro…"
+    },
+    {
+      "title": "Boosting State Discrimination in Quantum Brownian Motion Channel via Memory-Induced Coherence Preservation",
+      "link": "https://arxiv.org/abs/2607.15405",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15405v1 Announce Type: new  Abstract: Preserving quantum resources in dissipative environments is a fundamental challenge in quantum information processing. While environmental interactions usually degrade quantum resources, we theoretically show that in a Quantum Brownian Motion (QBM) ch…"
+    },
+    {
+      "title": "Performance Model for Hybrid Quantum-Classical Workflows",
+      "link": "https://arxiv.org/abs/2607.15426",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15426v1 Announce Type: new  Abstract: Hybrid quantum-classical workflows are expected to underpin practical quantum computing applications, yet the quantum and HPC communities lack a shared framework for reasoning about where and when their integration requirements matter most. Such a fra…"
+    },
+    {
+      "title": "Generation and detection of squeezed light on a single silicon photonic chip",
+      "link": "https://arxiv.org/abs/2607.15461",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15461v1 Announce Type: new  Abstract: The ability to generate and detect quantum states of light on a single integrated photonic device is essential to scale quantum photonics into useful quantum technologies. Integrating the required capabilities into complementary-metal-oxide-semiconduc…"
+    },
+    {
+      "title": "Efficient routing and spectrum allocation in arbitrary flex-grid entanglement networks",
+      "link": "https://arxiv.org/abs/2607.15465",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15465v1 Announce Type: new  Abstract: As practical quantum networks approach large-scale deployment, the need for efficient user-to-user frequency allocation is increasing, yet current approaches only provide partial solutions to the routing and spectrum allocation problem for an arbitrar…"
+    },
+    {
+      "title": "The Complexity of Dynamical Correlators: Operator Shadows and Exponential Learning Separations",
+      "link": "https://arxiv.org/abs/2607.15493",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784520000,
+      "summary": "arXiv:2607.15493v1 Announce Type: new  Abstract: Quantum platforms can realize many-body dynamics beyond classical simulation yet complete readout remains intractable: the cost of extracting accessible information scales exponentially with system size. Classical shadows and Bell sampling offer scala…"
+    },
     {
       "title": "Quantum entanglement without transport: Leaky qubits offer route around noisy channels",
       "link": "https://phys.org/news/2026-07-quantum-entanglement-leaky-qubits-route.html",
@@ -152,22 +288,6 @@
       "published": "Thu, 16 Jul 2026 08:40:07 EDT",
       "published_ts": 1784205607,
       "summary": "Quantum technologies, which leverage the principles of quantum mechanics, have been found to outperform their classical counterparts on specific tasks. Among other things, past studies have highlighted the potential of quantum systems that can enable long-distance communication, using photons (i.e.,…"
-    },
-    {
-      "title": "Bloq Quantum Partners With MIUUL to Expand Quantum Machine Learning Training in Turkey",
-      "link": "https://thequantuminsider.com/2026/07/16/bloq-quantum-miuul-quantum-machine-learning-training-partnership/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 16 Jul 2026 09:41:21 +0000",
-      "published_ts": 1784194881,
-      "summary": "Insider Brief Press release &#8211; Bloq Quantum, a leading provider of enterprise quantum software infrastructure, today announced a strategic partnership with MIUUL, a premier technology training and skilling ecosystem based in Turkey. This collaboration marks Bloq Quantum’s official entry into th…"
-    },
-    {
-      "title": "PsiQuantum Strengthens Executive Leadership with New Appointments",
-      "link": "https://thequantuminsider.com/2026/07/16/psiquantum-strengthens-executive-leadership-with-new-appointments/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 16 Jul 2026 08:46:08 +0000",
-      "published_ts": 1784191568,
-      "summary": "Insider Brief Press release &#8211; PsiQuantum today announced the appointments of Rob Soderbery as Executive Vice President and Sriram Sitaraman as Chief Information Officer, adding two veteran technology leaders to the executive team as the company continues scaling its engineering, operational, a…"
     },
     {
       "title": "What does it mean to be 'quantum?' A physicist explains the basics behind Einstein's spooky actions at a distance",
