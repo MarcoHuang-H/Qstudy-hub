@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1784640516,
+  "generated_ts": 1784661207,
   "items": [
+    {
+      "title": "UK Government Puts AI at Cabinet Level as DSIT Is Dissolved, Raising Questions For Quantum Strategy",
+      "link": "https://thequantuminsider.com/2026/07/21/uk-government-puts-ai-at-cabinet-level-as-dsit-is-dissolved-raising-questions-for-quantum-strategy/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 21 Jul 2026 15:13:21 +0000",
+      "published_ts": 1784646801,
+      "summary": "Insider Brief The U.K. government has elevated artificial intelligence to the center of policymaking by giving its AI minister a seat in Cabinet while abolishing the Department for Science, Innovation and Technology, a restructuring that could have important implications for Britain&#8217;s quantum…"
+    },
+    {
+      "title": "From quantum error correction to emergent gravity: Probing holographic universes at QLab",
+      "link": "https://phys.org/news/2026-07-quantum-error-emergent-gravity-probing.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 21 Jul 2026 11:10:02 EDT",
+      "published_ts": 1784646602,
+      "summary": "One of the deepest ambitions in modern physics is understanding how the fabric of space and time could emerge from fundamental quantum degrees of freedom to establish a quantum theory of gravity."
+    },
+    {
+      "title": "Singapore Defence Agencies Partner With IBM to Explore Quantum Computing Applications",
+      "link": "https://thequantuminsider.com/2026/07/21/singapore-defence-agencies-ibm-quantum-computing-collaboration/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 21 Jul 2026 15:07:02 +0000",
+      "published_ts": 1784646422,
+      "summary": "Insider Brief Press release &#8211; The Singapore Armed Forces (SAF) Digital and Intelligence Service (DIS) and Defence Science and Technology Agency (DSTA) have partnered IBM to explore the use of quantum computing for complex mission planning, such as logistics optimisation use cases. Mission plan…"
+    },
+    {
+      "title": "Innolume Expands Quantum Dot Laser Production With Veeco MBE System",
+      "link": "https://thequantuminsider.com/2026/07/21/innolume-expands-quantum-dot-laser-production/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 21 Jul 2026 14:52:02 +0000",
+      "published_ts": 1784645522,
+      "summary": "Insider Brief Press release &#8211; Veeco Instruments Inc. (Nasdaq: VECO) today announced that Innolume, a leading vertically integrated developer and manufacturer of quantum dot (QD) lasers, has purchased a GEN2000™ Molecular Beam Epitaxy (MBE) system to expand production of gallium arsenide (GaAs)…"
+    },
+    {
+      "title": "Researchers Demonstrate New Superconducting Circuit Design That Could Advance Topological Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/07/21/researchers-demonstrate-new-superconducting-circuit-design-that-could-advance-topological-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 21 Jul 2026 13:25:18 +0000",
+      "published_ts": 1784640318,
+      "summary": "Insider Brief Researchers have experimentally demonstrated a new type of superconducting quantum circuit that reproduces a long-predicted gauge symmetry believed to be a key ingredient for future topological quantum computers, according to a recent study. The researchers report this marks an early b…"
+    },
     {
       "title": "Horizon Quantum to Report Second Quarter Financial Results on August 4, 2026",
       "link": "https://thequantuminsider.com/2026/07/21/horizon-quantum-to-report-second-quarter-financial-results-on-august-4-2026/",
@@ -10,7 +50,7 @@
       "summary": "Insider Brief Press release &#8211; Horizon Quantum Holdings Ltd. (Nasdaq: HQ “Horizon Quantum” or the “Company”), a pioneer of software infrastructure for quantum applications, today announced that the Company anticipates releasing its financial results for the quarter ended June 30, 2026, on Tuesd…"
     },
     {
-      "title": "Photon Queue Raises $4 MillionOversubscribed Seed Round",
+      "title": "Photon Queue Raises $4 Million Oversubscribed Seed Round",
       "link": "https://thequantuminsider.com/2026/07/21/photon-queue-raises-4-millionoversubscribed-seed-round/",
       "source": "The Quantum Insider",
       "published": "Tue, 21 Jul 2026 12:49:46 +0000",
@@ -170,38 +210,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; The&#160;Bloch Quantum Tech Hub&#160;has won nearly $55 million to build the nation a quantum supply chain following a US Economic Development Administration award that positions the Illinois-Wisconsin-Indiana region as the center of quantum manufacturing.&#160; T…"
     },
     {
-      "title": "Interlune Develops Cryogenic Technology to Expand Helium-3 Supply for Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/07/20/interlune-produces-pure-helium-3-from-domestic-helium-using-novel-cryogenic-technology/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 20 Jul 2026 17:12:54 +0000",
-      "published_ts": 1784567574,
-      "summary": "Insider Brief Press release &#8211; Interlune, a space infrastructure and resources company, today announced that its Cold Capture technology has demonstrated production of 99% pure helium-3 from Grade A helium. When deployed broadly, the novel technology could triple the current U.S. supply of this…"
-    },
-    {
-      "title": "Maybell Quantum to Establish New Mexico Operations as part of New Mexico’s $450 Million Quantum Initiative",
-      "link": "https://thequantuminsider.com/2026/07/20/maybell-quantum-new-mexico-quantum-lab/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 20 Jul 2026 14:18:00 +0000",
-      "published_ts": 1784557080,
-      "summary": "Insider Brief Press release &#8211; Maybell Quantum today announced it will establish operations at the Roadrunner Quantum Lab Powered by the State of New Mexico. Maybell will expand into the state with new local hires and a fleet of advanced cryogenic systems capable of reaching temperatures near A…"
-    },
-    {
-      "title": "IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics",
-      "link": "https://thequantuminsider.com/2026/07/20/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 20 Jul 2026 13:12:27 +0000",
-      "published_ts": 1784553147,
-      "summary": "Insider Brief Press release &#8211; Silicon photonics has emerged as a promising technology for addressing bandwidth and latency bottlenecks of conventional electrical interconnects and therefore are being explored for future artificial intelligence infrastructure. However, heterogenous integration…"
-    },
-    {
-      "title": "BTQ Technologies and TIDAL PWR Develop Framework for Quantum-Ready Data Centers",
-      "link": "https://thequantuminsider.com/2026/07/20/btq-tidal-pwr-quantum-data-center-architecture/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 20 Jul 2026 12:08:41 +0000",
-      "published_ts": 1784549321,
-      "summary": "Insider Brief Press release &#8211; BTQ Technologies Corp. (“BTQ” or the “Company”) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, is pleased to announce a strategic collaboration with TIDAL PWR, a Texas-based developer of power gener…"
-    },
-    {
       "title": "An ordinary laptop solved a problem thought to require a quantum computer",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -320,14 +328,6 @@
       "published": "Wed, 15 Jul 2026 09:40:12 EDT",
       "published_ts": 1784122812,
       "summary": "Quantum computers promise to solve problems that would take even the fastest conventional supercomputers a vast amount of time, but the quantum information they store and process is extremely sensitive to even tiny disturbances from their surroundings. To keep these systems operating reliably, they…"
-    },
-    {
-      "title": "New atomic trap boosts quantum performance by using surface forces",
-      "link": "https://phys.org/news/2026-07-atomic-boosts-quantum-surface.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 14 Jul 2026 15:00:07 EDT",
-      "published_ts": 1784055607,
-      "summary": "Researchers at Humboldt-Universität zu Berlin have developed a new method for trapping and controlling atoms near an ultrathin glass fiber. This has significantly improved the atoms' ability to store quantum information—an important step forward for future quantum technologies."
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
