@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1784708426,
+  "generated_ts": 1784727631,
   "items": [
+    {
+      "title": "Researchers expand simulation tool to help design the next generation of photonic and quantum devices",
+      "link": "https://phys.org/news/2026-07-simulation-tool-generation-photonic-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 22 Jul 2026 08:40:02 EDT",
+      "published_ts": 1784724002,
+      "summary": "Many modern technologies, from optical communications and artificial intelligence (AI) hardware to advanced sensors and medical imaging, depend on photonic and semiconductor devices that precisely control the interaction between light and electrons. Designing these devices, however, remains a major…"
+    },
+    {
+      "title": "New multiplexing scheme accelerates long-distance quantum communication",
+      "link": "https://phys.org/news/2026-07-multiplexing-scheme-distance-quantum-communication.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 22 Jul 2026 06:20:01 EDT",
+      "published_ts": 1784715601,
+      "summary": "Quantum networks, systems consisting of multiple connected nodes or devices that can transmit quantum information to one another, have the potential to advance future communications. These networks typically leverage entanglement, a quantum phenomenon that prompts two or more distant particles to be…"
+    },
+    {
+      "title": "Shanghai Startup Unveils Data Center-Ready Quantum Computer at WAIC 2026",
+      "link": "https://thequantuminsider.com/2026/07/22/shanghai-startup-unveils-data-center-ready-quantum-computer-at-waic-2026/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 09:31:30 +0000",
+      "published_ts": 1784712690,
+      "summary": "Insider Brief A Shanghai quantum computing startup has unveiled a server-sized quantum computer designed for standard data center racks, marking an effort to move quantum hardware beyond specialized laboratories and toward commercial computing infrastructure, China&#8217;s tech media is reporting. T…"
+    },
+    {
+      "title": "Rice joins Department of Energy’s Quantum Science Center to Advance QEC Research",
+      "link": "https://thequantuminsider.com/2026/07/22/rice-university-doe-quantum-error-correction-research/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 09:12:15 +0000",
+      "published_ts": 1784711535,
+      "summary": "Insider Brief Press release &#8211; Rice University has joined the U.S. Department of Energy Quantum Science Center, expanding the university’s role in a national effort to develop fault-tolerant quantum computers capable of solving scientific problems beyond the reach of today’s systems. Tirthak Pa…"
+    },
+    {
+      "title": "Hewlett Foundation Launches $100 Million Initiative Supporting Quantum and Emerging Technology Security",
+      "link": "https://thequantuminsider.com/2026/07/22/hewlett-foundation-100-million-quantum-security-initiative/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 09:04:33 +0000",
+      "published_ts": 1784711073,
+      "summary": "Insider Brief Press release &#8211; The William and Flora Hewlett Foundation announced a five-year, $100 million grantmaking initiative intended to help foster innovation while supporting the safe development of emerging technologies. Unveiled at the Aspen Security Forum, the Emerging Technology and…"
+    },
+    {
+      "title": "New Quantinuum-SoftBank White Paper Shows Quantum Computing Can Deliver Value Before Fault-Tolerant Era",
+      "link": "https://thequantuminsider.com/2026/07/22/new-quantinuum-softbank-white-paper-shows-quantum-computing-can-deliver-value-before-fault-tolerant-era/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 08:14:54 +0000",
+      "published_ts": 1784708094,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum (NASDAQ:&#160;QNT) and SoftBank Corp. (&#8220;SoftBank&#8221;) today announced the publication of &#8220;Quantum Computing Frontiers,&#8221; a joint white paper that maps two commercially-relevant quantum computing application areas against Quantinuum&#…"
+    },
+    {
+      "title": "Guest Post:  What a High School Student Found When He Stress-Tested a Quantum Benchmark",
+      "link": "https://thequantuminsider.com/2026/07/22/guest-post-what-a-high-school-student-found-when-he-stress-tested-a-quantum-benchmark/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 07:56:58 +0000",
+      "published_ts": 1784707018,
+      "summary": "Guest Post By Jithesh Mithra, Independent Researcher, Jacksonville, Florida Here is a result that should not happen. Take a quantum error correction (QEC) code, fix the physical error rate, and ask a simple question. Does adding more qubits make it work better? Under a single noise assumption, the a…"
+    },
+    {
+      "title": "Main Sequence Promotes Alejandra Romero to Principal",
+      "link": "https://thequantuminsider.com/2026/07/22/main-sequence-promotes-alejandra-romero-to-principal/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 07:49:15 +0000",
+      "published_ts": 1784706555,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Main Sequence Ventures, Australia’s deep tech venture capital firm, has promoted Alejandra Romero (Alex) to Principal — doubling down on its bet that the next wave of computing gets won at the hardware layer, not just in software. Romero leads Main Sequence’s inve…"
+    },
     {
       "title": "A First Bound on the Moffat Energy and Thorium--229 Clock as a Probe of the Nonlocal Time-Energy Structure",
       "link": "https://arxiv.org/abs/2607.18333",
@@ -178,54 +242,6 @@
       "summary": "Insider Brief Press release &#8211; Veeco Instruments Inc. (Nasdaq: VECO) today announced that Innolume, a leading vertically integrated developer and manufacturer of quantum dot (QD) lasers, has purchased a GEN2000™ Molecular Beam Epitaxy (MBE) system to expand production of gallium arsenide (GaAs)…"
     },
     {
-      "title": "Researchers Demonstrate New Superconducting Circuit Design That Could Advance Topological Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/07/21/researchers-demonstrate-new-superconducting-circuit-design-that-could-advance-topological-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 21 Jul 2026 13:25:18 +0000",
-      "published_ts": 1784640318,
-      "summary": "Insider Brief Researchers have experimentally demonstrated a new type of superconducting quantum circuit that reproduces a long-predicted gauge symmetry believed to be a key ingredient for future topological quantum computers, according to a recent study. The researchers report this marks an early b…"
-    },
-    {
-      "title": "Horizon Quantum to Report Second Quarter Financial Results on August 4, 2026",
-      "link": "https://thequantuminsider.com/2026/07/21/horizon-quantum-to-report-second-quarter-financial-results-on-august-4-2026/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 21 Jul 2026 12:50:35 +0000",
-      "published_ts": 1784638235,
-      "summary": "Insider Brief Press release &#8211; Horizon Quantum Holdings Ltd. (Nasdaq: HQ “Horizon Quantum” or the “Company”), a pioneer of software infrastructure for quantum applications, today announced that the Company anticipates releasing its financial results for the quarter ended June 30, 2026, on Tuesd…"
-    },
-    {
-      "title": "Photon Queue Raises $4 Million Oversubscribed Seed Round",
-      "link": "https://thequantuminsider.com/2026/07/21/photon-queue-raises-4-millionoversubscribed-seed-round/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 21 Jul 2026 12:49:46 +0000",
-      "published_ts": 1784638186,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Photon Queue, a quantum technology company building high-efficiency quantum memories for next-generation quantum computing systems, today announced the close of its oversubscribed seed funding round of $4 million, led by Playground Global. The seed round builds on…"
-    },
-    {
-      "title": "Researchers Explore Gold Nanoclusters as a Potential Quantum Technology Platform",
-      "link": "https://thequantuminsider.com/2026/07/21/gold-nanoclusters-quantum-technology-platform/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 21 Jul 2026 12:42:31 +0000",
-      "published_ts": 1784637751,
-      "summary": "Insider Brief New technical disclosures from Penn State and University of Toronto researchers suggest gold could be a foundational platform material for quantum computing, sensing, and communication. A technical update just issued by Delta Gold Technologies (Aquis: DGQ / OTC: DGQTF / FRA: O2J) has m…"
-    },
-    {
-      "title": "SAXON Q Launches Commercial Diamond-Based NV-Center Quantum Computing Systems",
-      "link": "https://thequantuminsider.com/2026/07/21/saxon-q-diamond-nv-center-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 21 Jul 2026 11:26:20 +0000",
-      "published_ts": 1784633180,
-      "summary": "Insider Brief Press release &#8211; SAXON Q, a pioneer in diamond-based nitrogen-vacancy (NV) quantum computing, today announces the commercial availability of the 128-qubit SXQ128 and 512-qubit SXQ512 — the first diamond-based NV-center quantum computers to ever exceed 10 qubits. Both systems opera…"
-    },
-    {
-      "title": "IonQ, QuantumBasel Study Suggests Hybrid AI Workloads Could Gain Energy Advantages From Quantum Hardware as Systems Scale",
-      "link": "https://thequantuminsider.com/2026/07/21/ionq-quantumbasel-study-suggests-hybrid-ai-workloads-could-gain-energy-advantages-from-quantum-hardware-as-systems-scale/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 21 Jul 2026 08:19:26 +0000",
-      "published_ts": 1784621966,
-      "summary": "Insider Brief A hybrid quantum-classical approach to fine-tuning artificial intelligence models could eventually consume less energy than classical simulation while matching or surpassing several conventional machine-learning methods on a text classification task, offering an early indication that q…"
-    },
-    {
       "title": "An ordinary laptop solved a problem thought to require a quantum computer",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -320,22 +336,6 @@
       "published": "Thu, 16 Jul 2026 08:40:07 EDT",
       "published_ts": 1784205607,
       "summary": "Quantum technologies, which leverage the principles of quantum mechanics, have been found to outperform their classical counterparts on specific tasks. Among other things, past studies have highlighted the potential of quantum systems that can enable long-distance communication, using photons (i.e.,…"
-    },
-    {
-      "title": "What does it mean to be 'quantum?' A physicist explains the basics behind Einstein's spooky actions at a distance",
-      "link": "https://phys.org/news/2026-07-quantum-physicist-basics-einstein-spooky.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 15 Jul 2026 17:00:01 EDT",
-      "published_ts": 1784149201,
-      "summary": "Imagine shining a flashlight across a dark room. You can predict exactly what the light will do: travel in a straight line from one point to another. That seems obvious because, in the world we see around us, light appears to follow a single, clear path."
-    },
-    {
-      "title": "Physicists create first room-temperature quantum material",
-      "link": "https://phys.org/news/2026-07-physicists-room-temperature-quantum-material.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 15 Jul 2026 11:00:35 EDT",
-      "published_ts": 1784127635,
-      "summary": "Quantum materials could transform technologies ranging from powerful computers and ultrasecure communications to advanced energy systems. But there has always been one major obstacle."
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
