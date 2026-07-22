@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1784727631,
+  "generated_ts": 1784747254,
   "items": [
+    {
+      "title": "Infleqtion Receives Three DOE Genesis Mission Projects for Quantum Computing and Sensing Research",
+      "link": "https://thequantuminsider.com/2026/07/22/infleqtion-secures-three-genesis-mission-projects-from-us-department-of-energy/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 15:27:00 +0000",
+      "published_ts": 1784734020,
+      "summary": "Insider Brief Press release &#8211; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, announced it has been awarded three projects to accelerate American scientific research and innovation by the U.S. Department of Energy (DOE) for…"
+    },
+    {
+      "title": "New Framework Uses Quantum Geometry to Help Quantum AI Systems Remember What They Learn",
+      "link": "https://thequantuminsider.com/2026/07/22/new-framework-uses-quantum-geometry-to-help-quantum-ai-systems-remember-what-they-learn/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 14:34:41 +0000",
+      "published_ts": 1784730881,
+      "summary": "Insider Brief Researchers have developed a new framework that uses the geometry of quantum states to help quantum machine learning models retain previously learned knowledge while acquiring new tasks, addressing one of the central challenges facing quantum artificial intelligence (AI). The study, pu…"
+    },
+    {
+      "title": "QPerfect Partners with University of Strasbourg on Neutral-Atom Quantum Computing Platform",
+      "link": "https://thequantuminsider.com/2026/07/22/qperfect-university-strasbourg-digital-twin-aqcess-platform/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 14:29:05 +0000",
+      "published_ts": 1784730545,
+      "summary": "Insider Brief Press release &#8211; BTQ Technologies Corp.&#160;(&#8220;BTQ&#8220;&#160;or the&#160;&#8220;Company&#8221;) (Nasdaq:&#160;BTQ) (CBOE CA: BTQ), a global quantum technology company focused on securing mission-critical networks, today announced that its wholly owned subsidiary, QPerfect,…"
+    },
+    {
+      "title": "Keyfactor Expands Partner Program for Post-Quantum Cryptography Readiness",
+      "link": "https://thequantuminsider.com/2026/07/22/keyfactor-expands-partner-program-for-post-quantum-security/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 14:16:52 +0000",
+      "published_ts": 1784729812,
+      "summary": "Insider Brief Press release &#8211; Keyfactor, the leader in trust infrastructure for AI and machines, today announced a major expansion of its Global Partner Program, designed to help partners capitalize on one of the largest security transformations in decades. As AI accelerates the growth of mach…"
+    },
+    {
+      "title": "Quantum Computing Inc. Appoints Susan Hunt as CRO and Creates Chief Product Officer Role",
+      "link": "https://thequantuminsider.com/2026/07/22/qci-appoints-susan-hunt-chief-revenue-officer/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 14:05:26 +0000",
+      "published_ts": 1784729126,
+      "summary": "Insider Brief Press release &#8211; Quantum Computing Inc. (&#8220;QCi&#8221; or the &#8220;Company&#8221;) (Nasdaq: QUBT), a vertically integrated quantum company pioneering photonics and semiconductor manufacturing, today announced the appointment of Susan Hunt as Chief Revenue Officer (CRO) and t…"
+    },
+    {
+      "title": "PsiQuantum Signs $125 Million Agreement with DARPA",
+      "link": "https://thequantuminsider.com/2026/07/22/psiquantum-signs-125-million-agreement-with-darpa/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 13:44:16 +0000",
+      "published_ts": 1784727856,
+      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum today announced that the company has signed a new $125 million expanded agreement with the Defense Advanced Research Projects Agency (DARPA) under DARPA’s Quantum Benchmarking Initiative (QBI), the U.S. government’s most rigorous effort to evaluate comm…"
+    },
+    {
+      "title": "Secretary of Energy Chris Wright Announces First Genesis Mission Projects Selected to Accelerate AI-Driven Scientific Discovery",
+      "link": "https://thequantuminsider.com/2026/07/22/secretary-of-energy-chris-wright-announces-first-genesis-mission-projects-selected-to-accelerate-ai-driven-scientific-discovery/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 13:00:26 +0000",
+      "published_ts": 1784725226,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of Energy (DOE) today announced the first projects selected under the&#160;Genesis Mission Request for Applications&#160;(RFA) as part of President Trump’s historic Genesis Mission.&#160;The national portfolio of research teams will help&#160;d…"
+    },
     {
       "title": "Researchers expand simulation tool to help design the next generation of photonic and quantum devices",
       "link": "https://phys.org/news/2026-07-simulation-tool-generation-photonic-quantum.html",
@@ -40,30 +96,6 @@
       "published": "Wed, 22 Jul 2026 09:04:33 +0000",
       "published_ts": 1784711073,
       "summary": "Insider Brief Press release &#8211; The William and Flora Hewlett Foundation announced a five-year, $100 million grantmaking initiative intended to help foster innovation while supporting the safe development of emerging technologies. Unveiled at the Aspen Security Forum, the Emerging Technology and…"
-    },
-    {
-      "title": "New Quantinuum-SoftBank White Paper Shows Quantum Computing Can Deliver Value Before Fault-Tolerant Era",
-      "link": "https://thequantuminsider.com/2026/07/22/new-quantinuum-softbank-white-paper-shows-quantum-computing-can-deliver-value-before-fault-tolerant-era/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 22 Jul 2026 08:14:54 +0000",
-      "published_ts": 1784708094,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum (NASDAQ:&#160;QNT) and SoftBank Corp. (&#8220;SoftBank&#8221;) today announced the publication of &#8220;Quantum Computing Frontiers,&#8221; a joint white paper that maps two commercially-relevant quantum computing application areas against Quantinuum&#…"
-    },
-    {
-      "title": "Guest Post:  What a High School Student Found When He Stress-Tested a Quantum Benchmark",
-      "link": "https://thequantuminsider.com/2026/07/22/guest-post-what-a-high-school-student-found-when-he-stress-tested-a-quantum-benchmark/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 22 Jul 2026 07:56:58 +0000",
-      "published_ts": 1784707018,
-      "summary": "Guest Post By Jithesh Mithra, Independent Researcher, Jacksonville, Florida Here is a result that should not happen. Take a quantum error correction (QEC) code, fix the physical error rate, and ask a simple question. Does adding more qubits make it work better? Under a single noise assumption, the a…"
-    },
-    {
-      "title": "Main Sequence Promotes Alejandra Romero to Principal",
-      "link": "https://thequantuminsider.com/2026/07/22/main-sequence-promotes-alejandra-romero-to-principal/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 22 Jul 2026 07:49:15 +0000",
-      "published_ts": 1784706555,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Main Sequence Ventures, Australia’s deep tech venture capital firm, has promoted Alejandra Romero (Alex) to Principal — doubling down on its bet that the next wave of computing gets won at the hardware layer, not just in software. Romero leads Main Sequence’s inve…"
     },
     {
       "title": "A First Bound on the Moffat Energy and Thorium--229 Clock as a Probe of the Nonlocal Time-Energy Structure",
@@ -202,44 +234,12 @@
       "summary": "Artificial intelligence faces an energy crisis stemming from a physical traffic jam inside modern computer chips. Processors must continually shuffle data, such as the billions of parameters in complex models, between separate computing and memory nodes. This traffic jam, known as the \"von Neumann b…"
     },
     {
-      "title": "Galaxy Commits $5 Million to Prepare Bitcoin for Quantum Computing Threat",
-      "link": "https://thequantuminsider.com/2026/07/21/galaxy-commits-5-million-to-prepare-bitcoin-for-quantum-computing-threat/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 21 Jul 2026 18:46:30 +0000",
-      "published_ts": 1784659590,
-      "summary": "Insider Brief Galaxy Digital has launched the Galaxy Bitcoin Quantum Readiness Initiative, committing up to $5 million toward developer grants, a dedicated research program, and a new advisory council focused on protecting Bitcoin&#8217;s cryptographic foundation from future quantum computing attack…"
-    },
-    {
-      "title": "UK Government Puts AI at Cabinet Level as DSIT Is Dissolved, Raising Questions For Quantum Strategy",
-      "link": "https://thequantuminsider.com/2026/07/21/uk-government-puts-ai-at-cabinet-level-as-dsit-is-dissolved-raising-questions-for-quantum-strategy/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 21 Jul 2026 15:13:21 +0000",
-      "published_ts": 1784646801,
-      "summary": "Insider Brief The U.K. government has elevated artificial intelligence to the center of policymaking by giving its AI minister a seat in Cabinet while abolishing the Department for Science, Innovation and Technology, a restructuring that could have important implications for Britain&#8217;s quantum…"
-    },
-    {
       "title": "From quantum error correction to emergent gravity: Probing holographic universes at QLab",
       "link": "https://phys.org/news/2026-07-quantum-error-emergent-gravity-probing.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 21 Jul 2026 11:10:02 EDT",
       "published_ts": 1784646602,
       "summary": "One of the deepest ambitions in modern physics is understanding how the fabric of space and time could emerge from fundamental quantum degrees of freedom to establish a quantum theory of gravity."
-    },
-    {
-      "title": "Singapore Defence Agencies Partner With IBM to Explore Quantum Computing Applications",
-      "link": "https://thequantuminsider.com/2026/07/21/singapore-defence-agencies-ibm-quantum-computing-collaboration/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 21 Jul 2026 15:07:02 +0000",
-      "published_ts": 1784646422,
-      "summary": "Insider Brief Press release &#8211; The Singapore Armed Forces (SAF) Digital and Intelligence Service (DIS) and Defence Science and Technology Agency (DSTA) have partnered IBM to explore the use of quantum computing for complex mission planning, such as logistics optimisation use cases. Mission plan…"
-    },
-    {
-      "title": "Innolume Expands Quantum Dot Laser Production With Veeco MBE System",
-      "link": "https://thequantuminsider.com/2026/07/21/innolume-expands-quantum-dot-laser-production/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 21 Jul 2026 14:52:02 +0000",
-      "published_ts": 1784645522,
-      "summary": "Insider Brief Press release &#8211; Veeco Instruments Inc. (Nasdaq: VECO) today announced that Innolume, a leading vertically integrated developer and manufacturer of quantum dot (QD) lasers, has purchased a GEN2000™ Molecular Beam Epitaxy (MBE) system to expand production of gallium arsenide (GaAs)…"
     },
     {
       "title": "An ordinary laptop solved a problem thought to require a quantum computer",
