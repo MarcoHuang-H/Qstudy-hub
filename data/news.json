@@ -1,6 +1,134 @@
 {
-  "generated_ts": 1784686212,
+  "generated_ts": 1784708426,
   "items": [
+    {
+      "title": "A First Bound on the Moffat Energy and Thorium--229 Clock as a Probe of the Nonlocal Time-Energy Structure",
+      "link": "https://arxiv.org/abs/2607.18333",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18333v1 Announce Type: new  Abstract: The new Thorium--229 nuclear clocks give us a new laboratory system in which to test if modification of the Time-Energy uncertainty principle is correct. In this paper we derive the nonlocal Time-Energy uncertainty principle and then apply the publish…"
+    },
+    {
+      "title": "Phase-Selective Amplitude Amplification for Constrained Optimization",
+      "link": "https://arxiv.org/abs/2607.18338",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18338v1 Announce Type: new  Abstract: This work introduces a variant of Grover amplitude amplification using stabilizer and blade qubits to improve boosting robustness across objective distributions. We give geometric intuition, example simulations, and discuss limitations. Formal perform…"
+    },
+    {
+      "title": "Probing gravitational interaction between milligram optomechanical oscillators operating in the quantum regime",
+      "link": "https://arxiv.org/abs/2607.18351",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18351v1 Announce Type: new  Abstract: We present an ongoing optomechanical experiment aimed at detecting gravitational interaction between milligram-scale oscillators, and exploring its interplay with quantum mechanics. The setup employs two microfabricated oscillators coupled via gravity…"
+    },
+    {
+      "title": "Nishimori Threshold Estimation for Bayesian Inference and $\\mathbb{Z}_q$ Surface Code Decoding",
+      "link": "https://arxiv.org/abs/2607.18374",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18374v1 Announce Type: new  Abstract: In quantum error correction, the error threshold provides essential quantitative guidance for the ability to bring about fault-tolerance through decoding the effects of incoherent noise, weak measurement or inference. However, the numerical value of a…"
+    },
+    {
+      "title": "Adlam's Frame: comment on \"Wigner's Frame\"",
+      "link": "https://arxiv.org/abs/2607.18383",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18383v1 Announce Type: new  Abstract: Recent no-go theorems based on extended Wigner's Friend scenarios (EWFS) reveal a deep tension between the universal validity of quantum theory and local friendliness (LF), the conjunction of three natural assumptions: the absoluteness of observed eve…"
+    },
+    {
+      "title": "Remote entanglement need not be the bottleneck for modular trapped-ion quantum computing",
+      "link": "https://arxiv.org/abs/2607.18387",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18387v1 Announce Type: new  Abstract: Modularity underpins classical computing; as quantum processors encounter limits on fabrication yield, reliability, and size, they will need it just as acutely. The bottleneck to linking modules is producing shared entanglement at sufficient rate, den…"
+    },
+    {
+      "title": "Calculus of Robinet: completely positive reconstruction of time-averaged diffusive quantum trajectories",
+      "link": "https://arxiv.org/abs/2607.18392",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18392v1 Announce Type: new  Abstract: Truly continuous quantum trajectories, obtained from homodyne or heterodyne readouts, can only ever be reconstructed approximately. The continuous measurement signal, needed for exact reconstruction, is averaged over bins of finite time $\\Delta t$ dur…"
+    },
+    {
+      "title": "Magic-protected entanglement and Clifford-irreducible structure in magic state space",
+      "link": "https://arxiv.org/abs/2607.18400",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18400v1 Announce Type: new  Abstract: We develop a Clifford-orbit framework for studying magic-protected entanglement, which we refer to as magical entanglement: the part of bipartite entanglement that remains after optimal stabilizer simplification. This construction leverages residual e…"
+    },
+    {
+      "title": "Monolithic printed-circuit board RF-trap for electrons",
+      "link": "https://arxiv.org/abs/2607.18401",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18401v1 Announce Type: new  Abstract: Qubits encoded in the spin of trapped electrons have been proposed as a promising novel platform for quantum information processing. While trapping of electrons has been largely carried out in Penning traps for precision measurement purposes, it is de…"
+    },
+    {
+      "title": "Reducing entanglement with a Hamiltonian derived Clifford transformation",
+      "link": "https://arxiv.org/abs/2607.18404",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18404v1 Announce Type: new  Abstract: Recently (Physica Scripta, 100(10):105401, 2025), an algorithm was introduced that deterministically generates a Clifford transformation from the Qubit Coupled Cluster (QCC) algorithm which we call Q-Cliff (QCC+Clifford). There, it was shown that Q-Cl…"
+    },
+    {
+      "title": "Bright Telecom Spin-Photon Interface in Silicon Photonics",
+      "link": "https://arxiv.org/abs/2607.18435",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18435v1 Announce Type: new  Abstract: Silicon is an attractive host for scalable quantum photonics, but the absence of bright telecom-band emitters with optically addressable spin states has limited its use for spin-photon interfaces. Here we demonstrate the Al1-center, an aluminum--carbo…"
+    },
+    {
+      "title": "Equivariant Continuous Normalizing Flows with Offline Sampling for Fermionic Ground State Estimation",
+      "link": "https://arxiv.org/abs/2607.18486",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18486v1 Announce Type: new  Abstract: We introduce a framework for fermionic variational Monte Carlo (VMC) in which a continuous normalizing flow (CNF) refines a fixed antisymmetric base wavefunction. The flow is implemented as a permutation-equivariant neural ODE, a smooth, topology-pres…"
+    },
+    {
+      "title": "Cavity-Mediated Charging of a Graphene Excitonic Quantum Battery",
+      "link": "https://arxiv.org/abs/2607.18489",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18489v1 Announce Type: new  Abstract: We study the charging and work-extraction properties of a graphene-based excitonic quantum battery embedded in a driven-dissipative optical microcavity. The system consists of a pair of intervalley excitons in strained graphene, where one exciton acts…"
+    },
+    {
+      "title": "Observation of a power transfer controlled by the phase of a quantum superposition",
+      "link": "https://arxiv.org/abs/2607.18513",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18513v1 Announce Type: new  Abstract: A driven qubit exchanges energy with the propagating modes that drive it. When two spatially separated modes drive a single qubit with opposite amplitudes, their net action on the qubit cancels. Yet the qubit can still transfer power from one mode to…"
+    },
+    {
+      "title": "State $k$-designs from Hamiltonian evolution",
+      "link": "https://arxiv.org/abs/2607.18537",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "published_ts": 1784692800,
+      "summary": "arXiv:2607.18537v1 Announce Type: new  Abstract: We study the generation of state $k$-designs from time evolution under a fixed Hamiltonian. Specifically, we consider the ensemble $\\mathcal{E}=\\left\\{e^{-iHt}|\\psi_0\\rangle | \\ t\\sim \\mathrm{Unif}[0,T],\\, |\\psi_0\\rangle\\sim \\mathcal{E}'\\right\\}$, whe…"
+    },
+    {
+      "title": "New programmable photonic chip can control how fast light moves",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Tue, 21 Jul 2026 22:43:34 EDT",
+      "published_ts": 1784688214,
+      "summary": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more pr…"
+    },
     {
       "title": "Quantum sensing microscope illuminates transistor design",
       "link": "https://phys.org/news/2026-07-quantum-microscope-illuminates-transistor.html",
@@ -96,126 +224,6 @@
       "published": "Tue, 21 Jul 2026 08:19:26 +0000",
       "published_ts": 1784621966,
       "summary": "Insider Brief A hybrid quantum-classical approach to fine-tuning artificial intelligence models could eventually consume less energy than classical simulation while matching or surpassing several conventional machine-learning methods on a text classification task, offering an early indication that q…"
-    },
-    {
-      "title": "Relativistic bound-state solutions for a non-central Schi{\\\"o}berg-type hyperbolic potential with double ring-shaped angular terms",
-      "link": "https://arxiv.org/abs/2607.16265",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16265v1 Announce Type: new  Abstract: Singular interactions can reshape quantum spectra by changing admissible wavefunction domains. In this study, we investigate this mechanism in the Klein--Gordon equation for a non-central Schi\\\"oberg-type hyperbolic potential with double ring-shaped a…"
-    },
-    {
-      "title": "EPIC-CIM: Training Convolutional Neural Networks on a Coherent Ising Machine via Equilibrium Propagation",
-      "link": "https://arxiv.org/abs/2607.16271",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16271v1 Announce Type: new  Abstract: Quantum convolutional neural networks, due to the involvement of quantum measurements and discrete quantum state evolution, face inherent training challenges associated with non-differentiable operations and discrete optimization dynamics, which make…"
-    },
-    {
-      "title": "QR-SPPS: Quantum-Native Retail Supply Chain Risk Simulation via VQE, ADAPT-VQE Counterfactual Policy Ranking, and DOS-QPE Boltzmann Tail Risk Quantification",
-      "link": "https://arxiv.org/abs/2607.16275",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16275v1 Announce Type: new  Abstract: Classical supply chain risk models treat node failures as statistically independent events, systematically underestimating correlated cascade failures across multi-tier supplier networks. We present QR-SPPS (Quantum-Native Retail Shock Propagation and…"
-    },
-    {
-      "title": "Intelligence-Guided Adaptive Purification for DDoS-Resilient Quantum Networks: A CUDA-Q based Study",
-      "link": "https://arxiv.org/abs/2607.16276",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16276v1 Announce Type: new  Abstract: Quantum-repeater networks require adaptive control policies that balance entanglement generation rate, end-to-end fidelity, purification overhead, and memory-induced latency. This tradeoff becomes more complex when the classical control plane is degra…"
-    },
-    {
-      "title": "A Hybrid Classical-Quantum Approach for Multi-Constrained Location Optimization Problem",
-      "link": "https://arxiv.org/abs/2607.16277",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16277v1 Announce Type: new  Abstract: The Maximal Covering Location Problem (MCLP) is an NP-hard Combinatorial Optimization Problem (COP) that aims to determine the optimal facility placements that maximize total coverage. It is characterized by both equality and inequality constraints, w…"
-    },
-    {
-      "title": "Number Fluctuations and Entanglement-Spectrum Participation in Monitored Free Fermions",
-      "link": "https://arxiv.org/abs/2607.16278",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16278v1 Announce Type: new  Abstract: Monitored free-fermion chains show a crossover in entanglement scaling as the measurement rate is increased, from a subextensive weak-monitoring regime to an area law at strong monitoring. I test, using trajectory-resolved correlation-matrix simulatio…"
-    },
-    {
-      "title": "A Novel Hybrid Quantum Reservoir Computing (nHQRC) for Phase Transition Detection in Non-Equilibrium Dynamical Systems",
-      "link": "https://arxiv.org/abs/2607.16281",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16281v1 Announce Type: new  Abstract: The analysis of highly non-linear stochastic data within non-equilibrium dynamical systems requires computational frameworks capable of detecting latent phase transitions before systemic structural breakdowns occur. Traditional Variational Quantum Alg…"
-    },
-    {
-      "title": "The Quantum Correction to Gaussian Information Geometry is the Killing Form of the Symplectic Algebra",
-      "link": "https://arxiv.org/abs/2607.16376",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16376v1 Announce Type: new  Abstract: On the admissible cone $\\mathcal C_\\Omega=\\{\\Sigma\\in\\mathrm{Sym}^+(2n):\\Sigma+i\\Omega\\ge0\\}$ of Gaussian covariance matrices, the classical Bures--Wasserstein transport metric, the Fisher--Rao information metric, and the quantum Bures metric are indi…"
-    },
-    {
-      "title": "Hamiltonian Lift of Bures--Wasserstein Covariance Dynamics with a Spectral Floor",
-      "link": "https://arxiv.org/abs/2607.16380",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16380v1 Announce Type: new  Abstract: Covariance dynamics on the positive-definite cone are commonly described by gradient flows, which encode dissipative relaxation but obscure the underlying phase-space structure. We construct a finite-dimensional Hamiltonian lift of covariance dynamics…"
-    },
-    {
-      "title": "The Norton Theorem for Quantum Circuits and Systems",
-      "link": "https://arxiv.org/abs/2607.16385",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16385v1 Announce Type: new  Abstract: It is well known that classical analog circuits and systems benefit from the powerful Thevenin and Norton theorems. These theorems enable rigorous and exact mathematical simplification and representation of the effect of the rest of a system on the pa…"
-    },
-    {
-      "title": "Sample-based quantum diagonalization approach for open-shell transition-metal complexes in gas and implicit-solvent",
-      "link": "https://arxiv.org/abs/2607.16389",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16389v1 Announce Type: new  Abstract: Open-shell $3d$ transition-metal complexes challenge electronic-structure methods because competing spin states, charge transfer, and solvation jointly determine their energetics. Here, we combine sample-based quantum diagonalization (SQD) with the in…"
-    },
-    {
-      "title": "Dissipative Stabilization of Floquet-Engineered Many-Body Order",
-      "link": "https://arxiv.org/abs/2607.16391",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16391v1 Announce Type: new  Abstract: Floquet driving underlies Hamiltonian and gate engineering, and produces dynamical orders with no equilibrium counterpart. These phenomena are, however, transient in well-isolated systems. We show that statically coupled dissipative auxiliaries cool t…"
-    },
-    {
-      "title": "Entanglement Entropy in Quantum Networks with Tunable Geometry",
-      "link": "https://arxiv.org/abs/2607.16394",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16394v1 Announce Type: new  Abstract: Quantum many-body Hamiltonians with two-body interactions can be represented by graphs, with sites as nodes and two-site couplings as edges. We investigate how the geometry of these graphs affects transport and entanglement growth. To do so, we study…"
-    },
-    {
-      "title": "Uncountably many inequivalent maximally entangled measurements for two qutrits",
-      "link": "https://arxiv.org/abs/2607.16396",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16396v1 Announce Type: new  Abstract: Every two-qubit measurement basis composed of maximally entangled eigenstates can be transformed into the Bell basis via local unitary operations. For higher dimensions, in contrast, there exist inequivalent bases composed of maximally entangled eigen…"
-    },
-    {
-      "title": "Quantum-Centric Geometry Optimization with Wave-Function-Based Embedding",
-      "link": "https://arxiv.org/abs/2607.16410",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "published_ts": 1784606400,
-      "summary": "arXiv:2607.16410v1 Announce Type: new  Abstract: The EWF-(FCI,SQD) method, a wave-function-based embedding approach combining full configuration interaction (FCI) and sample-based quantum diagonalization (SQD), is a promising new tool for the simulation of molecular systems. However, applications of…"
     },
     {
       "title": "An ordinary laptop solved a problem thought to require a quantum computer",
@@ -496,14 +504,6 @@
       "published": "Sun, 10 May 2026 23:47:15 EDT",
       "published_ts": 1778471235,
       "summary": "Scientists in Germany have pulled off a staggering computing feat by fully simulating a 50-qubit quantum computer for the first time ever using Europe’s new exascale supercomputer, JUPITER. The breakthrough shatters the previous 48-qubit record and highlights just how powerful next-generation superc…"
-    },
-    {
-      "title": "Scientists just sent unhackable quantum keys across 120 kilometers",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508003129.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Sat, 09 May 2026 19:19:54 EDT",
-      "published_ts": 1778368794,
-      "summary": "Scientists have taken a major step toward ultra-secure quantum communication by demonstrating a remarkably stable quantum encryption system that worked across more than 120 kilometers of optical fiber. Using tiny semiconductor quantum dots that emit single particles of light on demand, the team achi…"
     },
     {
       "title": "A materials scientist’s playground",
