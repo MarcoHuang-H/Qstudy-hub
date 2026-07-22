@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1784661207,
+  "generated_ts": 1784686212,
   "items": [
+    {
+      "title": "Quantum sensing microscope illuminates transistor design",
+      "link": "https://phys.org/news/2026-07-quantum-microscope-illuminates-transistor.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 21 Jul 2026 16:20:11 EDT",
+      "published_ts": 1784665211,
+      "summary": "Artificial intelligence faces an energy crisis stemming from a physical traffic jam inside modern computer chips. Processors must continually shuffle data, such as the billions of parameters in complex models, between separate computing and memory nodes. This traffic jam, known as the \"von Neumann b…"
+    },
+    {
+      "title": "Galaxy Commits $5 Million to Prepare Bitcoin for Quantum Computing Threat",
+      "link": "https://thequantuminsider.com/2026/07/21/galaxy-commits-5-million-to-prepare-bitcoin-for-quantum-computing-threat/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 21 Jul 2026 18:46:30 +0000",
+      "published_ts": 1784659590,
+      "summary": "Insider Brief Galaxy Digital has launched the Galaxy Bitcoin Quantum Readiness Initiative, committing up to $5 million toward developer grants, a dedicated research program, and a new advisory council focused on protecting Bitcoin&#8217;s cryptographic foundation from future quantum computing attack…"
+    },
     {
       "title": "UK Government Puts AI at Cabinet Level as DSIT Is Dissolved, Raising Questions For Quantum Strategy",
       "link": "https://thequantuminsider.com/2026/07/21/uk-government-puts-ai-at-cabinet-level-as-dsit-is-dissolved-raising-questions-for-quantum-strategy/",
@@ -202,14 +218,6 @@
       "summary": "arXiv:2607.16410v1 Announce Type: new  Abstract: The EWF-(FCI,SQD) method, a wave-function-based embedding approach combining full configuration interaction (FCI) and sample-based quantum diagonalization (SQD), is a promising new tool for the simulation of molecular systems. However, applications of…"
     },
     {
-      "title": "CQE-led Bloch Quantum Tech Hub Raises $55 Million",
-      "link": "https://thequantuminsider.com/2026/07/20/cqe-led-bloch-quantum-tech-hub-raises-55-million/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 20 Jul 2026 22:12:31 +0000",
-      "published_ts": 1784585551,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The&#160;Bloch Quantum Tech Hub&#160;has won nearly $55 million to build the nation a quantum supply chain following a US Economic Development Administration award that positions the Illinois-Wisconsin-Indiana region as the center of quantum manufacturing.&#160; T…"
-    },
-    {
       "title": "An ordinary laptop solved a problem thought to require a quantum computer",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -320,14 +328,6 @@
       "published": "Wed, 15 Jul 2026 11:00:35 EDT",
       "published_ts": 1784127635,
       "summary": "Quantum materials could transform technologies ranging from powerful computers and ultrasecure communications to advanced energy systems. But there has always been one major obstacle."
-    },
-    {
-      "title": "Faster quantum computers can learn from their own mistakes",
-      "link": "https://phys.org/news/2026-07-faster-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 15 Jul 2026 09:40:12 EDT",
-      "published_ts": 1784122812,
-      "summary": "Quantum computers promise to solve problems that would take even the fastest conventional supercomputers a vast amount of time, but the quantum information they store and process is extremely sensitive to even tiny disturbances from their surroundings. To keep these systems operating reliably, they…"
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
