@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1784747254,
+  "generated_ts": 1784773310,
   "items": [
+    {
+      "title": "Quantum internet leaves the lab with first real-world entanglement over busy telecom fiber",
+      "link": "https://phys.org/news/2026-07-quantum-internet-lab-real-world.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 22 Jul 2026 18:40:01 EDT",
+      "published_ts": 1784760001,
+      "summary": "Quantum information is notoriously fragile. Internet traffic is anything but. Yet Northwestern University scientists have demonstrated they can peacefully coexist inside the same fiber-optic cable."
+    },
+    {
+      "title": "Neural networks unlock larger quantum simulations with lower computational costs",
+      "link": "https://phys.org/news/2026-07-neural-networks-larger-quantum-simulations.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 22 Jul 2026 16:40:07 EDT",
+      "published_ts": 1784752807,
+      "summary": "In recent years, research using artificial intelligence to predict material properties has advanced rapidly. Neural network quantum Monte Carlo methods have attracted attention as highly accurate simulation techniques. However, their extremely high computational cost has limited their application to…"
+    },
+    {
+      "title": "Detecting the body's magnetic fields with a low-power Ramsey-based magnetometer",
+      "link": "https://phys.org/news/2026-07-body-magnetic-fields-power-ramsey.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 22 Jul 2026 16:40:06 EDT",
+      "published_ts": 1784752806,
+      "summary": "Our bodies generate extremely weak magnetic fields as electric currents flow through the heart, brain and other tissues. These signals are used in magnetocardiography and magnetoencephalography to assess heart function and brain activity, respectively. These fields can be detected at room temperatur…"
+    },
+    {
+      "title": "Taiyi Quantum Raises $42 Million to Advance Neutral-Atom Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/07/22/taiyi-quantum-raises-42-million-to-advance-neutral-atom-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 22 Jul 2026 20:33:19 +0000",
+      "published_ts": 1784752399,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Taiyi Quantum, a Shanghai-based quantum computing company developing fault-tolerant quantum computers based on ytterbium neutral atoms, has completed a RMB 300 million (approximately US$42 million) Pre-A financing round. The round was co-led by Gaorong Ventures an…"
+    },
     {
       "title": "Infleqtion Receives Three DOE Genesis Mission Projects for Quantum Computing and Sensing Research",
       "link": "https://thequantuminsider.com/2026/07/22/infleqtion-secures-three-genesis-mission-projects-from-us-department-of-energy/",
@@ -88,14 +120,6 @@
       "published": "Wed, 22 Jul 2026 09:12:15 +0000",
       "published_ts": 1784711535,
       "summary": "Insider Brief Press release &#8211; Rice University has joined the U.S. Department of Energy Quantum Science Center, expanding the university’s role in a national effort to develop fault-tolerant quantum computers capable of solving scientific problems beyond the reach of today’s systems. Tirthak Pa…"
-    },
-    {
-      "title": "Hewlett Foundation Launches $100 Million Initiative Supporting Quantum and Emerging Technology Security",
-      "link": "https://thequantuminsider.com/2026/07/22/hewlett-foundation-100-million-quantum-security-initiative/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 22 Jul 2026 09:04:33 +0000",
-      "published_ts": 1784711073,
-      "summary": "Insider Brief Press release &#8211; The William and Flora Hewlett Foundation announced a five-year, $100 million grantmaking initiative intended to help foster innovation while supporting the safe development of emerging technologies. Unveiled at the Aspen Security Forum, the Emerging Technology and…"
     },
     {
       "title": "A First Bound on the Moffat Energy and Thorium--229 Clock as a Probe of the Nonlocal Time-Energy Structure",
@@ -312,30 +336,6 @@
       "published": "Thu, 16 Jul 2026 09:30:03 EDT",
       "published_ts": 1784208603,
       "summary": "Quantum technologies promise revolutionary advances in computing, sensing and information processing. However, controlling individual quantum bits (qubits) at the atomic scale remains a major challenge because conventional approaches rely on magnetic fields, which are difficult to confine to a singl…"
-    },
-    {
-      "title": "A new 'library' for Feynman integrals",
-      "link": "https://phys.org/news/2026-07-library-feynman.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 16 Jul 2026 09:20:05 EDT",
-      "published_ts": 1784208005,
-      "summary": "Theoretical physicists at Johannes Gutenberg University Mainz (JGU) have developed a new method of ordering Feynman integrals. This critical step in making theoretical predictions for high-energy precision measurements has posed a major computational bottleneck until now."
-    },
-    {
-      "title": "Braided, exotic particles could build reliable, universal quantum computers",
-      "link": "https://phys.org/news/2026-07-braided-exotic-particles-reliable-universal.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 16 Jul 2026 08:50:01 EDT",
-      "published_ts": 1784206201,
-      "summary": "A truly useful quantum computer must be able to run any algorithm, with the same versatility an ordinary laptop offers. Physicists have now shown a new way to give a quantum computer exactly that flexibility, harnessing the capabilities of exotic quantum particles called non-Abelian anyons."
-    },
-    {
-      "title": "Quantum teleportation could reduce photon loss in long-distance communications",
-      "link": "https://phys.org/news/2026-07-quantum-teleportation-photon-loss-distance.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 16 Jul 2026 08:40:07 EDT",
-      "published_ts": 1784205607,
-      "summary": "Quantum technologies, which leverage the principles of quantum mechanics, have been found to outperform their classical counterparts on specific tasks. Among other things, past studies have highlighted the potential of quantum systems that can enable long-distance communication, using photons (i.e.,…"
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
