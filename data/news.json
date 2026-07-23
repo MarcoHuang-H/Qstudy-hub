@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1784814398,
+  "generated_ts": 1784833665,
   "items": [
+    {
+      "title": "Quantum Newton's cradle set to level up computing",
+      "link": "https://phys.org/news/2026-07-quantum-newton-cradle.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 23 Jul 2026 14:20:03 EDT",
+      "published_ts": 1784830803,
+      "summary": "Sending quantum information through a chain of qubits, like energy through a Newton's cradle, could be the key to faster operations and take quantum computing to the next level."
+    },
+    {
+      "title": "IQMP and Q-STAR Partner to Expand Japan-Illinois Quantum Collaboration",
+      "link": "https://thequantuminsider.com/2026/07/23/iqmp-q-star-japan-illinois-quantum-collaboration/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 23 Jul 2026 17:49:29 +0000",
+      "published_ts": 1784828969,
+      "summary": "Insider Brief Press release &#8211; Today, the Illinois Quantum and Microelectronics Park (IQMP) and the Quantum STrategic industry Alliance for Revolution (Q-STAR) announced a new partnership to strengthen collaboration between Japanese companies and Illinois’ quantum ecosystem. The memorandum of u…"
+    },
+    {
+      "title": "From one frontier to another: The quantum revolution",
+      "link": "https://phys.org/news/2026-07-frontier-quantum-revolution.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 23 Jul 2026 10:40:01 EDT",
+      "published_ts": 1784817601,
+      "summary": "Manchester's quantum researchers are building on the Ferranti Mark I legacy, using ultra-pure silicon and single atoms to move quantum computing closer to real-world impact."
+    },
+    {
+      "title": "New White House Science Strategy Points to a Quantum-Style Innovation Model",
+      "link": "https://thequantuminsider.com/2026/07/23/new-white-house-science-strategy-points-to-a-quantum-style-innovation-model/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 23 Jul 2026 14:35:07 +0000",
+      "published_ts": 1784817307,
+      "summary": "Insider Brief The White House&#8217;s new science strategy proposes a different way of organizing American innovation, one that could reshape how the U.S. quantum sector develops over the next decade. Yet many of the report&#8217;s central recommendations describe an innovation model that parts of t…"
+    },
+    {
+      "title": "Shaking atoms to bring black-hole quantum chaos into the lab",
+      "link": "https://phys.org/news/2026-07-atoms-black-hole-quantum-chaos.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 23 Jul 2026 10:20:03 EDT",
+      "published_ts": 1784816403,
+      "summary": "Physicists have discovered a surprisingly simple way to reproduce one of the most fascinating models in modern physics—linked to black holes, quantum chaos and exotic electronic materials—using ultracold atoms trapped in light."
+    },
+    {
+      "title": "Molecular clock transitions tune out the noise in the hunt for new physics",
+      "link": "https://phys.org/news/2026-07-molecular-clock-transitions-tune-noise.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 23 Jul 2026 10:00:07 EDT",
+      "published_ts": 1784815207,
+      "summary": "Heavy polar molecules are some of the most sensitive tools physicists have for probing what lies beyond the Standard Model, the theory that describes the particles and forces we know about. But turning that sensitivity into precise, trustworthy measurements has long been held back by one stubborn pr…"
+    },
+    {
+      "title": "Infleqtion to Deploy Neutral-Atom Quantum Computer at Illinois Quantum Park in 2027",
+      "link": "https://thequantuminsider.com/2026/07/23/infleqtion-neutral-atom-quantum-computer-illinois/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 23 Jul 2026 14:00:00 +0000",
+      "published_ts": 1784815200,
+      "summary": "Insider Brief Press release &#8211; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, announced it will deploy its fault-tolerant, neutral-atom quantum computer at the Illinois Quantum &#38; Microelectronics Park (IQMP), with delive…"
+    },
+    {
+      "title": "Quantum Elements Launches Orbit Error Suppression Tool Through IBM Qiskit Platform",
+      "link": "https://thequantuminsider.com/2026/07/23/quantum-elements-orbit-error-suppression-tool-qiskit/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 23 Jul 2026 13:16:24 +0000",
+      "published_ts": 1784812584,
+      "summary": "Insider Brief Press release &#8211; Quantum Elements, a provider of AI-powered digital twins for quantum computing developers, today announced that Orbit, an advanced quantum error suppression tool, will be available through the IBM Qiskit Functions Catalog.  The launch will make Orbit directly acce…"
+    },
+    {
+      "title": "Major Bitcoin Firms Commit $15 Million to Support Bitcoin Security Development",
+      "link": "https://thequantuminsider.com/2026/07/23/bitcoin-security-consortium-launches-15-million-funding/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 23 Jul 2026 13:13:36 +0000",
+      "published_ts": 1784812416,
+      "summary": "Insider Brief Press release &#8211; A group of leading financial institutions and Bitcoin companies today announced the formation of the&#160;Bitcoin Security Consortium, an initiative dedicated to supporting the long-term security and resilience of the Bitcoin network, backed by an aggregate&#160;$…"
+    },
     {
       "title": "D-Wave Quantum to Report Second Quarter 2026 Financial Results on August 6",
       "link": "https://thequantuminsider.com/2026/07/23/d-wave-quantum-to-report-second-quarter-2026-financial-results-on-august-6-2026/",
@@ -56,22 +128,6 @@
       "published": "Thu, 23 Jul 2026 08:10:35 +0000",
       "published_ts": 1784794235,
       "summary": "Insider Brief Hitachi has launched a government-backed research effort with Intel K.K. and Japan&#8216;s National Institute of Advanced Industrial Science and Technology, or AIST, to develop silicon-based quantum computing technologies aimed at moving the field from laboratory research toward indust…"
-    },
-    {
-      "title": "Zero Point Cryogenics Opens Chicago Hub to Support Quantum Computing Infrastructure",
-      "link": "https://thequantuminsider.com/2026/07/23/zero-point-cryogenics-chicago-quantum-hub/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 23 Jul 2026 07:13:20 +0000",
-      "published_ts": 1784790800,
-      "summary": "Insider Brief Press release &#8211; Zero Point Cryogenics (ZPC), one of only six companies worldwide that designs and manufactures the cryogenic infrastructure quantum technologies rely on, is opening its first international Innovation and Service Hub at the Illinois Quantum and Microelectronics Par…"
-    },
-    {
-      "title": "Northwestern University Researchers Demonstrate Quantum Entanglement Over Busy Telecom Fiber",
-      "link": "https://thequantuminsider.com/2026/07/23/northwestern-university-researchers-demonstrate-quantum-entanglement-over-busy-telecom-fiber/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 23 Jul 2026 07:12:35 +0000",
-      "published_ts": 1784790755,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum information is notoriously fragile. Internet traffic is anything but. Yet Northwestern University scientists have demonstrated they can peacefully coexist inside the same fiber-optic cable. In a new study, researchers successfully sent entangled photons th…"
     },
     {
       "title": "Decoder Comparability Across Quantum Software Stacks: Repeated-Round Surface and Digitized-GKP Syndrome Replay",
@@ -218,30 +274,6 @@
       "summary": "Our bodies generate extremely weak magnetic fields as electric currents flow through the heart, brain and other tissues. These signals are used in magnetocardiography and magnetoencephalography to assess heart function and brain activity, respectively. These fields can be detected at room temperatur…"
     },
     {
-      "title": "Taiyi Quantum Raises $42 Million to Advance Neutral-Atom Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/07/22/taiyi-quantum-raises-42-million-to-advance-neutral-atom-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 22 Jul 2026 20:33:19 +0000",
-      "published_ts": 1784752399,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Taiyi Quantum, a Shanghai-based quantum computing company developing fault-tolerant quantum computers based on ytterbium neutral atoms, has completed a RMB 300 million (approximately US$42 million) Pre-A financing round. The round was co-led by Gaorong Ventures an…"
-    },
-    {
-      "title": "Infleqtion Receives Three DOE Genesis Mission Projects for Quantum Computing and Sensing Research",
-      "link": "https://thequantuminsider.com/2026/07/22/infleqtion-secures-three-genesis-mission-projects-from-us-department-of-energy/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 22 Jul 2026 15:27:00 +0000",
-      "published_ts": 1784734020,
-      "summary": "Insider Brief Press release &#8211; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, announced it has been awarded three projects to accelerate American scientific research and innovation by the U.S. Department of Energy (DOE) for…"
-    },
-    {
-      "title": "New Framework Uses Quantum Geometry to Help Quantum AI Systems Remember What They Learn",
-      "link": "https://thequantuminsider.com/2026/07/22/new-framework-uses-quantum-geometry-to-help-quantum-ai-systems-remember-what-they-learn/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 22 Jul 2026 14:34:41 +0000",
-      "published_ts": 1784730881,
-      "summary": "Insider Brief Researchers have developed a new framework that uses the geometry of quantum states to help quantum machine learning models retain previously learned knowledge while acquiring new tasks, addressing one of the central challenges facing quantum artificial intelligence (AI). The study, pu…"
-    },
-    {
       "title": "Researchers expand simulation tool to help design the next generation of photonic and quantum devices",
       "link": "https://phys.org/news/2026-07-simulation-tool-generation-photonic-quantum.html",
       "source": "Phys.org — Quantum Physics",
@@ -312,38 +344,6 @@
       "published": "Sat, 18 Jul 2026 08:00:09 EDT",
       "published_ts": 1784376009,
       "summary": "A technology has been developed that allows artificial intelligence to inversely determine the process conditions for quantum-dot light-emitting diode (QLED) devices—conditions that previously required extensive trial and error to identify."
-    },
-    {
-      "title": "How Gravity from Entropy theory connects the second law of thermodynamics with the emergence of cosmic structure",
-      "link": "https://phys.org/news/2026-07-gravity-entropy-theory-law-thermodynamics.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 17 Jul 2026 15:00:01 EDT",
-      "published_ts": 1784314801,
-      "summary": "A new study by Queen Mary University of London mathematician Professor Ginestra Bianconi proposes a new perspective on one of the deepest questions in modern physics: How can the universe become increasingly structured and complex while still obeying the second law of thermodynamics?"
-    },
-    {
-      "title": "A scheme to verify gates of a quantum computer without examining devices",
-      "link": "https://phys.org/news/2026-07-scheme-gates-quantum-devices.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 17 Jul 2026 09:20:11 EDT",
-      "published_ts": 1784294411,
-      "summary": "Quantum computers, systems that process information using the principles of quantum mechanics, could solve some problems that cannot be tackled by the classical computers currently used worldwide. Despite their potential, verifying that these computers are working correctly and can reliably perform…"
-    },
-    {
-      "title": "Scientists create stable 'boron graphene' and uncover quantum liquid crystal state",
-      "link": "https://phys.org/news/2026-07-scientists-stable-boron-graphene-uncover.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 16 Jul 2026 12:20:10 EDT",
-      "published_ts": 1784218810,
-      "summary": "Graphene has long been regarded as one of the most promising materials for future electronics, but its relatively weak electron interactions have limited its potential for applications such as high-temperature superconductivity. Now, researchers from Tohoku University have overcome a major obstacle…"
-    },
-    {
-      "title": "Schrödinger‑like charges in six‑molecule clusters point to new quantum components",
-      "link": "https://phys.org/news/2026-07-schrdingerlike-sixmolecule-clusters-quantum-components.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 16 Jul 2026 11:40:13 EDT",
-      "published_ts": 1784216413,
-      "summary": "Researchers from the University of Basel have published details of how electrons within a cluster of molecules interact with one another and can be controlled. Their findings pave the way for new approaches to developing quantum components and electronic circuits on the nanometer scale."
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
