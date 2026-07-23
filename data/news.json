@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1784794964,
+  "generated_ts": 1784814398,
   "items": [
+    {
+      "title": "D-Wave Quantum to Report Second Quarter 2026 Financial Results on August 6",
+      "link": "https://thequantuminsider.com/2026/07/23/d-wave-quantum-to-report-second-quarter-2026-financial-results-on-august-6-2026/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 23 Jul 2026 12:12:07 +0000",
+      "published_ts": 1784808727,
+      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (NYSE: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced it will release its financial results for the second quarter of 2…"
+    },
+    {
+      "title": "Qedma Integrates Quantum Error Mitigation Software with Quantinuum Platform",
+      "link": "https://thequantuminsider.com/2026/07/23/qedma-error-mitigation-software-quantinuum-platform/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 23 Jul 2026 12:06:33 +0000",
+      "published_ts": 1784808393,
+      "summary": "Insider Brief Press release &#8211; Qedma today announced an integration with Quantinuum’s platform that will allow customers to use its advanced error mitigation on industry-leading quantum computing hardware. Qedma developed this technical integration over the past year as a founding member of the…"
+    },
+    {
+      "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
+      "link": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
+      "source": "MIT News — Quantum Computing",
+      "published": "Thu, 23 Jul 2026 08:00:00 -0400",
+      "published_ts": 1784808000,
+      "summary": "Initial research projects advance national priorities across natural resources, manufacturing, nuclear physics, and more."
+    },
+    {
+      "title": "IBM to Acquire HRL Laboratories to Expand Quantum Computing Research",
+      "link": "https://thequantuminsider.com/2026/07/23/ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quantum/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 23 Jul 2026 11:50:21 +0000",
+      "published_ts": 1784807421,
+      "summary": "Insider Brief Press release &#8211; IBM (NYSE: IBM) today announced it has signed a definitive agreement to acquire HRL Laboratories, LLC (HRL), a flagship research and development institution. HRL is a private company jointly owned by Boeing and General Motors. Both Boeing and GM will continue to p…"
+    },
+    {
+      "title": "Striped or checkered? Magnetic field influences competing electronic patterns in a graphene-like quantum material",
+      "link": "https://phys.org/news/2026-07-striped-checkered-magnetic-field-electronic.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 23 Jul 2026 05:00:10 EDT",
+      "published_ts": 1784797210,
+      "summary": "In most everyday materials, such as copper, silver and silicon, the behavior of electrons is relatively predictable. In quantum materials, however, electrons can interact in complex ways, giving rise to collective electronic states with remarkable properties. Understanding how these states emerge—an…"
+    },
+    {
+      "title": "Quantinuum Appoints New Chief Legal Officer and Chief People Officer",
+      "link": "https://thequantuminsider.com/2026/07/23/quantinuum-appoints-chief-legal-officer-and-chief-people-officer/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 23 Jul 2026 08:22:09 +0000",
+      "published_ts": 1784794929,
+      "summary": "Insider Brief Press release &#8211; Quantinuum, Inc. (NASDAQ:QNT), a leading quantum computing company, today announced the recent appointments of Robin Schulman as Chief Legal Officer (CLO) and Company Secretary, effective July 13, 2026, and Rory O&#8217;Byrne as Chief People Officer (CPO), effecti…"
+    },
     {
       "title": "Hitachi, Intel and AIST Launch Silicon Quantum Computing Project Backed by Japanese Government",
       "link": "https://thequantuminsider.com/2026/07/23/hitachi-intel-and-aist-launch-silicon-quantum-computing-project-backed-by-japanese-government/",
@@ -194,38 +242,6 @@
       "summary": "Insider Brief Researchers have developed a new framework that uses the geometry of quantum states to help quantum machine learning models retain previously learned knowledge while acquiring new tasks, addressing one of the central challenges facing quantum artificial intelligence (AI). The study, pu…"
     },
     {
-      "title": "QPerfect Partners with University of Strasbourg on Neutral-Atom Quantum Computing Platform",
-      "link": "https://thequantuminsider.com/2026/07/22/qperfect-university-strasbourg-digital-twin-aqcess-platform/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 22 Jul 2026 14:29:05 +0000",
-      "published_ts": 1784730545,
-      "summary": "Insider Brief Press release &#8211; BTQ Technologies Corp.&#160;(&#8220;BTQ&#8220;&#160;or the&#160;&#8220;Company&#8221;) (Nasdaq:&#160;BTQ) (CBOE CA: BTQ), a global quantum technology company focused on securing mission-critical networks, today announced that its wholly owned subsidiary, QPerfect,…"
-    },
-    {
-      "title": "Keyfactor Expands Partner Program for Post-Quantum Cryptography Readiness",
-      "link": "https://thequantuminsider.com/2026/07/22/keyfactor-expands-partner-program-for-post-quantum-security/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 22 Jul 2026 14:16:52 +0000",
-      "published_ts": 1784729812,
-      "summary": "Insider Brief Press release &#8211; Keyfactor, the leader in trust infrastructure for AI and machines, today announced a major expansion of its Global Partner Program, designed to help partners capitalize on one of the largest security transformations in decades. As AI accelerates the growth of mach…"
-    },
-    {
-      "title": "Quantum Computing Inc. Appoints Susan Hunt as CRO and Creates Chief Product Officer Role",
-      "link": "https://thequantuminsider.com/2026/07/22/qci-appoints-susan-hunt-chief-revenue-officer/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 22 Jul 2026 14:05:26 +0000",
-      "published_ts": 1784729126,
-      "summary": "Insider Brief Press release &#8211; Quantum Computing Inc. (&#8220;QCi&#8221; or the &#8220;Company&#8221;) (Nasdaq: QUBT), a vertically integrated quantum company pioneering photonics and semiconductor manufacturing, today announced the appointment of Susan Hunt as Chief Revenue Officer (CRO) and t…"
-    },
-    {
-      "title": "PsiQuantum Signs $125 Million Agreement with DARPA",
-      "link": "https://thequantuminsider.com/2026/07/22/psiquantum-signs-125-million-agreement-with-darpa/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 22 Jul 2026 13:44:16 +0000",
-      "published_ts": 1784727856,
-      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum today announced that the company has signed a new $125 million expanded agreement with the Defense Advanced Research Projects Agency (DARPA) under DARPA’s Quantum Benchmarking Initiative (QBI), the U.S. government’s most rigorous effort to evaluate comm…"
-    },
-    {
       "title": "Researchers expand simulation tool to help design the next generation of photonic and quantum devices",
       "link": "https://phys.org/news/2026-07-simulation-tool-generation-photonic-quantum.html",
       "source": "Phys.org — Quantum Physics",
@@ -328,14 +344,6 @@
       "published": "Thu, 16 Jul 2026 11:40:13 EDT",
       "published_ts": 1784216413,
       "summary": "Researchers from the University of Basel have published details of how electrons within a cluster of molecules interact with one another and can be controlled. Their findings pave the way for new approaches to developing quantum components and electronic circuits on the nanometer scale."
-    },
-    {
-      "title": "Scientists achieve all-electrical control of single-molecule quantum states",
-      "link": "https://phys.org/news/2026-07-scientists-electrical-molecule-quantum-states.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 16 Jul 2026 09:30:03 EDT",
-      "published_ts": 1784208603,
-      "summary": "Quantum technologies promise revolutionary advances in computing, sensing and information processing. However, controlling individual quantum bits (qubits) at the atomic scale remains a major challenge because conventional approaches rely on magnetic fields, which are difficult to confine to a singl…"
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
@@ -552,14 +560,6 @@
       "published": "Wed, 11 Mar 2026 12:00:00 -0400",
       "published_ts": 1773244800,
       "summary": "Light-emitting structures that curl off the chip surface could enable advanced displays, high-speed optical communications, and larger-scale quantum computers."
-    },
-    {
-      "title": "Efficient cooling method could enable chip-based trapped-ion quantum computers",
-      "link": "https://news.mit.edu/2026/efficient-cooling-method-could-enable-chip-based-quantum-computers-0115",
-      "source": "MIT News — Quantum Computing",
-      "published": "Thu, 15 Jan 2026 13:00:00 -0500",
-      "published_ts": 1768500000,
-      "summary": "New technique could improve the scalability of trapped-ion quantum computers, an essential step toward making them practically useful."
     }
   ]
 }
