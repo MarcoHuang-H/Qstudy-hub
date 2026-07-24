@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1784833665,
+  "generated_ts": 1784859197,
   "items": [
+    {
+      "title": "Engineers observe quantum heat waves at room temperature",
+      "link": "https://phys.org/news/2026-07-quantum-room-temperature.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 23 Jul 2026 17:30:01 EDT",
+      "published_ts": 1784842201,
+      "summary": "Efficient heat management in solids is key to advancing the next generation of electronics. However, wave-like heat movement—known as phonon focusing—had been observed only at extremely low, or cryogenic, temperatures, limiting its study and practical use."
+    },
+    {
+      "title": "Simple circuit brings topological insulators closer to practical electrical measurement standards",
+      "link": "https://phys.org/news/2026-07-simple-circuit-topological-insulators-closer.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 23 Jul 2026 17:10:01 EDT",
+      "published_ts": 1784841001,
+      "summary": "Researchers at the University of Würzburg have succeeded in detecting exceptionally robust electrical transport in a topological insulator. This could lead to new metrological applications. The work is published in the journal Nature Communications."
+    },
     {
       "title": "Quantum Newton's cradle set to level up computing",
       "link": "https://phys.org/news/2026-07-quantum-newton-cradle.html",
@@ -328,22 +344,6 @@
       "published": "Sun, 19 Jul 2026 14:20:01 EDT",
       "published_ts": 1784485201,
       "summary": "The inevitable leakage of energy and information from a quantum system into its surrounding environment is the enemy of quantum technology. Now, researchers have demonstrated that it can be exploited to generate entanglement—the \"resource\" that quantum technologies use to perform tasks inaccessible…"
-    },
-    {
-      "title": "How quantum circuits based on neutral atoms could find and fix errors",
-      "link": "https://phys.org/news/2026-07-quantum-circuits-based-neutral-atoms.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 18 Jul 2026 09:20:01 EDT",
-      "published_ts": 1784380801,
-      "summary": "Quantum computers, devices that process information by leveraging the laws of quantum mechanics, have been found to outperform classical computers in some advanced tasks. Instead of storing information in the form of classical binary bits (i.e., 0 or 1), quantum computers rely on quantum bits (i.e.,…"
-    },
-    {
-      "title": "AI unlocks QLED recipe that doubles efficiency and boosts lifetime 40-fold",
-      "link": "https://phys.org/news/2026-07-ai-qled-recipe-efficiency-boosts.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 18 Jul 2026 08:00:09 EDT",
-      "published_ts": 1784376009,
-      "summary": "A technology has been developed that allows artificial intelligence to inversely determine the process conditions for quantum-dot light-emitting diode (QLED) devices—conditions that previously required extensive trial and error to identify."
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
