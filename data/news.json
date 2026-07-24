@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1784899605,
+  "generated_ts": 1784920704,
   "items": [
+    {
+      "title": "Photonic Quantum Technology Companies in 2026",
+      "link": "https://thequantuminsider.com/2026/07/24/9-quantum-computing-companies-working-with-photonic-technology/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 24 Jul 2026 17:24:46 +0000",
+      "published_ts": 1784913886,
+      "summary": "Insider Brief Most quantum computers rely on extreme cooling to keep their qubits stable. Photonic quantum computers take a different route by using photons, particles of light, as the carriers of quantum information. This allows the processors themselves to operate at room temperature and connects…"
+    },
+    {
+      "title": "Quantum Zeno effect could freeze computations as qubit systems scale up",
+      "link": "https://phys.org/news/2026-07-quantum-zeno-effect-qubit-scale.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 24 Jul 2026 12:40:06 EDT",
+      "published_ts": 1784911206,
+      "summary": "The promise of quantum computing is to solve complex problems faster and more energy-efficiently than today's supercomputers—from optimizing logistics to simulating molecules. This goal is coming within reach as the number of qubits—the computational units of quantum computing—increases."
+    },
+    {
+      "title": "SKKU-led Team Identifies ‘Zinc Oxide Spin Qubit’ — A Semiconductor-Based Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/07/24/skku-led-team-identifies-zinc-oxide-spin-qubit-a-semiconductor-based-quantum-technology/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 24 Jul 2026 13:41:07 +0000",
+      "published_ts": 1784900467,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A research team led by SKKU Professor Hosung Seo of the Department of Quantum Information Engineering and the SKKU Advanced Institute of Nanotechnology, working with the University of Wisconsin–Madison and the University of Washington, has identified—for the first…"
+    },
     {
       "title": "World's first 'zinc oxide spin qubit' could advance scalable quantum devices",
       "link": "https://phys.org/news/2026-07-world-zinc-oxide-qubit-advance.html",
@@ -218,28 +242,12 @@
       "summary": "Sending quantum information through a chain of qubits, like energy through a Newton's cradle, could be the key to faster operations and take quantum computing to the next level."
     },
     {
-      "title": "IQMP and Q-STAR Partner to Expand Japan-Illinois Quantum Collaboration",
-      "link": "https://thequantuminsider.com/2026/07/23/iqmp-q-star-japan-illinois-quantum-collaboration/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 23 Jul 2026 17:49:29 +0000",
-      "published_ts": 1784828969,
-      "summary": "Insider Brief Press release &#8211; Today, the Illinois Quantum and Microelectronics Park (IQMP) and the Quantum STrategic industry Alliance for Revolution (Q-STAR) announced a new partnership to strengthen collaboration between Japanese companies and Illinois’ quantum ecosystem. The memorandum of u…"
-    },
-    {
       "title": "From one frontier to another: The quantum revolution",
       "link": "https://phys.org/news/2026-07-frontier-quantum-revolution.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 23 Jul 2026 10:40:01 EDT",
       "published_ts": 1784817601,
       "summary": "Manchester's quantum researchers are building on the Ferranti Mark I legacy, using ultra-pure silicon and single atoms to move quantum computing closer to real-world impact."
-    },
-    {
-      "title": "New White House Science Strategy Points to a Quantum-Style Innovation Model",
-      "link": "https://thequantuminsider.com/2026/07/23/new-white-house-science-strategy-points-to-a-quantum-style-innovation-model/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 23 Jul 2026 14:35:07 +0000",
-      "published_ts": 1784817307,
-      "summary": "Insider Brief The White House&#8217;s new science strategy proposes a different way of organizing American innovation, one that could reshape how the U.S. quantum sector develops over the next decade. Yet many of the report&#8217;s central recommendations describe an innovation model that parts of t…"
     },
     {
       "title": "Shaking atoms to bring black-hole quantum chaos into the lab",
@@ -328,14 +336,6 @@
       "published": "Tue, 21 Jul 2026 16:20:11 EDT",
       "published_ts": 1784665211,
       "summary": "Artificial intelligence faces an energy crisis stemming from a physical traffic jam inside modern computer chips. Processors must continually shuffle data, such as the billions of parameters in complex models, between separate computing and memory nodes. This traffic jam, known as the \"von Neumann b…"
-    },
-    {
-      "title": "From quantum error correction to emergent gravity: Probing holographic universes at QLab",
-      "link": "https://phys.org/news/2026-07-quantum-error-emergent-gravity-probing.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 21 Jul 2026 11:10:02 EDT",
-      "published_ts": 1784646602,
-      "summary": "One of the deepest ambitions in modern physics is understanding how the fabric of space and time could emerge from fundamental quantum degrees of freedom to establish a quantum theory of gravity."
     },
     {
       "title": "An ordinary laptop solved a problem thought to require a quantum computer",
