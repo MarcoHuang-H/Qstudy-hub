@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1784881138,
+  "generated_ts": 1784899605,
   "items": [
+    {
+      "title": "World's first 'zinc oxide spin qubit' could advance scalable quantum devices",
+      "link": "https://phys.org/news/2026-07-world-zinc-oxide-qubit-advance.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 24 Jul 2026 09:20:04 EDT",
+      "published_ts": 1784899204,
+      "summary": "A research team led by SKKU professor Hosung Seo of the Department of Quantum Information Engineering and the SKKU Advanced Institute of Nanotechnology, working with the University of Wisconsin–Madison and the University of Washington, has identified—for the first time—an atomic defect structure in…"
+    },
+    {
+      "title": "Quantum Materials Engineering – The Atoms Powering Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/07/24/quantum-materials-engineering-the-atoms-powering-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 24 Jul 2026 11:27:33 +0000",
+      "published_ts": 1784892453,
+      "summary": "Insider Brief Quantum computing is often portrayed as a race to build better qubits, but this is just part of the bigger challenge. Beneath every qubit is an endeavor to find the right material that can make quantum behavior possible. Researchers are exploring superconducting metals, ultra-pure sili…"
+    },
+    {
+      "title": "WISER and E.ON Advance Energy Demand Forecasting with Quantum Machine Learning",
+      "link": "https://thequantuminsider.com/2026/07/24/wiser-eon-quantum-machine-learning-energy-forecasting/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 24 Jul 2026 10:48:36 +0000",
+      "published_ts": 1784890116,
+      "summary": "Insider Brief Press release &#8211; The Washington Institute for STEM, Entrepreneurship and Research (WISER) announces the successful completion of a research collaboration with E.ON on energy demand forecasting using quantum machine learning. The joint project, published on arXiv, explores two hybr…"
+    },
+    {
+      "title": "Rigetti Computing to Report Second Quarter 2026 Financial Results on August 6",
+      "link": "https://thequantuminsider.com/2026/07/24/rigetti-computing-to-report-second-quarter-2026-financial-results-and-host-conference-call-on-august-6-2026/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 24 Jul 2026 10:31:59 +0000",
+      "published_ts": 1784889119,
+      "summary": "Insider Brief Press release &#8211; Rigetti Computing, Inc. (&#8220;Rigetti&#8221; or the &#8220;Company&#8221;) (Nasdaq: RGTI), a pioneer in hybrid quantum-classical computing, announced today that it will release second quarter 2026 results on Thursday, August 6, 2026, after market close. The Comp…"
+    },
+    {
+      "title": "Digital Catapult and NQCC Select 11 Organisations for Quantum Technology Access Programme",
+      "link": "https://thequantuminsider.com/2026/07/24/digital-catapult-nqcc-quantum-technology-access-programme/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 24 Jul 2026 10:24:53 +0000",
+      "published_ts": 1784888693,
+      "summary": "Insider Brief Press release &#8211; Digital Catapult has today welcomed eleven leading organisations to the third cohort of its Quantum Technology Access Programme (QTAP), delivered in collaboration with the National Quantum Computing Centre’s (NQCC) SparQ programme. Designed to accelerate the pract…"
+    },
+    {
+      "title": "Terra Quantum and Apex.AI Integrate NIST Post-Quantum Cryptography Into Robotics Software",
+      "link": "https://thequantuminsider.com/2026/07/24/terra-quantum-apex-ai-post-quantum-cryptography/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 24 Jul 2026 10:13:13 +0000",
+      "published_ts": 1784887993,
+      "summary": "Insider Brief Press release &#8211; Terra Quantum, a global leader in quantum technologies, and Apex.AI, a leading provider of safe and secure software for software-defined vehicles and intelligent machines, today announced the successful implementation of NIST-standardized post-quantum cryptography…"
+    },
+    {
+      "title": "Quantum Circuits Inc.’s Acquisition Boosts Connecticut Innovations’ Record-Breaking Fiscal Year",
+      "link": "https://thequantuminsider.com/2026/07/24/quantum-circuits-inc-s-acquisition-boosts-connecticut-innovations-record-breaking-fiscal-year/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 24 Jul 2026 08:34:22 +0000",
+      "published_ts": 1784882062,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Connecticut Innovations (CI), the state&#8217;s strategic venture capital arm, today announced a record-breaking fiscal year, generating $66.5 million in cash proceeds from a series of landmark portfolio exits and a combined $76.1 million from all investment activ…"
+    },
+    {
+      "title": "Guest Post — Quantum Cybersecurity Careers: Why It Will Be One of the Most Sought-After Jobs of the Next Decade",
+      "link": "https://thequantuminsider.com/2026/07/24/guest-post-quantum-cybersecurity-careers-why-it-will-be-one-of-the-most-sought-after-jobs-of-the-next-decade/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 24 Jul 2026 08:12:25 +0000",
+      "published_ts": 1784880745,
+      "summary": "Guest Post By Sudiptaa Paul Choudhury is Chief Marketing Officer at QNu Labs, a global leader in quantum cybersecurity, TEDx speaker and a LinkedIn Top Voice. Quantum computing has stopped being a laboratory curiosity. McKinsey&#8217;s Quantum Technology Monitor 2026 estimates that quantum computing…"
+    },
+    {
+      "title": "Bloq Quantum Partners With Sree Buddha College of Engineering to Establish a Quantum Technology Hub",
+      "link": "https://thequantuminsider.com/2026/07/24/bloq-quantum-partners-with-sree-buddha-college-of-engineering-to-establish-a-quantum-technology-hub/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 24 Jul 2026 07:59:26 +0000",
+      "published_ts": 1784879966,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Bloq Quantum, a leading provider of enterprise quantum software infrastructure, today announced a strategic partnership with the Department of Electronics and Communication Engineering at Sree Buddha College of Engineering (SBCE). Through this collaboration, forma…"
+    },
     {
       "title": "Machine-Learned Compact Subspace Generation for Quantum Selected Configuration Interaction within Density Matrix Embedding Framework",
       "link": "https://arxiv.org/abs/2607.20585",
@@ -186,46 +258,6 @@
       "summary": "Heavy polar molecules are some of the most sensitive tools physicists have for probing what lies beyond the Standard Model, the theory that describes the particles and forces we know about. But turning that sensitivity into precise, trustworthy measurements has long been held back by one stubborn pr…"
     },
     {
-      "title": "Infleqtion to Deploy Neutral-Atom Quantum Computer at Illinois Quantum Park in 2027",
-      "link": "https://thequantuminsider.com/2026/07/23/infleqtion-neutral-atom-quantum-computer-illinois/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 23 Jul 2026 14:00:00 +0000",
-      "published_ts": 1784815200,
-      "summary": "Insider Brief Press release &#8211; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, announced it will deploy its fault-tolerant, neutral-atom quantum computer at the Illinois Quantum &#38; Microelectronics Park (IQMP), with delive…"
-    },
-    {
-      "title": "Quantum Elements Launches Orbit Error Suppression Tool Through IBM Qiskit Platform",
-      "link": "https://thequantuminsider.com/2026/07/23/quantum-elements-orbit-error-suppression-tool-qiskit/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 23 Jul 2026 13:16:24 +0000",
-      "published_ts": 1784812584,
-      "summary": "Insider Brief Press release &#8211; Quantum Elements, a provider of AI-powered digital twins for quantum computing developers, today announced that Orbit, an advanced quantum error suppression tool, will be available through the IBM Qiskit Functions Catalog.  The launch will make Orbit directly acce…"
-    },
-    {
-      "title": "Major Bitcoin Firms Commit $15 Million to Support Bitcoin Security Development",
-      "link": "https://thequantuminsider.com/2026/07/23/bitcoin-security-consortium-launches-15-million-funding/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 23 Jul 2026 13:13:36 +0000",
-      "published_ts": 1784812416,
-      "summary": "Insider Brief Press release &#8211; A group of leading financial institutions and Bitcoin companies today announced the formation of the&#160;Bitcoin Security Consortium, an initiative dedicated to supporting the long-term security and resilience of the Bitcoin network, backed by an aggregate&#160;$…"
-    },
-    {
-      "title": "D-Wave Quantum to Report Second Quarter 2026 Financial Results on August 6",
-      "link": "https://thequantuminsider.com/2026/07/23/d-wave-quantum-to-report-second-quarter-2026-financial-results-on-august-6-2026/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 23 Jul 2026 12:12:07 +0000",
-      "published_ts": 1784808727,
-      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (NYSE: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced it will release its financial results for the second quarter of 2…"
-    },
-    {
-      "title": "Qedma Integrates Quantum Error Mitigation Software with Quantinuum Platform",
-      "link": "https://thequantuminsider.com/2026/07/23/qedma-error-mitigation-software-quantinuum-platform/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 23 Jul 2026 12:06:33 +0000",
-      "published_ts": 1784808393,
-      "summary": "Insider Brief Press release &#8211; Qedma today announced an integration with Quantinuum’s platform that will allow customers to use its advanced error mitigation on industry-leading quantum computing hardware. Qedma developed this technical integration over the past year as a founding member of the…"
-    },
-    {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
       "link": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
       "source": "MIT News — Quantum Computing",
@@ -234,36 +266,12 @@
       "summary": "Initial research projects advance national priorities across natural resources, manufacturing, nuclear physics, and more."
     },
     {
-      "title": "IBM to Acquire HRL Laboratories to Expand Quantum Computing Research",
-      "link": "https://thequantuminsider.com/2026/07/23/ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quantum/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 23 Jul 2026 11:50:21 +0000",
-      "published_ts": 1784807421,
-      "summary": "Insider Brief Press release &#8211; IBM (NYSE: IBM) today announced it has signed a definitive agreement to acquire HRL Laboratories, LLC (HRL), a flagship research and development institution. HRL is a private company jointly owned by Boeing and General Motors. Both Boeing and GM will continue to p…"
-    },
-    {
       "title": "Striped or checkered? Magnetic field influences competing electronic patterns in a graphene-like quantum material",
       "link": "https://phys.org/news/2026-07-striped-checkered-magnetic-field-electronic.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 23 Jul 2026 05:00:10 EDT",
       "published_ts": 1784797210,
       "summary": "In most everyday materials, such as copper, silver and silicon, the behavior of electrons is relatively predictable. In quantum materials, however, electrons can interact in complex ways, giving rise to collective electronic states with remarkable properties. Understanding how these states emerge—an…"
-    },
-    {
-      "title": "Quantinuum Appoints New Chief Legal Officer and Chief People Officer",
-      "link": "https://thequantuminsider.com/2026/07/23/quantinuum-appoints-chief-legal-officer-and-chief-people-officer/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 23 Jul 2026 08:22:09 +0000",
-      "published_ts": 1784794929,
-      "summary": "Insider Brief Press release &#8211; Quantinuum, Inc. (NASDAQ:QNT), a leading quantum computing company, today announced the recent appointments of Robin Schulman as Chief Legal Officer (CLO) and Company Secretary, effective July 13, 2026, and Rory O&#8217;Byrne as Chief People Officer (CPO), effecti…"
-    },
-    {
-      "title": "Hitachi, Intel and AIST Launch Silicon Quantum Computing Project Backed by Japanese Government",
-      "link": "https://thequantuminsider.com/2026/07/23/hitachi-intel-and-aist-launch-silicon-quantum-computing-project-backed-by-japanese-government/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 23 Jul 2026 08:10:35 +0000",
-      "published_ts": 1784794235,
-      "summary": "Insider Brief Hitachi has launched a government-backed research effort with Intel K.K. and Japan&#8216;s National Institute of Advanced Industrial Science and Technology, or AIST, to develop silicon-based quantum computing technologies aimed at moving the field from laboratory research toward indust…"
     },
     {
       "title": "Quantum internet leaves the lab with first real-world entanglement over busy telecom fiber",
@@ -336,14 +344,6 @@
       "published": "Mon, 20 Jul 2026 03:40:09 EDT",
       "published_ts": 1784533209,
       "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their resul…"
-    },
-    {
-      "title": "Quantum entanglement without transport: Leaky qubits offer route around noisy channels",
-      "link": "https://phys.org/news/2026-07-quantum-entanglement-leaky-qubits-route.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sun, 19 Jul 2026 14:20:01 EDT",
-      "published_ts": 1784485201,
-      "summary": "The inevitable leakage of energy and information from a quantum system into its surrounding environment is the enemy of quantum technology. Now, researchers have demonstrated that it can be exploited to generate entanglement—the \"resource\" that quantum technologies use to perform tasks inaccessible…"
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
