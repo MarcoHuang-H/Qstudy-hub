@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1784966412,
+  "generated_ts": 1784985284,
   "items": [
+    {
+      "title": "Guest Post: Inside Africa’s Coordinated Race to Secure a Post-Quantum Future",
+      "link": "https://thequantuminsider.com/2026/07/25/inside-africas-coordinated-race-to-secure-a-post-quantum-future/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 25 Jul 2026 09:00:00 +0000",
+      "published_ts": 1784970000,
+      "summary": "Guest Post by By Somtochukwu Igwegbe More than two trillion dollars moved through mobile money worldwide in 2025, and roughly two-thirds of that value flowed through sub-Saharan Africa, according to GSMA&#8217;s State of the Industry Report on Mobile Money 2026. For a fifth of adults in the region,…"
+    },
     {
       "title": "Long-lived ytterbium states could sharpen quantum computing and atomic clocks",
       "link": "https://phys.org/news/2026-07-ytterbium-states-sharpen-quantum-atomic.html",
@@ -96,14 +104,6 @@
       "published": "Fri, 24 Jul 2026 08:12:25 +0000",
       "published_ts": 1784880745,
       "summary": "Guest Post By Sudiptaa Paul Choudhury is Chief Marketing Officer at QNu Labs, a global leader in quantum cybersecurity, TEDx speaker and a LinkedIn Top Voice. Quantum computing has stopped being a laboratory curiosity. McKinsey&#8217;s Quantum Technology Monitor 2026 estimates that quantum computing…"
-    },
-    {
-      "title": "Bloq Quantum Partners With Sree Buddha College of Engineering to Establish a Quantum Technology Hub",
-      "link": "https://thequantuminsider.com/2026/07/24/bloq-quantum-partners-with-sree-buddha-college-of-engineering-to-establish-a-quantum-technology-hub/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 24 Jul 2026 07:59:26 +0000",
-      "published_ts": 1784879966,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Bloq Quantum, a leading provider of enterprise quantum software infrastructure, today announced a strategic partnership with the Department of Electronics and Communication Engineering at Sree Buddha College of Engineering (SBCE). Through this collaboration, forma…"
     },
     {
       "title": "Engineers observe quantum heat waves at room temperature",
