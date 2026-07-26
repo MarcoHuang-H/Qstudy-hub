@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1785071400,
+  "generated_ts": 1785092640,
   "items": [
+    {
+      "title": "A quantum heat engine that simultaneously provides work and refrigeration",
+      "link": "https://phys.org/news/2026-07-quantum-simultaneously-refrigeration.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 26 Jul 2026 12:20:01 EDT",
+      "published_ts": 1785082801,
+      "summary": "The laws of thermodynamics state that heat naturally flows from hotter systems or regions to colder systems or regions until a state of thermal equilibrium is reached. This simple principle underpins the operation of numerous technologies, ranging from refrigerators to power plants."
+    },
     {
       "title": "Guest Post: Inside Africa’s Coordinated Race to Secure a Post-Quantum Future",
       "link": "https://thequantuminsider.com/2026/07/25/inside-africas-coordinated-race-to-secure-a-post-quantum-future/",
@@ -200,14 +208,6 @@
       "published": "Wed, 22 Jul 2026 08:40:02 EDT",
       "published_ts": 1784724002,
       "summary": "Many modern technologies, from optical communications and artificial intelligence (AI) hardware to advanced sensors and medical imaging, depend on photonic and semiconductor devices that precisely control the interaction between light and electrons. Designing these devices, however, remains a major…"
-    },
-    {
-      "title": "New multiplexing scheme accelerates long-distance quantum communication",
-      "link": "https://phys.org/news/2026-07-multiplexing-scheme-distance-quantum-communication.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 22 Jul 2026 06:20:01 EDT",
-      "published_ts": 1784715601,
-      "summary": "Quantum networks, systems consisting of multiple connected nodes or devices that can transmit quantum information to one another, have the potential to advance future communications. These networks typically leverage entanglement, a quantum phenomenon that prompts two or more distant particles to be…"
     },
     {
       "title": "New programmable photonic chip can control how fast light moves",
