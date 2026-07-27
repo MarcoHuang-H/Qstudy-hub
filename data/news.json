@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1785162143,
+  "generated_ts": 1785179995,
   "items": [
+    {
+      "title": "Applications Open for Tennessee Quantum Hackathon Focused on Energy Applications",
+      "link": "https://thequantuminsider.com/2026/07/27/tennessee-quantum-hackathon-energy-applications/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 27 Jul 2026 15:50:11 +0000",
+      "published_ts": 1785167411,
+      "summary": "Insider Brief Press release &#8211; Applications are now open for the Tennessee Quantum Hackathon hosted by The Company Lab (CO.LAB) in partnership with the Chattanooga Quantum Collaborative (CQC) and the University of Tennessee at Chattanooga (UTC). The 36-hour innovation challenge will take place…"
+    },
+    {
+      "title": "Pittsburgh Supercomputing Center Will Build New Hybrid Quantum-Classical Supercomputer",
+      "link": "https://thequantuminsider.com/2026/07/27/pittsburgh-supercomputing-center-will-build-new-hybrid-quantum-classical-supercomputer/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 27 Jul 2026 14:58:45 +0000",
+      "published_ts": 1785164325,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A hybrid quantum-classical computer will soon operate at the Pittsburgh Supercomputing Center, thanks to a $5-million grant from the National Science Foundation. To deliver on the grant, PSC, HPE, and Rigetti Computing will partner together to build the TangleLab…"
+    },
+    {
+      "title": "Quantum neural networks get their first hardware test",
+      "link": "https://phys.org/news/2026-07-quantum-neural-networks-hardware.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 27 Jul 2026 10:50:01 EDT",
+      "published_ts": 1785163801,
+      "summary": "Neural networks have transformed how machines find patterns in data, from recognizing faces in photos to predicting the shapes of proteins. So far, all of this progress has been made on ordinary classical computers, but with quantum computers now edging into practical use, there is a real possibilit…"
+    },
     {
       "title": "D-Wave and AT&T Explore Quantum Computing Applications in Network Operations",
       "link": "https://thequantuminsider.com/2026/07/27/d-wave-att-quantum-network-operations/",
@@ -202,28 +226,12 @@
       "summary": "The laws of thermodynamics state that heat naturally flows from hotter systems or regions to colder systems or regions until a state of thermal equilibrium is reached. This simple principle underpins the operation of numerous technologies, ranging from refrigerators to power plants."
     },
     {
-      "title": "Guest Post: Inside Africa’s Coordinated Race to Secure a Post-Quantum Future",
-      "link": "https://thequantuminsider.com/2026/07/25/inside-africas-coordinated-race-to-secure-a-post-quantum-future/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 25 Jul 2026 09:00:00 +0000",
-      "published_ts": 1784970000,
-      "summary": "Guest Post by By Somtochukwu Igwegbe More than two trillion dollars moved through mobile money worldwide in 2025, and roughly two-thirds of that value flowed through sub-Saharan Africa, according to GSMA&#8217;s State of the Industry Report on Mobile Money 2026. For a fifth of adults in the region,…"
-    },
-    {
       "title": "Long-lived ytterbium states could sharpen quantum computing and atomic clocks",
       "link": "https://phys.org/news/2026-07-ytterbium-states-sharpen-quantum-atomic.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 24 Jul 2026 17:20:02 EDT",
       "published_ts": 1784928002,
       "summary": "Researchers from the University of Amsterdam and the University of New South Wales have answered a question that has been around for decades: whether ions of the metal ytterbium can enter certain long-lived, nearly stable states and, if so, for how long. The measured long-lived states may find appli…"
-    },
-    {
-      "title": "Photonic Quantum Technology Companies in 2026",
-      "link": "https://thequantuminsider.com/2026/07/24/9-quantum-computing-companies-working-with-photonic-technology/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 24 Jul 2026 17:24:46 +0000",
-      "published_ts": 1784913886,
-      "summary": "Insider Brief Most quantum computers rely on extreme cooling to keep their qubits stable. Photonic quantum computers take a different route by using photons, particles of light, as the carriers of quantum information. This allows the processors themselves to operate at room temperature and connects…"
     },
     {
       "title": "Quantum Zeno effect could freeze computations as qubit systems scale up",
@@ -320,14 +328,6 @@
       "published": "Wed, 22 Jul 2026 16:40:07 EDT",
       "published_ts": 1784752807,
       "summary": "In recent years, research using artificial intelligence to predict material properties has advanced rapidly. Neural network quantum Monte Carlo methods have attracted attention as highly accurate simulation techniques. However, their extremely high computational cost has limited their application to…"
-    },
-    {
-      "title": "Detecting the body's magnetic fields with a low-power Ramsey-based magnetometer",
-      "link": "https://phys.org/news/2026-07-body-magnetic-fields-power-ramsey.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 22 Jul 2026 16:40:06 EDT",
-      "published_ts": 1784752806,
-      "summary": "Our bodies generate extremely weak magnetic fields as electric currents flow through the heart, brain and other tissues. These signals are used in magnetocardiography and magnetoencephalography to assess heart function and brain activity, respectively. These fields can be detected at room temperatur…"
     },
     {
       "title": "New programmable photonic chip can control how fast light moves",
