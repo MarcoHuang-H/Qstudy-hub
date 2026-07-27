@@ -1,8 +1,32 @@
 {
-  "generated_ts": 1785145284,
+  "generated_ts": 1785162143,
   "items": [
     {
-      "title": "Long Live Ytterbium! Long-lived States Found in Trapped Ions Open New Doors For Quantum Computing And Atomic Clocks",
+      "title": "D-Wave and AT&T Explore Quantum Computing Applications in Network Operations",
+      "link": "https://thequantuminsider.com/2026/07/27/d-wave-att-quantum-network-operations/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 27 Jul 2026 12:35:16 +0000",
+      "published_ts": 1785155716,
+      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (NASDAQ: QBTS), (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, and AT&#38;T (NYSE: T) today announced that AT&#38;T has signed an agreement t…"
+    },
+    {
+      "title": "QTREX and Northeastern University Launch Quantum Interconnect Research Collaboration",
+      "link": "https://thequantuminsider.com/2026/07/27/qtrex-northeastern-university-quantum-interconnect-research/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 27 Jul 2026 12:27:25 +0000",
+      "published_ts": 1785155245,
+      "summary": "Insider Brief Press release &#8211; QTREX Quantum Ltd. (Nasdaq: QTEX) (&#8220;QTREX&#8221; or the &#8220;Company&#8221;) a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure today announced the launch of a research collaboration with Northea…"
+    },
+    {
+      "title": "Multiverse Computing Announces Series C Fundraising Targeting up to $570 Million",
+      "link": "https://thequantuminsider.com/2026/07/27/multiverse-computing-announces-series-c-fundraising-targeting-up-to-570-million/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 27 Jul 2026 09:28:42 +0000",
+      "published_ts": 1785144522,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Multiverse Computing, the global leader in efficient AI, today announced a $570 million (€500M) Series C funding round at a $1.7 billion (€1.5B) pre-money valuation, a 5x step-up from its Series B. The round is co-led by Forgepoint Capital International, BNPP SIVF…"
+    },
+    {
+      "title": "Researchers Measure Long-Lived Ytterbium Ion States for Quantum Applications",
       "link": "https://thequantuminsider.com/2026/07/27/long-live-ytterbium-long-lived-states-found-in-trapped-ions-open-new-doors-for-quantum-computing-and-atomic-clocks/",
       "source": "The Quantum Insider",
       "published": "Mon, 27 Jul 2026 08:37:12 +0000",
@@ -210,36 +234,12 @@
       "summary": "The promise of quantum computing is to solve complex problems faster and more energy-efficiently than today's supercomputers—from optimizing logistics to simulating molecules. This goal is coming within reach as the number of qubits—the computational units of quantum computing—increases."
     },
     {
-      "title": "SKKU-led Team Identifies ‘Zinc Oxide Spin Qubit’ — A Semiconductor-Based Quantum Technology",
-      "link": "https://thequantuminsider.com/2026/07/24/skku-led-team-identifies-zinc-oxide-spin-qubit-a-semiconductor-based-quantum-technology/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 24 Jul 2026 13:41:07 +0000",
-      "published_ts": 1784900467,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A research team led by SKKU Professor Hosung Seo of the Department of Quantum Information Engineering and the SKKU Advanced Institute of Nanotechnology, working with the University of Wisconsin–Madison and the University of Washington, has identified—for the first…"
-    },
-    {
       "title": "World's first 'zinc oxide spin qubit' could advance scalable quantum devices",
       "link": "https://phys.org/news/2026-07-world-zinc-oxide-qubit-advance.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 24 Jul 2026 09:20:04 EDT",
       "published_ts": 1784899204,
       "summary": "A research team led by SKKU professor Hosung Seo of the Department of Quantum Information Engineering and the SKKU Advanced Institute of Nanotechnology, working with the University of Wisconsin–Madison and the University of Washington, has identified—for the first time—an atomic defect structure in…"
-    },
-    {
-      "title": "Quantum Materials Engineering – The Atoms Powering Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/07/24/quantum-materials-engineering-the-atoms-powering-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 24 Jul 2026 11:27:33 +0000",
-      "published_ts": 1784892453,
-      "summary": "Insider Brief Quantum computing is often portrayed as a race to build better qubits, but this is just part of the bigger challenge. Beneath every qubit is an endeavor to find the right material that can make quantum behavior possible. Researchers are exploring superconducting metals, ultra-pure sili…"
-    },
-    {
-      "title": "WISER and E.ON Advance Energy Demand Forecasting with Quantum Machine Learning",
-      "link": "https://thequantuminsider.com/2026/07/24/wiser-eon-quantum-machine-learning-energy-forecasting/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 24 Jul 2026 10:48:36 +0000",
-      "published_ts": 1784890116,
-      "summary": "Insider Brief Press release &#8211; The Washington Institute for STEM, Entrepreneurship and Research (WISER) announces the successful completion of a research collaboration with E.ON on energy demand forecasting using quantum machine learning. The joint project, published on arXiv, explores two hybr…"
     },
     {
       "title": "Engineers observe quantum heat waves at room temperature",
