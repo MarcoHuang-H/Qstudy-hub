@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1785092640,
+  "generated_ts": 1785119505,
   "items": [
+    {
+      "title": "Near a black hole, gravity changes a quantum circuit's readings, not its rules",
+      "link": "https://phys.org/news/2026-07-black-hole-gravity-quantum-circuit.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 26 Jul 2026 19:00:01 EDT",
+      "published_ts": 1785106801,
+      "summary": "Imagine holding one of our most precise quantum devices at a fixed position outside a black hole. A Josephson junction—two superconductors separated by an ultrathin barrier—can turn a voltage into a quantum oscillation with extraordinary precision. Would intense gravity change that quantum rule, or…"
+    },
     {
       "title": "A quantum heat engine that simultaneously provides work and refrigeration",
       "link": "https://phys.org/news/2026-07-quantum-simultaneously-refrigeration.html",
@@ -200,14 +208,6 @@
       "published": "Wed, 22 Jul 2026 16:40:06 EDT",
       "published_ts": 1784752806,
       "summary": "Our bodies generate extremely weak magnetic fields as electric currents flow through the heart, brain and other tissues. These signals are used in magnetocardiography and magnetoencephalography to assess heart function and brain activity, respectively. These fields can be detected at room temperatur…"
-    },
-    {
-      "title": "Researchers expand simulation tool to help design the next generation of photonic and quantum devices",
-      "link": "https://phys.org/news/2026-07-simulation-tool-generation-photonic-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 22 Jul 2026 08:40:02 EDT",
-      "published_ts": 1784724002,
-      "summary": "Many modern technologies, from optical communications and artificial intelligence (AI) hardware to advanced sensors and medical imaging, depend on photonic and semiconductor devices that precisely control the interaction between light and electrons. Designing these devices, however, remains a major…"
     },
     {
       "title": "New programmable photonic chip can control how fast light moves",
