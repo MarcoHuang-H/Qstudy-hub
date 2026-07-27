@@ -1,6 +1,166 @@
 {
-  "generated_ts": 1785119505,
+  "generated_ts": 1785145284,
   "items": [
+    {
+      "title": "Long Live Ytterbium! Long-lived States Found in Trapped Ions Open New Doors For Quantum Computing And Atomic Clocks",
+      "link": "https://thequantuminsider.com/2026/07/27/long-live-ytterbium-long-lived-states-found-in-trapped-ions-open-new-doors-for-quantum-computing-and-atomic-clocks/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 27 Jul 2026 08:37:12 +0000",
+      "published_ts": 1785141432,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers from the Universities of Amsterdam and New South Wales have answered a question that has been around for decades: whether ions of the metal ytterbium can enter certain long-lived and nearly stable states, and if so, for how long. The measured long-live…"
+    },
+    {
+      "title": "Neutral-Atom Researchers Lay Out Industry-Wide Roadmap Toward Practical Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/07/27/neutral-atom-researchers-lay-out-industry-wide-roadmap-toward-practical-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 27 Jul 2026 08:24:34 +0000",
+      "published_ts": 1785140674,
+      "summary": "Insider Brief Over the years, numerous quantum companies have released roadmaps proposing how they plan to move their technologies into the marketplace over the coming months and years. Now, in what is an unprecedented move, a broad group of quantum scientists, engineers and entrepreneurs has outlin…"
+    },
+    {
+      "title": "IonQ to Report Second Quarter 2026 Financial Results on August 5",
+      "link": "https://thequantuminsider.com/2026/07/27/ionq-to-report-second-quarter-2026-financial-results-on-august-5-2026/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 27 Jul 2026 07:55:43 +0000",
+      "published_ts": 1785138943,
+      "summary": "Insider Brief Press release &#8211; IonQ (NYSE: IONQ), the world’s leading quantum platform company, today announced that the company will release its financial results for the quarter ended June 30, 2026, on Wednesday, August 5, 2026, after the financial markets close. IonQ will host a conference c…"
+    },
+    {
+      "title": "Quantum X Labs Tests AI-Based Error Correction Decoder With NVIDIA CUDA-Q Tools",
+      "link": "https://thequantuminsider.com/2026/07/27/quantum-x-labs-ai-error-correction-decoder-nvidia-cuda-q/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 27 Jul 2026 07:49:23 +0000",
+      "published_ts": 1785138563,
+      "summary": "Insider Brief Press release &#8211; Quantum X Labs Inc. (Nasdaq: QXL) (&#8220;Quantum X” or the &#8220;Company”), an advanced technologies company, today announced progress on its technical roadmap for its AI-driven quantum error-correction program. The work is focused on reviewing QXL’s milestone r…"
+    },
+    {
+      "title": "Bloq Quantum and QClairvoyance Partner on Quantum Education and Workforce Training",
+      "link": "https://thequantuminsider.com/2026/07/27/bloq-quantum-qclairvoyance-quantum-education-partnership/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 27 Jul 2026 07:36:40 +0000",
+      "published_ts": 1785137800,
+      "summary": "Insider Brief Press release &#8211; Bloq Quantum, a leading provider of enterprise quantum software infrastructure, today announced a strategic partnership with QClairvoyance, a premier firm dedicated to research and education in quantum technologies. This collaboration establishes QClairvoyance as…"
+    },
+    {
+      "title": "Absent, Not Faint: Fisher-Information Limits and a Logarithmic Measurement-Design Cure for Passive Characterization of Coherent Qubit Noise",
+      "link": "https://arxiv.org/abs/2607.21663",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21663v1 Announce Type: new  Abstract: Calibrating a quantum processor means estimating error parameters, and estimation theory usually assumes a parameter hard to estimate is faint: its signal is weak but present, so more repetitions or a richer model will recover it. This assumption fail…"
+    },
+    {
+      "title": "Quantum Correlations in Frustrated Three-Body Systems",
+      "link": "https://arxiv.org/abs/2607.21666",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21666v1 Announce Type: new  Abstract: Many physical systems are not understood from first principles due to the presence of multi-body quantum correlations. The effort taken to simulate such systems on classical computers increases exponentially with increase in the system size. We study…"
+    },
+    {
+      "title": "Tunable Mpemba Effect in a Prethermal Many-Body Spin Network",
+      "link": "https://arxiv.org/abs/2607.21669",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21669v1 Announce Type: new  Abstract: Relaxation in an interacting system is determined not only by its initial distance from equilibrium, but also by the relaxation modes populated by the initial state. Here we experimentally observe and control the Mpemba effect, in which a state farthe…"
+    },
+    {
+      "title": "Hash-QNeRF: Multiresolution Hash Encoding for Quantum Neural Radiance Fields",
+      "link": "https://arxiv.org/abs/2607.21675",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21675v1 Announce Type: new  Abstract: Neural Radiance Fields (NeRF) have revolutionized novel view synthesis, yet their classical implementations remain computationally intensive for high-fidelity rendering. QNeRF recently demonstrated the feasibility of training NeRF on gate-based quantu…"
+    },
+    {
+      "title": "Non-Clifford quantum cellular automata from invertible topological quantum field theories",
+      "link": "https://arxiv.org/abs/2607.21697",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21697v1 Announce Type: new  Abstract: Quantum cellular automata (QCAs) describe locality-preserving quantum dynamics and connect quantum information, many-body physics, and topological quantum field theory (TQFT). Constructing a QCA from a TQFT, however, is challenging. Although a topolog…"
+    },
+    {
+      "title": "Non-Invertible Symmetries Mixing with Witt Non-Trivial Quantum Cellular Automata",
+      "link": "https://arxiv.org/abs/2607.21698",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21698v1 Announce Type: new  Abstract: Self-dualities and the stacking of symmetry-protected topological (SPT) phases are basic operations on quantum many-body systems. For a $\\mathbb{Z}_p$ one-form symmetry in 3+1d these correspond to the Kramers-Wannier-Wegner duality $S$, which is the g…"
+    },
+    {
+      "title": "Frame-Dependent Traces and the Third-Particle Paradox",
+      "link": "https://arxiv.org/abs/2607.21703",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21703v1 Announce Type: new  Abstract: The Paradox of the Third Particle arises when comparing subsystem descriptions across Quantum Reference Frame (QRF) perspectives. We isolate two distinct origins of the Paradox: the QRF covariance of the partial trace and the failure of the physical H…"
+    },
+    {
+      "title": "Mixed-state topological order and error-correction thresholds in non-Abelian codes: rigorous results",
+      "link": "https://arxiv.org/abs/2607.21706",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21706v1 Announce Type: new  Abstract: We present a versatile and mathematically rigorous technique for bounding recovery thresholds in topological codes subject to noise. Our method captures the effect of applying an arbitrary (possibly non-Pauli) local noise channel to the code state of…"
+    },
+    {
+      "title": "Resolving topological order crossovers on NISQ hardware",
+      "link": "https://arxiv.org/abs/2607.21707",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21707v1 Announce Type: new  Abstract: Topological phases of matter provide a promising route toward robust quantum information processing, but on present-day noisy intermediate-scale quantum devices the experimentally relevant question is whether signatures of topological crossovers remai…"
+    },
+    {
+      "title": "Electron shuttling as a probe for charge defects",
+      "link": "https://arxiv.org/abs/2607.21718",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21718v1 Announce Type: new  Abstract: Silicon spin qubits are a leading platform for scalable quantum computing, but their performance is limited by charge noise, widely attributed to two-level fluctuators (TLFs). The location of individual TLFs is generally unknown, and existing methods…"
+    },
+    {
+      "title": "Quantum Cellular Automata from Kramers-Wannier Dualities and Modular Relations",
+      "link": "https://arxiv.org/abs/2607.21728",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21728v1 Announce Type: new  Abstract: Recent work has constructed higher-dimensional analogs of non-invertible symmetries similar to 1+1d Kramers-Wannier duality. Although their continuum descriptions often treat purely gravitational topological terms as inessential counterterms, these te…"
+    },
+    {
+      "title": "Deleterious effect of photon-phonon coupling on microcavities in their application as quantum sources",
+      "link": "https://arxiv.org/abs/2607.21743",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21743v1 Announce Type: new  Abstract: In quantum systems, the contact with the environment is detrimental to the purity of the state, thus limiting the practical use of entangled sources in quantum information applications. This loss of purity is observed in the form of additional noise i…"
+    },
+    {
+      "title": "Tunable nonlinear electromechanics at the zero-point motion scale",
+      "link": "https://arxiv.org/abs/2607.21764",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21764v1 Announce Type: new  Abstract: Nonlinearity at the scale of zero-point motion opens new possibilities for the control and readout of nanomechanical systems, but achieving this remains a formidable challenge. Here we demonstrate that ultrastrong coupling (USC) between a nanotube mec…"
+    },
+    {
+      "title": "Spectral Gap of the Davies Generator for the Mean-Field Heisenberg Model",
+      "link": "https://arxiv.org/abs/2607.21798",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21798v1 Announce Type: new  Abstract: The mean-field Heisenberg ferromagnet is a quantum spin model on the complete graph with isotropic spin-1/2 interactions. This non-commuting Hamiltonian is permutation and $\\mathsf{SU}(2)$ invariant, and its Gibbs states undergo an $\\mathsf{SU}(2)$ sy…"
+    },
+    {
+      "title": "Efficient Unclonable Encryption from Pauli Eigenstates",
+      "link": "https://arxiv.org/abs/2607.21811",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785124800,
+      "summary": "arXiv:2607.21811v1 Announce Type: new  Abstract: We give, to our knowledge, the first plain-model, one-time information-theoretically secure, efficient unclonable encryption scheme for one classical bit. Previous work by Bhattacharyya and Culf (Nature Physics, 2026) and Bhattacharyya, Broadbent, and…"
+    },
     {
       "title": "Near a black hole, gravity changes a quantum circuit's readings, not its rules",
       "link": "https://phys.org/news/2026-07-black-hole-gravity-quantum-circuit.html",
@@ -80,46 +240,6 @@
       "published": "Fri, 24 Jul 2026 10:48:36 +0000",
       "published_ts": 1784890116,
       "summary": "Insider Brief Press release &#8211; The Washington Institute for STEM, Entrepreneurship and Research (WISER) announces the successful completion of a research collaboration with E.ON on energy demand forecasting using quantum machine learning. The joint project, published on arXiv, explores two hybr…"
-    },
-    {
-      "title": "Rigetti Computing to Report Second Quarter 2026 Financial Results on August 6",
-      "link": "https://thequantuminsider.com/2026/07/24/rigetti-computing-to-report-second-quarter-2026-financial-results-and-host-conference-call-on-august-6-2026/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 24 Jul 2026 10:31:59 +0000",
-      "published_ts": 1784889119,
-      "summary": "Insider Brief Press release &#8211; Rigetti Computing, Inc. (&#8220;Rigetti&#8221; or the &#8220;Company&#8221;) (Nasdaq: RGTI), a pioneer in hybrid quantum-classical computing, announced today that it will release second quarter 2026 results on Thursday, August 6, 2026, after market close. The Comp…"
-    },
-    {
-      "title": "Digital Catapult and NQCC Select 11 Organisations for Quantum Technology Access Programme",
-      "link": "https://thequantuminsider.com/2026/07/24/digital-catapult-nqcc-quantum-technology-access-programme/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 24 Jul 2026 10:24:53 +0000",
-      "published_ts": 1784888693,
-      "summary": "Insider Brief Press release &#8211; Digital Catapult has today welcomed eleven leading organisations to the third cohort of its Quantum Technology Access Programme (QTAP), delivered in collaboration with the National Quantum Computing Centre’s (NQCC) SparQ programme. Designed to accelerate the pract…"
-    },
-    {
-      "title": "Terra Quantum and Apex.AI Integrate NIST Post-Quantum Cryptography Into Robotics Software",
-      "link": "https://thequantuminsider.com/2026/07/24/terra-quantum-apex-ai-post-quantum-cryptography/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 24 Jul 2026 10:13:13 +0000",
-      "published_ts": 1784887993,
-      "summary": "Insider Brief Press release &#8211; Terra Quantum, a global leader in quantum technologies, and Apex.AI, a leading provider of safe and secure software for software-defined vehicles and intelligent machines, today announced the successful implementation of NIST-standardized post-quantum cryptography…"
-    },
-    {
-      "title": "Quantum Circuits Inc.’s Acquisition Boosts Connecticut Innovations’ Record-Breaking Fiscal Year",
-      "link": "https://thequantuminsider.com/2026/07/24/quantum-circuits-inc-s-acquisition-boosts-connecticut-innovations-record-breaking-fiscal-year/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 24 Jul 2026 08:34:22 +0000",
-      "published_ts": 1784882062,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Connecticut Innovations (CI), the state&#8217;s strategic venture capital arm, today announced a record-breaking fiscal year, generating $66.5 million in cash proceeds from a series of landmark portfolio exits and a combined $76.1 million from all investment activ…"
-    },
-    {
-      "title": "Guest Post — Quantum Cybersecurity Careers: Why It Will Be One of the Most Sought-After Jobs of the Next Decade",
-      "link": "https://thequantuminsider.com/2026/07/24/guest-post-quantum-cybersecurity-careers-why-it-will-be-one-of-the-most-sought-after-jobs-of-the-next-decade/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 24 Jul 2026 08:12:25 +0000",
-      "published_ts": 1784880745,
-      "summary": "Guest Post By Sudiptaa Paul Choudhury is Chief Marketing Officer at QNu Labs, a global leader in quantum cybersecurity, TEDx speaker and a LinkedIn Top Voice. Quantum computing has stopped being a laboratory curiosity. McKinsey&#8217;s Quantum Technology Monitor 2026 estimates that quantum computing…"
     },
     {
       "title": "Engineers observe quantum heat waves at room temperature",
