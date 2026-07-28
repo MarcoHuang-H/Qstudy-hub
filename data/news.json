@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1785227168,
+  "generated_ts": 1785246850,
   "items": [
+    {
+      "title": "Quantum Machine-Learning Design Targets Training And Scaling Barriers",
+      "link": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 12:56:43 +0000",
+      "published_ts": 1785243403,
+      "summary": "Insider Brief A proposed quantum machine-learning framework could make larger quantum neural networks easier to train while preserving computations that are difficult for conventional computers to reproduce. The study, posted on the arXiv preprint server, presents two quantum-circuit designs intende…"
+    },
+    {
+      "title": "EigenQ Appoints Mark Pecen as Vice Chairman and Alexander Truskovsky as CISO",
+      "link": "https://thequantuminsider.com/2026/07/28/eigenq-appoints-mark-pecen-alexander-truskovsky-ciso/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 11:20:09 +0000",
+      "published_ts": 1785237609,
+      "summary": "Insider Brief Press release &#8211; EigenQ, Inc. (&#8220;EigenQ&#8221; or the &#8220;Company&#8221;), a quantum technology company developing hardware and software solutions spanning post-quantum cryptography, quantum random number generation, and hardware-rooted quantum-safe infrastructure, today a…"
+    },
+    {
+      "title": "Guest Post — Beyond Silicon: How AI Is Accelerating the Next Era of Computing",
+      "link": "https://thequantuminsider.com/2026/07/28/guest-post-beyond-silicon-how-ai-is-accelerating-the-next-era-of-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 11:14:08 +0000",
+      "published_ts": 1785237248,
+      "summary": "Guest Post By Ian Foley The biggest story in AI may not be AI at all. It may be the growing realization that silicon is running out of road. The remarkable progress of AI over the past few years has relied largely on brute force, demanding ever more silicon, electricity and infrastructure to keep th…"
+    },
+    {
+      "title": "ZuriQ Raises $25.5 Million to Scale Two-Dimensional Trapped-Ion Quantum Processors",
+      "link": "https://thequantuminsider.com/2026/07/28/zuriq-raises-25-5-million-2d-trapped-ion-quantum-processors/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 11:06:54 +0000",
+      "published_ts": 1785236814,
+      "summary": "Insider Brief Press release &#8211; ZuriQ, a Swiss quantum computing company spun out of ETH Zürich, today announced it has raised $25.5 million in seed funding to scale its trapped-ion quantum processors. The round builds on the company’s $4.2 million pre-seed round in 2025 and is led by&#160;Quant…"
+    },
+    {
+      "title": "Quantinuum to Report Second Quarter 2026 Financial Results on August 11",
+      "link": "https://thequantuminsider.com/2026/07/28/quantinuum-to-report-second-quarter-financial-results-on-august-11-2026/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 10:02:19 +0000",
+      "published_ts": 1785232939,
+      "summary": "Insider Brief Press release &#8211; Quantinuum Inc. (Nasdaq: QNT) (&#8220;Quantinuum&#8220;) today announced it will release its financial results for the second quarter (ending on June 30, 2026) after market close on August 11, 2026. Quantinuum will host a conference call at 5:00 PM Eastern time th…"
+    },
+    {
+      "title": "Hong Kong Banks Face Long Road to Quantum Security, White Paper Finds",
+      "link": "https://thequantuminsider.com/2026/07/28/hong-kong-banks-face-long-road-to-quantum-security-white-paper-finds/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 08:17:02 +0000",
+      "published_ts": 1785226622,
+      "summary": "Insider Brief Uncertain. Uneven. Unready. Hong Kong&#8217;s banking sector has begun preparing for quantum computing, but most institutions remain in the early stages of protecting their systems against future quantum-enabled cyber threats, according to a new white paper supported by the Hong Kong M…"
+    },
     {
       "title": "Wigner negativity and stellar rank for SU(1,1) states",
       "link": "https://arxiv.org/abs/2607.22810",
@@ -176,54 +224,6 @@
       "published": "Mon, 27 Jul 2026 12:27:25 +0000",
       "published_ts": 1785155245,
       "summary": "Insider Brief Press release &#8211; QTREX Quantum Ltd. (Nasdaq: QTEX) (&#8220;QTREX&#8221; or the &#8220;Company&#8221;) a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure today announced the launch of a research collaboration with Northea…"
-    },
-    {
-      "title": "Multiverse Computing Announces Series C Fundraising Targeting up to $570 Million",
-      "link": "https://thequantuminsider.com/2026/07/27/multiverse-computing-announces-series-c-fundraising-targeting-up-to-570-million/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 27 Jul 2026 09:28:42 +0000",
-      "published_ts": 1785144522,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Multiverse Computing, the global leader in efficient AI, today announced a $570 million (€500M) Series C funding round at a $1.7 billion (€1.5B) pre-money valuation, a 5x step-up from its Series B. The round is co-led by Forgepoint Capital International, BNPP SIVF…"
-    },
-    {
-      "title": "Researchers Measure Long-Lived Ytterbium Ion States for Quantum Applications",
-      "link": "https://thequantuminsider.com/2026/07/27/long-live-ytterbium-long-lived-states-found-in-trapped-ions-open-new-doors-for-quantum-computing-and-atomic-clocks/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 27 Jul 2026 08:37:12 +0000",
-      "published_ts": 1785141432,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers from the Universities of Amsterdam and New South Wales have answered a question that has been around for decades: whether ions of the metal ytterbium can enter certain long-lived and nearly stable states, and if so, for how long. The measured long-live…"
-    },
-    {
-      "title": "Neutral-Atom Researchers Lay Out Industry-Wide Roadmap Toward Practical Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/07/27/neutral-atom-researchers-lay-out-industry-wide-roadmap-toward-practical-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 27 Jul 2026 08:24:34 +0000",
-      "published_ts": 1785140674,
-      "summary": "Insider Brief Over the years, numerous quantum companies have released roadmaps proposing how they plan to move their technologies into the marketplace over the coming months and years. Now, in what is an unprecedented move, a broad group of quantum scientists, engineers and entrepreneurs has outlin…"
-    },
-    {
-      "title": "IonQ to Report Second Quarter 2026 Financial Results on August 5",
-      "link": "https://thequantuminsider.com/2026/07/27/ionq-to-report-second-quarter-2026-financial-results-on-august-5-2026/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 27 Jul 2026 07:55:43 +0000",
-      "published_ts": 1785138943,
-      "summary": "Insider Brief Press release &#8211; IonQ (NYSE: IONQ), the world’s leading quantum platform company, today announced that the company will release its financial results for the quarter ended June 30, 2026, on Wednesday, August 5, 2026, after the financial markets close. IonQ will host a conference c…"
-    },
-    {
-      "title": "Quantum X Labs Tests AI-Based Error Correction Decoder With NVIDIA CUDA-Q Tools",
-      "link": "https://thequantuminsider.com/2026/07/27/quantum-x-labs-ai-error-correction-decoder-nvidia-cuda-q/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 27 Jul 2026 07:49:23 +0000",
-      "published_ts": 1785138563,
-      "summary": "Insider Brief Press release &#8211; Quantum X Labs Inc. (Nasdaq: QXL) (&#8220;Quantum X” or the &#8220;Company”), an advanced technologies company, today announced progress on its technical roadmap for its AI-driven quantum error-correction program. The work is focused on reviewing QXL’s milestone r…"
-    },
-    {
-      "title": "Bloq Quantum and QClairvoyance Partner on Quantum Education and Workforce Training",
-      "link": "https://thequantuminsider.com/2026/07/27/bloq-quantum-qclairvoyance-quantum-education-partnership/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 27 Jul 2026 07:36:40 +0000",
-      "published_ts": 1785137800,
-      "summary": "Insider Brief Press release &#8211; Bloq Quantum, a leading provider of enterprise quantum software infrastructure, today announced a strategic partnership with QClairvoyance, a premier firm dedicated to research and education in quantum technologies. This collaboration establishes QClairvoyance as…"
     },
     {
       "title": "Near a black hole, gravity changes a quantum circuit's readings, not its rules",
