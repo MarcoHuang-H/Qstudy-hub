@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1785246850,
+  "generated_ts": 1785266148,
   "items": [
+    {
+      "title": "Two Hands Corporation Opens External Beta Testing for EntangleX Quantum Circuit Simulator",
+      "link": "https://thequantuminsider.com/2026/07/28/two-hands-corporation-entanglex-beta-testing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 16:29:08 +0000",
+      "published_ts": 1785256148,
+      "summary": "Insider Brief Press release &#8211; Two Hands Corporation (OTCID: TWOH) (the &#8220;Company&#8221;)&#160;today announced that the base user interface for EntangleX, its internally developed quantum circuit simulation software platform, is now available to selected external partners for third-party b…"
+    },
+    {
+      "title": "New research shows how 'hot electrons' can reshape metals in billionths of a second",
+      "link": "https://phys.org/news/2026-07-hot-electrons-reshape-metals-billionths.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 28 Jul 2026 10:30:01 EDT",
+      "published_ts": 1785249001,
+      "summary": "Researchers at The University of Manchester have revealed how intense electronic excitation can trigger rapid structural changes in metals—without heating the atomic lattice—offering new insight into ultrafast materials behavior."
+    },
+    {
+      "title": "A way to read quantum bits faster and with less hardware",
+      "link": "https://phys.org/news/2026-07-quantum-bits-faster-hardware.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 28 Jul 2026 10:20:02 EDT",
+      "published_ts": 1785248402,
+      "summary": "Quantum computers process information in a fundamentally different way from conventional computers, using quantum bits, or qubits, that can exist in multiple states at once. This could allow them to tackle problems beyond the reach of today's machines, from simulating new materials to optimizing com…"
+    },
+    {
+      "title": "Riverlane and Unitary Foundation Launch ‘Deltakit Community Fund’ to Accelerate Open-Source Quantum Error Correction",
+      "link": "https://thequantuminsider.com/2026/07/28/riverlane-unitary-foundation-deltakit-community-fund/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 14:10:04 +0000",
+      "published_ts": 1785247804,
+      "summary": "Insider Brief Press release &#8211; Riverlane, the world leader in quantum error correction (QEC), and the Unitary Foundation, a non-profit dedicated to scaling the open-source quantum ecosystem, today announced the launch of the Deltakit Community Fund. This new rolling, quarterly initiative is des…"
+    },
+    {
+      "title": "Infleqtion Names Dr. Joseph Buck Senior Vice President of Quantum Computing Systems",
+      "link": "https://thequantuminsider.com/2026/07/28/infleqtion-appoints-dr-joseph-buck-as-senior-vice-president-of-quantum-computing-systems/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 13:40:11 +0000",
+      "published_ts": 1785246011,
+      "summary": "Insider Brief Press release &#8211; Infleqtion (NYSE: INFQ), a quantum computing and quantum sensing company powered by neutral-atom technology, today announced the appointment of Dr. Joseph Buck as senior vice president of quantum computing systems. Dr. Buck joined the company July 27, 2026, and wi…"
+    },
+    {
+      "title": "NordForsk Joins G7 Initiative to Fund International Quantum Technology Research Projects",
+      "link": "https://thequantuminsider.com/2026/07/28/nordforsk-joins-g7-initiative-to-fund-international-quantum-technology-research-projects/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 13:33:51 +0000",
+      "published_ts": 1785245631,
+      "summary": "Insider Brief NordForsk has joined a new international research initiative with G7 funding agencies to support collaborative quantum technology research, committing funding for Nordic participation in up to 12 international projects spanning quantum computing, communications, sensing, materials and…"
+    },
+    {
+      "title": "Vietnam Hosts International Quantum Hackathon Focused on Real-World Applications",
+      "link": "https://thequantuminsider.com/2026/07/28/vietnam-international-quantum-hackathon-finals/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 13:28:27 +0000",
+      "published_ts": 1785245307,
+      "summary": "Insider Brief The finals of the 2026 Quantum Computing for Social Good International Hackathon opened on July 24 in Gia Lai province, bringing together 27 finalist teams comprising nearly 100 contestants from a pool of more than 500 applications submitted by participants from 30 countries and territ…"
+    },
+    {
+      "title": "The City Quantum & AI Summit to Examine How Industries Can Work Together as Quantum Computing and AI Advance",
+      "link": "https://thequantuminsider.com/2026/07/28/the-city-quantum-ai-summit-to-examine-how-industries-can-work-together-as-quantum-computing-and-ai-advance/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 13:11:29 +0000",
+      "published_ts": 1785244289,
+      "summary": "Insider Brief Building on its 6-year tradition where visionary science meets real-world solutions, the 2026 The City Quantum &#38; AI Summit will bring together military leaders, technology executives, researchers, investors and policymakers to examine how quantum computing and artificial intelligen…"
+    },
+    {
+      "title": "Four Quantum Companies Sign-on to New Mexico’s Open-Access Quantum Network",
+      "link": "https://thequantuminsider.com/2026/07/28/four-quantum-companies-sign-on-to-new-mexicos-open-access-quantum-network/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 13:05:00 +0000",
+      "published_ts": 1785243900,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Four leading quantum companies have selected New Mexico’s ABQ-Net, the only open-access entanglement-based quantum network in the United States, to develop and validate next-generation security technologies. Launched through support from the New Mexico Technology…"
+    },
     {
       "title": "Quantum Machine-Learning Design Targets Training And Scaling Barriers",
       "link": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
@@ -24,30 +96,6 @@
       "published": "Tue, 28 Jul 2026 11:14:08 +0000",
       "published_ts": 1785237248,
       "summary": "Guest Post By Ian Foley The biggest story in AI may not be AI at all. It may be the growing realization that silicon is running out of road. The remarkable progress of AI over the past few years has relied largely on brute force, demanding ever more silicon, electricity and infrastructure to keep th…"
-    },
-    {
-      "title": "ZuriQ Raises $25.5 Million to Scale Two-Dimensional Trapped-Ion Quantum Processors",
-      "link": "https://thequantuminsider.com/2026/07/28/zuriq-raises-25-5-million-2d-trapped-ion-quantum-processors/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 28 Jul 2026 11:06:54 +0000",
-      "published_ts": 1785236814,
-      "summary": "Insider Brief Press release &#8211; ZuriQ, a Swiss quantum computing company spun out of ETH Zürich, today announced it has raised $25.5 million in seed funding to scale its trapped-ion quantum processors. The round builds on the company’s $4.2 million pre-seed round in 2025 and is led by&#160;Quant…"
-    },
-    {
-      "title": "Quantinuum to Report Second Quarter 2026 Financial Results on August 11",
-      "link": "https://thequantuminsider.com/2026/07/28/quantinuum-to-report-second-quarter-financial-results-on-august-11-2026/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 28 Jul 2026 10:02:19 +0000",
-      "published_ts": 1785232939,
-      "summary": "Insider Brief Press release &#8211; Quantinuum Inc. (Nasdaq: QNT) (&#8220;Quantinuum&#8220;) today announced it will release its financial results for the second quarter (ending on June 30, 2026) after market close on August 11, 2026. Quantinuum will host a conference call at 5:00 PM Eastern time th…"
-    },
-    {
-      "title": "Hong Kong Banks Face Long Road to Quantum Security, White Paper Finds",
-      "link": "https://thequantuminsider.com/2026/07/28/hong-kong-banks-face-long-road-to-quantum-security-white-paper-finds/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 28 Jul 2026 08:17:02 +0000",
-      "published_ts": 1785226622,
-      "summary": "Insider Brief Uncertain. Uneven. Unready. Hong Kong&#8217;s banking sector has begun preparing for quantum computing, but most institutions remain in the early stages of protecting their systems against future quantum-enabled cyber threats, according to a new white paper supported by the Hong Kong M…"
     },
     {
       "title": "Wigner negativity and stellar rank for SU(1,1) states",
@@ -186,44 +234,12 @@
       "summary": "Light typically interacts with a material the same way whether it enters through the front or the back—like polarized sunglasses that work the same from either side. Cornell researchers have demonstrated a simple route to breaking that symmetry, opening new possibilities for photonics and quantum in…"
     },
     {
-      "title": "Applications Open for Tennessee Quantum Hackathon Focused on Energy Applications",
-      "link": "https://thequantuminsider.com/2026/07/27/tennessee-quantum-hackathon-energy-applications/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 27 Jul 2026 15:50:11 +0000",
-      "published_ts": 1785167411,
-      "summary": "Insider Brief Press release &#8211; Applications are now open for the Tennessee Quantum Hackathon hosted by The Company Lab (CO.LAB) in partnership with the Chattanooga Quantum Collaborative (CQC) and the University of Tennessee at Chattanooga (UTC). The 36-hour innovation challenge will take place…"
-    },
-    {
-      "title": "Pittsburgh Supercomputing Center Will Build New Hybrid Quantum-Classical Supercomputer",
-      "link": "https://thequantuminsider.com/2026/07/27/pittsburgh-supercomputing-center-will-build-new-hybrid-quantum-classical-supercomputer/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 27 Jul 2026 14:58:45 +0000",
-      "published_ts": 1785164325,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A hybrid quantum-classical computer will soon operate at the Pittsburgh Supercomputing Center, thanks to a $5-million grant from the National Science Foundation. To deliver on the grant, PSC, HPE, and Rigetti Computing will partner together to build the TangleLab…"
-    },
-    {
       "title": "Quantum neural networks get their first hardware test",
       "link": "https://phys.org/news/2026-07-quantum-neural-networks-hardware.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 27 Jul 2026 10:50:01 EDT",
       "published_ts": 1785163801,
       "summary": "Neural networks have transformed how machines find patterns in data, from recognizing faces in photos to predicting the shapes of proteins. So far, all of this progress has been made on ordinary classical computers, but with quantum computers now edging into practical use, there is a real possibilit…"
-    },
-    {
-      "title": "D-Wave and AT&T Explore Quantum Computing Applications in Network Operations",
-      "link": "https://thequantuminsider.com/2026/07/27/d-wave-att-quantum-network-operations/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 27 Jul 2026 12:35:16 +0000",
-      "published_ts": 1785155716,
-      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (NASDAQ: QBTS), (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, and AT&#38;T (NYSE: T) today announced that AT&#38;T has signed an agreement t…"
-    },
-    {
-      "title": "QTREX and Northeastern University Launch Quantum Interconnect Research Collaboration",
-      "link": "https://thequantuminsider.com/2026/07/27/qtrex-northeastern-university-quantum-interconnect-research/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 27 Jul 2026 12:27:25 +0000",
-      "published_ts": 1785155245,
-      "summary": "Insider Brief Press release &#8211; QTREX Quantum Ltd. (Nasdaq: QTEX) (&#8220;QTREX&#8221; or the &#8220;Company&#8221;) a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure today announced the launch of a research collaboration with Northea…"
     },
     {
       "title": "Near a black hole, gravity changes a quantum circuit's readings, not its rules",
@@ -306,28 +322,12 @@
       "summary": "Physicists have discovered a surprisingly simple way to reproduce one of the most fascinating models in modern physics—linked to black holes, quantum chaos and exotic electronic materials—using ultracold atoms trapped in light."
     },
     {
-      "title": "Molecular clock transitions tune out the noise in the hunt for new physics",
-      "link": "https://phys.org/news/2026-07-molecular-clock-transitions-tune-noise.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 23 Jul 2026 10:00:07 EDT",
-      "published_ts": 1784815207,
-      "summary": "Heavy polar molecules are some of the most sensitive tools physicists have for probing what lies beyond the Standard Model, the theory that describes the particles and forces we know about. But turning that sensitivity into precise, trustworthy measurements has long been held back by one stubborn pr…"
-    },
-    {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
       "link": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
       "source": "MIT News — Quantum Computing",
       "published": "Thu, 23 Jul 2026 08:00:00 -0400",
       "published_ts": 1784808000,
       "summary": "Initial research projects advance national priorities across natural resources, manufacturing, nuclear physics, and more."
-    },
-    {
-      "title": "Striped or checkered? Magnetic field influences competing electronic patterns in a graphene-like quantum material",
-      "link": "https://phys.org/news/2026-07-striped-checkered-magnetic-field-electronic.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 23 Jul 2026 05:00:10 EDT",
-      "published_ts": 1784797210,
-      "summary": "In most everyday materials, such as copper, silver and silicon, the behavior of electrons is relatively predictable. In quantum materials, however, electrons can interact in complex ways, giving rise to collective electronic states with remarkable properties. Understanding how these states emerge—an…"
     },
     {
       "title": "New programmable photonic chip can control how fast light moves",
