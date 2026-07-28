@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1785179995,
+  "generated_ts": 1785204368,
   "items": [
+    {
+      "title": "New quantum chip architecture could use built-in vibrations to link distant qubits",
+      "link": "https://phys.org/news/2026-07-quantum-chip-architecture-built-vibrations.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 27 Jul 2026 17:10:01 EDT",
+      "published_ts": 1785186601,
+      "summary": "A new concept from Warwick researchers could help solve one of the biggest challenges to building large-scale quantum computers: enabling communication between vast numbers of quantum bits (qubits) over long distances across a single chip."
+    },
+    {
+      "title": "Simple semiconductor films break light's front-back symmetry",
+      "link": "https://phys.org/news/2026-07-simple-semiconductor-front-symmetry.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 27 Jul 2026 16:20:05 EDT",
+      "published_ts": 1785183605,
+      "summary": "Light typically interacts with a material the same way whether it enters through the front or the back—like polarized sunglasses that work the same from either side. Cornell researchers have demonstrated a simple route to breaking that symmetry, opening new possibilities for photonics and quantum in…"
+    },
     {
       "title": "Applications Open for Tennessee Quantum Hackathon Focused on Energy Applications",
       "link": "https://thequantuminsider.com/2026/07/27/tennessee-quantum-hackathon-energy-applications/",
@@ -312,22 +328,6 @@
       "published": "Thu, 23 Jul 2026 05:00:10 EDT",
       "published_ts": 1784797210,
       "summary": "In most everyday materials, such as copper, silver and silicon, the behavior of electrons is relatively predictable. In quantum materials, however, electrons can interact in complex ways, giving rise to collective electronic states with remarkable properties. Understanding how these states emerge—an…"
-    },
-    {
-      "title": "Quantum internet leaves the lab with first real-world entanglement over busy telecom fiber",
-      "link": "https://phys.org/news/2026-07-quantum-internet-lab-real-world.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 22 Jul 2026 18:40:01 EDT",
-      "published_ts": 1784760001,
-      "summary": "Quantum information is notoriously fragile. Internet traffic is anything but. Yet Northwestern University scientists have demonstrated they can peacefully coexist inside the same fiber-optic cable."
-    },
-    {
-      "title": "Neural networks unlock larger quantum simulations with lower computational costs",
-      "link": "https://phys.org/news/2026-07-neural-networks-larger-quantum-simulations.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 22 Jul 2026 16:40:07 EDT",
-      "published_ts": 1784752807,
-      "summary": "In recent years, research using artificial intelligence to predict material properties has advanced rapidly. Neural network quantum Monte Carlo methods have attracted attention as highly accurate simulation techniques. However, their extremely high computational cost has limited their application to…"
     },
     {
       "title": "New programmable photonic chip can control how fast light moves",
