@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1785266148,
+  "generated_ts": 1785290924,
   "items": [
+    {
+      "title": "IonQ Receives Regulatory Approval to Complete Acquisition of SkyWater Technology",
+      "link": "https://thequantuminsider.com/2026/07/28/ionq-receives-regulatory-approval-to-complete-acquisition-of-skywater-technology/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 28 Jul 2026 21:48:55 +0000",
+      "published_ts": 1785275335,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading quantum platform company, today received final regulatory approval to complete its acquisition of SkyWater Technology (NASDAQ: SKYT), the largest exclusively U.S.-based semiconductor foundry. As noted when the companies annou…"
+    },
     {
       "title": "Two Hands Corporation Opens External Beta Testing for EntangleX Quantum Circuit Simulator",
       "link": "https://thequantuminsider.com/2026/07/28/two-hands-corporation-entanglex-beta-testing/",
@@ -88,14 +96,6 @@
       "published": "Tue, 28 Jul 2026 11:20:09 +0000",
       "published_ts": 1785237609,
       "summary": "Insider Brief Press release &#8211; EigenQ, Inc. (&#8220;EigenQ&#8221; or the &#8220;Company&#8221;), a quantum technology company developing hardware and software solutions spanning post-quantum cryptography, quantum random number generation, and hardware-rooted quantum-safe infrastructure, today a…"
-    },
-    {
-      "title": "Guest Post — Beyond Silicon: How AI Is Accelerating the Next Era of Computing",
-      "link": "https://thequantuminsider.com/2026/07/28/guest-post-beyond-silicon-how-ai-is-accelerating-the-next-era-of-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 28 Jul 2026 11:14:08 +0000",
-      "published_ts": 1785237248,
-      "summary": "Guest Post By Ian Foley The biggest story in AI may not be AI at all. It may be the growing realization that silicon is running out of road. The remarkable progress of AI over the past few years has relied largely on brute force, demanding ever more silicon, electricity and infrastructure to keep th…"
     },
     {
       "title": "Wigner negativity and stellar rank for SU(1,1) states",
