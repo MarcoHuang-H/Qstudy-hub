@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1785313915,
+  "generated_ts": 1785333557,
   "items": [
+    {
+      "title": "EY Announces On-Site Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/07/29/ey-announces-on-site-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 29 Jul 2026 13:53:28 +0000",
+      "published_ts": 1785333208,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The EY organization (EY) announces the expansion of its global quantum computing capabilities with the addition of an on-site quantum computer led by EY Canada and part of a global investment of more than US$3b in AI and other next frontier technologies. The new c…"
+    },
+    {
+      "title": "IQM Quantum Computers Registers 183,619 New Shares Following ESOP 1 Subscriptions",
+      "link": "https://thequantuminsider.com/2026/07/29/iqm-registers-new-shares-from-esop-1/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 29 Jul 2026 13:32:40 +0000",
+      "published_ts": 1785331960,
+      "summary": "Insider Brief Press release &#8211; IQM Quantum Computers Plc, Stock Exchange Release, Total number of voting rights and shares, 29 July, 2026 at 10:00 EEST/EET. A total of 183,619 new shares have been subscribed for under IQM Quantum Computers Plc’s (“IQM” or the “Company”) ESOP 1 employee stock op…"
+    },
+    {
+      "title": "QED-C Roadmap Outlines Technology Requirements for Future Quantum Networks",
+      "link": "https://thequantuminsider.com/2026/07/29/qed-c-roadmap-future-quantum-networks/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 29 Jul 2026 12:29:17 +0000",
+      "published_ts": 1785328157,
+      "summary": "Insider Brief Press release &#8211; The Quantum Economic Development Consortium (QED-C) today released a new Quantum Networking Applications Roadmap, identifying the technologies and performance improvements needed to enable quantum networks for commercially valuable applications in secure communica…"
+    },
+    {
+      "title": "Rare-earth ions could enable telecom-ready control of interacting qubits",
+      "link": "https://phys.org/news/2026-07-rare-earth-ions-enable-telecom.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 29 Jul 2026 08:20:03 EDT",
+      "published_ts": 1785327603,
+      "summary": "Quantum technologies are devices and systems that exploit the laws of quantum mechanics and could perform tasks that are difficult or impossible to tackle using their classical counterparts. These technologies process and store information using qubits (i.e., quantum bits), which can exist in a supe…"
+    },
+    {
+      "title": "Horizon Quantum Partners With Quantum Machines to Improve Quantum Computer Operations",
+      "link": "https://thequantuminsider.com/2026/07/29/horizon-quantum-quantum-machines-calibration-technology/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 29 Jul 2026 12:18:44 +0000",
+      "published_ts": 1785327524,
+      "summary": "Insider Brief Press release &#8211; Horizon Quantum Computing Pte. Ltd., the wholly-owned subsidiary of Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum”), a pioneer of software infrastructure for quantum applications and Q.M Technologies Ltd. (&#8220;Quantum Machines&#8221; or QM&#8221;…"
+    },
+    {
+      "title": "GlobalFoundries Secures $300 Million CHIPS Award for Silicon Photonics Research",
+      "link": "https://thequantuminsider.com/2026/07/29/globalfoundries-300-million-chips-award-silicon-photonics/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 29 Jul 2026 12:10:15 +0000",
+      "published_ts": 1785327015,
+      "summary": "Insider Brief Press release &#8211; GlobalFoundries (Nasdaq: GFS) today announced it has entered into a letter of intent (LOI) with the U.S. Department of Commerce to accelerate research and development of next-generation silicon photonics &#8211; the optical technology that moves data at the speed…"
+    },
+    {
+      "title": "Scientists Say New Chip Architecture Could Tackle a Barrier to Scaling Quantum Computers Towards 1 Million Qubits",
+      "link": "https://thequantuminsider.com/2026/07/29/scientists-say-new-chip-architecture-could-tackle-a-barrier-to-scaling-quantum-computers-towards-1-million-qubits/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 29 Jul 2026 11:58:34 +0000",
+      "published_ts": 1785326314,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A new concept from Warwick researchers could help solve one of the biggest challenges to building large-scale quantum computers: enabling communication between vast numbers of quantum bits (qubits) over long distances across a single chip. Published in APL Quantum…"
+    },
+    {
+      "title": "Israel Pushes For National Quantum R&D Center to Unite Industry",
+      "link": "https://thequantuminsider.com/2026/07/29/israel-pushes-for-national-quantum-rd-center-to-unite-industry/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 29 Jul 2026 11:26:41 +0000",
+      "published_ts": 1785324401,
+      "summary": "Insider Brief Specialize, collaborate and compete may be the Israeli national deep tech mantra guiding the nation as it moves to establish a national quantum computing research and development center, according to an interview with Israel Innovation Authority CEO Dror Bin published by the Jerusalem…"
+    },
     {
       "title": "AI Finds New Weaknesses in Cryptographic Algorithms, Anthropic Says",
       "link": "https://thequantuminsider.com/2026/07/29/ai-finds-new-weaknesses-in-cryptographic-algorithms-anthropic-says/",
@@ -162,62 +226,6 @@
       "summary": "Quantum computers process information in a fundamentally different way from conventional computers, using quantum bits, or qubits, that can exist in multiple states at once. This could allow them to tackle problems beyond the reach of today's machines, from simulating new materials to optimizing com…"
     },
     {
-      "title": "Riverlane and Unitary Foundation Launch ‘Deltakit Community Fund’ to Accelerate Open-Source Quantum Error Correction",
-      "link": "https://thequantuminsider.com/2026/07/28/riverlane-unitary-foundation-deltakit-community-fund/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 28 Jul 2026 14:10:04 +0000",
-      "published_ts": 1785247804,
-      "summary": "Insider Brief Press release &#8211; Riverlane, the world leader in quantum error correction (QEC), and the Unitary Foundation, a non-profit dedicated to scaling the open-source quantum ecosystem, today announced the launch of the Deltakit Community Fund. This new rolling, quarterly initiative is des…"
-    },
-    {
-      "title": "Infleqtion Names Dr. Joseph Buck Senior Vice President of Quantum Computing Systems",
-      "link": "https://thequantuminsider.com/2026/07/28/infleqtion-appoints-dr-joseph-buck-as-senior-vice-president-of-quantum-computing-systems/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 28 Jul 2026 13:40:11 +0000",
-      "published_ts": 1785246011,
-      "summary": "Insider Brief Press release &#8211; Infleqtion (NYSE: INFQ), a quantum computing and quantum sensing company powered by neutral-atom technology, today announced the appointment of Dr. Joseph Buck as senior vice president of quantum computing systems. Dr. Buck joined the company July 27, 2026, and wi…"
-    },
-    {
-      "title": "NordForsk Joins G7 Initiative to Fund International Quantum Technology Research Projects",
-      "link": "https://thequantuminsider.com/2026/07/28/nordforsk-joins-g7-initiative-to-fund-international-quantum-technology-research-projects/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 28 Jul 2026 13:33:51 +0000",
-      "published_ts": 1785245631,
-      "summary": "Insider Brief NordForsk has joined a new international research initiative with G7 funding agencies to support collaborative quantum technology research, committing funding for Nordic participation in up to 12 international projects spanning quantum computing, communications, sensing, materials and…"
-    },
-    {
-      "title": "Vietnam Hosts International Quantum Hackathon Focused on Real-World Applications",
-      "link": "https://thequantuminsider.com/2026/07/28/vietnam-international-quantum-hackathon-finals/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 28 Jul 2026 13:28:27 +0000",
-      "published_ts": 1785245307,
-      "summary": "Insider Brief The finals of the 2026 Quantum Computing for Social Good International Hackathon opened on July 24 in Gia Lai province, bringing together 27 finalist teams comprising nearly 100 contestants from a pool of more than 500 applications submitted by participants from 30 countries and territ…"
-    },
-    {
-      "title": "The City Quantum & AI Summit to Examine How Industries Can Work Together as Quantum Computing and AI Advance",
-      "link": "https://thequantuminsider.com/2026/07/28/the-city-quantum-ai-summit-to-examine-how-industries-can-work-together-as-quantum-computing-and-ai-advance/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 28 Jul 2026 13:11:29 +0000",
-      "published_ts": 1785244289,
-      "summary": "Insider Brief Building on its 6-year tradition where visionary science meets real-world solutions, the 2026 The City Quantum &#38; AI Summit will bring together military leaders, technology executives, researchers, investors and policymakers to examine how quantum computing and artificial intelligen…"
-    },
-    {
-      "title": "Four Quantum Companies Sign-on to New Mexico’s Open-Access Quantum Network",
-      "link": "https://thequantuminsider.com/2026/07/28/four-quantum-companies-sign-on-to-new-mexicos-open-access-quantum-network/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 28 Jul 2026 13:05:00 +0000",
-      "published_ts": 1785243900,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Four leading quantum companies have selected New Mexico’s ABQ-Net, the only open-access entanglement-based quantum network in the United States, to develop and validate next-generation security technologies. Launched through support from the New Mexico Technology…"
-    },
-    {
-      "title": "Quantum Machine-Learning Design Targets Training And Scaling Barriers",
-      "link": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 28 Jul 2026 12:56:43 +0000",
-      "published_ts": 1785243403,
-      "summary": "Insider Brief A proposed quantum machine-learning framework could make larger quantum neural networks easier to train while preserving computations that are difficult for conventional computers to reproduce. The study, posted on the arXiv preprint server, presents two quantum-circuit designs intende…"
-    },
-    {
       "title": "New quantum chip architecture could use built-in vibrations to link distant qubits",
       "link": "https://phys.org/news/2026-07-quantum-chip-architecture-built-vibrations.html",
       "source": "Phys.org — Quantum Physics",
@@ -312,14 +320,6 @@
       "published": "Thu, 23 Jul 2026 10:40:01 EDT",
       "published_ts": 1784817601,
       "summary": "Manchester's quantum researchers are building on the Ferranti Mark I legacy, using ultra-pure silicon and single atoms to move quantum computing closer to real-world impact."
-    },
-    {
-      "title": "Shaking atoms to bring black-hole quantum chaos into the lab",
-      "link": "https://phys.org/news/2026-07-atoms-black-hole-quantum-chaos.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 23 Jul 2026 10:20:03 EDT",
-      "published_ts": 1784816403,
-      "summary": "Physicists have discovered a surprisingly simple way to reproduce one of the most fascinating models in modern physics—linked to black holes, quantum chaos and exotic electronic materials—using ultracold atoms trapped in light."
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
