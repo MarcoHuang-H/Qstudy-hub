@@ -1,6 +1,134 @@
 {
-  "generated_ts": 1785290924,
+  "generated_ts": 1785313915,
   "items": [
+    {
+      "title": "AI Finds New Weaknesses in Cryptographic Algorithms, Anthropic Says",
+      "link": "https://thequantuminsider.com/2026/07/29/ai-finds-new-weaknesses-in-cryptographic-algorithms-anthropic-says/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 29 Jul 2026 07:19:13 +0000",
+      "published_ts": 1785309553,
+      "summary": "Insider Brief Anthropic says one of its newest AI models discovered improved mathematical attacks against two important cryptographic algorithms, demonstrating that frontier AI systems may soon become valuable tools for testing the security of the encryption methods that protect digital communicatio…"
+    },
+    {
+      "title": "Can a quantum circuit detect the Unruh effect?",
+      "link": "https://arxiv.org/abs/2607.24836",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24836v1 Announce Type: new  Abstract: The Unruh effect predicts that an accelerating observer perceives the Minkowski vacuum as a thermal bath, yet direct detection remains experimentally inaccessible. Its timelike counterpart, arising from the entanglement of massless fields between the…"
+    },
+    {
+      "title": "A Difference Operator Approach to Quantum Random Walks: Parseval Identity, Krawtchouk Matrices, and Hermite Limits",
+      "link": "https://arxiv.org/abs/2607.24837",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24837v1 Announce Type: new  Abstract: We introduce a discrete difference operator D_k to study the one-dimensional quantum random walk (QRW) with the Hadamard coin. Explicit combinatorial expressions are obtained for the probability amplitudes a(n,k) and b(n,k), which encode the final ste…"
+    },
+    {
+      "title": "Closed-Form Expectation Values of the Damped Kerr Oscillator",
+      "link": "https://arxiv.org/abs/2607.24842",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24842v1 Announce Type: new  Abstract: We derive a closed-form analytical expression for the expectation values of a damped Kerr nonlinear oscillator initialized in a coherent state. Starting from the exact Liouville-space solution of the Lindblad master equation, we specialize to coherent…"
+    },
+    {
+      "title": "Unitary designs from perturbed time evolutions of a chaotic Hamiltonian",
+      "link": "https://arxiv.org/abs/2607.24851",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24851v1 Announce Type: new  Abstract: Unitary designs provide efficient substitutes for Haar-random unitaries in quantum information processing, randomized measurements, and many-body quantum dynamics. We propose a protocol based on time evolutions of a single chaotic Hamiltonian with int…"
+    },
+    {
+      "title": "Wave-functional formulation of dissipative CSL models",
+      "link": "https://arxiv.org/abs/2607.24853",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24853v1 Announce Type: new  Abstract: We formulate minimal and dissipative Continuous Spontaneous Localization (CSL) dynamics in the functional Schr\\\"odinger representation for a non-relativistic bosonic field. In this framework, the Fock-space state is encoded in a wave functional, and f…"
+    },
+    {
+      "title": "Information-theoretic limits on undetectable parameter-estimation attacks in continuous-variable quantum key distribution",
+      "link": "https://arxiv.org/abs/2607.24855",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24855v1 Announce Type: new  Abstract: We formalize side-channel detection in Gaussian-modulated continuous-variable quantum key distribution (CV-QKD) as a certificate-forgery hypothesis test and identify its detectability with an information-theoretic rate. Relative to a set $\\mathcal{M}$…"
+    },
+    {
+      "title": "Topology-dependent relativistic degradation of multipartite entanglement",
+      "link": "https://arxiv.org/abs/2607.24858",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24858v1 Announce Type: new  Abstract: The influence of relativistic motion on quantum entanglement is commonly attributed to acceleration-induced thermal noise. Here we show that, for asymmetric multipartite states, the topology of entanglement can become equally important. Considering a…"
+    },
+    {
+      "title": "Fault-tolerant distributed quantum computing with a single nucleus per node",
+      "link": "https://arxiv.org/abs/2607.24907",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24907v1 Announce Type: new  Abstract: Distributed quantum computing interconnects small, high-quality nodes through optical links, but this architecture carries a pronounced asymmetry: in-node gates and measurements are cheap and high-fidelity, whereas inter-node communication relies on a…"
+    },
+    {
+      "title": "Efficient computation of real-time correlators using Pauli Propagation",
+      "link": "https://arxiv.org/abs/2607.24924",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24924v1 Announce Type: new  Abstract: Pauli propagation has shown promise for classically simulating quantum dynamics by evolving observables directly in the Heisenberg picture. In this work, we investigate its use for computing real-time two-point time-ordered correlators in one- and two…"
+    },
+    {
+      "title": "Resolving Structure in Prethermal Floquet Dynamics with Precision Quantum Computation",
+      "link": "https://arxiv.org/abs/2607.24937",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24937v1 Announce Type: new  Abstract: Periodically driven interacting quantum many-body systems can exhibit long-lived prethermal dynamics, where local observables retain coherent structure even as entanglement and operator complexity grow. Accessing this regime at the system sizes and ti…"
+    },
+    {
+      "title": "Numerical Modeling of Quasiparticle-Induced Dissipation in Fluxonium Qubits",
+      "link": "https://arxiv.org/abs/2607.24946",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24946v1 Announce Type: new  Abstract: Nonequilibrium quasiparticles (QPs) generated by stray infrared and ionizing radiation can limit the performance of superconducting quantum processors and present challenges for quantum error correction schemes. Models of QP-induced energy relaxation…"
+    },
+    {
+      "title": "Realizing Error Suppression in Partially Fault-Tolerant Quantum Simulations with IBM Quantum Computers",
+      "link": "https://arxiv.org/abs/2607.24947",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24947v1 Announce Type: new  Abstract: Quantum error-detecting codes offer a near-term path for improving the performance of quantum simulations on noisy hardware. Using IBM's superconducting quantum computer ibm_boston, we show that partially fault-tolerant encoded quantum simulations of…"
+    },
+    {
+      "title": "Non-Hermitian entropy production from fluctuation theorems",
+      "link": "https://arxiv.org/abs/2607.24961",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24961v1 Announce Type: new  Abstract: We develop a first-principles thermodynamic framework for non-Hermitian dynamics based on a post-selected version of the fluctuation theorem. This allows us to identify a quantity that remains positive throughout the non-Hermitian evolution and can be…"
+    },
+    {
+      "title": "Universal Optimization and Tighter Fidelity Bounds for Approximate Quantum Error Correction",
+      "link": "https://arxiv.org/abs/2607.24968",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24968v1 Announce Type: new  Abstract: Approximate quantum error correction (AQEC) not only dictates the performance of discrete- and continuous-variable quantum error correction codes but also serves as a unifying framework across various physical disciplines. Identifying the optimal reco…"
+    },
+    {
+      "title": "A Kernel-Based Density of States Estimator for Quantum Computing",
+      "link": "https://arxiv.org/abs/2607.24972",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "published_ts": 1785297600,
+      "summary": "arXiv:2607.24972v1 Announce Type: new  Abstract: The density of states (DoS) encodes the thermodynamic and spectral properties of quantum many-body systems, yet its reconstruction becomes intractable for Hilbert spaces too large to diagonalize. Classically, the kernel polynomial method (KPM) address…"
+    },
     {
       "title": "IonQ Receives Regulatory Approval to Complete Acquisition of SkyWater Technology",
       "link": "https://thequantuminsider.com/2026/07/28/ionq-receives-regulatory-approval-to-complete-acquisition-of-skywater-technology/",
@@ -88,134 +216,6 @@
       "published": "Tue, 28 Jul 2026 12:56:43 +0000",
       "published_ts": 1785243403,
       "summary": "Insider Brief A proposed quantum machine-learning framework could make larger quantum neural networks easier to train while preserving computations that are difficult for conventional computers to reproduce. The study, posted on the arXiv preprint server, presents two quantum-circuit designs intende…"
-    },
-    {
-      "title": "EigenQ Appoints Mark Pecen as Vice Chairman and Alexander Truskovsky as CISO",
-      "link": "https://thequantuminsider.com/2026/07/28/eigenq-appoints-mark-pecen-alexander-truskovsky-ciso/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 28 Jul 2026 11:20:09 +0000",
-      "published_ts": 1785237609,
-      "summary": "Insider Brief Press release &#8211; EigenQ, Inc. (&#8220;EigenQ&#8221; or the &#8220;Company&#8221;), a quantum technology company developing hardware and software solutions spanning post-quantum cryptography, quantum random number generation, and hardware-rooted quantum-safe infrastructure, today a…"
-    },
-    {
-      "title": "Wigner negativity and stellar rank for SU(1,1) states",
-      "link": "https://arxiv.org/abs/2607.22810",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.22810v1 Announce Type: new  Abstract: Quasiprobability distributions for systems endowed with SU(1,1) dynamical symmetry have received surprisingly little attention, despite the central role of this symmetry in two-photon physics, squeezed states, and nonlinear interferometry. Here, we fi…"
-    },
-    {
-      "title": "Practical advantage beyond the quadratic speedup limit with fully-quantum walks",
-      "link": "https://arxiv.org/abs/2607.22818",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.22818v1 Announce Type: new  Abstract: We introduce a new class of fully-quantum Metropolis walks in which both the proposal and acceptance steps are intrinsically quantum. Unlike standard quantum walks obtained by quantizing classically efficient Markov chains, our algorithm employs Hamil…"
-    },
-    {
-      "title": "ViBra: Configuration Interaction for Anharmonic Vibrational Spectroscopy and Quantum-Sampled Configuration Spaces",
-      "link": "https://arxiv.org/abs/2607.22850",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.22850v1 Announce Type: new  Abstract: Quantum-centric workflows are a promising route to improving the accuracy of property predictions in computational chemistry and materials science. By integrating quantum sampling algorithms with classical solvers, electronic structure calculations ha…"
-    },
-    {
-      "title": "Bias-preserving cat-cat CNOT gate via vacuum-conditional beam-splitter",
-      "link": "https://arxiv.org/abs/2607.22852",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.22852v1 Announce Type: new  Abstract: Cat qubits can exhibit strong noise bias due to their exponentially enhanced bit-flip times and only polynomially reduced phase-flip times with increasing photon number, which makes them attractive candidates for hardware-efficient quantum error corre…"
-    },
-    {
-      "title": "Machine Learning of Quantum Entanglement from Noisy Measurements",
-      "link": "https://arxiv.org/abs/2607.22853",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.22853v1 Announce Type: new  Abstract: In this work, we investigate the application of Machine Learning (ML) algorithms to the identification and quantitative characterization of quantum entanglement in polarization-entangled photon pairs. The analysis is based on simulated symmetric, info…"
-    },
-    {
-      "title": "Spin-induced multipartite steady-state entanglement of motional modes in hexagonal boron nitride membranes",
-      "link": "https://arxiv.org/abs/2607.22855",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.22855v1 Announce Type: new  Abstract: In this paper, we focus on a scheme in which three high-quality-factor mechanical modes of a hexagonal boron nitride (hBN) membrane monolayer are coupled to a common optically addressable spin defect present in the membrane via magnetic field interact…"
-    },
-    {
-      "title": "Full-wave nonlinear microscopy reveals guided channel for ultrafast polariton transport",
-      "link": "https://arxiv.org/abs/2607.22860",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.22860v1 Announce Type: new  Abstract: We show how finite-difference time-domain (FDTD) simulations can be extended to model ultrafast nonlinear microscopy, enabling the prediction of spatially-resolved pump--probe signals in arbitrary electromagnetic environments. Focusing on polariton tr…"
-    },
-    {
-      "title": "Universal scaling framework for parameterized quantum evolutions at criticality",
-      "link": "https://arxiv.org/abs/2607.22863",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.22863v1 Announce Type: new  Abstract: Variational ans\\\"atze are a cornerstone of quantum many-body physics, providing compact approximations to complex ground states using finite resources. Recent quantum-technology advances have introduced a new class based on layered parameterized evolu…"
-    },
-    {
-      "title": "Theory of approximate quantum error correction and the error-set model",
-      "link": "https://arxiv.org/abs/2607.22995",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.22995v1 Announce Type: new  Abstract: We develop a theory of approximate quantum error correction (QEC) based on the error-set model, complemented by general methods for code construction. Exact QEC has a powerful error-set structure: by the Knill-Laflamme conditions, a code correcting a…"
-    },
-    {
-      "title": "A Resource Estimation Model for the Hardware-Software Co-Design of Distributed Quantum Architectures",
-      "link": "https://arxiv.org/abs/2607.22998",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.22998v1 Announce Type: new  Abstract: In distributed quantum computing (DQC), executing monolithic quantum circuits across multiple interconnected quantum processing units (QPUs) requires dedicated communication qubits to generate and distribute entanglement. Because the number of physica…"
-    },
-    {
-      "title": "Parameter Calibration for Reduced-Bandwidth Two-Photon Waveguide-QED Simulations",
-      "link": "https://arxiv.org/abs/2607.23036",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.23036v1 Announce Type: new  Abstract: Waveguide-QED platforms represent one potential approach to scalable quantum technologies, but their simulation remains computationally demanding due to the large number of frequency modes required to describe traveling photons. In practice, increasin…"
-    },
-    {
-      "title": "Revisiting the invariant ring of two-qubit mixed states",
-      "link": "https://arxiv.org/abs/2607.23039",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.23039v1 Announce Type: new  Abstract: Local unitary equivalence serves as the cornerstone for classifying entanglement in bipartite quantum systems. Mathematically, it reduces to the study of polynomial invariants of the density matrix under the action of local unitary groups. The collect…"
-    },
-    {
-      "title": "Characterizing Arbitrary Lindbladian Dynamics with a Few Pauli Measurements",
-      "link": "https://arxiv.org/abs/2607.23044",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.23044v1 Announce Type: new  Abstract: Quantum devices are open systems whose dynamics interleave coherent evolution with dissipation, and benchmarking, error mitigation, and error correction all rest on a faithful model of both. Existing characterization protocols either assume prior know…"
-    },
-    {
-      "title": "Loss and distinguishability effects in heralded entangled state generation with Gaussian resources",
-      "link": "https://arxiv.org/abs/2607.23048",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.23048v1 Announce Type: new  Abstract: The effects of optical loss and photon distinguishability on the heralded generation of entangled states based on Gaussian resources are quantitatively investigated. By incorporating mode-dependent loss and the statistical characteristics of partially…"
-    },
-    {
-      "title": "The Ruskai-Audenaert conjecture & equipartitions of positive operators",
-      "link": "https://arxiv.org/abs/2607.23066",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "published_ts": 1785211200,
-      "summary": "arXiv:2607.23066v1 Announce Type: new  Abstract: Several open problems in quantum information theory can be formulated as equipartition problems for positive operators, asking for a decomposition into bounded-rank positive parts under uniform constraints. The existence problems for SIC-POVMs and MUB…"
     },
     {
       "title": "New quantum chip architecture could use built-in vibrations to link distant qubits",
