@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1785399406,
+  "generated_ts": 1785419283,
   "items": [
+    {
+      "title": "IBM and Qedma Demonstrate Error-Mitigated Quantum Simulation Beyond Classical Benchmarks",
+      "link": "https://thequantuminsider.com/2026/07/30/ibm-qedma-error-mitigated-quantum-simulation-classical-benchmarks/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 30 Jul 2026 12:10:31 +0000",
+      "published_ts": 1785413431,
+      "summary": "Insider Brief Press release &#8211; Qedma Quantum Computing, a pioneer in quantum error reduction software and IBM (NYSE: IBM) today announced a breakthrough study demonstrating how trusted, error-mitigated quantum computation is possible, and can be used to explore the physics of materials beyond t…"
+    },
+    {
+      "title": "Vexlum Opens UK Laboratory and Appoints Dr. Stefan Truppe to Lead Local Operations",
+      "link": "https://thequantuminsider.com/2026/07/30/vexlum-grows-its-european-presence-and-appoints-dr-stefan-truppe-as-managing-director-of-vexlum-uk/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 30 Jul 2026 11:58:09 +0000",
+      "published_ts": 1785412689,
+      "summary": "Insider Brief Press release &#8211; Vexlum, the global leader in high-power semiconductor Vertical-External-Cavity Surface-Emitting Laser (VECSEL) technology, has announced the appointment of Dr. Stefan Truppe as Managing Director of Vexlum UK. The appointment coincides with the establishment of a d…"
+    },
+    {
+      "title": "IBM and Algorithmiq Develop Framework for Verifying Quantum Computations Beyond Classical Simulation",
+      "link": "https://thequantuminsider.com/2026/07/30/ibm-algorithmiq-quantum-computation-verification-framework/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 30 Jul 2026 11:49:21 +0000",
+      "published_ts": 1785412161,
+      "summary": "Insider Brief Press release &#8211; Today, Algorithmiq and IBM (NYSE: IBM) announced a major milestone in the development of quantum computing: a joint demonstration of quantum advantage with the simulation of a heterogeneous quantum material, achieved with a new framework that establishes trust in…"
+    },
+    {
+      "title": "Physicists create Bose–Einstein condensate from ultracold polar molecules",
+      "link": "https://phys.org/news/2026-07-physicists-boseeinstein-condensate-ultracold-polar.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 30 Jul 2026 07:40:03 EDT",
+      "published_ts": 1785411603,
+      "summary": "Bose–Einstein condensates are states of matter that form when particles called bosons are cooled to temperatures that are only a fraction of a degree above absolute zero (i.e., 0 Kelvin [-460°F]). In these states, particles occupy the same quantum state and exhibit interesting collective behaviors,…"
+    },
+    {
+      "title": "IEEE Study Demonstrates Full-Wave Simulation of Kerr Frequency Comb Generation",
+      "link": "https://thequantuminsider.com/2026/07/30/ieee-study-demonstrates-full-wave-simulation-of-kerr-frequency-comb-generation/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 30 Jul 2026 11:03:48 +0000",
+      "published_ts": 1785409428,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Kerr optical frequency combs are compact light sources used in many applications, including precision measurements to high-speed communications. However, accurately simulating how they operate remains challenging as device designs become more complex. In a recent…"
+    },
+    {
+      "title": "Cleveland Clinic and IBM Researchers Create Quantum Machine Learning Framework to Predict Neoantigen Immune Response",
+      "link": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 30 Jul 2026 08:25:01 +0000",
+      "published_ts": 1785399901,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Cleveland Clinic&#160;and IBM&#160;researchers&#160;are using quantum computing to tackle one of the most challenging problems in immuno-oncology: predicting which tumor mutations will trigger an immune response.&#160;&#160; Their framework, Quantum Convolutional…"
+    },
+    {
+      "title": "Researchers: AI Can Learn to Build Quantum Circuits For Drug Molecules, Cutting Design Time by Orders of Magnitude",
+      "link": "https://thequantuminsider.com/2026/07/30/researchers-ai-can-learn-to-build-quantum-circuits-for-drug-molecules-cutting-design-time-by-orders-of-magnitude/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 30 Jul 2026 08:10:18 +0000",
+      "published_ts": 1785399018,
+      "summary": "Insider Brief Researchers from Quantinuum, NVIDIA and Pfizer have developed an artificial intelligence system that learns to generate quantum circuits for molecular simulations in a fraction of the time required by a leading quantum chemistry algorithm, while matching or exceeding its accuracy on be…"
+    },
     {
       "title": "Quantum mechanics on the line with two origins",
       "link": "https://arxiv.org/abs/2607.26080",
@@ -170,60 +226,12 @@
       "summary": "Insider Brief Press release &#8211; IQM Quantum Computers Plc, Stock Exchange Release, Total number of voting rights and shares, 29 July, 2026 at 10:00 EEST/EET. A total of 183,619 new shares have been subscribed for under IQM Quantum Computers Plc’s (“IQM” or the “Company”) ESOP 1 employee stock op…"
     },
     {
-      "title": "QED-C Roadmap Outlines Technology Requirements for Future Quantum Networks",
-      "link": "https://thequantuminsider.com/2026/07/29/qed-c-roadmap-future-quantum-networks/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 29 Jul 2026 12:29:17 +0000",
-      "published_ts": 1785328157,
-      "summary": "Insider Brief Press release &#8211; The Quantum Economic Development Consortium (QED-C) today released a new Quantum Networking Applications Roadmap, identifying the technologies and performance improvements needed to enable quantum networks for commercially valuable applications in secure communica…"
-    },
-    {
       "title": "Rare-earth ions could enable telecom-ready control of interacting qubits",
       "link": "https://phys.org/news/2026-07-rare-earth-ions-enable-telecom.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 29 Jul 2026 08:20:03 EDT",
       "published_ts": 1785327603,
       "summary": "Quantum technologies are devices and systems that exploit the laws of quantum mechanics and could perform tasks that are difficult or impossible to tackle using their classical counterparts. These technologies process and store information using qubits (i.e., quantum bits), which can exist in a supe…"
-    },
-    {
-      "title": "Horizon Quantum Partners With Quantum Machines to Improve Quantum Computer Operations",
-      "link": "https://thequantuminsider.com/2026/07/29/horizon-quantum-quantum-machines-calibration-technology/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 29 Jul 2026 12:18:44 +0000",
-      "published_ts": 1785327524,
-      "summary": "Insider Brief Press release &#8211; Horizon Quantum Computing Pte. Ltd., the wholly-owned subsidiary of Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum”), a pioneer of software infrastructure for quantum applications and Q.M Technologies Ltd. (&#8220;Quantum Machines&#8221; or QM&#8221;…"
-    },
-    {
-      "title": "GlobalFoundries Secures $300 Million CHIPS Award for Silicon Photonics Research",
-      "link": "https://thequantuminsider.com/2026/07/29/globalfoundries-300-million-chips-award-silicon-photonics/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 29 Jul 2026 12:10:15 +0000",
-      "published_ts": 1785327015,
-      "summary": "Insider Brief Press release &#8211; GlobalFoundries (Nasdaq: GFS) today announced it has entered into a letter of intent (LOI) with the U.S. Department of Commerce to accelerate research and development of next-generation silicon photonics &#8211; the optical technology that moves data at the speed…"
-    },
-    {
-      "title": "Scientists Say New Chip Architecture Could Tackle a Barrier to Scaling Quantum Computers Towards 1 Million Qubits",
-      "link": "https://thequantuminsider.com/2026/07/29/scientists-say-new-chip-architecture-could-tackle-a-barrier-to-scaling-quantum-computers-towards-1-million-qubits/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 29 Jul 2026 11:58:34 +0000",
-      "published_ts": 1785326314,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A new concept from Warwick researchers could help solve one of the biggest challenges to building large-scale quantum computers: enabling communication between vast numbers of quantum bits (qubits) over long distances across a single chip. Published in APL Quantum…"
-    },
-    {
-      "title": "Israel Pushes For National Quantum R&D Center to Unite Industry",
-      "link": "https://thequantuminsider.com/2026/07/29/israel-pushes-for-national-quantum-rd-center-to-unite-industry/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 29 Jul 2026 11:26:41 +0000",
-      "published_ts": 1785324401,
-      "summary": "Insider Brief Specialize, collaborate and compete may be the Israeli national deep tech mantra guiding the nation as it moves to establish a national quantum computing research and development center, according to an interview with Israel Innovation Authority CEO Dror Bin published by the Jerusalem…"
-    },
-    {
-      "title": "AI Finds New Weaknesses in Cryptographic Algorithms, Anthropic Says",
-      "link": "https://thequantuminsider.com/2026/07/29/ai-finds-new-weaknesses-in-cryptographic-algorithms-anthropic-says/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 29 Jul 2026 07:19:13 +0000",
-      "published_ts": 1785309553,
-      "summary": "Insider Brief Anthropic says one of its newest AI models discovered improved mathematical attacks against two important cryptographic algorithms, demonstrating that frontier AI systems may soon become valuable tools for testing the security of the encryption methods that protect digital communicatio…"
     },
     {
       "title": "New research shows how 'hot electrons' can reshape metals in billionths of a second",
@@ -312,14 +320,6 @@
       "published": "Thu, 23 Jul 2026 17:30:01 EDT",
       "published_ts": 1784842201,
       "summary": "Efficient heat management in solids is key to advancing the next generation of electronics. However, wave-like heat movement—known as phonon focusing—had been observed only at extremely low, or cryogenic, temperatures, limiting its study and practical use."
-    },
-    {
-      "title": "Simple circuit brings topological insulators closer to practical electrical measurement standards",
-      "link": "https://phys.org/news/2026-07-simple-circuit-topological-insulators-closer.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 23 Jul 2026 17:10:01 EDT",
-      "published_ts": 1784841001,
-      "summary": "Researchers at the University of Würzburg have succeeded in detecting exceptionally robust electrical transport in a topological insulator. This could lead to new metrological applications. The work is published in the journal Nature Communications."
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
