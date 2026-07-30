@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1785419283,
+  "generated_ts": 1785439089,
   "items": [
+    {
+      "title": "Booz Allen Backs the Search for Quantum’s Next Breakout Company",
+      "link": "https://thequantuminsider.com/2026/07/30/booz-allen-backs-the-search-for-quantums-next-breakout-company/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 30 Jul 2026 18:48:33 +0000",
+      "published_ts": 1785437313,
+      "summary": "Insider Brief PRESS RELEASE &#8212; &#160;Quantum World Congress&#160;today announced that&#160;Booz Allen&#160;will return as Presenting Sponsor of the&#160;2026 Quantum Startup Pitch Competition, strengthening a&#160;collaboration&#160;focused on&#160;identifying, elevating, and accelerating the c…"
+    },
+    {
+      "title": "NIST’s Andrew Regenscheid Explains the Transition to Post-Quantum Cryptography",
+      "link": "https://thequantuminsider.com/2026/07/30/nist-andrew-regenscheid-post-quantum-cryptography-transition/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 30 Jul 2026 18:26:06 +0000",
+      "published_ts": 1785435966,
+      "summary": "Insider Brief Press release &#8211; From our bank accounts to smartphones, all our sensitive data and devices are protected with a technology known as cryptography. Present-day cryptography essentially uses a very challenging set of math problems that are nearly impossible for current computers to s…"
+    },
+    {
+      "title": "NRL Expands Quantum Research Efforts Across Sensing, Computing and Networking",
+      "link": "https://thequantuminsider.com/2026/07/30/us-naval-research-laboratory-quantum-technology-research/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 30 Jul 2026 18:10:32 +0000",
+      "published_ts": 1785435032,
+      "summary": "Insider Brief Press release &#8212; As a recent Executive Order declares, “the United States stands at the cusp of a quantum revolution.”At the U.S. Naval Research Laboratory (NRL) that future is already taking shape as researchers advance the Navy’s quantum research enterprise through groundbreakin…"
+    },
+    {
+      "title": "Light's hidden properties save quantum information from the chaos of bad weather",
+      "link": "https://phys.org/news/2026-07-hidden-properties-quantum-chaos-bad.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 30 Jul 2026 13:40:01 EDT",
+      "published_ts": 1785433201,
+      "summary": "For years, researchers have tried to harness the \"twist\" of light to transmit data. This property describes how light spirals as it travels forward, and because it can be molded into a virtually infinite number of different twists, it provides a massive, promising alphabet for high-capacity communic…"
+    },
+    {
+      "title": "Physicists link the Riemann Hypothesis to phase transitions in quantum systems",
+      "link": "https://phys.org/news/2026-07-physicists-link-riemann-hypothesis-phase.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 30 Jul 2026 12:20:05 EDT",
+      "published_ts": 1785428405,
+      "summary": "A new study in Nature Communications has established a link between the Riemann Hypothesis and dynamical phase transitions in engineered quantum systems, demonstrating the effect on a quantum processor."
+    },
+    {
+      "title": "Pusan National University Researchers Have Developed a Hybrid Quantum Network with Indistinguishable Quantum Sources",
+      "link": "https://thequantuminsider.com/2026/07/30/pusan-national-university-researchers-have-developed-a-hybrid-quantum-network-with-indistinguishable-quantum-sources/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 30 Jul 2026 14:29:14 +0000",
+      "published_ts": 1785421754,
+      "summary": "Insider Brief Press release &#8211; Large-scale quantum communication networks require both reliable quantum memories and coherent single-photon sources for efficient quantum information exchange. While various single photon sources have been developed recently, each has inherent limitations, making…"
+    },
     {
       "title": "IBM and Qedma Demonstrate Error-Mitigated Quantum Simulation Beyond Classical Benchmarks",
       "link": "https://thequantuminsider.com/2026/07/30/ibm-qedma-error-mitigated-quantum-simulation-classical-benchmarks/",
@@ -194,38 +242,6 @@
       "summary": "Most electronic memory storage devices require the ability to trap large numbers of electrons for each bit of memory. In an ideal world, however, it would take only one electron. This would reduce space requirements and power consumption for devices. Now, a team in China has realized this goal with…"
     },
     {
-      "title": "HRL Shows Self-Operating Silicon Quantum Processor That Performs Error Correction",
-      "link": "https://thequantuminsider.com/2026/07/29/hrl-shows-self-operating-silicon-quantum-processor-that-performs-error-correction/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 29 Jul 2026 15:03:00 +0000",
-      "published_ts": 1785337380,
-      "summary": "Insider Brief PRESS RELEASE &#8212; HRL Laboratories published a quantum computing milestone in Nature today: a quantum processor that runs itself. Quantum computers normally depend on racks of external electronics to generate every control signal. HRL replaced those racks with a custom control chip…"
-    },
-    {
-      "title": "The Growing Quantum Security Challenge Facing Bitcoin and Digital Assets",
-      "link": "https://thequantuminsider.com/2026/07/29/growing-quantum-security-challenge-bitcoin-digital-assets/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 29 Jul 2026 14:24:22 +0000",
-      "published_ts": 1785335062,
-      "summary": "Insider Brief Quantum computers and encryption debates normally revolve around governmental communications, banking systems, or healthcare data. The role of cryptocurrencies remains underexamined; however, a Google Quantum AI paper released in March 2026 hints at potential problems associated with t…"
-    },
-    {
-      "title": "EY Announces On-Site Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/07/29/ey-announces-on-site-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 29 Jul 2026 13:53:28 +0000",
-      "published_ts": 1785333208,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The EY organization (EY) announces the expansion of its global quantum computing capabilities with the addition of an on-site quantum computer led by EY Canada and part of a global investment of more than US$3b in AI and other next frontier technologies. The new c…"
-    },
-    {
-      "title": "IQM Quantum Computers Registers 183,619 New Shares Following ESOP 1 Subscriptions",
-      "link": "https://thequantuminsider.com/2026/07/29/iqm-registers-new-shares-from-esop-1/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 29 Jul 2026 13:32:40 +0000",
-      "published_ts": 1785331960,
-      "summary": "Insider Brief Press release &#8211; IQM Quantum Computers Plc, Stock Exchange Release, Total number of voting rights and shares, 29 July, 2026 at 10:00 EEST/EET. A total of 183,619 new shares have been subscribed for under IQM Quantum Computers Plc’s (“IQM” or the “Company”) ESOP 1 employee stock op…"
-    },
-    {
       "title": "Rare-earth ions could enable telecom-ready control of interacting qubits",
       "link": "https://phys.org/news/2026-07-rare-earth-ions-enable-telecom.html",
       "source": "Phys.org — Quantum Physics",
@@ -304,22 +320,6 @@
       "published": "Fri, 24 Jul 2026 12:40:06 EDT",
       "published_ts": 1784911206,
       "summary": "The promise of quantum computing is to solve complex problems faster and more energy-efficiently than today's supercomputers—from optimizing logistics to simulating molecules. This goal is coming within reach as the number of qubits—the computational units of quantum computing—increases."
-    },
-    {
-      "title": "World's first 'zinc oxide spin qubit' could advance scalable quantum devices",
-      "link": "https://phys.org/news/2026-07-world-zinc-oxide-qubit-advance.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 24 Jul 2026 09:20:04 EDT",
-      "published_ts": 1784899204,
-      "summary": "A research team led by SKKU professor Hosung Seo of the Department of Quantum Information Engineering and the SKKU Advanced Institute of Nanotechnology, working with the University of Wisconsin–Madison and the University of Washington, has identified—for the first time—an atomic defect structure in…"
-    },
-    {
-      "title": "Engineers observe quantum heat waves at room temperature",
-      "link": "https://phys.org/news/2026-07-quantum-room-temperature.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 23 Jul 2026 17:30:01 EDT",
-      "published_ts": 1784842201,
-      "summary": "Efficient heat management in solids is key to advancing the next generation of electronics. However, wave-like heat movement—known as phonon focusing—had been observed only at extremely low, or cryogenic, temperatures, limiting its study and practical use."
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
