@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1785487342,
+  "generated_ts": 1785506003,
   "items": [
+    {
+      "title": "Two independent studies push semiconductor qubits towards practical scales",
+      "link": "https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 31 Jul 2026 07:20:04 EDT",
+      "published_ts": 1785496804,
+      "summary": "Semiconductor spin qubits are one of the most promising building blocks for future quantum computers, but turning them into a working, large-scale quantum computer has so far proven difficult. For now, two big questions remain open: how to connect qubits that aren't sitting right next to each other,…"
+    },
+    {
+      "title": "French National Quantum Update: July 2026",
+      "link": "https://thequantuminsider.com/2026/07/31/french-national-quantum-update-july-2026/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 31 Jul 2026 11:08:11 +0000",
+      "published_ts": 1785496091,
+      "summary": "Executive Summary France’s quantum ecosystem continued to expand in July 2026 through a combination of government oversight, industrial scaling, international partnerships and commercial growth, even as policymakers acknowledged intensifying global competition. The French Court of Auditors concluded…"
+    },
+    {
+      "title": "Why Crypto-Agility Matters for Post-Quantum Cryptography Migration",
+      "link": "https://thequantuminsider.com/2026/07/31/why-crypto-agility-matters-for-post-quantum-cryptography-migration/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 31 Jul 2026 10:42:29 +0000",
+      "published_ts": 1785494549,
+      "summary": "Insider Brief The post-quantum conversation has focused heavily on which algorithms to adopt, but algorithm selection is the second problem, not the first.&#160; The real challenge lies in developing the system’s ability to adapt itself to the adoption of new algorithms &#8211; all within years and…"
+    },
+    {
+      "title": "UC San Diego Advances Quantum Metamaterials for Ultrafast Optical Computing",
+      "link": "https://thequantuminsider.com/2026/07/31/uc-san-diego-advances-quantum-metamaterials-for-ultrafast-optical-computing/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 31 Jul 2026 08:09:52 +0000",
+      "published_ts": 1785485392,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum metamaterials are one of the two research themes of the UC San Diego Materials Research Science and Engineering Center (MRSEC), which is supported by the U.S. National Science Foundation (NSF). Quantum metamaterials are a cutting-edge subset of metamateria…"
+    },
+    {
+      "title": "IBM CEO Expects Quantum Computing to Drive Revenue by 2020s, Trillion-Dollar Value by End of 2030s",
+      "link": "https://thequantuminsider.com/2026/07/31/ibm-ceo-expects-quantum-computing-to-drive-revenue-by-2020s-trillion-dollar-value-by-end-of-2030s/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 31 Jul 2026 07:58:32 +0000",
+      "published_ts": 1785484712,
+      "summary": "Insider Brief IBM expects quantum computing to begin making a measurable contribution to the company&#8217;s financial results within the next few years, as the technology moves closer to commercial use, Chief Executive Officer Arvind Krishna told CNBC. Speaking on CNBC&#8217;s &#8220;Mad Money,&#82…"
+    },
     {
       "title": "BlueQubit Supports Qedma, IBM and RIKEN Study on Error-Mitigated Quantum Simulation",
       "link": "https://thequantuminsider.com/2026/07/31/bluequbit-qedma-ibm-riken-quantum-simulation-study/",
@@ -202,44 +242,12 @@
       "summary": "Insider Brief Press release &#8211; Large-scale quantum communication networks require both reliable quantum memories and coherent single-photon sources for efficient quantum information exchange. While various single photon sources have been developed recently, each has inherent limitations, making…"
     },
     {
-      "title": "IBM and Qedma Demonstrate Error-Mitigated Quantum Simulation Beyond Classical Benchmarks",
-      "link": "https://thequantuminsider.com/2026/07/30/ibm-qedma-error-mitigated-quantum-simulation-classical-benchmarks/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 30 Jul 2026 12:10:31 +0000",
-      "published_ts": 1785413431,
-      "summary": "Insider Brief Press release &#8211; Qedma Quantum Computing, a pioneer in quantum error reduction software and IBM (NYSE: IBM) today announced a breakthrough study demonstrating how trusted, error-mitigated quantum computation is possible, and can be used to explore the physics of materials beyond t…"
-    },
-    {
-      "title": "Vexlum Opens UK Laboratory and Appoints Dr. Stefan Truppe to Lead Local Operations",
-      "link": "https://thequantuminsider.com/2026/07/30/vexlum-grows-its-european-presence-and-appoints-dr-stefan-truppe-as-managing-director-of-vexlum-uk/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 30 Jul 2026 11:58:09 +0000",
-      "published_ts": 1785412689,
-      "summary": "Insider Brief Press release &#8211; Vexlum, the global leader in high-power semiconductor Vertical-External-Cavity Surface-Emitting Laser (VECSEL) technology, has announced the appointment of Dr. Stefan Truppe as Managing Director of Vexlum UK. The appointment coincides with the establishment of a d…"
-    },
-    {
-      "title": "IBM and Algorithmiq Develop Framework for Verifying Quantum Computations Beyond Classical Simulation",
-      "link": "https://thequantuminsider.com/2026/07/30/ibm-algorithmiq-quantum-computation-verification-framework/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 30 Jul 2026 11:49:21 +0000",
-      "published_ts": 1785412161,
-      "summary": "Insider Brief Press release &#8211; Today, Algorithmiq and IBM (NYSE: IBM) announced a major milestone in the development of quantum computing: a joint demonstration of quantum advantage with the simulation of a heterogeneous quantum material, achieved with a new framework that establishes trust in…"
-    },
-    {
       "title": "Physicists create Bose–Einstein condensate from ultracold polar molecules",
       "link": "https://phys.org/news/2026-07-physicists-boseeinstein-condensate-ultracold-polar.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 30 Jul 2026 07:40:03 EDT",
       "published_ts": 1785411603,
       "summary": "Bose–Einstein condensates are states of matter that form when particles called bosons are cooled to temperatures that are only a fraction of a degree above absolute zero (i.e., 0 Kelvin [-460°F]). In these states, particles occupy the same quantum state and exhibit interesting collective behaviors,…"
-    },
-    {
-      "title": "IEEE Study Demonstrates Full-Wave Simulation of Kerr Frequency Comb Generation",
-      "link": "https://thequantuminsider.com/2026/07/30/ieee-study-demonstrates-full-wave-simulation-of-kerr-frequency-comb-generation/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 30 Jul 2026 11:03:48 +0000",
-      "published_ts": 1785409428,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Kerr optical frequency combs are compact light sources used in many applications, including precision measurements to high-speed communications. However, accurately simulating how they operate remains challenging as device designs become more complex. In a recent…"
     },
     {
       "title": "Quantum in the palm of your hand: The evolution of superconducting qubits",
@@ -312,14 +320,6 @@
       "published": "Sun, 26 Jul 2026 19:00:01 EDT",
       "published_ts": 1785106801,
       "summary": "Imagine holding one of our most precise quantum devices at a fixed position outside a black hole. A Josephson junction—two superconductors separated by an ultrathin barrier—can turn a voltage into a quantum oscillation with extraordinary precision. Would intense gravity change that quantum rule, or…"
-    },
-    {
-      "title": "A quantum heat engine that simultaneously provides work and refrigeration",
-      "link": "https://phys.org/news/2026-07-quantum-simultaneously-refrigeration.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sun, 26 Jul 2026 12:20:01 EDT",
-      "published_ts": 1785082801,
-      "summary": "The laws of thermodynamics state that heat naturally flows from hotter systems or regions to colder systems or regions until a state of thermal equilibrium is reached. This simple principle underpins the operation of numerous technologies, ranging from refrigerators to power plants."
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
