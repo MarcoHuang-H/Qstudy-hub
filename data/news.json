@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1785439089,
+  "generated_ts": 1785464595,
   "items": [
+    {
+      "title": "Quantum spin effects may enhance one-way electrical transport in chiral magnets",
+      "link": "https://phys.org/news/2026-07-quantum-effects-electrical-chiral-magnets.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 30 Jul 2026 17:30:01 EDT",
+      "published_ts": 1785447001,
+      "summary": "Quantum fluctuations influence direction-dependent electrical transport in chiral magnets, researchers from Science Tokyo report. In chiral magnetic systems, electric current flows differently depending on its direction, but the role of quantum effects in this behavior has remained unclear. Through…"
+    },
+    {
+      "title": "Cesium atoms and quantum dots generate indistinguishable photons for modular quantum networks",
+      "link": "https://phys.org/news/2026-07-cesium-atoms-quantum-dots-generate.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 30 Jul 2026 16:20:07 EDT",
+      "published_ts": 1785442807,
+      "summary": "Large-scale quantum communication networks require both reliable quantum memories and coherent single-photon sources that can exchange quantum information efficiently. A coherent source of single photons with narrow linewidth, high brightness, spectral uniformity and compatibility with quantum memor…"
+    },
     {
       "title": "Booz Allen Backs the Search for Quantum’s Next Breakout Company",
       "link": "https://thequantuminsider.com/2026/07/30/booz-allen-backs-the-search-for-quantums-next-breakout-company/",
@@ -304,22 +320,6 @@
       "published": "Sun, 26 Jul 2026 12:20:01 EDT",
       "published_ts": 1785082801,
       "summary": "The laws of thermodynamics state that heat naturally flows from hotter systems or regions to colder systems or regions until a state of thermal equilibrium is reached. This simple principle underpins the operation of numerous technologies, ranging from refrigerators to power plants."
-    },
-    {
-      "title": "Long-lived ytterbium states could sharpen quantum computing and atomic clocks",
-      "link": "https://phys.org/news/2026-07-ytterbium-states-sharpen-quantum-atomic.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 24 Jul 2026 17:20:02 EDT",
-      "published_ts": 1784928002,
-      "summary": "Researchers from the University of Amsterdam and the University of New South Wales have answered a question that has been around for decades: whether ions of the metal ytterbium can enter certain long-lived, nearly stable states and, if so, for how long. The measured long-lived states may find appli…"
-    },
-    {
-      "title": "Quantum Zeno effect could freeze computations as qubit systems scale up",
-      "link": "https://phys.org/news/2026-07-quantum-zeno-effect-qubit-scale.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 24 Jul 2026 12:40:06 EDT",
-      "published_ts": 1784911206,
-      "summary": "The promise of quantum computing is to solve complex problems faster and more energy-efficiently than today's supercomputers—from optimizing logistics to simulating molecules. This goal is coming within reach as the number of qubits—the computational units of quantum computing—increases."
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
