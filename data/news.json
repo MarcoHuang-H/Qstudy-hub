@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1785506003,
+  "generated_ts": 1785525456,
   "items": [
+    {
+      "title": "Diamond's newfound defect may tame vibrations that hinder quantum light sources",
+      "link": "https://phys.org/news/2026-07-diamond-newfound-defect-vibrations-hinder.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 31 Jul 2026 11:40:08 EDT",
+      "published_ts": 1785512408,
+      "summary": "Researchers in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign have discovered a new type of quantum light emitter in diamonds that could help overcome a number of challenges facing quantum technologies."
+    },
+    {
+      "title": "SEALSQ Begins Commercial Deployment of Miraex Quantum Photonics Technology",
+      "link": "https://thequantuminsider.com/2026/07/31/sealsq-launches-commercial-phase-of-miraex-quantum-photonics-technology/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 31 Jul 2026 14:58:43 +0000",
+      "published_ts": 1785509923,
+      "summary": "Insider Brief Press release &#8211; SEALSQ Corp (NASDAQ: LAES), (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company focused on semiconductors, PKI, and post-quantum technology solutions, today announced the start of the commercial phase of the groundbreaking quantum photonics technology devel…"
+    },
+    {
+      "title": "Less-explored form of quantum code could be more powerful—and more stable—than its alternative in error correction",
+      "link": "https://phys.org/news/2026-07-explored-quantum-code-powerful-stable.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 31 Jul 2026 10:00:04 EDT",
+      "published_ts": 1785506404,
+      "summary": "In mathematics and getting dressed, some processes are commutative, while others are noncommutative. Commutative means the order doesn't matter (3 + 2 is the same as 2 + 3, and it doesn't matter which sock goes on first). Noncommutative means the order does matter."
+    },
+    {
+      "title": "IonQ Completes Acquisition of SkyWater Technology",
+      "link": "https://thequantuminsider.com/2026/07/31/ionq-completes-skywater-acquisition-quantum-manufacturing/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 31 Jul 2026 13:31:58 +0000",
+      "published_ts": 1785504718,
+      "summary": "Insider Brief Press release &#8211; IonQ (NYSE: IONQ), the world’s leading quantum platform company, today completed its acquisition of SkyWater Technology (NASDAQ: SKYT), the largest exclusively U.S.-based semiconductor foundry. “Acquiring SkyWater crystalizes IonQ’s vision to serve as a technology…"
+    },
     {
       "title": "Two independent studies push semiconductor qubits towards practical scales",
       "link": "https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html",
@@ -210,14 +242,6 @@
       "summary": "Insider Brief Press release &#8211; From our bank accounts to smartphones, all our sensitive data and devices are protected with a technology known as cryptography. Present-day cryptography essentially uses a very challenging set of math problems that are nearly impossible for current computers to s…"
     },
     {
-      "title": "NRL Expands Quantum Research Efforts Across Sensing, Computing and Networking",
-      "link": "https://thequantuminsider.com/2026/07/30/us-naval-research-laboratory-quantum-technology-research/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 30 Jul 2026 18:10:32 +0000",
-      "published_ts": 1785435032,
-      "summary": "Insider Brief Press release &#8212; As a recent Executive Order declares, “the United States stands at the cusp of a quantum revolution.”At the U.S. Naval Research Laboratory (NRL) that future is already taking shape as researchers advance the Navy’s quantum research enterprise through groundbreakin…"
-    },
-    {
       "title": "Light's hidden properties save quantum information from the chaos of bad weather",
       "link": "https://phys.org/news/2026-07-hidden-properties-quantum-chaos-bad.html",
       "source": "Phys.org — Quantum Physics",
@@ -232,14 +256,6 @@
       "published": "Thu, 30 Jul 2026 12:20:05 EDT",
       "published_ts": 1785428405,
       "summary": "A new study in Nature Communications has established a link between the Riemann Hypothesis and dynamical phase transitions in engineered quantum systems, demonstrating the effect on a quantum processor."
-    },
-    {
-      "title": "Pusan National University Researchers Have Developed a Hybrid Quantum Network with Indistinguishable Quantum Sources",
-      "link": "https://thequantuminsider.com/2026/07/30/pusan-national-university-researchers-have-developed-a-hybrid-quantum-network-with-indistinguishable-quantum-sources/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 30 Jul 2026 14:29:14 +0000",
-      "published_ts": 1785421754,
-      "summary": "Insider Brief Press release &#8211; Large-scale quantum communication networks require both reliable quantum memories and coherent single-photon sources for efficient quantum information exchange. While various single photon sources have been developed recently, each has inherent limitations, making…"
     },
     {
       "title": "Physicists create Bose–Einstein condensate from ultracold polar molecules",
@@ -304,22 +320,6 @@
       "published": "Mon, 27 Jul 2026 16:20:05 EDT",
       "published_ts": 1785183605,
       "summary": "Light typically interacts with a material the same way whether it enters through the front or the back—like polarized sunglasses that work the same from either side. Cornell researchers have demonstrated a simple route to breaking that symmetry, opening new possibilities for photonics and quantum in…"
-    },
-    {
-      "title": "Quantum neural networks get their first hardware test",
-      "link": "https://phys.org/news/2026-07-quantum-neural-networks-hardware.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 27 Jul 2026 10:50:01 EDT",
-      "published_ts": 1785163801,
-      "summary": "Neural networks have transformed how machines find patterns in data, from recognizing faces in photos to predicting the shapes of proteins. So far, all of this progress has been made on ordinary classical computers, but with quantum computers now edging into practical use, there is a real possibilit…"
-    },
-    {
-      "title": "Near a black hole, gravity changes a quantum circuit's readings, not its rules",
-      "link": "https://phys.org/news/2026-07-black-hole-gravity-quantum-circuit.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sun, 26 Jul 2026 19:00:01 EDT",
-      "published_ts": 1785106801,
-      "summary": "Imagine holding one of our most precise quantum devices at a fixed position outside a black hole. A Josephson junction—two superconductors separated by an ultrathin barrier—can turn a voltage into a quantum oscillation with extraordinary precision. Would intense gravity change that quantum rule, or…"
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
