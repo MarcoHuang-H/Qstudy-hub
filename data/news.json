@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1785589689,
+  "generated_ts": 1785610897,
   "items": [
+    {
+      "title": "Unusual metal oxide shows signs of magnetism under lattice strain in ultrathin layers",
+      "link": "https://phys.org/news/2026-07-unusual-metal-oxide-magnetism-lattice.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 01 Aug 2026 14:40:01 EDT",
+      "published_ts": 1785609601,
+      "summary": "Ruthenium dioxide (RuO2) is a metal oxide that commonly serves as an important metallic conductor, quantum material and industrial electrocatalyst. While there have been debates surrounding the magnetic properties of RuO2, it is generally thought to be nonmagnetic in its bulk form. But now, a new st…"
+    },
     {
       "title": "Quantum computer completes verified task beyond practical reach of classical simulations",
       "link": "https://phys.org/news/2026-07-quantum-task-classical-simulations.html",
@@ -192,14 +200,6 @@
       "published": "Tue, 28 Jul 2026 10:20:02 EDT",
       "published_ts": 1785248402,
       "summary": "Quantum computers process information in a fundamentally different way from conventional computers, using quantum bits, or qubits, that can exist in multiple states at once. This could allow them to tackle problems beyond the reach of today's machines, from simulating new materials to optimizing com…"
-    },
-    {
-      "title": "New quantum chip architecture could use built-in vibrations to link distant qubits",
-      "link": "https://phys.org/news/2026-07-quantum-chip-architecture-built-vibrations.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 27 Jul 2026 17:10:01 EDT",
-      "published_ts": 1785186601,
-      "summary": "A new concept from Warwick researchers could help solve one of the biggest challenges to building large-scale quantum computers: enabling communication between vast numbers of quantum bits (qubits) over long distances across a single chip."
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
