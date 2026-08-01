@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1785571970,
+  "generated_ts": 1785589689,
   "items": [
+    {
+      "title": "Quantum computer completes verified task beyond practical reach of classical simulations",
+      "link": "https://phys.org/news/2026-07-quantum-task-classical-simulations.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 01 Aug 2026 08:00:05 EDT",
+      "published_ts": 1785585605,
+      "summary": "IBM and researchers from the University of Chicago announced a demonstration in quantum computing that meets the fundamental criteria for \"quantum advantage\"—the point where quantum computers can be confirmed to have outperformed classical computers on trusted computations."
+    },
     {
       "title": "Gil Kalai (Hebrew University / Reichman University): Why noise may doom quantum computers",
       "link": "https://thequantuminsider.com/2026/08/01/gil-kalai-hebrew-university-reichman-university-why-noise-may-doom-quantum-computers/",
@@ -192,14 +200,6 @@
       "published": "Mon, 27 Jul 2026 17:10:01 EDT",
       "published_ts": 1785186601,
       "summary": "A new concept from Warwick researchers could help solve one of the biggest challenges to building large-scale quantum computers: enabling communication between vast numbers of quantum bits (qubits) over long distances across a single chip."
-    },
-    {
-      "title": "Simple semiconductor films break light's front-back symmetry",
-      "link": "https://phys.org/news/2026-07-simple-semiconductor-front-symmetry.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 27 Jul 2026 16:20:05 EDT",
-      "published_ts": 1785183605,
-      "summary": "Light typically interacts with a material the same way whether it enters through the front or the back—like polarized sunglasses that work the same from either side. Cornell researchers have demonstrated a simple route to breaking that symmetry, opening new possibilities for photonics and quantum in…"
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
