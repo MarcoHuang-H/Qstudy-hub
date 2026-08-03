@@ -1,6 +1,142 @@
 {
-  "generated_ts": 1785723845,
+  "generated_ts": 1785749671,
   "items": [
+    {
+      "title": "Qubitrium Supports NATO Training Programme on Dual-Use Quantum Technologies",
+      "link": "https://thequantuminsider.com/2026/08/03/qubitrium-nato-training-programme-dual-use-quantum-technologies/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 03 Aug 2026 08:32:51 +0000",
+      "published_ts": 1785745971,
+      "summary": "Insider Brief Press release &#8211; Qubitrium is proud to announce its role as a co-organizer and academic co-director of the NATO STO Summer Training Programme 2026: Dual-Use Quantum Technologies (IST-TSI-244), an international initiative designed to educate the next generation of quantum professio…"
+    },
+    {
+      "title": "Atomionics Expands Quantum Gravimetry Research Into Ocean Sensing",
+      "link": "https://thequantuminsider.com/2026/08/03/atomionics-opens-quantum-sensing-hub-singapore/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 03 Aug 2026 08:26:54 +0000",
+      "published_ts": 1785745614,
+      "summary": "Insider Brief The seabed is the largest unexplored territory on Earth. Today, Singapore moved to change that. Atomionics is bringing quantum gravimetry to the ocean—a marine intelligence capability that aims to read the sea in three dimensions: through the water, across the seabed, and into the grou…"
+    },
+    {
+      "title": "Experimental Demonstration of a Measurement-Feedback Quantum Information Engine",
+      "link": "https://arxiv.org/abs/2607.28702",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28702v1 Announce Type: new  Abstract: Harnessing quantum inner friction in a finite-time stroke of quantum engine to extract work remains an open experimental challenge. Here we address this issue by experimentally establishing and demonstrating an innovative measurement-feedback quantum…"
+    },
+    {
+      "title": "Cascading amplifiers can create exponentially large coherence",
+      "link": "https://arxiv.org/abs/2607.28716",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28716v1 Announce Type: new  Abstract: A standard laser beam has photon degeneracy, or coherence, $\\mathfrak{C}$, of at most $8\\mu^2$, where $\\mu$ is the number of photons in the laser itself. Even quantum-engineered lasers, if required to produce a beam with the standard statistical prope…"
+    },
+    {
+      "title": "Quantum Resources in Disorder-Free Localization Dynamics of Gauge Theories",
+      "link": "https://arxiv.org/abs/2607.28730",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28730v1 Announce Type: new  Abstract: Quantum-state complexity diagnostics provide valuable insight into many-body dynamics, information scrambling, and quantum computation. Here, we investigate the real-time dynamics of quantum complexity in $1+1$-dimensional Abelian U(1) and non-Abelian…"
+    },
+    {
+      "title": "Detection-resolution limits of large-momentum-transfer atom gravimetry",
+      "link": "https://arxiv.org/abs/2607.28749",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28749v1 Announce Type: new  Abstract: Large momentum transfer (LMT) enhances the gravitational phase of a light-pulse atom interferometer by a factor $n$, while mirrorless operation with momentum-resolved detection can quadruple the phase-carrying quantum Fisher information. These gains c…"
+    },
+    {
+      "title": "Gaussian-augmented bosonic matrix-product states: theory and applications",
+      "link": "https://arxiv.org/abs/2607.28753",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28753v1 Announce Type: new  Abstract: We propose and analyze the structure of a family of bosonic quantum many-body states that have the following features: (i) they include all pure Gaussian states and finite-dimensional matrix-product states as subclasses; (ii) their expectation values…"
+    },
+    {
+      "title": "Quantum Optimal Control at Intermediate Times: Controlling Revivals in Spin Chains",
+      "link": "https://arxiv.org/abs/2607.28783",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28783v1 Announce Type: new  Abstract: Standard Quantum Optimal Control (QOC) protocols typically maximize a physical objective just at a final target time. However, tracking or measuring the quantum state during the time evolution requires the control at intermediate stages of their evolu…"
+    },
+    {
+      "title": "High-rate qLDPC processors",
+      "link": "https://arxiv.org/abs/2607.28795",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28795v1 Announce Type: new  Abstract: Despite significant progress on quantum low-density parity-check (qLDPC) codes, building qLDPC processors that are high-rate, high-throughput, hardware-friendly, and fast-to-decode remains a challenge. We introduce mitten codes, a family of qLDPC proc…"
+    },
+    {
+      "title": "FedQML-Edge: Compact Quantum Feature Sketches for Communication-Constrained Roadside Federated Learning",
+      "link": "https://arxiv.org/abs/2607.28799",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28799v1 Announce Type: new  Abstract: Roadside units (RSUs) supporting connected and autonomous vehicle corridors need compact models to decide when cooperative maneuvers should be rewarded, deferred, or disabled. Raw sensor streams and neural network weight checkpoints are poorly suited…"
+    },
+    {
+      "title": "Generative IQP Circuit Learning with Physics-Informed Latent Initialization",
+      "link": "https://arxiv.org/abs/2607.28866",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28866v1 Announce Type: new  Abstract: Quantum generative learning based on instantaneous quantum polynomial-time (IQP) circuits can benefit from efficient classical training strategies. A recent latent adaptation framework for IQP-based generative modeling transfers shared circuit paramet…"
+    },
+    {
+      "title": "Error-Generator-Level Compression for Fast Quantum Gates",
+      "link": "https://arxiv.org/abs/2607.28922",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28922v1 Announce Type: new  Abstract: Fast quantum gates in multilevel systems require suppressing many coherent-error channels using pulses that remain simple to implement. We introduce error-generator-level compression, a Magnus-based control principle that minimizes the complete projec…"
+    },
+    {
+      "title": "Optically Resolved Excited State Hyperfine Structure of a Silicon Colour Centre in the Telecom Bands",
+      "link": "https://arxiv.org/abs/2607.28943",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28943v1 Announce Type: new  Abstract: Nuclear spin qubits in silicon offer exceptionally coherent quantum memory, and optically-interfaced spins are a promising platform for both quantum networking and distributed quantum computing. It has been proposed that emitters with diamagnetic grou…"
+    },
+    {
+      "title": "The Shape of Information: Global Information Geometric Limits in Multi-task Quantum Systems",
+      "link": "https://arxiv.org/abs/2607.28961",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28961v1 Announce Type: new  Abstract: Future quantum networks are expected to perform multiple tasks simultaneously within a single system, such as integrated sensing and communication (ISAC) architectures. Despite various metrics, we find that the evaluation of multiple tasks can be unif…"
+    },
+    {
+      "title": "Parent Hamiltonian and intrinsic phase transition in non-Hermitian photonic systems",
+      "link": "https://arxiv.org/abs/2607.28964",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28964v1 Announce Type: new  Abstract: Non-Hermitian systems host phenomena absent in Hermitian physics, but realizing Hamiltonians with intrinsic non-Hermitian properties remains challenging. The theoretical method of non-Hermitian parent Hamiltonian (NH-PH) enables the construction of a…"
+    },
+    {
+      "title": "Construction of Sets of Orthogonal Quantum States with Minimal Nonlocality in Bipartite and Tripartite Systems of Unequal Local Dimensions",
+      "link": "https://arxiv.org/abs/2607.28998",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.28998v1 Announce Type: new  Abstract: The research on minimal nonlocality aims to determine the minimal cardinality of nonlocal sets of quantum states. However, the construction of a nonlocal set of states in bipartite or tripartite quantum systems with unequal local dimensions remains un…"
+    },
+    {
+      "title": "Bell violation with path-entangled number states under realistic detection",
+      "link": "https://arxiv.org/abs/2607.29012",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785729600,
+      "summary": "arXiv:2607.29012v1 Announce Type: new  Abstract: A single photon delocalised over two modes is entangled, and whether that entanglement can violate a Bell inequality has been disputed for three decades. In principle it is settled: the surviving objection was the absence of a shared phase reference,…"
+    },
     {
       "title": "Unusual metal oxide shows signs of magnetism under lattice strain in ultrathin layers",
       "link": "https://phys.org/news/2026-07-unusual-metal-oxide-magnetism-lattice.html",
@@ -106,14 +242,6 @@
       "summary": "Insider Brief Press release &#8211; When will meaningful applications of quantum computers arrive? The standard answer has been at least five to ten years, while we wait for fully fault-tolerant hardware with millions of qubits. A new landmark study disagrees, saying Quantum Advantage is already her…"
     },
     {
-      "title": "IBM and University of Chicago Demonstrate Verified Logical Quantum Computation Beyond Classical Simulation",
-      "link": "https://thequantuminsider.com/2026/07/31/ibm-university-of-chicago-verified-logical-quantum-computation/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 31 Jul 2026 07:00:00 +0000",
-      "published_ts": 1785481200,
-      "summary": "Insider Brief Press release &#8211; IBM (NYSE: IBM) and researchers from the University of Chicago today announced a demonstration in quantum computing that achieves the fundamental criteria for quantum advantage: performing computations beyond the reach of leading classical simulation methods while…"
-    },
-    {
       "title": "Quantum spin effects may enhance one-way electrical transport in chiral magnets",
       "link": "https://phys.org/news/2026-07-quantum-effects-electrical-chiral-magnets.html",
       "source": "Phys.org — Quantum Physics",
@@ -128,14 +256,6 @@
       "published": "Thu, 30 Jul 2026 16:20:07 EDT",
       "published_ts": 1785442807,
       "summary": "Large-scale quantum communication networks require both reliable quantum memories and coherent single-photon sources that can exchange quantum information efficiently. A coherent source of single photons with narrow linewidth, high brightness, spectral uniformity and compatibility with quantum memor…"
-    },
-    {
-      "title": "Booz Allen Backs the Search for Quantum’s Next Breakout Company",
-      "link": "https://thequantuminsider.com/2026/07/30/booz-allen-backs-the-search-for-quantums-next-breakout-company/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 30 Jul 2026 18:48:33 +0000",
-      "published_ts": 1785437313,
-      "summary": "Insider Brief PRESS RELEASE &#8212; &#160;Quantum World Congress&#160;today announced that&#160;Booz Allen&#160;will return as Presenting Sponsor of the&#160;2026 Quantum Startup Pitch Competition, strengthening a&#160;collaboration&#160;focused on&#160;identifying, elevating, and accelerating the c…"
     },
     {
       "title": "Light's hidden properties save quantum information from the chaos of bad weather",
