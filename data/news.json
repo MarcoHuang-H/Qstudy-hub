@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1785749671,
+  "generated_ts": 1785767320,
   "items": [
+    {
+      "title": "SEALSQ Highlights Role of Crypto-Agility in Preparing for Future Cryptographic Threats",
+      "link": "https://thequantuminsider.com/2026/08/03/sealsq-hardware-based-crypto-agility-ai-accelerates-cryptanalysis/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 03 Aug 2026 13:45:56 +0000",
+      "published_ts": 1785764756,
+      "summary": "Insider Brief Press release &#8211; SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or the “Company”), a global leader in post-quantum semiconductor and cybersecurity technology, today highlighted the growing importance of crypto-agile hardware architectures in light of new research into how artificial intelli…"
+    },
+    {
+      "title": "China Forms Quantum Standards Committee to Coordinate Industry Development",
+      "link": "https://thequantuminsider.com/2026/08/03/china-quantum-standards-committee/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 03 Aug 2026 12:45:00 +0000",
+      "published_ts": 1785761100,
+      "summary": "Insider Brief China has established a national technical committee dedicated to quantum information standards, underscoring the country&#8217;s effort to build the regulatory and technical framework needed to support its expanding quantum technology sector. The committee, established Thursday under…"
+    },
+    {
+      "title": "Western Quantum Export Controls Are Evolving Into an Industrial Strategy, IISS Analysis Says",
+      "link": "https://thequantuminsider.com/2026/08/03/western-quantum-export-controls-are-evolving-into-an-industrial-strategy-iiss-analysis-says/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 03 Aug 2026 12:35:00 +0000",
+      "published_ts": 1785760500,
+      "summary": "Insider Brief Western governments are no longer using export controls simply to restrict sensitive quantum technologies—they are increasingly using them to shape the future structure of the global quantum industry, according to a new analysis from the International Institute for Strategic Studies (I…"
+    },
+    {
+      "title": "OptQC and NTT Strengthen Collaboration on Large-Scale Optical Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/08/03/optqc-ntt-large-scale-optical-quantum-computing-collaboration/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 03 Aug 2026 12:14:15 +0000",
+      "published_ts": 1785759255,
+      "summary": "Insider Brief Press release &#8211; OptQC Corp. (Headquarters: Toshima-ku, Tokyo; Representative Director and CEO: Kan Takase; hereinafter &#8220;OptQC&#8220;) and NTT, Inc. (Headquarters: Chiyoda-ku, Tokyo; President and CEO: Akira Shimada; hereinafter &#8220;NTT&#8221;) have signed a capital and b…"
+    },
+    {
+      "title": "D-Wave and Nasdaq Verafin Announce Agreement for Quantum Computing Application Development",
+      "link": "https://thequantuminsider.com/2026/08/03/d-wave-nasdaq-verafin-quantum-computing-application-development-agreement/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 03 Aug 2026 12:01:11 +0000",
+      "published_ts": 1785758471,
+      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (NASDAQ: QBTS), (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, and Nasdaq Verafin announced today an agreement designed to evaluate the use o…"
+    },
+    {
+      "title": "NSF Awards UC San Diego $18 Million Grant for Materials Science Research Center",
+      "link": "https://thequantuminsider.com/2026/08/03/nsf-awards-uc-san-diego-18-million-materials-science-grant/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 03 Aug 2026 10:04:24 +0000",
+      "published_ts": 1785751464,
+      "summary": "Insider Brief The National Science Foundation has awarded University of California San Diego researchers a six-year $18 million grant to fund a new Materials Research Science and Engineering Center (MRSEC). These research centers are transformative for the schools that earn them, putting their mater…"
+    },
+    {
+      "title": "Turning molecules into reliable electronic devices",
+      "link": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
+      "source": "MIT News — Quantum Computing",
+      "published": "Mon, 03 Aug 2026 05:00:00 -0400",
+      "published_ts": 1785747600,
+      "summary": "A new fabrication platform integrates molecules into electronic devices, opening the door to emerging computing technologies."
+    },
     {
       "title": "Qubitrium Supports NATO Training Programme on Dual-Use Quantum Technologies",
       "link": "https://thequantuminsider.com/2026/08/03/qubitrium-nato-training-programme-dual-use-quantum-technologies/",
@@ -186,60 +242,12 @@
       "summary": "In mathematics and getting dressed, some processes are commutative, while others are noncommutative. Commutative means the order doesn't matter (3 + 2 is the same as 2 + 3, and it doesn't matter which sock goes on first). Noncommutative means the order does matter."
     },
     {
-      "title": "IonQ Completes Acquisition of SkyWater Technology",
-      "link": "https://thequantuminsider.com/2026/07/31/ionq-completes-skywater-acquisition-quantum-manufacturing/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 31 Jul 2026 13:31:58 +0000",
-      "published_ts": 1785504718,
-      "summary": "Insider Brief Press release &#8211; IonQ (NYSE: IONQ), the world’s leading quantum platform company, today completed its acquisition of SkyWater Technology (NASDAQ: SKYT), the largest exclusively U.S.-based semiconductor foundry. “Acquiring SkyWater crystalizes IonQ’s vision to serve as a technology…"
-    },
-    {
       "title": "Two independent studies push semiconductor qubits towards practical scales",
       "link": "https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 31 Jul 2026 07:20:04 EDT",
       "published_ts": 1785496804,
       "summary": "Semiconductor spin qubits are one of the most promising building blocks for future quantum computers, but turning them into a working, large-scale quantum computer has so far proven difficult. For now, two big questions remain open: how to connect qubits that aren't sitting right next to each other,…"
-    },
-    {
-      "title": "French National Quantum Update: July 2026",
-      "link": "https://thequantuminsider.com/2026/07/31/french-national-quantum-update-july-2026/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 31 Jul 2026 11:08:11 +0000",
-      "published_ts": 1785496091,
-      "summary": "Executive Summary France’s quantum ecosystem continued to expand in July 2026 through a combination of government oversight, industrial scaling, international partnerships and commercial growth, even as policymakers acknowledged intensifying global competition. The French Court of Auditors concluded…"
-    },
-    {
-      "title": "Why Crypto-Agility Matters for Post-Quantum Cryptography Migration",
-      "link": "https://thequantuminsider.com/2026/07/31/why-crypto-agility-matters-for-post-quantum-cryptography-migration/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 31 Jul 2026 10:42:29 +0000",
-      "published_ts": 1785494549,
-      "summary": "Insider Brief The post-quantum conversation has focused heavily on which algorithms to adopt, but algorithm selection is the second problem, not the first.&#160; The real challenge lies in developing the system’s ability to adapt itself to the adoption of new algorithms &#8211; all within years and…"
-    },
-    {
-      "title": "UC San Diego Advances Quantum Metamaterials for Ultrafast Optical Computing",
-      "link": "https://thequantuminsider.com/2026/07/31/uc-san-diego-advances-quantum-metamaterials-for-ultrafast-optical-computing/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 31 Jul 2026 08:09:52 +0000",
-      "published_ts": 1785485392,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum metamaterials are one of the two research themes of the UC San Diego Materials Research Science and Engineering Center (MRSEC), which is supported by the U.S. National Science Foundation (NSF). Quantum metamaterials are a cutting-edge subset of metamateria…"
-    },
-    {
-      "title": "IBM CEO Expects Quantum Computing to Drive Revenue by 2020s, Trillion-Dollar Value by End of 2030s",
-      "link": "https://thequantuminsider.com/2026/07/31/ibm-ceo-expects-quantum-computing-to-drive-revenue-by-2020s-trillion-dollar-value-by-end-of-2030s/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 31 Jul 2026 07:58:32 +0000",
-      "published_ts": 1785484712,
-      "summary": "Insider Brief IBM expects quantum computing to begin making a measurable contribution to the company&#8217;s financial results within the next few years, as the technology moves closer to commercial use, Chief Executive Officer Arvind Krishna told CNBC. Speaking on CNBC&#8217;s &#8220;Mad Money,&#82…"
-    },
-    {
-      "title": "BlueQubit Supports Qedma, IBM and RIKEN Study on Error-Mitigated Quantum Simulation",
-      "link": "https://thequantuminsider.com/2026/07/31/bluequbit-qedma-ibm-riken-quantum-simulation-study/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 31 Jul 2026 07:30:00 +0000",
-      "published_ts": 1785483000,
-      "summary": "Insider Brief Press release &#8211; When will meaningful applications of quantum computers arrive? The standard answer has been at least five to ten years, while we wait for fully fault-tolerant hardware with millions of qubits. A new landmark study disagrees, saying Quantum Advantage is already her…"
     },
     {
       "title": "Quantum spin effects may enhance one-way electrical transport in chiral magnets",
@@ -552,14 +560,6 @@
       "published": "Wed, 18 Mar 2026 00:00:00 -0400",
       "published_ts": 1773806400,
       "summary": "At MIT, former U.S. ambassador to China Nicholas Burns highlights climate change as an area for diplomatic engagement, while exploring areas including China's emphasis on STEM education."
-    },
-    {
-      "title": "New photonic device efficiently beams light into free space",
-      "link": "https://news.mit.edu/2026/new-photonic-device-efficiently-beams-light-free-space-0311",
-      "source": "MIT News — Quantum Computing",
-      "published": "Wed, 11 Mar 2026 12:00:00 -0400",
-      "published_ts": 1773244800,
-      "summary": "Light-emitting structures that curl off the chip surface could enable advanced displays, high-speed optical communications, and larger-scale quantum computers."
     }
   ]
 }
