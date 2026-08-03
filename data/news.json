@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1785767320,
+  "generated_ts": 1785785072,
   "items": [
+    {
+      "title": "Connecting students with the future of microelectronics",
+      "link": "https://news.mit.edu/2026/connecting-students-future-microelectronics-0803",
+      "source": "MIT News — Quantum Computing",
+      "published": "Mon, 03 Aug 2026 13:30:00 -0400",
+      "published_ts": 1785778200,
+      "summary": "The 2026 NEMC Hub-sponsored externship gave students access to world-class research, advanced semiconductor manufacturing, and professionals driving innovation across the Northeast."
+    },
+    {
+      "title": "PsiQuantum Invests $250,000 in South Chicago STEM and Quantum Education Programs",
+      "link": "https://thequantuminsider.com/2026/08/03/psiquantum-south-chicago-training-education-quantum-workforce-development/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 03 Aug 2026 15:08:36 +0000",
+      "published_ts": 1785769716,
+      "summary": "Insider Brief Press release &#8211; Today, PsiQuantum announced a $250,000 philanthropic investment in local schools, higher education institutions, and STEM programs to advance the next generation of scientists, engineers, and quantum innovators in South Chicago. As the anchor tenant of the Illinoi…"
+    },
+    {
+      "title": "Researchers Develops Carbon Quantum Dots From Organic Waste for Pest Repellent Research",
+      "link": "https://thequantuminsider.com/2026/08/03/green-science-alliance-carbon-quantum-dots-organic-waste-pest-repellent/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 03 Aug 2026 14:50:13 +0000",
+      "published_ts": 1785768613,
+      "summary": "Insider Brief Press release &#8211; Green Science Alliance is the Green Tech Startup company to develop cutting-edge technologies for sustainable, carbon neutral society in energy and environmentally friendly field, and one of their cutting-edge products are called quantum dots. Quantum dots are ext…"
+    },
     {
       "title": "SEALSQ Highlights Role of Crypto-Agility in Preparing for Future Cryptographic Threats",
       "link": "https://thequantuminsider.com/2026/08/03/sealsq-hardware-based-crypto-agility-ai-accelerates-cryptanalysis/",
@@ -210,28 +234,12 @@
       "summary": "IBM and researchers from the University of Chicago announced a demonstration in quantum computing that meets the fundamental criteria for \"quantum advantage\"—the point where quantum computers can be confirmed to have outperformed classical computers on trusted computations."
     },
     {
-      "title": "Gil Kalai (Hebrew University / Reichman University): Why noise may doom quantum computers",
-      "link": "https://thequantuminsider.com/2026/08/01/gil-kalai-hebrew-university-reichman-university-why-noise-may-doom-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 01 Aug 2026 07:00:00 +0000",
-      "published_ts": 1785567600,
-      "summary": "Yuval Boger interviews mathematician Gil Kalai about his long-standing skepticism regarding scalable quantum computing. Kalai explains two main arguments behind his theory: correlated noise that may defeat quantum error correction and complexity-based limits on NISQ devices achieving quantum suprema…"
-    },
-    {
       "title": "Diamond's newfound defect may tame vibrations that hinder quantum light sources",
       "link": "https://phys.org/news/2026-07-diamond-newfound-defect-vibrations-hinder.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 31 Jul 2026 11:40:08 EDT",
       "published_ts": 1785512408,
       "summary": "Researchers in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign have discovered a new type of quantum light emitter in diamonds that could help overcome a number of challenges facing quantum technologies."
-    },
-    {
-      "title": "SEALSQ Begins Commercial Deployment of Miraex Quantum Photonics Technology",
-      "link": "https://thequantuminsider.com/2026/07/31/sealsq-launches-commercial-phase-of-miraex-quantum-photonics-technology/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 31 Jul 2026 14:58:43 +0000",
-      "published_ts": 1785509923,
-      "summary": "Insider Brief Press release &#8211; SEALSQ Corp (NASDAQ: LAES), (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company focused on semiconductors, PKI, and post-quantum technology solutions, today announced the start of the commercial phase of the groundbreaking quantum photonics technology devel…"
     },
     {
       "title": "Less-explored form of quantum code could be more powerful—and more stable—than its alternative in error correction",
@@ -552,14 +560,6 @@
       "published": "Tue, 07 Apr 2026 16:40:00 -0400",
       "published_ts": 1775594400,
       "summary": "Startup accelerator program grows to over 30 companies, almost half of them with MIT pedigrees."
-    },
-    {
-      "title": "Sustaining diplomacy amid competition in US-China relations",
-      "link": "https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318",
-      "source": "MIT News — Quantum Computing",
-      "published": "Wed, 18 Mar 2026 00:00:00 -0400",
-      "published_ts": 1773806400,
-      "summary": "At MIT, former U.S. ambassador to China Nicholas Burns highlights climate change as an area for diplomatic engagement, while exploring areas including China's emphasis on STEM education."
     }
   ]
 }
