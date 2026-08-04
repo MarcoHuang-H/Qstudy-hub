@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1785851987,
+  "generated_ts": 1785871476,
   "items": [
+    {
+      "title": "enQase and Light Rider Collaborate on Quantum-Safe Communication Infrastructure",
+      "link": "https://thequantuminsider.com/2026/08/04/enqase-light-rider-quantum-safe-communication-infrastructure/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 04 Aug 2026 17:05:00 +0000",
+      "published_ts": 1785863100,
+      "summary": "Insider Brief Press release &#8211; enQase, a U.S.-based full-stack quantum-safe security platform, and Light Rider Inc., a quantum technology company developing secure communications, quantum entropy, and sovereign quantum infrastructure, today announced a strategic technology partnership. The comp…"
+    },
+    {
+      "title": "Quantum Corridor, Ciena and Toshiba Test 1.6 Tb/s Quantum-Safe Network Encryption",
+      "link": "https://thequantuminsider.com/2026/08/04/quantum-corridor-ciena-toshiba-1-6-tbps-quantum-safe-optical-encryption-live-network/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 04 Aug 2026 14:17:23 +0000",
+      "published_ts": 1785853043,
+      "summary": "Insider Brief Press release &#8211; Quantum Corridor, Ciena (NYSE: CIEN) and Toshiba have completed a successful trial of high-speed quantum-safe networking on Quantum Corridor’s live commercial network in the Midwest United States. The trial demonstrates how organizations can immediately protect cr…"
+    },
+    {
+      "title": "Horizon Quantum Reports Second Quarter 2026 Financial Results",
+      "link": "https://thequantuminsider.com/2026/08/04/horizon-quantum-reports-q2-2026-financial-results/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 04 Aug 2026 14:02:57 +0000",
+      "published_ts": 1785852177,
+      "summary": "Insider Brief Press release &#8211; Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum,” “Horizon,” or “the Company”), a pioneer of software infrastructure for quantum applications, today reported financial results for the fiscal second quarter ended June 30, 2026 (“Q2 2026”). Second Quart…"
+    },
+    {
+      "title": "IQM Confirms 2026 Outlook After Public Listing, Citing More Than €102 Million in Orders",
+      "link": "https://thequantuminsider.com/2026/08/04/iqm-confirms-2026-outlook-after-public-listing-citing-more-than-e102-million-in-orders/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 04 Aug 2026 13:50:02 +0000",
+      "published_ts": 1785851402,
+      "summary": "Insider Brief IQM Quantum Computers said its public listing has strengthened its financial position and allowed it to reaffirm its 2026 outlook, according to a statement from the company. The Finnish quantum computing pioneer&#8217;s second-quarter and first-half 2026 report tells a familiar story o…"
+    },
+    {
+      "title": "Thales Launches Luna 8 Hardware Security Module for Post-Quantum Cryptography Readiness",
+      "link": "https://thequantuminsider.com/2026/08/04/thales-cryptographic-security-ai-post-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 04 Aug 2026 13:48:43 +0000",
+      "published_ts": 1785851323,
+      "summary": "Insider Brief Press release &#8211; According to the 2026 Thales Data Threat Report, the threat of Harvest Now, Decrypt Later (HNDL) attacks was the top-cited risk, with 59% of organizations reporting that they are prototyping and evaluating post-quantum cryptography (PQC) algorithms to prepare for…"
+    },
     {
       "title": "Did IBM CEO’s Quantum Timeline Prompt Jim Cramer to Exit Bitcoin?",
       "link": "https://thequantuminsider.com/2026/08/04/did-ibm-ceos-quantum-timeline-prompt-jim-cramer-to-exit-bitcoin/",
@@ -16,14 +56,6 @@
       "published": "Tue, 04 Aug 2026 12:10:00 +0000",
       "published_ts": 1785845400,
       "summary": "Insider Brief Press release &#8211; QuiX Quantum today announced the commercial availability of Alquor 2.0, the next generation of its rack-mountable quantum photonic processor platform, available in 8-mode, 20-mode and 32-mode configurations, for advanced quantum optics, quantum communication, boso…"
-    },
-    {
-      "title": "IQM Quantum Computers Reports First Half 2026 Results and Provides Full-Year Outlook",
-      "link": "https://thequantuminsider.com/2026/08/04/iqm-quantum-computers-h1-2026-results-full-year-outlook/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 10:24:57 +0000",
-      "published_ts": 1785839097,
-      "summary": "Insider Brief Press release &#8211; IQM Quantum Computers Plc (Nasdaq: IQMX) (“IQM”, “IQM Quantum Computers” or the “Company”), a global leader in full-stack superconducting quantum computers, today announced its financial results for the first half and second quarter of 2026, ended on June 30, 2026…"
     },
     {
       "title": "Fujitsu, Monash and CSIRO Strengthen Australia–Japan Quantum Partnership",
@@ -48,30 +80,6 @@
       "published": "Tue, 04 Aug 2026 08:14:39 +0000",
       "published_ts": 1785831279,
       "summary": "Insider Brief Press release &#8211; IonQ, Inc. (NYSE: IONQ), the world’s leading quantum platform company, and EPB, Chattanooga’s energy and communications solutions company, today announced plans for the Tennessee Quantum Communications Research Center. This will be the first dedicated next generat…"
-    },
-    {
-      "title": "Building the Quantum Workforce of Tomorrow",
-      "link": "https://thequantuminsider.com/2026/08/04/building-the-quantum-workforce-of-tomorrow/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 08:00:00 +0000",
-      "published_ts": 1785830400,
-      "summary": "Insider Brief Quantum technology is a rapidly growing field, with advanced solutions being developed in quantum computing, sensing, and communication moving from research labs to real-world applications. As the quantum industry scales, one of the key bottlenecks it faces is a shortage of people with…"
-    },
-    {
-      "title": "OpenAI Says Next-Generation Model Solved 10 Major Open Problems in Quantum Complexity, Mathematics",
-      "link": "https://thequantuminsider.com/2026/08/04/openai-says-next-generation-model-solved-10-major-open-problems-in-quantum-complexity-mathematics/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 07:47:33 +0000",
-      "published_ts": 1785829653,
-      "summary": "Insider Brief Quantum scientists exploring the deepest mysteries of quantum mechanics may be able to enlist the assistance of an artificial intelligence helper, according to a frontier AI lab. An internal version of OpenAI&#8217;s next major artificial intelligence model family has solved 10 longsta…"
-    },
-    {
-      "title": "JIJ Raises US$5.2 Million in Funding Led by Global Brain",
-      "link": "https://thequantuminsider.com/2026/08/04/jij-raises-us5-2-million-in-funding-led-by-global-brain/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 07:15:16 +0000",
-      "published_ts": 1785827716,
-      "summary": "Insider Brief PRESS RELEASE &#8212; JIJ Inc. (“JIJ”), developer of a quantum- and AI-enabled optimization platform, today announced that it has raised JPY 840 million, approximately US$5.2 million, in equity financing, with Global Brain Corporation (“Global Brain”) serving as the lead investor. The…"
     },
     {
       "title": "Quantum Simulation of SPAD in the Space Radiation Environment",
@@ -208,14 +216,6 @@
       "published": "Mon, 03 Aug 2026 13:30:00 -0400",
       "published_ts": 1785778200,
       "summary": "The 2026 NEMC Hub-sponsored externship gave students access to world-class research, advanced semiconductor manufacturing, and professionals driving innovation across the Northeast."
-    },
-    {
-      "title": "PsiQuantum Invests $250,000 in South Chicago STEM and Quantum Education Programs",
-      "link": "https://thequantuminsider.com/2026/08/03/psiquantum-south-chicago-training-education-quantum-workforce-development/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 03 Aug 2026 15:08:36 +0000",
-      "published_ts": 1785769716,
-      "summary": "Insider Brief Press release &#8211; Today, PsiQuantum announced a $250,000 philanthropic investment in local schools, higher education institutions, and STEM programs to advance the next generation of scientists, engineers, and quantum innovators in South Chicago. As the anchor tenant of the Illinoi…"
     },
     {
       "title": "Turning molecules into reliable electronic devices",
