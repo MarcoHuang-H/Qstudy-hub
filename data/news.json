@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1785785072,
+  "generated_ts": 1785809052,
   "items": [
+    {
+      "title": "New quantum encryption method prevents ciphertext from being cloned",
+      "link": "https://phys.org/news/2026-08-quantum-encryption-method-ciphertext-cloned.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 03 Aug 2026 17:20:04 EDT",
+      "published_ts": 1785792004,
+      "summary": "Digital security currently relies on difficult equations to protect data. For example, when you use a credit card online, the information is locked inside a math problem that would take a modern computer thousands of years to solve. However, if someone builds a powerful enough computer, that securit…"
+    },
     {
       "title": "Connecting students with the future of microelectronics",
       "link": "https://news.mit.edu/2026/connecting-students-future-microelectronics-0803",
@@ -328,14 +336,6 @@
       "published": "Tue, 28 Jul 2026 10:30:01 EDT",
       "published_ts": 1785249001,
       "summary": "Researchers at The University of Manchester have revealed how intense electronic excitation can trigger rapid structural changes in metals—without heating the atomic lattice—offering new insight into ultrafast materials behavior."
-    },
-    {
-      "title": "A way to read quantum bits faster and with less hardware",
-      "link": "https://phys.org/news/2026-07-quantum-bits-faster-hardware.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 28 Jul 2026 10:20:02 EDT",
-      "published_ts": 1785248402,
-      "summary": "Quantum computers process information in a fundamentally different way from conventional computers, using quantum bits, or qubits, that can exist in multiple states at once. This could allow them to tackle problems beyond the reach of today's machines, from simulating new materials to optimizing com…"
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
