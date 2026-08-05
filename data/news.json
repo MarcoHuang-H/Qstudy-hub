@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1785918497,
+  "generated_ts": 1785938233,
   "items": [
+    {
+      "title": "Researchers Improve Superconducting Qubit Coherence Using Tantalum and Silicon",
+      "link": "https://thequantuminsider.com/2026/08/05/researchers-improve-superconducting-qubit-coherence-tantalum-silicon/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 05 Aug 2026 12:00:00 +0000",
+      "published_ts": 1785931200,
+      "summary": "Insider Brief Quantum computing emerged with a promise of mythic proportions: machines capable of solving, in seconds, problems that would take today’s supercomputers millennia to compute. The power of quantum computing relies on quantum bits, or qubits &#8211; particles that can exist in multiple s…"
+    },
+    {
+      "title": "Thailand Launches Quantum Club Thailand to Support Quantum Technology Development",
+      "link": "https://thequantuminsider.com/2026/08/05/thailand-launches-quantum-club-thailand-national-platform/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 05 Aug 2026 11:30:59 +0000",
+      "published_ts": 1785929459,
+      "summary": "Insider Brief Thailand launched a national quantum technology collaboration platform called &#8220;Quantum Club Thailand&#8221; in Bangkok on August 3, 2026. The platform combines the Ministry of Higher Education, Science, Research and Innovation (MHESI), Charoen Pokphand Group, Arise, True Corporat…"
+    },
+    {
+      "title": "Texas Quantum Summit to Bring Industry, Government and Academic Leaders Together at UT Dallas",
+      "link": "https://thequantuminsider.com/2026/08/05/texas-quantum-summit-to-bring-industry-government-and-academic-leaders-together-at-ut-dallas/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 05 Aug 2026 08:12:01 +0000",
+      "published_ts": 1785917521,
+      "summary": "Insider Brief Leading quantum technology companies, researchers and policymakers will gather next week at The University of Texas at Dallas to discuss the future of quantum computing, networking and workforce development as Texas expands its ambitions to become a national hub for quantum technology,…"
+    },
+    {
+      "title": "Israel Launches National Quantum Computer Tender as Part of Broader AI Sovereignty Strategy",
+      "link": "https://thequantuminsider.com/2026/08/05/israel-launches-national-quantum-computer-tender-as-part-of-broader-ai-sovereignty-strategy/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 05 Aug 2026 07:49:12 +0000",
+      "published_ts": 1785916152,
+      "summary": "Insider Brief Israel has launched a national tender to establish a domestically produced quantum computing platform, marking the first major implementation step in a broader government strategy aimed at strengthening technological sovereignty and expanding the country&#8217;s leadership in advanced…"
+    },
     {
       "title": "IonQ and Sandia National Laboratories Partner on Quantum Technology Research",
       "link": "https://thequantuminsider.com/2026/08/05/ionq-sandia-quantum-technology-research-partnership/",
@@ -192,38 +224,6 @@
       "published": "Tue, 04 Aug 2026 13:48:43 +0000",
       "published_ts": 1785851323,
       "summary": "Insider Brief Press release &#8211; According to the 2026 Thales Data Threat Report, the threat of Harvest Now, Decrypt Later (HNDL) attacks was the top-cited risk, with 59% of organizations reporting that they are prototyping and evaluating post-quantum cryptography (PQC) algorithms to prepare for…"
-    },
-    {
-      "title": "Did IBM CEO’s Quantum Timeline Prompt Jim Cramer to Exit Bitcoin?",
-      "link": "https://thequantuminsider.com/2026/08/04/did-ibm-ceos-quantum-timeline-prompt-jim-cramer-to-exit-bitcoin/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 13:19:38 +0000",
-      "published_ts": 1785849578,
-      "summary": "Insider Brief Jim Cramer said he plans to sell his bitcoin &#8212; perhaps not coincidentally &#8212; after IBM Chairman and CEO Arvind Krishna warned that investors should be &#8220;paranoid&#8221; about quantum computing&#8217;s eventual ability to challenge modern cryptography, Bitcoin.com report…"
-    },
-    {
-      "title": "QuiX Quantum Launches Alquor 2.0 Photonic Quantum Processor Platform",
-      "link": "https://thequantuminsider.com/2026/08/04/quix-quantum-launches-alquor-2-0-photonic-quantum-research/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 12:10:00 +0000",
-      "published_ts": 1785845400,
-      "summary": "Insider Brief Press release &#8211; QuiX Quantum today announced the commercial availability of Alquor 2.0, the next generation of its rack-mountable quantum photonic processor platform, available in 8-mode, 20-mode and 32-mode configurations, for advanced quantum optics, quantum communication, boso…"
-    },
-    {
-      "title": "Fujitsu, Monash and CSIRO Strengthen Australia–Japan Quantum Partnership",
-      "link": "https://thequantuminsider.com/2026/08/04/fujitsu-monash-csiro-australia-japan-quantum-partnership/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 10:14:46 +0000",
-      "published_ts": 1785838486,
-      "summary": "Insider Brief Press release &#8211; Australian researchers and students will gain access to advanced quantum computing technology under a Memorandum of Understanding between global digital transformation leader, Fujitsu, Monash University, and Australia’s national science agency, CSIRO. The collabor…"
-    },
-    {
-      "title": "UC Berkeley and QuantrolOx Sign Agreement to Advance Quantum Computing Industrialisation",
-      "link": "https://thequantuminsider.com/2026/08/04/uc-berkeley-quantrolx-agreement-industrialisation-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 10:05:12 +0000",
-      "published_ts": 1785837912,
-      "summary": "Insider Brief Press release &#8211; The University of California, Berkeley, on behalf of its Department of Physics and the Roger Herst Quantum Nexus, and QuantrolOx Inc. have entered into a Memorandum of Understanding (MOU) establishing a five-year framework for collaboration on the end-to-end indus…"
     },
     {
       "title": "New quantum encryption method prevents ciphertext from being cloned",
