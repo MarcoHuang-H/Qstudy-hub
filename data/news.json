@@ -1,13 +1,53 @@
 {
-  "generated_ts": 1785938233,
+  "generated_ts": 1785957788,
   "items": [
     {
-      "title": "Researchers Improve Superconducting Qubit Coherence Using Tantalum and Silicon",
+      "title": "D-Wave Publishes Research on Dual-Rail Qubit Gate for Quantum Error Correction",
+      "link": "https://thequantuminsider.com/2026/08/05/d-wave-hardware-breakthrough-quantum-error-correction-fault-tolerant-computing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 05 Aug 2026 15:48:38 +0000",
+      "published_ts": 1785944918,
+      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (Nasdaq: QBTS), (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software, and services, today announced a major research breakthrough advancing the path to practical…"
+    },
+    {
+      "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
+      "link": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices-0805",
+      "source": "MIT News — Quantum Computing",
+      "published": "Wed, 05 Aug 2026 11:00:00 -0400",
+      "published_ts": 1785942000,
+      "summary": "A new technique produces wafer-scale samples, overcoming a major roadblock to using these materials in quantum technologies."
+    },
+    {
+      "title": "Researchers Say New Quantum Encryption Method Can’t Be Copied",
+      "link": "https://thequantuminsider.com/2026/08/05/researchers-say-new-quantum-encryption-method-cant-be-copied/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 05 Aug 2026 14:03:00 +0000",
+      "published_ts": 1785938580,
+      "summary": "Insider Brief Researchers have presented what they describe as the first efficient, information-theoretically secure unclonable encryption scheme with classical keys in the standard cryptographic model. In plain terms, it&#8217;s a result that could advance a longstanding goal in quantum cryptograph…"
+    },
+    {
+      "title": "Qarakal Quantum Unveils Pangaea Architecture for Modular Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/08/05/qarakal-quantum-modular-architecture-scaling-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 05 Aug 2026 13:41:52 +0000",
+      "published_ts": 1785937312,
+      "summary": "Insider Brief Press release &#8211; Quantum startup Qarakal Quantum today announced its Pangaea architecture for breakthrough modularity and scalability that shortens the path to commercially viable, industry-scale quantum computing. Leveraging its IP-protected quantum bus technology, Qarakal Quantu…"
+    },
+    {
+      "title": "Quantum X-Labs Advances Quantum Computing for Nuclear Particle Transport Prediction",
+      "link": "https://thequantuminsider.com/2026/08/05/quantum-x-labs-quantum-computing-nuclear-particle-transport-prediction/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 05 Aug 2026 13:31:04 +0000",
+      "published_ts": 1785936664,
+      "summary": "Insider Brief Press release &#8211; Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X” or the “Company”), an advanced technologies company, today announced that its subsidiary, Nuclear Quantum, has presented development in one of the nuclear industry’s current bottle necks. Quantum X Labs, through Nucle…"
+    },
+    {
+      "title": "Tantalum, Silicon, and a Cross-Disciplinary Bet that Paid Off",
       "link": "https://thequantuminsider.com/2026/08/05/researchers-improve-superconducting-qubit-coherence-tantalum-silicon/",
       "source": "The Quantum Insider",
       "published": "Wed, 05 Aug 2026 12:00:00 +0000",
       "published_ts": 1785931200,
-      "summary": "Insider Brief Quantum computing emerged with a promise of mythic proportions: machines capable of solving, in seconds, problems that would take today’s supercomputers millennia to compute. The power of quantum computing relies on quantum bits, or qubits &#8211; particles that can exist in multiple s…"
+      "summary": "A partnership spanning chemistry, engineering, and quantum device design has yielded a millisecond-coherent transmon, proving that smarter materials may hold the key to the next quantum leap Insider Brief Quantum computing emerged with a promise of mythic proportions: machines capable of solving, in…"
     },
     {
       "title": "Thailand Launches Quantum Club Thailand to Support Quantum Technology Development",
@@ -192,38 +232,6 @@
       "published": "Tue, 04 Aug 2026 17:05:00 +0000",
       "published_ts": 1785863100,
       "summary": "Insider Brief Press release &#8211; enQase, a U.S.-based full-stack quantum-safe security platform, and Light Rider Inc., a quantum technology company developing secure communications, quantum entropy, and sovereign quantum infrastructure, today announced a strategic technology partnership. The comp…"
-    },
-    {
-      "title": "Quantum Corridor, Ciena and Toshiba Test 1.6 Tb/s Quantum-Safe Network Encryption",
-      "link": "https://thequantuminsider.com/2026/08/04/quantum-corridor-ciena-toshiba-1-6-tbps-quantum-safe-optical-encryption-live-network/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 14:17:23 +0000",
-      "published_ts": 1785853043,
-      "summary": "Insider Brief Press release &#8211; Quantum Corridor, Ciena (NYSE: CIEN) and Toshiba have completed a successful trial of high-speed quantum-safe networking on Quantum Corridor’s live commercial network in the Midwest United States. The trial demonstrates how organizations can immediately protect cr…"
-    },
-    {
-      "title": "Horizon Quantum Reports Second Quarter 2026 Financial Results",
-      "link": "https://thequantuminsider.com/2026/08/04/horizon-quantum-reports-q2-2026-financial-results/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 14:02:57 +0000",
-      "published_ts": 1785852177,
-      "summary": "Insider Brief Press release &#8211; Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum,” “Horizon,” or “the Company”), a pioneer of software infrastructure for quantum applications, today reported financial results for the fiscal second quarter ended June 30, 2026 (“Q2 2026”). Second Quart…"
-    },
-    {
-      "title": "IQM Confirms 2026 Outlook After Public Listing, Citing More Than €102 Million in Orders",
-      "link": "https://thequantuminsider.com/2026/08/04/iqm-confirms-2026-outlook-after-public-listing-citing-more-than-e102-million-in-orders/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 13:50:02 +0000",
-      "published_ts": 1785851402,
-      "summary": "Insider Brief IQM Quantum Computers said its public listing has strengthened its financial position and allowed it to reaffirm its 2026 outlook, according to a statement from the company. The Finnish quantum computing pioneer&#8217;s second-quarter and first-half 2026 report tells a familiar story o…"
-    },
-    {
-      "title": "Thales Launches Luna 8 Hardware Security Module for Post-Quantum Cryptography Readiness",
-      "link": "https://thequantuminsider.com/2026/08/04/thales-cryptographic-security-ai-post-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 13:48:43 +0000",
-      "published_ts": 1785851323,
-      "summary": "Insider Brief Press release &#8211; According to the 2026 Thales Data Threat Report, the threat of Harvest Now, Decrypt Later (HNDL) attacks was the top-cited risk, with 59% of organizations reporting that they are prototyping and evaluating post-quantum cryptography (PQC) algorithms to prepare for…"
     },
     {
       "title": "New quantum encryption method prevents ciphertext from being cloned",
@@ -552,14 +560,6 @@
       "published": "Thu, 23 Apr 2026 00:00:00 -0400",
       "published_ts": 1776916800,
       "summary": "Ultra-efficient chip design enables extremely strong cryptography algorithms to run on energy-constrained edge devices."
-    },
-    {
-      "title": "Sixteen new START.nano companies are developing hard-tech solutions with the support of MIT.nano",
-      "link": "https://news.mit.edu/2026/sixteen-new-startnano-companies-developing-hard-tech-solutions-with-mitnano-0407",
-      "source": "MIT News — Quantum Computing",
-      "published": "Tue, 07 Apr 2026 16:40:00 -0400",
-      "published_ts": 1775594400,
-      "summary": "Startup accelerator program grows to over 30 companies, almost half of them with MIT pedigrees."
     }
   ]
 }
