@@ -1,6 +1,134 @@
 {
-  "generated_ts": 1785895399,
+  "generated_ts": 1785918497,
   "items": [
+    {
+      "title": "IonQ and Sandia National Laboratories Partner on Quantum Technology Research",
+      "link": "https://thequantuminsider.com/2026/08/05/ionq-sandia-quantum-technology-research-partnership/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 05 Aug 2026 07:43:08 +0000",
+      "published_ts": 1785915788,
+      "summary": "Insider Brief Press release &#8211; IonQ (NYSE: IONQ), a leading quantum platform company, today announced it has signed a memorandum of understanding with Sandia National Laboratories, to explore accelerated co-design of quantum information science technologies in support of U.S. national security…"
+    },
+    {
+      "title": "Wigner's Friend Paradox Revisited",
+      "link": "https://arxiv.org/abs/2608.02635",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02635v1 Announce Type: new  Abstract: By assuming (i) a universal, observer-independent quantum state, by considering (ii) measurement processes with wave function collapse as part of quantum mechanical time evolution (also within isolated systems), and by (iii) clearly distinguishing the…"
+    },
+    {
+      "title": "Sharp Plucker Geometry for Three-Copy Werner Distillation",
+      "link": "https://arxiv.org/abs/2608.02647",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02647v1 Announce Type: new  Abstract: Whether negative-partial-transpose entanglement can remain undistillable is a longstanding problem in quantum information theory. We analyze the first unresolved three-copy Werner endpoint using a sharp dimension-free inequality for complementary part…"
+    },
+    {
+      "title": "Curvature as a control field in helicoidal two-body systems",
+      "link": "https://arxiv.org/abs/2608.02659",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02659v1 Announce Type: new  Abstract: Geometry is increasingly recognized as an active physical resource capable of modifying the behavior of quantum systems beyond conventional external control mechanisms. Here, we establish a curvature--gauge framework in which the geometry of an embedd…"
+    },
+    {
+      "title": "Structure of matrix product locally purifiable density operators",
+      "link": "https://arxiv.org/abs/2608.02724",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02724v1 Announce Type: new  Abstract: Tensor network methods provide powerful analytical and numerical tools for characterizing quantum phases of matter. While the mathematical structure of matrix product states (MPS) is well understood through the MPS fundamental theorem, an analogous un…"
+    },
+    {
+      "title": "Unweighted Gapped Clique Homology is $\\mathsf{QMA}_1$-complete",
+      "link": "https://arxiv.org/abs/2608.02726",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02726v1 Announce Type: new  Abstract: Deciding whether the clique complex of a given graph has nontrivial homology in a given dimension, under vertex-product weighting and an inverse-polynomial spectral gap promise on the combinatorial Hodge Laplacian, is known to be $\\mathsf{QMA}_1$-hard…"
+    },
+    {
+      "title": "Improved constant factors for qubitized Hamiltonian simulation",
+      "link": "https://arxiv.org/abs/2608.02734",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02734v1 Announce Type: new  Abstract: Quantum signal processing (QSP) serves as the asymptotically optimal technique for Hamiltonian simulation on a quantum computer. By approximating the time evolution operator via the Jacobi-Anger expansion, the Hamiltonian simulation problem reduces to…"
+    },
+    {
+      "title": "Schmidt-Gauge Non-Local Magic: Representation, Optimality, and Mathematical Properties",
+      "link": "https://arxiv.org/abs/2608.02745",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02745v1 Announce Type: new  Abstract: While the full non-stabilizerness (magic) of a quantum state contains local, basis-dependent contributions, a non-local formulation based on a minimization over local unitaries isolates the component associated with genuinely non-local correlations. W…"
+    },
+    {
+      "title": "Dynamic Induction of Lattice Gauge Theories on a Quantum Computer",
+      "link": "https://arxiv.org/abs/2608.02756",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02756v1 Announce Type: new  Abstract: Gauge invariance is central to modern physics and underpins quantum simulations of lattice gauge theories (LGTs). Existing quantum simulation approaches employ Gauss's law either to energetically suppress gauge-violating processes in analog platforms…"
+    },
+    {
+      "title": "Quantum error correction at ultra-low overhead",
+      "link": "https://arxiv.org/abs/2608.02773",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02773v1 Announce Type: new  Abstract: Suppressing errors is the central challenge for useful large-scale quantum computing. While quantum error correction promises a viable solution to this challenge, existing codes typically suffer from trade-offs among encoding efficiency, error thresho…"
+    },
+    {
+      "title": "QuScope: An Open-Source Python Framework for Quantum-Circuit Simulation of Transmission Electron Microscopy",
+      "link": "https://arxiv.org/abs/2608.02782",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02782v1 Announce Type: new  Abstract: Image formation in transmission electron microscopy (TEM) is governed by the coherent evolution of the electron wavefunction through the specimen and the objective lens. This physics maps naturally onto the gate model of quantum computation. We presen…"
+    },
+    {
+      "title": "Energy levels of the second-harmonic Hamiltonian at large photon numbers",
+      "link": "https://arxiv.org/abs/2608.02788",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02788v1 Announce Type: new  Abstract: We study the energy spectrum of the degenerate $\\chi^{(2)}$ Hamiltonian describing second-harmonic generation and parametric down-conversion at large total excitation numbers. Owing to the conservation of the total excitation number, the spectral prob…"
+    },
+    {
+      "title": "PACE-QAOA: Physics-Constrained Quantum Optimization for Qubit-Efficient Power System Islanding",
+      "link": "https://arxiv.org/abs/2608.02789",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02789v1 Announce Type: new  Abstract: Controlled islanding partitions a stressed power network to limit disrupted power transfer while preserving operational integrity in every island. This NP-hard partitioning problem becomes increasingly demanding as networks grow, motivating quantum op…"
+    },
+    {
+      "title": "PaQit: Energy-Runtime-Fidelity Co-Optimization for Neutral Atom Quantum Computers",
+      "link": "https://arxiv.org/abs/2608.02815",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02815v1 Announce Type: new  Abstract: Neutral-atom quantum computers provide a scalable platform for large-scale quantum computation due to their all-optical control, room-temperature operation, and flexible lattice geometry. Although the favorable energy characteristics of these systems…"
+    },
+    {
+      "title": "Improved Quantum Algorithms for Reinforcement Learning Under a Generative Model",
+      "link": "https://arxiv.org/abs/2608.02826",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02826v1 Announce Type: new  Abstract: Reinforcement learning is a subfield of machine learning that studies how an agent interacts with an environment in order to extract as large a reward as possible. A standard approach to study such interaction is through Markov Decision Processes (MDP…"
+    },
+    {
+      "title": "A First-principles Computational Framework for Quantum Decoherence in Complex Diamond Spin Environments",
+      "link": "https://arxiv.org/abs/2608.02846",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "published_ts": 1785902400,
+      "summary": "arXiv:2608.02846v1 Announce Type: new  Abstract: Quantum decoherence induced by defects remains a major limitation for solid-state quantum technologies, yet predicting decoherence in realistic materials remains computationally challenging. Complex defect populations are often approximated as homogen…"
+    },
     {
       "title": "Molecular orbitals imaged in 3D, opening path to femtosecond videos",
       "link": "https://phys.org/news/2026-08-molecular-orbitals-imaged-3d-path.html",
@@ -96,134 +224,6 @@
       "published": "Tue, 04 Aug 2026 10:05:12 +0000",
       "published_ts": 1785837912,
       "summary": "Insider Brief Press release &#8211; The University of California, Berkeley, on behalf of its Department of Physics and the Roger Herst Quantum Nexus, and QuantrolOx Inc. have entered into a Memorandum of Understanding (MOU) establishing a five-year framework for collaboration on the end-to-end indus…"
-    },
-    {
-      "title": "IonQ and EPB Partner to Launch the Tennessee Quantum Communications Research Center",
-      "link": "https://thequantuminsider.com/2026/08/04/ionq-epb-tennessee-quantum-communications-research-center/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 08:14:39 +0000",
-      "published_ts": 1785831279,
-      "summary": "Insider Brief Press release &#8211; IonQ, Inc. (NYSE: IONQ), the world’s leading quantum platform company, and EPB, Chattanooga’s energy and communications solutions company, today announced plans for the Tennessee Quantum Communications Research Center. This will be the first dedicated next generat…"
-    },
-    {
-      "title": "Quantum Simulation of SPAD in the Space Radiation Environment",
-      "link": "https://arxiv.org/abs/2608.00040",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00040v1 Announce Type: new  Abstract: Single-Photon Avalanche Diodes (SPADs) are critical components of emerging quantum communication networks that detect single photons. They are placed in satellites for long-distance communication and are susceptible to radiation-induced displacement d…"
-    },
-    {
-      "title": "Symmetry-initialized quantum Gibbs sampling: a non-Abelian asymmetry cascade",
-      "link": "https://arxiv.org/abs/2608.00055",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00055v1 Announce Type: new  Abstract: For a quantum Gibbs sampler whose mixing bottleneck is a weakly broken symmetry, I show that the correct initialization is determined by representation theory. I first prove a general speedup-versus-prefactor dichotomy: by exactly eliminating slow-mod…"
-    },
-    {
-      "title": "Canonical quantization of the Pais-Uhlenbeck oscillator with a higher-derivative perturbation: a covariant phase space approach",
-      "link": "https://arxiv.org/abs/2608.00108",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00108v1 Announce Type: new  Abstract: In this paper, we apply the covariant phase space formalism to the perturbative canonical quantization of the Pais-Uhlenbeck oscillator, with the acceleration-squared term treated as a perturbation. We quantize this model by constructing the symplecti…"
-    },
-    {
-      "title": "Exact minimum measurement dependence for faithful local deterministic models of multipartite GHZ-Mermin correlations",
-      "link": "https://arxiv.org/abs/2608.00124",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00124v1 Announce Type: new  Abstract: Bell derivations rest on locality, determinism, and measurement independence. Hall [Phys. Rev. Lett. 105, 250404 (2010)] priced the third assumption exactly for the singlet state, and in the Kochen-Specker analysis of Phys. Rev. A 84, 022102 (2011) pr…"
-    },
-    {
-      "title": "A Quantum Reservoir for Neurodynamical Forecasting",
-      "link": "https://arxiv.org/abs/2608.00139",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00139v1 Announce Type: new  Abstract: Forecasting neural activity from short recordings remains a fundamental challenge. Reservoir computing may offer an efficient paradigm for temporal prediction, however classical reservoirs typically underperform in small-data regimes. Here we investig…"
-    },
-    {
-      "title": "Optimal Decoding for Measurement-Based GHZ State Preparation: The Maximum-Utility Decoder",
-      "link": "https://arxiv.org/abs/2608.00160",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00160v1 Announce Type: new  Abstract: The meticulous preparation of macroscopic Greenberger-Horne-Zeilinger (GHZ) states provides a foundational resource for quantum technologies such as metrology, cryptography, and fault-tolerant codes. While state-of-the-art measurement-based protocols…"
-    },
-    {
-      "title": "Realization of a Quantum Topological Photon Pump",
-      "link": "https://arxiv.org/abs/2608.00162",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00162v1 Announce Type: new  Abstract: Topological pumps transfer charge or energy at quantized rates determined solely by band topology, independent of the details of the control fields. Photon pumps operating on this principle could enable the robust preparation of non-classical states i…"
-    },
-    {
-      "title": "Fault-Tolerant Heisenberg-Limited Quantum Sensing",
-      "link": "https://arxiv.org/abs/2608.00171",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00171v1 Announce Type: new  Abstract: Quantum sensors hold great promise for achieving better sensitivity in the measurement of physical quantities compared to their classical counterparts. However, the conditions under which quantum advantage in sensing can be achieved are rather restric…"
-    },
-    {
-      "title": "Phase transitions in quantum-circuit compilation",
-      "link": "https://arxiv.org/abs/2608.00189",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00189v1 Announce Type: new  Abstract: Quantum-circuit compilation aims at finding an optimized realization of a target circuit under given constraints, e.g., the minimization of hardware-induced errors and the unitary-equivalence of the circuit. We connect the compilation process with the…"
-    },
-    {
-      "title": "Marked vertex search on disordered graphs with Rosenzweig-Porter phases",
-      "link": "https://arxiv.org/abs/2608.00224",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00224v1 Announce Type: new  Abstract: Quantum marked vertex search algorithms are known to outperform their classical counterparts, yet their behavior in the presence of disorder remains largely unexplored. Here, we address this gap by studying marked vertex search on disordered random gr…"
-    },
-    {
-      "title": "Dissipation in Periodically Driven Quantum Systems: Partial Secularization and Thermodynamic Consistency",
-      "link": "https://arxiv.org/abs/2608.00225",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00225v1 Announce Type: new  Abstract: Periodically driven open quantum systems are central to quantum thermodynamics and quantum control. These systems are typically described using Floquet-Born-Markov master equations, derived with the use of a full secular approximation, and whose therm…"
-    },
-    {
-      "title": "No low-degree tests for quantum states",
-      "link": "https://arxiv.org/abs/2608.00265",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00265v1 Announce Type: new  Abstract: We study the problem of testing low-degree phase states, namely m-qudit quantum states of the form $q^{-m/2} \\sum_{x \\in \\mathbb{F}_q^m} \\omega^{f(x)} |x>$, where $f$ is a degree-$d$ polynomial. In contrast to the classical setting, where low-degree p…"
-    },
-    {
-      "title": "Phase-Space Methods for Many-Body Quantum Optics",
-      "link": "https://arxiv.org/abs/2608.00341",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00341v1 Announce Type: new  Abstract: Many-body quantum-optical systems, where a collection of emitters interacts through a common electromagnetic reservoir, exhibit rich out-of-equilibrium behavior and hold promise for applications in quantum technologies. However, exact numerical simula…"
-    },
-    {
-      "title": "Hamiltonian Thresholds for Objective Records",
-      "link": "https://arxiv.org/abs/2608.00365",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00365v1 Announce Type: new  Abstract: Classical objectivity requires an environment to witness a pointer value, not merely to decohere it. We derive microscopic Hamiltonian laws for this distinction. Exact QND product monitoring yields a certified two-edge strong-Darwinism window: suffici…"
-    },
-    {
-      "title": "Sparse Quantum State Preparation with Sublinear T-Count",
-      "link": "https://arxiv.org/abs/2608.00414",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785816000,
-      "summary": "arXiv:2608.00414v1 Announce Type: new  Abstract: We study the fault-tolerant cost of preparing sparse quantum states, measured by $T$-count in the Clifford+$T$ model. Here an $n$-qubit state is called $s$-sparse if it is supported on at most $s$ computational-basis states. For arbitrary $n$-qubit st…"
     },
     {
       "title": "New quantum encryption method prevents ciphertext from being cloned",
