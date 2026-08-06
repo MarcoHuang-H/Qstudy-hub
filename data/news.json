@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1786024472,
+  "generated_ts": 1786060438,
   "items": [
+    {
+      "title": "New quantum microscopy trick quadruples microscope resolution",
+      "link": "https://phys.org/news/2026-08-quantum-microscopy-quadruples-microscope-resolution.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 06 Aug 2026 17:20:01 EDT",
+      "published_ts": 1786051201,
+      "summary": "Three years after a team of Caltech scientists showed that pairs of entangled photons could double the resolution of a light microscope, the same lab has figured out a way to double down on that improvement. They have now achieved a fourfold resolution boost compared to a classical microscope, using…"
+    },
+    {
+      "title": "Amazon Researcher Claims Quantum Algorithm Could Challenge PQC Foundations",
+      "link": "https://thequantuminsider.com/2026/08/06/amazon-researcher-claims-quantum-algorithm-could-challenge-pqc-foundations/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 06 Aug 2026 17:42:49 +0000",
+      "published_ts": 1786038169,
+      "summary": "Insider Brief A preliminary paper from an Amazon Web Services cryptographer describes a polynomial-time quantum algorithm for a long-standing mathematical problem whose solution could have implications for lattice-based cryptography, the foundation of many post-quantum encryption systems proposed by…"
+    },
+    {
+      "title": "X(2370) emerges as glueball-dominated particle in collider experiments",
+      "link": "https://phys.org/news/2026-08-x2370-emerges-glueball-dominated-particle.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 06 Aug 2026 13:00:01 EDT",
+      "published_ts": 1786035601,
+      "summary": "At the International Conference on High Energy Physics in Brazil, the BESIII Collaboration report that, after 15 years of sustained research, it identified the dominant constituent of the X(2370) as a pseudoscalar glueball with spin-parity quantum numbers of 0⁻⁺."
+    },
+    {
+      "title": "Two-qubit entangling gate flags its own errors as detectable photon losses",
+      "link": "https://phys.org/news/2026-08-qubit-entangling-gate-flags-errors.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 06 Aug 2026 12:40:01 EDT",
+      "published_ts": 1786034401,
+      "summary": "Quantum errors are a normal part of quantum computing because fragile physical qubits (the tiny components storing data) can easily break down because of environmental noise, like heat, stray signals or microscopic vibrations. Typical fixes involve vast amounts of extra hardware qubits, which make c…"
+    },
+    {
+      "title": "Multibeam Appoints David J. Lam as Interim CFO After New Funding Agreements",
+      "link": "https://thequantuminsider.com/2026/08/06/multibeam-appoints-interim-cfo-following-200m-funding-milestone/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 06 Aug 2026 14:33:09 +0000",
+      "published_ts": 1786026789,
+      "summary": "Insider Brief Press release &#8211; Multibeam Corporation today announced the appointment of 25-year finance veteran David J. Lam as Interim Chief Financial Officer, further strengthening the company&#8217;s executive leadership team as it enters its next phase of growth with up to $205 million in s…"
+    },
+    {
+      "title": "Sunlight-powered setup generates quantum entanglement",
+      "link": "https://phys.org/news/2026-08-sunlight-powered-setup-generates-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 06 Aug 2026 10:00:04 EDT",
+      "published_ts": 1786024804,
+      "summary": "Today's quantum technologies rely on energy-intensive lasers, raising concerns that scaling them up could further increase energy demands. In new work, researchers have demonstrated that quantum entanglement between photons can be generated directly from sunlight, offering a potential alternative."
+    },
     {
       "title": "Florida Atlantic University Launches Quantum Computing Business Strategy Certificate",
       "link": "https://thequantuminsider.com/2026/08/06/florida-atlantic-university-launches-quantum-computing-certificate/",
@@ -64,22 +112,6 @@
       "published": "Thu, 06 Aug 2026 08:16:03 +0000",
       "published_ts": 1786004163,
       "summary": "Insider Brief Xanadu Quantum Technologies reported higher year-over-year second-quarter revenue while stepping up investment in research, manufacturing and U.S. expansion, as the photonic quantum computing company continued advancing the technologies it says are needed to build large-scale quantum c…"
-    },
-    {
-      "title": "Guest Post: From the Cosmos to Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/08/06/slug-from-the-cosmos-to-quantum-computers-meet-michael-osei/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 07:23:31 +0000",
-      "published_ts": 1786001011,
-      "summary": "Guest Post by Michael Osei, M.Sc. in Physics. Press release &#8211; Quantum technology can sound like science fiction: computers that solve problems beyond the reach of today’s machines, sensors that detect the almost undetectable, and discoveries that could reshape medicine, materials, energy, comm…"
-    },
-    {
-      "title": "Photons for Reach, Atoms for Entanglement: A Compound Photon-Atom Blueprint for Fault-Tolerant Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/08/06/photons-for-reach-atoms-for-entanglement-compound-photon-atom-blueprint-fault-tolerant-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 06:50:20 +0000",
-      "published_ts": 1785999020,
-      "summary": "By combining the long-range connectivity of photonic qubits with near-deterministic entanglement mediated by cavity-coupled atoms, Quantum Source&#8217;s new blueprint lays out a concrete, quantitative path toward practical fault-tolerant quantum computing. Insider Brief Today&#8217;s quantum proces…"
     },
     {
       "title": "Unifying quantum measurement constructions via a relative-entropy minimum change principle",
@@ -312,38 +344,6 @@
       "published": "Fri, 31 Jul 2026 10:00:04 EDT",
       "published_ts": 1785506404,
       "summary": "In mathematics and getting dressed, some processes are commutative, while others are noncommutative. Commutative means the order doesn't matter (3 + 2 is the same as 2 + 3, and it doesn't matter which sock goes on first). Noncommutative means the order does matter."
-    },
-    {
-      "title": "Two independent studies push semiconductor qubits towards practical scales",
-      "link": "https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 31 Jul 2026 07:20:04 EDT",
-      "published_ts": 1785496804,
-      "summary": "Semiconductor spin qubits are one of the most promising building blocks for future quantum computers, but turning them into a working, large-scale quantum computer has so far proven difficult. For now, two big questions remain open: how to connect qubits that aren't sitting right next to each other,…"
-    },
-    {
-      "title": "Quantum spin effects may enhance one-way electrical transport in chiral magnets",
-      "link": "https://phys.org/news/2026-07-quantum-effects-electrical-chiral-magnets.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 30 Jul 2026 17:30:01 EDT",
-      "published_ts": 1785447001,
-      "summary": "Quantum fluctuations influence direction-dependent electrical transport in chiral magnets, researchers from Science Tokyo report. In chiral magnetic systems, electric current flows differently depending on its direction, but the role of quantum effects in this behavior has remained unclear. Through…"
-    },
-    {
-      "title": "Cesium atoms and quantum dots generate indistinguishable photons for modular quantum networks",
-      "link": "https://phys.org/news/2026-07-cesium-atoms-quantum-dots-generate.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 30 Jul 2026 16:20:07 EDT",
-      "published_ts": 1785442807,
-      "summary": "Large-scale quantum communication networks require both reliable quantum memories and coherent single-photon sources that can exchange quantum information efficiently. A coherent source of single photons with narrow linewidth, high brightness, spectral uniformity and compatibility with quantum memor…"
-    },
-    {
-      "title": "Light's hidden properties save quantum information from the chaos of bad weather",
-      "link": "https://phys.org/news/2026-07-hidden-properties-quantum-chaos-bad.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 30 Jul 2026 13:40:01 EDT",
-      "published_ts": 1785433201,
-      "summary": "For years, researchers have tried to harness the \"twist\" of light to transmit data. This property describes how light spirals as it travels forward, and because it can be molded into a virtually infinite number of different twists, it provides a massive, promising alphabet for high-capacity communic…"
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
