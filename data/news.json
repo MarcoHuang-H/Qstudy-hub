@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1785957788,
+  "generated_ts": 1785982039,
   "items": [
+    {
+      "title": "Miniaturized laser technology paves the way for fundamental physics experiments in space",
+      "link": "https://phys.org/news/2026-08-miniaturized-laser-technology-paves-fundamental.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 05 Aug 2026 19:40:04 EDT",
+      "published_ts": 1785973204,
+      "summary": "An international team of researchers has succeeded in producing atomic quantum gas mixtures with an unprecedented particle flux. In the journal Nature Communications, the scientists report on experiments conducted with the MAIUS-B apparatus, in which Bose–Einstein condensates (BECs) consisting of tw…"
+    },
+    {
+      "title": "Air-stable, ultrathin superconductors developed for more scalable quantum devices",
+      "link": "https://phys.org/news/2026-08-air-stable-ultrathin-superconductors-scalable.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 05 Aug 2026 19:00:01 EDT",
+      "published_ts": 1785970801,
+      "summary": "Super-thin superconducting materials, which are only one or a few atoms thick, have unique properties scientists can leverage to produce more compact, scalable, and efficient quantum devices. But these fragile materials degrade so rapidly in air that they are difficult to study or manufacture."
+    },
+    {
+      "title": "IonQ Raises 2026 Revenue Outlook After Record Quarter Fueled by Commercial Growth, SkyWater Acquisition",
+      "link": "https://thequantuminsider.com/2026/08/05/ionq-raises-2026-revenue-outlook-after-record-quarter-fueled-by-commercial-growth-skywater-acquisition/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 05 Aug 2026 21:48:07 +0000",
+      "published_ts": 1785966487,
+      "summary": "Insider Brief IonQ raised its full-year revenue guidance after reporting record second-quarter revenue, as the quantum computing company combined accelerating commercial growth with a series of acquisitions aimed at expanding beyond quantum hardware into a broader computing and networking platform.…"
+    },
+    {
+      "title": "'Spooky' particles transit DC suburbs, a step toward a quantum network",
+      "link": "https://phys.org/news/2026-08-spooky-particles-transit-dc-suburbs.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 05 Aug 2026 16:30:01 EDT",
+      "published_ts": 1785961801,
+      "summary": "In early 2025, special signals wended their way through a fiber-optic highway strung above the streets and sidewalks of the Maryland suburbs. The arrival of those signals at their destination marks a significant step toward a long-held dream of building a \"quantum network.\" Researchers believe that…"
+    },
     {
       "title": "D-Wave Publishes Research on Dual-Rail Qubit Gate for Quantum Error Correction",
       "link": "https://thequantuminsider.com/2026/08/05/d-wave-hardware-breakthrough-quantum-error-correction-fault-tolerant-computing/",
@@ -226,14 +258,6 @@
       "summary": "Scientists from Rice University in the U.S. have developed a way to precisely tune the temperature inside a trapped-ion simulator. The breakthrough means they will be able to run quantum simulations at precise temperatures that better reflect real-world conditions."
     },
     {
-      "title": "enQase and Light Rider Collaborate on Quantum-Safe Communication Infrastructure",
-      "link": "https://thequantuminsider.com/2026/08/04/enqase-light-rider-quantum-safe-communication-infrastructure/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 04 Aug 2026 17:05:00 +0000",
-      "published_ts": 1785863100,
-      "summary": "Insider Brief Press release &#8211; enQase, a U.S.-based full-stack quantum-safe security platform, and Light Rider Inc., a quantum technology company developing secure communications, quantum entropy, and sovereign quantum infrastructure, today announced a strategic technology partnership. The comp…"
-    },
-    {
       "title": "New quantum encryption method prevents ciphertext from being cloned",
       "link": "https://phys.org/news/2026-08-quantum-encryption-method-ciphertext-cloned.html",
       "source": "Phys.org — Quantum Physics",
@@ -320,30 +344,6 @@
       "published": "Thu, 30 Jul 2026 13:40:01 EDT",
       "published_ts": 1785433201,
       "summary": "For years, researchers have tried to harness the \"twist\" of light to transmit data. This property describes how light spirals as it travels forward, and because it can be molded into a virtually infinite number of different twists, it provides a massive, promising alphabet for high-capacity communic…"
-    },
-    {
-      "title": "Physicists link the Riemann Hypothesis to phase transitions in quantum systems",
-      "link": "https://phys.org/news/2026-07-physicists-link-riemann-hypothesis-phase.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 30 Jul 2026 12:20:05 EDT",
-      "published_ts": 1785428405,
-      "summary": "A new study in Nature Communications has established a link between the Riemann Hypothesis and dynamical phase transitions in engineered quantum systems, demonstrating the effect on a quantum processor."
-    },
-    {
-      "title": "Physicists create Bose–Einstein condensate from ultracold polar molecules",
-      "link": "https://phys.org/news/2026-07-physicists-boseeinstein-condensate-ultracold-polar.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 30 Jul 2026 07:40:03 EDT",
-      "published_ts": 1785411603,
-      "summary": "Bose–Einstein condensates are states of matter that form when particles called bosons are cooled to temperatures that are only a fraction of a degree above absolute zero (i.e., 0 Kelvin [-460°F]). In these states, particles occupy the same quantum state and exhibit interesting collective behaviors,…"
-    },
-    {
-      "title": "Quantum in the palm of your hand: The evolution of superconducting qubits",
-      "link": "https://phys.org/news/2026-07-quantum-palm-evolution-superconducting-qubits.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 29 Jul 2026 23:20:04 EDT",
-      "published_ts": 1785381604,
-      "summary": "Electrons zipping through transistors, powering the screens on our smartphones. Light zooming from distant stars to Earth, moving faster than anything else in the universe. Protons enabling MRI machines to analyze people's injuries."
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
