@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1786004821,
+  "generated_ts": 1786024472,
   "items": [
+    {
+      "title": "Florida Atlantic University Launches Quantum Computing Business Strategy Certificate",
+      "link": "https://thequantuminsider.com/2026/08/06/florida-atlantic-university-launches-quantum-computing-certificate/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 06 Aug 2026 13:36:02 +0000",
+      "published_ts": 1786023362,
+      "summary": "Insider Brief Press release &#8211; Florida Atlantic University’s Executive Education program in the College of Business is launching a new certificate course in quantum computing designed to help business professionals understand, evaluate and strategically prepare for one of the most transformativ…"
+    },
+    {
+      "title": "Pasqal Receives SEC Clearance for Proposed SPAC Combination With Bleichroeder",
+      "link": "https://thequantuminsider.com/2026/08/06/pasqal-business-combination-filing-bleichroeder-declared-effective-sec/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 06 Aug 2026 13:23:33 +0000",
+      "published_ts": 1786022613,
+      "summary": "Insider Brief Press release &#8211; Pasqal Holding SAS (&#8220;Pasqal&#8221;), a global leader in neutral-atom quantum computing, today announced that its joint registration statement on Form F-4 (the &#8220;Registration Statement&#8221;) with Bleichroeder Acquisition Corp. II (Nasdaq: BBCQ) (&#8220…"
+    },
+    {
+      "title": "D-Wave Reports Bookings Surge as Quarterly Revenue Holds Steady",
+      "link": "https://thequantuminsider.com/2026/08/06/d-wave-reports-bookings-surge-as-quarterly-revenue-holds-steady/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 06 Aug 2026 13:10:35 +0000",
+      "published_ts": 1786021835,
+      "summary": "Insider Brief D-Wave Quantum reported flat second-quarter revenue but continued strong growth in bookings, underscoring growing customer demand as the company accelerated investment in both its annealing and gate-model quantum computing platforms. The company reported second-quarter revenue of $3.1…"
+    },
+    {
+      "title": "Daon Develops Five-Patent Architecture for Quantum-Ready Digital Identity",
+      "link": "https://thequantuminsider.com/2026/08/06/daon-five-patent-architecture-quantum-ready-digital-identity/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 06 Aug 2026 12:53:27 +0000",
+      "published_ts": 1786020807,
+      "summary": "Insider Brief Press release &#8211; Daon®, The Digital Identity Trust Company, today introduced its Quantum Identity architecture, a patent-backed approach designed to help future identity systems determine not only whether cryptography remains secure, but whether the biometric and authentication ev…"
+    },
+    {
+      "title": "Quantum Optics Jena’s ELVIS System Passes Independent Security Testing for Quantum Communication",
+      "link": "https://thequantuminsider.com/2026/08/06/quantum-optics-jena-unhackable-quantum-communication-independent-security-test/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 06 Aug 2026 12:29:08 +0000",
+      "published_ts": 1786019348,
+      "summary": "Insider Brief Press release &#8211; Quantum Optics Jena GmbH today announced that its ELVIS system has become the world’s first quantum communication system to resist real-world quantum hacking tricks, passing the most-rigorous round of independent security testing to date.&#160; The ELVIS system wa…"
+    },
+    {
+      "title": "NIST Researchers Demonstrate Entangled Photon Transmission Over Existing Fiber Networks",
+      "link": "https://thequantuminsider.com/2026/08/06/nist-researchers-demonstrate-entangled-photon-transmission-over-existing-fiber-networks/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 06 Aug 2026 09:47:10 +0000",
+      "published_ts": 1786009630,
+      "summary": "Insider Brief In early 2025, special signals wended their way through a fiber-optic highway strung above the streets and sidewalks of the Maryland suburbs. The arrival of those signals at their destination marks a significant step toward a long-held dream of building a “quantum network.” Researchers…"
+    },
+    {
+      "title": "Why DARPA Is Turning Its Attention to Quantum Manufacturing",
+      "link": "https://thequantuminsider.com/2026/08/06/why-darpa-is-turning-its-attention-to-quantum-manufacturing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 06 Aug 2026 08:39:38 +0000",
+      "published_ts": 1786005578,
+      "summary": "Insider Brief DARPA is shifting more of its attention from demonstrating quantum technologies in the laboratory to figuring out how to manufacture them at scale, according to a news release from the agency. The U.S. Defense Advanced Research Projects Agency this week launched It&#8217;s About Time,…"
+    },
+    {
+      "title": "Xanadu Reports Higher Revenue in 2Q 2026, Expands U.S. Operations",
+      "link": "https://thequantuminsider.com/2026/08/06/xanadu-reports-higher-revenue-in-2q-2026-expands-u-s-operations/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 06 Aug 2026 08:16:03 +0000",
+      "published_ts": 1786004163,
+      "summary": "Insider Brief Xanadu Quantum Technologies reported higher year-over-year second-quarter revenue while stepping up investment in research, manufacturing and U.S. expansion, as the photonic quantum computing company continued advancing the technologies it says are needed to build large-scale quantum c…"
+    },
     {
       "title": "Guest Post: From the Cosmos to Quantum Computers",
       "link": "https://thequantuminsider.com/2026/08/06/slug-from-the-cosmos-to-quantum-computers-meet-michael-osei/",
@@ -16,14 +80,6 @@
       "published": "Thu, 06 Aug 2026 06:50:20 +0000",
       "published_ts": 1785999020,
       "summary": "By combining the long-range connectivity of photonic qubits with near-deterministic entanglement mediated by cavity-coupled atoms, Quantum Source&#8217;s new blueprint lays out a concrete, quantitative path toward practical fault-tolerant quantum computing. Insider Brief Today&#8217;s quantum proces…"
-    },
-    {
-      "title": "IonQ’s Space Division Awarded NRO Radar Commercial Augmentation Contract",
-      "link": "https://thequantuminsider.com/2026/08/06/ionq-space-division-nro-radar-commercial-augmentation-contract/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 06:36:24 +0000",
-      "published_ts": 1785998184,
-      "summary": "Insider Brief Press release &#8211; IonQ (NYSE: IONQ), the world’s leading quantum platform company, today announced that Capella, an IonQ company, has been awarded a contract under the National Reconnaissance Office’s (NRO) Radar Commercial Augmentation (RCA) program. Under the contract, the compan…"
     },
     {
       "title": "Unifying quantum measurement constructions via a relative-entropy minimum change principle",
@@ -162,14 +218,6 @@
       "summary": "Super-thin superconducting materials, which are only one or a few atoms thick, have unique properties scientists can leverage to produce more compact, scalable, and efficient quantum devices. But these fragile materials degrade so rapidly in air that they are difficult to study or manufacture."
     },
     {
-      "title": "IonQ Raises 2026 Revenue Outlook After Record Quarter Fueled by Commercial Growth, SkyWater Acquisition",
-      "link": "https://thequantuminsider.com/2026/08/05/ionq-raises-2026-revenue-outlook-after-record-quarter-fueled-by-commercial-growth-skywater-acquisition/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 05 Aug 2026 21:48:07 +0000",
-      "published_ts": 1785966487,
-      "summary": "Insider Brief IonQ raised its full-year revenue guidance after reporting record second-quarter revenue, as the quantum computing company combined accelerating commercial growth with a series of acquisitions aimed at expanding beyond quantum hardware into a broader computing and networking platform.…"
-    },
-    {
       "title": "'Spooky' particles transit DC suburbs, a step toward a quantum network",
       "link": "https://phys.org/news/2026-08-spooky-particles-transit-dc-suburbs.html",
       "source": "Phys.org — Quantum Physics",
@@ -178,60 +226,12 @@
       "summary": "In early 2025, special signals wended their way through a fiber-optic highway strung above the streets and sidewalks of the Maryland suburbs. The arrival of those signals at their destination marks a significant step toward a long-held dream of building a \"quantum network.\" Researchers believe that…"
     },
     {
-      "title": "D-Wave Publishes Research on Dual-Rail Qubit Gate for Quantum Error Correction",
-      "link": "https://thequantuminsider.com/2026/08/05/d-wave-hardware-breakthrough-quantum-error-correction-fault-tolerant-computing/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 05 Aug 2026 15:48:38 +0000",
-      "published_ts": 1785944918,
-      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (Nasdaq: QBTS), (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software, and services, today announced a major research breakthrough advancing the path to practical…"
-    },
-    {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
       "link": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices-0805",
       "source": "MIT News — Quantum Computing",
       "published": "Wed, 05 Aug 2026 11:00:00 -0400",
       "published_ts": 1785942000,
       "summary": "A new technique produces wafer-scale samples, overcoming a major roadblock to using these materials in quantum technologies."
-    },
-    {
-      "title": "Researchers Say New Quantum Encryption Method Can’t Be Copied",
-      "link": "https://thequantuminsider.com/2026/08/05/researchers-say-new-quantum-encryption-method-cant-be-copied/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 05 Aug 2026 14:03:00 +0000",
-      "published_ts": 1785938580,
-      "summary": "Insider Brief Researchers have presented what they describe as the first efficient, information-theoretically secure unclonable encryption scheme with classical keys in the standard cryptographic model. In plain terms, it&#8217;s a result that could advance a longstanding goal in quantum cryptograph…"
-    },
-    {
-      "title": "Qarakal Quantum Unveils Pangaea Architecture for Modular Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/08/05/qarakal-quantum-modular-architecture-scaling-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 05 Aug 2026 13:41:52 +0000",
-      "published_ts": 1785937312,
-      "summary": "Insider Brief Press release &#8211; Quantum startup Qarakal Quantum today announced its Pangaea architecture for breakthrough modularity and scalability that shortens the path to commercially viable, industry-scale quantum computing. Leveraging its IP-protected quantum bus technology, Qarakal Quantu…"
-    },
-    {
-      "title": "Quantum X-Labs Advances Quantum Computing for Nuclear Particle Transport Prediction",
-      "link": "https://thequantuminsider.com/2026/08/05/quantum-x-labs-quantum-computing-nuclear-particle-transport-prediction/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 05 Aug 2026 13:31:04 +0000",
-      "published_ts": 1785936664,
-      "summary": "Insider Brief Press release &#8211; Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X” or the “Company”), an advanced technologies company, today announced that its subsidiary, Nuclear Quantum, has presented development in one of the nuclear industry’s current bottle necks. Quantum X Labs, through Nucle…"
-    },
-    {
-      "title": "Tantalum, Silicon, and a Cross-Disciplinary Bet that Paid Off",
-      "link": "https://thequantuminsider.com/2026/08/05/researchers-improve-superconducting-qubit-coherence-tantalum-silicon/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 05 Aug 2026 12:00:00 +0000",
-      "published_ts": 1785931200,
-      "summary": "A partnership spanning chemistry, engineering, and quantum device design has yielded a millisecond-coherent transmon, proving that smarter materials may hold the key to the next quantum leap Insider Brief Quantum computing emerged with a promise of mythic proportions: machines capable of solving, in…"
-    },
-    {
-      "title": "Thailand Launches Quantum Club Thailand to Support Quantum Technology Development",
-      "link": "https://thequantuminsider.com/2026/08/05/thailand-launches-quantum-club-thailand-national-platform/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 05 Aug 2026 11:30:59 +0000",
-      "published_ts": 1785929459,
-      "summary": "Insider Brief Thailand launched a national quantum technology collaboration platform called &#8220;Quantum Club Thailand&#8221; in Bangkok on August 3, 2026. The platform combines the Ministry of Higher Education, Science, Research and Innovation (MHESI), Charoen Pokphand Group, Arise, True Corporat…"
     },
     {
       "title": "Molecular orbitals imaged in 3D, opening path to femtosecond videos",
