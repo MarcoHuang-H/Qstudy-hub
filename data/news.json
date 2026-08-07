@@ -1,6 +1,126 @@
 {
-  "generated_ts": 1786069566,
+  "generated_ts": 1786086431,
   "items": [
+    {
+      "title": "Local Uniqueness of the Born Rule on Categories with Complex-Weighted Morphisms",
+      "link": "https://arxiv.org/abs/2608.05197",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05197v1 Announce Type: new  Abstract: I prove a local uniqueness theorem for the Born rule in the setting of small categories equipped with complex morphism weights and path-amplitude probability functionals. Given (i) non-negativity, (ii) polynomiality of bounded total degree, (iii) glob…"
+    },
+    {
+      "title": "Quantum Error Management in Practice: A Cross-Stack Benchmark",
+      "link": "https://arxiv.org/abs/2608.05202",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05202v1 Announce Type: new  Abstract: Quantum processors have crossed the one-hundred-qubit mark, but noise continues to limit circuit performance, while full quantum error correction remains too costly for routine use. Error suppression and mitigation therefore play an important role in…"
+    },
+    {
+      "title": "One Qubit Can Beat One Bit: Quantum Advantage for Post-Training Quantization",
+      "link": "https://arxiv.org/abs/2608.05240",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05240v1 Announce Type: new  Abstract: One-bit post-training quantization represents each weight using only its sign, requiring all deployment contexts to share the same binary weight matrix even when their activation statistics favor different sign patterns. We study this shared-sign cons…"
+    },
+    {
+      "title": "Cluster-State Witnesses of Finite-Speed Hidden Influences",
+      "link": "https://arxiv.org/abs/2608.05271",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05271v1 Announce Type: new  Abstract: Bell experiments rule out local common-cause explanations of quantum correlations, yet they do not exclude hidden influences that travel faster than light while still having a finite speed in a preferred frame. Multipartite spacetime arrangements turn…"
+    },
+    {
+      "title": "Relative entropy of entanglement of Haar random states",
+      "link": "https://arxiv.org/abs/2608.05274",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05274v1 Announce Type: new  Abstract: We determine the relative entropy of entanglement of a bipartite mixed state $\\rho_{AB}$ obtained by tracing out one subsystem of a tripartite Haar-random pure state $|\\psi\\rangle_{ABC}$, finding $E_R(\\rho_{AB})=\\log\\frac{d_Ad_B}{\\max(d_A,d_B,d_C)}+O(…"
+    },
+    {
+      "title": "Scalable Circuit Cutting: A Framework for Combined Gate and Wire Cuts Using Gate Groups",
+      "link": "https://arxiv.org/abs/2608.05287",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05287v1 Announce Type: new  Abstract: Quantum circuit cutting enables the execution of large circuits on devices with a limited number of qubits by partitioning circuits into independent subcircuits. However, this introduces a sampling overhead, which grows exponentially with the number o…"
+    },
+    {
+      "title": "Identifying slow relaxation in many-body quantum systems through state-graph geometry and state-graph heterogeneity",
+      "link": "https://arxiv.org/abs/2608.05298",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05298v1 Announce Type: new  Abstract: We adapt tools from the theory of quantum random walks to investigate slow relaxation dynamics through the many-body state graph. Specifically, we construct a probe of heterogeneity between basis states defined using hitting times derived from the uni…"
+    },
+    {
+      "title": "Quantum channel learning with limited parallel access",
+      "link": "https://arxiv.org/abs/2608.05307",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05307v1 Announce Type: new  Abstract: Quantum channels can characterized by their action on an orthogonal operator basis, where these operators are related to observable properties of the quantum system. For qudit and multimode bosonic systems, this is encoded respectively in the Heisenbe…"
+    },
+    {
+      "title": "Unidirectional Dark-to-Bright Rescue in Cavity-Coupled Quantum Transport",
+      "link": "https://arxiv.org/abs/2608.05312",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05312v1 Announce Type: new  Abstract: Strong light-matter coupling in optical microcavities can transport energy ballistically across an emitter array, but the same coupling buries most of the excitation in a manifold of dark states that grows with system size and traps energy outside the…"
+    },
+    {
+      "title": "Machine learning for sample-based quantum diagonalization: generative configuration recovery and the classical-simulability frontier",
+      "link": "https://arxiv.org/abs/2608.05314",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05314v1 Announce Type: new  Abstract: Sample-based quantum diagonalization (SQD), equivalently quantum-selected configuration interaction (QSCI), has in two years become a pragmatic centre of gravity of pre-fault-tolerant quantum chemistry: a quantum processor samples electronic configura…"
+    },
+    {
+      "title": "The Hidden Subgroup Problem in Semidirect Products and Quasi-Hamiltonian Groups",
+      "link": "https://arxiv.org/abs/2608.05321",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05321v1 Announce Type: new  Abstract: Several early quantum algorithms, including Simon's algorithm and Shor's period-finding are instances of the hidden subgroup problem (HSP) over finite abelian groups. No polynomial-time quantum algorithm is known for the HSP over arbitrary non-abelian…"
+    },
+    {
+      "title": "QBism on Locality and Nonlocality",
+      "link": "https://arxiv.org/abs/2608.05368",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05368v1 Announce Type: new  Abstract: Recently Pienaar (2026), building on work of Cavalcanti (2021), has shown that QBism cannot always assume distinct observers' quantum-measurement outcomes---say, of Wigner and his friend---are embedded in a single spacetime. This follows from QBism's…"
+    },
+    {
+      "title": "Maximally entangled states are not complete for pseudo-telepathy",
+      "link": "https://arxiv.org/abs/2608.05378",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05378v1 Announce Type: new  Abstract: One of the longstanding open problems in quantum nonlocality is to determine if maximally entangled states are complete for bipartite pseudo-telepathic games: namely, if every nonlocal game which admits a perfect entangled strategy admits such a strat…"
+    },
+    {
+      "title": "Quantum Error Mitigation with Diffusion-Like Models",
+      "link": "https://arxiv.org/abs/2608.05382",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05382v1 Announce Type: new  Abstract: Coupling between a quantum system and its environment causes decoherence by transferring information from the system to environmental degrees of freedom. When discretized in time, such interactions can be interpreted as sequences of weak measurements…"
+    },
+    {
+      "title": "Feasibility-Preserving Quantum Search for Constrained Transportation Routing",
+      "link": "https://arxiv.org/abs/2608.05394",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786075200,
+      "summary": "arXiv:2608.05394v1 Announce Type: new  Abstract: Transportation routing problems such as the Traveling Salesperson Problem (TSP) and the Vehicle Routing Problem (VRP) are characterized by strict feasibility requirements involving customer assignment and visit rules, route sequencing, and depot-retur…"
+    },
     {
       "title": "New quantum microscopy trick quadruples microscope resolution",
       "link": "https://phys.org/news/2026-08-quantum-microscopy-quadruples-microscope-resolution.html",
@@ -112,126 +232,6 @@
       "published": "Thu, 06 Aug 2026 08:16:03 +0000",
       "published_ts": 1786004163,
       "summary": "Insider Brief Xanadu Quantum Technologies reported higher year-over-year second-quarter revenue while stepping up investment in research, manufacturing and U.S. expansion, as the photonic quantum computing company continued advancing the technologies it says are needed to build large-scale quantum c…"
-    },
-    {
-      "title": "Unifying quantum measurement constructions via a relative-entropy minimum change principle",
-      "link": "https://arxiv.org/abs/2608.04055",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04055v1 Announce Type: new  Abstract: The minimum change principle provides an information-theoretic characterization of the Bayes reversal channel in classical probability theory and has recently been proposed as a framework for extending Bayes' rule to quantum information theory. Using…"
-    },
-    {
-      "title": "Graph-Aware Exact Branch-and-Bound with Device Profiles for Static Qubit Allocation",
-      "link": "https://arxiv.org/abs/2608.04058",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04058v1 Announce Type: new  Abstract: Static qubit allocation maps a circuit's logical qubits to a sparse physical device while minimising an interaction-weighted physical-distance cost function, yielding a rectangular quadratic assignment problem. Existing work combines strong lower boun…"
-    },
-    {
-      "title": "Guiding Compiler Optimizations for Neutral Atom Quantum Computers Through Visualizations",
-      "link": "https://arxiv.org/abs/2608.04081",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04081v1 Announce Type: new  Abstract: The scale of Neutral Atom (NA) quantum computers requires automated compilation tools. Designing the required heuristic methods demands a deep understanding of complex hardware trade-offs, for which visualizations can provide crucial insights. This wo…"
-    },
-    {
-      "title": "Quantum Many-Body Metrology of Rotation Sensing with Strong Interactions",
-      "link": "https://arxiv.org/abs/2608.04082",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04082v1 Announce Type: new  Abstract: We study the ultimate quantum limit of rotation sensing with a few strongly interacting bosons confined in a quasi-one-dimensional ring trap with two weak links. It is demonstrated that a self-consistent many-body solution of the problem is required t…"
-    },
-    {
-      "title": "Revealing Noise in Axial Motion Through Quantum Noise Spectroscopy on a Trapped Ion Processor",
-      "link": "https://arxiv.org/abs/2608.04089",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04089v1 Announce Type: new  Abstract: Native noise processes in quantum processors are often difficult to isolate because multiple error mechanisms contribute to the same measured loss of coherence. Here we use dephasing-robust quantum noise spectroscopy to identify and characterize contr…"
-    },
-    {
-      "title": "An optical-fibre-integrated buffer for packet-switched quantum networks",
-      "link": "https://arxiv.org/abs/2608.04093",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04093v1 Announce Type: new  Abstract: Packet-switched quantum networks require buffers that can delay qubit payloads while routing information is read out in real time. Previous approaches have not provided this functionality in a fully fibre-integrated architecture compatible with teleco…"
-    },
-    {
-      "title": "Contextuality in Sequential State Discrimination",
-      "link": "https://arxiv.org/abs/2608.04099",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04099v1 Announce Type: new  Abstract: Generalized contextuality is known to be required in optimal strategies for quantum state discrimination protocols. More recently, sequential discrimination tasks have been studied; n players attempt to determine in which state a qubit was prepared, i…"
-    },
-    {
-      "title": "Reconstructing non-Abelian braiding and fusion without anyon transport",
-      "link": "https://arxiv.org/abs/2608.04103",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04103v1 Announce Type: new  Abstract: Non-Abelian anyons offer a route to fault-tolerant and universal quantum computing, but experimental access to their defining braiding and fusion data remains limited by the resource overhead of implementing extended anyonic processes on quantum hardw…"
-    },
-    {
-      "title": "Poled-fibre phase modulator for efficient high-dimensional quantum measurements",
-      "link": "https://arxiv.org/abs/2608.04112",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04112v1 Announce Type: new  Abstract: Efficient detection of quantum states underpins advanced device-independent quantum-information protocols that provide the ultimate level of security for tasks including quantum random number generation and quantum key distribution (QKD). High-dimensi…"
-    },
-    {
-      "title": "Quantum Contextuality and Entanglement-Free Grover Search in a Trapped-Ion Optical Qudit",
-      "link": "https://arxiv.org/abs/2608.04128",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04128v1 Announce Type: new  Abstract: Quantum computational advantage is generally attributed to coherent interference and other non-classical resources, yet their respective roles remain difficult to disentangle in experimental platforms where multipartite entanglement is inherently pres…"
-    },
-    {
-      "title": "Photon localization: a comparative study",
-      "link": "https://arxiv.org/abs/2608.04134",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04134v1 Announce Type: new  Abstract: We compare different measures for photon localization in terms of two-dimensional Gaussian wave packets. We find that all measures start to coalesce if the wave packet has evolved for times which are larger than a few times the inverse momentum-space…"
-    },
-    {
-      "title": "Applications of Spin-Dependent Generalized Squeezing in Hybrid Spin-Oscillator Quantum Processors",
-      "link": "https://arxiv.org/abs/2608.04197",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04197v1 Announce Type: new  Abstract: Generalized squeezing interactions are foundational to quantum optics, and have recently come under experimental control in hybrid spin-oscillator quantum processors [O. B\\u{a}z\\u{a}van, et al., Nat. Phys. 22, 757 (2026); S. Saner, et al., Phys. Rev.…"
-    },
-    {
-      "title": "Dynamical Lie Algebras Cannot Describe Shallow QAOA: Cragged Terrains, Barren Plateaus, and Empirical Hardness Models",
-      "link": "https://arxiv.org/abs/2608.04252",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04252v1 Announce Type: new  Abstract: The dynamical Lie algebraic (DLA) theory of variational quantum algorithms (VQAs) predicts commonplace exponentially vanishing loss and gradient variances for sufficiently deep parametrized circuits. In this work, we show that these predictions fail d…"
-    },
-    {
-      "title": "Poisson-Compiled Quantum Singular Value Transformation for Power-Exponential Dissipation",
-      "link": "https://arxiv.org/abs/2608.04263",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04263v1 Announce Type: new  Abstract: We study quantum implementations of the contraction $\\exp(-T H^\\alpha)$ for $H=H^\\dagger\\succeq0$ and $\\alpha>0$. Poisson summation provides an exact target--alias--tail decomposition whose Fourier samples are compiled classically into a single Chebys…"
-    },
-    {
-      "title": "Measurement-based simulation of lattice gauge theory dynamics with adaptive quantum circuits on a trapped-ion processor",
-      "link": "https://arxiv.org/abs/2608.04290",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 06 Aug 2026 00:00:00 -0400",
-      "published_ts": 1785988800,
-      "summary": "arXiv:2608.04290v1 Announce Type: new  Abstract: Measurement-based quantum simulation (MBQS)---a recently proposed architecture for simulating lattice gauge theories---implements Hamiltonian dynamics by consuming a model-specific entangled resource state with adaptive mid-circuit measurements, rathe…"
     },
     {
       "title": "Miniaturized laser technology paves the way for fundamental physics experiments in space",
