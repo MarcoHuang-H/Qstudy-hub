@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1786107157,
+  "generated_ts": 1786128501,
   "items": [
+    {
+      "title": "Physicists watch a material's electrons assemble, and reassemble, into coexisting phases",
+      "link": "https://phys.org/news/2026-08-physicists-material-electrons-reassemble-coexisting.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 07 Aug 2026 12:00:01 EDT",
+      "published_ts": 1786118401,
+      "summary": "A tall glass of ice water isn't just a thirst quencher; it's also an everyday example of coexisting phases. Water can exist simultaneously in both liquid and solid phases. As it turns out, this phase duality can also exist in more exotic quantum materials, in ways that are far more complicated to te…"
+    },
+    {
+      "title": "TuringQ Joins China’s IPO Pipeline as Quantum Firms Push Toward Commercialization",
+      "link": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 07 Aug 2026 15:39:16 +0000",
+      "published_ts": 1786117156,
+      "summary": "Insider Brief Shanghai-based TuringQ has entered the IPO preparation process, becoming the latest Chinese quantum computing company to pursue a public listing as the country&#8217;s quantum sector shifts its focus from research toward commercialization. The company filed for IPO tutoring with the Sh…"
+    },
+    {
+      "title": "Post-Quantum Cryptography Timelines: When Will Organizations Migrate?",
+      "link": "https://thequantuminsider.com/2026/08/07/post-quantum-cryptography-timelines/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 07 Aug 2026 14:25:39 +0000",
+      "published_ts": 1786112739,
+      "summary": "Insider Brief Every major organization has published a timeline. Governments, technology companies, financial institutions, critical infrastructure operators, and blockchain communities &#8211; all of the major players disagree on when a cryptographically relevant quantum computer will arrive, but n…"
+    },
+    {
+      "title": "QC Ware Demonstrates Hybrid Quantum-Classical Chemistry Workflow with IBM Quantum Hardware",
+      "link": "https://thequantuminsider.com/2026/08/07/qc-ware-hybrid-quantum-classical-chemistry-workflow-ibm-quantum/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 07 Aug 2026 13:23:55 +0000",
+      "published_ts": 1786109035,
+      "summary": "Insider Brief Press release &#8211; QC Ware (&#8220;QC Ware&#8221; or the &#8220;Company&#8221;) today announced a technology demonstration of a hybrid quantum-classical computational chemistry workflow using Promethium® and IBM Quantum hardware. The demonstration calculated electrostatic interactio…"
+    },
+    {
+      "title": "Rigetti Computing Reports Second Quarter 2026 Financial Results",
+      "link": "https://thequantuminsider.com/2026/08/07/rigetti-computing-reports-second-quarter-2026-financial-results/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 07 Aug 2026 13:15:54 +0000",
+      "published_ts": 1786108554,
+      "summary": "Insider Brief Press release &#8211; Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced financial results for the second quarter ended June 30, 2026 and provided an update on recent business and technology mileston…"
+    },
+    {
+      "title": "Researchers Show Sunlight Can Generate Quantum Entanglement",
+      "link": "https://thequantuminsider.com/2026/08/07/researchers-show-sunlight-can-generate-quantum-entanglement/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 07 Aug 2026 13:03:40 +0000",
+      "published_ts": 1786107820,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Scientists have demonstrated that sunlight, as a natural light source, can generate quantum-entangled photon pairs. With their findings, the international research team challenges the long-held assumption that lasers are indispensable for preparing quantum states…"
+    },
     {
       "title": "Canada Launches Quantum Defence Innovation Secure Hub in Calgary",
       "link": "https://thequantuminsider.com/2026/08/07/canada-launches-quantum-defence-innovation-secure-hub-calgary/",
@@ -40,14 +88,6 @@
       "published": "Fri, 07 Aug 2026 07:15:00 +0000",
       "published_ts": 1786086900,
       "summary": "Insider Brief Press release &#8211; Intelligent power management company Eaton today announced it was awarded a $7 million, 24‑month contract from the U.S. Air Force Research Laboratory (AFRL) to apply quantum computing, machine learning and advanced visualization to improve resilience and protectio…"
-    },
-    {
-      "title": "DARPA Selects IonQ to Produce Next-Generation Atomic Clocks",
-      "link": "https://thequantuminsider.com/2026/08/07/darpa-selects-ionq-to-produce-next-generation-atomic-clocks/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 07 Aug 2026 07:00:00 +0000",
-      "published_ts": 1786086000,
-      "summary": "Insider Brief Press release &#8211; IonQ (NYSE: IONQ) announced today that it has been awarded a $28 million contract extension through the Defense Advanced Research Projects Agency (DARPA) It’s About Time program. Under the program, IonQ will advance its scalable clock production capabilities for i…"
     },
     {
       "title": "Local Uniqueness of the Born Rule on Categories with Complex-Weighted Morphisms",
@@ -178,14 +218,6 @@
       "summary": "Three years after a team of Caltech scientists showed that pairs of entangled photons could double the resolution of a light microscope, the same lab has figured out a way to double down on that improvement. They have now achieved a fourfold resolution boost compared to a classical microscope, using…"
     },
     {
-      "title": "Amazon Researcher Claims Quantum Algorithm Could Challenge PQC Foundations",
-      "link": "https://thequantuminsider.com/2026/08/06/amazon-researcher-claims-quantum-algorithm-could-challenge-pqc-foundations/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 17:42:49 +0000",
-      "published_ts": 1786038169,
-      "summary": "Insider Brief A preliminary paper from an Amazon Web Services cryptographer describes a polynomial-time quantum algorithm for a long-standing mathematical problem whose solution could have implications for lattice-based cryptography, the foundation of many post-quantum encryption systems proposed by…"
-    },
-    {
       "title": "X(2370) emerges as glueball-dominated particle in collider experiments",
       "link": "https://phys.org/news/2026-08-x2370-emerges-glueball-dominated-particle.html",
       "source": "Phys.org — Quantum Physics",
@@ -202,36 +234,12 @@
       "summary": "Quantum errors are a normal part of quantum computing because fragile physical qubits (the tiny components storing data) can easily break down because of environmental noise, like heat, stray signals or microscopic vibrations. Typical fixes involve vast amounts of extra hardware qubits, which make c…"
     },
     {
-      "title": "Multibeam Appoints David J. Lam as Interim CFO After New Funding Agreements",
-      "link": "https://thequantuminsider.com/2026/08/06/multibeam-appoints-interim-cfo-following-200m-funding-milestone/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 14:33:09 +0000",
-      "published_ts": 1786026789,
-      "summary": "Insider Brief Press release &#8211; Multibeam Corporation today announced the appointment of 25-year finance veteran David J. Lam as Interim Chief Financial Officer, further strengthening the company&#8217;s executive leadership team as it enters its next phase of growth with up to $205 million in s…"
-    },
-    {
       "title": "Sunlight-powered setup generates quantum entanglement",
       "link": "https://phys.org/news/2026-08-sunlight-powered-setup-generates-quantum.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 06 Aug 2026 10:00:04 EDT",
       "published_ts": 1786024804,
       "summary": "Today's quantum technologies rely on energy-intensive lasers, raising concerns that scaling them up could further increase energy demands. In new work, researchers have demonstrated that quantum entanglement between photons can be generated directly from sunlight, offering a potential alternative."
-    },
-    {
-      "title": "Florida Atlantic University Launches Quantum Computing Business Strategy Certificate",
-      "link": "https://thequantuminsider.com/2026/08/06/florida-atlantic-university-launches-quantum-computing-certificate/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 13:36:02 +0000",
-      "published_ts": 1786023362,
-      "summary": "Insider Brief Press release &#8211; Florida Atlantic University’s Executive Education program in the College of Business is launching a new certificate course in quantum computing designed to help business professionals understand, evaluate and strategically prepare for one of the most transformativ…"
-    },
-    {
-      "title": "Pasqal Receives SEC Clearance for Proposed SPAC Combination With Bleichroeder",
-      "link": "https://thequantuminsider.com/2026/08/06/pasqal-business-combination-filing-bleichroeder-declared-effective-sec/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 13:23:33 +0000",
-      "published_ts": 1786022613,
-      "summary": "Insider Brief Press release &#8211; Pasqal Holding SAS (&#8220;Pasqal&#8221;), a global leader in neutral-atom quantum computing, today announced that its joint registration statement on Form F-4 (the &#8220;Registration Statement&#8221;) with Bleichroeder Acquisition Corp. II (Nasdaq: BBCQ) (&#8220…"
     },
     {
       "title": "Miniaturized laser technology paves the way for fundamental physics experiments in space",
@@ -336,14 +344,6 @@
       "published": "Fri, 31 Jul 2026 11:40:08 EDT",
       "published_ts": 1785512408,
       "summary": "Researchers in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign have discovered a new type of quantum light emitter in diamonds that could help overcome a number of challenges facing quantum technologies."
-    },
-    {
-      "title": "Less-explored form of quantum code could be more powerful—and more stable—than its alternative in error correction",
-      "link": "https://phys.org/news/2026-07-explored-quantum-code-powerful-stable.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 31 Jul 2026 10:00:04 EDT",
-      "published_ts": 1785506404,
-      "summary": "In mathematics and getting dressed, some processes are commutative, while others are noncommutative. Commutative means the order doesn't matter (3 + 2 is the same as 2 + 3, and it doesn't matter which sock goes on first). Noncommutative means the order does matter."
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
