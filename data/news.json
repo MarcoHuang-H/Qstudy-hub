@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1786086431,
+  "generated_ts": 1786107157,
   "items": [
+    {
+      "title": "Canada Launches Quantum Defence Innovation Secure Hub in Calgary",
+      "link": "https://thequantuminsider.com/2026/08/07/canada-launches-quantum-defence-innovation-secure-hub-calgary/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 07 Aug 2026 09:57:17 +0000",
+      "published_ts": 1786096637,
+      "summary": "Insider Brief Press release &#8211; Today, the Honourable&#160;David J. McGuinty, Minister of National Defence, announced the launch of the Quantum Defence Innovation Secure&#160;Hub (DISH)&#160;under the Bureau of Research, Engineering and Advanced Leadership in Innovation and&#160;Science (BOREALI…"
+    },
+    {
+      "title": "Former Coherent CEO Chuck Mattera Joins Uviquity as Strategic Advisor",
+      "link": "https://thequantuminsider.com/2026/08/07/former-coherent-ceo-chuck-mattera-joins-uviquity-strategic-advisor/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 07 Aug 2026 09:37:46 +0000",
+      "published_ts": 1786095466,
+      "summary": "Insider Brief Press release &#8211; Uviquity, a deep-tech company building integrated photonics on an aluminum nitride (AlN) platform for quantum and ultraviolet applications, today announced that Dr. Vincent D. (&#8220;Chuck&#8221;) Mattera, Jr., Founder and CEO of Avalanche Thinking, Inc. and form…"
+    },
+    {
+      "title": "Quantum Research Focus of Summer Training School For Higher Education Students",
+      "link": "https://thequantuminsider.com/2026/08/07/quantum-research-focus-of-summer-training-school-for-higher-education-students/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 07 Aug 2026 08:11:25 +0000",
+      "published_ts": 1786090285,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Eighty higher education students from across the country participated in various activities and engaged with quantum science experts in a week-long summer school experience hosted by the&#160;Penn State Center for Theory of Emergent Quantum Matter (C-TEQ). “The C-…"
+    },
+    {
+      "title": "ZeroTier and Carahsoft Partner to Expand Post-Quantum Networking Access for Government",
+      "link": "https://thequantuminsider.com/2026/08/07/zerotier-carahsoft-partner-post-quantum-secure-software-defined-networking-public-sector/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 07 Aug 2026 07:40:00 +0000",
+      "published_ts": 1786088400,
+      "summary": "Insider Brief Press release &#8211; ZeroTier, one of the world’s top software-defined networking companies, and&#160;Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a strategic partnership. Under the agreement, Carahsoft will expand access to ZeroTier solut…"
+    },
+    {
+      "title": "Eaton Wins $7M Air Force Contract to Apply Quantum Computing to Grid Security",
+      "link": "https://thequantuminsider.com/2026/08/07/eaton-wins-7m-air-force-contract-quantum-computing-grid-security/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 07 Aug 2026 07:15:00 +0000",
+      "published_ts": 1786086900,
+      "summary": "Insider Brief Press release &#8211; Intelligent power management company Eaton today announced it was awarded a $7 million, 24‑month contract from the U.S. Air Force Research Laboratory (AFRL) to apply quantum computing, machine learning and advanced visualization to improve resilience and protectio…"
+    },
+    {
+      "title": "DARPA Selects IonQ to Produce Next-Generation Atomic Clocks",
+      "link": "https://thequantuminsider.com/2026/08/07/darpa-selects-ionq-to-produce-next-generation-atomic-clocks/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 07 Aug 2026 07:00:00 +0000",
+      "published_ts": 1786086000,
+      "summary": "Insider Brief Press release &#8211; IonQ (NYSE: IONQ) announced today that it has been awarded a $28 million contract extension through the Defense Advanced Research Projects Agency (DARPA) It’s About Time program. Under the program, IonQ will advance its scalable clock production capabilities for i…"
+    },
     {
       "title": "Local Uniqueness of the Born Rule on Categories with Complex-Weighted Morphisms",
       "link": "https://arxiv.org/abs/2608.05197",
@@ -184,54 +232,6 @@
       "published": "Thu, 06 Aug 2026 13:23:33 +0000",
       "published_ts": 1786022613,
       "summary": "Insider Brief Press release &#8211; Pasqal Holding SAS (&#8220;Pasqal&#8221;), a global leader in neutral-atom quantum computing, today announced that its joint registration statement on Form F-4 (the &#8220;Registration Statement&#8221;) with Bleichroeder Acquisition Corp. II (Nasdaq: BBCQ) (&#8220…"
-    },
-    {
-      "title": "D-Wave Reports Bookings Surge as Quarterly Revenue Holds Steady",
-      "link": "https://thequantuminsider.com/2026/08/06/d-wave-reports-bookings-surge-as-quarterly-revenue-holds-steady/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 13:10:35 +0000",
-      "published_ts": 1786021835,
-      "summary": "Insider Brief D-Wave Quantum reported flat second-quarter revenue but continued strong growth in bookings, underscoring growing customer demand as the company accelerated investment in both its annealing and gate-model quantum computing platforms. The company reported second-quarter revenue of $3.1…"
-    },
-    {
-      "title": "Daon Develops Five-Patent Architecture for Quantum-Ready Digital Identity",
-      "link": "https://thequantuminsider.com/2026/08/06/daon-five-patent-architecture-quantum-ready-digital-identity/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 12:53:27 +0000",
-      "published_ts": 1786020807,
-      "summary": "Insider Brief Press release &#8211; Daon®, The Digital Identity Trust Company, today introduced its Quantum Identity architecture, a patent-backed approach designed to help future identity systems determine not only whether cryptography remains secure, but whether the biometric and authentication ev…"
-    },
-    {
-      "title": "Quantum Optics Jena’s ELVIS System Passes Independent Security Testing for Quantum Communication",
-      "link": "https://thequantuminsider.com/2026/08/06/quantum-optics-jena-unhackable-quantum-communication-independent-security-test/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 12:29:08 +0000",
-      "published_ts": 1786019348,
-      "summary": "Insider Brief Press release &#8211; Quantum Optics Jena GmbH today announced that its ELVIS system has become the world’s first quantum communication system to resist real-world quantum hacking tricks, passing the most-rigorous round of independent security testing to date.&#160; The ELVIS system wa…"
-    },
-    {
-      "title": "NIST Researchers Demonstrate Entangled Photon Transmission Over Existing Fiber Networks",
-      "link": "https://thequantuminsider.com/2026/08/06/nist-researchers-demonstrate-entangled-photon-transmission-over-existing-fiber-networks/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 09:47:10 +0000",
-      "published_ts": 1786009630,
-      "summary": "Insider Brief In early 2025, special signals wended their way through a fiber-optic highway strung above the streets and sidewalks of the Maryland suburbs. The arrival of those signals at their destination marks a significant step toward a long-held dream of building a “quantum network.” Researchers…"
-    },
-    {
-      "title": "Why DARPA Is Turning Its Attention to Quantum Manufacturing",
-      "link": "https://thequantuminsider.com/2026/08/06/why-darpa-is-turning-its-attention-to-quantum-manufacturing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 08:39:38 +0000",
-      "published_ts": 1786005578,
-      "summary": "Insider Brief DARPA is shifting more of its attention from demonstrating quantum technologies in the laboratory to figuring out how to manufacture them at scale, according to a news release from the agency. The U.S. Defense Advanced Research Projects Agency this week launched It&#8217;s About Time,…"
-    },
-    {
-      "title": "Xanadu Reports Higher Revenue in 2Q 2026, Expands U.S. Operations",
-      "link": "https://thequantuminsider.com/2026/08/06/xanadu-reports-higher-revenue-in-2q-2026-expands-u-s-operations/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 06 Aug 2026 08:16:03 +0000",
-      "published_ts": 1786004163,
-      "summary": "Insider Brief Xanadu Quantum Technologies reported higher year-over-year second-quarter revenue while stepping up investment in research, manufacturing and U.S. expansion, as the photonic quantum computing company continued advancing the technologies it says are needed to build large-scale quantum c…"
     },
     {
       "title": "Miniaturized laser technology paves the way for fundamental physics experiments in space",
