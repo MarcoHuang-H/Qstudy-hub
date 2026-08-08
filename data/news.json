@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1786128501,
+  "generated_ts": 1786151623,
   "items": [
+    {
+      "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
+      "link": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 07 Aug 2026 17:00:01 EDT",
+      "published_ts": 1786136401,
+      "summary": "Using light to process quantum information is one of the most promising approaches to building future quantum computers. Light particles, known as photons, are excellent carriers of quantum information, but their lack of natural interactions has created a major challenge for researchers seeking to b…"
+    },
+    {
+      "title": "Crossing into a mirror world: Particles turn to wisps of fog, and the magnetic monopole paradox dissolves",
+      "link": "https://phys.org/news/2026-08-mirror-world-particles-wisps-fog.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 07 Aug 2026 16:40:02 EDT",
+      "published_ts": 1786135202,
+      "summary": "In Goethe's ballad \"Erlkönig,\" immortalized in Schubert's fevered 1815 setting, a dying boy riding through the night sees a spectral king beckoning from the darkness. His father calms him: \"Mein Sohn, es ist ein Nebelstreif\"—my son, it is only a wisp of fog. In the poem, the father's reassurance pro…"
+    },
     {
       "title": "Physicists watch a material's electrons assemble, and reassemble, into coexisting phases",
       "link": "https://phys.org/news/2026-08-physicists-material-electrons-reassemble-coexisting.html",
@@ -328,22 +344,6 @@
       "published": "Sat, 01 Aug 2026 14:40:01 EDT",
       "published_ts": 1785609601,
       "summary": "Ruthenium dioxide (RuO2) is a metal oxide that commonly serves as an important metallic conductor, quantum material and industrial electrocatalyst. While there have been debates surrounding the magnetic properties of RuO2, it is generally thought to be nonmagnetic in its bulk form. But now, a new st…"
-    },
-    {
-      "title": "Quantum computer completes verified task beyond practical reach of classical simulations",
-      "link": "https://phys.org/news/2026-07-quantum-task-classical-simulations.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 01 Aug 2026 08:00:05 EDT",
-      "published_ts": 1785585605,
-      "summary": "IBM and researchers from the University of Chicago announced a demonstration in quantum computing that meets the fundamental criteria for \"quantum advantage\"—the point where quantum computers can be confirmed to have outperformed classical computers on trusted computations."
-    },
-    {
-      "title": "Diamond's newfound defect may tame vibrations that hinder quantum light sources",
-      "link": "https://phys.org/news/2026-07-diamond-newfound-defect-vibrations-hinder.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 31 Jul 2026 11:40:08 EDT",
-      "published_ts": 1785512408,
-      "summary": "Researchers in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign have discovered a new type of quantum light emitter in diamonds that could help overcome a number of challenges facing quantum technologies."
     },
     {
       "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
