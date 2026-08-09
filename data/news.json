@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1786213781,
+  "generated_ts": 1786238288,
   "items": [
+    {
+      "title": "Matt Kinsella (Infleqtion): Why Neutral Atoms Power Sensors, Clocks, and Computers Alike",
+      "link": "https://thequantuminsider.com/2026/08/08/matt-kinsella-infleqtion-why-neutral-atoms-power-sensors-clocks-and-computers-alike/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 08 Aug 2026 19:00:00 +0000",
+      "published_ts": 1786215600,
+      "summary": "Yuval Boger interviews Matt Kinsella, CEO of Infleqtion. They discuss Infleqtion’s neutral-atom strategy, including its combination of quantum computing, sensing, and timing products, and why Matt believes that diversified approach strengthens both the business and the technology stack. Matt also sh…"
+    },
     {
       "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
       "link": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
@@ -96,14 +104,6 @@
       "published": "Fri, 07 Aug 2026 07:40:00 +0000",
       "published_ts": 1786088400,
       "summary": "Insider Brief Press release &#8211; ZeroTier, one of the world’s top software-defined networking companies, and&#160;Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a strategic partnership. Under the agreement, Carahsoft will expand access to ZeroTier solut…"
-    },
-    {
-      "title": "Eaton Wins $7M Air Force Contract to Apply Quantum Computing to Grid Security",
-      "link": "https://thequantuminsider.com/2026/08/07/eaton-wins-7m-air-force-contract-quantum-computing-grid-security/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 07 Aug 2026 07:15:00 +0000",
-      "published_ts": 1786086900,
-      "summary": "Insider Brief Press release &#8211; Intelligent power management company Eaton today announced it was awarded a $7 million, 24‑month contract from the U.S. Air Force Research Laboratory (AFRL) to apply quantum computing, machine learning and advanced visualization to improve resilience and protectio…"
     },
     {
       "title": "New quantum microscopy trick quadruples microscope resolution",
