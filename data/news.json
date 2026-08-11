@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1786387837,
+  "generated_ts": 1786411112,
   "items": [
+    {
+      "title": "Quantum Computing Inc. Revenue Jumps as Acquisitions Expand Commercial Business",
+      "link": "https://thequantuminsider.com/2026/08/10/quantum-computing-inc-revenue-jumps-as-acquisitions-expand-commercial-business/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 10 Aug 2026 21:35:56 +0000",
+      "published_ts": 1786397756,
+      "summary": "Insider Brief Quantum Computing Inc. reported a sharp increase in second-quarter revenue as acquisitions and photonics sales expanded its business, while higher spending and continued operating losses showed the cost of building out the company&#8217;s broader quantum and semiconductor strategy. The…"
+    },
+    {
+      "title": "Quantum heat circuits learn electronics' oldest trick: Sharing a power supply",
+      "link": "https://phys.org/news/2026-08-quantum-circuits-electronics-oldest-power.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 10 Aug 2026 16:40:10 EDT",
+      "published_ts": 1786394410,
+      "summary": "Every electronic and optoelectronic device generates heat, and today that heat is managed almost entirely from the outside. Heatsinks, fans, cold plates and refrigerators are bulky exterior measures bolted onto a chip or package after the fact. They treat heat as a single averaged quantity to be rem…"
+    },
     {
       "title": "Sizhen Chip Demonstrates Multi-Qubit Photonic Quantum States on Silicon Chip",
       "link": "https://thequantuminsider.com/2026/08/10/sizhen-chip-multi-qubit-photonic-quantum-states-silicon-chip/",
@@ -18,7 +34,7 @@
       "summary": "Over the last decade, researchers have developed two-dimensional materials with fascinating quantum effects that could be harnessed for next-generation technologies."
     },
     {
-      "title": "Utah Launches Quantum Initiative",
+      "title": "Utah Launches Quantum Initiative With New Quantum Coordination Council",
       "link": "https://thequantuminsider.com/2026/08/10/utah-launches-quantum-initiative/",
       "source": "The Quantum Insider",
       "published": "Mon, 10 Aug 2026 17:15:54 +0000",
@@ -226,14 +242,6 @@
       "summary": "A tall glass of ice water isn't just a thirst quencher; it's also an everyday example of coexisting phases. Water can exist simultaneously in both liquid and solid phases. As it turns out, this phase duality can also exist in more exotic quantum materials, in ways that are far more complicated to te…"
     },
     {
-      "title": "TuringQ Joins China’s IPO Pipeline as Quantum Firms Push Toward Commercialization",
-      "link": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 07 Aug 2026 15:39:16 +0000",
-      "published_ts": 1786117156,
-      "summary": "Insider Brief Shanghai-based TuringQ has entered the IPO preparation process, becoming the latest Chinese quantum computing company to pursue a public listing as the country&#8217;s quantum sector shifts its focus from research toward commercialization. The company filed for IPO tutoring with the Sh…"
-    },
-    {
       "title": "New quantum microscopy trick quadruples microscope resolution",
       "link": "https://phys.org/news/2026-08-quantum-microscopy-quadruples-microscope-resolution.html",
       "source": "Phys.org — Quantum Physics",
@@ -320,14 +328,6 @@
       "published": "Tue, 04 Aug 2026 17:00:01 EDT",
       "published_ts": 1785877201,
       "summary": "Scientists from Rice University in the U.S. have developed a way to precisely tune the temperature inside a trapped-ion simulator. The breakthrough means they will be able to run quantum simulations at precise temperatures that better reflect real-world conditions."
-    },
-    {
-      "title": "New quantum encryption method prevents ciphertext from being cloned",
-      "link": "https://phys.org/news/2026-08-quantum-encryption-method-ciphertext-cloned.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 03 Aug 2026 17:20:04 EDT",
-      "published_ts": 1785792004,
-      "summary": "Digital security currently relies on difficult equations to protect data. For example, when you use a credit card online, the information is locked inside a math problem that would take a modern computer thousands of years to solve. However, if someone builds a powerful enough computer, that securit…"
     },
     {
       "title": "Connecting students with the future of microelectronics",
