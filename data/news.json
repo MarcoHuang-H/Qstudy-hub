@@ -1,13 +1,61 @@
 {
-  "generated_ts": 1786452801,
+  "generated_ts": 1786474559,
   "items": [
+    {
+      "title": "X-rays: Beyond the Nobel Prize limit",
+      "link": "https://phys.org/news/2026-08-rays-nobel-prize-limit.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 11 Aug 2026 13:40:07 EDT",
+      "published_ts": 1786470007,
+      "summary": "When certain atoms are irradiated with laser light, they can produce a very different kind of laser light: laser pulses with extremely high frequencies in the X-ray range. These laser pulses, which helped achieve record-breaking results at TU Wien in the 1990s, were the subject of the 2023 Nobel Pri…"
+    },
+    {
+      "title": "Honda Invests in Quemix to Advance Quantum Computing Applications for Materials Research",
+      "link": "https://thequantuminsider.com/2026/08/11/honda-invests-quemix-quantum-computing-materials-research/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 11 Aug 2026 16:29:01 +0000",
+      "published_ts": 1786465741,
+      "summary": "Insider Brief Press release &#8211; Quemix Inc. (Head Office: Chuo-ku, Tokyo; President and CEO: Yu-ichiro Matsushita; hereinafter &#8220;Quemix&#8220;), a company engaged in the research and development of quantum computer algorithms and software, is pleased to announce that it has received an inve…"
+    },
+    {
+      "title": "Cuba-Based Team Builds Open Platform Aimed at Making Quantum Computing Easier to Use",
+      "link": "https://thequantuminsider.com/2026/08/11/cuba-based-team-builds-open-platform-aimed-at-making-quantum-computing-easier-to-use/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 11 Aug 2026 14:50:56 +0000",
+      "published_ts": 1786459856,
+      "summary": "Insider Brief A Cuba-based team is developing an open software platform designed to make quantum computing easier to use across different hardware and software systems. Quantum Computing Open Lab, or QCOL, is an early-stage project that aims to create a common environment for accessing quantum compu…"
+    },
+    {
+      "title": "QuSecure Adds Post-Quantum Cryptography Platform to Carahsoft GSA Schedule",
+      "link": "https://thequantuminsider.com/2026/08/11/qusecure-post-quantum-cryptography-solutions-carahsoft-gsa-schedule/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 11 Aug 2026 14:39:03 +0000",
+      "published_ts": 1786459143,
+      "summary": "Insider Brief Press release &#8211; QuSecure™, Inc., a leader in post-quantum cryptography (PQC) and cryptographic agility, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced that QuSecure’s post-quantum cryptography (PQC) and cryptographic-agility solutio…"
+    },
+    {
+      "title": "Can Quantum Save Democracy? Quantum Voting Experiments Put Ballot Secrecy and Election Security to the Test",
+      "link": "https://thequantuminsider.com/2026/08/11/can-quantum-save-democracy-quantum-voting-experiments-put-ballot-secrecy-and-election-security-to-the-test/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 11 Aug 2026 13:13:09 +0000",
+      "published_ts": 1786453989,
+      "summary": "Insider Brief Teams of scientists are voting yes on moving proposals for quantum-secured elections out of the lab and into actual experiments to test whether the laws of physics can protect ballot secrecy while also helping voters verify that an election was conducted correctly. A series of recent s…"
+    },
+    {
+      "title": "World Quantum Cannes Festival to Bring Quantum Industry Leaders Together in November",
+      "link": "https://thequantuminsider.com/2026/08/11/world-quantum-cannes-festival-quantum-industry-leaders/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 11 Aug 2026 12:38:20 +0000",
+      "published_ts": 1786451900,
+      "summary": "Insider Brief Press release &#8211; A new event on the world stage, the&#160;World Quantum Cannes Festival&#160;on Nov. 17 and 18, aims to create a global hub of quantum industrialization in one of Europe’s most prestigious locations, the&#160;Palais des Festivals in Cannes, France.&#160;The&#160;in…"
+    },
     {
       "title": "Guest Post: US Quantum Resilience Clock Just Became Operational",
       "link": "https://thequantuminsider.com/2026/08/11/guest-post-us-quantum-resilience-clock-just-became-operational/",
       "source": "The Quantum Insider",
       "published": "Tue, 11 Aug 2026 11:17:00 +0000",
       "published_ts": 1786447020,
-      "summary": "Guest Post Yoon Auh, Founder of BOLTS Technologies Many people still think quantum computing is a research story that belongs in university labs or national research programs. They picture breakthrough machines arriving sometime in the distant future before anyone needs to react. Executive Order 144…"
+      "summary": "Guest Post by Yoon Auh, Founder of BOLTS Technologies. Many people still think quantum computing is a research story that belongs in university labs or national research programs. They picture breakthrough machines arriving sometime in the distant future before anyone needs to react. Executive Order…"
     },
     {
       "title": "OpenLight and Tower Semiconductor Enable Photonic IC Design on InP-on-Silicon Platform",
@@ -48,14 +96,6 @@
       "published": "Tue, 11 Aug 2026 07:30:00 +0000",
       "published_ts": 1786433400,
       "summary": "Insider Brief Press release &#8211; Morgan Stanley today announced the launch of the U.S. Innovation Infrastructure Initiative to finance and enable America’s next era of growth. In recognition of having recently celebrated America’s 250th anniversary, the Firm intends to facilitate approximately $1…"
-    },
-    {
-      "title": "Qunnect and Monarch Quantum Partner to Develop Deployable Quantum Networking Hardware",
-      "link": "https://thequantuminsider.com/2026/08/11/qunnect-monarch-quantum-deployable-quantum-networking-systems/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 11 Aug 2026 07:00:00 +0000",
-      "published_ts": 1786431600,
-      "summary": "Insider Brief Press release &#8211; Qunnect, a leader in quantum networking infrastructure, and Monarch Quantum, a quantum photonics company developing photonic engines for scalable quantum technologies, today announced a strategic partnership to accelerate the commercialization of deployable quantu…"
     },
     {
       "title": "Beyond the Quantum Promise: A Security Analysis of Classical Control in Quantum Key Distribution",
@@ -178,14 +218,6 @@
       "summary": "arXiv:2608.07833v1 Announce Type: new  Abstract: Bell nonlocality reveals correlations that cannot be explained by classical models and plays a central role in quantum information theory. In this work, we investigate classical models of Bell nonlocality under restrictions on shared randomness. For b…"
     },
     {
-      "title": "Quantum Computing Inc. Revenue Jumps as Acquisitions Expand Commercial Business",
-      "link": "https://thequantuminsider.com/2026/08/10/quantum-computing-inc-revenue-jumps-as-acquisitions-expand-commercial-business/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 10 Aug 2026 21:35:56 +0000",
-      "published_ts": 1786397756,
-      "summary": "Insider Brief Quantum Computing Inc. reported a sharp increase in second-quarter revenue as acquisitions and photonics sales expanded its business, while higher spending and continued operating losses showed the cost of building out the company&#8217;s broader quantum and semiconductor strategy. The…"
-    },
-    {
       "title": "Quantum heat circuits learn electronics' oldest trick: Sharing a power supply",
       "link": "https://phys.org/news/2026-08-quantum-circuits-electronics-oldest-power.html",
       "source": "Phys.org — Quantum Physics",
@@ -194,36 +226,12 @@
       "summary": "Every electronic and optoelectronic device generates heat, and today that heat is managed almost entirely from the outside. Heatsinks, fans, cold plates and refrigerators are bulky exterior measures bolted onto a chip or package after the fact. They treat heat as a single averaged quantity to be rem…"
     },
     {
-      "title": "Sizhen Chip Demonstrates Multi-Qubit Photonic Quantum States on Silicon Chip",
-      "link": "https://thequantuminsider.com/2026/08/10/sizhen-chip-multi-qubit-photonic-quantum-states-silicon-chip/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 10 Aug 2026 17:48:35 +0000",
-      "published_ts": 1786384115,
-      "summary": "Insider Brief Hefei Sizhen Chip Technology Co., Ltd. and the research group of Professor Ren Xifeng at the Key Laboratory of Quantum Information, University of Science and Technology of China have reported a breakthrough in photonic quantum computing chip technology, Jiwei reported. Working with a s…"
-    },
-    {
       "title": "Discovery of 'slow' electrons in 2D material could lead to new memory device",
       "link": "https://phys.org/news/2026-08-discovery-electrons-2d-material-memory.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 10 Aug 2026 13:20:05 EDT",
       "published_ts": 1786382405,
       "summary": "Over the last decade, researchers have developed two-dimensional materials with fascinating quantum effects that could be harnessed for next-generation technologies."
-    },
-    {
-      "title": "Utah Launches Quantum Initiative With New Quantum Coordination Council",
-      "link": "https://thequantuminsider.com/2026/08/10/utah-launches-quantum-initiative/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 10 Aug 2026 17:15:54 +0000",
-      "published_ts": 1786382154,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Gov. Spencer J. Cox today signed an executive order establishing the Utah Quantum Initiative, a statewide effort to accelerate research, commercialization, workforce development and advanced manufacturing in quantum technology. The executive order makes quantum te…"
-    },
-    {
-      "title": "The Quantum Kid: Peter Shor, Steven Chu & John Preskill Explain Quantum – So You Can Finally Understand It",
-      "link": "https://thequantuminsider.com/2026/08/10/the-quantum-kid-leading-scientists-explain-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 10 Aug 2026 16:27:48 +0000",
-      "published_ts": 1786379268,
-      "summary": "Insider brief Quantum science can be difficult to understand, that&#8217;s a fact. The terminology alone &#8211; qubits, superposition, quantum error correction, entanglement &#8211; can make the field feel inaccessible to anyone without a physics background. That is precisely what The Quantum Kid s…"
     },
     {
       "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
@@ -320,14 +328,6 @@
       "published": "Tue, 04 Aug 2026 18:00:01 EDT",
       "published_ts": 1785880801,
       "summary": "One of the most famous and intriguing results of quantum mechanics is the finding that fundamental particles, such as electrons, cannot be pinned down to one single location. Instead, a particle is described by its \"wavefunction,\" which allows researchers to derive probability distributions—a sort o…"
-    },
-    {
-      "title": "Quantum fluid reveals hidden states that can be switched with a magnetic field",
-      "link": "https://phys.org/news/2026-08-quantum-fluid-reveals-hidden-states.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 04 Aug 2026 17:40:02 EDT",
-      "published_ts": 1785879602,
-      "summary": "Bose-Einstein condensates (BECs) are often described as a \"fifth state of matter\": a quantum state in which many particles lose their individual identities and behave as one collective object. For more than 60 years, researchers have sought to create such condensates from excitons—electron-hole pair…"
     },
     {
       "title": "Connecting students with the future of microelectronics",
