@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1786431495,
+  "generated_ts": 1786452801,
   "items": [
+    {
+      "title": "Guest Post: US Quantum Resilience Clock Just Became Operational",
+      "link": "https://thequantuminsider.com/2026/08/11/guest-post-us-quantum-resilience-clock-just-became-operational/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 11 Aug 2026 11:17:00 +0000",
+      "published_ts": 1786447020,
+      "summary": "Guest Post Yoon Auh, Founder of BOLTS Technologies Many people still think quantum computing is a research story that belongs in university labs or national research programs. They picture breakthrough machines arriving sometime in the distant future before anyone needs to react. Executive Order 144…"
+    },
+    {
+      "title": "OpenLight and Tower Semiconductor Enable Photonic IC Design on InP-on-Silicon Platform",
+      "link": "https://thequantuminsider.com/2026/08/11/openlight-tower-semiconductor-photonic-ic-design-inp-silicon-platform/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 11 Aug 2026 11:06:56 +0000",
+      "published_ts": 1786446416,
+      "summary": "Insider Brief Press release &#8211; OpenLight, a leader in heterogeneous III‑V‑on‑silicon photonic integration and custom Photonic Application‑Specific Integrated Circuits (PASICs), and Tower Semiconductor (NASDAQ/TASE: TSEM), the leading foundry for high-value analog semiconductor solutions, today…"
+    },
+    {
+      "title": "PsiQuantum Appoints Atomico Founder Niklas Zennström to Board of Directors",
+      "link": "https://thequantuminsider.com/2026/08/11/psiquantum-appoints-atomico-founder-niklas-zennstrom-board-directors/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 11 Aug 2026 09:04:14 +0000",
+      "published_ts": 1786439054,
+      "summary": "Insider Brief Press release &#8211; PsiQuantum announced today that Niklas Zennström, Founder and CEO of Atomico, has joined the PsiQuantum Board of Directors. Zennström brings decades of experience building, scaling, and investing in category-defining technology companies. He co-founded Skype and s…"
+    },
+    {
+      "title": "New optical method reveals internal dynamics of elusive Wigner crystals",
+      "link": "https://phys.org/news/2026-08-optical-method-reveals-internal-dynamics.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 11 Aug 2026 05:00:03 EDT",
+      "published_ts": 1786438803,
+      "summary": "Researchers at the University of Basel and the Technical University of Munich have developed a new method to reveal the collective motion of electrons in one of the most elusive states of matter: the Wigner crystal. Using light, the physicists were able to uncover previously inaccessible properties…"
+    },
+    {
+      "title": "Scientists Reveal Hidden Structure of a Quantum Fluid",
+      "link": "https://thequantuminsider.com/2026/08/11/scientists-reveal-hidden-structure-of-a-quantum-fluid/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 11 Aug 2026 08:09:56 +0000",
+      "published_ts": 1786435796,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Bose-Einstein Condensates (BECs) are often described as a “fifth state of matter”: a quantum state in which many particles lose their individual identities and behave as one collective object. For more than 60 years, researchers have sought to create such condensa…"
+    },
+    {
+      "title": "Morgan Stanley Launches U.S. Innovation Initiative Supporting Quantum and Strategic Technologies",
+      "link": "https://thequantuminsider.com/2026/08/11/morgan-stanley-us-innovation-initiative-quantum-ai-technologies/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 11 Aug 2026 07:30:00 +0000",
+      "published_ts": 1786433400,
+      "summary": "Insider Brief Press release &#8211; Morgan Stanley today announced the launch of the U.S. Innovation Infrastructure Initiative to finance and enable America’s next era of growth. In recognition of having recently celebrated America’s 250th anniversary, the Firm intends to facilitate approximately $1…"
+    },
+    {
+      "title": "Qunnect and Monarch Quantum Partner to Develop Deployable Quantum Networking Hardware",
+      "link": "https://thequantuminsider.com/2026/08/11/qunnect-monarch-quantum-deployable-quantum-networking-systems/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 11 Aug 2026 07:00:00 +0000",
+      "published_ts": 1786431600,
+      "summary": "Insider Brief Press release &#8211; Qunnect, a leader in quantum networking infrastructure, and Monarch Quantum, a quantum photonics company developing photonic engines for scalable quantum technologies, today announced a strategic partnership to accelerate the commercialization of deployable quantu…"
+    },
     {
       "title": "Beyond the Quantum Promise: A Security Analysis of Classical Control in Quantum Key Distribution",
       "link": "https://arxiv.org/abs/2608.07626",
@@ -170,54 +226,6 @@
       "summary": "Insider brief Quantum science can be difficult to understand, that&#8217;s a fact. The terminology alone &#8211; qubits, superposition, quantum error correction, entanglement &#8211; can make the field feel inaccessible to anyone without a physics background. That is precisely what The Quantum Kid s…"
     },
     {
-      "title": "Pasqal Demonstrates Photonic Chip-Based Control for Neutral-Atom Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/08/10/pasqal-photonic-chip-control-neutral-atom-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 10 Aug 2026 14:50:11 +0000",
-      "published_ts": 1786373411,
-      "summary": "Insider Brief Press release &#8211; Pasqal, a global leader in neutral-atom quantum computing, today announced what it, to its knowledge, believes to be a world-first: the trapping of individual atoms using laser light generated by a photonic integrated circuit (PIC). Achieved with Aeponyx, Pasqal b…"
-    },
-    {
-      "title": "Infleqtion Selected by Eaton to Explore Quantum Computing for Power Grid Resilience",
-      "link": "https://thequantuminsider.com/2026/08/10/infleqtion-eaton-quantum-computing-power-grid-resilience/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 10 Aug 2026 14:38:28 +0000",
-      "published_ts": 1786372708,
-      "summary": "Insider Brief Press release &#8211; Infleqtion, a global leader in quantum computing and quantum sensing powered by neutral-atom technology, announced that Eaton, a global power management company, selected Infleqtion to support new research evaluating how quantum computing can improve the resilienc…"
-    },
-    {
-      "title": "Cloudflare Expands Quantum-Safe Government Security Platform With FedRAMP High Authorization",
-      "link": "https://thequantuminsider.com/2026/08/10/cloudflare-quantum-safe-government-security-fedramp-high/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 10 Aug 2026 14:29:29 +0000",
-      "published_ts": 1786372169,
-      "summary": "Insider Brief Press release &#8211; Cloudflare, Inc. (NYSE: NET), the leading connectivity cloud company, today announced that Cloudflare for Government achieved the Federal Risk and Authorization Management Program (FedRAMP®) High certification and GovRAMP™ Moderate authorization. These achievement…"
-    },
-    {
-      "title": "Dissipation Can Be a Tool For Entanglement",
-      "link": "https://thequantuminsider.com/2026/08/10/dissipation-can-be-a-tool-for-entanglement/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 10 Aug 2026 08:05:37 +0000",
-      "published_ts": 1786349137,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The inevitable leakage of energy and information from a quantum system into its surrounding environment is the enemy of quantum technology. Now, researchers have demonstrated that it can be exploited to generate entanglement — the “resource” that quantum technolog…"
-    },
-    {
-      "title": "U.S. Lawmakers Reportedly Pushing Higher Defense Spending on Quantum as China Race Intensifies",
-      "link": "https://thequantuminsider.com/2026/08/10/u-s-lawmakers-reportedly-pushing-higher-defense-spending-on-quantum-as-china-race-intensifies/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 10 Aug 2026 07:47:14 +0000",
-      "published_ts": 1786348034,
-      "summary": "Insider Brief U.S. lawmakers are moving to sharply increase military spending on quantum technology as Washington seeks to keep pace with China and turn years of scientific research into defense, intelligence and cybersecurity capabilities. The House is expected later this year to consider defense f…"
-    },
-    {
-      "title": "Matt Kinsella (Infleqtion): Why Neutral Atoms Power Sensors, Clocks, and Computers Alike",
-      "link": "https://thequantuminsider.com/2026/08/08/matt-kinsella-infleqtion-why-neutral-atoms-power-sensors-clocks-and-computers-alike/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 08 Aug 2026 19:00:00 +0000",
-      "published_ts": 1786215600,
-      "summary": "Yuval Boger interviews Matt Kinsella, CEO of Infleqtion. They discuss Infleqtion’s neutral-atom strategy, including its combination of quantum computing, sensing, and timing products, and why Matt believes that diversified approach strengthens both the business and the technology stack. Matt also sh…"
-    },
-    {
       "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
       "link": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
       "source": "Phys.org — Quantum Physics",
@@ -320,14 +328,6 @@
       "published": "Tue, 04 Aug 2026 17:40:02 EDT",
       "published_ts": 1785879602,
       "summary": "Bose-Einstein condensates (BECs) are often described as a \"fifth state of matter\": a quantum state in which many particles lose their individual identities and behave as one collective object. For more than 60 years, researchers have sought to create such condensates from excitons—electron-hole pair…"
-    },
-    {
-      "title": "A temperature dial for more realistic quantum simulations",
-      "link": "https://phys.org/news/2026-08-temperature-dial-realistic-quantum-simulations.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 04 Aug 2026 17:00:01 EDT",
-      "published_ts": 1785877201,
-      "summary": "Scientists from Rice University in the U.S. have developed a way to precisely tune the temperature inside a trapped-ion simulator. The breakthrough means they will be able to run quantum simulations at precise temperatures that better reflect real-world conditions."
     },
     {
       "title": "Connecting students with the future of microelectronics",
