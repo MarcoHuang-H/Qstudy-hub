@@ -1,6 +1,126 @@
 {
-  "generated_ts": 1786411112,
+  "generated_ts": 1786431495,
   "items": [
+    {
+      "title": "Beyond the Quantum Promise: A Security Analysis of Classical Control in Quantum Key Distribution",
+      "link": "https://arxiv.org/abs/2608.07626",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07626v1 Announce Type: new  Abstract: Quantum Key Distribution (QKD) protocols provide information-theoretic security by using quantum mechanical principles. Yet QKD is fundamentally a hybrid protocol: its security depends on the correct integration of the quantum phase with classical pos…"
+    },
+    {
+      "title": "Readout-Rank Laws for Isotropic Quantum Tangents",
+      "link": "https://arxiv.org/abs/2608.07628",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07628v1 Announce Type: new  Abstract: Deep parameterized quantum circuits may remain sensitive to a parameter change while the observables retained by a learning model barely respond. We study this separation for a fixed computational-basis measurement. For a pure-state tangent, we compar…"
+    },
+    {
+      "title": "Storage, Scrambling, and Loss of Information in the Quantum Reservoir Computing Paradigm",
+      "link": "https://arxiv.org/abs/2608.07677",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07677v1 Announce Type: new  Abstract: The suitability of a quantum reservoir computing (QRC) platform for a given time-series processing task is closely tied to the dynamical properties of its computational substrate and design. Information is injected into, processed by, and read from th…"
+    },
+    {
+      "title": "Emergent Problem-Graph Alignment in RL-Discovered Entanglement Topologies for QAOA",
+      "link": "https://arxiv.org/abs/2608.07686",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07686v1 Announce Type: new  Abstract: In the Quantum Approximate Optimization Algorithm (QAOA), the entanglement topology, where qubit pairs are connected by two-qubit gates, is conventionally set equal to the edge set of the problem graph. This coupling ties circuit design to explicit pr…"
+    },
+    {
+      "title": "State Preparation Protocols for Entangled States via Open Quantum Walks",
+      "link": "https://arxiv.org/abs/2608.07695",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07695v1 Announce Type: new  Abstract: Open quantum walks couple transitions on a graph to quantum operations on an internal degree of freedom. We use this structure to formulate protocols for quantum state preparation with nonunitary Kraus operators. We construct a ring-shaped OQW prepari…"
+    },
+    {
+      "title": "Preparing approximate $N$-fold cat states with the phase space instruction set",
+      "link": "https://arxiv.org/abs/2608.07696",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07696v1 Announce Type: new  Abstract: The phase space instruction set is a continuous-variable universal gate set involving single-qubit rotations and qubit-dependent displacements on a single boson. Using these gates, we prove that a circuit depth $\\mathrm{\\Omega}(\\varphi(N))$ is necessa…"
+    },
+    {
+      "title": "Quantum Relaxometry Under Continuous Wave Excitation",
+      "link": "https://arxiv.org/abs/2608.07697",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07697v1 Announce Type: new  Abstract: Quantum relaxometry is one of the most successful applications of nitrogen-vacancy (NV) centers in diamond and, more broadly, solid-state spin qubits, enabling ultrasensitive detection of magnetic noise and paramagnetic species via measurements of the…"
+    },
+    {
+      "title": "The Case for the Everett Multiverse",
+      "link": "https://arxiv.org/abs/2608.07706",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07706v1 Announce Type: new  Abstract: I give a non-technical presentation of the argument that quantum mechanics, in the form in which it is currently used, needs to be understood in many-worlds (Everettian) terms; the alternatives that have been discussed are at present not able to repro…"
+    },
+    {
+      "title": "Implicit Differentiation for Measurement-Efficient Bilevel Quantum-Classical Optimization",
+      "link": "https://arxiv.org/abs/2608.07717",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07717v1 Announce Type: new  Abstract: Quantum optimization has shown promising results for quadratic unconstrained binary optimization (QUBO) problems. Real-world applications, however, often involve polynomial coefficients that depend on tunable external factors - such as demand forecast…"
+    },
+    {
+      "title": "Randomized product formulas beyond optimal deterministic scaling",
+      "link": "https://arxiv.org/abs/2608.07720",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07720v1 Announce Type: new  Abstract: Product formulas, also known as Trotter formulas, are among the most widely used and practical methods for simulating quantum systems on quantum computers. Here we introduce two new classes of randomized product formulas for simulating Hamiltonians wi…"
+    },
+    {
+      "title": "Emergent Non-Markovian Nonlinear Qubit From Collective Spin Interactions",
+      "link": "https://arxiv.org/abs/2608.07723",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07723v1 Announce Type: new  Abstract: Open-system descriptions are typically introduced by coupling a quantum system to an external environment. Here we show that a closed interacting many-body system can itself generate a controlled non-Markovian quantum channel acting on a reduced nonli…"
+    },
+    {
+      "title": "A Quantum-Enhanced Feedback Oscillator",
+      "link": "https://arxiv.org/abs/2608.07753",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07753v1 Announce Type: new  Abstract: Feedback oscillators, such as lasers and masers, serve as time references in modern computing, communication, and measurement. Quantum fluctuations ultimately limit their phase stability and ability to keep time precisely; in the absence of quantum en…"
+    },
+    {
+      "title": "Multistage Rewinding Decoder for QLDPC Codes",
+      "link": "https://arxiv.org/abs/2608.07783",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07783v1 Announce Type: new  Abstract: In this paper, we propose a multistage decoding framework that leverages internal information produced by an underlying message-passing decoder. The proposed method targets the failure dynamics caused by both classical trapping sets and degenerate err…"
+    },
+    {
+      "title": "A Universal Entanglement Witness Generator",
+      "link": "https://arxiv.org/abs/2608.07806",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07806v1 Announce Type: new  Abstract: Entanglement witnesses are essential for certifying entanglement, yet constructing ones that are both noise-robust and economical in measurement settings remains challenging - particularly beyond qubits and for non-stabilizer (\"magic\") states. We pres…"
+    },
+    {
+      "title": "Playing Nonlocal Games with Little to No Shared Randomness",
+      "link": "https://arxiv.org/abs/2608.07833",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786420800,
+      "summary": "arXiv:2608.07833v1 Announce Type: new  Abstract: Bell nonlocality reveals correlations that cannot be explained by classical models and plays a central role in quantum information theory. In this work, we investigate classical models of Bell nonlocality under restrictions on shared randomness. For b…"
+    },
     {
       "title": "Quantum Computing Inc. Revenue Jumps as Acquisitions Expand Commercial Business",
       "link": "https://thequantuminsider.com/2026/08/10/quantum-computing-inc-revenue-jumps-as-acquisitions-expand-commercial-business/",
@@ -88,126 +208,6 @@
       "published": "Mon, 10 Aug 2026 07:47:14 +0000",
       "published_ts": 1786348034,
       "summary": "Insider Brief U.S. lawmakers are moving to sharply increase military spending on quantum technology as Washington seeks to keep pace with China and turn years of scientific research into defense, intelligence and cybersecurity capabilities. The House is expected later this year to consider defense f…"
-    },
-    {
-      "title": "Quantum Noise Mitigation with Adaptive Zero-Noise Extrapolation: A Contextual Multi-Armed Bandits Approach",
-      "link": "https://arxiv.org/abs/2608.06426",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06426v1 Announce Type: new  Abstract: Variational quantum circuits (VQCs) are central to near-term quantum computing, yet their practical deployment is severely hindered by noise. While existing error mitigation methods, such as zero-noise extrapolation (ZNE), typically assume static nois…"
-    },
-    {
-      "title": "KPZ Superdiffusion of Local Correlators in Diffusive Random Quantum Circuits",
-      "link": "https://arxiv.org/abs/2608.06459",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06459v1 Announce Type: new  Abstract: We study the single-particle Green's function $G(x,t)=\\langle \\sigma^-_x(0)\\sigma^+_0(t)\\rangle$ in one-dimensional particle-number-conserving random unitary circuits coupled to an external bath. For fixed spacetime disorder, we argue that $G(x,t)$ is…"
-    },
-    {
-      "title": "Improving quantum-battery charging via unidirectional quantum jumps to metastable state",
-      "link": "https://arxiv.org/abs/2608.06479",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06479v1 Announce Type: new  Abstract: In the process of charging a quantum battery, quantum jumps play a detrimental role because they induce transitions from higher to lower energy levels, leading to energy dissipation. This be- havior directly opposes the fundamental objective of the ch…"
-    },
-    {
-      "title": "Detecting quantumness with generalized Loschmidt echoes",
-      "link": "https://arxiv.org/abs/2608.06562",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06562v1 Announce Type: new  Abstract: Loschmidt echoes are a well-established method to characterize dynamical properties such as quantum chaos and sensitivity to perturbations. Here we present a straightforward generalization that identifies non-classical dynamical behavior. The generali…"
-    },
-    {
-      "title": "Generalized Loschmidt echoes associated with operational quantum non-Markovianity",
-      "link": "https://arxiv.org/abs/2608.06567",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06567v1 Announce Type: new  Abstract: Non-Markovianity can be characterized by performing a series of successive measurements and analyzing departures of the corresponding outcome statistics from a Markovian probabilistic structure. Considering a system coupled with its environment via a…"
-    },
-    {
-      "title": "Exact quantum circuits for lattice Boltzmann realization of the Dirac equation",
-      "link": "https://arxiv.org/abs/2608.06570",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06570v1 Announce Type: new  Abstract: The quantum lattice Boltzmann (QLB) scheme of Succi and Dellar advances a four-component Dirac spinor on a lattice by a fixed sequence of local, exactly norm-preserving operations: a basis rotation, a collision, a streaming shift, and the inverse rota…"
-    },
-    {
-      "title": "Matrix Product State Theory of Few-Photon Squeezed Pulses Interacting with a Two-Level Emitter in a Waveguide",
-      "link": "https://arxiv.org/abs/2608.06590",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06590v1 Announce Type: new  Abstract: Squeezed light states have a special place in quantum optics with potentially profound applications in emerging quantum technologies. We present a numerically-exact matrix product states (MPS) approach to model quantum pulses of squeezed light, at the…"
-    },
-    {
-      "title": "Approaching the Fundamental Limit of Single-Shot Qubit Frequency Tracking with an Adiabatic Tangentially-Modulated Pulse",
-      "link": "https://arxiv.org/abs/2608.06636",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06636v1 Announce Type: new  Abstract: Understanding and mitigating noise in two level quantum systems is essential for achieving high fidelity qubit control. Conventional frequency tracking techniques, such as Ramsey interferometry, are fundamentally limited by trade offs between sensitiv…"
-    },
-    {
-      "title": "High-Performance Quantum Transduction with Correlated Noise",
-      "link": "https://arxiv.org/abs/2608.06683",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06683v1 Announce Type: new  Abstract: Quantum transduction, which coherently converts quantum states between microwave and optical frequency domains, is a key technology for hybrid quantum architectures. Its performance, however, is fundamentally limited by thermal noise. Direct quantum t…"
-    },
-    {
-      "title": "Shor's algorithm requires Fanout",
-      "link": "https://arxiv.org/abs/2608.06703",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06703v1 Announce Type: new  Abstract: Shor's algorithm is a canonical quantum supremacy target whose core operation relies on the Quantum Fourier Transform (QFT). We resolve an open question of Fang, Fenner, Green, Homer and Zhang from 2006 by showing that approximating QFT in constant de…"
-    },
-    {
-      "title": "Conditions for Quantum Advantage in AC Power Flow",
-      "link": "https://arxiv.org/abs/2608.06711",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06711v1 Announce Type: new  Abstract: This paper aims to contextualize the requirements for Quantum Computing (QC) algorithms to achieve a quantum advantage in solving the alternating current power flow (ACPF) problem, with a focus on runtime complexity. First, we establish a benchmark fo…"
-    },
-    {
-      "title": "Sub-Vacuum Jamming for Secure Communication",
-      "link": "https://arxiv.org/abs/2608.06720",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06720v1 Announce Type: new  Abstract: Artificial-noise jamming improves physical-layer security by degrading an eavesdropper's channel, but the injected noise also interferes with the legitimate receiver. We introduce a correlated-jamming protocol based on classical and quantum correlatio…"
-    },
-    {
-      "title": "Robust device-independent characterization of sharpness and incompatibility of unsharp instruments",
-      "link": "https://arxiv.org/abs/2608.06726",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06726v1 Announce Type: new  Abstract: Unsharp measurements are key resources for tasks that balance information gain and disturbance, but certifying them without device assumptions remains a challenge. We propose a fully device-independent protocol for characterizing unsharp instruments,…"
-    },
-    {
-      "title": "Quantum-State Projectors on Grassmannian: Geometry, Holonomy, and Topology",
-      "link": "https://arxiv.org/abs/2608.06777",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06777v1 Announce Type: new  Abstract: An isolated group of $k$ bands in an $N$-level quantum system defines a rank-$k$ spectral projector and hence a map into the complex Grassmannian $\\mathrm{Gr}(k,N)$. For a smooth gapped Hamiltonian, this projector is globally smooth and periodic even…"
-    },
-    {
-      "title": "Entanglement-enhanced optical magnetometry beyond the standard quantum limit",
-      "link": "https://arxiv.org/abs/2608.06815",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786334400,
-      "summary": "arXiv:2608.06815v1 Announce Type: new  Abstract: Optical atomic magnetometry is a powerful tool for continuous sensing applications, yet, in the absence of quantum correlations, its sensitivity is limited by the standard quantum limit (SQL) stemming from a trade-off between optical probe imprecision…"
     },
     {
       "title": "Matt Kinsella (Infleqtion): Why Neutral Atoms Power Sensors, Clocks, and Computers Alike",
