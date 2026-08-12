@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1786539477,
+  "generated_ts": 1786560946,
   "items": [
+    {
+      "title": "Spontaneous magnons synchronize with external signals at room temperature",
+      "link": "https://phys.org/news/2026-08-spontaneous-magnons-synchronize-external-room.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 12 Aug 2026 12:00:05 EDT",
+      "published_ts": 1786550405,
+      "summary": "Signals ride on waves of one kind or another: light, sound, radio. But new carriers are needed to relay information in next-generation devices. Disturbances or waves in magnetic materials called magnons could be an efficient option—if scientists can tame them."
+    },
+    {
+      "title": "Yonsei to Install IBM Nighthawk Quantum Processor for Research and Industry Applications",
+      "link": "https://thequantuminsider.com/2026/08/12/yonsei-quantum-initiative-ibm-nighthawk-processor-installation/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 12 Aug 2026 14:21:03 +0000",
+      "published_ts": 1786544463,
+      "summary": "Insider Brief The Yonsei Quantum Initiative will replace its quantum processing unit with IBM&#8217;s next-generation Nighthawk processor in November, the Seoul Economic Daily reported. IBM Miami is currently the only site operating a Nighthawk-based quantum computer, making Yonsei expected to becom…"
+    },
+    {
+      "title": "ORIENTOM and softwareQ Partner on Quantum Computing Applications for Finance",
+      "link": "https://thequantuminsider.com/2026/08/12/orientom-softwareq-quantum-computing-finance-applications/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 12 Aug 2026 14:07:29 +0000",
+      "published_ts": 1786543649,
+      "summary": "Insider Brief Press release &#8211; ORIENTOM Co., Ltd. and softwareQ Inc. have signed a Memorandum of Understanding (MoU) to explore joint research, development and innovation opportunities in quantum and quantum-inspired computing for the financial services, banking, and insurance sectors. Objectiv…"
+    },
+    {
+      "title": "Uncovering the Hidden Disorder in Silicon Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/08/12/uncovering-the-hidden-disorder-in-silicon-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 12 Aug 2026 13:42:41 +0000",
+      "published_ts": 1786542161,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qubits are the quantum counterpart to the bits used in conventional computers. Bits have a “0” and “1” state that is defined by electric charge. In a type of qubit called a silicon spin qubit, the “0” and “1” states are defined by electron spin. This spin can poin…"
+    },
+    {
+      "title": "Qunova Appoints CFO and Two Business Development Executives",
+      "link": "https://thequantuminsider.com/2026/08/12/qunova-computing-appoints-cfo-business-development-executives/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 12 Aug 2026 13:27:12 +0000",
+      "published_ts": 1786541232,
+      "summary": "Insider Brief Press release &#8211; Qunova Computing, a maker of quantum  software applications designed for the chemical, pharmaceutical and materials science  industries, today announces the appointments of Jake Hwang as Chief Financial Officer  (CFO) and Board Member, as well as Evan Kang and Woo…"
+    },
+    {
+      "title": "Quantum advantage reassessed: More realistic benchmarks for quantum algorithms",
+      "link": "https://phys.org/news/2026-08-quantum-advantage-reassessed-realistic-benchmarks.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 12 Aug 2026 09:20:08 EDT",
+      "published_ts": 1786540808,
+      "summary": "Quantum advantage refers to the point at which a quantum computer solves a clearly defined task faster or more efficiently than any classical computer—or makes it solvable in the first place. For many practical applications, this has not yet been demonstrated. Research therefore relies heavily on th…"
+    },
+    {
+      "title": "Sui Co-Founder Works on $10 Quantum-Safe Hardware Wallet Cards",
+      "link": "https://thequantuminsider.com/2026/08/12/sui-co-founder-quantum-safe-wallet-cards-10-target-price/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 12 Aug 2026 13:12:39 +0000",
+      "published_ts": 1786540359,
+      "summary": "Insider Brief Kostas &#8220;Kryptos&#8221; Chalkias, co-founder and chief cryptographer at Mysten Labs, the company behind the Sui blockchain, has disclosed that he has been personally working on affordable quantum two-factor authentication cards for Sui users. In a post on X, Chalkias said he lease…"
+    },
+    {
+      "title": "Alice & Bob Joins European Quantum Error Correction Doctoral Network",
+      "link": "https://thequantuminsider.com/2026/08/12/alice-bob-partners-europe-first-doctoral-network-quantum-error-correction/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 12 Aug 2026 12:10:48 +0000",
+      "published_ts": 1786536648,
+      "summary": "Insider Brief Press release &#8211; Alice &#38; Bob, a leader in fault-tolerant quantum computing, is contributing its expertise in cat-qubit error correction to QuBriC, Europe&#8217;s first Marie Skłodowska-Curie Actions (MSCA) Doctoral Network dedicated to quantum error correction (QEC). QuBriC br…"
+    },
     {
       "title": "Long-sought Zhang-Rice singlet visualized directly in cuprate superconductor",
       "link": "https://phys.org/news/2026-08-sought-zhang-rice-singlet-visualized.html",
@@ -40,14 +104,6 @@
       "published": "Wed, 12 Aug 2026 08:14:59 +0000",
       "published_ts": 1786522499,
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum (NASDAQ: QNT), a leading quantum computing company, and Oracle today announced a multi-year strategic partnership to bring quantum computing to Oracle Cloud Infrastructure (OCI). Under the partnership, OCI customers will be able to directly access Quant…"
-    },
-    {
-      "title": "Quantinuum Revenue Jumps 279% in First Earnings Report Since IPO",
-      "link": "https://thequantuminsider.com/2026/08/12/quantinuum-revenue-jumps-279-in-first-earnings-report-since-ipo/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 12 Aug 2026 08:01:39 +0000",
-      "published_ts": 1786521699,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum reported sharply higher revenue in its first quarterly earnings report as a public company, while a $1.7 billion initial public offering gives the quantum computing company a substantial cash reserve to pursue an ambitious hardware roadmap. The trapped-…"
     },
     {
       "title": "On quantum mechanics self-consistency: EPR incompleteness claims require no extraneous concepts beyond the theory's plain formalism for refutation",
@@ -186,46 +242,6 @@
       "summary": "When certain atoms are irradiated with laser light, they can produce a very different kind of laser light: laser pulses with extremely high frequencies in the X-ray range. These laser pulses, which helped achieve record-breaking results at TU Wien in the 1990s, were the subject of the 2023 Nobel Pri…"
     },
     {
-      "title": "Honda Invests in Quemix to Advance Quantum Computing Applications for Materials Research",
-      "link": "https://thequantuminsider.com/2026/08/11/honda-invests-quemix-quantum-computing-materials-research/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 11 Aug 2026 16:29:01 +0000",
-      "published_ts": 1786465741,
-      "summary": "Insider Brief Press release &#8211; Quemix Inc. (Head Office: Chuo-ku, Tokyo; President and CEO: Yu-ichiro Matsushita; hereinafter &#8220;Quemix&#8220;), a company engaged in the research and development of quantum computer algorithms and software, is pleased to announce that it has received an inve…"
-    },
-    {
-      "title": "Cuba-Based Team Builds Open Platform Aimed at Making Quantum Computing Easier to Use",
-      "link": "https://thequantuminsider.com/2026/08/11/cuba-based-team-builds-open-platform-aimed-at-making-quantum-computing-easier-to-use/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 11 Aug 2026 14:50:56 +0000",
-      "published_ts": 1786459856,
-      "summary": "Insider Brief A Cuba-based team is developing an open software platform designed to make quantum computing easier to use across different hardware and software systems. Quantum Computing Open Lab, or QCOL, is an early-stage project that aims to create a common environment for accessing quantum compu…"
-    },
-    {
-      "title": "QuSecure Adds Post-Quantum Cryptography Platform to Carahsoft GSA Schedule",
-      "link": "https://thequantuminsider.com/2026/08/11/qusecure-post-quantum-cryptography-solutions-carahsoft-gsa-schedule/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 11 Aug 2026 14:39:03 +0000",
-      "published_ts": 1786459143,
-      "summary": "Insider Brief Press release &#8211; QuSecure™, Inc., a leader in post-quantum cryptography (PQC) and cryptographic agility, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced that QuSecure’s post-quantum cryptography (PQC) and cryptographic-agility solutio…"
-    },
-    {
-      "title": "Can Quantum Save Democracy? Quantum Voting Experiments Put Ballot Secrecy and Election Security to the Test",
-      "link": "https://thequantuminsider.com/2026/08/11/can-quantum-save-democracy-quantum-voting-experiments-put-ballot-secrecy-and-election-security-to-the-test/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 11 Aug 2026 13:13:09 +0000",
-      "published_ts": 1786453989,
-      "summary": "Insider Brief Teams of scientists are voting yes on moving proposals for quantum-secured elections out of the lab and into actual experiments to test whether the laws of physics can protect ballot secrecy while also helping voters verify that an election was conducted correctly. A series of recent s…"
-    },
-    {
-      "title": "World Quantum Cannes Festival to Bring Quantum Industry Leaders Together in November",
-      "link": "https://thequantuminsider.com/2026/08/11/world-quantum-cannes-festival-quantum-industry-leaders/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 11 Aug 2026 12:38:20 +0000",
-      "published_ts": 1786451900,
-      "summary": "Insider Brief Press release &#8211; A new event on the world stage, the&#160;World Quantum Cannes Festival&#160;on Nov. 17 and 18, aims to create a global hub of quantum industrialization in one of Europe’s most prestigious locations, the&#160;Palais des Festivals in Cannes, France.&#160;The&#160;in…"
-    },
-    {
       "title": "New optical method reveals internal dynamics of elusive Wigner crystals",
       "link": "https://phys.org/news/2026-08-optical-method-reveals-internal-dynamics.html",
       "source": "Phys.org — Quantum Physics",
@@ -304,22 +320,6 @@
       "published": "Thu, 06 Aug 2026 10:00:04 EDT",
       "published_ts": 1786024804,
       "summary": "Today's quantum technologies rely on energy-intensive lasers, raising concerns that scaling them up could further increase energy demands. In new work, researchers have demonstrated that quantum entanglement between photons can be generated directly from sunlight, offering a potential alternative."
-    },
-    {
-      "title": "Miniaturized laser technology paves the way for fundamental physics experiments in space",
-      "link": "https://phys.org/news/2026-08-miniaturized-laser-technology-paves-fundamental.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 05 Aug 2026 19:40:04 EDT",
-      "published_ts": 1785973204,
-      "summary": "An international team of researchers has succeeded in producing atomic quantum gas mixtures with an unprecedented particle flux. In the journal Nature Communications, the scientists report on experiments conducted with the MAIUS-B apparatus, in which Bose–Einstein condensates (BECs) consisting of tw…"
-    },
-    {
-      "title": "Air-stable, ultrathin superconductors developed for more scalable quantum devices",
-      "link": "https://phys.org/news/2026-08-air-stable-ultrathin-superconductors-scalable.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 05 Aug 2026 19:00:01 EDT",
-      "published_ts": 1785970801,
-      "summary": "Super-thin superconducting materials, which are only one or a few atoms thick, have unique properties scientists can leverage to produce more compact, scalable, and efficient quantum devices. But these fragile materials degrade so rapidly in air that they are difficult to study or manufacture."
     },
     {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
