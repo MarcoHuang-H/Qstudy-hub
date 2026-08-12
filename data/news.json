@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1786474559,
+  "generated_ts": 1786497998,
   "items": [
+    {
+      "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
+      "link": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 11 Aug 2026 17:40:04 EDT",
+      "published_ts": 1786484404,
+      "summary": "A University of Kansas physicist played a leading role in a CERN study showing that two rival explanations for how gluons behave inside atomic nuclei can now be experimentally distinguished."
+    },
     {
       "title": "X-rays: Beyond the Nobel Prize limit",
       "link": "https://phys.org/news/2026-08-rays-nobel-prize-limit.html",
@@ -320,14 +328,6 @@
       "published": "Wed, 05 Aug 2026 11:00:00 -0400",
       "published_ts": 1785942000,
       "summary": "A new technique produces wafer-scale samples, overcoming a major roadblock to using these materials in quantum technologies."
-    },
-    {
-      "title": "Molecular orbitals imaged in 3D, opening path to femtosecond videos",
-      "link": "https://phys.org/news/2026-08-molecular-orbitals-imaged-3d-path.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 04 Aug 2026 18:00:01 EDT",
-      "published_ts": 1785880801,
-      "summary": "One of the most famous and intriguing results of quantum mechanics is the finding that fundamental particles, such as electrons, cannot be pinned down to one single location. Instead, a particle is described by its \"wavefunction,\" which allows researchers to derive probability distributions—a sort o…"
     },
     {
       "title": "Connecting students with the future of microelectronics",
