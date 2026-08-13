@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1786605565,
+  "generated_ts": 1786625915,
   "items": [
+    {
+      "title": "New York Opens $60 Million RFP for Quantum Technology Hubs",
+      "link": "https://thequantuminsider.com/2026/08/13/new-york-opens-60-million-rfp-for-quantum-technology-hubs/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 13 Aug 2026 11:16:00 +0000",
+      "published_ts": 1786619760,
+      "summary": "Insider Brief New York is seeking proposals to establish up to four quantum technology commercialization hubs across the state, offering as much as $60 million to turn research into startups, products and industry applications. Empire State Development issued the Request for Proposals as part of the…"
+    },
+    {
+      "title": "SDT Partners With Open Quantum Design to Build Open-Source Quantum Hardware",
+      "link": "https://thequantuminsider.com/2026/08/13/sdt-joins-open-quantum-design-manufacturing-partner-open-source-quantum-hardware/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 13 Aug 2026 10:18:16 +0000",
+      "published_ts": 1786616296,
+      "summary": "Insider Brief South Korean quantum technology company SDT has joined Open Quantum Design, a Canadian non-profit organization, as a member and will serve as its official manufacturing partner, the Seoul Economic Daily reported. SDT announced the membership on August 13, with the agreement signed at Q…"
+    },
+    {
+      "title": "Guest Post: Why Quantum Readiness Is Becoming a Venture Capital Question",
+      "link": "https://thequantuminsider.com/2026/08/13/why-quantum-security-is-becoming-a-venture-capital-opportunity/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 13 Aug 2026 09:58:31 +0000",
+      "published_ts": 1786615111,
+      "summary": "Guest Post By Utkarsh Ahuja, Managing Partner and founder Moon Pursuit Capital KPMG&#8217;s latest Venture Pulse gives you a pretty good sense of where venture capital&#8217;s attention is right now. Global VC investment reached $227.4 billion in the second quarter of 2026, making it the second-high…"
+    },
+    {
+      "title": "Infleqtion Reports Q2 Revenue Growth and Raises 2026 Outlook",
+      "link": "https://thequantuminsider.com/2026/08/13/infleqtion-q2-revenue-growth-raises-2026-outlook/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 13 Aug 2026 09:39:24 +0000",
+      "published_ts": 1786613964,
+      "summary": "Insider Brief Press release &#8211; Infleqtion, Inc. (NYSE: INFQ) (&#8220;Infleqtion&#8221; or the &#8220;Company&#8221;), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today reported record second-quarter 2026 revenue of $12.6 million, up 116% year ove…"
+    },
+    {
+      "title": "Guest Post — Quantum Strategy Demands a New Operating Model: From Uncertainty to Readiness.",
+      "link": "https://thequantuminsider.com/2026/08/13/guest-post-quantum-strategy-demands-a-new-operating-model-from-uncertainty-to-readiness/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 13 Aug 2026 09:05:00 +0000",
+      "published_ts": 1786611900,
+      "summary": "Guest Post by Dr. Richard Padbury, Dr. Aaron Kemp, Dr. Cian Reeves. In boardrooms around the world, a familiar question keeps coming up: When will quantum advantage arrive? It is a fair question. Increasingly, though, it may be the wrong one. That is not because quantum advantage has yet to be obser…"
+    },
+    {
+      "title": "Kartik Srinivasan Appointed Editor-in-Chief of Optica Quantum",
+      "link": "https://thequantuminsider.com/2026/08/13/kartik-srinivasan-editor-in-chief-optica-quantum/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 13 Aug 2026 07:00:00 +0000",
+      "published_ts": 1786604400,
+      "summary": "Insider Brief Press release &#8211; Optica Publishing Group is pleased to announce that Kartik Srinivasan has been appointed as the new editor-in-chief of Optica Quantum. Srinivasan is a National Institute of Standards and Technology (NIST) Fellow and Fellow of the NIST/University of Maryland Joint…"
+    },
     {
       "title": "Uniaxial strain reveals new way to tune electron flow in altermagnet material",
       "link": "https://phys.org/news/2026-08-uniaxial-strain-reveals-tune-electron.html",
@@ -170,14 +218,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Qubits are the quantum counterpart to the bits used in conventional computers. Bits have a “0” and “1” state that is defined by electric charge. In a type of qubit called a silicon spin qubit, the “0” and “1” states are defined by electron spin. This spin can poin…"
     },
     {
-      "title": "Qunova Appoints CFO and Two Business Development Executives",
-      "link": "https://thequantuminsider.com/2026/08/12/qunova-computing-appoints-cfo-business-development-executives/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 12 Aug 2026 13:27:12 +0000",
-      "published_ts": 1786541232,
-      "summary": "Insider Brief Press release &#8211; Qunova Computing, a maker of quantum  software applications designed for the chemical, pharmaceutical and materials science  industries, today announces the appointments of Jake Hwang as Chief Financial Officer  (CFO) and Board Member, as well as Evan Kang and Woo…"
-    },
-    {
       "title": "Quantum advantage reassessed: More realistic benchmarks for quantum algorithms",
       "link": "https://phys.org/news/2026-08-quantum-advantage-reassessed-realistic-benchmarks.html",
       "source": "Phys.org — Quantum Physics",
@@ -186,52 +226,12 @@
       "summary": "Quantum advantage refers to the point at which a quantum computer solves a clearly defined task faster or more efficiently than any classical computer—or makes it solvable in the first place. For many practical applications, this has not yet been demonstrated. Research therefore relies heavily on th…"
     },
     {
-      "title": "Sui Co-Founder Works on $10 Quantum-Safe Hardware Wallet Cards",
-      "link": "https://thequantuminsider.com/2026/08/12/sui-co-founder-quantum-safe-wallet-cards-10-target-price/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 12 Aug 2026 13:12:39 +0000",
-      "published_ts": 1786540359,
-      "summary": "Insider Brief Kostas &#8220;Kryptos&#8221; Chalkias, co-founder and chief cryptographer at Mysten Labs, the company behind the Sui blockchain, has disclosed that he has been personally working on affordable quantum two-factor authentication cards for Sui users. In a post on X, Chalkias said he lease…"
-    },
-    {
-      "title": "Alice & Bob Joins European Quantum Error Correction Doctoral Network",
-      "link": "https://thequantuminsider.com/2026/08/12/alice-bob-partners-europe-first-doctoral-network-quantum-error-correction/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 12 Aug 2026 12:10:48 +0000",
-      "published_ts": 1786536648,
-      "summary": "Insider Brief Press release &#8211; Alice &#38; Bob, a leader in fault-tolerant quantum computing, is contributing its expertise in cat-qubit error correction to QuBriC, Europe&#8217;s first Marie Skłodowska-Curie Actions (MSCA) Doctoral Network dedicated to quantum error correction (QEC). QuBriC br…"
-    },
-    {
       "title": "Long-sought Zhang-Rice singlet visualized directly in cuprate superconductor",
       "link": "https://phys.org/news/2026-08-sought-zhang-rice-singlet-visualized.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 12 Aug 2026 08:00:01 EDT",
       "published_ts": 1786536001,
       "summary": "Superconductors are materials that conduct electricity with zero electrical resistance below specific temperatures. Most of these materials become superconducting at very low temperatures, but some also exhibit superconductivity at higher temperatures."
-    },
-    {
-      "title": "Aquark Augments Networked Radars With Quantum-Based Timing in Trial",
-      "link": "https://thequantuminsider.com/2026/08/12/aquark-augments-networked-radars-with-quantum-based-timing-in-trial/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 12 Aug 2026 11:47:18 +0000",
-      "published_ts": 1786535238,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Aquark Technologies, alongside the Royal Navy, Saab UK, Qinetiq and DSTL, successfully completed a UK trial, working with a Royal Navy ship’s radar system to give accurate navigation information. The trial demonstrates the benefits of integrating quantum-based tim…"
-    },
-    {
-      "title": "Zapata Quantum and QuEra Partner on Quantum Application Development",
-      "link": "https://thequantuminsider.com/2026/08/12/zapata-quantum-quera-quantum-application-development/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 12 Aug 2026 11:44:03 +0000",
-      "published_ts": 1786535043,
-      "summary": "Insider Brief Press release &#8211; Zapata Quantum (OTCQB: ZPTA) (“Zapata,” “Zapata Quantum” or the “Company”), a leader in quantum computing algorithm and application development, today announced a partnership with QuEra, a leader in neutral-atom quantum computing, aimed at closing the quantum appl…"
-    },
-    {
-      "title": "Srirama Engineering College Launches Quantum Computing Initiative with BLOQ Quantum",
-      "link": "https://thequantuminsider.com/2026/08/12/bloq-quantum-srirama-engineering-college-tirupati-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 12 Aug 2026 10:49:50 +0000",
-      "published_ts": 1786531790,
-      "summary": "Insider Brief Press release &#8211; Srirama Engineering College has become the first college in Tirupati to initiate a quantum computing initiative, marking a significant milestone in the region’s journey towards emerging quantum technologies. The institution has signed a Memorandum of Understanding…"
     },
     {
       "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
