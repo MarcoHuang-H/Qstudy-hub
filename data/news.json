@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1786625915,
+  "generated_ts": 1786647394,
   "items": [
+    {
+      "title": "DARPA Funds Qunnect to Improve Quantum Network Reliability",
+      "link": "https://thequantuminsider.com/2026/08/13/darpa-taps-qunnect-strengthen-reliability-resilience-quantum-networks/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 13 Aug 2026 14:34:10 +0000",
+      "published_ts": 1786631650,
+      "summary": "Insider Brief Press release &#8211; For decades, the distribution of quantum information has been confined to laboratory demonstrations because of the fragile nature of maintaining the fidelity of quantum entanglement across today&#8217;s deployed telecommunications fiber. However, today, Qunnect is…"
+    },
+    {
+      "title": "Xanadu and University of Alberta Explore Quantum Computing for Cancer Drug Discovery",
+      "link": "https://thequantuminsider.com/2026/08/13/xanadu-university-alberta-partner-accelerate-pharmaceutical-discoveries-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 13 Aug 2026 12:51:37 +0000",
+      "published_ts": 1786625497,
+      "summary": "Insider Brief Press release &#8211; Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, and the University of Alberta, have announced a strategic research partnership to pioneer novel quantum algorithms for cancer treatment. This partnershi…"
+    },
+    {
+      "title": "BTQ Technologies Partners With ITCEN PNS to Expand Post-Quantum Security in Korea",
+      "link": "https://thequantuminsider.com/2026/08/13/btq-technologies-signs-mou-itcenglobal-post-quantum-security-korea/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 13 Aug 2026 12:41:10 +0000",
+      "published_ts": 1786624870,
+      "summary": "Insider Brief Press release &#8211; BTQ Technologies Corp. (&#8220;BTQ&#8220; or the &#8220;Company&#8221;) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, today announced that it has signed a Memorandum of Understanding (&#8220;MOU&#8…"
+    },
     {
       "title": "New York Opens $60 Million RFP for Quantum Technology Hubs",
       "link": "https://thequantuminsider.com/2026/08/13/new-york-opens-60-million-rfp-for-quantum-technology-hubs/",
@@ -192,30 +216,6 @@
       "published": "Wed, 12 Aug 2026 12:00:05 EDT",
       "published_ts": 1786550405,
       "summary": "Signals ride on waves of one kind or another: light, sound, radio. But new carriers are needed to relay information in next-generation devices. Disturbances or waves in magnetic materials called magnons could be an efficient option—if scientists can tame them."
-    },
-    {
-      "title": "Yonsei to Install IBM Nighthawk Quantum Processor for Research and Industry Applications",
-      "link": "https://thequantuminsider.com/2026/08/12/yonsei-quantum-initiative-ibm-nighthawk-processor-installation/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 12 Aug 2026 14:21:03 +0000",
-      "published_ts": 1786544463,
-      "summary": "Insider Brief The Yonsei Quantum Initiative will replace its quantum processing unit with IBM&#8217;s next-generation Nighthawk processor in November, the Seoul Economic Daily reported. IBM Miami is currently the only site operating a Nighthawk-based quantum computer, making Yonsei expected to becom…"
-    },
-    {
-      "title": "ORIENTOM and softwareQ Partner on Quantum Computing Applications for Finance",
-      "link": "https://thequantuminsider.com/2026/08/12/orientom-softwareq-quantum-computing-finance-applications/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 12 Aug 2026 14:07:29 +0000",
-      "published_ts": 1786543649,
-      "summary": "Insider Brief Press release &#8211; ORIENTOM Co., Ltd. and softwareQ Inc. have signed a Memorandum of Understanding (MoU) to explore joint research, development and innovation opportunities in quantum and quantum-inspired computing for the financial services, banking, and insurance sectors. Objectiv…"
-    },
-    {
-      "title": "Uncovering the Hidden Disorder in Silicon Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/08/12/uncovering-the-hidden-disorder-in-silicon-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 12 Aug 2026 13:42:41 +0000",
-      "published_ts": 1786542161,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qubits are the quantum counterpart to the bits used in conventional computers. Bits have a “0” and “1” state that is defined by electric charge. In a type of qubit called a silicon spin qubit, the “0” and “1” states are defined by electron spin. This spin can poin…"
     },
     {
       "title": "Quantum advantage reassessed: More realistic benchmarks for quantum algorithms",
