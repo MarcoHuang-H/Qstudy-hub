@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1786560946,
+  "generated_ts": 1786584515,
   "items": [
+    {
+      "title": "D-Wave Awarded National Research Council of Canada Funding to Advance Commercial Annealing Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/08/12/d-wave-awarded-national-research-council-of-canada-funding-to-advance-commercial-annealing-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 12 Aug 2026 20:38:54 +0000",
+      "published_ts": 1786567134,
+      "summary": "Insider Brief PRESS RELEASE &#8212; D-Wave Quantum Inc. (NASDAQ: QBTS) (&#8220;D-Wave&#8221; or the &#8220;Company&#8221;), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced it has been awarded up to CAD $300,000…"
+    },
     {
       "title": "Spontaneous magnons synchronize with external signals at room temperature",
       "link": "https://phys.org/news/2026-08-spontaneous-magnons-synchronize-external-room.html",
@@ -96,14 +104,6 @@
       "published": "Wed, 12 Aug 2026 10:49:50 +0000",
       "published_ts": 1786531790,
       "summary": "Insider Brief Press release &#8211; Srirama Engineering College has become the first college in Tirupati to initiate a quantum computing initiative, marking a significant milestone in the region’s journey towards emerging quantum technologies. The institution has signed a Memorandum of Understanding…"
-    },
-    {
-      "title": "Quantinuum and Oracle Partner to Accelerate Hybrid Quantum Compute Adoption on Oracle Cloud Infrastructure",
-      "link": "https://thequantuminsider.com/2026/08/12/quantinuum-and-oracle-partner-to-accelerate-hybrid-quantum-compute-adoption-on-oracle-cloud-infrastructure/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 12 Aug 2026 08:14:59 +0000",
-      "published_ts": 1786522499,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum (NASDAQ: QNT), a leading quantum computing company, and Oracle today announced a multi-year strategic partnership to bring quantum computing to Oracle Cloud Infrastructure (OCI). Under the partnership, OCI customers will be able to directly access Quant…"
     },
     {
       "title": "On quantum mechanics self-consistency: EPR incompleteness claims require no extraneous concepts beyond the theory's plain formalism for refutation",
