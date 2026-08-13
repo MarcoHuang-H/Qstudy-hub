@@ -1,6 +1,134 @@
 {
-  "generated_ts": 1786584515,
+  "generated_ts": 1786605565,
   "items": [
+    {
+      "title": "Uniaxial strain reveals new way to tune electron flow in altermagnet material",
+      "link": "https://phys.org/news/2026-08-uniaxial-strain-reveals-tune-electron.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 13 Aug 2026 02:39:51 EDT",
+      "published_ts": 1786603191,
+      "summary": "Altermagnetism is a new, third type of magnetism of great interest for spin-transport applications like computer memory. If properly harnessed, it could combine the benefits of the two existing types of magnetism, ferromagnetism and antiferromagnetism, ultimately reducing or eliminating heat during…"
+    },
+    {
+      "title": "Spectrally local geometric response at the onset of many-body quantum chaos",
+      "link": "https://arxiv.org/abs/2608.11309",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11309v1 Announce Type: new  Abstract: We introduce the spectral density of geometric response, a measure of eigenstate sensitivity across an energy spectrum. Applied to many-body quantum systems, it reveals an exponentially sensitive integrability-to-chaos crossover, where eigenbasis defo…"
+    },
+    {
+      "title": "Spin-coherent quantum designs",
+      "link": "https://arxiv.org/abs/2608.11310",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11310v1 Announce Type: new  Abstract: Coherent states bridge the gap between quantum and classical physics, but their overcomplete and nonorthogonal nature makes it difficult to identify the minimal discrete set needed to reconstruct quantum information. Finite spin-coherent tomography an…"
+    },
+    {
+      "title": "Teleportation through time-varying channels: threshold geometry and a complete-positivity bound on non-Markovian backflow",
+      "link": "https://arxiv.org/abs/2608.11314",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11314v1 Announce Type: new  Abstract: A Bell pair distributed through a link that combines amplitude damping with dephasing at time-dependent rates has dynamics that separate into a fixed part and a moving one. The negativity, fully entangled fraction, discord, and average teleportation f…"
+    },
+    {
+      "title": "Modelling quantum measurement dynamics: from decoherence to redundancy with site-hopping indistinguishable particles",
+      "link": "https://arxiv.org/abs/2608.11319",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11319v1 Announce Type: new  Abstract: In recent years, new theoretical insights into decoherence and quantum measurements have emerged through the study of many-body dynamics in isolated quantum systems. It is now understood that the parameters and energy scales in system-environment inte…"
+    },
+    {
+      "title": "Robust Quantum Machine Learning for Collider Event Selection under Detector Variability",
+      "link": "https://arxiv.org/abs/2608.11330",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11330v1 Announce Type: new  Abstract: Robust machine-learning methods are becoming increasingly important for high-energy physics data analysis as experiments enter the era of higher luminosity and future higher-energy colliders. Detector degradation, changing running conditions and calib…"
+    },
+    {
+      "title": "Holonomic quantum gates via continuous measurement in bosonic codes: GKP and cat states",
+      "link": "https://arxiv.org/abs/2608.11369",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11369v1 Announce Type: new  Abstract: We apply continuous measurement-based holonomic quantum computation (CMHQC) to bosonic quantum error-correcting codes and develop explicit protocols for both four-component cat codes and Gottesman-Kitaev-Preskill (GKP) codes. In this framework, a cont…"
+    },
+    {
+      "title": "Benchmarking Quantum and Classical Machine Learning Models on Oncological Data",
+      "link": "https://arxiv.org/abs/2608.11373",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11373v1 Announce Type: new  Abstract: Machine learning is being increasingly used for the detection, diagnosis, and treatment of cancer. However, models often struggle with biological data due to high dimensionality, limited sample diversity, and complex feature interactions. Recent works…"
+    },
+    {
+      "title": "Evaluating QAOA expectation values can be as hard as counting optimal solutions",
+      "link": "https://arxiv.org/abs/2608.11385",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11385v1 Announce Type: new  Abstract: Evaluating expectation values is a critical task for variational quantum eigensolvers, and for parameterized quantum circuits and other quantum algorithms more generally. We consider the well-studied case of the Quantum Approximate Optimization Algori…"
+    },
+    {
+      "title": "Generative Learning for Quantum Measurement Design",
+      "link": "https://arxiv.org/abs/2608.11396",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11396v1 Announce Type: new  Abstract: Extracting quantum information from a quantum state is a fundamental task of quantum computation, often requiring the estimation of many non-commuting observables under a finite measurement budget. For both near-term and early fault-tolerant settings,…"
+    },
+    {
+      "title": "Flood of multipartite Rains entanglement",
+      "link": "https://arxiv.org/abs/2608.11406",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11406v1 Announce Type: new  Abstract: Multipartite entanglement admits phenomena such as the activation of genuine multipartite entanglement (GME) and the existence of inequivalent classes of entanglement, and existing bipartite entanglement measures have no unique generalization to this…"
+    },
+    {
+      "title": "On the Swapping Capacity of a Quantum Repeater",
+      "link": "https://arxiv.org/abs/2608.11429",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11429v1 Announce Type: new  Abstract: We study the capacity of a memory-based quantum repeater in entanglement swapping between two quantum links with either single or multiple memories, which we refer to as the end-to-end (E2E) entanglement throughput, subject to a constraint on the mini…"
+    },
+    {
+      "title": "Exchange Fluctuation Theorems for Non-Markovian Baths in Quantum Collisional Model",
+      "link": "https://arxiv.org/abs/2608.11488",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11488v1 Announce Type: new  Abstract: The quantum exchange fluctuation theorem relates the probabilities of observing heat transfer along and against the temperature gradient between thermal baths at different temperatures. We investigate how this relation generalizes when the baths exhib…"
+    },
+    {
+      "title": "Joint symmetry and dynamical accessibility in compact Hamiltonian encodings of set cover",
+      "link": "https://arxiv.org/abs/2608.11503",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11503v1 Announce Type: new  Abstract: Which part of a Hamiltonian spectrum is physically relevant when both the initial state and interpolation preserve several symmetries? We address this question for a compact multi-register encoding of Minimum Set Cover. The represented symmetry combin…"
+    },
+    {
+      "title": "Trapping Sets of Detector Error Models",
+      "link": "https://arxiv.org/abs/2608.11516",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11516v1 Announce Type: new  Abstract: Message-passing decoders are among the most promising candidates for scalable quantum error correction, yet their behavior in the low-error-rate regime remains poorly understood under realistic circuit-level noise. In this work, we introduce a systema…"
+    },
+    {
+      "title": "Exact dynamics of first-order system-bath coherence in bilinear bosonic models",
+      "link": "https://arxiv.org/abs/2608.11556",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786593600,
+      "summary": "arXiv:2608.11556v1 Announce Type: new  Abstract: We investigate the exact dynamics of first-order system--bath coherence induced by excitation exchange in bilinear bosonic models. By solving the linear Heisenberg equations, we obtain the exact evolution of system and bath operators and evaluate the…"
+    },
     {
       "title": "D-Wave Awarded National Research Council of Canada Funding to Advance Commercial Annealing Quantum Computing",
       "link": "https://thequantuminsider.com/2026/08/12/d-wave-awarded-national-research-council-of-canada-funding-to-advance-commercial-annealing-quantum-computing/",
@@ -106,126 +234,6 @@
       "summary": "Insider Brief Press release &#8211; Srirama Engineering College has become the first college in Tirupati to initiate a quantum computing initiative, marking a significant milestone in the region’s journey towards emerging quantum technologies. The institution has signed a Memorandum of Understanding…"
     },
     {
-      "title": "On quantum mechanics self-consistency: EPR incompleteness claims require no extraneous concepts beyond the theory's plain formalism for refutation",
-      "link": "https://arxiv.org/abs/2608.10006",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10006v1 Announce Type: new  Abstract: From a phenomenological and experimental viewpoint, quantum mechanics is remarkably successful in explaining effects and processes in the microscopic world. Recently, however, a growing body of literature has revisited the theory's own formal foundati…"
-    },
-    {
-      "title": "RF-Budgeted Frame Compilation for Frequency-Multiplexed Superconducting-Qubit Control Using Qubit-Control Identity Records and a Circuit-Informed RFSoC Model",
-      "link": "https://arxiv.org/abs/2608.10013",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10013v1 Announce Type: new  Abstract: Frequency-multiplexed superconducting-qubit control requires more than carrier assignment: the RF budget of a shared source can perturb multi-qubit rotations through finite bandwidth, crest factor, clipping, quantization, jitter, spurs, compression, c…"
-    },
-    {
-      "title": "Local Complex Dependence and Separability in Madelung Hydrodynamics",
-      "link": "https://arxiv.org/abs/2608.10019",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10019v1 Announce Type: new  Abstract: For a many-particle pure state in a fixed position representation, we consider the mixed cross-particle derivatives of the logarithm of the wave function. Their real part is one half of the Holland-Wang local dependence function of the configuration d…"
-    },
-    {
-      "title": "The Thermodynamic Cost of Computing with Heat",
-      "link": "https://arxiv.org/abs/2608.10027",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10027v1 Announce Type: new  Abstract: Autonomous quantum thermal machines have recently been proposed as physics-based computing substrates where logical inputs and outputs are encoded in temperature gradients. While such ``thermodynamic neurons'' exhibit a clear trade-off between computa…"
-    },
-    {
-      "title": "Catalytic Stabilization of Ergotropy and Backflow Suppression in Open Many-Body Quantum Batteries",
-      "link": "https://arxiv.org/abs/2608.10032",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10032v1 Announce Type: new  Abstract: Coherent energy backflow and non-Markovian oscillations limit energy retention and degrade extractable work (ergotropy) in open many-body quantum batteries. Here, we present a catalyst-mediated charging protocol for a collective spin-array quantum bat…"
-    },
-    {
-      "title": "Global Non-Identifiability of Fubini-Study Geometry from Complete One-Period Endpoint Data",
-      "link": "https://arxiv.org/abs/2608.10051",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10051v1 Announce Type: new  Abstract: We establish a global, worst-case non-identifiability theorem for periodically driven finite-dimensional quantum systems. On the unrestricted smooth periodic Hamiltonian class, we show that the period-averaged Fubini-Study metric component of a fixed…"
-    },
-    {
-      "title": "ND-Photonic QRNGs in a Noisy Environment",
-      "link": "https://arxiv.org/abs/2608.10053",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10053v1 Announce Type: new  Abstract: Standard pseudo-random generators have weaknesses that have led to the development of quantum random number generators (QRNGs). However, common QRNG validation methods, whether based on quantum indeterminism or statistical tests, are insufficient to g…"
-    },
-    {
-      "title": "Coupled-Layer Codes: Beyond Quantum Product Constructions",
-      "link": "https://arxiv.org/abs/2608.10069",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10069v1 Announce Type: new  Abstract: Product codes are an important class of quantum error-correcting codes constructed from multiple input codes, which can give rise to asymptotically good quantum low-density parity check codes. In previous work, we showed how the product between two co…"
-    },
-    {
-      "title": "Phase diagram of lasing under correlated pump from GPU-accelerated Truncated Wigner dynamics",
-      "link": "https://arxiv.org/abs/2608.10075",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10075v1 Announce Type: new  Abstract: Superradiant (SR) lasers store optical coherence in the atomic medium rather than the cavity field, but the incoherent drive that sustains inversion imposes a trade-off: local pumping yields coherent light at a rate that grows linearly with the atom n…"
-    },
-    {
-      "title": "Eliminating photon transport in long-baseline optical interferometry using quantum memories",
-      "link": "https://arxiv.org/abs/2608.10078",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10078v1 Announce Type: new  Abstract: In this paper, we describe the fundamental operating mechanisms of optical interferometry using quantum memory and entanglement. We show how these remove the optical delay line bottleneck. Quantum memory is not without its own set of challenges, some…"
-    },
-    {
-      "title": "Kinetics of sliding-window quantum error correction",
-      "link": "https://arxiv.org/abs/2608.10081",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10081v1 Announce Type: new  Abstract: Practical implementations of quantum error correction (QEC) require rapid measurement and continuous processing of the syndrome information in order to prevent a backlog of unprocessed data. While ``static'' QEC is theoretically well understood via ma…"
-    },
-    {
-      "title": "Long-lived memory effects in the defect bath of superconducting qubits",
-      "link": "https://arxiv.org/abs/2608.10087",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10087v1 Announce Type: new  Abstract: We reveal long-lived memory effects in the defect bath of a superconducting transmon qubit through electric-field tuning of two-level system (TLS) defects coupled to the qubit. Using a fast TLS mapping method we observe several hysteretic effects in t…"
-    },
-    {
-      "title": "Non-equilibrium theory of projected ensembles",
-      "link": "https://arxiv.org/abs/2608.10110",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10110v1 Announce Type: new  Abstract: Projected ensembles---the collections of conditional pure states induced on a system by measuring an entangled environment---have become central objects in quantum science, underlying deep thermalization, quantum state designs, the emergence of classi…"
-    },
-    {
-      "title": "Bounds for Apparent Second-Law Violations in Quantum Trajectories",
-      "link": "https://arxiv.org/abs/2608.10118",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10118v1 Announce Type: new  Abstract: Negative stochastic entropy production is commonly called an apparent violation of the second law. In general quantum-trajectory dynamics, however, the physical entropy production $\\sigma$ need not obey a forward detailed fluctuation theorem. A genera…"
-    },
-    {
-      "title": "Williamson majorization theory of fermionic non-Gaussianity",
-      "link": "https://arxiv.org/abs/2608.10140",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "published_ts": 1786507200,
-      "summary": "arXiv:2608.10140v1 Announce Type: new  Abstract: Pure-state entanglement rests on a single algebraic backbone: majorization of the Schmidt spectrum governs state conversion under local operations and classical communication, and constrains entanglement monotones. Here we establish a corresponding ma…"
-    },
-    {
       "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
       "link": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
       "source": "Phys.org — Quantum Physics",
@@ -312,14 +320,6 @@
       "published": "Thu, 06 Aug 2026 12:40:01 EDT",
       "published_ts": 1786034401,
       "summary": "Quantum errors are a normal part of quantum computing because fragile physical qubits (the tiny components storing data) can easily break down because of environmental noise, like heat, stray signals or microscopic vibrations. Typical fixes involve vast amounts of extra hardware qubits, which make c…"
-    },
-    {
-      "title": "Sunlight-powered setup generates quantum entanglement",
-      "link": "https://phys.org/news/2026-08-sunlight-powered-setup-generates-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 06 Aug 2026 10:00:04 EDT",
-      "published_ts": 1786024804,
-      "summary": "Today's quantum technologies rely on energy-intensive lasers, raising concerns that scaling them up could further increase energy demands. In new work, researchers have demonstrated that quantum entanglement between photons can be generated directly from sunlight, offering a potential alternative."
     },
     {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
