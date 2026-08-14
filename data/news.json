@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1786712091,
+  "generated_ts": 1786733150,
   "items": [
+    {
+      "title": "What is Quantum Teleportation? How Quantum States Transfer Across Distance",
+      "link": "https://thequantuminsider.com/2026/08/14/quantum-teleportation-explained/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 14 Aug 2026 14:31:11 +0000",
+      "published_ts": 1786717871,
+      "summary": "Insider Brief Mention quantum teleportation in conversation and most people picture humans dissolving in one place and appearing somewhere else. Something from Star Trek, maybe with a dramatic sound effect. That is not what it does. What quantum teleportation transfers is the quantum state of a part…"
+    },
+    {
+      "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Fri, 14 Aug 2026 08:56:01 EDT",
+      "published_ts": 1786712161,
+      "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing micr…"
+    },
     {
       "title": "Quantum Australia Reports $83.1M Economic Impact and Growth of 15 Quantum Companies",
       "link": "https://thequantuminsider.com/2026/08/14/quantum-australia-reveals-83-million-economic-impact-15-new-quantum-companies/",
@@ -192,14 +208,6 @@
       "published": "Thu, 13 Aug 2026 14:34:10 +0000",
       "published_ts": 1786631650,
       "summary": "Insider Brief Press release &#8211; For decades, the distribution of quantum information has been confined to laboratory demonstrations because of the fragile nature of maintaining the fidelity of quantum entanglement across today&#8217;s deployed telecommunications fiber. However, today, Qunnect is…"
-    },
-    {
-      "title": "Xanadu and University of Alberta Explore Quantum Computing for Cancer Drug Discovery",
-      "link": "https://thequantuminsider.com/2026/08/13/xanadu-university-alberta-partner-accelerate-pharmaceutical-discoveries-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 13 Aug 2026 12:51:37 +0000",
-      "published_ts": 1786625497,
-      "summary": "Insider Brief Press release &#8211; Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, and the University of Alberta, have announced a strategic research partnership to pioneer novel quantum algorithms for cancer treatment. This partnershi…"
     },
     {
       "title": "Uniaxial strain reveals new way to tune electron flow in altermagnet material",
@@ -528,14 +536,6 @@
       "published": "Tue, 12 May 2026 05:00:00 -0400",
       "published_ts": 1778576400,
       "summary": "A new technique helps scientists measure a phenomenon that can cause quantum circuits to perform differently than expected, increasing the error in computations."
-    },
-    {
-      "title": "JUPITER supercomputer breaks world record with 50-qubit quantum simulation",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260510234715.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Sun, 10 May 2026 23:47:15 EDT",
-      "published_ts": 1778471235,
-      "summary": "Scientists in Germany have pulled off a staggering computing feat by fully simulating a 50-qubit quantum computer for the first time ever using Europe’s new exascale supercomputer, JUPITER. The breakthrough shatters the previous 48-qubit record and highlights just how powerful next-generation superc…"
     },
     {
       "title": "A materials scientist’s playground",
