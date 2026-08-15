@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1786775348,
+  "generated_ts": 1786796869,
   "items": [
+    {
+      "title": "University of Guelph and Xanadu Partner on Quantum Computing Education",
+      "link": "https://thequantuminsider.com/2026/08/15/university-of-guelph-xanadu-quantum-education-partnership/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 15 Aug 2026 07:00:00 +0000",
+      "published_ts": 1786777200,
+      "summary": "Insider Brief Press release &#8211; The University of Guelph and Xanadu, a Canadian leader in quantum computing, have signed a memorandum of understanding (MOU) to collaborate on advancing quantum computing education and preparing students for emerging careers in the rapidly growing quantum sector.…"
+    },
+    {
+      "title": "Dorit Dor (QBeat Ventures): What cybersecurity’s rise teaches quantum go-to-market",
+      "link": "https://thequantuminsider.com/2026/08/15/dorit-dor-qbeat-ventures-what-cybersecuritys-rise-teaches-quantum-go-to-market/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 15 Aug 2026 07:00:00 +0000",
+      "published_ts": 1786777200,
+      "summary": "Yuval Boger interviews Dorit Dor, co-founder of QBeat Ventures and former senior executive at Check Point. They discuss lessons quantum startups can draw from the evolution of cybersecurity, including the importance of go-to-market strategy, focus, and adherence to standards. Dorit outlines her fund…"
+    },
     {
       "title": "What is Quantum Teleportation? How Quantum States Transfer Across Distance",
       "link": "https://thequantuminsider.com/2026/08/14/quantum-teleportation-explained/",
@@ -72,22 +88,6 @@
       "published": "Fri, 14 Aug 2026 07:30:00 +0000",
       "published_ts": 1786692600,
       "summary": "Insider Brief Silicon spin qubit company Diraq has published a blog post arguing that the quantum computing industry&#8217;s hiring model which is historically built around doctoral-level candidates &#8211; cannot support the workforce scale the sector will need within the next decade. The post cite…"
-    },
-    {
-      "title": "Researcher Rodney Bartlett Publishes Book Exploring Quantum Physics and Cosmology",
-      "link": "https://thequantuminsider.com/2026/08/14/researcher-rodney-bartlett-book-quantum-physics-philosophy/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 14 Aug 2026 07:00:00 +0000",
-      "published_ts": 1786690800,
-      "summary": "Insider Brief Independent Researcher Rodney Bartlett Unveils &#8220;Theoretical Horizons,&#8221; Merging Quantum Physics and Philosophy to Propose a Utopian Future. The book is backed by a recently published article in a peer-reviewed scientific journal, Bartlett’s new book challenges the Big Bang a…"
-    },
-    {
-      "title": "DARPA Funds Qunnect to Improve Quantum Network Reliability",
-      "link": "https://thequantuminsider.com/2026/08/13/darpa-taps-qunnect-strengthen-reliability-resilience-quantum-networks/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 13 Aug 2026 14:34:10 +0000",
-      "published_ts": 1786631650,
-      "summary": "Insider Brief Press release &#8211; For decades, the distribution of quantum information has been confined to laboratory demonstrations because of the fragile nature of maintaining the fidelity of quantum entanglement across today&#8217;s deployed telecommunications fiber. However, today, Qunnect is…"
     },
     {
       "title": "Uniaxial strain reveals new way to tune electron flow in altermagnet material",
