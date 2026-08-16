@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1786883361,
+  "generated_ts": 1786904457,
   "items": [
+    {
+      "title": "Strain flips Hall signal in altermagnetic manganese telluride, suggesting a path to practical spintronics",
+      "link": "https://phys.org/news/2026-08-strain-flips-hall-altermagnetic-manganese.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 16 Aug 2026 12:00:04 EDT",
+      "published_ts": 1786896004,
+      "summary": "Time-reversal symmetry is an exotic behavior found in systems whose internal physics looks different when running forward versus backward in time. For some time, physicists have searched for this behavior in systems with almost no overall magnetization. Such phases are highly prized for spintronics,…"
+    },
     {
       "title": "The Company Lab Launches CO.LAB Q for Quantum Startups",
       "link": "https://thequantuminsider.com/2026/08/16/company-lab-launches-colab-q-for-quantum-startups/",
@@ -200,14 +208,6 @@
       "published": "Thu, 06 Aug 2026 13:00:01 EDT",
       "published_ts": 1786035601,
       "summary": "At the International Conference on High Energy Physics in Brazil, the BESIII Collaboration report that, after 15 years of sustained research, it identified the dominant constituent of the X(2370) as a pseudoscalar glueball with spin-parity quantum numbers of 0⁻⁺."
-    },
-    {
-      "title": "Two-qubit entangling gate flags its own errors as detectable photon losses",
-      "link": "https://phys.org/news/2026-08-qubit-entangling-gate-flags-errors.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 06 Aug 2026 12:40:01 EDT",
-      "published_ts": 1786034401,
-      "summary": "Quantum errors are a normal part of quantum computing because fragile physical qubits (the tiny components storing data) can easily break down because of environmental noise, like heat, stray signals or microscopic vibrations. Typical fixes involve vast amounts of extra hardware qubits, which make c…"
     },
     {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
