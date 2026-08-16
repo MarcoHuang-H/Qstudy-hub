@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1786818044,
+  "generated_ts": 1786842040,
   "items": [
+    {
+      "title": "Ultrafast core-level spectroscopy reveals elusive precursors of exciton condensation in quantum materials",
+      "link": "https://phys.org/news/2026-08-ultrafast-core-spectroscopy-reveals-elusive.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 15 Aug 2026 16:00:01 EDT",
+      "published_ts": 1786824001,
+      "summary": "Many fascinating phases in quantum materials emerge when electrons, atoms and other microscopic components begin to act collectively. But these phases do not necessarily appear out of nowhere when a material crosses a transition temperature. Before long-range order develops, microscopic fluctuations…"
+    },
     {
       "title": "University of Guelph and Xanadu Partner on Quantum Computing Education",
       "link": "https://thequantuminsider.com/2026/08/15/university-of-guelph-xanadu-quantum-education-partnership/",
@@ -200,14 +208,6 @@
       "published": "Thu, 06 Aug 2026 13:00:01 EDT",
       "published_ts": 1786035601,
       "summary": "At the International Conference on High Energy Physics in Brazil, the BESIII Collaboration report that, after 15 years of sustained research, it identified the dominant constituent of the X(2370) as a pseudoscalar glueball with spin-parity quantum numbers of 0⁻⁺."
-    },
-    {
-      "title": "Two-qubit entangling gate flags its own errors as detectable photon losses",
-      "link": "https://phys.org/news/2026-08-qubit-entangling-gate-flags-errors.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 06 Aug 2026 12:40:01 EDT",
-      "published_ts": 1786034401,
-      "summary": "Quantum errors are a normal part of quantum computing because fragile physical qubits (the tiny components storing data) can easily break down because of environmental noise, like heat, stray signals or microscopic vibrations. Typical fixes involve vast amounts of extra hardware qubits, which make c…"
     },
     {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
