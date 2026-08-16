@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1786861897,
+  "generated_ts": 1786883361,
   "items": [
+    {
+      "title": "The Company Lab Launches CO.LAB Q for Quantum Startups",
+      "link": "https://thequantuminsider.com/2026/08/16/company-lab-launches-colab-q-for-quantum-startups/",
+      "source": "The Quantum Insider",
+      "published": "Sun, 16 Aug 2026 07:00:00 +0000",
+      "published_ts": 1786863600,
+      "summary": "Insider Brief Press release &#8211; The Company Lab (CO.LAB) today announced CO.LAB Q, a 12-month quantum commercialization studio designed to help promising startups and research teams turn advanced technologies into scalable, market-ready companies. Applications are now open, and the program begin…"
+    },
     {
       "title": "University of Guelph and Xanadu Partner on Quantum Computing Education",
       "link": "https://thequantuminsider.com/2026/08/15/university-of-guelph-xanadu-quantum-education-partnership/",
@@ -80,14 +88,6 @@
       "published": "Fri, 14 Aug 2026 08:20:00 +0000",
       "published_ts": 1786695600,
       "summary": "Insider Brief Press release &#8211; Rice University physicist Guido Pagano and his team use a trapped-ion quantum simulator, which involves manipulating an ion crystal trapped in a vacuum system with electromagnetic fields, to study molecular electron transfer, or the way electrons travel from one m…"
-    },
-    {
-      "title": "Diraq Says Quantum Computing Needs a Broader Workforce Beyond PhDs",
-      "link": "https://thequantuminsider.com/2026/08/14/diraq-quantum-industry-needs-broader-workforce-beyond-phds/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 14 Aug 2026 07:30:00 +0000",
-      "published_ts": 1786692600,
-      "summary": "Insider Brief Silicon spin qubit company Diraq has published a blog post arguing that the quantum computing industry&#8217;s hiring model which is historically built around doctoral-level candidates &#8211; cannot support the workforce scale the sector will need within the next decade. The post cite…"
     },
     {
       "title": "Uniaxial strain reveals new way to tune electron flow in altermagnet material",
