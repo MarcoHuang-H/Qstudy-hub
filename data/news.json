@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1786970351,
+  "generated_ts": 1786991507,
   "items": [
+    {
+      "title": "Physicists predict a new form of quantum matter that holds itself together",
+      "link": "https://phys.org/news/2026-08-physicists-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 17 Aug 2026 14:20:03 EDT",
+      "published_ts": 1786990803,
+      "summary": "Researchers at Monash University have predicted a new type of quantum matter that challenges decades of thinking about how ultracold particles behave. The paper, \"Quantum droplets in a resonant Bose-Fermi mixture,\" is published in Physical Review Letters."
+    },
+    {
+      "title": "Graphene device measures fractional electric charges carried by some of quantum physics' strangest objects",
+      "link": "https://phys.org/news/2026-08-graphene-device-fractional-electric-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 17 Aug 2026 13:40:10 EDT",
+      "published_ts": 1786988410,
+      "summary": "An electron is supposed to be indivisible. It carries one fundamental unit of electric charge, and every electron is exactly the same. But under extreme conditions, large numbers of electrons act together and give rise to new quantum objects called quasiparticles. These act as if they carry only a f…"
+    },
+    {
+      "title": "Anomalous quantum oscillations reveal new physics in a topological insulator",
+      "link": "https://phys.org/news/2026-08-anomalous-quantum-oscillations-reveal-physics.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 17 Aug 2026 10:40:05 EDT",
+      "published_ts": 1786977605,
+      "summary": "A study has been published in Nature Communications that identifies an unusual regime of quantum oscillations in a three-dimensional topological insulator. The results show that, when subjected to temperatures near absolute zero and extreme magnetic fields, electrons in the material zirconium pentat…"
+    },
+    {
+      "title": "D-Wave Appoints Kevan Krysler to Board and Audit Committee",
+      "link": "https://thequantuminsider.com/2026/08/17/d-wave-appoints-kevan-krysler-board-audit-committee/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 17 Aug 2026 12:33:10 +0000",
+      "published_ts": 1786969990,
+      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (NASDAQ: QBTS) (&#8220;D-Wave&#8221; or the &#8220;Company&#8221;), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced the appointment of veteran technology f…"
+    },
     {
       "title": "QpiAI Opens Quantum Chip Foundry in India, Targets 10,000-Qubit Processors",
       "link": "https://thequantuminsider.com/2026/08/17/qpiai-opens-quantum-chip-foundry-in-india-targets-10000-qubit-processors/",
@@ -210,14 +242,6 @@
       "summary": "Insider Brief Tamil Nadu signed four memoranda of understanding (MoUs) with quantum computing ventures at the Vetri Tamil Nadu Investment Conclave 2026, the Deccan Chronicle reported. The agreements cover different parts of the quantum technology ecosystem, spanning computing hardware, control techn…"
     },
     {
-      "title": "Florida State University Launches Quantum Science and Technology Graduate Certificate",
-      "link": "https://thequantuminsider.com/2026/08/14/florida-state-university-quantum-science-technology-graduate-certificate/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 14 Aug 2026 10:48:20 +0000",
-      "published_ts": 1786704500,
-      "summary": "Insider Brief Press release &#8211; Florida State University is launching Florida’s first formal graduate-level credential in quantum information science and engineering, opening a new pathway for students and professionals to enter one of the world’s fastest-growing technology fields. The Graduate…"
-    },
-    {
       "title": "Uniaxial strain reveals new way to tune electron flow in altermagnet material",
       "link": "https://phys.org/news/2026-08-uniaxial-strain-reveals-tune-electron.html",
       "source": "Phys.org — Quantum Physics",
@@ -304,30 +328,6 @@
       "published": "Fri, 07 Aug 2026 16:40:02 EDT",
       "published_ts": 1786135202,
       "summary": "In Goethe's ballad \"Erlkönig,\" immortalized in Schubert's fevered 1815 setting, a dying boy riding through the night sees a spectral king beckoning from the darkness. His father calms him: \"Mein Sohn, es ist ein Nebelstreif\"—my son, it is only a wisp of fog. In the poem, the father's reassurance pro…"
-    },
-    {
-      "title": "Physicists watch a material's electrons assemble, and reassemble, into coexisting phases",
-      "link": "https://phys.org/news/2026-08-physicists-material-electrons-reassemble-coexisting.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 07 Aug 2026 12:00:01 EDT",
-      "published_ts": 1786118401,
-      "summary": "A tall glass of ice water isn't just a thirst quencher; it's also an everyday example of coexisting phases. Water can exist simultaneously in both liquid and solid phases. As it turns out, this phase duality can also exist in more exotic quantum materials, in ways that are far more complicated to te…"
-    },
-    {
-      "title": "New quantum microscopy trick quadruples microscope resolution",
-      "link": "https://phys.org/news/2026-08-quantum-microscopy-quadruples-microscope-resolution.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 06 Aug 2026 17:20:01 EDT",
-      "published_ts": 1786051201,
-      "summary": "Three years after a team of Caltech scientists showed that pairs of entangled photons could double the resolution of a light microscope, the same lab has figured out a way to double down on that improvement. They have now achieved a fourfold resolution boost compared to a classical microscope, using…"
-    },
-    {
-      "title": "X(2370) emerges as glueball-dominated particle in collider experiments",
-      "link": "https://phys.org/news/2026-08-x2370-emerges-glueball-dominated-particle.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 06 Aug 2026 13:00:01 EDT",
-      "published_ts": 1786035601,
-      "summary": "At the International Conference on High Energy Physics in Brazil, the BESIII Collaboration report that, after 15 years of sustained research, it identified the dominant constituent of the X(2370) as a pseudoscalar glueball with spin-parity quantum numbers of 0⁻⁺."
     },
     {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
