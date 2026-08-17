@@ -1,6 +1,126 @@
 {
-  "generated_ts": 1786928321,
+  "generated_ts": 1786948992,
   "items": [
+    {
+      "title": "A Quantum Optimization Framework for Data-Assimilation-Augmented Parameter Estimation",
+      "link": "https://arxiv.org/abs/2608.13614",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13614v1 Announce Type: new  Abstract: Parameter estimation is a fundamental challenge in the calibration of ordinary differential equation (ODE) models, where repeated numerical integration can lead to high computational cost. In this work, we investigate whether quantum algorithms can be…"
+    },
+    {
+      "title": "A scalable edge-pass Purcell filter for high-fidelity readout of superconducting qubits",
+      "link": "https://arxiv.org/abs/2608.13627",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13627v1 Announce Type: new  Abstract: High-fidelity readout with strong Purcell protection of qubit coherence is essential for scalable superconducting quantum processors, yet the finite passband and sizable footprint of conventional band-pass Purcell filters make them hard to scale. Here…"
+    },
+    {
+      "title": "Heuristic Lookahead Distillation Protocol Search",
+      "link": "https://arxiv.org/abs/2608.13644",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13644v1 Announce Type: new  Abstract: Bipartite qubit entanglement distillation is the process of converting noisy ebits into pure ebits using only local operations and classical communication. This is a core operation for quantum repeaters, enabling such crucial tasks as long-distance qu…"
+    },
+    {
+      "title": "Tracking real-space quantum state breathing through Floquet-projector geometry",
+      "link": "https://arxiv.org/abs/2608.13649",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13649v1 Announce Type: new  Abstract: Periodic driving of spatially periodic quantum systems generates band structures that are absent in static crystals. We present a quantum geometric theory to characterize the Floquet-Bloch states at stroboscopic times and during micromotion on equal f…"
+    },
+    {
+      "title": "Entanglement Negativity in Noisy Quantum Volume Sampling",
+      "link": "https://arxiv.org/abs/2608.13654",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13654v1 Announce Type: new  Abstract: The Quantum Volume protocol uses scrambling random circuits to benchmark NISQ computers. Quantum Volume is generally well-regarded as a benchmark for small, noisy, quantum computers because it requires the quantum computer to implement many non-local…"
+    },
+    {
+      "title": "Open system probes of renormalization group flow",
+      "link": "https://arxiv.org/abs/2608.13664",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13664v1 Announce Type: new  Abstract: Open system probes can provide an efficient means to characterize quantum many-body systems by employing them as engineered environments. The key idea is to map long-range spatial correlations of the environment onto dynamical correlations in the evol…"
+    },
+    {
+      "title": "Efficient Hamiltonian Truncation: Fast Matrix Construction and Quantum Krylov Diagonalization",
+      "link": "https://arxiv.org/abs/2608.13691",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13691v1 Announce Type: new  Abstract: Hamiltonian truncation offers a nonperturbative route to quantum field theory, yet its accuracy is limited by the rapid expansion of the truncated Hilbert space, which drives up computational cost. We tackle this bottleneck with a hybrid strategy that…"
+    },
+    {
+      "title": "Scalable Test of Genuine Multipartite Entanglement via Partially Randomized Measurements",
+      "link": "https://arxiv.org/abs/2608.13725",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13725v1 Announce Type: new  Abstract: Certifying genuine multipartite entanglement in quantum systems can require a number of measurements that grows exponentially with the system size. Here we introduce a criterion based on correlation-tensor subsector lengths restricted to local measure…"
+    },
+    {
+      "title": "Designing robust molecular spins for quantum technologies with theoretical chemistry",
+      "link": "https://arxiv.org/abs/2608.13744",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13744v1 Announce Type: new  Abstract: Molecular spins represent a versatile platform for quantum information science, with the potential to offer chemically tunable, addressable qubits. However, achieving this requires understanding and mitigating quantum decoherence. This Chapter provide…"
+    },
+    {
+      "title": "Certified coherent, informative, and non-entanglement-breaking fixed points of future-referential quantum feedback",
+      "link": "https://arxiv.org/abs/2608.13764",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13764v1 Announce Type: new  Abstract: We study quantum processes in which information extracted from a forward simulation is returned as input to an earlier internal time of the simulated dynamics: externally the protocol is an ordinary causally ordered circuit, but internally it is futur…"
+    },
+    {
+      "title": "Entanglement asymmetry characterization of the Chiral Anomaly",
+      "link": "https://arxiv.org/abs/2608.13781",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13781v1 Announce Type: new  Abstract: Shao et al. recently showed that the 1+1D staggered fermion Hamiltonian admits a whole algebra of lattice operators that flow to the same axial charge in the thermodynamic limit (TL). On the lattice the principal axial charge does not commute with the…"
+    },
+    {
+      "title": "Fast classical simulation of `Fast, accurate, high-resolution simulation of large-scale Fermi-Hubbard models on a digital quantum processor'",
+      "link": "https://arxiv.org/abs/2608.13805",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13805v1 Announce Type: new  Abstract: We study the N\\'{e}el quench dynamics of a 1D Fermi-Hubbard model which has recently been simulated on quantum hardware. We demonstrate that the set of 7260 observable trajectories measured in the quantum experiment can be obtained more quickly and ac…"
+    },
+    {
+      "title": "Resource-efficient quantum eigenvalue transform with commutator scaling",
+      "link": "https://arxiv.org/abs/2608.13862",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13862v1 Announce Type: new  Abstract: We develop quantum algorithms for estimating properties of general matrix functions of Hermitian matrices, with applications to phase estimation, Green's function evaluation, and estimating measurement distributions of time-evolved states. The resulti…"
+    },
+    {
+      "title": "Nonorthogonal-state erasure as the resource behind apparent second-law violations",
+      "link": "https://arxiv.org/abs/2608.13881",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13881v1 Announce Type: new  Abstract: Perfect deterministic distinguishing of nonorthogonal quantum states is forbidden by the linear and unitary structure of quantum mechanics. It has often been assumed that, if such distinguishing were available, it would be the resource enabling work e…"
+    },
+    {
+      "title": "de Broglie-Bohm Dynamics with Schr\\\"odinger Source Fields: A Framework for Subquantum Theory",
+      "link": "https://arxiv.org/abs/2608.13894",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "published_ts": 1786939200,
+      "summary": "arXiv:2608.13894v1 Announce Type: new  Abstract: We extend de Broglie--Bohm (dBB) pilot-wave theory by introducing a complex source field into the Schr\\\"odinger equation and examining its effects on quantum equilibrium and nonequilibrium dynamics. In dBB theory, the physical particle distribution P,…"
+    },
     {
       "title": "Strain flips Hall signal in altermagnetic manganese telluride, suggesting a path to practical spintronics",
       "link": "https://phys.org/news/2026-08-strain-flips-hall-altermagnetic-manganese.html",
