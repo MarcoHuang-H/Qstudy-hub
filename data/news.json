@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1786991507,
+  "generated_ts": 1787014617,
   "items": [
+    {
+      "title": "Quantum light engine links atom-photon thermodynamics to classical physics",
+      "link": "https://phys.org/news/2026-08-quantum-links-atom-photon-thermodynamics.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 17 Aug 2026 17:30:02 EDT",
+      "published_ts": 1787002202,
+      "summary": "What is heat, and what is useful work if a machine consists only of an atom and light particles? In modern quantum technologies, this kind of question connects thermodynamics with quantum physics. Researchers at the University of Basel, Switzerland, have developed a theoretical approach that can rec…"
+    },
+    {
+      "title": "From Beaches to Bits to Qubits – Silicon’s Journey in Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/08/17/from-beaches-to-bits-to-qubits-silicons-journey-in-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 17 Aug 2026 21:16:25 +0000",
+      "published_ts": 1787001385,
+      "summary": "Insider Brief Humanity’s ability to make things has dictated its progress over the ages. From the Stone Age to the Bronze and the Iron Age, we have leaped from one material to the next, each letting us do what we couldn’t before. Over time, these leaps have grown ever more sophisticated in discovery…"
+    },
+    {
+      "title": "Three photons at once beat the standard photon test",
+      "link": "https://phys.org/news/2026-08-photons-standard-photon.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 17 Aug 2026 16:00:05 EDT",
+      "published_ts": 1786996805,
+      "summary": "Physicists at the University of Twente have improved the standard test for the quality of individual particles of light. By letting three photons interfere at the same time instead of two, they draw more information from every measurement. Their experiment outperforms even a perfect, noise-free run…"
+    },
+    {
+      "title": "Gluons may play a central role in baryon number conservation—and matter's stability",
+      "link": "https://phys.org/news/2026-08-gluons-play-central-role-baryon.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 17 Aug 2026 14:40:07 EDT",
+      "published_ts": 1786992007,
+      "summary": "New results from the STAR detector at the Relativistic Heavy Ion Collider (RHIC) suggest that gluons, the glue-like particles that hold quarks together inside protons, play a central role in the conservation of baryon number—an essential part of a particle's quantum identity."
+    },
     {
       "title": "Physicists predict a new form of quantum matter that holds itself together",
       "link": "https://phys.org/news/2026-08-physicists-quantum.html",
@@ -234,14 +266,6 @@
       "summary": "Insider Brief Press release &#8211; New independent modelling has been released that shows Quantum Australia&#8216;s national programs have created $83.1 million in economic value while supporting more than six times the public investment in economy-wide activity. This figure, calculated by independ…"
     },
     {
-      "title": "Tamil Nadu Signs Four MoUs With Quantum Computing Ventures at State Investment Conclave",
-      "link": "https://thequantuminsider.com/2026/08/14/tamil-nadu-quantum-ventures-computing-control-technologies/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 14 Aug 2026 11:08:42 +0000",
-      "published_ts": 1786705722,
-      "summary": "Insider Brief Tamil Nadu signed four memoranda of understanding (MoUs) with quantum computing ventures at the Vetri Tamil Nadu Investment Conclave 2026, the Deccan Chronicle reported. The agreements cover different parts of the quantum technology ecosystem, spanning computing hardware, control techn…"
-    },
-    {
       "title": "Uniaxial strain reveals new way to tune electron flow in altermagnet material",
       "link": "https://phys.org/news/2026-08-uniaxial-strain-reveals-tune-electron.html",
       "source": "Phys.org — Quantum Physics",
@@ -304,30 +328,6 @@
       "published": "Mon, 10 Aug 2026 16:40:10 EDT",
       "published_ts": 1786394410,
       "summary": "Every electronic and optoelectronic device generates heat, and today that heat is managed almost entirely from the outside. Heatsinks, fans, cold plates and refrigerators are bulky exterior measures bolted onto a chip or package after the fact. They treat heat as a single averaged quantity to be rem…"
-    },
-    {
-      "title": "Discovery of 'slow' electrons in 2D material could lead to new memory device",
-      "link": "https://phys.org/news/2026-08-discovery-electrons-2d-material-memory.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 10 Aug 2026 13:20:05 EDT",
-      "published_ts": 1786382405,
-      "summary": "Over the last decade, researchers have developed two-dimensional materials with fascinating quantum effects that could be harnessed for next-generation technologies."
-    },
-    {
-      "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
-      "link": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 07 Aug 2026 17:00:01 EDT",
-      "published_ts": 1786136401,
-      "summary": "Using light to process quantum information is one of the most promising approaches to building future quantum computers. Light particles, known as photons, are excellent carriers of quantum information, but their lack of natural interactions has created a major challenge for researchers seeking to b…"
-    },
-    {
-      "title": "Crossing into a mirror world: Particles turn to wisps of fog, and the magnetic monopole paradox dissolves",
-      "link": "https://phys.org/news/2026-08-mirror-world-particles-wisps-fog.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 07 Aug 2026 16:40:02 EDT",
-      "published_ts": 1786135202,
-      "summary": "In Goethe's ballad \"Erlkönig,\" immortalized in Schubert's fevered 1815 setting, a dying boy riding through the night sees a spectral king beckoning from the darkness. His father calms him: \"Mein Sohn, es ist ein Nebelstreif\"—my son, it is only a wisp of fog. In the poem, the father's reassurance pro…"
     },
     {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
