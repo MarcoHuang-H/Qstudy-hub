@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1787056518,
+  "generated_ts": 1787077830,
   "items": [
+    {
+      "title": "Infleqtion Opens Colorado Quantum Innovation Center",
+      "link": "https://thequantuminsider.com/2026/08/18/infleqtion-opens-quantum-innovation-center-colorado/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 17:33:28 +0000",
+      "published_ts": 1787074408,
+      "summary": "Insider Brief Press release &#8211; Infleqtion&#160;(NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, is celebrating the grand opening of the Colorado Quantum Innovation Center (CQIC), its new facility in Louisville, Colorado at 1315 W. Centur…"
+    },
+    {
+      "title": "Symmatrics Appoints Jim Garrity as Senior Vice President of Growth",
+      "link": "https://thequantuminsider.com/2026/08/18/symmatrics-jim-garrity-expanding-leadership-team-growth/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 14:46:44 +0000",
+      "published_ts": 1787064404,
+      "summary": "Insider Brief Press release &#8211; Symmatrics, a breakthrough quantum secure data protection platform, is excited to announce the appointment of Jim Garrity as Senior Vice President of Growth, a strategic addition driving the company&#8217;s next phase of expansion as organizations seek more secure…"
+    },
+    {
+      "title": "ISRO Experts Highlight AI and Quantum Technology for Future Indian Satellites",
+      "link": "https://thequantuminsider.com/2026/08/18/ai-quantum-technology-india-next-generation-satellite-systems/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 14:36:33 +0000",
+      "published_ts": 1787063793,
+      "summary": "Insider Brief Press release &#8211; During the culminating day of the National Space Technology Conclave 2026, organised by Chandigarh University at their campus, the ISRO experts concluded their remarks deliberated during the two day Conclave. The experts in one voice presented India&#8217;s strong…"
+    },
+    {
+      "title": "Bipartisan Bill Targets Quantum Cybersecurity Risks to U.S. Electric Grid",
+      "link": "https://thequantuminsider.com/2026/08/18/bipartisan-bill-quantum-cybersecurity-risks-electric-grid/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 14:26:17 +0000",
+      "published_ts": 1787063177,
+      "summary": "Insider Brief Press release &#8211; U.S. Senators Chris Coons (D-Del.) and Mike Rounds (R-S.D.) introduced the Quantum Grid Utility Assurance and Resilient Defense Act of 2026 (Quantum-GUARD Act) to strengthen electric grid resilience by proactively addressing cybersecurity threats posed by quantum…"
+    },
+    {
+      "title": "Texas Quantum Partners And Samara to Build Occam Foundry, A Quantum Technology Campus in Austin",
+      "link": "https://thequantuminsider.com/2026/08/18/texas-quantum-partners-and-samara-to-build-occam-foundry-a-quantum-technology-campus-in-austin/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 13:22:29 +0000",
+      "published_ts": 1787059349,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Texas Quantum Partners and Samara, a Texas real estate developer, today announced Occam Foundry, a quantum technology campus taking shape in Austin. The site is owned, the first buildings are drawn, and the first phase covers part of roughly sixteen and a half acr…"
+    },
+    {
+      "title": "OTI Lumionics, Samsung Benchmark Quantum Simulation Method for OLED Materials",
+      "link": "https://thequantuminsider.com/2026/08/18/oti-lumionics-samsung-benchmark-quantum-simulation-method-for-oled-materials/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 13:05:00 +0000",
+      "published_ts": 1787058300,
+      "summary": "Insider Brief PRESS RELEASE &#8212; OTI Lumionics, a leader in advanced quantum simulations and solutions for next-generation materials discovery, in collaboration with the Samsung Advanced Institute of Technology (SAIT), today announced the publication of a new manuscript benchmarking its proprieta…"
+    },
+    {
+      "title": "Guest Post: The Role of Silicon Photonics in Delivering Usable Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/08/18/guest-post-the-role-of-silicon-photonics-in-delivering-usable-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 13:02:22 +0000",
+      "published_ts": 1787058142,
+      "summary": "Guest post by Professor Callum Littlejohns, Deputy Director at CORNERSTONE, and Dr Amit Agrawal, Associate Professor in Optical Engineering at the University of Cambridge The ability to scale is one of the most pressing issues in quantum hardware today, and solving scaling challenges has become a dr…"
+    },
+    {
+      "title": "BTQ Technologies Appoints Michael Grace to Support QCIM Development",
+      "link": "https://thequantuminsider.com/2026/08/18/btq-technologies-michael-grace-qcim-product-security-commercialization/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 12:28:10 +0000",
+      "published_ts": 1787056090,
+      "summary": "Insider Brief Press release &#8211; BTQ Technologies Corp. (&#8220;BTQ&#8220; or the &#8220;Company&#8221;) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, is pleased to announce that Dr. Michael Grace is joining the Company&#8217;s U.…"
+    },
+    {
+      "title": "NTT DOCOMO Deploys Second D-Wave Quantum Application for Network Optimization",
+      "link": "https://thequantuminsider.com/2026/08/18/ntt-docomo-second-d-wave-quantum-application-network-optimization/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 12:02:20 +0000",
+      "published_ts": 1787054540,
+      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (NASDAQ: QBTS), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, and NTT DOCOMO, INC. (“DOCOMO”), Japan’s largest mobile operator with more than 93 million subscriptions, t…"
+    },
     {
       "title": "A new approach to building noise-resistant quantum sensors",
       "link": "https://phys.org/news/2026-08-approach-noise-resistant-quantum-sensors.html",
@@ -16,46 +88,6 @@
       "published": "Tue, 18 Aug 2026 09:13:31 +0000",
       "published_ts": 1787044411,
       "summary": "Insider Brief Press release &#8211; With tens of thousands of local quantum jobs predicted in coming years, SQA is hosting Quantum Future Talent: From Curiosity to Career in Chatswood today as part of National Science Week (15–23 August). The sold-out event will see more than 500 students from Years…"
-    },
-    {
-      "title": "Community Groups Want Mayor to Shut Down Quantum Shore Chicago Project",
-      "link": "https://thequantuminsider.com/2026/08/18/community-groups-want-mayor-to-shut-down-quantum-shore-chicago/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 08:56:24 +0000",
-      "published_ts": 1787043384,
-      "summary": "Insider Brief Chicago Mayor Brandon Johnson faced sharp opposition from Southeast Side residents Saturday over a planned $9 billion quantum computing development, as activists pressed him to withdraw city support and halt the project. Johnson attended a “Community over Quantum” town hall organized b…"
-    },
-    {
-      "title": "Researchers Use Light to Study Electron Motion in Wigner Crystals",
-      "link": "https://thequantuminsider.com/2026/08/18/researchers-use-light-study-electron-motion-wigner-crystals/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 08:54:39 +0000",
-      "published_ts": 1787043279,
-      "summary": "Insider Brief Press release &#8211; The group of BQC Prof. Tomasz Smoleński at the University of Basel, together with researchers from the Technical University of Munich, has found a new way to observe the collective motion of electrons in one of the most elusive states of matter: the Wigner crystal…"
-    },
-    {
-      "title": "China Tests Quantum Technology in Power Grid",
-      "link": "https://thequantuminsider.com/2026/08/18/china-tests-quantum-technology-in-power-grid/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 08:13:42 +0000",
-      "published_ts": 1787040822,
-      "summary": "Insider Brief China is testing quantum sensors, secure communications and computing in a working power substation, examining how the emerging technology could be applied to the country&#8217;s electrical grid. The 220-kilovolt Houdian Quantum Application Demonstration Substation in Hefei, in eastern…"
-    },
-    {
-      "title": "NHanced Semiconductors and University of Florida to Present Advanced Photonics Packaging Research",
-      "link": "https://thequantuminsider.com/2026/08/18/nhanced-semiconductors-university-florida-silicon-photonics-packaging-smta/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 05:49:35 +0000",
-      "published_ts": 1787032175,
-      "summary": "Insider Brief Press release &#8211; The upcoming SMTA International Conference will feature a paper titled “Advanced Packaging for Photonics: Hybrid Bonding and Silicon Interposer Integration,” presented by NHanced Semiconductors Vice President Dr. Charles Woychik and Dr. Navid Asadizanjani from the…"
-    },
-    {
-      "title": "Argonne Launches $1 Million Project to Develop Diamond Quantum Sensors for Particle Physics",
-      "link": "https://thequantuminsider.com/2026/08/18/argonne-project-diamond-based-quantum-sensors/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 05:40:32 +0000",
-      "published_ts": 1787031632,
-      "summary": "Insider Brief Press release &#8211; A new Argonne project is bringing together experts in quantum information science and high energy physics to build diamond-based quantum sensors capable of measuring electromagnetic fields with unprecedented precision. Understanding how the universe’s smallest bui…"
     },
     {
       "title": "Stabilizer Statistical Mechanics: A Framework for Efficient Quantification and Classification of Magic States",
@@ -186,14 +218,6 @@
       "summary": "What is heat, and what is useful work if a machine consists only of an atom and light particles? In modern quantum technologies, this kind of question connects thermodynamics with quantum physics. Researchers at the University of Basel, Switzerland, have developed a theoretical approach that can rec…"
     },
     {
-      "title": "From Beaches to Bits to Qubits – Silicon’s Journey in Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/08/17/from-beaches-to-bits-to-qubits-silicons-journey-in-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 17 Aug 2026 21:16:25 +0000",
-      "published_ts": 1787001385,
-      "summary": "Insider Brief Humanity’s ability to make things has dictated its progress over the ages. From the Stone Age to the Bronze and the Iron Age, we have leaped from one material to the next, each letting us do what we couldn’t before. Over time, these leaps have grown ever more sophisticated in discovery…"
-    },
-    {
       "title": "Three photons at once beat the standard photon test",
       "link": "https://phys.org/news/2026-08-photons-standard-photon.html",
       "source": "Phys.org — Quantum Physics",
@@ -232,30 +256,6 @@
       "published": "Mon, 17 Aug 2026 10:40:05 EDT",
       "published_ts": 1786977605,
       "summary": "A study has been published in Nature Communications that identifies an unusual regime of quantum oscillations in a three-dimensional topological insulator. The results show that, when subjected to temperatures near absolute zero and extreme magnetic fields, electrons in the material zirconium pentat…"
-    },
-    {
-      "title": "D-Wave Appoints Kevan Krysler to Board and Audit Committee",
-      "link": "https://thequantuminsider.com/2026/08/17/d-wave-appoints-kevan-krysler-board-audit-committee/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 17 Aug 2026 12:33:10 +0000",
-      "published_ts": 1786969990,
-      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (NASDAQ: QBTS) (&#8220;D-Wave&#8221; or the &#8220;Company&#8221;), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced the appointment of veteran technology f…"
-    },
-    {
-      "title": "QpiAI Opens Quantum Chip Foundry in India, Targets 10,000-Qubit Processors",
-      "link": "https://thequantuminsider.com/2026/08/17/qpiai-opens-quantum-chip-foundry-in-india-targets-10000-qubit-processors/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 17 Aug 2026 11:08:06 +0000",
-      "published_ts": 1786964886,
-      "summary": "Insider Brief Quantum computing startup QpiAI has opened a manufacturing facility in Bengaluru capable of fabricating superconducting quantum processors, part of an effort to bring more of its quantum hardware development and production under one roof. The Bengaluru-based company on Monday inaugurat…"
-    },
-    {
-      "title": "Study Deepens Understanding of Quantum Transport in Topological Materials",
-      "link": "https://thequantuminsider.com/2026/08/17/study-deepens-understanding-of-quantum-transport-in-topological-materials/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 17 Aug 2026 07:26:10 +0000",
-      "published_ts": 1786951570,
-      "summary": "Insider Brief PRESS RELEASE &#8212; In May, a study was&#160;published&#160;in&#160;Nature Communications&#160;that identified an unusual regime of quantum oscillations in a three-dimensional topological insulator. The results show that, when subjected to temperatures near absolute zero and extreme…"
     },
     {
       "title": "Strain flips Hall signal in altermagnetic manganese telluride, suggesting a path to practical spintronics",
