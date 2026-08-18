@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1787034860,
+  "generated_ts": 1787056518,
   "items": [
+    {
+      "title": "A new approach to building noise-resistant quantum sensors",
+      "link": "https://phys.org/news/2026-08-approach-noise-resistant-quantum-sensors.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 18 Aug 2026 08:00:07 EDT",
+      "published_ts": 1787054407,
+      "summary": "Quantum sensors, devices that collect measurements by exploiting quantum-mechanical phenomena, could potentially detect extremely weak magnetic, gravitational and electromagnetic signals with greater sensitivity than classical sensors. Some quantum sensors leverage entanglement, a phenomenon that pr…"
+    },
+    {
+      "title": "Sydney Quantum Academy Hosts Event to Introduce Students to Quantum Careers",
+      "link": "https://thequantuminsider.com/2026/08/18/sydney-quantum-academy-event-quantum-careers/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 09:13:31 +0000",
+      "published_ts": 1787044411,
+      "summary": "Insider Brief Press release &#8211; With tens of thousands of local quantum jobs predicted in coming years, SQA is hosting Quantum Future Talent: From Curiosity to Career in Chatswood today as part of National Science Week (15–23 August). The sold-out event will see more than 500 students from Years…"
+    },
+    {
+      "title": "Community Groups Want Mayor to Shut Down Quantum Shore Chicago Project",
+      "link": "https://thequantuminsider.com/2026/08/18/community-groups-want-mayor-to-shut-down-quantum-shore-chicago/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 08:56:24 +0000",
+      "published_ts": 1787043384,
+      "summary": "Insider Brief Chicago Mayor Brandon Johnson faced sharp opposition from Southeast Side residents Saturday over a planned $9 billion quantum computing development, as activists pressed him to withdraw city support and halt the project. Johnson attended a “Community over Quantum” town hall organized b…"
+    },
+    {
+      "title": "Researchers Use Light to Study Electron Motion in Wigner Crystals",
+      "link": "https://thequantuminsider.com/2026/08/18/researchers-use-light-study-electron-motion-wigner-crystals/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 08:54:39 +0000",
+      "published_ts": 1787043279,
+      "summary": "Insider Brief Press release &#8211; The group of BQC Prof. Tomasz Smoleński at the University of Basel, together with researchers from the Technical University of Munich, has found a new way to observe the collective motion of electrons in one of the most elusive states of matter: the Wigner crystal…"
+    },
+    {
+      "title": "China Tests Quantum Technology in Power Grid",
+      "link": "https://thequantuminsider.com/2026/08/18/china-tests-quantum-technology-in-power-grid/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 08:13:42 +0000",
+      "published_ts": 1787040822,
+      "summary": "Insider Brief China is testing quantum sensors, secure communications and computing in a working power substation, examining how the emerging technology could be applied to the country&#8217;s electrical grid. The 220-kilovolt Houdian Quantum Application Demonstration Substation in Hefei, in eastern…"
+    },
     {
       "title": "NHanced Semiconductors and University of Florida to Present Advanced Photonics Packaging Research",
       "link": "https://thequantuminsider.com/2026/08/18/nhanced-semiconductors-university-florida-silicon-photonics-packaging-smta/",
@@ -218,44 +258,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; In May, a study was&#160;published&#160;in&#160;Nature Communications&#160;that identified an unusual regime of quantum oscillations in a three-dimensional topological insulator. The results show that, when subjected to temperatures near absolute zero and extreme…"
     },
     {
-      "title": "Scientists Propose More Realistic Benchmarks For Quantum Algorithms",
-      "link": "https://thequantuminsider.com/2026/08/17/scientists-propose-more-realistic-benchmarks-for-quantum-algorithms/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 17 Aug 2026 07:12:38 +0000",
-      "published_ts": 1786950758,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Two recent scientific publications from the Fraunhofer Institute for Applied Solid State Physics IAF shed light on how the concept of quantum advantage can be assessed more precisely and realistically in the future. Both papers provide theoretical tools to make cl…"
-    },
-    {
       "title": "Strain flips Hall signal in altermagnetic manganese telluride, suggesting a path to practical spintronics",
       "link": "https://phys.org/news/2026-08-strain-flips-hall-altermagnetic-manganese.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Sun, 16 Aug 2026 12:00:04 EDT",
       "published_ts": 1786896004,
       "summary": "Time-reversal symmetry is an exotic behavior found in systems whose internal physics looks different when running forward versus backward in time. For some time, physicists have searched for this behavior in systems with almost no overall magnetization. Such phases are highly prized for spintronics,…"
-    },
-    {
-      "title": "The Company Lab Launches CO.LAB Q for Quantum Startups",
-      "link": "https://thequantuminsider.com/2026/08/16/company-lab-launches-colab-q-for-quantum-startups/",
-      "source": "The Quantum Insider",
-      "published": "Sun, 16 Aug 2026 07:00:00 +0000",
-      "published_ts": 1786863600,
-      "summary": "Insider Brief Press release &#8211; The Company Lab (CO.LAB) today announced CO.LAB Q, a 12-month quantum commercialization studio designed to help promising startups and research teams turn advanced technologies into scalable, market-ready companies. Applications are now open, and the program begin…"
-    },
-    {
-      "title": "University of Guelph and Xanadu Partner on Quantum Computing Education",
-      "link": "https://thequantuminsider.com/2026/08/15/university-of-guelph-xanadu-quantum-education-partnership/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 15 Aug 2026 07:00:00 +0000",
-      "published_ts": 1786777200,
-      "summary": "Insider Brief Press release &#8211; The University of Guelph and Xanadu, a Canadian leader in quantum computing, have signed a memorandum of understanding (MOU) to collaborate on advancing quantum computing education and preparing students for emerging careers in the rapidly growing quantum sector.…"
-    },
-    {
-      "title": "Dorit Dor (QBeat Ventures): What cybersecurity’s rise teaches quantum go-to-market",
-      "link": "https://thequantuminsider.com/2026/08/15/dorit-dor-qbeat-ventures-what-cybersecuritys-rise-teaches-quantum-go-to-market/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 15 Aug 2026 07:00:00 +0000",
-      "published_ts": 1786777200,
-      "summary": "Yuval Boger interviews Dorit Dor, co-founder of QBeat Ventures and former senior executive at Check Point. They discuss lessons quantum startups can draw from the evolution of cybersecurity, including the importance of go-to-market strategy, focus, and adherence to standards. Dorit outlines her fund…"
     },
     {
       "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
@@ -320,14 +328,6 @@
       "published": "Tue, 11 Aug 2026 05:00:03 EDT",
       "published_ts": 1786438803,
       "summary": "Researchers at the University of Basel and the Technical University of Munich have developed a new method to reveal the collective motion of electrons in one of the most elusive states of matter: the Wigner crystal. Using light, the physicists were able to uncover previously inaccessible properties…"
-    },
-    {
-      "title": "Quantum heat circuits learn electronics' oldest trick: Sharing a power supply",
-      "link": "https://phys.org/news/2026-08-quantum-circuits-electronics-oldest-power.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 10 Aug 2026 16:40:10 EDT",
-      "published_ts": 1786394410,
-      "summary": "Every electronic and optoelectronic device generates heat, and today that heat is managed almost entirely from the outside. Heatsinks, fans, cold plates and refrigerators are bulky exterior measures bolted onto a chip or package after the fact. They treat heat as a single averaged quantity to be rem…"
     },
     {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
