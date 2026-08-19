@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1787077830,
+  "generated_ts": 1787101055,
   "items": [
+    {
+      "title": "Krypton gas emerges as a new ingredient for quantum computing",
+      "link": "https://phys.org/news/2026-08-krypton-gas-emerges-ingredient-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 18 Aug 2026 19:40:06 EDT",
+      "published_ts": 1787096406,
+      "summary": "To commercialize quantum computing, manufacturers need high-quality superconducting materials for microchips, but they also require a reliable, sustainable nanofabrication process. Tantalum is a corrosion-resistant metal that meets the first criterion but not the second. That's because it has to be…"
+    },
+    {
+      "title": "New photonic crystal method improves single-photon sources for quantum networks",
+      "link": "https://phys.org/news/2026-08-photonic-crystal-method-photon-sources.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 18 Aug 2026 18:00:04 EDT",
+      "published_ts": 1787090404,
+      "summary": "Quantum communication promises many advantages over today's standard technologies, including absolutely secure transmission of large amounts of data. However, it requires single photons—and generating them is very difficult. Researchers at the Technical University of Munich (TUM) and the Munich Cent…"
+    },
+    {
+      "title": "The global race to make a practical quantum computer just took a big leap forward",
+      "link": "https://phys.org/news/2026-08-global-quantum-big.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 18 Aug 2026 15:40:04 EDT",
+      "published_ts": 1787082004,
+      "summary": "In the global race to build bigger and better quantum computers, researchers have taken a step forward. A new machine called Helios is radically different from other quantum computers."
+    },
+    {
+      "title": "Physicists entangle quantum memories across a record-breaking 420 km",
+      "link": "https://phys.org/news/2026-08-physicists-entangle-quantum-memories-km.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 18 Aug 2026 15:30:01 EDT",
+      "published_ts": 1787081401,
+      "summary": "Optical fibers are already the backbone of global communication systems. Recently, however, physicists have started to explore how their functionality could be boosted further by conveying information via entangled quantum particles—potentially enabling instantaneous exchanges of information across…"
+    },
+    {
+      "title": "Eclypses And Sterling Team Up to Deliver Quantum-Resistant Cryptography to Federal Government Systems",
+      "link": "https://thequantuminsider.com/2026/08/18/eclypses-and-sterling-team-up-to-deliver-quantum-resistant-cryptography-to-federal-government-systems/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 18 Aug 2026 18:33:48 +0000",
+      "published_ts": 1787078028,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Eclypses, a cyber leader redefining data security for the AI and quantum era, today announced that it has selected Sterling, an award-winning Global Solutions Integrator, as its partner of choice to deliver MicroToken Exchange® (MTE)—its patented, FIPS 140-3 valid…"
+    },
     {
       "title": "Infleqtion Opens Colorado Quantum Innovation Center",
       "link": "https://thequantuminsider.com/2026/08/18/infleqtion-opens-quantum-innovation-center-colorado/",
@@ -80,14 +120,6 @@
       "published": "Tue, 18 Aug 2026 08:00:07 EDT",
       "published_ts": 1787054407,
       "summary": "Quantum sensors, devices that collect measurements by exploiting quantum-mechanical phenomena, could potentially detect extremely weak magnetic, gravitational and electromagnetic signals with greater sensitivity than classical sensors. Some quantum sensors leverage entanglement, a phenomenon that pr…"
-    },
-    {
-      "title": "Sydney Quantum Academy Hosts Event to Introduce Students to Quantum Careers",
-      "link": "https://thequantuminsider.com/2026/08/18/sydney-quantum-academy-event-quantum-careers/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 09:13:31 +0000",
-      "published_ts": 1787044411,
-      "summary": "Insider Brief Press release &#8211; With tens of thousands of local quantum jobs predicted in coming years, SQA is hosting Quantum Future Talent: From Curiosity to Career in Chatswood today as part of National Science Week (15–23 August). The sold-out event will see more than 500 students from Years…"
     },
     {
       "title": "Stabilizer Statistical Mechanics: A Framework for Efficient Quantification and Classification of Magic States",
@@ -296,38 +328,6 @@
       "published": "Wed, 12 Aug 2026 09:20:08 EDT",
       "published_ts": 1786540808,
       "summary": "Quantum advantage refers to the point at which a quantum computer solves a clearly defined task faster or more efficiently than any classical computer—or makes it solvable in the first place. For many practical applications, this has not yet been demonstrated. Research therefore relies heavily on th…"
-    },
-    {
-      "title": "Long-sought Zhang-Rice singlet visualized directly in cuprate superconductor",
-      "link": "https://phys.org/news/2026-08-sought-zhang-rice-singlet-visualized.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 12 Aug 2026 08:00:01 EDT",
-      "published_ts": 1786536001,
-      "summary": "Superconductors are materials that conduct electricity with zero electrical resistance below specific temperatures. Most of these materials become superconducting at very low temperatures, but some also exhibit superconductivity at higher temperatures."
-    },
-    {
-      "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
-      "link": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 11 Aug 2026 17:40:04 EDT",
-      "published_ts": 1786484404,
-      "summary": "A University of Kansas physicist played a leading role in a CERN study showing that two rival explanations for how gluons behave inside atomic nuclei can now be experimentally distinguished."
-    },
-    {
-      "title": "X-rays: Beyond the Nobel Prize limit",
-      "link": "https://phys.org/news/2026-08-rays-nobel-prize-limit.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 11 Aug 2026 13:40:07 EDT",
-      "published_ts": 1786470007,
-      "summary": "When certain atoms are irradiated with laser light, they can produce a very different kind of laser light: laser pulses with extremely high frequencies in the X-ray range. These laser pulses, which helped achieve record-breaking results at TU Wien in the 1990s, were the subject of the 2023 Nobel Pri…"
-    },
-    {
-      "title": "New optical method reveals internal dynamics of elusive Wigner crystals",
-      "link": "https://phys.org/news/2026-08-optical-method-reveals-internal-dynamics.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 11 Aug 2026 05:00:03 EDT",
-      "published_ts": 1786438803,
-      "summary": "Researchers at the University of Basel and the Technical University of Munich have developed a new method to reveal the collective motion of electrons in one of the most elusive states of matter: the Wigner crystal. Using light, the physicists were able to uncover previously inaccessible properties…"
     },
     {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
