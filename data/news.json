@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1787142973,
+  "generated_ts": 1787164024,
   "items": [
+    {
+      "title": "Turning a quantum battery's environmental sensitivity into an advantage",
+      "link": "https://phys.org/news/2026-08-quantum-battery-environmental-sensitivity-advantage.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 19 Aug 2026 10:40:07 EDT",
+      "published_ts": 1787150407,
+      "summary": "Quantum batteries, devices that store energy by exploiting quantum mechanical phenomena, could, in principle, be charged faster and more efficiently than classical ones. Despite their potential, connecting these batteries to chargers is known to create quantum correlations that can trap some energy…"
+    },
+    {
+      "title": "Diraq Opens First U.S. Quantum Laboratory in Chicago",
+      "link": "https://thequantuminsider.com/2026/08/19/diraq-opens-first-u-s-quantum-laboratory-in-chicago/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 19 Aug 2026 14:36:28 +0000",
+      "published_ts": 1787150188,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Diraq, the quantum computing pioneer, has opened its first U.S. laboratory in Chicago as part of the Illinois Quantum and Microelectronics Park’s (IQMP) On-Ramp program at mHUB. “Chicago’s superb quantum facilities offer Diraq the ability to rapidly test and proto…"
+    },
+    {
+      "title": "Search in strange quark sector reveals new particle possibilities",
+      "link": "https://phys.org/news/2026-08-strange-quark-sector-reveals-particle.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 19 Aug 2026 10:20:05 EDT",
+      "published_ts": 1787149205,
+      "summary": "Despite science's best efforts to classify the vast menagerie of subatomic particles discovered over the past few decades, some exotic varieties defy explanation. Now, nuclear physicists at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility have found evidence of two unex…"
+    },
+    {
+      "title": "Korean Researchers Identifies Cause of ‘Beat’ Signal in Topological Insulator Nanowires",
+      "link": "https://thequantuminsider.com/2026/08/19/korean-researchers-source-beat-signal-topological-insulator-nanowires/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 19 Aug 2026 13:57:46 +0000",
+      "published_ts": 1787147866,
+      "summary": "Insider Brief A South Korean research team has identified the cause of the &#8220;beat&#8221; signal observed in topological insulator nanowires, a problem that had been an obstacle to interpreting quantum signals for years, the Seoul Economic Daily reported. Researchers from the Korea Research Inst…"
+    },
+    {
+      "title": "Quantum simulators gain quantitative error bars in 51-ion test",
+      "link": "https://phys.org/news/2026-08-quantum-simulators-gain-quantitative-error.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 19 Aug 2026 09:45:31 EDT",
+      "published_ts": 1787147131,
+      "summary": "In the coming years, increasingly larger and more powerful quantum systems are expected to tackle problems that are difficult or impossible to solve using conventional computers. However, the more powerful quantum simulations become, the more difficult it is to independently verify their results. Wh…"
+    },
     {
       "title": "EigenQ and Silicon Valley Acquisition Corp Submit Draft S-4 for Proposed Business Combination",
       "link": "https://thequantuminsider.com/2026/08/19/eigenq-silicon-valley-acquisition-corp-advance-business-combination/",
@@ -226,22 +266,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Eclypses, a cyber leader redefining data security for the AI and quantum era, today announced that it has selected Sterling, an award-winning Global Solutions Integrator, as its partner of choice to deliver MicroToken Exchange® (MTE)—its patented, FIPS 140-3 valid…"
     },
     {
-      "title": "Infleqtion Opens Colorado Quantum Innovation Center",
-      "link": "https://thequantuminsider.com/2026/08/18/infleqtion-opens-quantum-innovation-center-colorado/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 17:33:28 +0000",
-      "published_ts": 1787074408,
-      "summary": "Insider Brief Press release &#8211; Infleqtion&#160;(NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, is celebrating the grand opening of the Colorado Quantum Innovation Center (CQIC), its new facility in Louisville, Colorado at 1315 W. Centur…"
-    },
-    {
-      "title": "Symmatrics Appoints Jim Garrity as Senior Vice President of Growth",
-      "link": "https://thequantuminsider.com/2026/08/18/symmatrics-jim-garrity-expanding-leadership-team-growth/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 14:46:44 +0000",
-      "published_ts": 1787064404,
-      "summary": "Insider Brief Press release &#8211; Symmatrics, a breakthrough quantum secure data protection platform, is excited to announce the appointment of Jim Garrity as Senior Vice President of Growth, a strategic addition driving the company&#8217;s next phase of expansion as organizations seek more secure…"
-    },
-    {
       "title": "A new approach to building noise-resistant quantum sensors",
       "link": "https://phys.org/news/2026-08-approach-noise-resistant-quantum-sensors.html",
       "source": "Phys.org — Quantum Physics",
@@ -312,30 +336,6 @@
       "published": "Fri, 14 Aug 2026 08:56:01 EDT",
       "published_ts": 1786712161,
       "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing micr…"
-    },
-    {
-      "title": "Uniaxial strain reveals new way to tune electron flow in altermagnet material",
-      "link": "https://phys.org/news/2026-08-uniaxial-strain-reveals-tune-electron.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 13 Aug 2026 02:39:51 EDT",
-      "published_ts": 1786603191,
-      "summary": "Altermagnetism is a new, third type of magnetism of great interest for spin-transport applications like computer memory. If properly harnessed, it could combine the benefits of the two existing types of magnetism, ferromagnetism and antiferromagnetism, ultimately reducing or eliminating heat during…"
-    },
-    {
-      "title": "Spontaneous magnons synchronize with external signals at room temperature",
-      "link": "https://phys.org/news/2026-08-spontaneous-magnons-synchronize-external-room.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 12 Aug 2026 12:00:05 EDT",
-      "published_ts": 1786550405,
-      "summary": "Signals ride on waves of one kind or another: light, sound, radio. But new carriers are needed to relay information in next-generation devices. Disturbances or waves in magnetic materials called magnons could be an efficient option—if scientists can tame them."
-    },
-    {
-      "title": "Quantum advantage reassessed: More realistic benchmarks for quantum algorithms",
-      "link": "https://phys.org/news/2026-08-quantum-advantage-reassessed-realistic-benchmarks.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 12 Aug 2026 09:20:08 EDT",
-      "published_ts": 1786540808,
-      "summary": "Quantum advantage refers to the point at which a quantum computer solves a clearly defined task faster or more efficiently than any classical computer—or makes it solvable in the first place. For many practical applications, this has not yet been demonstrated. Research therefore relies heavily on th…"
     },
     {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
