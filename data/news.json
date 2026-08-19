@@ -1,6 +1,126 @@
 {
-  "generated_ts": 1787101055,
+  "generated_ts": 1787121326,
   "items": [
+    {
+      "title": "Unitary-orbit classification and a refinement theorem for context-independent projective probabilities",
+      "link": "https://arxiv.org/abs/2608.16936",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.16936v1 Announce Type: new  Abstract: Let $\\mathcal H$ be a finite-dimensional complex Hilbert space, and let $w(P,\\mathsf M)$ be a normalized probability weight assigned to an outcome projection $P$ as it occurs in a projective measurement $\\mathsf M$. For fixed $P$, let $G_P\\cong\\mathca…"
+    },
+    {
+      "title": "New Methods and Frameworks for Quantum State Preparation in Modern Quantum Systems",
+      "link": "https://arxiv.org/abs/2608.16937",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.16937v1 Announce Type: new  Abstract: This thesis studies exact, deterministic preparation of arbitrary dense n-qubit states, the data-loading step in quantum signal and image processing. It derives two syntheses built on the Digital Signal-induced Heap Transform (DsiHT): the QsiHT Fast P…"
+    },
+    {
+      "title": "SPSA Hyperparameter Tuning for Variational Quantum Natural Language Inference",
+      "link": "https://arxiv.org/abs/2608.16939",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.16939v1 Announce Type: new  Abstract: Training variational quantum models requires choosing between parameter-shift gradients, which are exact but cost $O(P)$ forward evaluations, and simultaneous perturbation stochastic approximation (SPSA), which uses only two samples but produces high-…"
+    },
+    {
+      "title": "QSimAdv: A Late-Bound, Vendor-Agnostic Architecture for High-Performance Quantum-Circuit Simulation",
+      "link": "https://arxiv.org/abs/2608.16940",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.16940v1 Announce Type: new  Abstract: Portability in high-performance quantum-circuit simulation need not begin at the kernel. We present QSimAdv, which makes late binding, rather than a common kernel, the basis of vendor independence. Representation, operator lowering, and data placement…"
+    },
+    {
+      "title": "A formal correspondence between Bayesian inference problems and the Heisenberg representation",
+      "link": "https://arxiv.org/abs/2608.16941",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.16941v1 Announce Type: new  Abstract: The proposed formulation establishes a formal correspondence between the Heisenberg representation and the Bayesian formulation of inverse problems by identifying the observational noise operator with the initial observable. The initial observable is…"
+    },
+    {
+      "title": "Basis-update and Galerkin time integration in canonical matrix-product-state form",
+      "link": "https://arxiv.org/abs/2608.16994",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.16994v1 Announce Type: new  Abstract: Matrix product state algorithms must enlarge their bond spaces as entanglement grows and compress them to control cost. We formulate basis-update and Galerkin (BUG) time integration as a sequence of canonical MPS sweeps for Hamiltonians represented as…"
+    },
+    {
+      "title": "Non-CSS Quantum Code Embedding",
+      "link": "https://arxiv.org/abs/2608.16995",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.16995v1 Announce Type: new  Abstract: We generalize the unified framework in [Phys. Rev. A 113, 022438 (2026)] to accommodate arbitrary stabilizer codes (referred as non-CSS for emphasis). The generalization has immediate consequences in areas including logical measurement, quantum weight…"
+    },
+    {
+      "title": "Sound and Efficient Certification of High-Quality Qubit Operations: Theory and Experiment",
+      "link": "https://arxiv.org/abs/2608.17005",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.17005v1 Announce Type: new  Abstract: Can a high-quality quantum gate be certified when uncharacterized state-preparation and measurement errors are dominant? Can this be achieved with low experimental overhead? Here, we introduce a sound black-box certification protocol for a single-qubi…"
+    },
+    {
+      "title": "Multi-purpose quantum laboratories from superconducting circuits",
+      "link": "https://arxiv.org/abs/2608.17020",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.17020v1 Announce Type: new  Abstract: Superconducting circuits (SCs) are the cornerstone of modern quantum technology, enabling scalable computing through coherent control of macroscopic quantum states. Through a legacy that predates modern quantum computing, SCs have emerged as high-prec…"
+    },
+    {
+      "title": "Hardware-Aware Compilation and Execution of Bivariate Bicycle Codes on Neutral-Atom Systems",
+      "link": "https://arxiv.org/abs/2608.17023",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.17023v1 Announce Type: new  Abstract: Quantum computers are noisy; without quantum error correction (QEC), deep programs fail as qubits lose information due to decoherence. Among QEC approaches, bivariate bicycle (BB) codes offer low overhead and constant-depth syndrome extraction, while…"
+    },
+    {
+      "title": "Eigenframe Synchronization in Disordered Driven Quantum Ensembles",
+      "link": "https://arxiv.org/abs/2608.17026",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.17026v1 Announce Type: new  Abstract: Periodic driving underlies many forms of quantum control, including spin-based quantum sensing. However, in an ensemble sensor, one waveform must act on spins with different detunings, drive amplitudes, hyperfine environments, and local fields. Existi…"
+    },
+    {
+      "title": "Exact Moments of Gaussian Gram Hafnians Reveal an $n^2/\\log n$ Threshold for Weak Anticoncentration",
+      "link": "https://arxiv.org/abs/2608.17065",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.17065v1 Announce Type: new  Abstract: Anticoncentration is central to hardness arguments for approximate sampling. In the independent Gaussian surrogate for collision free Gaussian boson sampling, the moment ratio studied here also determines the averaged ideal linear cross entropy refere…"
+    },
+    {
+      "title": "Dynamic Entanglement-Weighted Pruning for Quantum Federated Unlearning in Supply-Chain Risk Prediction",
+      "link": "https://arxiv.org/abs/2608.17069",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.17069v1 Announce Type: new  Abstract: Federated deployments of variational quantum classifiers are attractive for cross-organisation risk prediction in supply chains, because raw data never leaves the client, yet data-protection regulations such as the GDPR grant clients a right to reques…"
+    },
+    {
+      "title": "Readout Orientation Controls Measurement-Accessible Quantum Tangent Geometry",
+      "link": "https://arxiv.org/abs/2608.17085",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.17085v1 Announce Type: new  Abstract: A fixed quantum measurement can expose substantially more tangent information than a restricted observable readout retains. We study this second restriction. For a normalized covariance $C \\succeq 0$, $\\mathrm{Tr} C = 1$, of measurement-induced tangen…"
+    },
+    {
+      "title": "Lie-Algebraic Classical Simulation of Bosonic Systems Beyond Gaussian Dynamics",
+      "link": "https://arxiv.org/abs/2608.17094",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787112000,
+      "summary": "arXiv:2608.17094v1 Announce Type: new  Abstract: Classical simulability is ultimately determined by both the dynamics of a quantum system and the observables being evaluated. Lie-algebraic simulation exploits the latter to make exact polynomial-time classical simulations by propagating observables t…"
+    },
     {
       "title": "Krypton gas emerges as a new ingredient for quantum computing",
       "link": "https://phys.org/news/2026-08-krypton-gas-emerges-ingredient-quantum.html",
@@ -120,126 +240,6 @@
       "published": "Tue, 18 Aug 2026 08:00:07 EDT",
       "published_ts": 1787054407,
       "summary": "Quantum sensors, devices that collect measurements by exploiting quantum-mechanical phenomena, could potentially detect extremely weak magnetic, gravitational and electromagnetic signals with greater sensitivity than classical sensors. Some quantum sensors leverage entanglement, a phenomenon that pr…"
-    },
-    {
-      "title": "Stabilizer Statistical Mechanics: A Framework for Efficient Quantification and Classification of Magic States",
-      "link": "https://arxiv.org/abs/2608.14798",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.14798v1 Announce Type: new  Abstract: The partition function is statistical mechanics' answer to an exponentially large spectrum, distilling it into a single analytic object whose temperature dependence resolves the full structure of the underlying ensemble. We show that magic, the resour…"
-    },
-    {
-      "title": "Separable Counterexamples to Complementary Quantum Correlations, and Why Random Search Missed Them",
-      "link": "https://arxiv.org/abs/2608.14806",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.14806v1 Announce Type: new  Abstract: The complementary quantum correlations (CQC) relation bounds the sum of two classical mutual informations, obtained from local mutually unbiased measurements, by the quantum mutual information of the premeasurement state. We refute it. Separable rank-…"
-    },
-    {
-      "title": "Multicolor nonlinear chiral quantum optics: beyond phase",
-      "link": "https://arxiv.org/abs/2608.14807",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.14807v1 Announce Type: new  Abstract: Chiral quantum nonlinearities that arise when light interacts with quantum emitters are known to modulate only the phase but not the amplitude of scattered photons, enabling the creation of non-reciprocal photonic elements, quantum logic gates, and qu…"
-    },
-    {
-      "title": "Geometric signatures of the onset of many-body ergodicity",
-      "link": "https://arxiv.org/abs/2608.14818",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.14818v1 Announce Type: new  Abstract: Identifying universal, robust, and interpretable signatures of the onset of ergodicity remains a major challenge. The adiabatic gauge potential has been noted to act as a sensitive probe of quantum chaos. In this work, we generalize the features of th…"
-    },
-    {
-      "title": "Enabling Hybrid HPCQC Workflows with a Heterogeneous Software Stack",
-      "link": "https://arxiv.org/abs/2608.14827",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.14827v1 Announce Type: new  Abstract: In this work, we demonstrate hybrid High Performance Computing-Quantum Computing (HPCQC) workflows on a production petascale system. The demonstration combines three components: the SuperMUC-NG supercomputer at the Leibniz Supercomputing Centre (LRZ),…"
-    },
-    {
-      "title": "Chiral Nonlinear Optics and Optical Control",
-      "link": "https://arxiv.org/abs/2608.14871",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.14871v1 Announce Type: new  Abstract: Chiral light-matter interactions lie at the heart of emerging technologies such as quantum network protocols and quantum logic gates. In the few photon regime, it has been shown that chiral interactions between photons and a waveguide-embedded two-lev…"
-    },
-    {
-      "title": "Minimality of the Pure Qubit ZX Calculus",
-      "link": "https://arxiv.org/abs/2608.14872",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.14872v1 Announce Type: new  Abstract: The ZX calculus is a graphical language for reasoning about quantum processes. In this paper, we develop a minimal pure-qubit ZX calculus based on the work of Vilmart [arXiv:1812.09114], Backens, Perdrix, and Wang [arXiv:1709.08903], and Stoltz [arXiv…"
-    },
-    {
-      "title": "A gauge-invariant theory of small Markovian errors in quantum gate sets",
-      "link": "https://arxiv.org/abs/2608.14891",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.14891v1 Announce Type: new  Abstract: Noisy logic operations on a quantum computational register -- e.g., one or more qubits -- can be described by transfer matrices (a.k.a. CPTP maps or superoperators) that act linearly on the density matrix representing the register's quantum state. Col…"
-    },
-    {
-      "title": "Floquet-Liouville Theory for Strongly Driven Open Quantum Systems",
-      "link": "https://arxiv.org/abs/2608.14966",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.14966v1 Announce Type: new  Abstract: Periodically driven quantum systems are commonly modeled using master equations constructed in the eigenbasis of an undriven Hamiltonian, implicitly assuming that environmental dissipation couples to static energy transitions even under strong time-pe…"
-    },
-    {
-      "title": "Qudit-ADAPT-VQE: an adaptive variational algorithm with counterdiabatic-inspired improvements for qudits",
-      "link": "https://arxiv.org/abs/2608.14981",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.14981v1 Announce Type: new  Abstract: Variational quantum algorithms based on qudits have attracted significant attention in recent years. However, as in their qubit-based counterparts, challenges such as barren plateaus and the design of efficient ansatz remain major obstacles. In this w…"
-    },
-    {
-      "title": "PAS-QFL: Personalized Ansatz Selection for Quantum Federated Learning under Client Data Heterogeneity",
-      "link": "https://arxiv.org/abs/2608.14995",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.14995v1 Announce Type: new  Abstract: Quantum federated learning (QFL) lets multiple quantum clients collaboratively train quantum neural networks (QNNs) without sharing private local data. However, existing QFL methods commonly assume that all clients use the same ansatz, overlooking how…"
-    },
-    {
-      "title": "Optimized EIT-Based Multi-Target CNOT^k Gates in Heteronuclear Rydberg Atom Arrays",
-      "link": "https://arxiv.org/abs/2608.15033",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.15033v1 Announce Type: new  Abstract: Efficient stabilizer readout requiring multi-qubit coupling is a core bottleneck for quantum error correction. One feasible method is direct implementation of the controlled-U gate between one ancilla qubit and the data qubits assigned to stabilizer U…"
-    },
-    {
-      "title": "An error-mitigated quantum annealing solution for the weighted Max-Cut problem on a cubic lattice",
-      "link": "https://arxiv.org/abs/2608.15094",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.15094v1 Announce Type: new  Abstract: The weighted Max-Cut problem is an NP-hard problem with application implications. It is investigated on a cubic lattice with 113 nodes and mixed-signed random edge weights. For a fixed upper bound on edge weights, it has been demonstrated that the com…"
-    },
-    {
-      "title": "Stochastic Liouville-transport theory of light-atom interaction noise in thermal atomic vapors",
-      "link": "https://arxiv.org/abs/2608.15130",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.15130v1 Announce Type: new  Abstract: Atom-light interaction noise can limit thermal-vapor sensing. Existing theories often treat internal-state dynamics, finite-mode atomic motion, and stochastic renewal separately, obscuring their coupled contributions to measured noise. We develop a ge…"
-    },
-    {
-      "title": "Exact and Efficient Circuit Construction for Block Encoding Matrix Polynomials",
-      "link": "https://arxiv.org/abs/2608.15161",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787025600,
-      "summary": "arXiv:2608.15161v1 Announce Type: new  Abstract: We propose a direct and stable circuit compiling algorithm that explicitly and exactly constructs block encodings of matrix polynomials for Hermitian matrices. In a unified framework, our algorithm is directly applicable to both standard input models:…"
     },
     {
       "title": "Quantum light engine links atom-photon thermodynamics to classical physics",
