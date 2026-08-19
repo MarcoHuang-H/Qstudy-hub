@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1787121326,
+  "generated_ts": 1787142973,
   "items": [
+    {
+      "title": "EigenQ and Silicon Valley Acquisition Corp Submit Draft S-4 for Proposed Business Combination",
+      "link": "https://thequantuminsider.com/2026/08/19/eigenq-silicon-valley-acquisition-corp-advance-business-combination/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 19 Aug 2026 12:09:12 +0000",
+      "published_ts": 1787141352,
+      "summary": "Insider Brief Press release &#8211; EigenQ, Inc. (&#8220;EigenQ&#8221; or the &#8220;Company&#8221;), a quantum technology company, and Silicon Valley Acquisition Corp. (Nasdaq: SVAQ) (&#8220;SVAQ&#8221;), a publicly traded special purpose acquisition company, today announced the confidential submis…"
+    },
+    {
+      "title": "IBM Connects Two Modular Cryogenic Systems for Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/08/19/ibm-connects-two-modular-cryogenic-systems-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 19 Aug 2026 10:29:21 +0000",
+      "published_ts": 1787135361,
+      "summary": "Insider Brief Press release &#8211; IBM (NYSE: IBM) today announced it has successfully joined and cooled down two cryogenic modules into a single environment. The new architecture is designed to scale into the modular, shared, and ultra-cold system required to link hundreds of quantum chips into a…"
+    },
+    {
+      "title": "Ideon Technologies Joins Consortium for Laser-Driven Muon Imaging",
+      "link": "https://thequantuminsider.com/2026/08/19/ideon-technologies-laser-driven-muon-imaging-consortium/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 19 Aug 2026 10:02:15 +0000",
+      "published_ts": 1787133735,
+      "summary": "Insider Brief Ideon Technologies, the global leader in muon tomography for subsurface intelligence, is participating in a landmark international research consortium that will attempt the world’s first high-resolution muon imaging experiment powered entirely by a laser-plasma accelerator. This has di…"
+    },
+    {
+      "title": "Allot Leads New Consortium Focused on Post-Quantum Communications",
+      "link": "https://thequantuminsider.com/2026/08/19/allot-launches-post-quantum-communications-consortium/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 19 Aug 2026 09:52:13 +0000",
+      "published_ts": 1787133133,
+      "summary": "Insider Brief Press release &#8211; Allot Ltd. (NASDAQ: ALLT) (TASE: ALLT), a leading global provider of innovative security-as-a-service (SECaaS) and network intelligence solutions for communication service providers and enterprises, today announced that it is a founding member and Chair of a new P…"
+    },
+    {
+      "title": "Securing wireless communication in next-generation devices",
+      "link": "https://news.mit.edu/2026/securing-wireless-communication-next-generation-devices-0819",
+      "source": "MIT News — Quantum Computing",
+      "published": "Wed, 19 Aug 2026 05:00:00 -0400",
+      "published_ts": 1787130000,
+      "summary": "A new, scalable technique could enable powerful radars and sensors based on quantum technology that works at room temperature."
+    },
+    {
+      "title": "New Tantalum Process Could Ease Manufacturing of Superconducting Quantum Chips",
+      "link": "https://thequantuminsider.com/2026/08/19/new-tantalum-process-could-ease-manufacturing-of-superconducting-quantum-chips/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 19 Aug 2026 08:19:40 +0000",
+      "published_ts": 1787127580,
+      "summary": "Insider Brief PRESS RELEASE &#8212; To commercialize quantum computing, manufacturers need high-quality superconducting materials for microchips, but they also require a reliable, sustainable nanofabrication process.&#160;&#160; Tantalum is a corrosion-resistant metal that meets the first criteria b…"
+    },
+    {
+      "title": "IonQ and CMC Microsystems Announce Collaboration to Expand Cloud Quantum Computing Access in Canada",
+      "link": "https://thequantuminsider.com/2026/08/19/ionq-and-cmc-microsystems-announce-collaboration-to-expand-cloud-quantum-computing-access-in-canada/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 19 Aug 2026 08:09:51 +0000",
+      "published_ts": 1787126991,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading quantum platform company, today announced a collaboration with Canadian Microelectronics Corporation, operating as CMC Microsystems. This collaboration integrates IonQ’s commercial trapped-ion quantum computing systems into C…"
+    },
+    {
+      "title": "The Conversation: The Global Race to Make a Practical Quantum Computer Just Took a Big Leap Forward",
+      "link": "https://thequantuminsider.com/2026/08/19/the-conversation-the-global-race-to-make-a-practical-quantum-computer-just-took-a-big-leap-forward/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 19 Aug 2026 08:00:45 +0000",
+      "published_ts": 1787126445,
+      "summary": "Guest Post by Animesh Datta, Professor of Quantum Information Science, University of Warwick, for The Conversation In the global race to build bigger and better quantum computers, researchers have taken a step forward. A new machine called Helios is a radically different system compared to other qua…"
+    },
     {
       "title": "Unitary-orbit classification and a refinement theorem for context-independent projective probabilities",
       "link": "https://arxiv.org/abs/2608.16936",
@@ -176,62 +240,6 @@
       "published": "Tue, 18 Aug 2026 14:46:44 +0000",
       "published_ts": 1787064404,
       "summary": "Insider Brief Press release &#8211; Symmatrics, a breakthrough quantum secure data protection platform, is excited to announce the appointment of Jim Garrity as Senior Vice President of Growth, a strategic addition driving the company&#8217;s next phase of expansion as organizations seek more secure…"
-    },
-    {
-      "title": "ISRO Experts Highlight AI and Quantum Technology for Future Indian Satellites",
-      "link": "https://thequantuminsider.com/2026/08/18/ai-quantum-technology-india-next-generation-satellite-systems/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 14:36:33 +0000",
-      "published_ts": 1787063793,
-      "summary": "Insider Brief Press release &#8211; During the culminating day of the National Space Technology Conclave 2026, organised by Chandigarh University at their campus, the ISRO experts concluded their remarks deliberated during the two day Conclave. The experts in one voice presented India&#8217;s strong…"
-    },
-    {
-      "title": "Bipartisan Bill Targets Quantum Cybersecurity Risks to U.S. Electric Grid",
-      "link": "https://thequantuminsider.com/2026/08/18/bipartisan-bill-quantum-cybersecurity-risks-electric-grid/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 14:26:17 +0000",
-      "published_ts": 1787063177,
-      "summary": "Insider Brief Press release &#8211; U.S. Senators Chris Coons (D-Del.) and Mike Rounds (R-S.D.) introduced the Quantum Grid Utility Assurance and Resilient Defense Act of 2026 (Quantum-GUARD Act) to strengthen electric grid resilience by proactively addressing cybersecurity threats posed by quantum…"
-    },
-    {
-      "title": "Texas Quantum Partners And Samara to Build Occam Foundry, A Quantum Technology Campus in Austin",
-      "link": "https://thequantuminsider.com/2026/08/18/texas-quantum-partners-and-samara-to-build-occam-foundry-a-quantum-technology-campus-in-austin/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 13:22:29 +0000",
-      "published_ts": 1787059349,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Texas Quantum Partners and Samara, a Texas real estate developer, today announced Occam Foundry, a quantum technology campus taking shape in Austin. The site is owned, the first buildings are drawn, and the first phase covers part of roughly sixteen and a half acr…"
-    },
-    {
-      "title": "OTI Lumionics, Samsung Benchmark Quantum Simulation Method for OLED Materials",
-      "link": "https://thequantuminsider.com/2026/08/18/oti-lumionics-samsung-benchmark-quantum-simulation-method-for-oled-materials/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 13:05:00 +0000",
-      "published_ts": 1787058300,
-      "summary": "Insider Brief PRESS RELEASE &#8212; OTI Lumionics, a leader in advanced quantum simulations and solutions for next-generation materials discovery, in collaboration with the Samsung Advanced Institute of Technology (SAIT), today announced the publication of a new manuscript benchmarking its proprieta…"
-    },
-    {
-      "title": "Guest Post: The Role of Silicon Photonics in Delivering Usable Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/08/18/guest-post-the-role-of-silicon-photonics-in-delivering-usable-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 13:02:22 +0000",
-      "published_ts": 1787058142,
-      "summary": "Guest post by Professor Callum Littlejohns, Deputy Director at CORNERSTONE, and Dr Amit Agrawal, Associate Professor in Optical Engineering at the University of Cambridge The ability to scale is one of the most pressing issues in quantum hardware today, and solving scaling challenges has become a dr…"
-    },
-    {
-      "title": "BTQ Technologies Appoints Michael Grace to Support QCIM Development",
-      "link": "https://thequantuminsider.com/2026/08/18/btq-technologies-michael-grace-qcim-product-security-commercialization/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 12:28:10 +0000",
-      "published_ts": 1787056090,
-      "summary": "Insider Brief Press release &#8211; BTQ Technologies Corp. (&#8220;BTQ&#8220; or the &#8220;Company&#8221;) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, is pleased to announce that Dr. Michael Grace is joining the Company&#8217;s U.…"
-    },
-    {
-      "title": "NTT DOCOMO Deploys Second D-Wave Quantum Application for Network Optimization",
-      "link": "https://thequantuminsider.com/2026/08/18/ntt-docomo-second-d-wave-quantum-application-network-optimization/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 12:02:20 +0000",
-      "published_ts": 1787054540,
-      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (NASDAQ: QBTS), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, and NTT DOCOMO, INC. (“DOCOMO”), Japan’s largest mobile operator with more than 93 million subscriptions, t…"
     },
     {
       "title": "A new approach to building noise-resistant quantum sensors",
@@ -552,14 +560,6 @@
       "published": "Wed, 29 Apr 2026 06:00:00 -0400",
       "published_ts": 1777456800,
       "summary": "Building on a long-standing MIT–IBM collaboration, the new lab will chart the convergence of AI, algorithms, and quantum computing."
-    },
-    {
-      "title": "New chip can protect wireless biomedical devices from quantum attacks",
-      "link": "https://news.mit.edu/2026/new-chip-can-protect-wireless-biomedical-devices-from-quantum-attacks-0423",
-      "source": "MIT News — Quantum Computing",
-      "published": "Thu, 23 Apr 2026 00:00:00 -0400",
-      "published_ts": 1776916800,
-      "summary": "Ultra-efficient chip design enables extremely strong cryptography algorithms to run on energy-constrained edge devices."
     }
   ]
 }
