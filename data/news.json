@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1787207820,
+  "generated_ts": 1787229453,
   "items": [
+    {
+      "title": "Dark energy and quantum gravity may be deeply intertwined",
+      "link": "https://phys.org/news/2026-08-dark-energy-quantum-gravity-deeply.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 20 Aug 2026 07:40:06 EDT",
+      "published_ts": 1787226006,
+      "summary": "For close to a century, physicists have pursued a way to unite gravity with quantum mechanics. Known as quantum gravity, this goal has remained frustratingly out of reach so far. Similarly elusive is the force of dark energy, which is believed to be driving the universe's accelerating expansion."
+    },
+    {
+      "title": "Rigetti Creates Systems Delivery Unit as Quantum System Deployments Grow",
+      "link": "https://thequantuminsider.com/2026/08/20/rigetti-systems-delivery-quantum-system-deployments/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 20 Aug 2026 11:31:25 +0000",
+      "published_ts": 1787225485,
+      "summary": "Insider Brief Press release &#8211; Rigetti Computing, Inc. (Nasdaq: RGTI) (&#8220;Rigetti&#8221;), a pioneer in full-stack quantum computing, today announced a new operating structure designed to scale deployment of on-premises quantum systems, strengthen end-to-end operational execution, and furth…"
+    },
+    {
+      "title": "FormationQ and Hartree Centre Partner to Advance Quantum Computing in the UK",
+      "link": "https://thequantuminsider.com/2026/08/20/formationq-hartree-centre-quantum-advanced-computing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 20 Aug 2026 11:17:59 +0000",
+      "published_ts": 1787224679,
+      "summary": "Insider Brief Press release &#8211; FormationQ and the Hartree Centre, part of the Science and Technology Facilities Council (STFC) and UK Research and Innovation (UKRI), today announced a strategic partnership to accelerate the adoption of advanced quantum computing technologies across industry, go…"
+    },
+    {
+      "title": "Quantinuum Expands Research Operations in Albuquerque",
+      "link": "https://thequantuminsider.com/2026/08/20/quantinuum-expands-research-operations-albuquerque/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 20 Aug 2026 10:15:37 +0000",
+      "published_ts": 1787220937,
+      "summary": "Insider Brief Press release &#8211; The State of New Mexico and the City of Albuquerque are backing the expansion of Quantinuum, a leading quantum computing company, further establishing Albuquerque as a national hub in quantum technology and advanced research. The city and state will each contribut…"
+    },
+    {
+      "title": "GMV Builds Broad Quantum Portfolio Across Computing, Space, Communications and Cybersecurity",
+      "link": "https://thequantuminsider.com/2026/08/20/gmv-builds-broad-quantum-portfolio-across-computing-space-communications-and-cybersecurity/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 20 Aug 2026 08:03:31 +0000",
+      "published_ts": 1787213011,
+      "summary": "Insider Brief European technology group GMV is expanding its quantum technology efforts across computing, communications, space, sensing and cybersecurity. It&#8217;s a portfolio approach that positions the company as an integrator of emerging quantum systems rather than a developer focused on a sin…"
+    },
+    {
+      "title": "Caltech Team Uses Quantum Simulator to Probe Universal Rules of Quantum Matter",
+      "link": "https://thequantuminsider.com/2026/08/20/caltech-team-uses-quantum-simulator-to-probe-universal-rules-of-quantum-matter/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 20 Aug 2026 07:36:22 +0000",
+      "published_ts": 1787211382,
+      "summary": "Insider Brief PRESS RELEASE &#8212; When different materials transition from one phase to another, such a water coming to a boil or a magnet losing its ability to attract metals, something remarkable can happen: They begin to behave identically, following the same mathematical rules. &#8220;Physicis…"
+    },
     {
       "title": "Qkabrine: A Joint Architecture, Encoding, and Hyperparameter Search Framework for Quantum Machine Learning",
       "link": "https://arxiv.org/abs/2608.18152",
@@ -202,44 +250,12 @@
       "summary": "Insider Brief Ideon Technologies, the global leader in muon tomography for subsurface intelligence, is participating in a landmark international research consortium that will attempt the world’s first high-resolution muon imaging experiment powered entirely by a laser-plasma accelerator. This has di…"
     },
     {
-      "title": "Allot Leads New Consortium Focused on Post-Quantum Communications",
-      "link": "https://thequantuminsider.com/2026/08/19/allot-launches-post-quantum-communications-consortium/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 19 Aug 2026 09:52:13 +0000",
-      "published_ts": 1787133133,
-      "summary": "Insider Brief Press release &#8211; Allot Ltd. (NASDAQ: ALLT) (TASE: ALLT), a leading global provider of innovative security-as-a-service (SECaaS) and network intelligence solutions for communication service providers and enterprises, today announced that it is a founding member and Chair of a new P…"
-    },
-    {
       "title": "Securing wireless communication in next-generation devices",
       "link": "https://news.mit.edu/2026/securing-wireless-communication-next-generation-devices-0819",
       "source": "MIT News — Quantum Computing",
       "published": "Wed, 19 Aug 2026 05:00:00 -0400",
       "published_ts": 1787130000,
       "summary": "A new, scalable technique could enable powerful radars and sensors based on quantum technology that works at room temperature."
-    },
-    {
-      "title": "New Tantalum Process Could Ease Manufacturing of Superconducting Quantum Chips",
-      "link": "https://thequantuminsider.com/2026/08/19/new-tantalum-process-could-ease-manufacturing-of-superconducting-quantum-chips/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 19 Aug 2026 08:19:40 +0000",
-      "published_ts": 1787127580,
-      "summary": "Insider Brief PRESS RELEASE &#8212; To commercialize quantum computing, manufacturers need high-quality superconducting materials for microchips, but they also require a reliable, sustainable nanofabrication process.&#160;&#160; Tantalum is a corrosion-resistant metal that meets the first criteria b…"
-    },
-    {
-      "title": "IonQ and CMC Microsystems Announce Collaboration to Expand Cloud Quantum Computing Access in Canada",
-      "link": "https://thequantuminsider.com/2026/08/19/ionq-and-cmc-microsystems-announce-collaboration-to-expand-cloud-quantum-computing-access-in-canada/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 19 Aug 2026 08:09:51 +0000",
-      "published_ts": 1787126991,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading quantum platform company, today announced a collaboration with Canadian Microelectronics Corporation, operating as CMC Microsystems. This collaboration integrates IonQ’s commercial trapped-ion quantum computing systems into C…"
-    },
-    {
-      "title": "The Conversation: The Global Race to Make a Practical Quantum Computer Just Took a Big Leap Forward",
-      "link": "https://thequantuminsider.com/2026/08/19/the-conversation-the-global-race-to-make-a-practical-quantum-computer-just-took-a-big-leap-forward/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 19 Aug 2026 08:00:45 +0000",
-      "published_ts": 1787126445,
-      "summary": "Guest Post by Animesh Datta, Professor of Quantum Information Science, University of Warwick, for The Conversation In the global race to build bigger and better quantum computers, researchers have taken a step forward. A new machine called Helios is a radically different system compared to other qua…"
     },
     {
       "title": "Krypton gas emerges as a new ingredient for quantum computing",
@@ -272,14 +288,6 @@
       "published": "Tue, 18 Aug 2026 15:30:01 EDT",
       "published_ts": 1787081401,
       "summary": "Optical fibers are already the backbone of global communication systems. Recently, however, physicists have started to explore how their functionality could be boosted further by conveying information via entangled quantum particles—potentially enabling instantaneous exchanges of information across…"
-    },
-    {
-      "title": "Eclypses And Sterling Team Up to Deliver Quantum-Resistant Cryptography to Federal Government Systems",
-      "link": "https://thequantuminsider.com/2026/08/18/eclypses-and-sterling-team-up-to-deliver-quantum-resistant-cryptography-to-federal-government-systems/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 18 Aug 2026 18:33:48 +0000",
-      "published_ts": 1787078028,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Eclypses, a cyber leader redefining data security for the AI and quantum era, today announced that it has selected Sterling, an award-winning Global Solutions Integrator, as its partner of choice to deliver MicroToken Exchange® (MTE)—its patented, FIPS 140-3 valid…"
     },
     {
       "title": "A new approach to building noise-resistant quantum sensors",
@@ -320,14 +328,6 @@
       "published": "Mon, 17 Aug 2026 14:20:03 EDT",
       "published_ts": 1786990803,
       "summary": "Researchers at Monash University have predicted a new type of quantum matter that challenges decades of thinking about how ultracold particles behave. The paper, \"Quantum droplets in a resonant Bose-Fermi mixture,\" is published in Physical Review Letters."
-    },
-    {
-      "title": "Graphene device measures fractional electric charges carried by some of quantum physics' strangest objects",
-      "link": "https://phys.org/news/2026-08-graphene-device-fractional-electric-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 17 Aug 2026 13:40:10 EDT",
-      "published_ts": 1786988410,
-      "summary": "An electron is supposed to be indivisible. It carries one fundamental unit of electric charge, and every electron is exactly the same. But under extreme conditions, large numbers of electrons act together and give rise to new quantum objects called quasiparticles. These act as if they carry only a f…"
     },
     {
       "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
