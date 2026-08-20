@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1787164024,
+  "generated_ts": 1787187433,
   "items": [
+    {
+      "title": "Universal pattern revealed in quantum matter",
+      "link": "https://phys.org/news/2026-08-universal-pattern-revealed-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 19 Aug 2026 17:20:01 EDT",
+      "published_ts": 1787174401,
+      "summary": "When different materials transition from one phase to another, such as water coming to a boil or a magnet losing its ability to attract metals, something remarkable can happen: They begin to behave identically, following the same mathematical rules. \"Physicists call this trait universality—the messy…"
+    },
+    {
+      "title": "A little bit more than magic: The secret to quantum computing may lie in negativity",
+      "link": "https://phys.org/news/2026-08-bit-magic-secret-quantum-negativity.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 19 Aug 2026 16:40:04 EDT",
+      "published_ts": 1787172004,
+      "summary": "Quantum computers hold great promise for applications from drug discovery to cybersecurity. Yet figuring out what would give quantum computers their edge over everyday \"classical\" computers is a subtle problem. A new theoretical study led by researchers at the Cavendish Laboratory shows that quantum…"
+    },
     {
       "title": "Turning a quantum battery's environmental sensitivity into an advantage",
       "link": "https://phys.org/news/2026-08-quantum-battery-environmental-sensitivity-advantage.html",
@@ -312,22 +328,6 @@
       "published": "Mon, 17 Aug 2026 13:40:10 EDT",
       "published_ts": 1786988410,
       "summary": "An electron is supposed to be indivisible. It carries one fundamental unit of electric charge, and every electron is exactly the same. But under extreme conditions, large numbers of electrons act together and give rise to new quantum objects called quasiparticles. These act as if they carry only a f…"
-    },
-    {
-      "title": "Anomalous quantum oscillations reveal new physics in a topological insulator",
-      "link": "https://phys.org/news/2026-08-anomalous-quantum-oscillations-reveal-physics.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 17 Aug 2026 10:40:05 EDT",
-      "published_ts": 1786977605,
-      "summary": "A study has been published in Nature Communications that identifies an unusual regime of quantum oscillations in a three-dimensional topological insulator. The results show that, when subjected to temperatures near absolute zero and extreme magnetic fields, electrons in the material zirconium pentat…"
-    },
-    {
-      "title": "Strain flips Hall signal in altermagnetic manganese telluride, suggesting a path to practical spintronics",
-      "link": "https://phys.org/news/2026-08-strain-flips-hall-altermagnetic-manganese.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sun, 16 Aug 2026 12:00:04 EDT",
-      "published_ts": 1786896004,
-      "summary": "Time-reversal symmetry is an exotic behavior found in systems whose internal physics looks different when running forward versus backward in time. For some time, physicists have searched for this behavior in systems with almost no overall magnetization. Such phases are highly prized for spintronics,…"
     },
     {
       "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
