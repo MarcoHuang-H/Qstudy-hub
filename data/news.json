@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1787229453,
+  "generated_ts": 1787250712,
   "items": [
+    {
+      "title": "Quanome Technologies Forms Council to Advise on Quantum Technologies",
+      "link": "https://thequantuminsider.com/2026/08/20/quanome-technologies-global-quantum-council-advisory-network/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 20 Aug 2026 15:47:28 +0000",
+      "published_ts": 1787240848,
+      "summary": "Insider Brief Press release &#8211; Quanome Technologies, Inc. (Nasdaq: QNME), today announced the establishment of its Global Quantum Council and Scientific Advisory Network, bringing together recognised scientific and technical experts to strengthen the Company&#8217;s understanding of quantum sci…"
+    },
+    {
+      "title": "Quantum Electronics Study Develops Metalens for Wider-Range Imaging",
+      "link": "https://thequantuminsider.com/2026/08/20/quantum-optics-compact-metalens-imaging/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 20 Aug 2026 14:30:10 +0000",
+      "published_ts": 1787236210,
+      "summary": "Insider Brief Press release &#8211; Keeping cameras in focus without constant refocusing may soon become much simpler with an ultrathin optical device that combines nanophotonics and computational imaging. Researchers at the University of Science and Technology of China have developed a flat &#8220;…"
+    },
+    {
+      "title": "Pasqal and Bleichroeder Set August 25 Shareholder Vote on Business Combination",
+      "link": "https://thequantuminsider.com/2026/08/20/pasqal-bleichroeder-shareholder-vote-august-25/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 20 Aug 2026 14:21:52 +0000",
+      "published_ts": 1787235712,
+      "summary": "Insider Brief Press release &#8211; Bleichroeder Acquisition Corp. II (Nasdaq: BBCQ) (&#8220;Bleichroeder&#8221;) will hold a shareholder vote on August 25, 2026 to consider the proposed business combination with Pasqal Holding SAS (&#8220;Pasqal&#8220;), a global leader in neutral-atom quantum comp…"
+    },
+    {
+      "title": "Symmatrics Appoints Joe Reddix as Vice President of Federal Sector",
+      "link": "https://thequantuminsider.com/2026/08/20/symmatrics-joe-reddix-federal-quantum-secure-modernization/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 20 Aug 2026 14:14:10 +0000",
+      "published_ts": 1787235250,
+      "summary": "Insider Brief Press release &#8211; Symmatrics today announced the appointment of Joe Reddix as Vice President of Federal Sector, strengthening the company&#8217;s leadership team as demand grows for secure, resilient, and future-ready digital infrastructure across the federal government. In his new…"
+    },
+    {
+      "title": "Dirac Labs Raises $1.8M for Quantum Navigation Sensors",
+      "link": "https://thequantuminsider.com/2026/08/20/dirac-labs-raises-1-8m-quantum-navigation-sensors/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 20 Aug 2026 12:05:00 +0000",
+      "published_ts": 1787227500,
+      "summary": "Insider Brief Press release &#8211; Dirac Labs, a quantum-enabled navigation company, today announced its $1.8M pre-seed funding to prototype its quantum sensors and conduct field trials to further refine its technology to provide universal positioning where GPS is unavailable.  Quantum sensing offe…"
+    },
     {
       "title": "Dark energy and quantum gravity may be deeply intertwined",
       "link": "https://phys.org/news/2026-08-dark-energy-quantum-gravity-deeply.html",
@@ -194,14 +234,6 @@
       "summary": "Quantum batteries, devices that store energy by exploiting quantum mechanical phenomena, could, in principle, be charged faster and more efficiently than classical ones. Despite their potential, connecting these batteries to chargers is known to create quantum correlations that can trap some energy…"
     },
     {
-      "title": "Diraq Opens First U.S. Quantum Laboratory in Chicago",
-      "link": "https://thequantuminsider.com/2026/08/19/diraq-opens-first-u-s-quantum-laboratory-in-chicago/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 19 Aug 2026 14:36:28 +0000",
-      "published_ts": 1787150188,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Diraq, the quantum computing pioneer, has opened its first U.S. laboratory in Chicago as part of the Illinois Quantum and Microelectronics Park’s (IQMP) On-Ramp program at mHUB. “Chicago’s superb quantum facilities offer Diraq the ability to rapidly test and proto…"
-    },
-    {
       "title": "Search in strange quark sector reveals new particle possibilities",
       "link": "https://phys.org/news/2026-08-strange-quark-sector-reveals-particle.html",
       "source": "Phys.org — Quantum Physics",
@@ -210,44 +242,12 @@
       "summary": "Despite science's best efforts to classify the vast menagerie of subatomic particles discovered over the past few decades, some exotic varieties defy explanation. Now, nuclear physicists at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility have found evidence of two unex…"
     },
     {
-      "title": "Korean Researchers Identifies Cause of ‘Beat’ Signal in Topological Insulator Nanowires",
-      "link": "https://thequantuminsider.com/2026/08/19/korean-researchers-source-beat-signal-topological-insulator-nanowires/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 19 Aug 2026 13:57:46 +0000",
-      "published_ts": 1787147866,
-      "summary": "Insider Brief A South Korean research team has identified the cause of the &#8220;beat&#8221; signal observed in topological insulator nanowires, a problem that had been an obstacle to interpreting quantum signals for years, the Seoul Economic Daily reported. Researchers from the Korea Research Inst…"
-    },
-    {
       "title": "Quantum simulators gain quantitative error bars in 51-ion test",
       "link": "https://phys.org/news/2026-08-quantum-simulators-gain-quantitative-error.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 19 Aug 2026 09:45:31 EDT",
       "published_ts": 1787147131,
       "summary": "In the coming years, increasingly larger and more powerful quantum systems are expected to tackle problems that are difficult or impossible to solve using conventional computers. However, the more powerful quantum simulations become, the more difficult it is to independently verify their results. Wh…"
-    },
-    {
-      "title": "EigenQ and Silicon Valley Acquisition Corp Submit Draft S-4 for Proposed Business Combination",
-      "link": "https://thequantuminsider.com/2026/08/19/eigenq-silicon-valley-acquisition-corp-advance-business-combination/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 19 Aug 2026 12:09:12 +0000",
-      "published_ts": 1787141352,
-      "summary": "Insider Brief Press release &#8211; EigenQ, Inc. (&#8220;EigenQ&#8221; or the &#8220;Company&#8221;), a quantum technology company, and Silicon Valley Acquisition Corp. (Nasdaq: SVAQ) (&#8220;SVAQ&#8221;), a publicly traded special purpose acquisition company, today announced the confidential submis…"
-    },
-    {
-      "title": "IBM Connects Two Modular Cryogenic Systems for Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/08/19/ibm-connects-two-modular-cryogenic-systems-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 19 Aug 2026 10:29:21 +0000",
-      "published_ts": 1787135361,
-      "summary": "Insider Brief Press release &#8211; IBM (NYSE: IBM) today announced it has successfully joined and cooled down two cryogenic modules into a single environment. The new architecture is designed to scale into the modular, shared, and ultra-cold system required to link hundreds of quantum chips into a…"
-    },
-    {
-      "title": "Ideon Technologies Joins Consortium for Laser-Driven Muon Imaging",
-      "link": "https://thequantuminsider.com/2026/08/19/ideon-technologies-laser-driven-muon-imaging-consortium/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 19 Aug 2026 10:02:15 +0000",
-      "published_ts": 1787133735,
-      "summary": "Insider Brief Ideon Technologies, the global leader in muon tomography for subsurface intelligence, is participating in a landmark international research consortium that will attempt the world’s first high-resolution muon imaging experiment powered entirely by a laser-plasma accelerator. This has di…"
     },
     {
       "title": "Securing wireless communication in next-generation devices",
