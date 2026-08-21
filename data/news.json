@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1787294242,
+  "generated_ts": 1787315795,
   "items": [
+    {
+      "title": "Berkeley Lab-Led Project Secures Funding to Develop a Transportable Muon Imager",
+      "link": "https://thequantuminsider.com/2026/08/21/berkeley-lab-led-project-secures-funding-to-develop-a-transportable-muon-imager/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 21 Aug 2026 11:13:40 +0000",
+      "published_ts": 1787310820,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The&#160;U.S. Department of Energy (DOE)’s&#160;Lawrence Berkeley National Laboratory (Berkeley Lab), in partnership with&#160;Ideon Technologies, has received funding from the&#160;DOE’s&#160;Advanced Research Projects Agency-Energy (ARPA-E)&#160;through the Reli…"
+    },
+    {
+      "title": "ORNL Researcher Advances Particle Detection for the Electron-Ion Collider",
+      "link": "https://thequantuminsider.com/2026/08/21/ornl-physicist-detectors-nuclear-physics-research/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 21 Aug 2026 11:07:40 +0000",
+      "published_ts": 1787310460,
+      "summary": "Insider Brief Press release &#8211; John Lajoie is a builder—not of buildings or everyday machines, but of detectors with a special purpose. A physicist at the Department of Energy’s (DOE’s) Oak Ridge National Laboratory (ORNL), Lajoie has shaped his career around finding hard-to-solve problems and…"
+    },
+    {
+      "title": "Q2B Copenhagen 2026 to Focus on Quantum Technology and Commercial Adoption",
+      "link": "https://thequantuminsider.com/2026/08/21/q2b-copenhagen-2026-quantum-industry-leaders-denmark/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 21 Aug 2026 10:42:13 +0000",
+      "published_ts": 1787308933,
+      "summary": "Insider Brief Press release &#8211; QC Ware, the organizer of Q2B conferences and a developer of computational chemistry and quantum computing software, has announced that the 2026 Q2B Copenhagen Conference will take place on September 9-10, 2026, in Copenhagen, Denmark. The conference is presented…"
+    },
+    {
+      "title": "Crypto4A QASM Module Achieves FIPS 140-3 Level 3 Validation",
+      "link": "https://thequantuminsider.com/2026/08/21/crypto4a-fips-140-3-level-3-quantum-safe-hsm/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 21 Aug 2026 10:29:11 +0000",
+      "published_ts": 1787308151,
+      "summary": "Insider Brief Press release &#8211; Canadian cybersecurity company Crypto4A Technologies Inc. has achieved a global first in the race to protect governments, financial systems, critical infrastructure and defence networks from the emerging threat posed by quantum computing. Crypto4A has received FIP…"
+    },
+    {
+      "title": "Who Will Actually Use Quantum Computers? Study Identifies 11 User Types",
+      "link": "https://thequantuminsider.com/2026/08/21/who-will-actually-use-quantum-computers-study-identifies-11-user-types/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 21 Aug 2026 08:19:39 +0000",
+      "published_ts": 1787300379,
+      "summary": "Insider Brief Quantum computing might have a user problem as well as a hardware problem, according to a new study that identifies 11 types of people likely to interact with quantum software. The researchers also found that that these different users can require much different ways of accessing the t…"
+    },
+    {
+      "title": "ORNL Quantum Computing User Forum Highlights Quantum-HPC Research",
+      "link": "https://thequantuminsider.com/2026/08/21/ornl-quantum-computing-user-forum-quantum-hpc-research/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 21 Aug 2026 07:30:00 +0000",
+      "published_ts": 1787297400,
+      "summary": "Insider Brief Press release &#8211; Researchers, software developers and technology leaders from across the global quantum computing ecosystem gathered at the Department of Energy’s (DOE)&#160;Oak Ridge National Laboratory&#160;(ORNL) in July for the seventh annual Quantum Computing User Forum (QCUF…"
+    },
+    {
+      "title": "EBU and Superpositions Partner to Add Quantum Computing to Business Education",
+      "link": "https://thequantuminsider.com/2026/08/21/ebu-superpositions-quantum-computing-business-education/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 21 Aug 2026 07:00:00 +0000",
+      "published_ts": 1787295600,
+      "summary": "Insider Brief Press release &#8211; EBU (European Business Institute of Luxembourg) and Superpositions, a European quantum software company, recently announced a partnership to bring quantum computing into EBU&#8217;s business curriculum, as part of the school&#8217;s new Q-Ready initiative. EBU is…"
+    },
     {
       "title": "Non-Inertial Response of Correlations: From Scalar Bell Observables to an Extended Correlation Tensor",
       "link": "https://arxiv.org/abs/2608.19242",
@@ -154,68 +210,12 @@
       "summary": "Insider Brief Press release &#8211; Keeping cameras in focus without constant refocusing may soon become much simpler with an ultrathin optical device that combines nanophotonics and computational imaging. Researchers at the University of Science and Technology of China have developed a flat &#8220;…"
     },
     {
-      "title": "Pasqal and Bleichroeder Set August 25 Shareholder Vote on Business Combination",
-      "link": "https://thequantuminsider.com/2026/08/20/pasqal-bleichroeder-shareholder-vote-august-25/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 20 Aug 2026 14:21:52 +0000",
-      "published_ts": 1787235712,
-      "summary": "Insider Brief Press release &#8211; Bleichroeder Acquisition Corp. II (Nasdaq: BBCQ) (&#8220;Bleichroeder&#8221;) will hold a shareholder vote on August 25, 2026 to consider the proposed business combination with Pasqal Holding SAS (&#8220;Pasqal&#8220;), a global leader in neutral-atom quantum comp…"
-    },
-    {
-      "title": "Symmatrics Appoints Joe Reddix as Vice President of Federal Sector",
-      "link": "https://thequantuminsider.com/2026/08/20/symmatrics-joe-reddix-federal-quantum-secure-modernization/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 20 Aug 2026 14:14:10 +0000",
-      "published_ts": 1787235250,
-      "summary": "Insider Brief Press release &#8211; Symmatrics today announced the appointment of Joe Reddix as Vice President of Federal Sector, strengthening the company&#8217;s leadership team as demand grows for secure, resilient, and future-ready digital infrastructure across the federal government. In his new…"
-    },
-    {
-      "title": "Dirac Labs Raises $1.8M for Quantum Navigation Sensors",
-      "link": "https://thequantuminsider.com/2026/08/20/dirac-labs-raises-1-8m-quantum-navigation-sensors/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 20 Aug 2026 12:05:00 +0000",
-      "published_ts": 1787227500,
-      "summary": "Insider Brief Press release &#8211; Dirac Labs, a quantum-enabled navigation company, today announced its $1.8M pre-seed funding to prototype its quantum sensors and conduct field trials to further refine its technology to provide universal positioning where GPS is unavailable.  Quantum sensing offe…"
-    },
-    {
       "title": "Dark energy and quantum gravity may be deeply intertwined",
       "link": "https://phys.org/news/2026-08-dark-energy-quantum-gravity-deeply.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 20 Aug 2026 07:40:06 EDT",
       "published_ts": 1787226006,
       "summary": "For close to a century, physicists have pursued a way to unite gravity with quantum mechanics. Known as quantum gravity, this goal has remained frustratingly out of reach so far. Similarly elusive is the force of dark energy, which is believed to be driving the universe's accelerating expansion."
-    },
-    {
-      "title": "Rigetti Creates Systems Delivery Unit as Quantum System Deployments Grow",
-      "link": "https://thequantuminsider.com/2026/08/20/rigetti-systems-delivery-quantum-system-deployments/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 20 Aug 2026 11:31:25 +0000",
-      "published_ts": 1787225485,
-      "summary": "Insider Brief Press release &#8211; Rigetti Computing, Inc. (Nasdaq: RGTI) (&#8220;Rigetti&#8221;), a pioneer in full-stack quantum computing, today announced a new operating structure designed to scale deployment of on-premises quantum systems, strengthen end-to-end operational execution, and furth…"
-    },
-    {
-      "title": "FormationQ and Hartree Centre Partner to Advance Quantum Computing in the UK",
-      "link": "https://thequantuminsider.com/2026/08/20/formationq-hartree-centre-quantum-advanced-computing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 20 Aug 2026 11:17:59 +0000",
-      "published_ts": 1787224679,
-      "summary": "Insider Brief Press release &#8211; FormationQ and the Hartree Centre, part of the Science and Technology Facilities Council (STFC) and UK Research and Innovation (UKRI), today announced a strategic partnership to accelerate the adoption of advanced quantum computing technologies across industry, go…"
-    },
-    {
-      "title": "Quantinuum Expands Research Operations in Albuquerque",
-      "link": "https://thequantuminsider.com/2026/08/20/quantinuum-expands-research-operations-albuquerque/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 20 Aug 2026 10:15:37 +0000",
-      "published_ts": 1787220937,
-      "summary": "Insider Brief Press release &#8211; The State of New Mexico and the City of Albuquerque are backing the expansion of Quantinuum, a leading quantum computing company, further establishing Albuquerque as a national hub in quantum technology and advanced research. The city and state will each contribut…"
-    },
-    {
-      "title": "GMV Builds Broad Quantum Portfolio Across Computing, Space, Communications and Cybersecurity",
-      "link": "https://thequantuminsider.com/2026/08/20/gmv-builds-broad-quantum-portfolio-across-computing-space-communications-and-cybersecurity/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 20 Aug 2026 08:03:31 +0000",
-      "published_ts": 1787213011,
-      "summary": "Insider Brief European technology group GMV is expanding its quantum technology efforts across computing, communications, space, sensing and cybersecurity. It&#8217;s a portfolio approach that positions the company as an integrator of emerging quantum systems rather than a developer focused on a sin…"
     },
     {
       "title": "Universal pattern revealed in quantum matter",
