@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1787315795,
+  "generated_ts": 1787336943,
   "items": [
+    {
+      "title": "What Is NISQ Quantum Computing: The Current Era of Quantum Machines",
+      "link": "https://thequantuminsider.com/2026/08/21/what-is-nisq-quantum-computing-guide/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 21 Aug 2026 15:36:30 +0000",
+      "published_ts": 1787326590,
+      "summary": "Insider Brief Every quantum computer commercially available today belongs to the same category. Whether it is IBM&#8216;s quantum systems, Google&#8216;s superconducting processors, or IonQ&#8216;s trapped-ion hardware. All of these are NISQ devices, whether the press releases say so or not. NISQ st…"
+    },
+    {
+      "title": "'Rainbow-on-a-chip' could help unlock 6G networks and precision timing for quantum technologies",
+      "link": "https://phys.org/news/2026-08-rainbow-chip-6g-networks-precision.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 21 Aug 2026 10:00:03 EDT",
+      "published_ts": 1787320803,
+      "summary": "Loughborough University physicists and an international team have demonstrated that a grain-of-rice-sized microchip can be used to produce a spectrum of precisely spaced frequencies of light, which is then converted into multiple high-frequency electromagnetic signals known as millimeter waves."
+    },
+    {
+      "title": "Quantum X Labs Tests AI Quantum Error Decoder on Google Hardware Dataset",
+      "link": "https://thequantuminsider.com/2026/08/21/quantum-x-labs-ai-quantum-error-correction-results/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 21 Aug 2026 13:39:20 +0000",
+      "published_ts": 1787319560,
+      "summary": "Insider Brief Press release &#8211; Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X” or the “Company”), an advanced technologies company, today announced new results from its AI-driven quantum error-correction program, advancing the Company’s roadmap toward trusted quantum error correction for future…"
+    },
     {
       "title": "Berkeley Lab-Led Project Secures Funding to Develop a Transportable Muon Imager",
       "link": "https://thequantuminsider.com/2026/08/21/berkeley-lab-led-project-secures-funding-to-develop-a-transportable-muon-imager/",
@@ -194,22 +218,6 @@
       "summary": "Insider Brief North Texas in mid-August makes a persuasive case for staying indoors, which is indeed what the state&#8217;s quantum community did for two days at the University of Texas at Dallas. Registration had closed well before the doors opened. The people who got in came from Austin, Houston,…"
     },
     {
-      "title": "Quanome Technologies Forms Council to Advise on Quantum Technologies",
-      "link": "https://thequantuminsider.com/2026/08/20/quanome-technologies-global-quantum-council-advisory-network/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 20 Aug 2026 15:47:28 +0000",
-      "published_ts": 1787240848,
-      "summary": "Insider Brief Press release &#8211; Quanome Technologies, Inc. (Nasdaq: QNME), today announced the establishment of its Global Quantum Council and Scientific Advisory Network, bringing together recognised scientific and technical experts to strengthen the Company&#8217;s understanding of quantum sci…"
-    },
-    {
-      "title": "Quantum Electronics Study Develops Metalens for Wider-Range Imaging",
-      "link": "https://thequantuminsider.com/2026/08/20/quantum-optics-compact-metalens-imaging/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 20 Aug 2026 14:30:10 +0000",
-      "published_ts": 1787236210,
-      "summary": "Insider Brief Press release &#8211; Keeping cameras in focus without constant refocusing may soon become much simpler with an ultrathin optical device that combines nanophotonics and computational imaging. Researchers at the University of Science and Technology of China have developed a flat &#8220;…"
-    },
-    {
       "title": "Dark energy and quantum gravity may be deeply intertwined",
       "link": "https://phys.org/news/2026-08-dark-energy-quantum-gravity-deeply.html",
       "source": "Phys.org — Quantum Physics",
@@ -320,14 +328,6 @@
       "published": "Mon, 17 Aug 2026 16:00:05 EDT",
       "published_ts": 1786996805,
       "summary": "Physicists at the University of Twente have improved the standard test for the quality of individual particles of light. By letting three photons interfere at the same time instead of two, they draw more information from every measurement. Their experiment outperforms even a perfect, noise-free run…"
-    },
-    {
-      "title": "Gluons may play a central role in baryon number conservation—and matter's stability",
-      "link": "https://phys.org/news/2026-08-gluons-play-central-role-baryon.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 17 Aug 2026 14:40:07 EDT",
-      "published_ts": 1786992007,
-      "summary": "New results from the STAR detector at the Relativistic Heavy Ion Collider (RHIC) suggest that gluons, the glue-like particles that hold quarks together inside protons, play a central role in the conservation of baryon number—an essential part of a particle's quantum identity."
     },
     {
       "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
