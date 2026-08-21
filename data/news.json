@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1787250712,
+  "generated_ts": 1787274046,
   "items": [
+    {
+      "title": "Magnetically levitated quantum bit could address design flaws",
+      "link": "https://phys.org/news/2026-08-magnetically-levitated-quantum-bit-flaws.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 20 Aug 2026 17:20:04 EDT",
+      "published_ts": 1787260804,
+      "summary": "Researchers at the FAMU-FSU College of Engineering and the National High Magnetic Field Laboratory, headquartered at Florida State University, have designed a new quantum computing architecture that uses magnetic levitation to smooth over design flaws in the intricate components necessary to run a q…"
+    },
+    {
+      "title": "Texas Quantum Strategy Takes Shape at UT Dallas Summit",
+      "link": "https://thequantuminsider.com/2026/08/20/texas-quantum-strategy-takes-shape-at-ut-dallas-summit/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 20 Aug 2026 19:04:49 +0000",
+      "published_ts": 1787252689,
+      "summary": "Insider Brief North Texas in mid-August makes a persuasive case for staying indoors, which is indeed what the state&#8217;s quantum community did for two days at the University of Texas at Dallas. Registration had closed well before the doors opened. The people who got in came from Austin, Houston,…"
+    },
     {
       "title": "Quanome Technologies Forms Council to Advise on Quantum Technologies",
       "link": "https://thequantuminsider.com/2026/08/20/quanome-technologies-global-quantum-council-advisory-network/",
@@ -80,14 +96,6 @@
       "published": "Thu, 20 Aug 2026 08:03:31 +0000",
       "published_ts": 1787213011,
       "summary": "Insider Brief European technology group GMV is expanding its quantum technology efforts across computing, communications, space, sensing and cybersecurity. It&#8217;s a portfolio approach that positions the company as an integrator of emerging quantum systems rather than a developer focused on a sin…"
-    },
-    {
-      "title": "Caltech Team Uses Quantum Simulator to Probe Universal Rules of Quantum Matter",
-      "link": "https://thequantuminsider.com/2026/08/20/caltech-team-uses-quantum-simulator-to-probe-universal-rules-of-quantum-matter/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 20 Aug 2026 07:36:22 +0000",
-      "published_ts": 1787211382,
-      "summary": "Insider Brief PRESS RELEASE &#8212; When different materials transition from one phase to another, such a water coming to a boil or a magnet losing its ability to attract metals, something remarkable can happen: They begin to behave identically, following the same mathematical rules. &#8220;Physicis…"
     },
     {
       "title": "Qkabrine: A Joint Architecture, Encoding, and Hyperparameter Search Framework for Quantum Machine Learning",
@@ -320,14 +328,6 @@
       "published": "Mon, 17 Aug 2026 14:40:07 EDT",
       "published_ts": 1786992007,
       "summary": "New results from the STAR detector at the Relativistic Heavy Ion Collider (RHIC) suggest that gluons, the glue-like particles that hold quarks together inside protons, play a central role in the conservation of baryon number—an essential part of a particle's quantum identity."
-    },
-    {
-      "title": "Physicists predict a new form of quantum matter that holds itself together",
-      "link": "https://phys.org/news/2026-08-physicists-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 17 Aug 2026 14:20:03 EDT",
-      "published_ts": 1786990803,
-      "summary": "Researchers at Monash University have predicted a new type of quantum matter that challenges decades of thinking about how ultracold particles behave. The paper, \"Quantum droplets in a resonant Bose-Fermi mixture,\" is published in Physical Review Letters."
     },
     {
       "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
