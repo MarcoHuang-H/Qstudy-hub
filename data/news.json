@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1787336943,
+  "generated_ts": 1787360250,
   "items": [
+    {
+      "title": "Realistic solid-state model brings fractons in quantum spin liquids closer to detection",
+      "link": "https://phys.org/news/2026-08-realistic-solid-state-fractons-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 21 Aug 2026 15:20:03 EDT",
+      "published_ts": 1787340003,
+      "summary": "Quasiparticles arise from the complex interaction of many particles in solids; for example, we describe lattice vibrations in crystals as phonons. Fractons are exotic quasiparticles that occur at the vertices of magnetic domain walls between different spin orders. What makes them special is that the…"
+    },
     {
       "title": "What Is NISQ Quantum Computing: The Current Era of Quantum Machines",
       "link": "https://thequantuminsider.com/2026/08/21/what-is-nisq-quantum-computing-guide/",
@@ -320,14 +328,6 @@
       "published": "Mon, 17 Aug 2026 17:30:02 EDT",
       "published_ts": 1787002202,
       "summary": "What is heat, and what is useful work if a machine consists only of an atom and light particles? In modern quantum technologies, this kind of question connects thermodynamics with quantum physics. Researchers at the University of Basel, Switzerland, have developed a theoretical approach that can rec…"
-    },
-    {
-      "title": "Three photons at once beat the standard photon test",
-      "link": "https://phys.org/news/2026-08-photons-standard-photon.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 17 Aug 2026 16:00:05 EDT",
-      "published_ts": 1786996805,
-      "summary": "Physicists at the University of Twente have improved the standard test for the quality of individual particles of light. By letting three photons interfere at the same time instead of two, they draw more information from every measurement. Their experiment outperforms even a perfect, noise-free run…"
     },
     {
       "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
