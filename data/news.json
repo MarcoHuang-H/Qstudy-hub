@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1787488194,
+  "generated_ts": 1787509264,
   "items": [
+    {
+      "title": "Brookhaven And Stony Brook Researchers Demonstrate ‘Wireless’ Capability for Quantum Network",
+      "link": "https://thequantuminsider.com/2026/08/23/wireless-capability-quantum-network/",
+      "source": "The Quantum Insider",
+      "published": "Sun, 23 Aug 2026 15:32:07 +0000",
+      "published_ts": 1787499127,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at the U.S. Department of Energy’s (DOE) Brookhaven National Laboratory and the State University of New York at Stony Brook (Stony Brook University) have successfully transmitted light particles containing quantum information through open air between t…"
+    },
+    {
+      "title": "Quantum computer microscope is set to significantly improve electron microscopy",
+      "link": "https://phys.org/news/2026-08-quantum-microscope-significantly-electron-microscopy.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 23 Aug 2026 09:00:01 EDT",
+      "published_ts": 1787490001,
+      "summary": "Electron microscopes are used wherever particularly small details need to be imaged. But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If all you do is count electrons, any additional quantum information they carry remai…"
+    },
     {
       "title": "Lionel Martellini (EDHEC Quantum Institute): Why business leaders need quantum awareness, not quantum washing",
       "link": "https://thequantuminsider.com/2026/08/22/lionel-martellini-edhec-quantum-institute-why-business-leaders-need-quantum-awareness-not-quantum-washing/",
@@ -88,14 +104,6 @@
       "published": "Fri, 21 Aug 2026 07:30:00 +0000",
       "published_ts": 1787297400,
       "summary": "Insider Brief Press release &#8211; Researchers, software developers and technology leaders from across the global quantum computing ecosystem gathered at the Department of Energy’s (DOE)&#160;Oak Ridge National Laboratory&#160;(ORNL) in July for the seventh annual Quantum Computing User Forum (QCUF…"
-    },
-    {
-      "title": "EBU and Superpositions Partner to Add Quantum Computing to Business Education",
-      "link": "https://thequantuminsider.com/2026/08/21/ebu-superpositions-quantum-computing-business-education/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 21 Aug 2026 07:00:00 +0000",
-      "published_ts": 1787295600,
-      "summary": "Insider Brief Press release &#8211; EBU (European Business Institute of Luxembourg) and Superpositions, a European quantum software company, recently announced a partnership to bring quantum computing into EBU&#8217;s business curriculum, as part of the school&#8217;s new Q-Ready initiative. EBU is…"
     },
     {
       "title": "Magnetically levitated quantum bit could address design flaws",
@@ -200,14 +208,6 @@
       "published": "Tue, 18 Aug 2026 08:00:07 EDT",
       "published_ts": 1787054407,
       "summary": "Quantum sensors, devices that collect measurements by exploiting quantum-mechanical phenomena, could potentially detect extremely weak magnetic, gravitational and electromagnetic signals with greater sensitivity than classical sensors. Some quantum sensors leverage entanglement, a phenomenon that pr…"
-    },
-    {
-      "title": "Quantum light engine links atom-photon thermodynamics to classical physics",
-      "link": "https://phys.org/news/2026-08-quantum-links-atom-photon-thermodynamics.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 17 Aug 2026 17:30:02 EDT",
-      "published_ts": 1787002202,
-      "summary": "What is heat, and what is useful work if a machine consists only of an atom and light particles? In modern quantum technologies, this kind of question connects thermodynamics with quantum physics. Researchers at the University of Basel, Switzerland, have developed a theoretical approach that can rec…"
     },
     {
       "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
