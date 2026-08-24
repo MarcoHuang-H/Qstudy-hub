@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1787575135,
+  "generated_ts": 1787596374,
   "items": [
+    {
+      "title": "Infleqtion Helps Launch Japan’s First Operational Neutral-Atom Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/08/24/infleqtion-japan-operational-neutral-atom-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 17:36:46 +0000",
+      "published_ts": 1787593006,
+      "summary": "Insider Brief Press release &#8211; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, has helped Japan reach a major quantum milestone, supporting a research team led by Professor Kenji Ohmori at the Institute for Molecular Science…"
+    },
+    {
+      "title": "EuroHPC Opens €119M in Funding Calls for Quantum Technologies",
+      "link": "https://thequantuminsider.com/2026/08/24/eurohpc-119m-funding-calls-quantum-technologies/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 17:28:43 +0000",
+      "published_ts": 1787592523,
+      "summary": "Insider Brief Press release &#8211; The EuroHPC Joint Undertaking (EuroHPC JU) has launched six new calls to advance strategic quantum technologies and the infrastructure needed to accelerate the development and deployment of next-generation quantum systems in Europe. Trapped-Ion Platform Technologi…"
+    },
+    {
+      "title": "Nations at the Quantum Table",
+      "link": "https://thequantuminsider.com/2026/08/24/nations-at-the-quantum-table/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 16:54:34 +0000",
+      "published_ts": 1787590474,
+      "summary": "Who&#8217;s Playing, Who&#8217;s Ahead, and What It Means Insider Brief A year ago, quantum computing read like a research story. Here was a technology that might eventually matter. Now, things are getting very, very real … and nations are preparing.&#160; Since mid-2025, the United States, the Unit…"
+    },
+    {
+      "title": "Guest Post: How One of Europe’s Smallest Countries Became NATO’s Precision Photonics Capital",
+      "link": "https://thequantuminsider.com/2026/08/24/guest-post-how-one-of-europes-smallest-countries-became-natos-precision-photonics-capital/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 14:25:04 +0000",
+      "published_ts": 1787581504,
+      "summary": "Guest Post by Aktyvus Photonics Lithuania is becoming NATO&#8217;s precision photonics capital because it has what almost no one else does: 60 years of laser science, and companies fast enough to move at the speed the technology demands. Lithuania is NATO’s most exposed border, where precision photo…"
+    },
+    {
+      "title": "New free-space optical link adds a wireless component to the nation's longest quantum network",
+      "link": "https://phys.org/news/2026-08-free-space-optical-link-wireless.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 24 Aug 2026 09:43:00 EDT",
+      "published_ts": 1787578980,
+      "summary": "There's a new lighthouse on Long Island. But instead of shining light to guide ships through waterways, this one transmits and receives particles of light that carry quantum information. Perched atop a seven-story building at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory, the…"
+    },
+    {
+      "title": "IonQ’s Skyloom Optical Communications Terminals Reach 84 On-Orbit Installations Following Latest Launch",
+      "link": "https://thequantuminsider.com/2026/08/24/ionq-skyloom-optical-communication-terminals-orbit/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 13:07:47 +0000",
+      "published_ts": 1787576867,
+      "summary": "Insider Brief Press release &#8211; Skyloom Global, LLC, an IonQ (NYSE:IONQ) company specializing in the development of space-based optical technology for secure, high-performance communications, today announced that dozens of additional optical communication terminals (OCTs) have been successfully…"
+    },
+    {
+      "title": "Pasqal and Eleven Ventures Form Joint Venture for Quantum Computing in Saudi Arabia",
+      "link": "https://thequantuminsider.com/2026/08/24/pasqal-eleven-ventures-joint-venture-quantum-computing-saudi-arabia/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 12:58:17 +0000",
+      "published_ts": 1787576297,
+      "summary": "Insider Brief Press release &#8211; Pasqal, a global leader in neutral-atom quantum computing, and Eleven Ventures, a Kingdom of Saudi Arabia based investment platform and venture capital firm, today announced an agreement to establish a commercial joint venture to deploy, commercialize and scale Pa…"
+    },
+    {
+      "title": "Sweden Sets 2036 Deadline for National Quantum Technology Strategy",
+      "link": "https://thequantuminsider.com/2026/08/24/sweden-sets-2036-deadline-for-national-quantum-technology-strategy/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 12:39:15 +0000",
+      "published_ts": 1787575155,
+      "summary": "Insider Brief Sweden has laid out a decade-long plan to turn its strong quantum research base into a more coordinated industry while preparing government and businesses for the security risks posed by future quantum computers. The Swedish government published its first national quantum technology st…"
+    },
     {
       "title": "University of Göttingen Researchers Map Molecular Wave Functions in 3D",
       "link": "https://thequantuminsider.com/2026/08/24/university-gottingen-maps-molecular-wave-functions-3d/",
@@ -24,30 +88,6 @@
       "published": "Mon, 24 Aug 2026 08:49:41 +0000",
       "published_ts": 1787561381,
       "summary": "Insider Brief Press release &#8211; The Responsible Fintech Institute (RFI) and Safeheron have launched a pilot initiative to evaluate post-quantum cryptography for digital asset transactions, with participation from selected financial institutions and regulatory stakeholders across multiple jurisdi…"
-    },
-    {
-      "title": "China Puts Quantum Technology Among Priorities in New 2030 Cyber Industry Plan",
-      "link": "https://thequantuminsider.com/2026/08/24/china-puts-quantum-technology-among-priorities-in-new-2030-cyber-industry-plan/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 08:30:36 +0000",
-      "published_ts": 1787560236,
-      "summary": "Insider Brief China has identified quantum technology as one of a group of frontier fields targeted for development under a new five-year plan aimed at strengthening the country&#8217;s cybersecurity and information technology companies. According to The China Daily, the Central Cyberspace Affairs C…"
-    },
-    {
-      "title": "Microsoft’s Skala AI Model Joins CP2K to Improve Quantum Mechanical Simulations",
-      "link": "https://thequantuminsider.com/2026/08/24/microsofts-skala-ai-model-joins-cp2k-to-improve-quantum-mechanical-simulations/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 08:04:47 +0000",
-      "published_ts": 1787558687,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Skala AI model, developed by Microsoft Research AI for Science, is now available through the CP2K software ecosystem. Thanks to Skala, researchers can perform quantum mechanical simulations of larger molecular systems while achieving a higher level of accuracy…"
-    },
-    {
-      "title": "Japan’s Full-Stack Neutral-Atom Quantum Computer is Operational",
-      "link": "https://thequantuminsider.com/2026/08/24/japans-full-stack-neutral-atom-quantum-computer-is-operational/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 07:51:08 +0000",
-      "published_ts": 1787557868,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Institute for Molecular Science (IMS), National Institutes of Natural Sciences, announced on Aug. 24 that Japan&#8217;s first full-stack neutral-atom quantum computer &#8220;Shunkai,&#8221; developed by a research team led by Professor Kenji Ohmori, is now operati…"
     },
     {
       "title": "Comment on \"Scalable Quantum Machine Learning: Trainability, Expressivity and Efficiency\": Polynomial Evaluation of the Triplet-Block Readout",
@@ -170,28 +210,12 @@
       "summary": "arXiv:2608.20741v1 Announce Type: new  Abstract: A set of orthogonal quantum states in multipartite systems is of genuine nonlocality if it is locally indistinguishable in every bipartition. If it is locally reducible when the parties are separated, we say that it has genuine nonlocality of type~\\up…"
     },
     {
-      "title": "Brookhaven And Stony Brook Researchers Demonstrate ‘Wireless’ Capability for Quantum Network",
-      "link": "https://thequantuminsider.com/2026/08/23/wireless-capability-quantum-network/",
-      "source": "The Quantum Insider",
-      "published": "Sun, 23 Aug 2026 15:32:07 +0000",
-      "published_ts": 1787499127,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at the U.S. Department of Energy’s (DOE) Brookhaven National Laboratory and the State University of New York at Stony Brook (Stony Brook University) have successfully transmitted light particles containing quantum information through open air between t…"
-    },
-    {
       "title": "Quantum computer microscope is set to significantly improve electron microscopy",
       "link": "https://phys.org/news/2026-08-quantum-microscope-significantly-electron-microscopy.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Sun, 23 Aug 2026 09:00:01 EDT",
       "published_ts": 1787490001,
       "summary": "Electron microscopes are used wherever particularly small details need to be imaged. But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If all you do is count electrons, any additional quantum information they carry remai…"
-    },
-    {
-      "title": "Lionel Martellini (EDHEC Quantum Institute): Why business leaders need quantum awareness, not quantum washing",
-      "link": "https://thequantuminsider.com/2026/08/22/lionel-martellini-edhec-quantum-institute-why-business-leaders-need-quantum-awareness-not-quantum-washing/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 22 Aug 2026 07:30:00 +0000",
-      "published_ts": 1787383800,
-      "summary": "Yuval Boger interviews Lionel Martellini, finance professor at the EDHEC and founding director of the EDHEC Quantum Institute. Lionel describes his unusual path from finance to astrophysics and why business schools should teach quantum awareness to future leaders. They discuss core quantum concepts,…"
     },
     {
       "title": "Realistic solid-state model brings fractons in quantum spin liquids closer to detection",
@@ -202,28 +226,12 @@
       "summary": "Quasiparticles arise from the complex interaction of many particles in solids; for example, we describe lattice vibrations in crystals as phonons. Fractons are exotic quasiparticles that occur at the vertices of magnetic domain walls between different spin orders. What makes them special is that the…"
     },
     {
-      "title": "What Is NISQ Quantum Computing: The Current Era of Quantum Machines",
-      "link": "https://thequantuminsider.com/2026/08/21/what-is-nisq-quantum-computing-guide/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 21 Aug 2026 15:36:30 +0000",
-      "published_ts": 1787326590,
-      "summary": "Insider Brief Every quantum computer commercially available today belongs to the same category. Whether it is IBM&#8216;s quantum systems, Google&#8216;s superconducting processors, or IonQ&#8216;s trapped-ion hardware. All of these are NISQ devices, whether the press releases say so or not. NISQ st…"
-    },
-    {
       "title": "'Rainbow-on-a-chip' could help unlock 6G networks and precision timing for quantum technologies",
       "link": "https://phys.org/news/2026-08-rainbow-chip-6g-networks-precision.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 21 Aug 2026 10:00:03 EDT",
       "published_ts": 1787320803,
       "summary": "Loughborough University physicists and an international team have demonstrated that a grain-of-rice-sized microchip can be used to produce a spectrum of precisely spaced frequencies of light, which is then converted into multiple high-frequency electromagnetic signals known as millimeter waves."
-    },
-    {
-      "title": "Quantum X Labs Tests AI Quantum Error Decoder on Google Hardware Dataset",
-      "link": "https://thequantuminsider.com/2026/08/21/quantum-x-labs-ai-quantum-error-correction-results/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 21 Aug 2026 13:39:20 +0000",
-      "published_ts": 1787319560,
-      "summary": "Insider Brief Press release &#8211; Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X” or the “Company”), an advanced technologies company, today announced new results from its AI-driven quantum error-correction program, advancing the Company’s roadmap toward trusted quantum error correction for future…"
     },
     {
       "title": "Magnetically levitated quantum bit could address design flaws",
@@ -320,14 +328,6 @@
       "published": "Tue, 18 Aug 2026 15:30:01 EDT",
       "published_ts": 1787081401,
       "summary": "Optical fibers are already the backbone of global communication systems. Recently, however, physicists have started to explore how their functionality could be boosted further by conveying information via entangled quantum particles—potentially enabling instantaneous exchanges of information across…"
-    },
-    {
-      "title": "A new approach to building noise-resistant quantum sensors",
-      "link": "https://phys.org/news/2026-08-approach-noise-resistant-quantum-sensors.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 18 Aug 2026 08:00:07 EDT",
-      "published_ts": 1787054407,
-      "summary": "Quantum sensors, devices that collect measurements by exploiting quantum-mechanical phenomena, could potentially detect extremely weak magnetic, gravitational and electromagnetic signals with greater sensitivity than classical sensors. Some quantum sensors leverage entanglement, a phenomenon that pr…"
     },
     {
       "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
