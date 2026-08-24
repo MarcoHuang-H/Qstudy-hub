@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1787554039,
+  "generated_ts": 1787575135,
   "items": [
+    {
+      "title": "University of Göttingen Researchers Map Molecular Wave Functions in 3D",
+      "link": "https://thequantuminsider.com/2026/08/24/university-gottingen-maps-molecular-wave-functions-3d/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 11:38:44 +0000",
+      "published_ts": 1787571524,
+      "summary": "Insider Brief Press release &#8211; Electrons cannot be fixed to a single location. This is one of the central insights of quantum mechanics. The wave function takes the place of the location: a mathematical quantity that contains all the important information about the particle. An interdisciplinar…"
+    },
+    {
+      "title": "TCG Defines Requirements for PQC-Ready Trusted Platform Modules",
+      "link": "https://thequantuminsider.com/2026/08/24/tcg-requirements-pqc-ready-trusted-platform-modules/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 10:27:48 +0000",
+      "published_ts": 1787567268,
+      "summary": "Insider Brief Press release &#8211; Businesses have been provided a clear benchmark for judging whether electronic device vendors’ claims of protection against quantum enabled attacks are valid, through new guidance released today from the&#160;Trusted Computing Group. TCG’s requirements for Trusted…"
+    },
+    {
+      "title": "RFI and Safeheron Test Post-Quantum Cryptography for Digital Asset Transactions",
+      "link": "https://thequantuminsider.com/2026/08/24/rfi-safeheron-post-quantum-security-digital-assets/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 08:49:41 +0000",
+      "published_ts": 1787561381,
+      "summary": "Insider Brief Press release &#8211; The Responsible Fintech Institute (RFI) and Safeheron have launched a pilot initiative to evaluate post-quantum cryptography for digital asset transactions, with participation from selected financial institutions and regulatory stakeholders across multiple jurisdi…"
+    },
+    {
+      "title": "China Puts Quantum Technology Among Priorities in New 2030 Cyber Industry Plan",
+      "link": "https://thequantuminsider.com/2026/08/24/china-puts-quantum-technology-among-priorities-in-new-2030-cyber-industry-plan/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 08:30:36 +0000",
+      "published_ts": 1787560236,
+      "summary": "Insider Brief China has identified quantum technology as one of a group of frontier fields targeted for development under a new five-year plan aimed at strengthening the country&#8217;s cybersecurity and information technology companies. According to The China Daily, the Central Cyberspace Affairs C…"
+    },
+    {
+      "title": "Microsoft’s Skala AI Model Joins CP2K to Improve Quantum Mechanical Simulations",
+      "link": "https://thequantuminsider.com/2026/08/24/microsofts-skala-ai-model-joins-cp2k-to-improve-quantum-mechanical-simulations/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 08:04:47 +0000",
+      "published_ts": 1787558687,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Skala AI model, developed by Microsoft Research AI for Science, is now available through the CP2K software ecosystem. Thanks to Skala, researchers can perform quantum mechanical simulations of larger molecular systems while achieving a higher level of accuracy…"
+    },
+    {
+      "title": "Japan’s Full-Stack Neutral-Atom Quantum Computer is Operational",
+      "link": "https://thequantuminsider.com/2026/08/24/japans-full-stack-neutral-atom-quantum-computer-is-operational/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 07:51:08 +0000",
+      "published_ts": 1787557868,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Institute for Molecular Science (IMS), National Institutes of Natural Sciences, announced on Aug. 24 that Japan&#8217;s first full-stack neutral-atom quantum computer &#8220;Shunkai,&#8221; developed by a research team led by Professor Kenji Ohmori, is now operati…"
+    },
     {
       "title": "Comment on \"Scalable Quantum Machine Learning: Trainability, Expressivity and Efficiency\": Polynomial Evaluation of the Triplet-Block Readout",
       "link": "https://arxiv.org/abs/2608.20435",
@@ -176,54 +224,6 @@
       "published": "Fri, 21 Aug 2026 13:39:20 +0000",
       "published_ts": 1787319560,
       "summary": "Insider Brief Press release &#8211; Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X” or the “Company”), an advanced technologies company, today announced new results from its AI-driven quantum error-correction program, advancing the Company’s roadmap toward trusted quantum error correction for future…"
-    },
-    {
-      "title": "Berkeley Lab-Led Project Secures Funding to Develop a Transportable Muon Imager",
-      "link": "https://thequantuminsider.com/2026/08/21/berkeley-lab-led-project-secures-funding-to-develop-a-transportable-muon-imager/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 21 Aug 2026 11:13:40 +0000",
-      "published_ts": 1787310820,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The&#160;U.S. Department of Energy (DOE)’s&#160;Lawrence Berkeley National Laboratory (Berkeley Lab), in partnership with&#160;Ideon Technologies, has received funding from the&#160;DOE’s&#160;Advanced Research Projects Agency-Energy (ARPA-E)&#160;through the Reli…"
-    },
-    {
-      "title": "ORNL Researcher Advances Particle Detection for the Electron-Ion Collider",
-      "link": "https://thequantuminsider.com/2026/08/21/ornl-physicist-detectors-nuclear-physics-research/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 21 Aug 2026 11:07:40 +0000",
-      "published_ts": 1787310460,
-      "summary": "Insider Brief Press release &#8211; John Lajoie is a builder—not of buildings or everyday machines, but of detectors with a special purpose. A physicist at the Department of Energy’s (DOE’s) Oak Ridge National Laboratory (ORNL), Lajoie has shaped his career around finding hard-to-solve problems and…"
-    },
-    {
-      "title": "Q2B Copenhagen 2026 to Focus on Quantum Technology and Commercial Adoption",
-      "link": "https://thequantuminsider.com/2026/08/21/q2b-copenhagen-2026-quantum-industry-leaders-denmark/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 21 Aug 2026 10:42:13 +0000",
-      "published_ts": 1787308933,
-      "summary": "Insider Brief Press release &#8211; QC Ware, the organizer of Q2B conferences and a developer of computational chemistry and quantum computing software, has announced that the 2026 Q2B Copenhagen Conference will take place on September 9-10, 2026, in Copenhagen, Denmark. The conference is presented…"
-    },
-    {
-      "title": "Crypto4A QASM Module Achieves FIPS 140-3 Level 3 Validation",
-      "link": "https://thequantuminsider.com/2026/08/21/crypto4a-fips-140-3-level-3-quantum-safe-hsm/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 21 Aug 2026 10:29:11 +0000",
-      "published_ts": 1787308151,
-      "summary": "Insider Brief Press release &#8211; Canadian cybersecurity company Crypto4A Technologies Inc. has achieved a global first in the race to protect governments, financial systems, critical infrastructure and defence networks from the emerging threat posed by quantum computing. Crypto4A has received FIP…"
-    },
-    {
-      "title": "Who Will Actually Use Quantum Computers? Study Identifies 11 User Types",
-      "link": "https://thequantuminsider.com/2026/08/21/who-will-actually-use-quantum-computers-study-identifies-11-user-types/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 21 Aug 2026 08:19:39 +0000",
-      "published_ts": 1787300379,
-      "summary": "Insider Brief Quantum computing might have a user problem as well as a hardware problem, according to a new study that identifies 11 types of people likely to interact with quantum software. The researchers also found that that these different users can require much different ways of accessing the t…"
-    },
-    {
-      "title": "ORNL Quantum Computing User Forum Highlights Quantum-HPC Research",
-      "link": "https://thequantuminsider.com/2026/08/21/ornl-quantum-computing-user-forum-quantum-hpc-research/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 21 Aug 2026 07:30:00 +0000",
-      "published_ts": 1787297400,
-      "summary": "Insider Brief Press release &#8211; Researchers, software developers and technology leaders from across the global quantum computing ecosystem gathered at the Department of Energy’s (DOE)&#160;Oak Ridge National Laboratory&#160;(ORNL) in July for the seventh annual Quantum Computing User Forum (QCUF…"
     },
     {
       "title": "Magnetically levitated quantum bit could address design flaws",
