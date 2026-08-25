@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1787639861,
+  "generated_ts": 1787661483,
   "items": [
+    {
+      "title": "GSA Outlines Transition to Quantum-Resistant Technology",
+      "link": "https://thequantuminsider.com/2026/08/25/gsa-outlines-transition-to-quantum-resistant-technology/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 11:34:28 +0000",
+      "published_ts": 1787657668,
+      "summary": "Insider Brief PRESS RELEASE &#8212; As the Administration advances its updated&#160;Cyber Strategy [PDF]&#160;and new Executive Order on&#160;Ushering in the Next Frontier of Quantum Innovation, GSA’s Office of Government-wide Policy, Federal Identity &#38; Cybersecurity Division has been entrusted…"
+    },
+    {
+      "title": "Sitehop Launches National Security Unit to Secure Legacy Defence Networks",
+      "link": "https://thequantuminsider.com/2026/08/25/sitehop-unit-secure-legacy-defence-networks/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 11:29:56 +0000",
+      "published_ts": 1787657396,
+      "summary": "Insider Brief Press release &#8211; Sitehop, the UK-based post-quantum cybersecurity specialist, has launched a national security unit to help the UK and its Five Eyes allies secure ageing defence networks without disrupting critical systems already in service. The launch comes as defence and securi…"
+    },
+    {
+      "title": "India Highlights 6G and Quantum Communications as Technology Priorities",
+      "link": "https://thequantuminsider.com/2026/08/25/india-6g-quantum-communications-development/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 10:41:29 +0000",
+      "published_ts": 1787654489,
+      "summary": "Insider Brief India has an opportunity to create an impact in sixth-generation (6G) technology, quantum communications, and quantum security, Minister of State for Communications Chandra Sekhar Pemmasani said on Tuesday, speaking at the 43rd foundation day of the Centre for Development of Telematics…"
+    },
+    {
+      "title": "Finnish Game Studio MiTale Explores Quantum Computing for Game Development",
+      "link": "https://thequantuminsider.com/2026/08/25/finnish-game-studio-mitale-quantum-computing-game-development/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 09:37:04 +0000",
+      "published_ts": 1787650624,
+      "summary": "Insider Brief Press release &#8211; Finnish independent game studio MiTale will showcase its upcoming post-apocalyptic role-playing game C.L.A.Y. – The Last Redemption at Gamescom 2026 in Cologne this week. C.L.A.Y. – The Last Redemption is a story-driven role-playing game set generations after the…"
+    },
+    {
+      "title": "Bright ideas accelerate the hunt for quantum emitters",
+      "link": "https://phys.org/news/2026-08-bright-ideas-quantum-emitters.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 25 Aug 2026 05:00:02 EDT",
+      "published_ts": 1787648402,
+      "summary": "The search for materials that can power future quantum technologies is accelerating, but identifying the most promising candidates remains painfully slow. Evaluating whether a material can efficiently emit quantum light requires computationally intensive simulations, making it difficult to screen th…"
+    },
+    {
+      "title": "New Mexico Invests $3 Million in UNM’s Quantum Institute",
+      "link": "https://thequantuminsider.com/2026/08/25/new-mexico-invests-3-million-in-unms-quantum-institute/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 07:54:34 +0000",
+      "published_ts": 1787644474,
+      "summary": "Insider Brief PRESS RELEASE &#8212; New Mexico is investing $3 million in The University of New Mexico&#8217;s Quantum New Mexico Institute (QNM-I) to strengthen the state&#8217;s quantum workforce and accelerate research and commercialization. Economic Development New Mexico and QNM-I recently sign…"
+    },
+    {
+      "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
+      "link": "https://thequantuminsider.com/2026/08/25/nist-researchers-supersize-quantum-technology-to-help-detect-faint-photons/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 07:44:50 +0000",
+      "published_ts": 1787643890,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single photon counts. “Photons carry information,” said Kristen Parzuchowski, a postdoctora…"
+    },
     {
       "title": "On the Reachability Problem in Quantum Petri Nets",
       "link": "https://arxiv.org/abs/2608.21428",
@@ -162,60 +218,12 @@
       "summary": "Who&#8217;s Playing, Who&#8217;s Ahead, and What It Means Insider Brief A year ago, quantum computing read like a research story. Here was a technology that might eventually matter. Now, things are getting very, very real … and nations are preparing.&#160; Since mid-2025, the United States, the Unit…"
     },
     {
-      "title": "Guest Post: How One of Europe’s Smallest Countries Became NATO’s Precision Photonics Capital",
-      "link": "https://thequantuminsider.com/2026/08/24/guest-post-how-one-of-europes-smallest-countries-became-natos-precision-photonics-capital/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 14:25:04 +0000",
-      "published_ts": 1787581504,
-      "summary": "Guest Post by Aktyvus Photonics Lithuania is becoming NATO&#8217;s precision photonics capital because it has what almost no one else does: 60 years of laser science, and companies fast enough to move at the speed the technology demands. Lithuania is NATO’s most exposed border, where precision photo…"
-    },
-    {
       "title": "New free-space optical link adds a wireless component to the nation's longest quantum network",
       "link": "https://phys.org/news/2026-08-free-space-optical-link-wireless.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 24 Aug 2026 09:43:00 EDT",
       "published_ts": 1787578980,
       "summary": "There's a new lighthouse on Long Island. But instead of shining light to guide ships through waterways, this one transmits and receives particles of light that carry quantum information. Perched atop a seven-story building at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory, the…"
-    },
-    {
-      "title": "IonQ’s Skyloom Optical Communications Terminals Reach 84 On-Orbit Installations Following Latest Launch",
-      "link": "https://thequantuminsider.com/2026/08/24/ionq-skyloom-optical-communication-terminals-orbit/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 13:07:47 +0000",
-      "published_ts": 1787576867,
-      "summary": "Insider Brief Press release &#8211; Skyloom Global, LLC, an IonQ (NYSE:IONQ) company specializing in the development of space-based optical technology for secure, high-performance communications, today announced that dozens of additional optical communication terminals (OCTs) have been successfully…"
-    },
-    {
-      "title": "Pasqal and Eleven Ventures Form Joint Venture for Quantum Computing in Saudi Arabia",
-      "link": "https://thequantuminsider.com/2026/08/24/pasqal-eleven-ventures-joint-venture-quantum-computing-saudi-arabia/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 12:58:17 +0000",
-      "published_ts": 1787576297,
-      "summary": "Insider Brief Press release &#8211; Pasqal, a global leader in neutral-atom quantum computing, and Eleven Ventures, a Kingdom of Saudi Arabia based investment platform and venture capital firm, today announced an agreement to establish a commercial joint venture to deploy, commercialize and scale Pa…"
-    },
-    {
-      "title": "Sweden Sets 2036 Deadline for National Quantum Technology Strategy",
-      "link": "https://thequantuminsider.com/2026/08/24/sweden-sets-2036-deadline-for-national-quantum-technology-strategy/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 12:39:15 +0000",
-      "published_ts": 1787575155,
-      "summary": "Insider Brief Sweden has laid out a decade-long plan to turn its strong quantum research base into a more coordinated industry while preparing government and businesses for the security risks posed by future quantum computers. The Swedish government published its first national quantum technology st…"
-    },
-    {
-      "title": "University of Göttingen Researchers Map Molecular Wave Functions in 3D",
-      "link": "https://thequantuminsider.com/2026/08/24/university-gottingen-maps-molecular-wave-functions-3d/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 11:38:44 +0000",
-      "published_ts": 1787571524,
-      "summary": "Insider Brief Press release &#8211; Electrons cannot be fixed to a single location. This is one of the central insights of quantum mechanics. The wave function takes the place of the location: a mathematical quantity that contains all the important information about the particle. An interdisciplinar…"
-    },
-    {
-      "title": "TCG Defines Requirements for PQC-Ready Trusted Platform Modules",
-      "link": "https://thequantuminsider.com/2026/08/24/tcg-requirements-pqc-ready-trusted-platform-modules/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 10:27:48 +0000",
-      "published_ts": 1787567268,
-      "summary": "Insider Brief Press release &#8211; Businesses have been provided a clear benchmark for judging whether electronic device vendors’ claims of protection against quantum enabled attacks are valid, through new guidance released today from the&#160;Trusted Computing Group. TCG’s requirements for Trusted…"
     },
     {
       "title": "Quantum computer microscope is set to significantly improve electron microscopy",
@@ -320,14 +328,6 @@
       "published": "Tue, 18 Aug 2026 18:00:04 EDT",
       "published_ts": 1787090404,
       "summary": "Quantum communication promises many advantages over today's standard technologies, including absolutely secure transmission of large amounts of data. However, it requires single photons—and generating them is very difficult. Researchers at the Technical University of Munich (TUM) and the Munich Cent…"
-    },
-    {
-      "title": "The global race to make a practical quantum computer just took a big leap forward",
-      "link": "https://phys.org/news/2026-08-global-quantum-big.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 18 Aug 2026 15:40:04 EDT",
-      "published_ts": 1787082004,
-      "summary": "In the global race to build bigger and better quantum computers, researchers have taken a step forward. A new machine called Helios is radically different from other quantum computers."
     },
     {
       "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
