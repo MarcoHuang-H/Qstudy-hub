@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1787596374,
+  "generated_ts": 1787619567,
   "items": [
+    {
+      "title": "U.S. Treasury Announces the Quantum-Readiness Task Force",
+      "link": "https://thequantuminsider.com/2026/08/24/u-s-treasury-announces-the-quantum-readiness-task-force/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 24 Aug 2026 21:09:02 +0000",
+      "published_ts": 1787605742,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of the Treasury today announced the launch of the Quantum-Readiness Task Force, following President Donald J. Trump&#8217;s&#160;Executive Order 14412&#160;establishing guidelines to strengthen cryptographic protections for America&#8217;s sens…"
+    },
+    {
+      "title": "Vacuum-fluctuation-enhanced superconductivity demonstrated for the first time",
+      "link": "https://phys.org/news/2026-08-vacuum-fluctuation-superconductivity.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 24 Aug 2026 16:50:01 EDT",
+      "published_ts": 1787604601,
+      "summary": "In a study published in Nature on Aug. 19, a research team has enhanced superconductivity through vacuum fluctuations for the first time. The achievement marks a significant advance in controlling quantum states of matter."
+    },
     {
       "title": "Infleqtion Helps Launch Japan’s First Operational Neutral-Atom Quantum Computer",
       "link": "https://thequantuminsider.com/2026/08/24/infleqtion-japan-operational-neutral-atom-quantum-computer/",
@@ -80,14 +96,6 @@
       "published": "Mon, 24 Aug 2026 10:27:48 +0000",
       "published_ts": 1787567268,
       "summary": "Insider Brief Press release &#8211; Businesses have been provided a clear benchmark for judging whether electronic device vendors’ claims of protection against quantum enabled attacks are valid, through new guidance released today from the&#160;Trusted Computing Group. TCG’s requirements for Trusted…"
-    },
-    {
-      "title": "RFI and Safeheron Test Post-Quantum Cryptography for Digital Asset Transactions",
-      "link": "https://thequantuminsider.com/2026/08/24/rfi-safeheron-post-quantum-security-digital-assets/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 08:49:41 +0000",
-      "published_ts": 1787561381,
-      "summary": "Insider Brief Press release &#8211; The Responsible Fintech Institute (RFI) and Safeheron have launched a pilot initiative to evaluate post-quantum cryptography for digital asset transactions, with participation from selected financial institutions and regulatory stakeholders across multiple jurisdi…"
     },
     {
       "title": "Comment on \"Scalable Quantum Machine Learning: Trainability, Expressivity and Efficiency\": Polynomial Evaluation of the Triplet-Block Readout",
@@ -320,14 +328,6 @@
       "published": "Tue, 18 Aug 2026 15:40:04 EDT",
       "published_ts": 1787082004,
       "summary": "In the global race to build bigger and better quantum computers, researchers have taken a step forward. A new machine called Helios is radically different from other quantum computers."
-    },
-    {
-      "title": "Physicists entangle quantum memories across a record-breaking 420 km",
-      "link": "https://phys.org/news/2026-08-physicists-entangle-quantum-memories-km.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 18 Aug 2026 15:30:01 EDT",
-      "published_ts": 1787081401,
-      "summary": "Optical fibers are already the backbone of global communication systems. Recently, however, physicists have started to explore how their functionality could be boosted further by conveying information via entangled quantum particles—potentially enabling instantaneous exchanges of information across…"
     },
     {
       "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
