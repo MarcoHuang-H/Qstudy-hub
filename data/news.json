@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1787661483,
+  "generated_ts": 1787682767,
   "items": [
+    {
+      "title": "Chemical physicists quantitatively model electron interactions in real quantum materials",
+      "link": "https://phys.org/news/2026-08-chemical-physicists-quantitatively-electron-interactions.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 25 Aug 2026 12:20:05 EDT",
+      "published_ts": 1787674805,
+      "summary": "A team of scientists from Caltech and Yale University has shown for the first time how to accurately quantify an important quantum phenomenon in metals, called the Kondo effect, for specific real materials. Unlike previous approaches, which for decades have relied on simplified models to qualitative…"
+    },
+    {
+      "title": "IonQ Appoints Eric Ball and Timothy Baxter to Board",
+      "link": "https://thequantuminsider.com/2026/08/25/ionq-appoints-eric-ball-timothy-baxter-board/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 15:47:20 +0000",
+      "published_ts": 1787672840,
+      "summary": "Insider Brief Press release &#8211; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced the appointment of two new board members: technology finance expert Dr. Eric Ball, and former SkyWater Technology Chairman and Samsung North America CEO Timothy Baxter.…"
+    },
+    {
+      "title": "NSF Extends Quantum Sensing Program With Five-Year $37.5M Award",
+      "link": "https://thequantuminsider.com/2026/08/25/nsf-renews-quantum-sensing-institute-37-5m-investment/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 15:39:38 +0000",
+      "published_ts": 1787672378,
+      "summary": "Insider Brief Press release &#8211; The U.S. National Science Foundation has&#160;renewed the Quantum Leap Challenge Institute for Quantum Sensing for Biophysics and Bioengineering (NSF QuBBE)&#160;with a $37.5 million, five-year investment to advance quantum sensing technologies that can reveal bio…"
+    },
+    {
+      "title": "Pasqal Welcomes Kingdom of Saudi Arabia Ministerial Delegation to French Headquarters",
+      "link": "https://thequantuminsider.com/2026/08/25/pasqal-saudi-arabian-delegation-french-quantum-facility/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 14:26:05 +0000",
+      "published_ts": 1787667965,
+      "summary": "Insider Brief Press release &#8211; Pasqal, a global provider of neutral-atom quantum computers, today welcomed a delegation of senior leaders from the Kingdom of Saudi Arabia (the “Kingdom”), led by His Excellency Engineer Abdullah Alswaha, Minister of Communications and Information Technology, at…"
+    },
+    {
+      "title": "Quantum Sky Appoints Sean Thompson as Chief Growth Officer",
+      "link": "https://thequantuminsider.com/2026/08/25/quantum-sky-sean-thompson-chief-growth-officer/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 14:16:27 +0000",
+      "published_ts": 1787667387,
+      "summary": "Insider Brief Press release &#8211; Quantum Sky (&#8220;Company,&#8221; formerly Tyto Athene, LLC), a mission technology integrator building quantum-ready capabilities for government agencies and a portfolio company of Arlington Capital Partners (&#8220;Arlington&#8221;), today announced the appoint…"
+    },
+    {
+      "title": "U.S. SpaceForce’s SpaceWERX Awards Casimir Inc. STTR Phase I Award",
+      "link": "https://thequantuminsider.com/2026/08/25/u-s-spaceforces-spacewerx-awards-casimir-inc-sttr-phase-i-award/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 13:21:50 +0000",
+      "published_ts": 1787664110,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Casimir, Inc., a quantum energy technology company, announced it has been selected by SpaceWERX for a STTR Phase I contract focused on developing Casimir’s fully independent solid-state generator to address the most pressing challenges in the Department of the Air…"
+    },
+    {
+      "title": "Amity Opens New York Research Hub for India-US Technology Collaboration",
+      "link": "https://thequantuminsider.com/2026/08/25/amity-global-research-hub-new-york-india-us/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 12:21:16 +0000",
+      "published_ts": 1787660476,
+      "summary": "Insider Brief Press release &#8211; In a significant step towards strengthening India–United States collaboration in science, technology and innovation, the Amity Global Research Hub (AGRH) was inaugurated at the Consulate General of India, New York, on August 21, 2026, under the theme &#8220;Shapin…"
+    },
+    {
+      "title": "Scientists Look to the Brain to Improve Quantum Sensors",
+      "link": "https://thequantuminsider.com/2026/08/25/scientists-look-to-the-brain-to-improve-quantum-sensors/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 11:56:12 +0000",
+      "published_ts": 1787658972,
+      "summary": "Insider Brief A Washington University in St. Louis biologist is applying theories about how the brain balances order and chaos to a Department of Energy project aimed at making quantum sensors more accurate and energy efficient, according to an article on the university&#8217;s website. Keith Hengen…"
+    },
+    {
+      "title": "Xanadu and Mitsubishi Chemical Advance Quantum Computing Work on EUV Lithography",
+      "link": "https://thequantuminsider.com/2026/08/25/xanadu-mitsubishi-quantum-semiconductor-manufacturing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 11:44:18 +0000",
+      "published_ts": 1787658258,
+      "summary": "Insider Brief Press release &#8211; Xanadu Quantum Technologies Limited (&#8220;Xanadu&#8220;; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, has announced the next phase of its collaboration with Mitsubishi Chemical, a major Japanese chemical manufacturer, to advance semiconductor…"
+    },
     {
       "title": "GSA Outlines Transition to Quantum-Resistant Technology",
       "link": "https://thequantuminsider.com/2026/08/25/gsa-outlines-transition-to-quantum-resistant-technology/",
@@ -18,44 +90,12 @@
       "summary": "Insider Brief Press release &#8211; Sitehop, the UK-based post-quantum cybersecurity specialist, has launched a national security unit to help the UK and its Five Eyes allies secure ageing defence networks without disrupting critical systems already in service. The launch comes as defence and securi…"
     },
     {
-      "title": "India Highlights 6G and Quantum Communications as Technology Priorities",
-      "link": "https://thequantuminsider.com/2026/08/25/india-6g-quantum-communications-development/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 10:41:29 +0000",
-      "published_ts": 1787654489,
-      "summary": "Insider Brief India has an opportunity to create an impact in sixth-generation (6G) technology, quantum communications, and quantum security, Minister of State for Communications Chandra Sekhar Pemmasani said on Tuesday, speaking at the 43rd foundation day of the Centre for Development of Telematics…"
-    },
-    {
-      "title": "Finnish Game Studio MiTale Explores Quantum Computing for Game Development",
-      "link": "https://thequantuminsider.com/2026/08/25/finnish-game-studio-mitale-quantum-computing-game-development/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 09:37:04 +0000",
-      "published_ts": 1787650624,
-      "summary": "Insider Brief Press release &#8211; Finnish independent game studio MiTale will showcase its upcoming post-apocalyptic role-playing game C.L.A.Y. – The Last Redemption at Gamescom 2026 in Cologne this week. C.L.A.Y. – The Last Redemption is a story-driven role-playing game set generations after the…"
-    },
-    {
       "title": "Bright ideas accelerate the hunt for quantum emitters",
       "link": "https://phys.org/news/2026-08-bright-ideas-quantum-emitters.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 25 Aug 2026 05:00:02 EDT",
       "published_ts": 1787648402,
       "summary": "The search for materials that can power future quantum technologies is accelerating, but identifying the most promising candidates remains painfully slow. Evaluating whether a material can efficiently emit quantum light requires computationally intensive simulations, making it difficult to screen th…"
-    },
-    {
-      "title": "New Mexico Invests $3 Million in UNM’s Quantum Institute",
-      "link": "https://thequantuminsider.com/2026/08/25/new-mexico-invests-3-million-in-unms-quantum-institute/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 07:54:34 +0000",
-      "published_ts": 1787644474,
-      "summary": "Insider Brief PRESS RELEASE &#8212; New Mexico is investing $3 million in The University of New Mexico&#8217;s Quantum New Mexico Institute (QNM-I) to strengthen the state&#8217;s quantum workforce and accelerate research and commercialization. Economic Development New Mexico and QNM-I recently sign…"
-    },
-    {
-      "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
-      "link": "https://thequantuminsider.com/2026/08/25/nist-researchers-supersize-quantum-technology-to-help-detect-faint-photons/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 07:44:50 +0000",
-      "published_ts": 1787643890,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single photon counts. “Photons carry information,” said Kristen Parzuchowski, a postdoctora…"
     },
     {
       "title": "On the Reachability Problem in Quantum Petri Nets",
@@ -178,44 +218,12 @@
       "summary": "arXiv:2608.21667v1 Announce Type: new  Abstract: Conventional Quantum Key Distribution (QKD) requires the transmission of qubits proportional to or exceeding the length of the key, as protocols such as BB84 transmit more qubits than the final key size due to basis sifting and privacy amplification.…"
     },
     {
-      "title": "U.S. Treasury Announces the Quantum-Readiness Task Force",
-      "link": "https://thequantuminsider.com/2026/08/24/u-s-treasury-announces-the-quantum-readiness-task-force/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 21:09:02 +0000",
-      "published_ts": 1787605742,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of the Treasury today announced the launch of the Quantum-Readiness Task Force, following President Donald J. Trump&#8217;s&#160;Executive Order 14412&#160;establishing guidelines to strengthen cryptographic protections for America&#8217;s sens…"
-    },
-    {
       "title": "Vacuum-fluctuation-enhanced superconductivity demonstrated for the first time",
       "link": "https://phys.org/news/2026-08-vacuum-fluctuation-superconductivity.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 24 Aug 2026 16:50:01 EDT",
       "published_ts": 1787604601,
       "summary": "In a study published in Nature on Aug. 19, a research team has enhanced superconductivity through vacuum fluctuations for the first time. The achievement marks a significant advance in controlling quantum states of matter."
-    },
-    {
-      "title": "Infleqtion Helps Launch Japan’s First Operational Neutral-Atom Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/08/24/infleqtion-japan-operational-neutral-atom-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 17:36:46 +0000",
-      "published_ts": 1787593006,
-      "summary": "Insider Brief Press release &#8211; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, has helped Japan reach a major quantum milestone, supporting a research team led by Professor Kenji Ohmori at the Institute for Molecular Science…"
-    },
-    {
-      "title": "EuroHPC Opens €119M in Funding Calls for Quantum Technologies",
-      "link": "https://thequantuminsider.com/2026/08/24/eurohpc-119m-funding-calls-quantum-technologies/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 17:28:43 +0000",
-      "published_ts": 1787592523,
-      "summary": "Insider Brief Press release &#8211; The EuroHPC Joint Undertaking (EuroHPC JU) has launched six new calls to advance strategic quantum technologies and the infrastructure needed to accelerate the development and deployment of next-generation quantum systems in Europe. Trapped-Ion Platform Technologi…"
-    },
-    {
-      "title": "Nations at the Quantum Table",
-      "link": "https://thequantuminsider.com/2026/08/24/nations-at-the-quantum-table/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 24 Aug 2026 16:54:34 +0000",
-      "published_ts": 1787590474,
-      "summary": "Who&#8217;s Playing, Who&#8217;s Ahead, and What It Means Insider Brief A year ago, quantum computing read like a research story. Here was a technology that might eventually matter. Now, things are getting very, very real … and nations are preparing.&#160; Since mid-2025, the United States, the Unit…"
     },
     {
       "title": "New free-space optical link adds a wireless component to the nation's longest quantum network",
@@ -320,14 +328,6 @@
       "published": "Tue, 18 Aug 2026 19:40:06 EDT",
       "published_ts": 1787096406,
       "summary": "To commercialize quantum computing, manufacturers need high-quality superconducting materials for microchips, but they also require a reliable, sustainable nanofabrication process. Tantalum is a corrosion-resistant metal that meets the first criterion but not the second. That's because it has to be…"
-    },
-    {
-      "title": "New photonic crystal method improves single-photon sources for quantum networks",
-      "link": "https://phys.org/news/2026-08-photonic-crystal-method-photon-sources.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 18 Aug 2026 18:00:04 EDT",
-      "published_ts": 1787090404,
-      "summary": "Quantum communication promises many advantages over today's standard technologies, including absolutely secure transmission of large amounts of data. However, it requires single photons—and generating them is very difficult. Researchers at the Technical University of Munich (TUM) and the Munich Cent…"
     },
     {
       "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
