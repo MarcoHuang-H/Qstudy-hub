@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1787682767,
+  "generated_ts": 1787706044,
   "items": [
+    {
+      "title": "Sound waves do double duty, carrying and protecting quantum information",
+      "link": "https://phys.org/news/2026-08-duty-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 25 Aug 2026 17:00:03 EDT",
+      "published_ts": 1787691603,
+      "summary": "Researchers at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have demonstrated a promising new way to protect fragile quantum information using nothing but mechanical vibrations—essentially extremely small sound waves. The breakthrough, which comes from the lab of Mar…"
+    },
+    {
+      "title": "NSF Invests $290M in Eight Quantum Research Institutes",
+      "link": "https://thequantuminsider.com/2026/08/25/nsf-invests-290m-eight-quantum-research-institutes/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 18:07:17 +0000",
+      "published_ts": 1787681237,
+      "summary": "Insider Brief Press release &#8211; Understanding and wielding the quantum properties of nature is the ambitious objective of eight research institutes that will collectively receive more than $290 million from the U.S. National Science Foundation. The investment is an expansion of the NSF Quantum L…"
+    },
+    {
+      "title": "Princeton to Lead $27.9M NSF Institute for Quantum Processor Manufacturing",
+      "link": "https://thequantuminsider.com/2026/08/25/princeton-to-lead-27-9m-nsf-institute-for-quantum-processor-manufacturing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 25 Aug 2026 17:58:02 +0000",
+      "published_ts": 1787680682,
+      "summary": "Insider Brief Press release &#8211; The U.S. National Science Foundation announced today that Princeton University will lead one of eight major initiatives to accelerate the development of quantum computing. The Princeton-led Quantum Leap Challenge Institute will devise techniques for fabricating ha…"
+    },
     {
       "title": "Chemical physicists quantitatively model electron interactions in real quantum materials",
       "link": "https://phys.org/news/2026-08-chemical-physicists-quantitatively-electron-interactions.html",
@@ -72,22 +96,6 @@
       "published": "Tue, 25 Aug 2026 11:44:18 +0000",
       "published_ts": 1787658258,
       "summary": "Insider Brief Press release &#8211; Xanadu Quantum Technologies Limited (&#8220;Xanadu&#8220;; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, has announced the next phase of its collaboration with Mitsubishi Chemical, a major Japanese chemical manufacturer, to advance semiconductor…"
-    },
-    {
-      "title": "GSA Outlines Transition to Quantum-Resistant Technology",
-      "link": "https://thequantuminsider.com/2026/08/25/gsa-outlines-transition-to-quantum-resistant-technology/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 11:34:28 +0000",
-      "published_ts": 1787657668,
-      "summary": "Insider Brief PRESS RELEASE &#8212; As the Administration advances its updated&#160;Cyber Strategy [PDF]&#160;and new Executive Order on&#160;Ushering in the Next Frontier of Quantum Innovation, GSA’s Office of Government-wide Policy, Federal Identity &#38; Cybersecurity Division has been entrusted…"
-    },
-    {
-      "title": "Sitehop Launches National Security Unit to Secure Legacy Defence Networks",
-      "link": "https://thequantuminsider.com/2026/08/25/sitehop-unit-secure-legacy-defence-networks/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 11:29:56 +0000",
-      "published_ts": 1787657396,
-      "summary": "Insider Brief Press release &#8211; Sitehop, the UK-based post-quantum cybersecurity specialist, has launched a national security unit to help the UK and its Five Eyes allies secure ageing defence networks without disrupting critical systems already in service. The launch comes as defence and securi…"
     },
     {
       "title": "Bright ideas accelerate the hunt for quantum emitters",
@@ -320,14 +328,6 @@
       "published": "Wed, 19 Aug 2026 05:00:00 -0400",
       "published_ts": 1787130000,
       "summary": "A new, scalable technique could enable powerful radars and sensors based on quantum technology that works at room temperature."
-    },
-    {
-      "title": "Krypton gas emerges as a new ingredient for quantum computing",
-      "link": "https://phys.org/news/2026-08-krypton-gas-emerges-ingredient-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 18 Aug 2026 19:40:06 EDT",
-      "published_ts": 1787096406,
-      "summary": "To commercialize quantum computing, manufacturers need high-quality superconducting materials for microchips, but they also require a reliable, sustainable nanofabrication process. Tantalum is a corrosion-resistant metal that meets the first criterion but not the second. That's because it has to be…"
     },
     {
       "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
