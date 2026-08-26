@@ -1,13 +1,93 @@
 {
-  "generated_ts": 1787726358,
+  "generated_ts": 1787748071,
   "items": [
     {
-      "title": "Diraq Opens Santa Monica Hub to Expand Silicon Quantum Computing R&D",
-      "link": "https://thequantuminsider.com/2026/08/26/diraq-opens-us-technology-hub-santa-monica/",
+      "title": "Quantum Keys Travel 18 Kilometers Across Hybrid Air-and-Fiber Network",
+      "link": "https://thequantuminsider.com/2026/08/26/quantum-keys-travel-18-kilometers-across-hybrid-air-and-fiber-network/",
       "source": "The Quantum Insider",
-      "published": "Wed, 26 Aug 2026 06:18:50 +0000",
-      "published_ts": 1787725130,
-      "summary": "Insider Brief Press release &#8211; Diraq, the silicon quantum computing pioneer, today announced the opening of its U.S. Technology Hub in Santa Monica, California. The hub brings together a 20-strong multi-disciplinary team with deep expertise in silicon spin qubits, tapping into Southern Californ…"
+      "published": "Wed, 26 Aug 2026 11:26:55 +0000",
+      "published_ts": 1787743615,
+      "summary": "Insider Brief Researchers demonstrated quantum key distribution across an 18-kilometer free-space link by using adaptive optics to counter atmospheric turbulence and connect the signal to conventional fiber infrastructure. The field trial in northeastern Italy generated secret encryption keys at an…"
+    },
+    {
+      "title": "NSF Awards $37.5M to CU Boulder-Led Quantum Research Institute",
+      "link": "https://thequantuminsider.com/2026/08/26/nsf-awards-37-5m-cu-boulder-quantum-research-institute/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 26 Aug 2026 11:13:59 +0000",
+      "published_ts": 1787742839,
+      "summary": "Insider Brief Press release &#8211; A scientific quest to build more accurate clocks, faster computers and new sensors to detect the faintest signs of disease and disaster is getting a $37.5 million financial boost. The U.S. National Science Foundation,&#160;through its Quantum Leap Challenge Instit…"
+    },
+    {
+      "title": "New quantum computing method broadens spectroscopy of hard-to-model matter",
+      "link": "https://phys.org/news/2026-08-quantum-method-broadens-spectroscopy-hard.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 26 Aug 2026 07:00:07 EDT",
+      "published_ts": 1787742007,
+      "summary": "Scientists could have a new way to explore the hidden behavior of matter, thanks to research involving Queen Mary University of London that uses a quantum computer to carry out a new form of computational spectroscopy."
+    },
+    {
+      "title": "Quantum Voting System Shows Resilience to Noise on IBM Hardware",
+      "link": "https://thequantuminsider.com/2026/08/26/quantum-voting-system-shows-resilience-to-noise-on-ibm-hardware/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 26 Aug 2026 08:32:27 +0000",
+      "published_ts": 1787733147,
+      "summary": "Insider Brief When voters head to the polls, a ballot is designed to be as simple as possible. A voter makes a choice, the choice goes into the count and, whatever disputes follow, the mark on the ballot stays put. In a quantum election, however, the quantum ballot is a much stranger, more complex p…"
+    },
+    {
+      "title": "Quantum Datacenter Alliance Announces Second Annual Forum on Scaling Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/08/26/quantum-datacenter-alliance-announces-second-annual-forum-on-scaling-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 26 Aug 2026 08:08:37 +0000",
+      "published_ts": 1787731717,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The second international Quantum Datacenter Alliance (QDA) Forum will be held on October 1, 2026 at Battersea Power Station in London. This exclusive-access event brings together technical and business leaders from across the quantum and classical networking indus…"
+    },
+    {
+      "title": "Single-Spin Quantum Microscope Helps Researchers Tackle Processor-Memory Bottleneck",
+      "link": "https://thequantuminsider.com/2026/08/26/single-spin-quantum-microscope-helps-researchers-tackle-processor-memory-bottleneck/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 26 Aug 2026 07:57:05 +0000",
+      "published_ts": 1787731025,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Artificial intelligence faces an energy crisis, stemming from a physical traffic jam inside modern computer chips.&#160; Processors must continually shuffle data, such as the billions of parameters in complex models, between separate computing and memory nodes. Th…"
+    },
+    {
+      "title": "Quantum Computers Could Give Scientists a New Way to Explore The Hidden Behavior of Matter",
+      "link": "https://thequantuminsider.com/2026/08/26/quantum-computers-could-give-scientists-a-new-way-to-explore-the-hidden-behavior-of-matter/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 26 Aug 2026 07:42:19 +0000",
+      "published_ts": 1787730139,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Scientists could have a new way to explore the hidden behaviour of matter, thanks to research involving Queen Mary University of London that uses a quantum computer to carry out a new form of computational spectroscopy.  Spectroscopy is an important scientific tec…"
+    },
+    {
+      "title": "D-Wave CFO John Markovich to Retire in September",
+      "link": "https://thequantuminsider.com/2026/08/26/d-wave-cfo-john-markovich-retire-september/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 26 Aug 2026 07:38:59 +0000",
+      "published_ts": 1787729939,
+      "summary": "Insider Brief Press release &#8211; D-Wave Quantum Inc. (NASDAQ: QBTS) (&#8220;D-Wave&#8221; or the &#8220;Company&#8221;), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced that John Markovich is retiring and thu…"
+    },
+    {
+      "title": "NSF Awards Yale-Led Center $37.5M for Quantum Error Correction Research",
+      "link": "https://thequantuminsider.com/2026/08/26/yale-leads-37-5m-nsf-center-quantum-error-correction/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 26 Aug 2026 07:15:00 +0000",
+      "published_ts": 1787728500,
+      "summary": "Insider Brief Press release &#8211; A Yale-led multidisciplinary team of researchers has been awarded a $37.5 million grant from the U.S. National Science Foundation (NSF) for a center aimed at designing practical and self-correcting quantum computers from top to bottom and pointing the way forward…"
+    },
+    {
+      "title": "DOE Awards $7.3M for Quantum Research in High-Energy Physics",
+      "link": "https://thequantuminsider.com/2026/08/26/doe-awards-7-3m-quantum-research-high-energy-physics/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 26 Aug 2026 07:05:55 +0000",
+      "published_ts": 1787727955,
+      "summary": "Insider Brief Press release &#8211; Recently, DOE announced $7.3 million in funding for eight projects that will explore the application of quantum information science and technology to new experiments and simulations in high energy physics, broadening the reach of new techniques and unlocking new p…"
+    },
+    {
+      "title": "NSF Renews Illinois-Led HQAN With $37.5M for Modular Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/08/26/nsf-renews-illinois-led-hqan-37-5m-modular-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 26 Aug 2026 06:54:20 +0000",
+      "published_ts": 1787727260,
+      "summary": "Insider Brief Press release &#8211; The U.S. National Science Foundation has renewed the University of Illinois Urbana-Champaign-led NSF Quantum Leap Challenge Institute for Hybrid Quantum Architectures and Networks (NSF HQAN) for a second phase with $37.5 million in funding over five years. One of…"
     },
     {
       "title": "Single-shot online sequence classification with unbounded quantum memory advantage",
@@ -138,84 +218,12 @@
       "summary": "Researchers at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have demonstrated a promising new way to protect fragile quantum information using nothing but mechanical vibrations—essentially extremely small sound waves. The breakthrough, which comes from the lab of Mar…"
     },
     {
-      "title": "NSF Invests $290M in Eight Quantum Research Institutes",
-      "link": "https://thequantuminsider.com/2026/08/25/nsf-invests-290m-eight-quantum-research-institutes/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 18:07:17 +0000",
-      "published_ts": 1787681237,
-      "summary": "Insider Brief Press release &#8211; Understanding and wielding the quantum properties of nature is the ambitious objective of eight research institutes that will collectively receive more than $290 million from the U.S. National Science Foundation. The investment is an expansion of the NSF Quantum L…"
-    },
-    {
-      "title": "Princeton to Lead $27.9M NSF Institute for Quantum Processor Manufacturing",
-      "link": "https://thequantuminsider.com/2026/08/25/princeton-to-lead-27-9m-nsf-institute-for-quantum-processor-manufacturing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 17:58:02 +0000",
-      "published_ts": 1787680682,
-      "summary": "Insider Brief Press release &#8211; The U.S. National Science Foundation announced today that Princeton University will lead one of eight major initiatives to accelerate the development of quantum computing. The Princeton-led Quantum Leap Challenge Institute will devise techniques for fabricating ha…"
-    },
-    {
       "title": "Chemical physicists quantitatively model electron interactions in real quantum materials",
       "link": "https://phys.org/news/2026-08-chemical-physicists-quantitatively-electron-interactions.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 25 Aug 2026 12:20:05 EDT",
       "published_ts": 1787674805,
       "summary": "A team of scientists from Caltech and Yale University has shown for the first time how to accurately quantify an important quantum phenomenon in metals, called the Kondo effect, for specific real materials. Unlike previous approaches, which for decades have relied on simplified models to qualitative…"
-    },
-    {
-      "title": "IonQ Appoints Eric Ball and Timothy Baxter to Board",
-      "link": "https://thequantuminsider.com/2026/08/25/ionq-appoints-eric-ball-timothy-baxter-board/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 15:47:20 +0000",
-      "published_ts": 1787672840,
-      "summary": "Insider Brief Press release &#8211; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced the appointment of two new board members: technology finance expert Dr. Eric Ball, and former SkyWater Technology Chairman and Samsung North America CEO Timothy Baxter.…"
-    },
-    {
-      "title": "NSF Extends Quantum Sensing Program With Five-Year $37.5M Award",
-      "link": "https://thequantuminsider.com/2026/08/25/nsf-renews-quantum-sensing-institute-37-5m-investment/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 15:39:38 +0000",
-      "published_ts": 1787672378,
-      "summary": "Insider Brief Press release &#8211; The U.S. National Science Foundation has&#160;renewed the Quantum Leap Challenge Institute for Quantum Sensing for Biophysics and Bioengineering (NSF QuBBE)&#160;with a $37.5 million, five-year investment to advance quantum sensing technologies that can reveal bio…"
-    },
-    {
-      "title": "Pasqal Welcomes Kingdom of Saudi Arabia Ministerial Delegation to French Headquarters",
-      "link": "https://thequantuminsider.com/2026/08/25/pasqal-saudi-arabian-delegation-french-quantum-facility/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 14:26:05 +0000",
-      "published_ts": 1787667965,
-      "summary": "Insider Brief Press release &#8211; Pasqal, a global provider of neutral-atom quantum computers, today welcomed a delegation of senior leaders from the Kingdom of Saudi Arabia (the “Kingdom”), led by His Excellency Engineer Abdullah Alswaha, Minister of Communications and Information Technology, at…"
-    },
-    {
-      "title": "Quantum Sky Appoints Sean Thompson as Chief Growth Officer",
-      "link": "https://thequantuminsider.com/2026/08/25/quantum-sky-sean-thompson-chief-growth-officer/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 14:16:27 +0000",
-      "published_ts": 1787667387,
-      "summary": "Insider Brief Press release &#8211; Quantum Sky (&#8220;Company,&#8221; formerly Tyto Athene, LLC), a mission technology integrator building quantum-ready capabilities for government agencies and a portfolio company of Arlington Capital Partners (&#8220;Arlington&#8221;), today announced the appoint…"
-    },
-    {
-      "title": "U.S. SpaceForce’s SpaceWERX Awards Casimir Inc. STTR Phase I Award",
-      "link": "https://thequantuminsider.com/2026/08/25/u-s-spaceforces-spacewerx-awards-casimir-inc-sttr-phase-i-award/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 13:21:50 +0000",
-      "published_ts": 1787664110,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Casimir, Inc., a quantum energy technology company, announced it has been selected by SpaceWERX for a STTR Phase I contract focused on developing Casimir’s fully independent solid-state generator to address the most pressing challenges in the Department of the Air…"
-    },
-    {
-      "title": "Amity Opens New York Research Hub for India-US Technology Collaboration",
-      "link": "https://thequantuminsider.com/2026/08/25/amity-global-research-hub-new-york-india-us/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 12:21:16 +0000",
-      "published_ts": 1787660476,
-      "summary": "Insider Brief Press release &#8211; In a significant step towards strengthening India–United States collaboration in science, technology and innovation, the Amity Global Research Hub (AGRH) was inaugurated at the Consulate General of India, New York, on August 21, 2026, under the theme &#8220;Shapin…"
-    },
-    {
-      "title": "Scientists Look to the Brain to Improve Quantum Sensors",
-      "link": "https://thequantuminsider.com/2026/08/25/scientists-look-to-the-brain-to-improve-quantum-sensors/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 25 Aug 2026 11:56:12 +0000",
-      "published_ts": 1787658972,
-      "summary": "Insider Brief A Washington University in St. Louis biologist is applying theories about how the brain balances order and chaos to a Department of Energy project aimed at making quantum sensors more accurate and energy efficient, according to an article on the university&#8217;s website. Keith Hengen…"
     },
     {
       "title": "Bright ideas accelerate the hunt for quantum emitters",
@@ -312,14 +320,6 @@
       "published": "Wed, 19 Aug 2026 10:20:05 EDT",
       "published_ts": 1787149205,
       "summary": "Despite science's best efforts to classify the vast menagerie of subatomic particles discovered over the past few decades, some exotic varieties defy explanation. Now, nuclear physicists at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility have found evidence of two unex…"
-    },
-    {
-      "title": "Quantum simulators gain quantitative error bars in 51-ion test",
-      "link": "https://phys.org/news/2026-08-quantum-simulators-gain-quantitative-error.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 19 Aug 2026 09:45:31 EDT",
-      "published_ts": 1787147131,
-      "summary": "In the coming years, increasingly larger and more powerful quantum systems are expected to tackle problems that are difficult or impossible to solve using conventional computers. However, the more powerful quantum simulations become, the more difficult it is to independently verify their results. Wh…"
     },
     {
       "title": "Securing wireless communication in next-generation devices",
