@@ -1,6 +1,94 @@
 {
-  "generated_ts": 1787813761,
+  "generated_ts": 1787866718,
   "items": [
+    {
+      "title": "FAU Researchers Use Quantum Machine Learning to Predict Heart Disease",
+      "link": "https://thequantuminsider.com/2026/08/27/fau-researchers-use-quantum-machine-learning-to-predict-heart-disease/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 27 Aug 2026 16:33:39 +0000",
+      "published_ts": 1787848419,
+      "summary": "Insider Brief Press release &#8211; Cardiovascular disease remains a major global health&#160;challenge, causing millions of deaths each year and imposing substantial healthcare costs. Early, accurate diagnosis is critical for improving outcomes and enabling timely intervention. While conventional m…"
+    },
+    {
+      "title": "First observation of optical Magnus effect could sharpen quantum computer control",
+      "link": "https://phys.org/news/2026-08-optical-magnus-effect-sharpen-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 27 Aug 2026 11:20:04 EDT",
+      "published_ts": 1787844004,
+      "summary": "Table tennis professionals are true masters at redirecting fast-moving projectiles. Putting a targeted spin on a serve can make the little white ball fly straight toward the edge of the table but then, at the last moment, take a sharp curve into the left corner. The physical phenomenon behind this s…"
+    },
+    {
+      "title": "Bridgewater State University Receives $380K for Quantum Technology Education",
+      "link": "https://thequantuminsider.com/2026/08/27/bridgewater-state-university-receives-380k-for-quantum-technology-education/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 27 Aug 2026 14:50:11 +0000",
+      "published_ts": 1787842211,
+      "summary": "Insider Brief Press release &#8211; Bridgewater State University has received approximately $380,000 from the Massachusetts Technology Collaborative (MassTech) to expand undergraduate education and research in quantum technologies, bringing three advanced quantum systems to campus. The MassTech Tech…"
+    },
+    {
+      "title": "NASA Awards Infleqtion $20M Contract for Quantum Gravity Sensor",
+      "link": "https://thequantuminsider.com/2026/08/27/nasa-awards-infleqtion-20m-contract-for-quantum-gravity-sensor/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 27 Aug 2026 12:55:53 +0000",
+      "published_ts": 1787835353,
+      "summary": "Insider Brief Press release &#8211; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today announced NASA has awarded the company a $20 million follow-on contract to continue development of the Quantum Gravity Gradiometer Pathfinde…"
+    },
+    {
+      "title": "Q-CTRL Demonstrates GPS-Free Quantum Gravimetric Navigation Demonstration in Maritime Field Trial",
+      "link": "https://thequantuminsider.com/2026/08/27/q-ctrl-demonstrates-gps-free-quantum-gravimetric-navigation-demonstration-in-maritime-field-trial/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 27 Aug 2026 11:54:52 +0000",
+      "published_ts": 1787831692,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Q-CTRL, the global leader in quantum infrastructure software, today announced a major milestone in real-world quantum sensing deployments. In a world-first field demonstration, the company successfully navigated a maritime vessel without GPS using a new form of so…"
+    },
+    {
+      "title": "StarkWare Researcher Demonstrates Quantum-Resistant Bitcoin Transaction",
+      "link": "https://thequantuminsider.com/2026/08/27/starkware-researcher-demonstrates-quantum-resistant-bitcoin-transaction/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 27 Aug 2026 11:33:19 +0000",
+      "published_ts": 1787830399,
+      "summary": "Insider Brief The first quantum-resistant Bitcoin transaction has been successfully executed.&#160; A first-of-a-kind transaction on Bitcoin mainnet made funds that had been vulnerable to quantum attack now secure in the case of quantum attack. This challenges the long-held belief that only a fork c…"
+    },
+    {
+      "title": "Researchers Use IBM Quantum Computer to Test Drug-Docking Method",
+      "link": "https://thequantuminsider.com/2026/08/27/researchers-use-ibm-quantum-computer-to-test-drug-docking-method/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 27 Aug 2026 11:33:12 +0000",
+      "published_ts": 1787830392,
+      "summary": "Insider Brief A team of Singapore-based researchers reports that a hybrid quantum-classical method could offer a new route to studying drug candidates using today’s Noisy Intermediate-Stage Quantum (NISQ) devices. The researchers used the method to examine how two small molecules bind to proteins. I…"
+    },
+    {
+      "title": "Finland’s Defence Tech Hub Expands Quantum and Dual-Use Technology Ecosystem",
+      "link": "https://thequantuminsider.com/2026/08/27/finlands-defence-tech-hub-expands-quantum-and-dual-use-technology-ecosystem/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 27 Aug 2026 10:18:13 +0000",
+      "published_ts": 1787825893,
+      "summary": "Insider Brief Press release &#8211; A strong defence technology cluster has emerged within Espoo’s innovation ecosystem. Today, Defence Tech Hub brings together over 100 companies developing cutting-edge technologies for both civilian and defence applications. The hub is now consolidating its operat…"
+    },
+    {
+      "title": "Quantum eMotion’s Quantum Entropy Source Submitted for NIST Validation",
+      "link": "https://thequantuminsider.com/2026/08/27/quantum-emotion-submits-quantum-entropy-module-for-nist-review/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 27 Aug 2026 10:01:51 +0000",
+      "published_ts": 1787824911,
+      "summary": "Insider Brief Press release &#8211; Quantum eMotion Corp. (“QeM” or the “Company”) (NYSE American: QNC; TSXV: QNC; FSE: 34Q0), a leader in quantum-secure cybersecurity solutions, today announced that Lightship Security Inc. has completed its independent assessment of QeM’s eCore-Q PCIe Quantum Entro…"
+    },
+    {
+      "title": "ColibriTD Raises €4M to Expand Quantum Simulation Software",
+      "link": "https://thequantuminsider.com/2026/08/27/colibritd-raises-4m-to-expand-quantum-simulation-software/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 27 Aug 2026 09:43:36 +0000",
+      "published_ts": 1787823816,
+      "summary": "Insider Brief Press release &#8211; ColibriTD, the French quantum software company specializing in multiphysics simulation, today announced the closing of a €4M Seed round led by Earlybird Venture Capital, with participation from, SymbiaVC and Medin VC. The round follows Earlybird&#8217;s initial €1…"
+    },
+    {
+      "title": "Cancer May Behave Like a Quantum System, Columbia Studies Suggest",
+      "link": "https://thequantuminsider.com/2026/08/27/cancer-may-behave-like-a-quantum-system-columbia-studies-suggest/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 27 Aug 2026 08:05:17 +0000",
+      "published_ts": 1787817917,
+      "summary": "Insider Brief Cancer cells may behave in a way that resembles one of the defining rules of quantum physics, occupying only a limited number of stable states rather than an unlimited range of biological forms, according to Columbia University researchers. The comparison does not mean cancer is driven…"
+    },
     {
       "title": "Comment on 'Supervised quantum machine learning models are kernel methods'",
       "link": "https://arxiv.org/abs/2608.24923",
@@ -130,14 +218,6 @@
       "summary": "While quantum computing could be the future, it is currently plagued by finicky hardware. To make the technology practical, researchers must demonstrate that it consistently and continuously works and performs at scale. In a new study, published in Physical Review Letters, researchers at Lawrence Li…"
     },
     {
-      "title": "Sparrow Quantum Receives EuroHPC Funding for Photonic Quantum Project",
-      "link": "https://thequantuminsider.com/2026/08/26/sparrow-quantum-eurohpc-quantum-grand-challenge-funding/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 26 Aug 2026 15:50:59 +0000",
-      "published_ts": 1787759459,
-      "summary": "Insider Brief Press release &#8211; Sparrow Quantum has announced that the company is one of 13 selected for funding under the EuroHPC Joint Undertaking’s Quantum Grand Challenge, an EU program created to accelerate the development of market-ready quantum-computing platforms. Sparrow Quantum is the…"
-    },
-    {
       "title": "One molecule, one photon: Entanglement makes an imperceptible recoil measurable",
       "link": "https://phys.org/news/2026-08-molecule-photon-entanglement-imperceptible-recoil.html",
       "source": "Phys.org — Quantum Physics",
@@ -146,84 +226,12 @@
       "summary": "For decades, light has been used to understand the molecular structures of matter. A sample is irradiated with light, and measurements determine the wavelengths at which it is absorbed. Since each molecule absorbs light at very specific wavelengths that depend on its structure, the resulting absorpt…"
     },
     {
-      "title": "Quantum X Labs Launches Qatacomb for Quantum Security Research",
-      "link": "https://thequantuminsider.com/2026/08/26/quantum-x-labs-qatacomb-quantum-security-research/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 26 Aug 2026 14:27:49 +0000",
-      "published_ts": 1787754469,
-      "summary": "Insider Brief Press release &#8211; Quantum X Labs Inc. (Nasdaq: QXL) (“QuantumX Labs” or the “Company”), today announced the launch of Qatacomb, a new research initiative being advanced through the Company’s QuantumQ Security operation, focused on exploring a quantum-native approach to protecting s…"
-    },
-    {
-      "title": "CypherGenics Launches FASTKAT for Quantum-Ready Security",
-      "link": "https://thequantuminsider.com/2026/08/26/cyphergenics-launches-fastkat-quantum-ready-security/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 26 Aug 2026 14:15:32 +0000",
-      "published_ts": 1787753732,
-      "summary": "Insider Brief Press release &#8211; CypherGenics, the post-quantum security platform for enterprises and critical infrastructure, today announced the launch of FASTKAT™, its patented security technology designed to deliver quantum-ready identity,&#160;authentication&#160;and encryption across increa…"
-    },
-    {
-      "title": "SEALSQ Advances QASIC Quantum-Resistant Semiconductor Roadmap",
-      "link": "https://thequantuminsider.com/2026/08/26/sealsq-qasic-quantum-resistant-semiconductor-roadmap/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 26 Aug 2026 13:55:33 +0000",
-      "published_ts": 1787752533,
-      "summary": "Insider Brief Press release &#8211; SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or the “Company”), a global leader in post-quantum semiconductor, Public Key Infrastructure (“PKI”) and digital identity technologies, today provided an update on the development of QASIC, its Quantum-Resistant Application-Spec…"
-    },
-    {
-      "title": "IBM Completes Acquisition of HRL Laboratories",
-      "link": "https://thequantuminsider.com/2026/08/26/ibm-completes-acquisition-hrl-laboratories/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 26 Aug 2026 13:47:03 +0000",
-      "published_ts": 1787752023,
-      "summary": "Insider Brief Press release &#8211; IBM (NYSE: IBM) today announced it has completed its acquisition of HRL Laboratories, LLC (HRL), a leading research and development institution whose expertise spans quantum computing, quantum sensing, advanced communications, electronics, manufacturing, and mater…"
-    },
-    {
-      "title": "Quantum Keys Travel 18 Kilometers Across Hybrid Air-and-Fiber Network",
-      "link": "https://thequantuminsider.com/2026/08/26/quantum-keys-travel-18-kilometers-across-hybrid-air-and-fiber-network/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 26 Aug 2026 11:26:55 +0000",
-      "published_ts": 1787743615,
-      "summary": "Insider Brief Researchers demonstrated quantum key distribution across an 18-kilometer free-space link by using adaptive optics to counter atmospheric turbulence and connect the signal to conventional fiber infrastructure. The field trial in northeastern Italy generated secret encryption keys at an…"
-    },
-    {
-      "title": "NSF Awards $37.5M to CU Boulder-Led Quantum Research Institute",
-      "link": "https://thequantuminsider.com/2026/08/26/nsf-awards-37-5m-cu-boulder-quantum-research-institute/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 26 Aug 2026 11:13:59 +0000",
-      "published_ts": 1787742839,
-      "summary": "Insider Brief Press release &#8211; A scientific quest to build more accurate clocks, faster computers and new sensors to detect the faintest signs of disease and disaster is getting a $37.5 million financial boost. The U.S. National Science Foundation,&#160;through its Quantum Leap Challenge Instit…"
-    },
-    {
       "title": "New quantum computing method broadens spectroscopy of hard-to-model matter",
       "link": "https://phys.org/news/2026-08-quantum-method-broadens-spectroscopy-hard.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 26 Aug 2026 07:00:07 EDT",
       "published_ts": 1787742007,
       "summary": "Scientists could have a new way to explore the hidden behavior of matter, thanks to research involving Queen Mary University of London that uses a quantum computer to carry out a new form of computational spectroscopy."
-    },
-    {
-      "title": "Quantum Voting System Shows Resilience to Noise on IBM Hardware",
-      "link": "https://thequantuminsider.com/2026/08/26/quantum-voting-system-shows-resilience-to-noise-on-ibm-hardware/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 26 Aug 2026 08:32:27 +0000",
-      "published_ts": 1787733147,
-      "summary": "Insider Brief When voters head to the polls, a ballot is designed to be as simple as possible. A voter makes a choice, the choice goes into the count and, whatever disputes follow, the mark on the ballot stays put. In a quantum election, however, the quantum ballot is a much stranger, more complex p…"
-    },
-    {
-      "title": "Quantum Datacenter Alliance Announces Second Annual Forum on Scaling Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/08/26/quantum-datacenter-alliance-announces-second-annual-forum-on-scaling-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 26 Aug 2026 08:08:37 +0000",
-      "published_ts": 1787731717,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The second international Quantum Datacenter Alliance (QDA) Forum will be held on October 1, 2026 at Battersea Power Station in London. This exclusive-access event brings together technical and business leaders from across the quantum and classical networking indus…"
-    },
-    {
-      "title": "Single-Spin Quantum Microscope Helps Researchers Tackle Processor-Memory Bottleneck",
-      "link": "https://thequantuminsider.com/2026/08/26/single-spin-quantum-microscope-helps-researchers-tackle-processor-memory-bottleneck/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 26 Aug 2026 07:57:05 +0000",
-      "published_ts": 1787731025,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Artificial intelligence faces an energy crisis, stemming from a physical traffic jam inside modern computer chips.&#160; Processors must continually shuffle data, such as the billions of parameters in complex models, between separate computing and memory nodes. Th…"
     },
     {
       "title": "Sound waves do double duty, carrying and protecting quantum information",
@@ -312,14 +320,6 @@
       "published": "Wed, 19 Aug 2026 17:20:01 EDT",
       "published_ts": 1787174401,
       "summary": "When different materials transition from one phase to another, such as water coming to a boil or a magnet losing its ability to attract metals, something remarkable can happen: They begin to behave identically, following the same mathematical rules. \"Physicists call this trait universality—the messy…"
-    },
-    {
-      "title": "A little bit more than magic: The secret to quantum computing may lie in negativity",
-      "link": "https://phys.org/news/2026-08-bit-magic-secret-quantum-negativity.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 19 Aug 2026 16:40:04 EDT",
-      "published_ts": 1787172004,
-      "summary": "Quantum computers hold great promise for applications from drug discovery to cybersecurity. Yet figuring out what would give quantum computers their edge over everyday \"classical\" computers is a subtle problem. A new theoretical study led by researchers at the Cavendish Laboratory shows that quantum…"
     },
     {
       "title": "Securing wireless communication in next-generation devices",
