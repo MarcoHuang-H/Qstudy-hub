@@ -1,13 +1,133 @@
 {
-  "generated_ts": 1787773307,
+  "generated_ts": 1787813761,
   "items": [
     {
-      "title": "Quantum Datacenter Alliance to Hold Second Forum on Scaling Quantum Computing in London",
-      "link": "https://thequantuminsider.com/2026/08/26/quantum-datacenter-alliance-second-forum-london/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 26 Aug 2026 17:50:24 +0000",
-      "published_ts": 1787766624,
-      "summary": "Insider Brief Press release &#8211; The second international Quantum Datacenter Alliance (QDA) Forum will be held on October 1, 2026, at Battersea Power Station in London. This exclusive-access event brings together technical and business leaders from across the quantum and classical networking indu…"
+      "title": "Comment on 'Supervised quantum machine learning models are kernel methods'",
+      "link": "https://arxiv.org/abs/2608.24923",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.24923v1 Announce Type: new  Abstract: We identify a few small errors in the proof of Theorem 1 in M. Schuld, 'Supervised quantum machine learning models are kernel methods' (arXiv:2101.11020v2), Appendix A. These do not affect the validity of the theorem, but do matter if one wants to use…"
+    },
+    {
+      "title": "Observing Bell Inequality Violation Beyond the Qubit Bound in a Spinor Bose--Einstein Condensate",
+      "link": "https://arxiv.org/abs/2608.24981",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.24981v1 Announce Type: new  Abstract: Correlations allowed by quantum mechanics can defy any classical explanation, with Bell nonlocality standing as their most profound and operationally powerful manifestation. While nonlocality has been demonstrated across a wide range of platforms, in…"
+    },
+    {
+      "title": "Mixed-State Symmetry-Protected Topology and Strong-to-Weak Spontaneous Symmetry Breaking in a Superconducting Qubit Array",
+      "link": "https://arxiv.org/abs/2608.24993",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.24993v1 Announce Type: new  Abstract: We experimentally investigate how symmetry-protected topological order in a one-dimensional cluster state is transformed by measurement and decoherence in a five-qubit superconducting array. We first characterize the state's nonlocal string order and…"
+    },
+    {
+      "title": "Fluctuation-dissipation structure of quantum geometry",
+      "link": "https://arxiv.org/abs/2608.25006",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.25006v1 Announce Type: new  Abstract: The geometry of quantum states is a fundamental research area with applications ranging from band theory in condensed matter to variational algorithms in quantum information. Due to their relative simplicity, pure states are usually studied, while mix…"
+    },
+    {
+      "title": "The bottleneck dimension of quantum operations",
+      "link": "https://arxiv.org/abs/2608.25010",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.25010v1 Announce Type: new  Abstract: Programmable quantum devices nominally act on a Hilbert space whose dimension grows exponentially with the number of constituents, but the presence of noise makes it unlikely that they remain coherent across all of this immense Hilbert space. Then, wh…"
+    },
+    {
+      "title": "Hardware-Aware Fermion-to-Qubit Mappings for Simulating the 2D Hubbard Model on Heavy-Hexagon Quantum Processors",
+      "link": "https://arxiv.org/abs/2608.25024",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.25024v1 Announce Type: new  Abstract: Quantum simulation of strongly correlated fermionic systems is among the most promising near- term applications of quantum computing, but its practical efficiency depends critically on the choice of fermion-to-qubit mapping and on the connectivity of…"
+    },
+    {
+      "title": "Real-time decoder for a MegaQuOp quantum computer using a single CPU",
+      "link": "https://arxiv.org/abs/2608.25027",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.25027v1 Announce Type: new  Abstract: As quantum computers advance toward the regime of MegaQuOp machines executing millions of gates, a decoding system capable of real-time error correction in such a device will be crucial. Recent efforts have been focused on decoding an error-corrected…"
+    },
+    {
+      "title": "A Unified Framework for Operator Backpropagation and Observable Measurement in Quantum Computing",
+      "link": "https://arxiv.org/abs/2608.25042",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.25042v1 Announce Type: new  Abstract: Decoherence imposes severe limits on quantum circuit depth, motivating methods to reduce circuit depth. Operator backpropagation has recently been proposed as a way to lower circuit depth by classically backpropagating observables through subcircuits.…"
+    },
+    {
+      "title": "Feedback-enabled magnomechanics in lithium ferrite",
+      "link": "https://arxiv.org/abs/2608.25101",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.25101v1 Announce Type: new  Abstract: Lithium ferrite (LiFe) is a promising material for cavity magnonics because its large spin density enables strong coupling between magnons and microwave photons. Its potential for cavity magnomechanics, however, has remained unexplored. Here, we obser…"
+    },
+    {
+      "title": "Generalized Efficient Quantum Circuit Implementation of Discrete-Time Quantum Walks on Cayley Graphs",
+      "link": "https://arxiv.org/abs/2608.25136",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.25136v1 Announce Type: new  Abstract: We present a generalized and efficient quantum circuit framework for implementing discrete-time quantum walks (DTQWs) on Cayley graphs of arbitrary dimension. Building on the Boundary QFT scheme of Razzoli et al., we introduce a systematic multi-stage…"
+    },
+    {
+      "title": "No Free Compression in Quantum Relaxations for Optimization",
+      "link": "https://arxiv.org/abs/2608.25151",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.25151v1 Announce Type: new  Abstract: Qubit-efficient quantum relaxations compress classical decision variables into expectation values on substantially fewer qubits. We ask what resource tradeoffs this compression entails for quantum optimization. For the complete quadratic-Majorana enco…"
+    },
+    {
+      "title": "Optical centrifuge as a probe of strong dissipative coupling between a molecular rotor and superfluid helium",
+      "link": "https://arxiv.org/abs/2608.25161",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.25161v1 Announce Type: new  Abstract: A macroscopic manifestation of superfluidity is that objects moving through liquid helium experience negligible friction below the Landau critical velocity. How this frictionless motion breaks down at the nanoscale remains an open question. Molecules…"
+    },
+    {
+      "title": "Separating Quantum Indistinguishability Obfuscation from Falsifiable Assumptions",
+      "link": "https://arxiv.org/abs/2608.25195",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.25195v1 Announce Type: new  Abstract: Quantum indistinguishability obfuscation (qIO) aims to make a quantum circuit unintelligible while preserving its functionality. It serves as a foundational primitive for advanced applications, such as witness encryption (WE) for QMA, non-interactive…"
+    },
+    {
+      "title": "Multipair-resilient entanglement swapping with complementary linear-optical measurements",
+      "link": "https://arxiv.org/abs/2608.25211",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.25211v1 Announce Type: new  Abstract: Multipair emission is a principal source of false heralds in entanglement swapping with spontaneous parametric down-conversion sources. A conventional Bell-state measurement (BSM) cannot distinguish the desired arrival of one photon from each neighbor…"
+    },
+    {
+      "title": "Affine-Profile Stabilizer Thresholds for Magic in Codeword-Stabilized Quantum Codes",
+      "link": "https://arxiv.org/abs/2608.25414",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "published_ts": 1787803200,
+      "summary": "arXiv:2608.25414v1 Announce Type: new  Abstract: Codeword-stabilized quantum codes give a unified graph-state description of stabilizer and nonadditive quantum error-correcting codes. Although each individual CWS word state is stabilizer, coherent superpositions of different word states can be nonst…"
+    },
+    {
+      "title": "Ramped fields create more robust entanglement between trapped-ion qubits",
+      "link": "https://phys.org/news/2026-08-ramped-fields-robust-entanglement-ion.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 26 Aug 2026 18:20:06 EDT",
+      "published_ts": 1787782806,
+      "summary": "While quantum computing could be the future, it is currently plagued by finicky hardware. To make the technology practical, researchers must demonstrate that it consistently and continuously works and performs at scale. In a new study, published in Physical Review Letters, researchers at Lawrence Li…"
     },
     {
       "title": "Sparrow Quantum Receives EuroHPC Funding for Photonic Quantum Project",
@@ -98,124 +218,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; The second international Quantum Datacenter Alliance (QDA) Forum will be held on October 1, 2026 at Battersea Power Station in London. This exclusive-access event brings together technical and business leaders from across the quantum and classical networking indus…"
     },
     {
-      "title": "Single-shot online sequence classification with unbounded quantum memory advantage",
-      "link": "https://arxiv.org/abs/2608.23669",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.23669v1 Announce Type: new  Abstract: An agent monitors a complex environment, receiving one observation at each time step and eventually deciding how to label the resulting sequence. Does the sequence indicate an anomaly, and if so, of what type? Does it signal market instability, and to…"
-    },
-    {
-      "title": "Bang-bang protocol for nondispersive qubit readout",
-      "link": "https://arxiv.org/abs/2608.23681",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.23681v1 Announce Type: new  Abstract: Fast, precise, and quantum-non-demolition (QND) readout of superconducting qubits is a fundamental component of high-fidelity quantum sensing and computation. Conventional approaches typically operate in the dispersive regime, where the qubit-resonato…"
-    },
-    {
-      "title": "Compositionality in quantum reference frame perspectives",
-      "link": "https://arxiv.org/abs/2608.23698",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.23698v1 Announce Type: new  Abstract: Understanding a composite system through its constituents is a fundamental practice in physics. In the context of quantum reference frames (QRFs), however, combining the usual quantum-theoretic notion of composition with QRF perspectives gives rise to…"
-    },
-    {
-      "title": "Hamiltonian Learning at Scale",
-      "link": "https://arxiv.org/abs/2608.23707",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.23707v1 Announce Type: new  Abstract: Learning a quantum system's Hamiltonian is crucial for understanding and controlling its dynamics and has recently become a topic of widespread interest. To understand the learning protocol's error tolerances, i.e. its stability in the presence of ine…"
-    },
-    {
-      "title": "Sustained macroscopic quantum coherence in a superradiant solid under ambient conditions",
-      "link": "https://arxiv.org/abs/2608.23748",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.23748v1 Announce Type: new  Abstract: Macroscopic quantum coherence, such as in laser, Bose-Einstein condensates, superfluids, and superconductors, is important to fundamental physics and useful for quantum technologies. Superradiance provides a mechanism to produce coherence among a larg…"
-    },
-    {
-      "title": "CircLS: Compiling Lattice Surgery to Physical Circuits with Dynamic Allocation",
-      "link": "https://arxiv.org/abs/2608.23819",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.23819v1 Announce Type: new  Abstract: In fault-tolerant quantum computing, lattice surgery (LS) is one of the leading ways to realize logical operations, and the Pauli product measurement (PPM) is the basic instruction of LS-based computing. Compilers on the PPM sequence, however, stay at…"
-    },
-    {
-      "title": "Quantum Algorithms and Hardness for Point-Count Approximation over Finite Fields",
-      "link": "https://arxiv.org/abs/2608.23929",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.23929v1 Announce Type: new  Abstract: We study the approximation of the number of solutions of Laurent polynomials over finite fields. For a Laurent polynomial \\[f(x)=\\sum_{j=1}^{s}a_jx^{u_j}\\in \\mathbb{F}_q[x_1^{\\pm1},\\ldots,x_n^{\\pm1}], \\] let $U$ be its augmented support matrix whose c…"
-    },
-    {
-      "title": "QML for Quantum Sensing under Measurement-Induced Information Loss",
-      "link": "https://arxiv.org/abs/2608.23934",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.23934v1 Announce Type: new  Abstract: Nitrogen-vacancy (NV) centers in diamond can serve as highly sensitive solid-state quantum sensors for high-sensitivity magnetometry. However, in the noisy intermediate-scale quantum (NISQ) era, extracting reliable information from noisy, finite-shot,…"
-    },
-    {
-      "title": "A Categorical Framework for Wave-Particle Complementarity: Continuous Observable Structures and Fourier-Pontryagin Duality",
-      "link": "https://arxiv.org/abs/2608.23935",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.23935v1 Announce Type: new  Abstract: We present a formulation wave-particle complementarity and the de Broglie relation $\\lambda=h/p$ within the framework of categorical quantum mechanics on rigged Hilbert spaces. Position and momentum are represented by continuous dagger-Frobenius struc…"
-    },
-    {
-      "title": "Improved Quantum Codes with Transversal T Gates",
-      "link": "https://arxiv.org/abs/2608.24000",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.24000v1 Announce Type: new  Abstract: In this work, we study quantum CSS codes with transversal $T$ gates. Here, $T$ gate transversality is meant in the strongest sense; the application of physical $T$ to every physical qubit yields logical $T$ on every logical qubit, without Clifford cor…"
-    },
-    {
-      "title": "Threshold and Parity BosonSampling in the Linear-Mode Regime",
-      "link": "https://arxiv.org/abs/2608.24008",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.24008v1 Announce Type: new  Abstract: BosonSampling is among the most prominent candidates for demonstrating quantum advantage. However, while the hardness of BosonSampling relies on photon-number-resolving detection, many experimentally relevant settings and applications instead use bina…"
-    },
-    {
-      "title": "Time-Dependent Tunneling in the Thin-Barrier Limit",
-      "link": "https://arxiv.org/abs/2608.24032",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.24032v1 Announce Type: new  Abstract: The usual WKB analysis for quantum tunneling applies when the tunneling action is large, as it is for tall, wide potential barriers. In contrast we analyze tunneling when the action is small, as it is for tunneling across a tall, thin barrier. We deve…"
-    },
-    {
-      "title": "Rank and Range Criteria for Mixed-State Determination from Local Marginals",
-      "link": "https://arxiv.org/abs/2608.24061",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.24061v1 Announce Type: new  Abstract: Determining whether a mixed quantum state is uniquely determined among all states by its k-body marginals (k-UDA) is a fundamental problem in quantum system certification. We develop a range-based approach to this problem by analyzing the structure of…"
-    },
-    {
-      "title": "Lifting connectivity bottlenecks in superconducting quantum processors via enriched native two-qubit gates",
-      "link": "https://arxiv.org/abs/2608.24084",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.24084v1 Announce Type: new  Abstract: Limited qubit connectivity is a central architectural constraint in superconducting quantum processors, whose planar layouts require additional gates to mediate interactions between distant qubits. Here, we use the AshN control scheme, where rich two-…"
-    },
-    {
-      "title": "Quantum Secure Time Transfer for Satellites",
-      "link": "https://arxiv.org/abs/2608.24092",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "published_ts": 1787716800,
-      "summary": "arXiv:2608.24092v1 Announce Type: new  Abstract: We experimentally demonstrate an entanglement-based Quantum-Secure Time Transfer (QSTT) system in an emulated low Earth orbit satellite-to-ground channel using a type-0 Sagnac-based entangled-photon source. Our new QSTT system delivers a finite Quantu…"
+      "title": "Single-Spin Quantum Microscope Helps Researchers Tackle Processor-Memory Bottleneck",
+      "link": "https://thequantuminsider.com/2026/08/26/single-spin-quantum-microscope-helps-researchers-tackle-processor-memory-bottleneck/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 26 Aug 2026 07:57:05 +0000",
+      "published_ts": 1787731025,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Artificial intelligence faces an energy crisis, stemming from a physical traffic jam inside modern computer chips.&#160; Processors must continually shuffle data, such as the billions of parameters in complex models, between separate computing and memory nodes. Th…"
     },
     {
       "title": "Sound waves do double duty, carrying and protecting quantum information",
@@ -312,14 +320,6 @@
       "published": "Wed, 19 Aug 2026 16:40:04 EDT",
       "published_ts": 1787172004,
       "summary": "Quantum computers hold great promise for applications from drug discovery to cybersecurity. Yet figuring out what would give quantum computers their edge over everyday \"classical\" computers is a subtle problem. A new theoretical study led by researchers at the Cavendish Laboratory shows that quantum…"
-    },
-    {
-      "title": "Turning a quantum battery's environmental sensitivity into an advantage",
-      "link": "https://phys.org/news/2026-08-quantum-battery-environmental-sensitivity-advantage.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 19 Aug 2026 10:40:07 EDT",
-      "published_ts": 1787150407,
-      "summary": "Quantum batteries, devices that store energy by exploiting quantum mechanical phenomena, could, in principle, be charged faster and more efficiently than classical ones. Despite their potential, connecting these batteries to chargers is known to create quantum correlations that can trap some energy…"
     },
     {
       "title": "Securing wireless communication in next-generation devices",
