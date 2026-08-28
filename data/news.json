@@ -1,21 +1,85 @@
 {
-  "generated_ts": 1787906643,
+  "generated_ts": 1787953231,
   "items": [
     {
-      "title": "Higher-Energy X-Rays Could Enable a New Form of Quantum Sensing",
-      "link": "https://thequantuminsider.com/2026/08/28/higher-energy-x-rays-could-enable-a-new-form-of-quantum-sensing/",
+      "title": "Canada Invests CAD $195 Million in Xanadu for Quantum Manufacturing",
+      "link": "https://thequantuminsider.com/2026/08/28/canada-195-million-xanadu-quantum-manufacturing/",
       "source": "The Quantum Insider",
-      "published": "Fri, 28 Aug 2026 07:56:25 +0000",
-      "published_ts": 1787903785,
-      "summary": "Insider Brief PRESS RELEASE &#8212; When certain atoms are irradiated with laser light, they can produce laser pulses with extremely high frequencies in the X-ray range. Until now, the theoretical model of this effect predicted an upper limit to the energy, known as the energy cutoff. Past this poin…"
+      "published": "Fri, 28 Aug 2026 18:27:50 +0000",
+      "published_ts": 1787941670,
+      "summary": "Insider Brief PRESS RELEASE &#8211; Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, today announced it has signed a definitive agreement with the Government of Canada for CAD $195 million support through the Strategic Response Fund, adm…"
     },
     {
-      "title": "Pasqal Completes SPAC Merger With $360 Million in Cash",
-      "link": "https://thequantuminsider.com/2026/08/28/pasqal-completes-spac-merger-with-360-million-in-cash/",
+      "title": "Italian Court Upholds Halt to IBM’s €61 Million Campania Quantum Contract",
+      "link": "https://thequantuminsider.com/2026/08/28/italian-court-upholds-halt-to-ibms-e61-million-campania-quantum-contract/",
       "source": "The Quantum Insider",
-      "published": "Fri, 28 Aug 2026 07:40:10 +0000",
-      "published_ts": 1787902810,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal Holding SA (&#8220;Pasqal&#8221;), a global leader in neutral-atom quantum computing, and Bleichroeder Acquisition Corp. II (NASDAQ: BBCQ), a special purpose acquisition company (&#8220;Bleichroeder&#8221;), today announced the successful completion of thei…"
+      "published": "Fri, 28 Aug 2026 18:21:50 +0000",
+      "published_ts": 1787941310,
+      "summary": "Insider Brief Italy’s highest administrative court has upheld the cancellation of a €61.2 million contract awarded to IBM Italia for the first quantum computer planned for the Campania region. The Council of State rejected an appeal by the Campania regional government and confirmed an earlier ruling…"
+    },
+    {
+      "title": "New Mexico Offers Matching Funds for DARPA Quantum Computing Projects",
+      "link": "https://thequantuminsider.com/2026/08/28/new-mexico-darpa-quantum-benchmarking-matching-funds/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 28 Aug 2026 18:19:41 +0000",
+      "published_ts": 1787941181,
+      "summary": "Insider Brief PRESS RELEASE &#8211; New Mexico is offering matching funds to quantum companies pursuing DARPA’s Quantum Benchmarking Initiative (QBI) Stage C to bring that work to New Mexico. Economic Development New Mexico’s Technology and Innovation Office (TIO) announced today that QBI Stage C ha…"
+    },
+    {
+      "title": "California Awards $9.7 Million to Build Southern Quantum Workforce and Industry Network",
+      "link": "https://thequantuminsider.com/2026/08/28/california-awards-9-7-million-to-build-southern-quantum-workforce-and-industry-network/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 28 Aug 2026 15:15:31 +0000",
+      "published_ts": 1787930131,
+      "summary": "Insider Brief California has awarded $9.7 million to a Southern California quantum initiative designed to expand workforce training, shared testing resources and funding opportunities for emerging companies. The quantum award is part of a broader $48.5 million package supporting 18 projects across e…"
+    },
+    {
+      "title": "Three Law Firms Hold Nearly Two-Thirds of Recorded Quantum Legal Work",
+      "link": "https://thequantuminsider.com/2026/08/28/three-law-firms-hold-nearly-two-thirds-of-recorded-quantum-legal-work/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 28 Aug 2026 13:12:06 +0000",
+      "published_ts": 1787922726,
+      "summary": "Insider Brief A quantum computer depends on layers of hardware, control systems and software. As the technology moves from the laboratory into the commercial market, a legal layer is forming around it as law firms handle acquisitions, public listings, patent disputes and government-backed projects.…"
+    },
+    {
+      "title": "India to Establish Quantum and AI University Campus in Amaravati",
+      "link": "https://thequantuminsider.com/2026/08/28/india-quantum-ai-university-campus-amaravati/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 28 Aug 2026 12:43:51 +0000",
+      "published_ts": 1787921031,
+      "summary": "Insider Brief Andhra Pradesh Chief Minister N. Chandrababu Naidu has approved the establishment of India&#8217;s first dedicated Quantum and AI University campus in Amaravati, to be set up by the National Institute of Electronics and Information Technology (NIELIT) under the Ministry of Electronics…"
+    },
+    {
+      "title": "Guest Post: Quantum Readiness Starts With the Infrastructure We’re Building Today",
+      "link": "https://thequantuminsider.com/2026/08/28/quantum-readiness-infrastructure-around-qpus/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 28 Aug 2026 10:35:03 +0000",
+      "published_ts": 1787913303,
+      "summary": "Guest Post by Kyle Okamoto, President of Axe Compute. When people talk about quantum readiness, the conversation often moves quickly to the quantum computer itself. How many qubits will we need? When will fault-tolerant systems arrive? Which industries will find commercial applications first? Those…"
+    },
+    {
+      "title": "Types of Quantum Computers: 6 Major Quantum Computing Approaches",
+      "link": "https://thequantuminsider.com/2026/08/28/main-types-of-quantum-computers-explained/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 28 Aug 2026 10:00:00 +0000",
+      "published_ts": 1787911200,
+      "summary": "Insider Brief IBM and IonQ use very different physical systems to build quantum computers. IBM uses superconducting circuits that must be cooled to extremely low temperatures, while IonQ traps charged atoms using electromagnetic fields. Both approaches can create and control quantum states, but they…"
+    },
+    {
+      "title": "Pasqal Announces Board of Directors Ahead of Nasdaq Listing",
+      "link": "https://thequantuminsider.com/2026/08/28/pasqal-announces-board-of-directors-ahead-of-nasdaq-trading/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 28 Aug 2026 09:45:57 +0000",
+      "published_ts": 1787910357,
+      "summary": "Insider Brief PRESS RELEASE &#8211; Pasqal, a global leader in neutral-atom quantum computing, today announced the composition of the Board of Directors of Pasqal Holding SA (the combined company), following the completion of its business combination with Bleichroeder Acquisition Corp. II. The combi…"
+    },
+    {
+      "title": "QuEra Uses Anthropic AI Agent to Automate Critical Quantum Computer Process",
+      "link": "https://thequantuminsider.com/2026/08/28/quera-uses-anthropic-ai-agent-to-automate-critical-quantum-computer-process/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 28 Aug 2026 08:15:30 +0000",
+      "published_ts": 1787904930,
+      "summary": "Insider Brief QuEra Computing reported that an artificial-intelligence agent developed software that can restore a critical quantum computer laser system in seconds, potentially reducing the need for specialists to maintain machines at customer sites. The Boston-based quantum computing company repor…"
     },
     {
       "title": "Least Variable Quantum Counting Processes",
@@ -138,76 +202,12 @@
       "summary": "arXiv:2608.26482v1 Announce Type: new  Abstract: Confining optical fields to molecular dimensions is a central objective in nanophotonics and molecular quantum optics. Here, we report strong coupling of the Mo Mo stretching vibration to a locally confined Raman scattering field in quadruply bonded d…"
     },
     {
-      "title": "FAU Researchers Use Quantum Machine Learning to Predict Heart Disease",
-      "link": "https://thequantuminsider.com/2026/08/27/fau-researchers-use-quantum-machine-learning-to-predict-heart-disease/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 27 Aug 2026 16:33:39 +0000",
-      "published_ts": 1787848419,
-      "summary": "Insider Brief Press release &#8211; Cardiovascular disease remains a major global health&#160;challenge, causing millions of deaths each year and imposing substantial healthcare costs. Early, accurate diagnosis is critical for improving outcomes and enabling timely intervention. While conventional m…"
-    },
-    {
       "title": "First observation of optical Magnus effect could sharpen quantum computer control",
       "link": "https://phys.org/news/2026-08-optical-magnus-effect-sharpen-quantum.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 27 Aug 2026 11:20:04 EDT",
       "published_ts": 1787844004,
       "summary": "Table tennis professionals are true masters at redirecting fast-moving projectiles. Putting a targeted spin on a serve can make the little white ball fly straight toward the edge of the table but then, at the last moment, take a sharp curve into the left corner. The physical phenomenon behind this s…"
-    },
-    {
-      "title": "Bridgewater State University Receives $380K for Quantum Technology Education",
-      "link": "https://thequantuminsider.com/2026/08/27/bridgewater-state-university-receives-380k-for-quantum-technology-education/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 27 Aug 2026 14:50:11 +0000",
-      "published_ts": 1787842211,
-      "summary": "Insider Brief Press release &#8211; Bridgewater State University has received approximately $380,000 from the Massachusetts Technology Collaborative (MassTech) to expand undergraduate education and research in quantum technologies, bringing three advanced quantum systems to campus. The MassTech Tech…"
-    },
-    {
-      "title": "NASA Awards Infleqtion $20M Contract for Quantum Gravity Sensor",
-      "link": "https://thequantuminsider.com/2026/08/27/nasa-awards-infleqtion-20m-contract-for-quantum-gravity-sensor/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 27 Aug 2026 12:55:53 +0000",
-      "published_ts": 1787835353,
-      "summary": "Insider Brief Press release &#8211; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today announced NASA has awarded the company a $20 million follow-on contract to continue development of the Quantum Gravity Gradiometer Pathfinde…"
-    },
-    {
-      "title": "Q-CTRL Demonstrates GPS-Free Quantum Gravimetric Navigation Demonstration in Maritime Field Trial",
-      "link": "https://thequantuminsider.com/2026/08/27/q-ctrl-demonstrates-gps-free-quantum-gravimetric-navigation-demonstration-in-maritime-field-trial/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 27 Aug 2026 11:54:52 +0000",
-      "published_ts": 1787831692,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Q-CTRL, the global leader in quantum infrastructure software, today announced a major milestone in real-world quantum sensing deployments. In a world-first field demonstration, the company successfully navigated a maritime vessel without GPS using a new form of so…"
-    },
-    {
-      "title": "StarkWare Researcher Demonstrates Quantum-Resistant Bitcoin Transaction",
-      "link": "https://thequantuminsider.com/2026/08/27/starkware-researcher-demonstrates-quantum-resistant-bitcoin-transaction/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 27 Aug 2026 11:33:19 +0000",
-      "published_ts": 1787830399,
-      "summary": "Insider Brief The first quantum-resistant Bitcoin transaction has been successfully executed.&#160; A first-of-a-kind transaction on Bitcoin mainnet made funds that had been vulnerable to quantum attack now secure in the case of quantum attack. This challenges the long-held belief that only a fork c…"
-    },
-    {
-      "title": "Researchers Use IBM Quantum Computer to Test Drug-Docking Method",
-      "link": "https://thequantuminsider.com/2026/08/27/researchers-use-ibm-quantum-computer-to-test-drug-docking-method/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 27 Aug 2026 11:33:12 +0000",
-      "published_ts": 1787830392,
-      "summary": "Insider Brief A team of Singapore-based researchers reports that a hybrid quantum-classical method could offer a new route to studying drug candidates using today’s Noisy Intermediate-Stage Quantum (NISQ) devices. The researchers used the method to examine how two small molecules bind to proteins. I…"
-    },
-    {
-      "title": "Finland’s Defence Tech Hub Expands Quantum and Dual-Use Technology Ecosystem",
-      "link": "https://thequantuminsider.com/2026/08/27/finlands-defence-tech-hub-expands-quantum-and-dual-use-technology-ecosystem/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 27 Aug 2026 10:18:13 +0000",
-      "published_ts": 1787825893,
-      "summary": "Insider Brief Press release &#8211; A strong defence technology cluster has emerged within Espoo’s innovation ecosystem. Today, Defence Tech Hub brings together over 100 companies developing cutting-edge technologies for both civilian and defence applications. The hub is now consolidating its operat…"
-    },
-    {
-      "title": "Quantum eMotion’s Quantum Entropy Source Submitted for NIST Validation",
-      "link": "https://thequantuminsider.com/2026/08/27/quantum-emotion-submits-quantum-entropy-module-for-nist-review/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 27 Aug 2026 10:01:51 +0000",
-      "published_ts": 1787824911,
-      "summary": "Insider Brief Press release &#8211; Quantum eMotion Corp. (“QeM” or the “Company”) (NYSE American: QNC; TSXV: QNC; FSE: 34Q0), a leader in quantum-secure cybersecurity solutions, today announced that Lightship Security Inc. has completed its independent assessment of QeM’s eCore-Q PCIe Quantum Entro…"
     },
     {
       "title": "Ramped fields create more robust entanglement between trapped-ion qubits",
