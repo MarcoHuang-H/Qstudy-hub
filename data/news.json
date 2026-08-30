@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1788088014,
+  "generated_ts": 1788105352,
   "items": [
+    {
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Sun, 30 Aug 2026 10:08:13 EDT",
+      "published_ts": 1788098893,
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was r…"
+    },
+    {
+      "title": "Hollow-core fiber platform could help different quantum technologies connect",
+      "link": "https://phys.org/news/2026-08-hollow-core-fiber-platform-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 30 Aug 2026 09:00:02 EDT",
+      "published_ts": 1788094802,
+      "summary": "Quantum technologies promise secure communication networks, powerful forms of computing and new sensing tools. One of the major challenges, however, is that different quantum systems often operate at different wavelengths of light. Quantum memories, trapped ions and other quantum devices may work be…"
+    },
     {
       "title": "Pasqal Shares Nearly Double in Nasdaq Debut",
       "link": "https://thequantuminsider.com/2026/08/29/pasqal-shares-nearly-double-in-nasdaq-debut/",
@@ -192,14 +208,6 @@
       "published": "Thu, 20 Aug 2026 07:40:06 EDT",
       "published_ts": 1787226006,
       "summary": "For close to a century, physicists have pursued a way to unite gravity with quantum mechanics. Known as quantum gravity, this goal has remained frustratingly out of reach so far. Similarly elusive is the force of dark energy, which is believed to be driving the universe's accelerating expansion."
-    },
-    {
-      "title": "Universal pattern revealed in quantum matter",
-      "link": "https://phys.org/news/2026-08-universal-pattern-revealed-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 19 Aug 2026 17:20:01 EDT",
-      "published_ts": 1787174401,
-      "summary": "When different materials transition from one phase to another, such as water coming to a boil or a magnet losing its ability to attract metals, something remarkable can happen: They begin to behave identically, following the same mathematical rules. \"Physicists call this trait universality—the messy…"
     },
     {
       "title": "Securing wireless communication in next-generation devices",
@@ -408,14 +416,6 @@
       "published": "Wed, 13 May 2026 03:55:23 EDT",
       "published_ts": 1778658923,
       "summary": "Scientists in Japan have developed a new way to instantly detect elusive quantum “W states,” a major milestone for quantum technology. The breakthrough could help unlock faster quantum communication, teleportation, and powerful new computing systems."
-    },
-    {
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Wed, 13 May 2026 03:33:27 EDT",
-      "published_ts": 1778657607,
-      "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quantum materials known as quasicrystals, opening the door to powerful new quantum devices and ultra-effici…"
     },
     {
       "title": "Improving the reliability of circuits for quantum computers",
