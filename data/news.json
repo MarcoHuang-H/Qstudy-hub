@@ -1,6 +1,166 @@
 {
-  "generated_ts": 1788145879,
+  "generated_ts": 1788179477,
   "items": [
+    {
+      "title": "Physicists finally put Feynman's path integral to the test",
+      "link": "https://phys.org/news/2026-08-physicists-feynman-path.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 31 Aug 2026 08:00:02 EDT",
+      "published_ts": 1788177602,
+      "summary": "For nearly 80 years, physicists have relied on a thought experiment created by Richard Feynman to predict how quantum particles behave. For the first time, researchers in China have tested this trick directly in the lab."
+    },
+    {
+      "title": "IonQ Researchers Run MegaQuOp-Scale Quantum Error Decoder on a MacBook Pro",
+      "link": "https://thequantuminsider.com/2026/08/31/ionq-researchers-run-megaquop-scale-quantum-error-decoder-on-a-macbook-pro/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 31 Aug 2026 11:46:09 +0000",
+      "published_ts": 1788176769,
+      "summary": "Insider Brief Your MacBook Pro may be powerful enough to one day manage error correction for a fault-tolerant quantum machine executing millions of operations, according to a new study from IonQ researchers. The team, which included Min Ye, Andrii Maksymov and Nicolas Delfosse, all of IonQ, demonstr…"
+    },
+    {
+      "title": "Yaqumo Selected for a NEDO R&D Project; Launches Joint Research with SCREEN Holdings",
+      "link": "https://thequantuminsider.com/2026/08/31/yaqumo-selected-for-a-nedo-r-launches-joint-research-with-screen-holdings/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 31 Aug 2026 10:55:17 +0000",
+      "published_ts": 1788173717,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Yaqumo Inc. (Headquarters: Chiyoda-ku, Tokyo; Representative Director and CEO: Kazuhiro Nakashoji; hereinafter “Yaqumo”) is pleased to announce that it has been selected for the public solicitation, “Post-5G Information and Communication Systems Infrastructure Enh…"
+    },
+    {
+      "title": "S-Transistors Raises €2.6 Million Pre-Seed Round to Introduce Superconducting Transistor Platform",
+      "link": "https://thequantuminsider.com/2026/08/31/s-transistors-raises-e2-6-million-pre-seed-round-to-introduce-superconducting-transistor-platform/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 31 Aug 2026 08:05:00 +0000",
+      "published_ts": 1788163500,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Newly launched Finnish startup S-Transistors, originating from&#160;VTT Technical Research Centre of Finland, has raised €2.6 million in pre-seed funding to pioneer a fundamentally new class of integrated circuits based on superconducting transistors. The technolo…"
+    },
+    {
+      "title": "French National Quantum Update: August 2026",
+      "link": "https://thequantuminsider.com/2026/08/31/french-national-quantum-update-august-2026/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 31 Aug 2026 07:41:39 +0000",
+      "published_ts": 1788162099,
+      "summary": "Executive Summary France’s quantum sector entered a more public-market-facing phase in August 2026, with Pasqal dominating the headlines through its Nasdaq debut, technical progress and expansion into Saudi Arabia. The developments increasingly placed the neutral-atom quantum computing company at th…"
+    },
+    {
+      "title": "Quantum Information at Infinity",
+      "link": "https://arxiv.org/abs/2608.27498",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27498v1 Announce Type: new  Abstract: We introduce the Quantum Information Space at Infinity (Quinfinity) $\\mathcal{Q}_\\infty$ as the inverse limit of the symbolic Quantum $N$-Spaces $\\mathcal{Q}_N$, identified with the complete local real algebra of formal power series under the adic top…"
+    },
+    {
+      "title": "Quantized Low-Rank Quantum State Tomography: Hyperbolic Quantization and Riemannian Least-Squares Recovery",
+      "link": "https://arxiv.org/abs/2608.27503",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27503v1 Announce Type: new  Abstract: We study low-rank quantum state tomography from finite-bit Pauli batch responses. To avoid bias introduced by generic quantization, we propose HyperQuant, a mean-preserving hyperbolic quantizer adapted to the second-moment scale of Pauli responses. We…"
+    },
+    {
+      "title": "Reverse Quantum Mechanics",
+      "link": "https://arxiv.org/abs/2608.27543",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27543v1 Announce Type: new  Abstract: Reverse Physics is a methodology that breaks physical theories into separate mathematical and physical conditions to establish their logical relationships. To showcase the power of the methodology, we present several results for quantum mechanics and…"
+    },
+    {
+      "title": "Pulling strings in real time: flux tube dynamics in (2+1)-d $\\mathbb{Z}_2$-Higgs Gauge Theories",
+      "link": "https://arxiv.org/abs/2608.27561",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27561v1 Announce Type: new  Abstract: Understanding real-time flux-tube dynamics in more than one spatial dimension is key to unlocking the non-perturbative physics of confinement, and is now actively pursued by quantum computing and simulation experiments. However, describing such dynami…"
+    },
+    {
+      "title": "Spectral Theory of Semisimple Bivariate Bicycle Codes",
+      "link": "https://arxiv.org/abs/2608.27565",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27565v1 Announce Type: new  Abstract: Extending the classical theory of two-dimensional cyclic codes, we develop an algebraic approach to bivariate bicycle codes. Using Frobenius-orbit idempotents, formulas for logical dimensions are derived and lower bounds on minimum distances are estab…"
+    },
+    {
+      "title": "Quantifying the Dual-isotope Advantage for Ytterbium-array Surface Codes using Realistic Noise Models",
+      "link": "https://arxiv.org/abs/2608.27568",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27568v1 Announce Type: new  Abstract: Neutral-atom quantum computers are a promising platform for fault-tolerant quantum computation, but logical performance depends on systemic realistic noise factors during syndrome extraction. In dual-isotope Yb arrays, the roles of data and ancilla qu…"
+    },
+    {
+      "title": "Quantum Resource Estimation for Simulating the SYK Model with Trotterization, qDRIFT, and Asymmetric Qubitization",
+      "link": "https://arxiv.org/abs/2608.27573",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27573v1 Announce Type: new  Abstract: The Sachdev-Ye-Kitaev (SYK) model has been identified as a promising candidate to run on early fault-tolerant quantum computers due to the relatively modest resources required to probe non-trivial physics (namely holographic duality and AdS/CFT corres…"
+    },
+    {
+      "title": "Diamond optomechanical crystals for high-frequency strain and comb generation",
+      "link": "https://arxiv.org/abs/2608.27581",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27581v1 Announce Type: new  Abstract: Quantum optomechanical technologies benefit from mechanical oscillators that are high-frequency, can be coherently driven, and are capable of coupling to other quantum systems. Diamond supports all of these criteria: its large elastic modulus increase…"
+    },
+    {
+      "title": "Network steering with arbitrarily low detection efficiency of any entangled measurement",
+      "link": "https://arxiv.org/abs/2608.27582",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27582v1 Announce Type: new  Abstract: Quantum nonlocality and its asymmetric counterpart, quantum steering, are among the most intriguing manifestations of quantum mechanics. From a theoretical perspective, they are not only of fundamental significance but also hold promise for a wide ran…"
+    },
+    {
+      "title": "Plateau-Constrained Selection of Commuting Phase-Term Orderings Under a Fixed Maintained-Parity Compiler Contract",
+      "link": "https://arxiv.org/abs/2608.27592",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27592v1 Announce Type: new  Abstract: Ordering objectives for commuting phase terms can have many equal optima, yet prior methods do not characterize or exploit those ties. We use a classical two-stage permutation search under fixed placement and maintained-parity quantum lowering: Stage…"
+    },
+    {
+      "title": "Quantum SEDONet: Spectrally-Embedded Quantum Deep Operator Networks for Partial Differential Equations",
+      "link": "https://arxiv.org/abs/2608.27626",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27626v1 Announce Type: new  Abstract: Quantum DeepONet accelerates neural-operator inference by evaluating an orthogonally parameterized network on a quantum computer, reproducing in ideal simulation the accuracy of its classical counterpart at asymptotically lower inference cost. Its tru…"
+    },
+    {
+      "title": "Machine Learning-Based Characterisation of the Non-Markovian Dynamics of a Nitrogen-Vacancy Centre",
+      "link": "https://arxiv.org/abs/2608.27632",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27632v1 Announce Type: new  Abstract: The interaction between a quantum system and its environment can be characterized by the spectral density function: knowing its structure is important for optimizing applications of quantum technologies such as quantum sensing protocols. In this work,…"
+    },
+    {
+      "title": "Topological Winding Readout of an Emergent Page-Wootters Clock",
+      "link": "https://arxiv.org/abs/2608.27650",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27650v1 Announce Type: new  Abstract: The Page--Wootters construction gives time a Hilbert space, representing it as an internal degree of freedom whose readings the rest of the system evolves with respect to. We ask whether such a clock degree of freedom can carry a topological invariant…"
+    },
+    {
+      "title": "High-Dimensional Deterministic Secure Quantum Communication with Reed-Solomon Erasure Coding",
+      "link": "https://arxiv.org/abs/2608.27679",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27679v1 Announce Type: new  Abstract: Deterministic Secure Quantum Communication (DSQC) is a quantum cryptographic technique engineered to transfer a message through a quantum channel, requiring an auxiliary classical channel for eavesdropping verification and decoding, but without prior…"
+    },
+    {
+      "title": "Logical Neural Belief Propagation for Linear-Complexity Decoding of Surface Codes",
+      "link": "https://arxiv.org/abs/2608.27682",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "published_ts": 1788148800,
+      "summary": "arXiv:2608.27682v1 Announce Type: new  Abstract: Quantum error correction (QEC) requires decoders that achieve high logical accuracy while scaling efficiently with the code length. Belief propagation (BP) is attractive for its linear decoding complexity, but conventional BP decoders often fail to re…"
+    },
     {
       "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
       "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
@@ -64,38 +224,6 @@
       "published": "Fri, 28 Aug 2026 15:15:31 +0000",
       "published_ts": 1787930131,
       "summary": "Insider Brief California has awarded $9.7 million to a Southern California quantum initiative designed to expand workforce training, shared testing resources and funding opportunities for emerging companies. The quantum award is part of a broader $48.5 million package supporting 18 projects across e…"
-    },
-    {
-      "title": "Three Law Firms Hold Nearly Two-Thirds of Recorded Quantum Legal Work",
-      "link": "https://thequantuminsider.com/2026/08/28/three-law-firms-hold-nearly-two-thirds-of-recorded-quantum-legal-work/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 28 Aug 2026 13:12:06 +0000",
-      "published_ts": 1787922726,
-      "summary": "Insider Brief A quantum computer depends on layers of hardware, control systems and software. As the technology moves from the laboratory into the commercial market, a legal layer is forming around it as law firms handle acquisitions, public listings, patent disputes and government-backed projects.…"
-    },
-    {
-      "title": "India to Establish Quantum and AI University Campus in Amaravati",
-      "link": "https://thequantuminsider.com/2026/08/28/india-quantum-ai-university-campus-amaravati/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 28 Aug 2026 12:43:51 +0000",
-      "published_ts": 1787921031,
-      "summary": "Insider Brief Andhra Pradesh Chief Minister N. Chandrababu Naidu has approved the establishment of India&#8217;s first dedicated Quantum and AI University campus in Amaravati, to be set up by the National Institute of Electronics and Information Technology (NIELIT) under the Ministry of Electronics…"
-    },
-    {
-      "title": "Guest Post: Quantum Readiness Starts With the Infrastructure We’re Building Today",
-      "link": "https://thequantuminsider.com/2026/08/28/quantum-readiness-infrastructure-around-qpus/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 28 Aug 2026 10:35:03 +0000",
-      "published_ts": 1787913303,
-      "summary": "Guest Post by Kyle Okamoto, President of Axe Compute. When people talk about quantum readiness, the conversation often moves quickly to the quantum computer itself. How many qubits will we need? When will fault-tolerant systems arrive? Which industries will find commercial applications first? Those…"
-    },
-    {
-      "title": "Types of Quantum Computers: 6 Major Quantum Computing Approaches",
-      "link": "https://thequantuminsider.com/2026/08/28/main-types-of-quantum-computers-explained/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 28 Aug 2026 10:00:00 +0000",
-      "published_ts": 1787911200,
-      "summary": "Insider Brief IBM and IonQ use very different physical systems to build quantum computers. IBM uses superconducting circuits that must be cooled to extremely low temperatures, while IonQ traps charged atoms using electromagnetic fields. Both approaches can create and control quantum states, but they…"
     },
     {
       "title": "First observation of optical Magnus effect could sharpen quantum computer control",
@@ -200,14 +328,6 @@
       "published": "Thu, 20 Aug 2026 17:20:04 EDT",
       "published_ts": 1787260804,
       "summary": "Researchers at the FAMU-FSU College of Engineering and the National High Magnetic Field Laboratory, headquartered at Florida State University, have designed a new quantum computing architecture that uses magnetic levitation to smooth over design flaws in the intricate components necessary to run a q…"
-    },
-    {
-      "title": "Dark energy and quantum gravity may be deeply intertwined",
-      "link": "https://phys.org/news/2026-08-dark-energy-quantum-gravity-deeply.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 20 Aug 2026 07:40:06 EDT",
-      "published_ts": 1787226006,
-      "summary": "For close to a century, physicists have pursued a way to unite gravity with quantum mechanics. Known as quantum gravity, this goal has remained frustratingly out of reach so far. Similarly elusive is the force of dark energy, which is believed to be driving the universe's accelerating expansion."
     },
     {
       "title": "Securing wireless communication in next-generation devices",
