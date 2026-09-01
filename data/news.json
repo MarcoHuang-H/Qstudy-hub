@@ -1,6 +1,166 @@
 {
-  "generated_ts": 1788232536,
+  "generated_ts": 1788260353,
   "items": [
+    {
+      "title": "Guest Post: The Quantum Industry is Both Overhyped And Underestimated",
+      "link": "https://thequantuminsider.com/2026/09/01/guest-post-the-quantum-industry-is-both-overhyped-and-underestimated/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 01 Sep 2026 09:19:03 +0000",
+      "published_ts": 1788254343,
+      "summary": "Guest Post By Ian Foley The problem with quantum computing is not that the industry is moving too slowly. It is that different parts of it are moving at very different speeds. The science is advancing, capital has arrived early, and commercial adoption is still searching for its breakthrough moment.…"
+    },
+    {
+      "title": "Quantum-Classical Software Tests New Approach to Protein Folding",
+      "link": "https://thequantuminsider.com/2026/09/01/quantum-classical-software-tests-new-approach-to-protein-folding/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 01 Sep 2026 09:05:00 +0000",
+      "published_ts": 1788253500,
+      "summary": "Insider Brief Researchers have developed a software package that uses quantum and classical computing to search for the shapes of short peptides, a package that could serve as an early approach to studying flexible proteins linked to cancer and other diseases. The open-source package, called QuPepFo…"
+    },
+    {
+      "title": "Quantum-Tunnelling Field-Effect Transistor Designed to Overcome Integrated-Circuit Chip Development Barriers",
+      "link": "https://thequantuminsider.com/2026/09/01/quantum-tunnelling-field-effect-transistor-designed-to-overcome-integrated-circuit-chip-development-barriers/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 01 Sep 2026 08:35:00 +0000",
+      "published_ts": 1788251700,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The next generation of microelectronics relies on radical improvements in transistor switching performance to advance computing power. However, conventional semiconductor technology has hit a physical limit known as the &#8220;Boltzmann tyranny,&#8221; which restr…"
+    },
+    {
+      "title": "Congressman Langworthy Introduces American Quantum Competitiveness Act",
+      "link": "https://thequantuminsider.com/2026/09/01/congressman-langworthy-introduces-american-quantum-competitiveness-act/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 01 Sep 2026 08:03:44 +0000",
+      "published_ts": 1788249824,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Congressman Nick Langworthy today announced the introduction of the American Quantum Competitiveness Act, legislation designed to strengthen America’s position in the rapidly emerging quantum technology industry, protect critical domestic supply chains, and ensure…"
+    },
+    {
+      "title": "MIT Quantum Initiative Launches Postdoctoral Fellowship Program",
+      "link": "https://thequantuminsider.com/2026/09/01/mit-quantum-initiative-launches-postdoctoral-fellowship-program/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 01 Sep 2026 07:46:46 +0000",
+      "published_ts": 1788248806,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The&#160;MIT Quantum Initiative (QMIT)&#160;has launched a new postdoctoral fellowship program to accelerate interdisciplinary quantum research and develop the next generation of scientific leaders working at the frontiers of quantum science and technology. Suppor…"
+    },
+    {
+      "title": "Alphabet-Dependent Bounds for Pure Quantum $(r,\\rho)$-Locally Recoverable Codes",
+      "link": "https://arxiv.org/abs/2608.28650",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.28650v1 Announce Type: new  Abstract: A quantum $(r,\\rho)$-locally recoverable code ($(r,\\rho)$-qLRC) is a quantum code in which every qudit can be recovered from at most $r+\\rho-1$ other qudits, even after $\\rho-1$ additional erasures inside the recovery set. The bounds currently known f…"
+    },
+    {
+      "title": "Quantum synchronization of spin-1 system: Enhanced synchronization due to additive Lindblad operators",
+      "link": "https://arxiv.org/abs/2608.28808",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.28808v1 Announce Type: new  Abstract: We experimentally investigate quantum synchronization for one of the simplest possible quantum systems, namely an externally driven few-level system with equally spaced energy levels effectively acting as a spin-1 system. Coupling to excited auxiliary…"
+    },
+    {
+      "title": "BAHAMAS: A Control Plane for Optimization and Execution of Variational Quantum Circuits",
+      "link": "https://arxiv.org/abs/2608.28811",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.28811v1 Announce Type: new  Abstract: Variational quantum algorithms (VQAs) suffer from unstable optimization due to temporal noise drift and static qubit mappings that distort gradient signals across iterations. We present BAHAMAS, an online control framework that stabilizes noise exposu…"
+    },
+    {
+      "title": "Dissipation across the ultrastrong-coupling regime of nanomechanical quantum Rabi systems",
+      "link": "https://arxiv.org/abs/2608.28812",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.28812v1 Announce Type: new  Abstract: Mechanical resonators ultrastrongly coupled to quantum two-level systems provide a promising route towards mechanical qubits by introducing significant anharmonicity to the mechanical modes, particularly in the slow-oscillator regime. Although the res…"
+    },
+    {
+      "title": "Representation Learning with Quantum Signal Processing",
+      "link": "https://arxiv.org/abs/2608.28828",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.28828v1 Announce Type: new  Abstract: Representation learning begins when training changes the features that define similarity between data. A frozen-kernel model only reweights a fixed geometry. We establish quantum signal processing (QSP) as a solvable quantum model of the representatio…"
+    },
+    {
+      "title": "Quantum Preconditioning For Constrained Optimization Problems",
+      "link": "https://arxiv.org/abs/2608.28842",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.28842v1 Announce Type: new  Abstract: We study the effect of quantum preconditioning on constrained combinatorial optimization problems, focusing on balanced graph bi-partitioning. The proposed approach uses two-point correlations between decision variables derived from the Quantum Approx…"
+    },
+    {
+      "title": "R\\'enyi Entanglement of Purification Is Non-additive",
+      "link": "https://arxiv.org/abs/2608.28897",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.28897v1 Announce Type: new  Abstract: Entanglement of purification is a fundamental measure of total correlations whose additivity remains unresolved. We study its additivity for classical states on two qubits at different R\\'enyi orders. For every $\\alpha\\in[0,1)$, we prove nonadditivity…"
+    },
+    {
+      "title": "Spin-spin effects from non-relativistic limit of Dirac-Pauli-Maxwell Lagrangian",
+      "link": "https://arxiv.org/abs/2608.28904",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.28904v1 Announce Type: new  Abstract: It is natural to expect that the electromagnetic spin-spin interaction has roots in a more fundamental theory: quantum electrodynamics in this case. To show this, we take the non-relativistic limit of the Dirac-Maxwell Lagrangian, using the Foldy-Wout…"
+    },
+    {
+      "title": "Exact Haar Statistics of Planar $k$-Purity in Multipartite Quantum Systems",
+      "link": "https://arxiv.org/abs/2608.28914",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.28914v1 Announce Type: new  Abstract: Planar $k$-uniform states have maximally mixed reductions on every $k$-site interval of a ring. We introduce planar $k$-purity---the mean purity of those intervals---as a faithful cost function for this simultaneous constraint. For a Haar-random pure…"
+    },
+    {
+      "title": "On the entropy of a pseudo-density matrix",
+      "link": "https://arxiv.org/abs/2608.28946",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.28946v1 Announce Type: new  Abstract: The pseudo-density matrix (PDM) formalism naturally extends the notion of density operator to the spatiotemporal domain. While PDMs are Hermitian and of unit trace, they admit negative eigenvalues when encoding temporal correlations unattainable for s…"
+    },
+    {
+      "title": "Universal recovery in approximate quantum error correction",
+      "link": "https://arxiv.org/abs/2608.28962",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.28962v1 Announce Type: new  Abstract: Universal recovery -- the existence of a single recovery map that corrects an entire family of error channels -- is a central feature of quantum error correction (QEC). In exact QEC, linearity guarantees that a code correcting a given error set also c…"
+    },
+    {
+      "title": "Measure of set imaginarity",
+      "link": "https://arxiv.org/abs/2608.28985",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.28985v1 Announce Type: new  Abstract: Recent studies have shown that Bargmann invariants provide effective detectors of set imaginarity. In this paper, we investigate set imaginarity as a quantum resource in qubit systems. By exploiting the structure of Bargmann invariants, we show that t…"
+    },
+    {
+      "title": "Hardware-Efficient Exchange-Only QML: Singlet-Triplet Spin Chains via Inter-pair Coupling without Magnetic Gradients",
+      "link": "https://arxiv.org/abs/2608.29017",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.29017v1 Announce Type: new  Abstract: Standard universal quantum computing using exchange-only qubits typically requires three physical spins per logical qubit, leading to significant hardware overhead. Conversely, two-spin units offer higher density but rely on local magnetic field gradi…"
+    },
+    {
+      "title": "Eigenvalues of multipartite entanglement witnesses",
+      "link": "https://arxiv.org/abs/2608.29049",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.29049v1 Announce Type: new  Abstract: We investigate various properties of multipartite block-positive operators, decomposable EWs (DEWs), and non-decomposable EWs. We provide a necessary and sufficient condition to construct a special DEW using the multipartite GHZ state. For multipartit…"
+    },
+    {
+      "title": "The Inverse Eigenvalue Problem for Partial Transposes of Two-Qubit States",
+      "link": "https://arxiv.org/abs/2608.29068",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788235200,
+      "summary": "arXiv:2608.29068v1 Announce Type: new  Abstract: For a bipartite state $\\rho$, information about the spectrum of its partial transpose $\\rho^{\\Gamma_B}$ can be inferred from measurements on multiple copies of $\\rho$, without full state tomography. This raises a natural question: which eigenvalue lis…"
+    },
     {
       "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center",
       "link": "https://thequantuminsider.com/2026/08/31/diraq-to-deploy-a-quantum-computer-inside-an-equinix-data-center/",
@@ -50,22 +210,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8211; Diffraqtion, an MIT and University of Maryland spinout building quantum camera platforms for defense and space sensing, today announced strategic investments from Lockheed Martin Ventures and Presidio Ventures, the venture arm of Sumitomo Corporation, bringing tot…"
     },
     {
-      "title": "Pasqal and KACST Partner on Quantum-Safe Cryptography Research",
-      "link": "https://thequantuminsider.com/2026/08/31/pasqal-kacst-quantum-research-saudi-arabia/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 31 Aug 2026 13:42:51 +0000",
-      "published_ts": 1788183771,
-      "summary": "Insider Brief PRESS RELEASE &#8211; King Abdulaziz City for Science and Technology (KACST), represented by the National Center for Quantum Technologies (NCQT), has signed a research collaboration agreement with Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, to advance rese…"
-    },
-    {
-      "title": "Xanadu Targets More Than 1,000 Logical Qubits by 2031",
-      "link": "https://thequantuminsider.com/2026/08/31/xanadu-1000-logical-qubits-2031/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 31 Aug 2026 13:27:11 +0000",
-      "published_ts": 1788182831,
-      "summary": "Insider Brief PRESS RELEASE &#8211; Xanadu Quantum Technologies Limited (“Xanadu” or the “Company”) (NASDAQ: XNDU) (TSX: XNDU), a leading photonic quantum computing company, will host its Technology Roadmap Presentation today at 1:00 p.m. ET, featuring presentations from members of its executive and…"
-    },
-    {
       "title": "Physicists take Hall effect in a new direction",
       "link": "https://phys.org/news/2026-08-physicists-hall-effect.html",
       "source": "Phys.org — Quantum Physics",
@@ -88,150 +232,6 @@
       "published": "Mon, 31 Aug 2026 08:00:02 EDT",
       "published_ts": 1788177602,
       "summary": "For nearly 80 years, physicists have relied on a thought experiment created by Richard Feynman to predict how quantum particles behave. For the first time, researchers in China have tested this trick directly in the lab."
-    },
-    {
-      "title": "IonQ Researchers Run MegaQuOp-Scale Quantum Error Decoder on a MacBook Pro",
-      "link": "https://thequantuminsider.com/2026/08/31/ionq-researchers-run-megaquop-scale-quantum-error-decoder-on-a-macbook-pro/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 31 Aug 2026 11:46:09 +0000",
-      "published_ts": 1788176769,
-      "summary": "Insider Brief Your MacBook Pro may be powerful enough to one day manage error correction for a fault-tolerant quantum machine executing millions of operations, according to a new study from IonQ researchers. The team, which included Min Ye, Andrii Maksymov and Nicolas Delfosse, all of IonQ, demonstr…"
-    },
-    {
-      "title": "Yaqumo Selected for a NEDO R&D Project; Launches Joint Research with SCREEN Holdings",
-      "link": "https://thequantuminsider.com/2026/08/31/yaqumo-selected-for-a-nedo-r-launches-joint-research-with-screen-holdings/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 31 Aug 2026 10:55:17 +0000",
-      "published_ts": 1788173717,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Yaqumo Inc. (Headquarters: Chiyoda-ku, Tokyo; Representative Director and CEO: Kazuhiro Nakashoji; hereinafter “Yaqumo”) is pleased to announce that it has been selected for the public solicitation, “Post-5G Information and Communication Systems Infrastructure Enh…"
-    },
-    {
-      "title": "S-Transistors Raises €2.6 Million Pre-Seed Round to Introduce Superconducting Transistor Platform",
-      "link": "https://thequantuminsider.com/2026/08/31/s-transistors-raises-e2-6-million-pre-seed-round-to-introduce-superconducting-transistor-platform/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 31 Aug 2026 08:05:00 +0000",
-      "published_ts": 1788163500,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Newly launched Finnish startup S-Transistors, originating from VTT Technical Research Centre of Finland, has raised €2.6 million in pre-seed funding to pioneer a fundamentally new class of integrated circuits based on superconducting transistors. The technology ha…"
-    },
-    {
-      "title": "Quantum Information at Infinity",
-      "link": "https://arxiv.org/abs/2608.27498",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27498v1 Announce Type: new  Abstract: We introduce the Quantum Information Space at Infinity (Quinfinity) $\\mathcal{Q}_\\infty$ as the inverse limit of the symbolic Quantum $N$-Spaces $\\mathcal{Q}_N$, identified with the complete local real algebra of formal power series under the adic top…"
-    },
-    {
-      "title": "Quantized Low-Rank Quantum State Tomography: Hyperbolic Quantization and Riemannian Least-Squares Recovery",
-      "link": "https://arxiv.org/abs/2608.27503",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27503v1 Announce Type: new  Abstract: We study low-rank quantum state tomography from finite-bit Pauli batch responses. To avoid bias introduced by generic quantization, we propose HyperQuant, a mean-preserving hyperbolic quantizer adapted to the second-moment scale of Pauli responses. We…"
-    },
-    {
-      "title": "Reverse Quantum Mechanics",
-      "link": "https://arxiv.org/abs/2608.27543",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27543v1 Announce Type: new  Abstract: Reverse Physics is a methodology that breaks physical theories into separate mathematical and physical conditions to establish their logical relationships. To showcase the power of the methodology, we present several results for quantum mechanics and…"
-    },
-    {
-      "title": "Pulling strings in real time: flux tube dynamics in (2+1)-d $\\mathbb{Z}_2$-Higgs Gauge Theories",
-      "link": "https://arxiv.org/abs/2608.27561",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27561v1 Announce Type: new  Abstract: Understanding real-time flux-tube dynamics in more than one spatial dimension is key to unlocking the non-perturbative physics of confinement, and is now actively pursued by quantum computing and simulation experiments. However, describing such dynami…"
-    },
-    {
-      "title": "Spectral Theory of Semisimple Bivariate Bicycle Codes",
-      "link": "https://arxiv.org/abs/2608.27565",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27565v1 Announce Type: new  Abstract: Extending the classical theory of two-dimensional cyclic codes, we develop an algebraic approach to bivariate bicycle codes. Using Frobenius-orbit idempotents, formulas for logical dimensions are derived and lower bounds on minimum distances are estab…"
-    },
-    {
-      "title": "Quantifying the Dual-isotope Advantage for Ytterbium-array Surface Codes using Realistic Noise Models",
-      "link": "https://arxiv.org/abs/2608.27568",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27568v1 Announce Type: new  Abstract: Neutral-atom quantum computers are a promising platform for fault-tolerant quantum computation, but logical performance depends on systemic realistic noise factors during syndrome extraction. In dual-isotope Yb arrays, the roles of data and ancilla qu…"
-    },
-    {
-      "title": "Quantum Resource Estimation for Simulating the SYK Model with Trotterization, qDRIFT, and Asymmetric Qubitization",
-      "link": "https://arxiv.org/abs/2608.27573",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27573v1 Announce Type: new  Abstract: The Sachdev-Ye-Kitaev (SYK) model has been identified as a promising candidate to run on early fault-tolerant quantum computers due to the relatively modest resources required to probe non-trivial physics (namely holographic duality and AdS/CFT corres…"
-    },
-    {
-      "title": "Diamond optomechanical crystals for high-frequency strain and comb generation",
-      "link": "https://arxiv.org/abs/2608.27581",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27581v1 Announce Type: new  Abstract: Quantum optomechanical technologies benefit from mechanical oscillators that are high-frequency, can be coherently driven, and are capable of coupling to other quantum systems. Diamond supports all of these criteria: its large elastic modulus increase…"
-    },
-    {
-      "title": "Network steering with arbitrarily low detection efficiency of any entangled measurement",
-      "link": "https://arxiv.org/abs/2608.27582",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27582v1 Announce Type: new  Abstract: Quantum nonlocality and its asymmetric counterpart, quantum steering, are among the most intriguing manifestations of quantum mechanics. From a theoretical perspective, they are not only of fundamental significance but also hold promise for a wide ran…"
-    },
-    {
-      "title": "Plateau-Constrained Selection of Commuting Phase-Term Orderings Under a Fixed Maintained-Parity Compiler Contract",
-      "link": "https://arxiv.org/abs/2608.27592",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27592v1 Announce Type: new  Abstract: Ordering objectives for commuting phase terms can have many equal optima, yet prior methods do not characterize or exploit those ties. We use a classical two-stage permutation search under fixed placement and maintained-parity quantum lowering: Stage…"
-    },
-    {
-      "title": "Quantum SEDONet: Spectrally-Embedded Quantum Deep Operator Networks for Partial Differential Equations",
-      "link": "https://arxiv.org/abs/2608.27626",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27626v1 Announce Type: new  Abstract: Quantum DeepONet accelerates neural-operator inference by evaluating an orthogonally parameterized network on a quantum computer, reproducing in ideal simulation the accuracy of its classical counterpart at asymptotically lower inference cost. Its tru…"
-    },
-    {
-      "title": "Machine Learning-Based Characterisation of the Non-Markovian Dynamics of a Nitrogen-Vacancy Centre",
-      "link": "https://arxiv.org/abs/2608.27632",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27632v1 Announce Type: new  Abstract: The interaction between a quantum system and its environment can be characterized by the spectral density function: knowing its structure is important for optimizing applications of quantum technologies such as quantum sensing protocols. In this work,…"
-    },
-    {
-      "title": "Topological Winding Readout of an Emergent Page-Wootters Clock",
-      "link": "https://arxiv.org/abs/2608.27650",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27650v1 Announce Type: new  Abstract: The Page--Wootters construction gives time a Hilbert space, representing it as an internal degree of freedom whose readings the rest of the system evolves with respect to. We ask whether such a clock degree of freedom can carry a topological invariant…"
-    },
-    {
-      "title": "High-Dimensional Deterministic Secure Quantum Communication with Reed-Solomon Erasure Coding",
-      "link": "https://arxiv.org/abs/2608.27679",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27679v1 Announce Type: new  Abstract: Deterministic Secure Quantum Communication (DSQC) is a quantum cryptographic technique engineered to transfer a message through a quantum channel, requiring an auxiliary classical channel for eavesdropping verification and decoding, but without prior…"
-    },
-    {
-      "title": "Logical Neural Belief Propagation for Linear-Complexity Decoding of Surface Codes",
-      "link": "https://arxiv.org/abs/2608.27682",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "published_ts": 1788148800,
-      "summary": "arXiv:2608.27682v1 Announce Type: new  Abstract: Quantum error correction (QEC) requires decoders that achieve high logical accuracy while scaling efficiently with the code length. Belief propagation (BP) is attractive for its linear decoding complexity, but conventional BP decoders often fail to re…"
     },
     {
       "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
