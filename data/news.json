@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1788260353,
+  "generated_ts": 1788278300,
   "items": [
+    {
+      "title": "Arqit, Es’hailSat and AIEE Demonstrate Quantum-Safe Satellite Communications",
+      "link": "https://thequantuminsider.com/2026/09/01/arqit-eshailsat-aiee-quantum-safe-satellite-communications/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 01 Sep 2026 13:59:29 +0000",
+      "published_ts": 1788271169,
+      "summary": "Insider Brief PRESS RELEASE &#8211; Arqit Quantum Inc. (NASDAQ: ARQQ, ARQQW), a global leader in quantum-safe encryption, Es’hailSat &#8211; the Qatar Satellite Company &#8211; a world-class satellite operator and service provider with coverage spanning the MENA region &#8211; and Advanced Internati…"
+    },
+    {
+      "title": "QC Ware and IonQ Demonstrate Hybrid Quantum Chemistry Workflow for Drug Discovery",
+      "link": "https://thequantuminsider.com/2026/09/01/qc-ware-ionq-hybrid-quantum-chemistry-drug-discovery/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 01 Sep 2026 12:59:34 +0000",
+      "published_ts": 1788267574,
+      "summary": "Insider Brief PRESS RELEASE &#8211; QC Ware today announced a technology demonstration of a hybrid quantum-classical chemistry workflow using its Promethium® platform and IonQ&#8216;s Forte trapped-ion quantum computer via Amazon Braket. The demonstration modeled the heme active site of cytochrome P…"
+    },
+    {
+      "title": "The Quantum Insider Launches TQI 2.0, A Comprehensive Intelligence Workspace For The Quantum Economy",
+      "link": "https://thequantuminsider.com/2026/09/01/the-quantum-insider-launches-tqi-2-0-a-comprehensive-intelligence-workspace-for-the-quantum-economy/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 01 Sep 2026 10:21:38 +0000",
+      "published_ts": 1788258098,
+      "summary": "The Quantum Insider today announced the rollout of TQI 2.0, a major update to its data intelligence platform that transforms the service from a specialized quantum database into a comprehensive intelligence workspace designed to support strategic decision-making across the global quantum technology…"
+    },
     {
       "title": "Guest Post: The Quantum Industry is Both Overhyped And Underestimated",
       "link": "https://thequantuminsider.com/2026/09/01/guest-post-the-quantum-industry-is-both-overhyped-and-underestimated/",
@@ -184,30 +208,6 @@
       "published": "Mon, 31 Aug 2026 16:15:23 +0000",
       "published_ts": 1788192923,
       "summary": "Insider Brief PRESS RELEASE &#8211; Anyon Systems Inc., a Canadian developer and manufacturer of full-stack superconducting quantum computing systems, and KMT Technologies Ltd., a Matrix Group company, today announced a strategic partnership to accelerate the international deployment of quantum comp…"
-    },
-    {
-      "title": "Atom Computing Appoints Kevin Messerle as Chief Financial Officer",
-      "link": "https://thequantuminsider.com/2026/08/31/atom-computing-kevin-messerle-cfo/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 31 Aug 2026 14:52:01 +0000",
-      "published_ts": 1788187921,
-      "summary": "Insider Brief PRESS RELEASE &#8211; Atom Computing, a leader in the race to build practical quantum computers, today announced the appointment of Kevin Messerle as Chief Financial Officer. Messerle joins Atom Computing at a pivotal moment as the company continues to advance its technology roadmap an…"
-    },
-    {
-      "title": "QTREX to Unveil 17,280-Line Cryogenic Interconnect Architecture at IEEE Quantum Week",
-      "link": "https://thequantuminsider.com/2026/08/31/qtrex-17280-line-cryogenic-interconnect-ieee-quantum-week/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 31 Aug 2026 14:45:04 +0000",
-      "published_ts": 1788187504,
-      "summary": "Insider Brief PRESS RELEASE &#8211; QTREX Quantum Ltd. (Nasdaq: QTEX) (&#8220;QTREX&#8221; or the &#8220;Company&#8221;) a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure, today announced that it will publicly unveil its ultra-high-densit…"
-    },
-    {
-      "title": "Diffraqtion Raises More Than $10M for Quantum Camera Development",
-      "link": "https://thequantuminsider.com/2026/08/31/diffraqtion-raises-10m-lockheed-martin-presidio/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 31 Aug 2026 14:36:49 +0000",
-      "published_ts": 1788187009,
-      "summary": "Insider Brief PRESS RELEASE &#8211; Diffraqtion, an MIT and University of Maryland spinout building quantum camera platforms for defense and space sensing, today announced strategic investments from Lockheed Martin Ventures and Presidio Ventures, the venture arm of Sumitomo Corporation, bringing tot…"
     },
     {
       "title": "Physicists take Hall effect in a new direction",
