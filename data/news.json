@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1788278300,
+  "generated_ts": 1788294386,
   "items": [
+    {
+      "title": "Ten-channel photonic interface links neutral-atom qubits in parallel",
+      "link": "https://phys.org/news/2026-09-ten-channel-photonic-interface-links.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 01 Sep 2026 13:00:02 EDT",
+      "published_ts": 1788282002,
+      "summary": "A research group in Japan has demonstrated a world-record 10-channel multiplexed quantum photonic interface based on an integrated waveguide array, a key technology for optically interconnecting multiple quantum computers. The study is published in the journal Optica."
+    },
+    {
+      "title": "Symmatrics Launches AI and Post-Quantum Readiness Pledge",
+      "link": "https://thequantuminsider.com/2026/09/01/symmatrics-ai-post-quantum-readiness-pledge/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 01 Sep 2026 16:08:57 +0000",
+      "published_ts": 1788278937,
+      "summary": "Insider Brief PRESS RELEASE &#8211; A new industry commitment convened by Symmatrics, the pioneer of Internet-scale One-Time Pad symmetric encryption and creator of a breakthrough quantum-secure trust layer, is bringing organizations together around a shared priority: preparing now for the security…"
+    },
     {
       "title": "Arqit, Es’hailSat and AIEE Demonstrate Quantum-Safe Satellite Communications",
       "link": "https://thequantuminsider.com/2026/09/01/arqit-eshailsat-aiee-quantum-safe-satellite-communications/",
@@ -202,14 +218,6 @@
       "summary": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research."
     },
     {
-      "title": "Anyon Systems and KMT Technologies Partner to Expand Quantum Computing Deployment",
-      "link": "https://thequantuminsider.com/2026/08/31/anyon-systems-kmt-technologies-quantum-computing-deployment/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 31 Aug 2026 16:15:23 +0000",
-      "published_ts": 1788192923,
-      "summary": "Insider Brief PRESS RELEASE &#8211; Anyon Systems Inc., a Canadian developer and manufacturer of full-stack superconducting quantum computing systems, and KMT Technologies Ltd., a Matrix Group company, today announced a strategic partnership to accelerate the international deployment of quantum comp…"
-    },
-    {
       "title": "Physicists take Hall effect in a new direction",
       "link": "https://phys.org/news/2026-08-physicists-hall-effect.html",
       "source": "Phys.org — Quantum Physics",
@@ -336,14 +344,6 @@
       "published": "Fri, 21 Aug 2026 15:20:03 EDT",
       "published_ts": 1787340003,
       "summary": "Quasiparticles arise from the complex interaction of many particles in solids; for example, we describe lattice vibrations in crystals as phonons. Fractons are exotic quasiparticles that occur at the vertices of magnetic domain walls between different spin orders. What makes them special is that the…"
-    },
-    {
-      "title": "'Rainbow-on-a-chip' could help unlock 6G networks and precision timing for quantum technologies",
-      "link": "https://phys.org/news/2026-08-rainbow-chip-6g-networks-precision.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 21 Aug 2026 10:00:03 EDT",
-      "published_ts": 1787320803,
-      "summary": "Loughborough University physicists and an international team have demonstrated that a grain-of-rice-sized microchip can be used to produce a spectrum of precisely spaced frequencies of light, which is then converted into multiple high-frequency electromagnetic signals known as millimeter waves."
     },
     {
       "title": "Securing wireless communication in next-generation devices",
