@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1788214812,
+  "generated_ts": 1788232536,
   "items": [
+    {
+      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center",
+      "link": "https://thequantuminsider.com/2026/08/31/diraq-to-deploy-a-quantum-computer-inside-an-equinix-data-center/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 31 Aug 2026 22:03:02 +0000",
+      "published_ts": 1788213782,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Diraq and Equinix, Inc. (Nasdaq: EQIX), the world’s digital infrastructure company®, today announced plans to deploy a Diraq quantum computer at an Equinix data center in Sydney, Australia. The deployment will mark the world’s first silicon spin quantum computer t…"
+    },
     {
       "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
       "link": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
@@ -104,14 +112,6 @@
       "published": "Mon, 31 Aug 2026 08:05:00 +0000",
       "published_ts": 1788163500,
       "summary": "Insider Brief PRESS RELEASE &#8212; Newly launched Finnish startup S-Transistors, originating from VTT Technical Research Centre of Finland, has raised €2.6 million in pre-seed funding to pioneer a fundamentally new class of integrated circuits based on superconducting transistors. The technology ha…"
-    },
-    {
-      "title": "French National Quantum Update: August 2026",
-      "link": "https://thequantuminsider.com/2026/08/31/french-national-quantum-update-august-2026/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 31 Aug 2026 07:41:39 +0000",
-      "published_ts": 1788162099,
-      "summary": "Executive Summary France’s quantum sector entered a more public-market-facing phase in August 2026, with Pasqal dominating the headlines through its Nasdaq debut, technical progress and expansion into Saudi Arabia. The developments increasingly placed the neutral-atom quantum computing company at th…"
     },
     {
       "title": "Quantum Information at Infinity",
