@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1788364302,
+  "generated_ts": 1788380751,
   "items": [
+    {
+      "title": "Quobly and TNO Partner on Silicon Spin Qubit Development",
+      "link": "https://thequantuminsider.com/2026/09/02/quobly-tno-mou-industrialization-silicon-spin-qubits/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 02 Sep 2026 18:54:26 +0000",
+      "published_ts": 1788375266,
+      "summary": "Insider Brief PRESS RELEASE &#8211; Quobly, a French quantum computing company developing industrially scalable quantum computers based on silicon spin qubits, and TNO, the Netherlands Organisation for Applied Scientific Research, have signed a Memorandum of Understanding (MoU) to strengthen their t…"
+    },
+    {
+      "title": "Quandela Joins Canada’s Quantum Computing Sandbox With Photonic Quantum Platform",
+      "link": "https://thequantuminsider.com/2026/09/02/quandela-canada-quantum-computing-sandbox-photonic-platform/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 02 Sep 2026 18:46:36 +0000",
+      "published_ts": 1788374796,
+      "summary": "Insider Brief PRESS RELEASE &#8211; Quandela, a leading player in photonic quantum  computing technologies, has signed a memorandum of understanding with  CMC Microsystems to join the Quantum Computing Sandbox as a provider of cloud-based  computing services. Quandela’s expertise, based within the c…"
+    },
+    {
+      "title": "Scientists Observe Einstein’s Gravity in The Quantum World",
+      "link": "https://thequantuminsider.com/2026/09/02/scientists-observe-einsteins-gravity-in-the-quantum-world/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 02 Sep 2026 18:05:00 +0000",
+      "published_ts": 1788372300,
+      "summary": "Insider Brief PRESS RELEASE &#8212; An international team including Nobel Prize-winning physicist Professor Sir Roger Penrose has observed a long-predicted effect of gravity on a falling quantum object for the first time. The result shows that a fundamental principle at the heart of Einstein’s theor…"
+    },
+    {
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "link": "https://phys.org/news/2026-09-scientists-einstein-gravity-quantum-world.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 02 Sep 2026 14:00:13 EDT",
+      "published_ts": 1788372013,
+      "summary": "An international team including Nobel Prize-winning physicist Professor Sir Roger Penrose has observed a long-predicted effect of gravity on a falling quantum object for the first time. The result shows that a fundamental principle at the heart of Einstein's theory of gravity remains consistent with…"
+    },
+    {
+      "title": "Sorry, this neutrino laser won't work, physicists say",
+      "link": "https://phys.org/news/2026-09-neutrino-laser-wont-physicists.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 02 Sep 2026 13:20:04 EDT",
+      "published_ts": 1788369604,
+      "summary": "Neutrinos are pervasive yet intangible particles that permeate the universe, streaming through whole planets, stars and our bodies by the trillions each second. The elementary particles are often described as \"ghostly\" for their near-zero mass and elusive nature, as they have very little interaction…"
+    },
     {
       "title": "PsiQuantum and Brookhaven Lab Partner on Fault-Tolerant Quantum Algorithms",
       "link": "https://thequantuminsider.com/2026/09/02/psiquantum-brookhaven-quantum-application-development-construct/",
@@ -72,30 +112,6 @@
       "published": "Wed, 02 Sep 2026 07:49:22 EDT",
       "published_ts": 1788349762,
       "summary": "Spin-orbit coupling (SOC), an interaction between an electron's spin and its motion, plays a key role in creating topological insulators—unusual materials that are insulating in their interior but can conduct electricity along their surfaces."
-    },
-    {
-      "title": "Quantum Computing Use Widens as Price and Access Shape Demand, Quantum Rings Study Finds",
-      "link": "https://thequantuminsider.com/2026/09/02/quantum-computing-use-widens-as-price-and-access-shape-demand-quantum-rings-study-finds/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 11:45:20 +0000",
-      "published_ts": 1788349520,
-      "summary": "Insider Brief Quantum computing users are pushing toward larger circuits while concentrating most jobs on cheaper hardware, offering an early view of how price, speed and technical needs are shaping demand for commercial quantum systems. The typical circuit submitted through Quantum Rings’ Open Quan…"
-    },
-    {
-      "title": "Guest Post: Why Financial Infrastructure Needs Post-Quantum Security",
-      "link": "https://thequantuminsider.com/2026/09/02/financial-systems-quantum-risks/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 11:28:14 +0000",
-      "published_ts": 1788348494,
-      "summary": "Guest Post By Ryan Kirkley, Founder &#38; CEO, Global Settlement Holdings. A temporal asymmetry lies at the heart of financial infrastructure. Settlement systems and payment rails are built to run for thirty to fifty years, and most of what moves the dollar today was last built forty years ago. Fedw…"
-    },
-    {
-      "title": "Former U.S. Army Cyber Command Chief of Staff Joins Qtonic Quantum",
-      "link": "https://thequantuminsider.com/2026/09/02/former-army-cyber-command-chief-of-staff-joins-qtonic-quantum/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 11:15:08 +0000",
-      "published_ts": 1788347708,
-      "summary": "Insider Brief Press release &#8211; Col. Reginald M. Harris, U.S. Army (Retired), who served as Chief of Staff of U.S. Army Cyber Command and commanded the 1st Cyber Protection Battalion (Provisional), has joined Qtonic Quantum Corp to lead the company&#8217;s federal and defense government affairs.…"
     },
     {
       "title": "Isospectral potentials with Dirac delta interaction: Constrained Spectra",
@@ -328,22 +344,6 @@
       "published": "Tue, 25 Aug 2026 05:00:02 EDT",
       "published_ts": 1787648402,
       "summary": "The search for materials that can power future quantum technologies is accelerating, but identifying the most promising candidates remains painfully slow. Evaluating whether a material can efficiently emit quantum light requires computationally intensive simulations, making it difficult to screen th…"
-    },
-    {
-      "title": "Vacuum-fluctuation-enhanced superconductivity demonstrated for the first time",
-      "link": "https://phys.org/news/2026-08-vacuum-fluctuation-superconductivity.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 24 Aug 2026 16:50:01 EDT",
-      "published_ts": 1787604601,
-      "summary": "In a study published in Nature on Aug. 19, a research team has enhanced superconductivity through vacuum fluctuations for the first time. The achievement marks a significant advance in controlling quantum states of matter."
-    },
-    {
-      "title": "New free-space optical link adds a wireless component to the nation's longest quantum network",
-      "link": "https://phys.org/news/2026-08-free-space-optical-link-wireless.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 24 Aug 2026 09:43:00 EDT",
-      "published_ts": 1787578980,
-      "summary": "There's a new lighthouse on Long Island. But instead of shining light to guide ships through waterways, this one transmits and receives particles of light that carry quantum information. Perched atop a seven-story building at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory, the…"
     },
     {
       "title": "Securing wireless communication in next-generation devices",
