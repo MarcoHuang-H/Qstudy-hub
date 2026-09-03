@@ -1,6 +1,94 @@
 {
-  "generated_ts": 1788431711,
+  "generated_ts": 1788450058,
   "items": [
+    {
+      "title": "Andhra University Plans Centres of Excellence for Quantum, AI and Semiconductors",
+      "link": "https://thequantuminsider.com/2026/09/03/andhra-university-quantum-ai-semiconductor-research-centres/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 03 Sep 2026 14:39:15 +0000",
+      "published_ts": 1788446355,
+      "summary": "Insider Brief Andhra University intends to set up Centres of Excellence covering quantum technology, AI systems, and semiconductors, Vice-Chancellor G.P. Raja Sekhar said Tuesday, The Hindu reported. Raja Sekhar made the announcement while opening a three-day international conference on Quantum-Enha…"
+    },
+    {
+      "title": "Dual-purpose qubit design could speed operations while cutting quantum errors",
+      "link": "https://phys.org/news/2026-09-dual-purpose-qubit-quantum-errors.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 03 Sep 2026 10:20:04 EDT",
+      "published_ts": 1788445204,
+      "summary": "Researchers from MIT have designed a new qubit architecture that enables qubits to interact with each other much more quickly while remaining very stable. This advance could someday help scientists build practical quantum computers that can run long, complex algorithms with high accuracy."
+    },
+    {
+      "title": "Argonne and JPMorganChase Develop New Method to Study QAOA at Scale",
+      "link": "https://thequantuminsider.com/2026/09/03/argonne-jpmorganchase-method-study-qaoa-at-scale/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 03 Sep 2026 14:09:00 +0000",
+      "published_ts": 1788444540,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computers have arisen as a possible solution for highly complex mathematical problems, offering ​“quantum advantage” over classical computers in certain cases. The Quantum Approximate Optimization Algorithm (QAOA) is a leading candidate for realizing this…"
+    },
+    {
+      "title": "SEALSQ and wolfSSL Add wolfTPM Support for QVault Post-Quantum TPM",
+      "link": "https://thequantuminsider.com/2026/09/03/sealsq-announces-wolftpm-support-post-quantum-tpm-technology/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 03 Sep 2026 13:45:26 +0000",
+      "published_ts": 1788443126,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, and wolfSSL Inc., a recognized leader in embedded cryptogr…"
+    },
+    {
+      "title": "Quobly and Orange Quantum Systems Partner on Silicon Spin Qubit Testing",
+      "link": "https://thequantuminsider.com/2026/09/03/quobly-orange-quantum-systems-silicon-spin-qubit-testing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 03 Sep 2026 13:38:46 +0000",
+      "published_ts": 1788442726,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quobly, a French quantum computing company developing silicon spin qubit processors for industrial-scale deployment, and Orange Quantum Systems (OrangeQS), a company based in Delft specializing in automated diagnostics and high-throughput test systems for solid-st…"
+    },
+    {
+      "title": "George Mason and TreQ Partner on Open-Architecture Quantum Computing in Virginia",
+      "link": "https://thequantuminsider.com/2026/09/03/george-mason-treq-open-architecture-quantum-northern-virginia/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 03 Sep 2026 13:20:46 +0000",
+      "published_ts": 1788441646,
+      "summary": "Insider Brief PRESS RELEASE &#8211; George Mason University and Oxford-based frontier computing company TreQ announced a groundbreaking partnership to bring open-architecture quantum infrastructure to the Commonwealth of Virginia beginning with the first open-architecture quantum computing system in…"
+    },
+    {
+      "title": "Quantum control algorithm looks to explain how birds migrate",
+      "link": "https://phys.org/news/2026-09-quantum-algorithm-birds-migrate.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 03 Sep 2026 09:20:07 EDT",
+      "published_ts": 1788441607,
+      "summary": "The hidden world of quantum mechanics exists at scales many orders of magnitude smaller than living organisms, yet scientists have long theorized that quantum effects play an important role in biology. Birds' ability to sense magnetic fields during migration is one of the best-known mysteries in thi…"
+    },
+    {
+      "title": "Quantum Strategies Are Converging As China Turns to Venture Capital Model to Expand Its Quantum Industry",
+      "link": "https://thequantuminsider.com/2026/09/03/quantum-strategies-are-converging-as-china-turns-to-venture-capital-model-to-expand-its-quantum-industry/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 03 Sep 2026 12:43:40 +0000",
+      "published_ts": 1788439420,
+      "summary": "Insider Brief China is adding venture-style financing to its state-led quantum strategy, combining public capital with regional investment networks to accelerate the formation of technology companies. Three regional funds established through China’s National Venture Capital Guidance Fund have raised…"
+    },
+    {
+      "title": "G+D Develops Quantum-Safe Technologies for Next-Generation Identity Cards",
+      "link": "https://thequantuminsider.com/2026/09/03/gd-quantum-safe-next-generation-identity-cards/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 03 Sep 2026 11:42:50 +0000",
+      "published_ts": 1788435770,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SecurityTech company Giesecke+Devrient (G+D) is contributing its expertise to the European research project uPQComing (“Enhancing Cyber-Resilience for the upcoming Post-Quantum era”) and developing technologies for the next generation of quantum-safe identity card…"
+    },
+    {
+      "title": "Kensho and Classiq Partner to Expand Quantum Software Access in Taiwan",
+      "link": "https://thequantuminsider.com/2026/09/03/kensho-classiq-quantum-software-taiwan/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 03 Sep 2026 11:00:45 +0000",
+      "published_ts": 1788433245,
+      "summary": "Insider Brief Kensho and leading quantum computing software company Classiq today announced that they have entered into a market development partnership agreement to expand access to the Classiq quantum software platform in Taiwan. Kensho will leverage its existing customer network to introduce the…"
+    },
+    {
+      "title": "SEEQC Signs MOU to Expand Quantum Technology Cooperation in Taiwan",
+      "link": "https://thequantuminsider.com/2026/09/03/seeqc-mou-quantum-technology-cooperation-taiwan/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 03 Sep 2026 10:52:47 +0000",
+      "published_ts": 1788432767,
+      "summary": "Insider Brief PRESS RELEASE &#8211; SEEQC, Inc. (“SEEQC” or the “Company”), a chip-based quantum computing company, today announced the signing of a Memorandum of Understanding (“MOU”) with Taiwan’s Quantum Industry Technology Promotion Office to expand cooperation and exchange across quantum techno…"
+    },
     {
       "title": "IBM’s Nighthawk r2 Quantum Processor Targets a 25-Fold Increase in Circuit Speed",
       "link": "https://thequantuminsider.com/2026/09/03/ibms-nighthawk-r2-quantum-processor-targets-a-25-fold-increase-in-circuit-speed/",
@@ -154,30 +242,6 @@
       "summary": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems."
     },
     {
-      "title": "Quobly and TNO Partner on Silicon Spin Qubit Development",
-      "link": "https://thequantuminsider.com/2026/09/02/quobly-tno-mou-industrialization-silicon-spin-qubits/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 18:54:26 +0000",
-      "published_ts": 1788375266,
-      "summary": "Insider Brief PRESS RELEASE &#8211; Quobly, a French quantum computing company developing industrially scalable quantum computers based on silicon spin qubits, and TNO, the Netherlands Organisation for Applied Scientific Research, have signed a Memorandum of Understanding (MoU) to strengthen their t…"
-    },
-    {
-      "title": "Quandela Joins Canada’s Quantum Computing Sandbox With Photonic Quantum Platform",
-      "link": "https://thequantuminsider.com/2026/09/02/quandela-canada-quantum-computing-sandbox-photonic-platform/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 18:46:36 +0000",
-      "published_ts": 1788374796,
-      "summary": "Insider Brief PRESS RELEASE &#8211; Quandela, a leading player in photonic quantum  computing technologies, has signed a memorandum of understanding with  CMC Microsystems to join the Quantum Computing Sandbox as a provider of cloud-based  computing services. Quandela’s expertise, based within the c…"
-    },
-    {
-      "title": "Scientists Observe Einstein’s Gravity in The Quantum World",
-      "link": "https://thequantuminsider.com/2026/09/02/scientists-observe-einsteins-gravity-in-the-quantum-world/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 18:05:00 +0000",
-      "published_ts": 1788372300,
-      "summary": "Insider Brief PRESS RELEASE &#8212; An international team including Nobel Prize-winning physicist Professor Sir Roger Penrose has observed a long-predicted effect of gravity on a falling quantum object for the first time. The result shows that a fundamental principle at the heart of Einstein’s theor…"
-    },
-    {
       "title": "Scientists observe Einstein's gravity in the quantum world",
       "link": "https://phys.org/news/2026-09-scientists-einstein-gravity-quantum-world.html",
       "source": "Phys.org — Quantum Physics",
@@ -194,60 +258,12 @@
       "summary": "Neutrinos are pervasive yet intangible particles that permeate the universe, streaming through whole planets, stars and our bodies by the trillions each second. The elementary particles are often described as \"ghostly\" for their near-zero mass and elusive nature, as they have very little interaction…"
     },
     {
-      "title": "PsiQuantum and Brookhaven Lab Partner on Fault-Tolerant Quantum Algorithms",
-      "link": "https://thequantuminsider.com/2026/09/02/psiquantum-brookhaven-quantum-application-development-construct/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 13:46:15 +0000",
-      "published_ts": 1788356775,
-      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum and the U.S. Department of Energy’s (DOE) Brookhaven National Laboratory today announced a collaboration that will leverage PsiQuantum’s software platform, Construct, to support Brookhaven Lab scientists researching new algorithms and scientific applica…"
-    },
-    {
-      "title": "Pasqal and True Nexus Apply Quantum Computing to Protein Gelation",
-      "link": "https://thequantuminsider.com/2026/09/02/pasqal-true-nexus-quantum-computing-protein-function/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 13:34:55 +0000",
-      "published_ts": 1788356095,
-      "summary": "Insider Brief PRESS RELEASE &#8211; Pasqal (Nasdaq: PSQL), a global provider of neutral-atom quantum computers, and True Nexus, a computational intelligence company focused on making protein functionality programmable for real-world food applications, today announced a major milestone in their colla…"
-    },
-    {
       "title": "Physicists test the weak equivalence principle in an orbiting space station",
       "link": "https://phys.org/news/2026-09-physicists-weak-equivalence-principle-orbiting.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 02 Sep 2026 09:30:01 EDT",
       "published_ts": 1788355801,
       "summary": "The weak equivalence principle (WEP) is central to Einstein's general relativity. It posits that gravity must accelerate everything equally, regardless of what it is made from. For the first time, a team led by Ming-Sheng Zhan at the Wuhan Institute of Physics and Mathematics has tested the principl…"
-    },
-    {
-      "title": "QuSecure Demonstrates Post-Quantum Security for U.S. Army at Project Convergence",
-      "link": "https://thequantuminsider.com/2026/09/02/qusecure-post-quantum-security-us-army-project-convergence/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 13:22:15 +0000",
-      "published_ts": 1788355335,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuSecure™, Inc., a leader in post-quantum cryptography (PQC) and cryptographic agility, today announced it demonstrated operational readiness at Project Convergence Capstone 6 (PCC6), the capstone event for Army Transformation and Training Command (T2COM). At the…"
-    },
-    {
-      "title": "IBM Ventures Invests in BQP as Quantum-Algorithm Physics Acceleration Reaches Production",
-      "link": "https://thequantuminsider.com/2026/09/02/ibm-ventures-invests-in-bqp-as-quantum-algorithm-physics-acceleration-reaches-production/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 13:05:00 +0000",
-      "published_ts": 1788354300,
-      "summary": "Insider Brief PRESS RELEASE &#8212; BQP, the physics acceleration company, today announced a strategic investment from IBM Ventures, the venture capital arm of IBM. The investment brings BQP&#8216;s total funding to $8M and funds BQPhy®&#8217;s expansion from engineering design into operational depl…"
-    },
-    {
-      "title": "Cyprus and Greece Establish Quantum-Secure Satellite Link",
-      "link": "https://thequantuminsider.com/2026/09/02/cyprus-greece-quantum-secure-satellite-link/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 12:59:10 +0000",
-      "published_ts": 1788353950,
-      "summary": "Insider Brief Cyprus and Greece have established their first quantum-secure satellite data connection, Sparkle and Hellas Sat, a satellite operator serving Greece and Cyprus, announced on Wednesday, in a development aimed at protecting communications against future cyber threats, the Cyprus Mail rep…"
-    },
-    {
-      "title": "QuNorth Clears Facility Milestone for MAGNE Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/09/02/qunorth-clears-facility-milestone-for-magne-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 12:52:20 +0000",
-      "published_ts": 1788353540,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Ramboll has completed the specialized facilities that will house MAGNE, one of the world&#8217;s most powerful commercial quantum computers. The milestone enables QuNorth to begin installation of the system in Copenhagen. Ramboll delivered the building and technic…"
     },
     {
       "title": "Temperature emerges as a control for topological properties of materials",
@@ -344,22 +360,6 @@
       "published": "Wed, 26 Aug 2026 07:00:07 EDT",
       "published_ts": 1787742007,
       "summary": "Scientists could have a new way to explore the hidden behavior of matter, thanks to research involving Queen Mary University of London that uses a quantum computer to carry out a new form of computational spectroscopy."
-    },
-    {
-      "title": "Sound waves do double duty, carrying and protecting quantum information",
-      "link": "https://phys.org/news/2026-08-duty-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 25 Aug 2026 17:00:03 EDT",
-      "published_ts": 1787691603,
-      "summary": "Researchers at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have demonstrated a promising new way to protect fragile quantum information using nothing but mechanical vibrations—essentially extremely small sound waves. The breakthrough, which comes from the lab of Mar…"
-    },
-    {
-      "title": "Chemical physicists quantitatively model electron interactions in real quantum materials",
-      "link": "https://phys.org/news/2026-08-chemical-physicists-quantitatively-electron-interactions.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 25 Aug 2026 12:20:05 EDT",
-      "published_ts": 1787674805,
-      "summary": "A team of scientists from Caltech and Yale University has shown for the first time how to accurately quantify an important quantum phenomenon in metals, called the Kondo effect, for specific real materials. Unlike previous approaches, which for decades have relied on simplified models to qualitative…"
     },
     {
       "title": "Securing wireless communication in next-generation devices",
