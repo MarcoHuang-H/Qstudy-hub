@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1788380751,
+  "generated_ts": 1788403257,
   "items": [
+    {
+      "title": "Making superconductors thinner can change how they accommodate magnetic fields",
+      "link": "https://phys.org/news/2026-08-superconductors-thinner-accommodate-magnetic-fields.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 02 Sep 2026 17:40:01 EDT",
+      "published_ts": 1788385201,
+      "summary": "What happens when a superconductor becomes so thin that electrons can no longer behave as if they were moving through an ordinary three-dimensional piece of metal? This question has been at the center of my recent work on quantum confinement in metallic films. Over the past few years, I have been de…"
+    },
+    {
+      "title": "From MIT to IBM, expediting AI and quantum deployment",
+      "link": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
+      "source": "MIT News — Quantum Computing",
+      "published": "Wed, 02 Sep 2026 16:25:00 -0400",
+      "published_ts": 1788380700,
+      "summary": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems."
+    },
     {
       "title": "Quobly and TNO Partner on Silicon Spin Qubit Development",
       "link": "https://thequantuminsider.com/2026/09/02/quobly-tno-mou-industrialization-silicon-spin-qubits/",
@@ -338,14 +354,6 @@
       "summary": "A team of scientists from Caltech and Yale University has shown for the first time how to accurately quantify an important quantum phenomenon in metals, called the Kondo effect, for specific real materials. Unlike previous approaches, which for decades have relied on simplified models to qualitative…"
     },
     {
-      "title": "Bright ideas accelerate the hunt for quantum emitters",
-      "link": "https://phys.org/news/2026-08-bright-ideas-quantum-emitters.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 25 Aug 2026 05:00:02 EDT",
-      "published_ts": 1787648402,
-      "summary": "The search for materials that can power future quantum technologies is accelerating, but identifying the most promising candidates remains painfully slow. Evaluating whether a material can efficiently emit quantum light requires computationally intensive simulations, making it difficult to screen th…"
-    },
-    {
       "title": "Securing wireless communication in next-generation devices",
       "link": "https://news.mit.edu/2026/securing-wireless-communication-next-generation-devices-0819",
       "source": "MIT News — Quantum Computing",
@@ -552,14 +560,6 @@
       "published": "Tue, 12 May 2026 05:00:00 -0400",
       "published_ts": 1778576400,
       "summary": "A new technique helps scientists measure a phenomenon that can cause quantum circuits to perform differently than expected, increasing the error in computations."
-    },
-    {
-      "title": "A materials scientist’s playground",
-      "link": "https://news.mit.edu/2026/materials-scientists-playground-0430",
-      "source": "MIT News — Quantum Computing",
-      "published": "Thu, 30 Apr 2026 13:20:00 -0400",
-      "published_ts": 1777569600,
-      "summary": "New system at MIT.nano will support quantum technology research."
     }
   ]
 }
