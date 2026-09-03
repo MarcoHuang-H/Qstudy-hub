@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1788450058,
+  "generated_ts": 1788467104,
   "items": [
+    {
+      "title": "BESIII sets world's most stringent direct limit on Lambda hyperon electric dipole moment",
+      "link": "https://phys.org/news/2026-09-besiii-world-stringent-limit-lambda.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 03 Sep 2026 14:00:17 EDT",
+      "published_ts": 1788458417,
+      "summary": "The BESIII Collaboration, led by the Institute of High Energy Physics of the Chinese Academy of Sciences, has achieved the world's most precise measurement of the electric dipole moment (EDM) of the Lambda (Λ) hyperon using quantum-entangled Λ–anti-Λ pairs produced in J/ψ decays. The result improves…"
+    },
+    {
+      "title": "Quantum-optical spin glass could improve how AI remembers and learns",
+      "link": "https://phys.org/news/2026-09-quantum-optical-glass-ai.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 03 Sep 2026 14:00:01 EDT",
+      "published_ts": 1788458401,
+      "summary": "A new study has demonstrated that it is possible to make a network of atoms and photons that could improve how artificial intelligence stores and recalls memories. This network, called a quantum-optical spin glass, works as an associative memory, a form of AI that enables the recall of full memories…"
+    },
+    {
+      "title": "AI suggests new physics experiments that could outperform human-designed setups",
+      "link": "https://phys.org/news/2026-09-ai-physics-outperform-human-setups.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 03 Sep 2026 12:20:06 EDT",
+      "published_ts": 1788452406,
+      "summary": "Research means asking questions of the universe. For centuries, clever minds have advanced science by devising ingenious experiments designed so their results reveal something about the laws of nature as clearly and unambiguously as possible."
+    },
+    {
+      "title": "Quantinuum and Aramco Sign MOU to Explore Industrial Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/09/03/quantinuum-aramco-mou-industrial-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 03 Sep 2026 16:03:50 +0000",
+      "published_ts": 1788451430,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum, a leading quantum computing company, today announced the signing of a non-binding MOU with Aramco, one of the world&#8217;s leading integrated energy and chemicals companies, to explore a series of industrial use cases, enhance quantum computing capabi…"
+    },
+    {
+      "title": "Quantum Motion Raises Additional Funding for Silicon Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/09/03/quantum-motion-additional-funding-silicon-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 03 Sep 2026 15:45:23 +0000",
+      "published_ts": 1788450323,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Motion, the leader in silicon spin-based quantum computing, today announced the second close of its series C funding round to accelerate the scale-up of its fault-tolerant quantum hardware. This second close of the series C round led by DCVC and Kembara co…"
+    },
     {
       "title": "Andhra University Plans Centres of Excellence for Quantum, AI and Semiconductors",
       "link": "https://thequantuminsider.com/2026/09/03/andhra-university-quantum-ai-semiconductor-research-centres/",
@@ -80,22 +120,6 @@
       "published": "Thu, 03 Sep 2026 11:00:45 +0000",
       "published_ts": 1788433245,
       "summary": "Insider Brief Kensho and leading quantum computing software company Classiq today announced that they have entered into a market development partnership agreement to expand access to the Classiq quantum software platform in Taiwan. Kensho will leverage its existing customer network to introduce the…"
-    },
-    {
-      "title": "SEEQC Signs MOU to Expand Quantum Technology Cooperation in Taiwan",
-      "link": "https://thequantuminsider.com/2026/09/03/seeqc-mou-quantum-technology-cooperation-taiwan/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 03 Sep 2026 10:52:47 +0000",
-      "published_ts": 1788432767,
-      "summary": "Insider Brief PRESS RELEASE &#8211; SEEQC, Inc. (“SEEQC” or the “Company”), a chip-based quantum computing company, today announced the signing of a Memorandum of Understanding (“MOU”) with Taiwan’s Quantum Industry Technology Promotion Office to expand cooperation and exchange across quantum techno…"
-    },
-    {
-      "title": "IBM’s Nighthawk r2 Quantum Processor Targets a 25-Fold Increase in Circuit Speed",
-      "link": "https://thequantuminsider.com/2026/09/03/ibms-nighthawk-r2-quantum-processor-targets-a-25-fold-increase-in-circuit-speed/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 03 Sep 2026 08:17:19 +0000",
-      "published_ts": 1788423439,
-      "summary": "Insider Brief The IBM Quantum Nighthawk r2 processor can execute more than 100,000 quantum circuits per second, according to a post published on the IBM Quantum site. That is 25 times the circuit throughput of the company’s Heron processors, which run about 4,000 circuits per second. Nighthawk r2 ha…"
     },
     {
       "title": "Comment on \"Environmental memory effects and quantum resource hierarchies in polarized hyperon--antihyperon systems\"",
@@ -336,30 +360,6 @@
       "published": "Thu, 27 Aug 2026 11:20:04 EDT",
       "published_ts": 1787844004,
       "summary": "Table tennis professionals are true masters at redirecting fast-moving projectiles. Putting a targeted spin on a serve can make the little white ball fly straight toward the edge of the table but then, at the last moment, take a sharp curve into the left corner. The physical phenomenon behind this s…"
-    },
-    {
-      "title": "Ramped fields create more robust entanglement between trapped-ion qubits",
-      "link": "https://phys.org/news/2026-08-ramped-fields-robust-entanglement-ion.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 26 Aug 2026 18:20:06 EDT",
-      "published_ts": 1787782806,
-      "summary": "While quantum computing could be the future, it is currently plagued by finicky hardware. To make the technology practical, researchers must demonstrate that it consistently and continuously works and performs at scale. In a new study, published in Physical Review Letters, researchers at Lawrence Li…"
-    },
-    {
-      "title": "One molecule, one photon: Entanglement makes an imperceptible recoil measurable",
-      "link": "https://phys.org/news/2026-08-molecule-photon-entanglement-imperceptible-recoil.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 26 Aug 2026 11:00:14 EDT",
-      "published_ts": 1787756414,
-      "summary": "For decades, light has been used to understand the molecular structures of matter. A sample is irradiated with light, and measurements determine the wavelengths at which it is absorbed. Since each molecule absorbs light at very specific wavelengths that depend on its structure, the resulting absorpt…"
-    },
-    {
-      "title": "New quantum computing method broadens spectroscopy of hard-to-model matter",
-      "link": "https://phys.org/news/2026-08-quantum-method-broadens-spectroscopy-hard.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 26 Aug 2026 07:00:07 EDT",
-      "published_ts": 1787742007,
-      "summary": "Scientists could have a new way to explore the hidden behavior of matter, thanks to research involving Queen Mary University of London that uses a quantum computer to carry out a new form of computational spectroscopy."
     },
     {
       "title": "Securing wireless communication in next-generation devices",
