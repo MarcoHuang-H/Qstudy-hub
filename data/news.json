@@ -1,6 +1,142 @@
 {
-  "generated_ts": 1788403257,
+  "generated_ts": 1788431711,
   "items": [
+    {
+      "title": "IBM’s Nighthawk r2 Quantum Processor Targets a 25-Fold Increase in Circuit Speed",
+      "link": "https://thequantuminsider.com/2026/09/03/ibms-nighthawk-r2-quantum-processor-targets-a-25-fold-increase-in-circuit-speed/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 03 Sep 2026 08:17:19 +0000",
+      "published_ts": 1788423439,
+      "summary": "Insider Brief The IBM Quantum Nighthawk r2 processor can execute more than 100,000 quantum circuits per second, according to a post published on the IBM Quantum site. That is 25 times the circuit throughput of the company’s Heron processors, which run about 4,000 circuits per second. Nighthawk r2 ha…"
+    },
+    {
+      "title": "Comment on \"Environmental memory effects and quantum resource hierarchies in polarized hyperon--antihyperon systems\"",
+      "link": "https://arxiv.org/abs/2609.01686",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01686v1 Announce Type: new  Abstract: We comment on the recent work [Eur. Phys. J. C 86, 988 (2026)], which investigates quantum resources in polarized hyperon--antihyperon systems using correlated dephasing channels with memory. Although the use of experimentally reconstructed spin-densi…"
+    },
+    {
+      "title": "Tunneling assisted interference in double-well levitodynamics",
+      "link": "https://arxiv.org/abs/2609.01700",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01700v1 Announce Type: new  Abstract: Levitated particles trapped in double-well potentials provide a promising platform for exploring quantum dynamics beyond the harmonic regime. We show that such systems exhibit a distinctive quantum signature arising from tunneling-assisted interferenc…"
+    },
+    {
+      "title": "Purification of photonic graph states",
+      "link": "https://arxiv.org/abs/2609.01710",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01710v1 Announce Type: new  Abstract: Graph states constitute the main building block for quantum computing with photons. Quantum emitters with a hosted spin can deterministically generate photonic graph states, strongly lowering the overhead of multiplexing highly probabilistic linear-op…"
+    },
+    {
+      "title": "Numerical simulation of D-Wave's quantum advantage experiment with time-dependent variational Monte Carlo",
+      "link": "https://arxiv.org/abs/2609.01719",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01719v1 Announce Type: new  Abstract: Programmable quantum annealers can realize real-time dynamics of frustrated transverse-field Ising models on large, nontrivial graphs. Recent work by King et al. argued that the classical simulation of such experiments would require exponential comput…"
+    },
+    {
+      "title": "Bilinear correlations in Fluctuating Gaussian States with anti-unitary symmetries",
+      "link": "https://arxiv.org/abs/2609.01724",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01724v1 Announce Type: new  Abstract: We study bilinear order-parameter correlations in a general class of sign problem-free systems that are described by what we call Fluctuating Gaussian States (FGS) with anti-unitary symmetries, where the weight of each Gaussian measurement in the spac…"
+    },
+    {
+      "title": "Non-Markovian interactions with pulses of quantum radiation",
+      "link": "https://arxiv.org/abs/2609.01726",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01726v1 Announce Type: new  Abstract: The interaction of a traveling pulse of quantum light with a localized quantum system shows non-Markovian features when scattering takes place in a structured environment. Here, we devise a non-Markovian input-output theory by coherently coupling the…"
+    },
+    {
+      "title": "Reliable Sample-Level Quantum Error Mitigation via Dominance-Aware Clustering",
+      "link": "https://arxiv.org/abs/2609.01744",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01744v1 Announce Type: new  Abstract: Many quantum algorithms for classically difficult optimization tasks must return high-quality bitstrings from finitely many circuit executions, whereas most quantum error-mitigation methods target expectation values. We study sample-level recovery whe…"
+    },
+    {
+      "title": "$\\mathcal{N}$-bein formalism for degenerate states in the parameter space of quantum geometry",
+      "link": "https://arxiv.org/abs/2609.01752",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01752v1 Announce Type: new  Abstract: Recently, we introduced a geometric object analogous to an orthonormal frame in the Cartan formalism to study the parameter space of quantum systems; we called it $\\mathcal{N}$-bein, with $\\mathcal{N}$ being the number of parameters that characterize…"
+    },
+    {
+      "title": "GadIR: A Spatial-Topology Preserving Compiler for Quantum Many-Body Systems Simulation",
+      "link": "https://arxiv.org/abs/2609.01771",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01771v1 Announce Type: new  Abstract: Simulating quantum many-body systems has been one of the most important applications of quantum computation. For simulation, the Hamiltonian of a physical system is compiled into quantum programs with native instructions for quantum hardware. In previ…"
+    },
+    {
+      "title": "Quantum Representation Learning Beyond Pairwise Fidelity",
+      "link": "https://arxiv.org/abs/2609.01797",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01797v1 Announce Type: new  Abstract: Quantum contrastive, metric, and self-supervised learning often expose encoded quantum states to the learner through transition probabilities, especially fidelity. Quantum states are known to possess higher-order relational invariants, but their conse…"
+    },
+    {
+      "title": "Bosonic quantum control with a weakly coupled fluxonium qubit",
+      "link": "https://arxiv.org/abs/2609.01817",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01817v1 Announce Type: new  Abstract: Echoed Conditional Displacement (ECD) gates constitute a fundamental building block for quantum control of harmonic oscillator modes. However, bit-flips of the auxiliary qubit remain a dominant error mechanism for this kind of bosonic control. In this…"
+    },
+    {
+      "title": "Error accumulation in dissipative quantum circuits",
+      "link": "https://arxiv.org/abs/2609.01848",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01848v1 Announce Type: new  Abstract: Present-day quantum processors are open systems in which dissipation and decoherence degrade the information carried by a quantum state as it propagates through a circuit. We study this degradation in dissipative random quantum circuits, modeling each…"
+    },
+    {
+      "title": "Gouy Phase across PT-Symmetry Breaking in Non-Hermitian Dirac Systems",
+      "link": "https://arxiv.org/abs/2609.01884",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01884v1 Announce Type: new  Abstract: We study relativistic beam-like wave packets governed by a quasi-Hermitian massive Dirac Hamiltonian and uncover anomalous Gouy-phase behavior in non-Hermitian dynamics. We show that the Gouy phase provides a sensitive probe of the global $\\mathcal{PT…"
+    },
+    {
+      "title": "Need One Bell-pair Only (NOBOL) for Low-Overhead Fault-Tolerant Quantum Computing",
+      "link": "https://arxiv.org/abs/2609.01901",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01901v1 Announce Type: new  Abstract: Fault-tolerant quantum computation fundamentally relies on encoding a logical qubit into a structured block of physical qubits, typically in the tens to hundreds. As a trade-off for improved fault-tolerance, logical gate operations will incur a linear…"
+    },
+    {
+      "title": "Quantum Circuit and Tensor Network Implementation of the 2D Acoustic Wave Equation",
+      "link": "https://arxiv.org/abs/2609.01904",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "arXiv:2609.01904v1 Announce Type: new  Abstract: We present a cohesive framework for simulating seismic wave propagation utilizing quantum computing paradigms and their classical tensor network equivalents.   We detail a quantum circuit-based formulation for the explicit finite-difference time-domai…"
+    },
+    {
+      "title": "New qubit architecture enables faster, more accurate operations",
+      "link": "https://news.mit.edu/2026/new-qubit-architecture-enables-faster-more-accurate-operations-0903",
+      "source": "MIT News — Quantum Computing",
+      "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788408000,
+      "summary": "This advance could be a big step toward developing a scalable, practical quantum computer."
+    },
     {
       "title": "Making superconductors thinner can change how they accommodate magnetic fields",
       "link": "https://phys.org/news/2026-08-superconductors-thinner-accommodate-magnetic-fields.html",
@@ -114,140 +250,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Ramboll has completed the specialized facilities that will house MAGNE, one of the world&#8217;s most powerful commercial quantum computers. The milestone enables QuNorth to begin installation of the system in Copenhagen. Ramboll delivered the building and technic…"
     },
     {
-      "title": "KACST and Imperial College London Partner on Quantum Brain Research",
-      "link": "https://thequantuminsider.com/2026/09/02/saudi-arabia-kacst-imperial-college-quantum-brain-research/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 02 Sep 2026 12:16:59 +0000",
-      "published_ts": 1788351419,
-      "summary": "Insider Brief Saudi Arabia&#8217;s King Abdulaziz City for Science and Technology (KACST) signed a research partnership with Imperial College London to advance quantum brain research, study quantum mechanical phenomena, and connect quantum science with engineering, neuroscience, and biochemistry, As…"
-    },
-    {
       "title": "Temperature emerges as a control for topological properties of materials",
       "link": "https://phys.org/news/2026-09-temperature-emerges-topological-properties-materials.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 02 Sep 2026 07:49:22 EDT",
       "published_ts": 1788349762,
       "summary": "Spin-orbit coupling (SOC), an interaction between an electron's spin and its motion, plays a key role in creating topological insulators—unusual materials that are insulating in their interior but can conduct electricity along their surfaces."
-    },
-    {
-      "title": "Isospectral potentials with Dirac delta interaction: Constrained Spectra",
-      "link": "https://arxiv.org/abs/2609.00056",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00056v1 Announce Type: new  Abstract: We study quantum potentials containing Dirac delta function (DDF) within its supersymmetric (isospectral) construction via a discontinuous superpotential, instead of being simply an added part. This construction comprises of two independently solvable…"
-    },
-    {
-      "title": "Encoding Compact U(1) Gauge Fields in Bosonic Modes with GKP Stabilization",
-      "link": "https://arxiv.org/abs/2609.00167",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00167v1 Announce Type: new  Abstract: Compact lattice gauge theories are formulated in terms of angular variables and integer electric fluxes, while bosonic quantum hardware provides oscillator modes with continuous, unbounded quadratures. We bridge this gap with a one-to-one encoding. Af…"
-    },
-    {
-      "title": "Entangling capability of coherently controlled quantum processes",
-      "link": "https://arxiv.org/abs/2609.00168",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00168v1 Announce Type: new  Abstract: We analytically characterize entanglement generation by two paradigmatic coherently controlled quantum processes, the quantum switch and time-flip. Retaining rather than measuring or discarding the control, we treat the control and target as the bipar…"
-    },
-    {
-      "title": "Exact learning of quantum noise with tensor networks",
-      "link": "https://arxiv.org/abs/2609.00169",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00169v1 Announce Type: new  Abstract: Accurate noise models are essential for high-performance quantum error correction, yet characterizing the noise of a quantum device typically requires dedicated experiments. We present a variational framework that learns the noise model directly from…"
-    },
-    {
-      "title": "Quantum Secret Sharing with a Helper and Programmable Access Structures",
-      "link": "https://arxiv.org/abs/2609.00220",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00220v1 Announce Type: new  Abstract: Quantum secret sharing (QSS) is a process in which the state of a quantum system is partitioned into multiple shares, allowing only specific subsets of shareholders to reconstruct the state, while others gain no information about its identity. In this…"
-    },
-    {
-      "title": "Codes for Quantum Secret Sharing with a Helper",
-      "link": "https://arxiv.org/abs/2609.00234",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00234v1 Announce Type: new  Abstract: Helper quantum secret sharing is a form of secret sharing defined by its unique access structure. One special fixed party, called the helper, can work together with any other party to fully decode the secret. A blind helper is one who can provide this…"
-    },
-    {
-      "title": "Optimization Landscape Geometry in VQE for Frustrated Quantum Spin Models",
-      "link": "https://arxiv.org/abs/2609.00235",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00235v1 Announce Type: new  Abstract: We benchmark eight classical optimizers for exact-statevector VQE calculations on a controlled hierarchy of frustrated spin models, ranging from a diagonal Ising glass to transverse-field Ising and anisotropic Heisenberg models. The benchmark includes…"
-    },
-    {
-      "title": "Which Otto Engine Is the Fastest?",
-      "link": "https://arxiv.org/abs/2609.00321",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00321v1 Announce Type: new  Abstract: A general thermal machine is characterized by distinct time or energy scales: temperature, coupling to the heat baths, internal free dynamics and interactions, and external driving. We address the question: what parameters determine the speed of a giv…"
-    },
-    {
-      "title": "Generation of multicomponent Schr\\\"odinger cat states in schemes with measurement of Gaussian states",
-      "link": "https://arxiv.org/abs/2609.00343",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00343v1 Announce Type: new  Abstract: In this work, we propose a scheme for generating superpositions of Fock states whose numbers differ by four or eight. The proposed protocol is based on photon-number-resolving measurements on multimode Gaussian states. We compare of the generated stat…"
-    },
-    {
-      "title": "Spatial correlations of photons interacting via transverse Rydberg blockade",
-      "link": "https://arxiv.org/abs/2609.00348",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00348v1 Announce Type: new  Abstract: We develop a theory of the transverse spatial dynamics of two interacting photons in a Rydberg nonlinear medium. Extending the well-studied one-dimensional case, we explore both longitudinal and transverse correlations of photons propagating as Rydber…"
-    },
-    {
-      "title": "Towards unsupervised representation learning for quantum data: quantum models with inference and generation",
-      "link": "https://arxiv.org/abs/2609.00372",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00372v1 Announce Type: new  Abstract: With quantum sensors, simulators and networks emerging, a future of quantum technology may produce quantum states as data---that is, coherently rather than as classical measurement records---thus motivating the study of suitable quantum generalisation…"
-    },
-    {
-      "title": "Fractal dimension predicts quantum kernel collapse in angle-encoded data",
-      "link": "https://arxiv.org/abs/2609.00475",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00475v1 Announce Type: new  Abstract: Angle-encoded quantum kernels on tabular data collapse when the feature map is wider than the intrinsic dimension of the data. We propose the correlation fractal dimension D2 as an a priori qubit budget: encode D2 coordinates chosen by FD-ASE instead…"
-    },
-    {
-      "title": "Imaginarity witnessing enhancement via spectral norms of witnesses",
-      "link": "https://arxiv.org/abs/2609.00534",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00534v1 Announce Type: new  Abstract: Quantum imaginarity is an essential physical resource that underpins key functionalities of modern quantum technologies. We improve imaginarity witnessing via the prior knowledge of imaginarity-witness operators. To this end, we derive a rigorous uppe…"
-    },
-    {
-      "title": "Parametric amplification of continuous-variable entangled state for loss-tolerant quantum distributed sensing",
-      "link": "https://arxiv.org/abs/2609.00671",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00671v1 Announce Type: new  Abstract: Quantum metrology exploits quantum states to achieve an estimation sensitivity beyond classical limits. In the continuous-variable (CV) regime, the squeezed state has been used to implement deterministic quantum sensing, but the quantum metrology sens…"
-    },
-    {
-      "title": "The Fermionic Cohomology Problem on the Full Fock Space Is $\\mathrm{QMA}_1$-Complete",
-      "link": "https://arxiv.org/abs/2609.00694",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788321600,
-      "summary": "arXiv:2609.00694v1 Announce Type: new  Abstract: Fermionic cohomology characterizes the zero-energy states of the supersymmetric Hamiltonian associated with a fermionic differential. Previous work showed that the problem restricted to a particle-number sector specified with the input is $\\mathrm{QMA…"
     },
     {
       "title": "Ten-channel photonic interface links neutral-atom qubits in parallel",
@@ -552,14 +560,6 @@
       "published": "Wed, 13 May 2026 11:00:00 -0400",
       "published_ts": 1778684400,
       "summary": "A new method for precisely moving columns of individual atoms within a material could give rise to exotic quantum properties."
-    },
-    {
-      "title": "Improving the reliability of circuits for quantum computers",
-      "link": "https://news.mit.edu/2026/improving-circuit-reliability-quantum-computers-0512",
-      "source": "MIT News — Quantum Computing",
-      "published": "Tue, 12 May 2026 05:00:00 -0400",
-      "published_ts": 1778576400,
-      "summary": "A new technique helps scientists measure a phenomenon that can cause quantum circuits to perform differently than expected, increasing the error in computations."
     }
   ]
 }
