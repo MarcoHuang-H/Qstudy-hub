@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1788517597,
+  "generated_ts": 1788536368,
   "items": [
+    {
+      "title": "QuFi Launches Post-Quantum Verification Platform for Digital Assets",
+      "link": "https://thequantuminsider.com/2026/09/04/qufi-post-quantum-verification-platform-digital-assets/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 04 Sep 2026 13:54:09 +0000",
+      "published_ts": 1788530049,
+      "summary": "Insider Brief PRESS RELEASE &#8212; As the digital asset industry transitions toward post-quantum security, blockchain networks face an emerging infrastructure challenge. Depending on the cryptographic scheme and implementation, post-quantum signatures can be more than 100 times larger than the elli…"
+    },
+    {
+      "title": "MIT turns bacteria into living transistors",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Fri, 04 Sep 2026 07:52:39 EDT",
+      "published_ts": 1788522759,
+      "summary": "MIT researchers have created bacterial “transistors” that can be wired together into living circuits capable of performing calculations and directing chemical signals. One day, these biological computers could coat plant roots or leaves, detecting environmental threats and automatically triggering d…"
+    },
+    {
+      "title": "RIKEN Adopts QunaSys QURI SDK for Quantum-HPC Hybrid Computing",
+      "link": "https://thequantuminsider.com/2026/09/04/riken-qunasys-software-jhpc-quantum-project/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 04 Sep 2026 10:22:53 +0000",
+      "published_ts": 1788517373,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QunaSys Inc. (headquartered in Bunkyo-ku, Tokyo; Representative Director and CEO: Tennin Yan; hereinafter “QunaSys”), a company specializing in the development of quantum computing algorithms and software, announced that its quantum software development kit “QURI…"
+    },
     {
       "title": "MIT Qubit Design Could Speed Quantum Operations While Preserving Data",
       "link": "https://thequantuminsider.com/2026/09/04/mit-qubit-design-could-speed-quantum-operations-while-preserving-data/",
@@ -216,22 +240,6 @@
       "published": "Thu, 03 Sep 2026 14:09:00 +0000",
       "published_ts": 1788444540,
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computers have arisen as a possible solution for highly complex mathematical problems, offering ​“quantum advantage” over classical computers in certain cases. The Quantum Approximate Optimization Algorithm (QAOA) is a leading candidate for realizing this…"
-    },
-    {
-      "title": "SEALSQ and wolfSSL Add wolfTPM Support for QVault Post-Quantum TPM",
-      "link": "https://thequantuminsider.com/2026/09/03/sealsq-announces-wolftpm-support-post-quantum-tpm-technology/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 03 Sep 2026 13:45:26 +0000",
-      "published_ts": 1788443126,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, and wolfSSL Inc., a recognized leader in embedded cryptogr…"
-    },
-    {
-      "title": "Quobly and Orange Quantum Systems Partner on Silicon Spin Qubit Testing",
-      "link": "https://thequantuminsider.com/2026/09/03/quobly-orange-quantum-systems-silicon-spin-qubit-testing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 03 Sep 2026 13:38:46 +0000",
-      "published_ts": 1788442726,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quobly, a French quantum computing company developing silicon spin qubit processors for industrial-scale deployment, and Orange Quantum Systems (OrangeQS), a company based in Delft specializing in automated diagnostics and high-throughput test systems for solid-st…"
     },
     {
       "title": "Quantum control algorithm looks to explain how birds migrate",
@@ -544,14 +552,6 @@
       "published": "Mon, 18 May 2026 20:23:26 EDT",
       "published_ts": 1779150206,
       "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy. The breakthrough may help replace some electronic computing processes with ultra-efficient light-based technology."
-    },
-    {
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Fri, 15 May 2026 04:13:15 EDT",
-      "published_ts": 1778832795,
-      "summary": "NASA is testing a next-generation space computer chip that could give spacecraft the ability to operate far more independently in deep space. The radiation-hardened processor is showing performance levels hundreds of times beyond current spaceflight computers while surviving punishing tests designed…"
     },
     {
       "title": "Researchers “reprogram” materials by quickly rearranging their atoms",
