@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1788536368,
+  "generated_ts": 1788552669,
   "items": [
+    {
+      "title": "Europe Looks to Quantum Act to Turn Research Strength Into Industry",
+      "link": "https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 04 Sep 2026 17:59:10 +0000",
+      "published_ts": 1788544750,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Europe’s quantum community gathered yesterday at the European Parliament for “Europe’s Quantum Moment: From Lab to Leadership”, an event hosted by MEP Dr. Sergey Lagodinskythat brought together representatives from the European Commission, European Council and Eur…"
+    },
+    {
+      "title": "Quantum Computing Challenges Holding Back Practical Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/09/04/main-challenges-facing-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 04 Sep 2026 15:05:17 +0000",
+      "published_ts": 1788534317,
+      "summary": "Insider Brief Quantum computing has attracted billions in investment, sustained media attention, and some of the most concentrated scientific talent on a single engineering problem. Progress has been significant, but the results so far have yet to match the scale of investment and research behind th…"
+    },
     {
       "title": "QuFi Launches Post-Quantum Verification Platform for Digital Assets",
       "link": "https://thequantuminsider.com/2026/09/04/qufi-post-quantum-verification-platform-digital-assets/",
@@ -218,28 +234,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Motion, the leader in silicon spin-based quantum computing, today announced the second close of its series C funding round to accelerate the scale-up of its fault-tolerant quantum hardware. This second close of the series C round led by DCVC and Kembara co…"
     },
     {
-      "title": "Andhra University Plans Centres of Excellence for Quantum, AI and Semiconductors",
-      "link": "https://thequantuminsider.com/2026/09/03/andhra-university-quantum-ai-semiconductor-research-centres/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 03 Sep 2026 14:39:15 +0000",
-      "published_ts": 1788446355,
-      "summary": "Insider Brief Andhra University intends to set up Centres of Excellence covering quantum technology, AI systems, and semiconductors, Vice-Chancellor G.P. Raja Sekhar said Tuesday, The Hindu reported. Raja Sekhar made the announcement while opening a three-day international conference on Quantum-Enha…"
-    },
-    {
       "title": "Dual-purpose qubit design could speed operations while cutting quantum errors",
       "link": "https://phys.org/news/2026-09-dual-purpose-qubit-quantum-errors.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 03 Sep 2026 10:20:04 EDT",
       "published_ts": 1788445204,
       "summary": "Researchers from MIT have designed a new qubit architecture that enables qubits to interact with each other much more quickly while remaining very stable. This advance could someday help scientists build practical quantum computers that can run long, complex algorithms with high accuracy."
-    },
-    {
-      "title": "Argonne and JPMorganChase Develop New Method to Study QAOA at Scale",
-      "link": "https://thequantuminsider.com/2026/09/03/argonne-jpmorganchase-method-study-qaoa-at-scale/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 03 Sep 2026 14:09:00 +0000",
-      "published_ts": 1788444540,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computers have arisen as a possible solution for highly complex mathematical problems, offering ​“quantum advantage” over classical computers in certain cases. The Quantum Approximate Optimization Algorithm (QAOA) is a leading candidate for realizing this…"
     },
     {
       "title": "Quantum control algorithm looks to explain how birds migrate",
