@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1788575921,
+  "generated_ts": 1788601963,
   "items": [
+    {
+      "title": "Brian Gaucher (ERVA): Why engineering, not physics, now limits quantum progress",
+      "link": "https://thequantuminsider.com/2026/09/05/brian-gaucher-erva-why-engineering-not-physics-now-limits-quantum-progress/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 05 Sep 2026 07:00:00 +0000",
+      "published_ts": 1788591600,
+      "summary": "Yuval Boger interviews Brian Gaucher, an experienced engineer and IBM veteran who co-chaired ERVA’s report Engineering Research to Advance Quantum Technologies. Brian explains that while U.S. quantum science remains strong, global competition is accelerating and the key limiter is no longer physics…"
+    },
     {
       "title": "Magic-angle graphene provides evidence for unconventional superconductivity",
       "link": "https://phys.org/news/2026-09-magic-angle-graphene-evidence-unconventional.html",
@@ -82,126 +90,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Today, Quantum Foundry Copenhagen and the Novo Nordisk Foundation announce plans to establish a new 5,300 m² quantum chip fabrication facility in Copenhagen. The facility will develop and scale the advanced manufacturing equipment needed to produce the next genera…"
     },
     {
-      "title": "Computing with qLDPC Codes by Climbing the Chain Map Hierarchy",
-      "link": "https://arxiv.org/abs/2609.02999",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.02999v1 Announce Type: new  Abstract: We develop a framework for logical computation with qLDPC codes that places logical Pauli, Clifford, and non-Clifford operations on the same footing. This brings the simple homological description of Pauli logicals to the patchwork landscape of logica…"
-    },
-    {
-      "title": "Shuttling-aware dynamical decoupling for quantum charge-coupled devices",
-      "link": "https://arxiv.org/abs/2609.03014",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03014v1 Announce Type: new  Abstract: Dynamical decoupling (DD) helps maintain high-fidelity quantum computations by suppressing dephasing noise through carefully timed refocusing pulses. In quantum charge-coupled device (QCCD) architectures, however, where ions are shuttled throughout th…"
-    },
-    {
-      "title": "Quantum low-density lattice codes",
-      "link": "https://arxiv.org/abs/2609.03021",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03021v1 Announce Type: new  Abstract: Gottesman-Kitaev-Preskill (GKP) codes provide a family of promising schemes for encoding discrete quantum information (qudits) into infinite-dimensional bosonic modes based on mathematical lattices. While such codes, when concatenated with discrete-va…"
-    },
-    {
-      "title": "Approximate cubic phase states in a trapped ion",
-      "link": "https://arxiv.org/abs/2609.03032",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03032v1 Announce Type: new  Abstract: Universal quantum computation with continuous variables cannot be attained solely with a set of Gaussian operations, it requires the addition of a non-Gaussian element, at least of third order in the quadrature operators, such as the cubic phase state…"
-    },
-    {
-      "title": "Nanoscale magnetometry via collective many-body dynamics in diamond",
-      "link": "https://arxiv.org/abs/2609.03039",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03039v1 Announce Type: new  Abstract: Many-body dynamics constitutes a promising approach for creating correlations between quantum particles which can be used for applications in sensing and metrology. However, utilizing this potential for substantial gains in practical settings is a cha…"
-    },
-    {
-      "title": "Stabilization of dark states in emitter arrays coupled to a half-waveguide",
-      "link": "https://arxiv.org/abs/2609.03040",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03040v1 Announce Type: new  Abstract: The radiative properties of quantum emitters are profoundly influenced by their electromagnetic environment. When coupled to a waveguide terminated at one end by a mirror, distant emitters interact strongly via virtual photon exchange, leading to coll…"
-    },
-    {
-      "title": "Robust Hamiltonian engineering with subensemble control",
-      "link": "https://arxiv.org/abs/2609.03045",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03045v1 Announce Type: new  Abstract: We present a robust protocol to reshape interactions in a spin ensemble based on global control pulse sequences applied to multiple subensembles in parallel. This setting arises naturally from ensembles of solid-state defects or multi-species atomic a…"
-    },
-    {
-      "title": "Resource-adaptive distributed fault tolerance with very noisy Bell pairs",
-      "link": "https://arxiv.org/abs/2609.03048",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03048v1 Announce Type: new  Abstract: Distributed architectures have been proposed as a pathway to large-scale quantum computers. Combined with the need for fault-tolerance, such architectures require distributed quantum error correction (DQEC) and distributed logical gates. An important…"
-    },
-    {
-      "title": "Multi-Boundary Many-Body Quantum Teleportation",
-      "link": "https://arxiv.org/abs/2609.03053",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03053v1 Announce Type: new  Abstract: Unlike standard quantum teleportation, many-body teleportation uses scrambling to transmit quantum information. In this protocol, initially localized information spreads over many degrees of freedom and is later refocused at the receiver by a simple c…"
-    },
-    {
-      "title": "Distinctness threshold for pseudorandom unitaries",
-      "link": "https://arxiv.org/abs/2609.03065",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03065v1 Announce Type: new  Abstract: Pseudorandomness is increasingly recognized as a key property of ensembles in quantum information theory, statistical mechanics, and quantum many-body physics. Yet it appears in two conceptually different forms: statistical pseudorandomness, embodied…"
-    },
-    {
-      "title": "Optimized Matrix-Product State Simulations of Quantum Error Correction Circuits",
-      "link": "https://arxiv.org/abs/2609.03073",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03073v1 Announce Type: new  Abstract: Simulating quantum error correction (QEC) circuits including non-Clifford gates at scale is important to accelerate progress toward fault-tolerant quantum computing. Here we demonstrate that matrix product state (MPS) techniques can handle many QEC ci…"
-    },
-    {
-      "title": "Non-Kolmogorov-Arnold-Moser Quantum Sensors for Quantum Parameter Estimation",
-      "link": "https://arxiv.org/abs/2609.03092",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03092v1 Announce Type: new  Abstract: Non-KAM (Kolmogorov-Arnold-Moser) systems, when subjected to weak time-dependent perturbations, exhibit an abrupt transition to classical chaos through the breakdown of invariant phase-space tori. We showcase the utilization of non-KAM systems in the…"
-    },
-    {
-      "title": "Optimal control theory for measured quantum Schr\\\"odinger bridges",
-      "link": "https://arxiv.org/abs/2609.03097",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03097v1 Announce Type: new  Abstract: Schr\\\"odinger bridges and entropic optimal transport are usually formulated as stochastic interpolation problems between initial and final probability distributions. In their computational form, the bridge potentials are obtained by Sinkhorn or iterat…"
-    },
-    {
-      "title": "Experimental validation of a compact fault-tolerant architecture for trapped ions",
-      "link": "https://arxiv.org/abs/2609.03194",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03194v1 Announce Type: new  Abstract: Quantum error correction (QEC) is beginning to enable logical operations that outperform their unencoded physical counterparts, but useful fault-tolerant computation will require more than low-error quantum memory. An effective architecture must orche…"
-    },
-    {
-      "title": "Discretization-Aware Fine-Tuning for Quantum Machine Learning with Chemical Foundation Models",
-      "link": "https://arxiv.org/abs/2609.03220",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788494400,
-      "summary": "arXiv:2609.03220v1 Announce Type: new  Abstract: A key challenge in practical quantum machine learning (QML), particularly for discriminative tasks such as classification, is the limited capacity of near-term quantum devices to encode high-dimensional classical data into small quantum registers. In…"
-    },
-    {
       "title": "BESIII sets world's most stringent direct limit on Lambda hyperon electric dipole moment",
       "link": "https://phys.org/news/2026-09-besiii-world-stringent-limit-lambda.html",
       "source": "Phys.org — Quantum Physics",
@@ -232,14 +120,6 @@
       "published": "Thu, 03 Sep 2026 16:03:50 +0000",
       "published_ts": 1788451430,
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum, a leading quantum computing company, today announced the signing of a non-binding MOU with Aramco, one of the world&#8217;s leading integrated energy and chemicals companies, to explore a series of industrial use cases, enhance quantum computing capabi…"
-    },
-    {
-      "title": "Quantum Motion Raises Additional Funding for Silicon Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/09/03/quantum-motion-additional-funding-silicon-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 03 Sep 2026 15:45:23 +0000",
-      "published_ts": 1788450323,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Motion, the leader in silicon spin-based quantum computing, today announced the second close of its series C funding round to accelerate the scale-up of its fault-tolerant quantum hardware. This second close of the series C round led by DCVC and Kembara co…"
     },
     {
       "title": "Dual-purpose qubit design could speed operations while cutting quantum errors",
