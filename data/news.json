@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1788552669,
+  "generated_ts": 1788575921,
   "items": [
+    {
+      "title": "Magic-angle graphene provides evidence for unconventional superconductivity",
+      "link": "https://phys.org/news/2026-09-magic-angle-graphene-evidence-unconventional.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 04 Sep 2026 17:20:03 EDT",
+      "published_ts": 1788556803,
+      "summary": "Researchers have completely suppressed superconductivity in magic-angle graphene by screening interactions between electrons, helping resolve a long-running debate about the origin of the phenomenon."
+    },
     {
       "title": "Europe Looks to Quantum Act to Turn Research Strength Into Industry",
       "link": "https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/",
@@ -360,14 +368,6 @@
       "published": "Sun, 30 Aug 2026 09:00:02 EDT",
       "published_ts": 1788094802,
       "summary": "Quantum technologies promise secure communication networks, powerful forms of computing and new sensing tools. One of the major challenges, however, is that different quantum systems often operate at different wavelengths of light. Quantum memories, trapped ions and other quantum devices may work be…"
-    },
-    {
-      "title": "First observation of optical Magnus effect could sharpen quantum computer control",
-      "link": "https://phys.org/news/2026-08-optical-magnus-effect-sharpen-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 27 Aug 2026 11:20:04 EDT",
-      "published_ts": 1787844004,
-      "summary": "Table tennis professionals are true masters at redirecting fast-moving projectiles. Putting a targeted spin on a serve can make the little white ball fly straight toward the edge of the table but then, at the last moment, take a sharp curve into the left corner. The physical phenomenon behind this s…"
     },
     {
       "title": "Securing wireless communication in next-generation devices",
