@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1788706159,
+  "generated_ts": 1788724483,
   "items": [
+    {
+      "title": "NEC Halts Development of Quantum Computer Hardware",
+      "link": "https://thequantuminsider.com/2026/09/06/nec-halts-development-of-quantum-computer-hardware/",
+      "source": "The Quantum Insider",
+      "published": "Sun, 06 Sep 2026 18:34:34 +0000",
+      "published_ts": 1788719674,
+      "summary": "Insider Brief NEC has ended its effort to build a working quantum computer, pulling back from a field that the company helped pioneer. The company discontinued development of a physical quantum computing system at the end of March, Nikkei Asia reported. NEC apparently concluded that bringing the tec…"
+    },
     {
       "title": "Brian Gaucher (ERVA): Why engineering, not physics, now limits quantum progress",
       "link": "https://thequantuminsider.com/2026/09/05/brian-gaucher-erva-why-engineering-not-physics-now-limits-quantum-progress/",
@@ -112,14 +120,6 @@
       "published": "Thu, 03 Sep 2026 12:20:06 EDT",
       "published_ts": 1788452406,
       "summary": "Research means asking questions of the universe. For centuries, clever minds have advanced science by devising ingenious experiments designed so their results reveal something about the laws of nature as clearly and unambiguously as possible."
-    },
-    {
-      "title": "Quantinuum and Aramco Sign MOU to Explore Industrial Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/09/03/quantinuum-aramco-mou-industrial-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 03 Sep 2026 16:03:50 +0000",
-      "published_ts": 1788451430,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum, a leading quantum computing company, today announced the signing of a non-binding MOU with Aramco, one of the world&#8217;s leading integrated energy and chemicals companies, to explore a series of industrial use cases, enhance quantum computing capabi…"
     },
     {
       "title": "Dual-purpose qubit design could speed operations while cutting quantum errors",
