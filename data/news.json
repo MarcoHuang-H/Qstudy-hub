@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1788800828,
+  "generated_ts": 1788814936,
   "items": [
+    {
+      "title": "Entangled particles revive a 35-year-old test of the Standard Model",
+      "link": "https://phys.org/news/2026-09-entangled-particles-revive-year-standard.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 07 Sep 2026 13:40:10 EDT",
+      "published_ts": 1788802810,
+      "summary": "Physicists at the BESIII Collaboration have breathed new life into a decades-old test of one of the Standard Model's most important ideas, using a technique that had gone almost untouched by experimenters for 35 years."
+    },
     {
       "title": "India’s Global Fintech Fest 2026 to Highlight Quantum Technology, AI and Tokenization",
       "link": "https://thequantuminsider.com/2026/09/07/global-fintech-fest-2026-quantum-technology-ai-mumbai/",
@@ -352,14 +360,6 @@
       "published": "Mon, 31 Aug 2026 09:08:37 EDT",
       "published_ts": 1788181717,
       "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a “quantum bath,” a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangle…"
-    },
-    {
-      "title": "Physicists finally put Feynman's path integral to the test",
-      "link": "https://phys.org/news/2026-08-physicists-feynman-path.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 31 Aug 2026 08:00:02 EDT",
-      "published_ts": 1788177602,
-      "summary": "For nearly 80 years, physicists have relied on a thought experiment created by Richard Feynman to predict how quantum particles behave. For the first time, researchers in China have tested this trick directly in the lab."
     },
     {
       "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
