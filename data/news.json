@@ -1,6 +1,150 @@
 {
-  "generated_ts": 1788748427,
+  "generated_ts": 1788780315,
   "items": [
+    {
+      "title": "Three quantum phases in chromium-based material hint at a spin-triplet superconductor",
+      "link": "https://phys.org/news/2026-09-quantum-phases-chromium-based-material.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 07 Sep 2026 07:00:01 EDT",
+      "published_ts": 1788778801,
+      "summary": "Superconductors are materials that conduct electricity without electrical resistance when cooled below a specific critical temperature. These materials have proved promising for the development of various technologies, including medical imaging instruments, particle accelerators, ultrasensitive dete…"
+    },
+    {
+      "title": "Guest Post: QML4Africa Highlights Growth of Africa’s Quantum Research Community",
+      "link": "https://thequantuminsider.com/2026/09/07/qml4africa-quantum-researchers-lagos/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 07 Sep 2026 10:27:46 +0000",
+      "published_ts": 1788776866,
+      "summary": "Guest Post by Somtochukwu Igwegbe, African Quantum Consortium Correspondent, Research &#38; Development, Quantum Africa. Quantum computing hardware is being built almost entirely outside Africa, in laboratories across North America, Europe, and Asia. That fact has shaped how the continent is usually…"
+    },
+    {
+      "title": "Sparrow Quantum Sets Record With 500 Million Usable Photons Per Second",
+      "link": "https://thequantuminsider.com/2026/09/07/sparrow-quantum-sets-record-with-500-million-usable-photons-per-second/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 07 Sep 2026 07:21:59 +0000",
+      "published_ts": 1788765719,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computers are being built in several ways: superconducting circuits, trapped ions, neutral atoms, semiconductor spins and photonics. Photonic quantum systems have one fundamental advantage: their information carriers can travel through optical fibre, makin…"
+    },
+    {
+      "title": "Strong-Drive Floquet Engineering of Interacting Qudits: From Finite-Duration Controls to Emergent Symmetry",
+      "link": "https://arxiv.org/abs/2609.04309",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04309v1 Announce Type: new  Abstract: Floquet driving uses periodic controls to tailor the behavior of quantum systems, with applications in quantum analogue simulation, sensing, and the protection of quantum information. Most approaches are designed using idealized, instantaneous pulses,…"
+    },
+    {
+      "title": "Reply to the Comment on \"The Axiom of Choice and the No-Signalling Principle\"",
+      "link": "https://arxiv.org/abs/2609.04321",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04321v1 Announce Type: new  Abstract: We clarify the meaning of a probabilistic no-signalling strategy in Ref [Proc. R. Soc. A 481, 20240601]. For every fixed input, the deterministic strategy constructed using the Axiom of Choice can indeed be represented by a Dirac probability distribut…"
+    },
+    {
+      "title": "p-Adic Dirac Equations, Continuous-Time Quantum Walks, and Quantum Networks",
+      "link": "https://arxiv.org/abs/2609.04358",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04358v1 Announce Type: new  Abstract: We introduce a new class of p-adic Dirac equations, formulated in the standard axiomatic framework of quantum mechanics, in which the ordinary spatial derivatives are replaced by non-local operators built from arbitrary integrable kernels. We diagonal…"
+    },
+    {
+      "title": "Phase Independent Measurement of Weak Coherent Optical Signals",
+      "link": "https://arxiv.org/abs/2609.04363",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04363v1 Announce Type: new  Abstract: We develop a quantum sensing framework for the phase independent detection of weak coherent optical displacements based on SU(1,1) interferometry. Unlike conventional quantum measurement protocols that require prior knowledge of the signal phase and c…"
+    },
+    {
+      "title": "Three-Photon and Hybrid Coherent-Fock Interference in a Two-Phase Six-Port Mach-Zehnder Interferometer",
+      "link": "https://arxiv.org/abs/2609.04368",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04368v1 Announce Type: new  Abstract: We present a unified theoretical analysis of three-photon quantum interference in a Six-Port Mach-Zehnder Interferometer (6p-MZI) constructed from two cascaded tritters, with two independent phase modulators placed between the tritter arms. We analyti…"
+    },
+    {
+      "title": "Toward Resilient Many-Body Formulations under Incomplete Correlation Models: A Dual-Space Variational Formulation",
+      "link": "https://arxiv.org/abs/2609.04387",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04387v1 Announce Type: new  Abstract: Quantum simulations of correlated many-body systems will inevitably operate with imperfect information: the prepared states may arise from incomplete or approximate ansatze, while their measured Hamiltonian and overlap matrix elements are additionally…"
+    },
+    {
+      "title": "Thermal lifetime of the centralized repetition code: From quantum annealing to social dynamics",
+      "link": "https://arxiv.org/abs/2609.04408",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04408v1 Announce Type: new  Abstract: There is an extensive body of research probing the potential of adiabatic quantum computation and quantum annealing to solve hard computational problems. This research endeavor is complicated by noise afflicting hardware during the computational proce…"
+    },
+    {
+      "title": "Proof-of-principle long-distance Sagnac twin-field quantum key distribution network",
+      "link": "https://arxiv.org/abs/2609.04447",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04447v1 Announce Type: new  Abstract: Twin-field (TF) quantum key distribution (QKD) offers a promising approach to long-distance QKD networks due to its superior performance over large channel losses. Due to specialized hardware requirements, nearly all long-distance TFQKD demonstrations…"
+    },
+    {
+      "title": "Towards minimal conditions for ergotropy injection in open quantum systems",
+      "link": "https://arxiv.org/abs/2609.04457",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04457v1 Announce Type: new  Abstract: Interactions between a quantum system and its environment can inject ergotropy into the system, raising the question of the minimal dimensionality and physical resources required for such injection. We first show that ergotropy injection is impossible…"
+    },
+    {
+      "title": "Efficient Quantum Error Correction from Three Dimensional Qubit Control",
+      "link": "https://arxiv.org/abs/2609.04459",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04459v1 Announce Type: new  Abstract: High-rate quantum low-density parity-check (qLDPC) codes can substantially reduce qubit overhead relative to surface codes, but their advantage depends on efficiently realizing nonlocal syndrome extraction. We study the \\([[144,12,12]]\\) bivariate bic…"
+    },
+    {
+      "title": "A Representation-Theoretic Framework for Characterizing Barren Plateaus",
+      "link": "https://arxiv.org/abs/2609.04462",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04462v1 Announce Type: new  Abstract: The scalability of variational quantum algorithms is fundamentally limited by the barren plateau effect, where the cost-function variance vanishes with system size, rendering optimization impractical. Recent Lie-algebraic approaches for deep parameter…"
+    },
+    {
+      "title": "Gradient-based optimal control of the non-Hermitian skin effect in optomechanical arrays",
+      "link": "https://arxiv.org/abs/2609.04492",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04492v1 Announce Type: new  Abstract: In single-port non-Hermitian sensors the Petermann factor offsets susceptibility gains, imposing a strict resource bound on metrological precision. We test whether a multi-port geometry can evade this bound: a double-chain optomechanical ladder with o…"
+    },
+    {
+      "title": "One-Shot and Concurrent Hitting Times for Grover-Coined Quantum Walks on Cubelike Graphs",
+      "link": "https://arxiv.org/abs/2609.04503",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04503v1 Announce Type: new  Abstract: We study the one-shot and concurrent hitting for the discrete-time Grover-coined quantum walk on cubelike graphs $G=\\text{Cay}(\\mathbb Z_2^d,\\Omega)$ of degree $\\Delta=|\\Omega|$. Starting from the vertex labeled $0$, we identify $\\sigma=\\bigoplus_{\\om…"
+    },
+    {
+      "title": "State-Based Quantum Operations: Chameleon Gates",
+      "link": "https://arxiv.org/abs/2609.04506",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04506v1 Announce Type: new  Abstract: We introduce chameleon gates as a natural generalization of conventional quantum controlled-gates. Chameleon gates are state-based quantum controlled-operations that retain standard elements such as control and target systems, while introducing a new…"
+    },
+    {
+      "title": "DPRQ: A Dynamic Programming-based Qubit Routing Algorithm for Collective Communication in Distributed Quantum Computing",
+      "link": "https://arxiv.org/abs/2609.04524",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "published_ts": 1788753600,
+      "summary": "arXiv:2609.04524v1 Announce Type: new  Abstract: Distributed quantum computing (DQC) offers a promising approach to scale quantum computing by overcoming the resource limitations of a single quantum processor. However, inter-node communication remains a major bottleneck of DQC due to inefficient and…"
+    },
     {
       "title": "NEC Halts Development of Quantum Computer Hardware",
       "link": "https://thequantuminsider.com/2026/09/06/nec-halts-development-of-quantum-computer-hardware/",
@@ -80,22 +224,6 @@
       "published": "Fri, 04 Sep 2026 07:49:31 +0000",
       "published_ts": 1788508171,
       "summary": "Insider Brief Germany’s Forschungszentrum Jülich has inaugurated a quantum computer intended to help researchers and companies test how quantum processors can work alongside conventional supercomputers. The system, called JION, is operational at the Jülich Supercomputing Centre, according to the res…"
-    },
-    {
-      "title": "Scientek and Classiq Partner to Accelerate Quantum Software Adoption in Taiwan",
-      "link": "https://thequantuminsider.com/2026/09/04/scientek-classiq-quantum-software-access-taiwan/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 04 Sep 2026 07:00:00 +0000",
-      "published_ts": 1788505200,
-      "summary": "Insider Brief PRESS RELEASE &#8211; Scientek Corporation (科榮股份有限公司)&#160;and&#160;Classiq, the leading quantum computing software company, today announced a go-to-market agreement to expand access to Classiq’s&#160;hardware-agnostic quantum software platform&#160;across Taiwan’s semiconductor, resea…"
-    },
-    {
-      "title": "Quantum Foundry Copenhagen Plans 5,300-Square-Meter Chip Facility",
-      "link": "https://thequantuminsider.com/2026/09/04/new-copenhagen-facility-to-strengthen-europes-quantum-manufacturing-capabilities/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 04 Sep 2026 05:05:00 +0000",
-      "published_ts": 1788498300,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Today, Quantum Foundry Copenhagen and the Novo Nordisk Foundation announce plans to establish a new 5,300 m² quantum chip fabrication facility in Copenhagen. The facility will develop and scale the advanced manufacturing equipment needed to produce the next genera…"
     },
     {
       "title": "BESIII sets world's most stringent direct limit on Lambda hyperon electric dipole moment",
@@ -240,14 +368,6 @@
       "published": "Sun, 30 Aug 2026 10:08:13 EDT",
       "published_ts": 1788098893,
       "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was r…"
-    },
-    {
-      "title": "Hollow-core fiber platform could help different quantum technologies connect",
-      "link": "https://phys.org/news/2026-08-hollow-core-fiber-platform-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sun, 30 Aug 2026 09:00:02 EDT",
-      "published_ts": 1788094802,
-      "summary": "Quantum technologies promise secure communication networks, powerful forms of computing and new sensing tools. One of the major challenges, however, is that different quantum systems often operate at different wavelengths of light. Quantum memories, trapped ions and other quantum devices may work be…"
     },
     {
       "title": "Securing wireless communication in next-generation devices",
