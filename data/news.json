@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1788780315,
+  "generated_ts": 1788800828,
   "items": [
+    {
+      "title": "India’s Global Fintech Fest 2026 to Highlight Quantum Technology, AI and Tokenization",
+      "link": "https://thequantuminsider.com/2026/09/07/global-fintech-fest-2026-quantum-technology-ai-mumbai/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 07 Sep 2026 16:53:19 +0000",
+      "published_ts": 1788799999,
+      "summary": "Insider Brief Prime Minister Narendra Modi is set to open the seventh Global Fintech Fest (GFF) in Mumbai on Tuesday, kicking off a four-day programme running September 8 through 11 that brings together regulators, financial institutions, technology firms, investors, and academics, the Free Press Jo…"
+    },
     {
       "title": "Three quantum phases in chromium-based material hint at a spin-triplet superconductor",
       "link": "https://phys.org/news/2026-09-quantum-phases-chromium-based-material.html",
@@ -216,14 +224,6 @@
       "published": "Fri, 04 Sep 2026 08:21:29 +0000",
       "published_ts": 1788510089,
       "summary": "Insider Brief MIT researchers have designed a quantum computing component that simulations suggest could perform faster operations while preserving stored information. It&#8217;s an advance that potentially could help future machines complete longer, more reliable calculations, according to the rese…"
-    },
-    {
-      "title": "Jülich Launches Trapped-Ion Quantum Computer For Supercomputing Integration",
-      "link": "https://thequantuminsider.com/2026/09/04/julich-launches-trapped-ion-quantum-computer-for-supercomputing-integration/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 04 Sep 2026 07:49:31 +0000",
-      "published_ts": 1788508171,
-      "summary": "Insider Brief Germany’s Forschungszentrum Jülich has inaugurated a quantum computer intended to help researchers and companies test how quantum processors can work alongside conventional supercomputers. The system, called JION, is operational at the Jülich Supercomputing Centre, according to the res…"
     },
     {
       "title": "BESIII sets world's most stringent direct limit on Lambda hyperon electric dipole moment",
