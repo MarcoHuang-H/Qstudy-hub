@@ -1,29 +1,109 @@
 {
-  "generated_ts": 1788863338,
+  "generated_ts": 1788882783,
   "items": [
     {
-      "title": "Singapore, Luxembourg Target Deeper Cooperation in Quantum, AI And Space",
-      "link": "https://thequantuminsider.com/2026/09/08/singapore-luxembourg-target-deeper-cooperation-in-quantum-ai-and-space/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 08 Sep 2026 07:59:16 +0000",
-      "published_ts": 1788854356,
-      "summary": "Insider Brief Singapore and Luxembourg plan to deepen cooperation in quantum computing, artificial intelligence, space technology and satellite communications as the two small, trade-dependent nations seek closer economic and strategic ties. Singapore Prime Minister Lawrence Wong identified the tech…"
+      "title": "A new game demonstrates quantum advantage with provable classical limits",
+      "link": "https://phys.org/news/2026-09-game-quantum-advantage-provable-classical.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 08 Sep 2026 10:50:01 EDT",
+      "published_ts": 1788879001,
+      "summary": "For decades, physicists have worked to prove the strange predictions of quantum mechanics with real experiments. As quantum computers have grown more powerful, researchers have devised increasingly sophisticated ways to test whether these machines are truly harnessing quantum effects—but every metho…"
     },
     {
-      "title": "Guest Post: How Tokenized Finance Can Prepare for Post-Quantum Security",
-      "link": "https://thequantuminsider.com/2026/09/08/quantum-ready-tokenized-finance-requirements/",
+      "title": "Quantum Startups Among 16 Finalists Selected for Constructor Start Demo Day",
+      "link": "https://thequantuminsider.com/2026/09/08/quantum-startups-among-16-finalists-selected-for-constructor-start-demo-day/",
       "source": "The Quantum Insider",
-      "published": "Tue, 08 Sep 2026 07:30:00 +0000",
-      "published_ts": 1788852600,
-      "summary": "Guest Post by Edwin Mata, Co-Founder and CEO of Brickken Building financial infrastructure is strange: you have to make decisions today for assets that may still exist long after the underlying technology has changed. That is especially true in tokenization because a bond issued on-chain today might…"
+      "published": "Tue, 08 Sep 2026 14:14:53 +0000",
+      "published_ts": 1788876893,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Sixteen finalists selected from more than 2,100 applications will present live at Constructor Start&#8216;s fourth Demo Day on September 21 in Bremen, Germany, where the program&#8217;s investment decisions are made and announced live on stage. Constructor Capital…"
     },
     {
-      "title": "Fujitsu develops diamond-spin quantum computer prototype",
-      "link": "https://thequantuminsider.com/2026/09/08/fujitsu-develops-diamond-spin-quantum-computer-prototype/",
+      "title": "Superfluid qubit could help scale up quantum computers",
+      "link": "https://phys.org/news/2026-09-superfluid-qubit-scale-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 08 Sep 2026 10:00:05 EDT",
+      "published_ts": 1788876005,
+      "summary": "Superfluid helium could offer a new way to tackle one of the biggest challenges in scaling up quantum computers, say researchers from the University of Surrey. The research team has introduced a conceptual design for a new type of qubit that could be much less vulnerable to errors."
+    },
+    {
+      "title": "A photon that challenges Einstein: According to current physics, it should never have reached Earth",
+      "link": "https://phys.org/news/2026-09-photon-einstein-current-physics-earth.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 08 Sep 2026 09:40:01 EDT",
+      "published_ts": 1788874801,
+      "summary": "How did a photon survive a journey of more than 2 billion light-years when, according to known physics, it should have been absorbed long before reaching Earth? This is the question at the heart of a new study by Giorgio Galanti (INAF) and Marco Roncadelli (INFN), accepted for publication in Physica…"
+    },
+    {
+      "title": "QUDORA Joins EuroHPC Quantum Grand Challenge With Near Field Quantum Control Project",
+      "link": "https://thequantuminsider.com/2026/09/08/qudora-selected-eu-quantum-grand-challenge-near-field-quantum-control/",
       "source": "The Quantum Insider",
-      "published": "Tue, 08 Sep 2026 07:23:37 +0000",
-      "published_ts": 1788852217,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Fujitsu today announced that it has developed the world’s first working prototype of a diamond-spin quantum computer incorporating tin-vacancy (SnV) centers into photonic integrated circuits [1] [2]. The prototype can be operated at -271.6°C, higher than the typic…"
+      "published": "Tue, 08 Sep 2026 13:37:10 +0000",
+      "published_ts": 1788874630,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QUDORA Technologies, the German full-stack quantum computing company, today announced that it has been selected under the EuroHPC Joint Undertaking&#8217;s (EuroHPC JU) Quantum Grand Challenge, an EU program designed to accelerate the development of market-ready,…"
+    },
+    {
+      "title": "Daniel Freedman Joins Quantum X Labs as Distinguished Quantum Scientist",
+      "link": "https://thequantuminsider.com/2026/09/08/daniel-freedman-joins-quantum-x-labs-distinguished-quantum-scientist/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 08 Sep 2026 13:29:03 +0000",
+      "published_ts": 1788874143,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X Labs” or the “Company”), today announced the appointment of Professor Daniel Freedman as Distinguished Quantum Scientist, effective immediately. Professor Freedman brings to Quantum X Labs a distinguished career spanni…"
+    },
+    {
+      "title": "IonQ Launches Superion 256 Quantum Computing Platform",
+      "link": "https://thequantuminsider.com/2026/09/08/ionq-launches-superion-256-quantum-computing-platform/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 08 Sep 2026 13:20:27 +0000",
+      "published_ts": 1788873627,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world&#8217;s leading full-stack quantum platform and foundry, today announced IonQ Superion 256, its sixth-generation quantum computing platform. This system is the first in the Superion platform that all future compute products are expecte…"
+    },
+    {
+      "title": "SkyWater and Qolab Partner on Superconducting Quantum Device Manufacturing",
+      "link": "https://thequantuminsider.com/2026/09/08/skywater-qolab-superconducting-quantum-device-manufacturing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 08 Sep 2026 13:14:22 +0000",
+      "published_ts": 1788873262,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SkyWater Technology and Qolab today announced a multi-year commercial collaboration. The agreement is designed to transition superconducting technology from custom development programs to repeatable wafer manufacturing. The engagement combines platform-based wafer…"
+    },
+    {
+      "title": "PsiQuantum Finalizes $100 Million Award with the U.S. Department of Commerce",
+      "link": "https://thequantuminsider.com/2026/09/08/psiquantum-finalizes-100m-us-government-award-quantum-computing-rd/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 08 Sep 2026 13:07:18 +0000",
+      "published_ts": 1788872838,
+      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum announced today that the company has signed definitive documentation with the U.S. Department of Commerce for a $100 million award to strengthen American leadership in quantum computing and semiconductor supply-chain security. In May 2026, the company a…"
+    },
+    {
+      "title": "NLM Photonics Adds New Investors to Scale Organic Photonics Technology",
+      "link": "https://thequantuminsider.com/2026/09/08/nlm-photonics-new-investors-organic-photonics/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 08 Sep 2026 13:05:00 +0000",
+      "published_ts": 1788872700,
+      "summary": "Insider Brief PRESS RELEASE &#8212; NLM Photonics, the leader in the development of organic electro-optic (OEO) technology based upon its Selerion™ family of materials, has added new financial and strategic investors to its cap table to accelerate commercialization of its organic photonic ecosystem.…"
+    },
+    {
+      "title": "IonQ and Congruity360 Sign $8.18M Quantum-Safe Network Agreement",
+      "link": "https://thequantuminsider.com/2026/09/08/ionq-congruity360-8-18m-quantum-safe-network-agreement/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 08 Sep 2026 13:01:41 +0000",
+      "published_ts": 1788872501,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, and Congruity360, a leading unstructured data management and governance provider, today announced an $8.18 million agreement. Under the collaboration, Congruity360 will broaden its ent…"
+    },
+    {
+      "title": "SkyWater Launches Quantum Semiconductor Manufacturing Business",
+      "link": "https://thequantuminsider.com/2026/09/08/skywater-launches-quantum-semiconductor-manufacturing-business/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 08 Sep 2026 12:52:45 +0000",
+      "published_ts": 1788871965,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SkyWater Technology announced the launch of SkyWater Quantum Solutions, a dedicated merchant supplier offering focused on semiconductor process development, integration, and manufacturing. This unique offering will provide semiconductor solutions for quantum-compu…"
+    },
+    {
+      "title": "IonQ Estimates 20,000-Qubit Machine Could Break Bitcoin’s secp256k1 in 26 Days",
+      "link": "https://thequantuminsider.com/2026/09/08/ionq-estimates-20000-qubit-machine-could-break-bitcoin-secp256k1-26-days/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 08 Sep 2026 12:45:17 +0000",
+      "published_ts": 1788871517,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today published the first complete, end-to-end fault-tolerant resource estimate for running Shor’s algorithm. The historic paper by IonQ’s research team uses the recently published Wal…"
     },
     {
       "title": "Entangled particles revive a 35-year-old test of the Standard Model",
@@ -34,14 +114,6 @@
       "summary": "Physicists at the BESIII Collaboration have breathed new life into a decades-old test of one of the Standard Model's most important ideas, using a technique that had gone almost untouched by experimenters for 35 years."
     },
     {
-      "title": "India’s Global Fintech Fest 2026 to Highlight Quantum Technology, AI and Tokenization",
-      "link": "https://thequantuminsider.com/2026/09/07/global-fintech-fest-2026-quantum-technology-ai-mumbai/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 07 Sep 2026 16:53:19 +0000",
-      "published_ts": 1788799999,
-      "summary": "Insider Brief Prime Minister Narendra Modi is set to open the seventh Global Fintech Fest (GFF) in Mumbai on Tuesday, kicking off a four-day programme running September 8 through 11 that brings together regulators, financial institutions, technology firms, investors, and academics, the Free Press Jo…"
-    },
-    {
       "title": "Three quantum phases in chromium-based material hint at a spin-triplet superconductor",
       "link": "https://phys.org/news/2026-09-quantum-phases-chromium-based-material.html",
       "source": "Phys.org — Quantum Physics",
@@ -50,60 +122,12 @@
       "summary": "Superconductors are materials that conduct electricity without electrical resistance when cooled below a specific critical temperature. These materials have proved promising for the development of various technologies, including medical imaging instruments, particle accelerators, ultrasensitive dete…"
     },
     {
-      "title": "Guest Post: QML4Africa Highlights Growth of Africa’s Quantum Research Community",
-      "link": "https://thequantuminsider.com/2026/09/07/qml4africa-quantum-researchers-lagos/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 07 Sep 2026 10:27:46 +0000",
-      "published_ts": 1788776866,
-      "summary": "Guest Post by Somtochukwu Igwegbe, African Quantum Consortium Correspondent, Research &#38; Development, Quantum Africa. Quantum computing hardware is being built almost entirely outside Africa, in laboratories across North America, Europe, and Asia. That fact has shaped how the continent is usually…"
-    },
-    {
-      "title": "Sparrow Quantum Sets Record With 500 Million Usable Photons Per Second",
-      "link": "https://thequantuminsider.com/2026/09/07/sparrow-quantum-sets-record-with-500-million-usable-photons-per-second/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 07 Sep 2026 07:21:59 +0000",
-      "published_ts": 1788765719,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computers are being built in several ways: superconducting circuits, trapped ions, neutral atoms, semiconductor spins and photonics. Photonic quantum systems have one fundamental advantage: their information carriers can travel through optical fibre, makin…"
-    },
-    {
-      "title": "NEC Halts Development of Quantum Computer Hardware",
-      "link": "https://thequantuminsider.com/2026/09/06/nec-halts-development-of-quantum-computer-hardware/",
-      "source": "The Quantum Insider",
-      "published": "Sun, 06 Sep 2026 18:34:34 +0000",
-      "published_ts": 1788719674,
-      "summary": "Insider Brief NEC has ended its effort to build a working quantum computer, pulling back from a field that the company helped pioneer. The company discontinued development of a physical quantum computing system at the end of March, Nikkei Asia reported. NEC apparently concluded that bringing the tec…"
-    },
-    {
-      "title": "Brian Gaucher (ERVA): Why engineering, not physics, now limits quantum progress",
-      "link": "https://thequantuminsider.com/2026/09/05/brian-gaucher-erva-why-engineering-not-physics-now-limits-quantum-progress/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 05 Sep 2026 07:00:00 +0000",
-      "published_ts": 1788591600,
-      "summary": "Yuval Boger interviews Brian Gaucher, an experienced engineer and IBM veteran who co-chaired ERVA’s report Engineering Research to Advance Quantum Technologies. Brian explains that while U.S. quantum science remains strong, global competition is accelerating and the key limiter is no longer physics…"
-    },
-    {
       "title": "Magic-angle graphene provides evidence for unconventional superconductivity",
       "link": "https://phys.org/news/2026-09-magic-angle-graphene-evidence-unconventional.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 04 Sep 2026 17:20:03 EDT",
       "published_ts": 1788556803,
       "summary": "Researchers have completely suppressed superconductivity in magic-angle graphene by screening interactions between electrons, helping resolve a long-running debate about the origin of the phenomenon."
-    },
-    {
-      "title": "Europe Looks to Quantum Act to Turn Research Strength Into Industry",
-      "link": "https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 04 Sep 2026 17:59:10 +0000",
-      "published_ts": 1788544750,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Europe’s quantum community gathered yesterday at the European Parliament for “Europe’s Quantum Moment: From Lab to Leadership”, an event hosted by MEP Dr. Sergey Lagodinskythat brought together representatives from the European Commission, European Council and Eur…"
-    },
-    {
-      "title": "Quantum Computing Challenges Holding Back Practical Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/09/04/main-challenges-facing-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 04 Sep 2026 15:05:17 +0000",
-      "published_ts": 1788534317,
-      "summary": "Insider Brief Quantum computing has attracted billions in investment, sustained media attention, and some of the most concentrated scientific talent on a single engineering problem. Progress has been significant, but the results so far have yet to match the scale of investment and research behind th…"
     },
     {
       "title": "MIT turns bacteria into living transistors",
@@ -202,36 +226,12 @@
       "summary": "The weak equivalence principle (WEP) is central to Einstein's general relativity. It posits that gravity must accelerate everything equally, regardless of what it is made from. For the first time, a team led by Ming-Sheng Zhan at the Wuhan Institute of Physics and Mathematics has tested the principl…"
     },
     {
-      "title": "Temperature emerges as a control for topological properties of materials",
-      "link": "https://phys.org/news/2026-09-temperature-emerges-topological-properties-materials.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 02 Sep 2026 07:49:22 EDT",
-      "published_ts": 1788349762,
-      "summary": "Spin-orbit coupling (SOC), an interaction between an electron's spin and its motion, plays a key role in creating topological insulators—unusual materials that are insulating in their interior but can conduct electricity along their surfaces."
-    },
-    {
-      "title": "Ten-channel photonic interface links neutral-atom qubits in parallel",
-      "link": "https://phys.org/news/2026-09-ten-channel-photonic-interface-links.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 01 Sep 2026 13:00:02 EDT",
-      "published_ts": 1788282002,
-      "summary": "A research group in Japan has demonstrated a world-record 10-channel multiplexed quantum photonic interface based on an integrated waveguide array, a key technology for optically interconnecting multiple quantum computers. The study is published in the journal Optica."
-    },
-    {
       "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
       "link": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
       "source": "MIT News — Quantum Computing",
       "published": "Mon, 31 Aug 2026 15:30:00 -0400",
       "published_ts": 1788204600,
       "summary": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research."
-    },
-    {
-      "title": "Physicists take Hall effect in a new direction",
-      "link": "https://phys.org/news/2026-08-physicists-hall-effect.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 31 Aug 2026 09:20:07 EDT",
-      "published_ts": 1788182407,
-      "summary": "Carnegie Mellon University scientists have uncovered a new phenomenon that challenges a longstanding assumption about how electronic materials respond to magnetic fields. The discovery broadens the fundamental understanding of the Hall effect, a principle widely used to measure the magnetic and elec…"
     },
     {
       "title": "A “quantum bath” puts quantum entanglement on autopilot",
