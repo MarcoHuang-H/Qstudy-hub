@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1788882783,
+  "generated_ts": 1788899843,
   "items": [
+    {
+      "title": "IonQ Uses Investor Day to Detail Superion Roadmap, SkyWater Strategy and Quantum Security Plans",
+      "link": "https://thequantuminsider.com/2026/09/08/ionq-uses-investor-day-to-detail-superion-roadmap-skywater-strategy-and-quantum-security-plans/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 08 Sep 2026 18:45:21 +0000",
+      "published_ts": 1788893121,
+      "summary": "Insider Brief IonQ used its first investor day following the acquisition of SkyWater Technology to outline a more integrated strategy spanning quantum computers, semiconductor manufacturing, cybersecurity and foundry services. The event, held Tuesday at the New York Stock Exchange, came about five w…"
+    },
     {
       "title": "A new game demonstrates quantum advantage with provable classical limits",
       "link": "https://phys.org/news/2026-09-game-quantum-advantage-provable-classical.html",
@@ -96,14 +104,6 @@
       "published": "Tue, 08 Sep 2026 12:52:45 +0000",
       "published_ts": 1788871965,
       "summary": "Insider Brief PRESS RELEASE &#8212; SkyWater Technology announced the launch of SkyWater Quantum Solutions, a dedicated merchant supplier offering focused on semiconductor process development, integration, and manufacturing. This unique offering will provide semiconductor solutions for quantum-compu…"
-    },
-    {
-      "title": "IonQ Estimates 20,000-Qubit Machine Could Break Bitcoin’s secp256k1 in 26 Days",
-      "link": "https://thequantuminsider.com/2026/09/08/ionq-estimates-20000-qubit-machine-could-break-bitcoin-secp256k1-26-days/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 08 Sep 2026 12:45:17 +0000",
-      "published_ts": 1788871517,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today published the first complete, end-to-end fault-tolerant resource estimate for running Shor’s algorithm. The historic paper by IonQ’s research team uses the recently published Wal…"
     },
     {
       "title": "Entangled particles revive a 35-year-old test of the Standard Model",
