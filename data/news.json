@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1788835626,
+  "generated_ts": 1788863338,
   "items": [
+    {
+      "title": "Singapore, Luxembourg Target Deeper Cooperation in Quantum, AI And Space",
+      "link": "https://thequantuminsider.com/2026/09/08/singapore-luxembourg-target-deeper-cooperation-in-quantum-ai-and-space/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 08 Sep 2026 07:59:16 +0000",
+      "published_ts": 1788854356,
+      "summary": "Insider Brief Singapore and Luxembourg plan to deepen cooperation in quantum computing, artificial intelligence, space technology and satellite communications as the two small, trade-dependent nations seek closer economic and strategic ties. Singapore Prime Minister Lawrence Wong identified the tech…"
+    },
+    {
+      "title": "Guest Post: How Tokenized Finance Can Prepare for Post-Quantum Security",
+      "link": "https://thequantuminsider.com/2026/09/08/quantum-ready-tokenized-finance-requirements/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 08 Sep 2026 07:30:00 +0000",
+      "published_ts": 1788852600,
+      "summary": "Guest Post by Edwin Mata, Co-Founder and CEO of Brickken Building financial infrastructure is strange: you have to make decisions today for assets that may still exist long after the underlying technology has changed. That is especially true in tokenization because a bond issued on-chain today might…"
+    },
+    {
+      "title": "Fujitsu develops diamond-spin quantum computer prototype",
+      "link": "https://thequantuminsider.com/2026/09/08/fujitsu-develops-diamond-spin-quantum-computer-prototype/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 08 Sep 2026 07:23:37 +0000",
+      "published_ts": 1788852217,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Fujitsu today announced that it has developed the world’s first working prototype of a diamond-spin quantum computer incorporating tin-vacancy (SnV) centers into photonic integrated circuits [1] [2]. The prototype can be operated at -271.6°C, higher than the typic…"
+    },
     {
       "title": "Entangled particles revive a 35-year-old test of the Standard Model",
       "link": "https://phys.org/news/2026-09-entangled-particles-revive-year-standard.html",
@@ -40,126 +64,6 @@
       "published": "Mon, 07 Sep 2026 07:21:59 +0000",
       "published_ts": 1788765719,
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computers are being built in several ways: superconducting circuits, trapped ions, neutral atoms, semiconductor spins and photonics. Photonic quantum systems have one fundamental advantage: their information carriers can travel through optical fibre, makin…"
-    },
-    {
-      "title": "Strong-Drive Floquet Engineering of Interacting Qudits: From Finite-Duration Controls to Emergent Symmetry",
-      "link": "https://arxiv.org/abs/2609.04309",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04309v1 Announce Type: new  Abstract: Floquet driving uses periodic controls to tailor the behavior of quantum systems, with applications in quantum analogue simulation, sensing, and the protection of quantum information. Most approaches are designed using idealized, instantaneous pulses,…"
-    },
-    {
-      "title": "Reply to the Comment on \"The Axiom of Choice and the No-Signalling Principle\"",
-      "link": "https://arxiv.org/abs/2609.04321",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04321v1 Announce Type: new  Abstract: We clarify the meaning of a probabilistic no-signalling strategy in Ref [Proc. R. Soc. A 481, 20240601]. For every fixed input, the deterministic strategy constructed using the Axiom of Choice can indeed be represented by a Dirac probability distribut…"
-    },
-    {
-      "title": "p-Adic Dirac Equations, Continuous-Time Quantum Walks, and Quantum Networks",
-      "link": "https://arxiv.org/abs/2609.04358",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04358v1 Announce Type: new  Abstract: We introduce a new class of p-adic Dirac equations, formulated in the standard axiomatic framework of quantum mechanics, in which the ordinary spatial derivatives are replaced by non-local operators built from arbitrary integrable kernels. We diagonal…"
-    },
-    {
-      "title": "Phase Independent Measurement of Weak Coherent Optical Signals",
-      "link": "https://arxiv.org/abs/2609.04363",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04363v1 Announce Type: new  Abstract: We develop a quantum sensing framework for the phase independent detection of weak coherent optical displacements based on SU(1,1) interferometry. Unlike conventional quantum measurement protocols that require prior knowledge of the signal phase and c…"
-    },
-    {
-      "title": "Three-Photon and Hybrid Coherent-Fock Interference in a Two-Phase Six-Port Mach-Zehnder Interferometer",
-      "link": "https://arxiv.org/abs/2609.04368",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04368v1 Announce Type: new  Abstract: We present a unified theoretical analysis of three-photon quantum interference in a Six-Port Mach-Zehnder Interferometer (6p-MZI) constructed from two cascaded tritters, with two independent phase modulators placed between the tritter arms. We analyti…"
-    },
-    {
-      "title": "Toward Resilient Many-Body Formulations under Incomplete Correlation Models: A Dual-Space Variational Formulation",
-      "link": "https://arxiv.org/abs/2609.04387",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04387v1 Announce Type: new  Abstract: Quantum simulations of correlated many-body systems will inevitably operate with imperfect information: the prepared states may arise from incomplete or approximate ansatze, while their measured Hamiltonian and overlap matrix elements are additionally…"
-    },
-    {
-      "title": "Thermal lifetime of the centralized repetition code: From quantum annealing to social dynamics",
-      "link": "https://arxiv.org/abs/2609.04408",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04408v1 Announce Type: new  Abstract: There is an extensive body of research probing the potential of adiabatic quantum computation and quantum annealing to solve hard computational problems. This research endeavor is complicated by noise afflicting hardware during the computational proce…"
-    },
-    {
-      "title": "Proof-of-principle long-distance Sagnac twin-field quantum key distribution network",
-      "link": "https://arxiv.org/abs/2609.04447",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04447v1 Announce Type: new  Abstract: Twin-field (TF) quantum key distribution (QKD) offers a promising approach to long-distance QKD networks due to its superior performance over large channel losses. Due to specialized hardware requirements, nearly all long-distance TFQKD demonstrations…"
-    },
-    {
-      "title": "Towards minimal conditions for ergotropy injection in open quantum systems",
-      "link": "https://arxiv.org/abs/2609.04457",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04457v1 Announce Type: new  Abstract: Interactions between a quantum system and its environment can inject ergotropy into the system, raising the question of the minimal dimensionality and physical resources required for such injection. We first show that ergotropy injection is impossible…"
-    },
-    {
-      "title": "Efficient Quantum Error Correction from Three Dimensional Qubit Control",
-      "link": "https://arxiv.org/abs/2609.04459",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04459v1 Announce Type: new  Abstract: High-rate quantum low-density parity-check (qLDPC) codes can substantially reduce qubit overhead relative to surface codes, but their advantage depends on efficiently realizing nonlocal syndrome extraction. We study the \\([[144,12,12]]\\) bivariate bic…"
-    },
-    {
-      "title": "A Representation-Theoretic Framework for Characterizing Barren Plateaus",
-      "link": "https://arxiv.org/abs/2609.04462",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04462v1 Announce Type: new  Abstract: The scalability of variational quantum algorithms is fundamentally limited by the barren plateau effect, where the cost-function variance vanishes with system size, rendering optimization impractical. Recent Lie-algebraic approaches for deep parameter…"
-    },
-    {
-      "title": "Gradient-based optimal control of the non-Hermitian skin effect in optomechanical arrays",
-      "link": "https://arxiv.org/abs/2609.04492",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04492v1 Announce Type: new  Abstract: In single-port non-Hermitian sensors the Petermann factor offsets susceptibility gains, imposing a strict resource bound on metrological precision. We test whether a multi-port geometry can evade this bound: a double-chain optomechanical ladder with o…"
-    },
-    {
-      "title": "One-Shot and Concurrent Hitting Times for Grover-Coined Quantum Walks on Cubelike Graphs",
-      "link": "https://arxiv.org/abs/2609.04503",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04503v1 Announce Type: new  Abstract: We study the one-shot and concurrent hitting for the discrete-time Grover-coined quantum walk on cubelike graphs $G=\\text{Cay}(\\mathbb Z_2^d,\\Omega)$ of degree $\\Delta=|\\Omega|$. Starting from the vertex labeled $0$, we identify $\\sigma=\\bigoplus_{\\om…"
-    },
-    {
-      "title": "State-Based Quantum Operations: Chameleon Gates",
-      "link": "https://arxiv.org/abs/2609.04506",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04506v1 Announce Type: new  Abstract: We introduce chameleon gates as a natural generalization of conventional quantum controlled-gates. Chameleon gates are state-based quantum controlled-operations that retain standard elements such as control and target systems, while introducing a new…"
-    },
-    {
-      "title": "DPRQ: A Dynamic Programming-based Qubit Routing Algorithm for Collective Communication in Distributed Quantum Computing",
-      "link": "https://arxiv.org/abs/2609.04524",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "published_ts": 1788753600,
-      "summary": "arXiv:2609.04524v1 Announce Type: new  Abstract: Distributed quantum computing (DQC) offers a promising approach to scale quantum computing by overcoming the resource limitations of a single quantum processor. However, inter-node communication remains a major bottleneck of DQC due to inefficient and…"
     },
     {
       "title": "NEC Halts Development of Quantum Computer Hardware",
@@ -202,36 +106,12 @@
       "summary": "Insider Brief Quantum computing has attracted billions in investment, sustained media attention, and some of the most concentrated scientific talent on a single engineering problem. Progress has been significant, but the results so far have yet to match the scale of investment and research behind th…"
     },
     {
-      "title": "QuFi Launches Post-Quantum Verification Platform for Digital Assets",
-      "link": "https://thequantuminsider.com/2026/09/04/qufi-post-quantum-verification-platform-digital-assets/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 04 Sep 2026 13:54:09 +0000",
-      "published_ts": 1788530049,
-      "summary": "Insider Brief PRESS RELEASE &#8212; As the digital asset industry transitions toward post-quantum security, blockchain networks face an emerging infrastructure challenge. Depending on the cryptographic scheme and implementation, post-quantum signatures can be more than 100 times larger than the elli…"
-    },
-    {
       "title": "MIT turns bacteria into living transistors",
       "link": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Fri, 04 Sep 2026 07:52:39 EDT",
       "published_ts": 1788522759,
       "summary": "MIT researchers have created bacterial “transistors” that can be wired together into living circuits capable of performing calculations and directing chemical signals. One day, these biological computers could coat plant roots or leaves, detecting environmental threats and automatically triggering d…"
-    },
-    {
-      "title": "RIKEN Adopts QunaSys QURI SDK for Quantum-HPC Hybrid Computing",
-      "link": "https://thequantuminsider.com/2026/09/04/riken-qunasys-software-jhpc-quantum-project/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 04 Sep 2026 10:22:53 +0000",
-      "published_ts": 1788517373,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QunaSys Inc. (headquartered in Bunkyo-ku, Tokyo; Representative Director and CEO: Tennin Yan; hereinafter “QunaSys”), a company specializing in the development of quantum computing algorithms and software, announced that its quantum software development kit “QURI…"
-    },
-    {
-      "title": "MIT Qubit Design Could Speed Quantum Operations While Preserving Data",
-      "link": "https://thequantuminsider.com/2026/09/04/mit-qubit-design-could-speed-quantum-operations-while-preserving-data/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 04 Sep 2026 08:21:29 +0000",
-      "published_ts": 1788510089,
-      "summary": "Insider Brief MIT researchers have designed a quantum computing component that simulations suggest could perform faster operations while preserving stored information. It&#8217;s an advance that potentially could help future machines complete longer, more reliable calculations, according to the rese…"
     },
     {
       "title": "BESIII sets world's most stringent direct limit on Lambda hyperon electric dipole moment",
