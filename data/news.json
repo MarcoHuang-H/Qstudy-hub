@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1788899843,
+  "generated_ts": 1788921978,
   "items": [
+    {
+      "title": "Helium-3 lifts new quantum computing concept with faster tunneling rates",
+      "link": "https://phys.org/news/2026-09-helium-quantum-concept-faster-tunneling.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 08 Sep 2026 17:20:01 EDT",
+      "published_ts": 1788902401,
+      "summary": "Helium—the lightest atom that can be laser-cooled and controlled—powers a new design for high-powered, stable quantum computers."
+    },
     {
       "title": "IonQ Uses Investor Day to Detail Superion Roadmap, SkyWater Strategy and Quantum Security Plans",
       "link": "https://thequantuminsider.com/2026/09/08/ionq-uses-investor-day-to-detail-superion-roadmap-skywater-strategy-and-quantum-security-plans/",
@@ -216,14 +224,6 @@
       "published": "Wed, 02 Sep 2026 13:20:04 EDT",
       "published_ts": 1788369604,
       "summary": "Neutrinos are pervasive yet intangible particles that permeate the universe, streaming through whole planets, stars and our bodies by the trillions each second. The elementary particles are often described as \"ghostly\" for their near-zero mass and elusive nature, as they have very little interaction…"
-    },
-    {
-      "title": "Physicists test the weak equivalence principle in an orbiting space station",
-      "link": "https://phys.org/news/2026-09-physicists-weak-equivalence-principle-orbiting.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 02 Sep 2026 09:30:01 EDT",
-      "published_ts": 1788355801,
-      "summary": "The weak equivalence principle (WEP) is central to Einstein's general relativity. It posits that gravity must accelerate everything equally, regardless of what it is made from. For the first time, a team led by Ming-Sheng Zhan at the Wuhan Institute of Physics and Mathematics has tested the principl…"
     },
     {
       "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
