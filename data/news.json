@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1788921978,
+  "generated_ts": 1788950387,
   "items": [
+    {
+      "title": "Cleveland Clinic, RIKEN and IBM Team Advance to Finals for 2026 ACM Gordon Bell Prize",
+      "link": "https://thequantuminsider.com/2026/09/09/cleveland-clinic-riken-and-ibm-team-advance-to-finals-for-2026-acm-gordon-bell-prize/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 09 Sep 2026 08:30:20 +0000",
+      "published_ts": 1788942620,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A multidisciplinary team from Cleveland Clinic, RIKEN and IBM (NYSE:&#160;IBM) has been named as a finalist for the 2026 Association for Computing Machinery (ACM)&#160;Gordon Bell Prize&#160;for simulating the largest biologically meaningful molecules ever modeled…"
+    },
+    {
+      "title": "OpenAI Says AI Agents May Make Great Quantum Lab Assistants",
+      "link": "https://thequantuminsider.com/2026/09/09/openai-says-ai-agents-may-make-great-quantum-lab-assistants/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 09 Sep 2026 08:20:24 +0000",
+      "published_ts": 1788942024,
+      "summary": "Insider Brief Artificial intelligence agents can independently run many routine quantum-computing experiments, potentially reducing days of hands-on laboratory work while leaving scientists responsible for difficult measurements and unexpected results, according to an OpenAI blog post. In the post,…"
+    },
+    {
+      "title": "QNu Labs Raises ₹200 Crore ($21 Million USD) Led by National Quantum Mission And Speciale Invest",
+      "link": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%e2%82%b9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 09 Sep 2026 07:34:02 +0000",
+      "published_ts": 1788939242,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QNu Labs, a leading deep-tech cybersecurity company building quantum-safe solutions, has raised ₹200 crore (about $21 million USD) in Series A1 round led by the National Quantum Mission and Speciale Invest with participation from Sony Innovation Fund, Gaja Capital…"
+    },
+    {
+      "title": "Fujitsu And Yaqumo Begin Testing on Neutral-Atom Quantum Computer Hardware",
+      "link": "https://thequantuminsider.com/2026/09/09/fujitsu-and-yaqumo-begin-testing-on-neutral-atom-quantum-computer-hardware/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 09 Sep 2026 07:15:23 +0000",
+      "published_ts": 1788938123,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Fujitsu Limited (Fujitsu) and Yaqumo Inc. (Yaqumo) today announced that they have begun verifying quantum computing architectures and basic software on actual neutral-atom quantum computers (1) to accelerate the practical use of quantum computers. Fujitsu will com…"
+    },
     {
       "title": "Helium-3 lifts new quantum computing concept with faster tunneling rates",
       "link": "https://phys.org/news/2026-09-helium-quantum-concept-faster-tunneling.html",
@@ -80,38 +112,6 @@
       "published": "Tue, 08 Sep 2026 13:14:22 +0000",
       "published_ts": 1788873262,
       "summary": "Insider Brief PRESS RELEASE &#8212; SkyWater Technology and Qolab today announced a multi-year commercial collaboration. The agreement is designed to transition superconducting technology from custom development programs to repeatable wafer manufacturing. The engagement combines platform-based wafer…"
-    },
-    {
-      "title": "PsiQuantum Finalizes $100 Million Award with the U.S. Department of Commerce",
-      "link": "https://thequantuminsider.com/2026/09/08/psiquantum-finalizes-100m-us-government-award-quantum-computing-rd/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 08 Sep 2026 13:07:18 +0000",
-      "published_ts": 1788872838,
-      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum announced today that the company has signed definitive documentation with the U.S. Department of Commerce for a $100 million award to strengthen American leadership in quantum computing and semiconductor supply-chain security. In May 2026, the company a…"
-    },
-    {
-      "title": "NLM Photonics Adds New Investors to Scale Organic Photonics Technology",
-      "link": "https://thequantuminsider.com/2026/09/08/nlm-photonics-new-investors-organic-photonics/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 08 Sep 2026 13:05:00 +0000",
-      "published_ts": 1788872700,
-      "summary": "Insider Brief PRESS RELEASE &#8212; NLM Photonics, the leader in the development of organic electro-optic (OEO) technology based upon its Selerion™ family of materials, has added new financial and strategic investors to its cap table to accelerate commercialization of its organic photonic ecosystem.…"
-    },
-    {
-      "title": "IonQ and Congruity360 Sign $8.18M Quantum-Safe Network Agreement",
-      "link": "https://thequantuminsider.com/2026/09/08/ionq-congruity360-8-18m-quantum-safe-network-agreement/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 08 Sep 2026 13:01:41 +0000",
-      "published_ts": 1788872501,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, and Congruity360, a leading unstructured data management and governance provider, today announced an $8.18 million agreement. Under the collaboration, Congruity360 will broaden its ent…"
-    },
-    {
-      "title": "SkyWater Launches Quantum Semiconductor Manufacturing Business",
-      "link": "https://thequantuminsider.com/2026/09/08/skywater-launches-quantum-semiconductor-manufacturing-business/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 08 Sep 2026 12:52:45 +0000",
-      "published_ts": 1788871965,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SkyWater Technology announced the launch of SkyWater Quantum Solutions, a dedicated merchant supplier offering focused on semiconductor process development, integration, and manufacturing. This unique offering will provide semiconductor solutions for quantum-compu…"
     },
     {
       "title": "Entangled particles revive a 35-year-old test of the Standard Model",
