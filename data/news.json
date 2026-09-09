@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1788968932,
+  "generated_ts": 1788985134,
   "items": [
+    {
+      "title": "a16z Crypto Rebuilds Jolt Proof System With Post-Quantum Security And Faster Performance",
+      "link": "https://thequantuminsider.com/2026/09/09/a16z-crypto-rebuilds-jolt-proof-system-with-post-quantum-security-and-faster-performance/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 09 Sep 2026 16:53:52 +0000",
+      "published_ts": 1788972832,
+      "summary": "Insider Brief A16z Crypto has released a lattice-based version of its Jolt proof system that it says can resist attacks from future quantum computers while producing proofs two to three times faster than the technology it replaces. The open-source system, called Lattice Jolt, is a zero-knowledge vir…"
+    },
+    {
+      "title": "Layer-based design offers new route to topological magnets",
+      "link": "https://phys.org/news/2026-09-layer-based-route-topological-magnets.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 09 Sep 2026 12:20:02 EDT",
+      "published_ts": 1788970802,
+      "summary": "Topological quantum materials combine unusual electronic states with properties such as magnetism or superconductivity, offering possibilities for future electronics and quantum technologies. Researchers at Tohoku University have now shown that changing the number of layers in a crystal can provide…"
+    },
     {
       "title": "Former IBM Executive Joerg Behrend Joins Q.ANT as VP Hardware",
       "link": "https://thequantuminsider.com/2026/09/09/q-ant-appoints-joerg-behrend-vice-president-hardware/",
@@ -80,14 +96,6 @@
       "published": "Wed, 09 Sep 2026 12:27:53 +0000",
       "published_ts": 1788956873,
       "summary": "Insider Brief PRESS RELEASE &#8212; Quobly and Absolut System today announce the signing of an Industrial  Partnership Declaration to support the development and scaling of Quobly’s spin-qubit quantum  computers.  The signing comes as the two companies reach a first major milestone in the QCube® 100…"
-    },
-    {
-      "title": "Universal Quantum Opens R&D Competency Centre  Outside Europe in Singapore",
-      "link": "https://thequantuminsider.com/2026/09/09/universal-quantum-opens-first-rd-centre-outside-europe-singapore/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 09 Sep 2026 12:11:25 +0000",
-      "published_ts": 1788955885,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Universal Quantum, the pioneering UK company building large-scale quantum computing systems for real-world use, today announced a major expansion of its presence in Singapore. The move builds on Universal Quantum’s close partnership with Singapore’s National Quant…"
     },
     {
       "title": "Helium-3 lifts new quantum computing concept with faster tunneling rates",
@@ -216,14 +224,6 @@
       "published": "Wed, 02 Sep 2026 16:25:00 -0400",
       "published_ts": 1788380700,
       "summary": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems."
-    },
-    {
-      "title": "Scientists observe Einstein's gravity in the quantum world",
-      "link": "https://phys.org/news/2026-09-scientists-einstein-gravity-quantum-world.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 02 Sep 2026 14:00:13 EDT",
-      "published_ts": 1788372013,
-      "summary": "An international team including Nobel Prize-winning physicist Professor Sir Roger Penrose has observed a long-predicted effect of gravity on a falling quantum object for the first time. The result shows that a fundamental principle at the heart of Einstein's theory of gravity remains consistent with…"
     },
     {
       "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
