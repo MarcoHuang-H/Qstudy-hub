@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1788985134,
+  "generated_ts": 1789008475,
   "items": [
+    {
+      "title": "Unconventional quantum materials could dramatically boost the search for dark matter",
+      "link": "https://phys.org/news/2026-09-unconventional-quantum-materials-boost-dark.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 09 Sep 2026 19:20:04 EDT",
+      "published_ts": 1788996004,
+      "summary": "For decades, physicists have searched for dark matter, the invisible substance thought to make up roughly 85% of all matter in the universe. Although its gravitational influence shapes galaxies and the large-scale structure of the cosmos, dark matter has never been directly detected. Now, an interna…"
+    },
     {
       "title": "a16z Crypto Rebuilds Jolt Proof System With Post-Quantum Security And Faster Performance",
       "link": "https://thequantuminsider.com/2026/09/09/a16z-crypto-rebuilds-jolt-proof-system-with-post-quantum-security-and-faster-performance/",
@@ -208,14 +216,6 @@
       "published": "Thu, 03 Sep 2026 00:00:00 -0400",
       "published_ts": 1788408000,
       "summary": "This advance could be a big step toward developing a scalable, practical quantum computer."
-    },
-    {
-      "title": "Making superconductors thinner can change how they accommodate magnetic fields",
-      "link": "https://phys.org/news/2026-08-superconductors-thinner-accommodate-magnetic-fields.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 02 Sep 2026 17:40:01 EDT",
-      "published_ts": 1788385201,
-      "summary": "What happens when a superconductor becomes so thin that electrons can no longer behave as if they were moving through an ordinary three-dimensional piece of metal? This question has been at the center of my recent work on quantum confinement in metallic films. Over the past few years, I have been de…"
     },
     {
       "title": "From MIT to IBM, expediting AI and quantum deployment",
