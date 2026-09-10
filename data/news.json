@@ -1,6 +1,86 @@
 {
-  "generated_ts": 1789036079,
+  "generated_ts": 1789055026,
   "items": [
+    {
+      "title": "Spinons may help electrons pair along stripes in some superconductors",
+      "link": "https://phys.org/news/2026-09-spinons-electrons-pair-stripes-superconductors.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 10 Sep 2026 10:00:11 EDT",
+      "published_ts": 1789048811,
+      "summary": "Superconductors are materials that carry electricity with zero resistance below specific temperatures. Many of these materials become superconducting at very low temperatures, yet some enter superconducting phases at higher temperatures."
+    },
+    {
+      "title": "Infleqtion and Cisco Collaborate on Quantum Networking Research",
+      "link": "https://thequantuminsider.com/2026/09/10/infleqtion-cisco-networked-quantum-systems/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 13:46:50 +0000",
+      "published_ts": 1789048010,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion, a global leader in quantum computing and quantum sensing powered by neutral atom technology, today announced a collaboration with Cisco to pursue joint research and development focused on connecting, operating, and scaling quantum systems. Together, th…"
+    },
+    {
+      "title": "Researchers And AI Agents Cut Estimated Quantum Cost of Attacking Bitcoin Encryption by 86%",
+      "link": "https://thequantuminsider.com/2026/09/10/researchers-and-ai-agents-cut-estimated-quantum-cost-of-attacking-bitcoin-encryption-by-86/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 13:23:36 +0000",
+      "published_ts": 1789046616,
+      "summary": "Insider Brief An open research project combining human scientists with AI agents has sharply reduced the estimated quantum computing resources needed for a key step in attacking the encryption used by Bitcoin, Ethereum and other blockchain networks. The study, posted on arXiv, describes how more tha…"
+    },
+    {
+      "title": "Cal State East Bay Opens Pathways to Careers in Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/09/10/cal-state-east-bay-undergraduate-quantum-technology-program/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 11:55:16 +0000",
+      "published_ts": 1789041316,
+      "summary": "Insider Brief PRESS RELEASE &#8212; California is building the future of computing, and Cal State East Bay is helping ensure its students have a pathway to it. A new $37.5 million National Science Foundation investment will help bring quantum science out of research labs and into undergraduate class…"
+    },
+    {
+      "title": "Singular Photonics Launches Litavis SPAD Image Sensor",
+      "link": "https://thequantuminsider.com/2026/09/10/singular-photonics-launches-litavis-spad-image-sensor/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 11:28:55 +0000",
+      "published_ts": 1789039735,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Singular Photonics, an innovator in single-photon imaging, today announced the launch of its most advanced image sensor to date. Litavis is the world&#8217;s first single-photon avalanche diode (SPAD) sensor using in-pixel processing to unify imaging, timing, hist…"
+    },
+    {
+      "title": "Italy Courts IonQ as Rome Seeks Deeper U.S. Quantum Ties",
+      "link": "https://thequantuminsider.com/2026/09/10/italy-courts-ionq-as-rome-seeks-deeper-u-s-quantum-ties/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 11:22:25 +0000",
+      "published_ts": 1789039345,
+      "summary": "Insider Brief Italy is seeking closer cooperation with IonQ and other U.S. technology groups as Rome tries to turn its scientific strengths into a more competitive quantum industry. Alessio Butti, Italy’s undersecretary of state for technological innovation and digital transition, placed quantum tec…"
+    },
+    {
+      "title": "Xanadu and AMD Launch Backline for Low-Latency Quantum-Classical Computing",
+      "link": "https://thequantuminsider.com/2026/09/10/xanadu-amd-backline-low-latency-quantum-classical-computing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 11:21:51 +0000",
+      "published_ts": 1789039311,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Xanadu Quantum Technologies Limited (&#8220;Xanadu&#8220;; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, in collaboration with AMD today announced the release of Backline, an open-platform solution, co-designed by Xanadu and AMD, for rapid commu…"
+    },
+    {
+      "title": "Chalmers Researchers Make Bosonic Quantum Operations More Than 1,000 Times Faster",
+      "link": "https://thequantuminsider.com/2026/09/10/chalmers-researchers-faster-bosonic-quantum-operations/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 11:14:28 +0000",
+      "published_ts": 1789038868,
+      "summary": "Insider Brief PRESS RELEASE &#8212; So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quantum operation takes, the greater the risk that computational errors will occur. Now, researchers at Chalmers University of Technology,…"
+    },
+    {
+      "title": "Steve Hoffman Discusses Quantum Technology Adoption in U.S. Defense",
+      "link": "https://thequantuminsider.com/2026/09/10/steve-hoffman-quantum-technology-adoption-us-defense/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 09:47:42 +0000",
+      "published_ts": 1789033662,
+      "summary": "Insider Brief PRESS RELEASE &#8212; HELM Innovations Highlights Urgency of Operationalizing&#160;Quantum&#160;Technology in Fed Gov Today Interview Founder and President&#160;Steve Hoffman&#160;discusses how DoW can better connect emerging technology with warfighter needs, experimentation and operat…"
+    },
+    {
+      "title": "JETRO and Purdue University Sign MOU on Advanced Technology Collaboration",
+      "link": "https://thequantuminsider.com/2026/09/10/jetro-purdue-university-mou-advanced-technology-collaboration/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 09:39:33 +0000",
+      "published_ts": 1789033173,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Japan External Trade Organization (JETRO) and Purdue University today announced the signing of a Memorandum of Understanding (MOU) to strengthen innovation collaboration in advanced technology fields and further connect the innovation ecosystems of Japan and t…"
+    },
     {
       "title": "IQM Plans Logical-Qubit System for Finland’s LUMI AI Factory",
       "link": "https://thequantuminsider.com/2026/09/10/iqm-plans-logical-qubit-system-for-finlands-lumi-ai-factory/",
@@ -8,22 +88,6 @@
       "published": "Thu, 10 Sep 2026 07:26:46 +0000",
       "published_ts": 1789025206,
       "summary": "Insider Brief PRESS RELEASE &#8212; QM Quantum Computers (Nasdaq: IQMX) today announced its upgrade path for a logical-qubit-capable quantum computer. The deployment to the LUMI AI Factory, led by CSC – IT Center for Science, will support R&#38;D efforts toward fault-tolerant quantum computing and a…"
-    },
-    {
-      "title": "IBM, Lockheed Martin Announce Swiss Quantum Innovation Hub at ETH Zurich, Anchored by Switzerland’s First IBM Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/09/10/ibm-lockheed-martin-announce-swiss-quantum-innovation-hub-at-eth-zurich-anchored-by-switzerlands-first-ibm-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 07:21:03 +0000",
-      "published_ts": 1789024863,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IBM (NYSE: IBM) and Lockheed Martin (NYSE: LMT), through an offset agreement with armasuisse, Switzerland&#8217;s Federal Office for Defence Procurement, today established a hub for quantum innovation at ETH Zurich, a prominent public research university. The new…"
-    },
-    {
-      "title": "SEALSQ Expands Quantum Highway to Nine Hubs Across Four Countries",
-      "link": "https://thequantuminsider.com/2026/09/10/sealsq-expands-quantum-highway-nine-hubs-four-countries/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 07:00:00 +0000",
-      "published_ts": 1789023600,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or the &#8220;Company&#8221;), a global leader in secure semiconductors, PKI and post-quantum cybersecurity technologies, and its parent company WISeKey International Holding Ltd (SIX: WIHN; NASDAQ: WKEY) (&#8220;WI…"
     },
     {
       "title": "Finite-energy Gottesman-Kitaev-Preskill state-enhanced optical interferometry",
@@ -154,14 +218,6 @@
       "summary": "For decades, physicists have searched for dark matter, the invisible substance thought to make up roughly 85% of all matter in the universe. Although its gravitational influence shapes galaxies and the large-scale structure of the cosmos, dark matter has never been directly detected. Now, an interna…"
     },
     {
-      "title": "a16z Crypto Rebuilds Jolt Proof System With Post-Quantum Security And Faster Performance",
-      "link": "https://thequantuminsider.com/2026/09/09/a16z-crypto-rebuilds-jolt-proof-system-with-post-quantum-security-and-faster-performance/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 09 Sep 2026 16:53:52 +0000",
-      "published_ts": 1788972832,
-      "summary": "Insider Brief A16z Crypto has released a lattice-based version of its Jolt proof system that it says can resist attacks from future quantum computers while producing proofs two to three times faster than the technology it replaces. The open-source system, called Lattice Jolt, is a zero-knowledge vir…"
-    },
-    {
       "title": "Layer-based design offers new route to topological magnets",
       "link": "https://phys.org/news/2026-09-layer-based-route-topological-magnets.html",
       "source": "Phys.org — Quantum Physics",
@@ -170,60 +226,12 @@
       "summary": "Topological quantum materials combine unusual electronic states with properties such as magnetism or superconductivity, offering possibilities for future electronics and quantum technologies. Researchers at Tohoku University have now shown that changing the number of layers in a crystal can provide…"
     },
     {
-      "title": "Former IBM Executive Joerg Behrend Joins Q.ANT as VP Hardware",
-      "link": "https://thequantuminsider.com/2026/09/09/q-ant-appoints-joerg-behrend-vice-president-hardware/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 09 Sep 2026 14:36:25 +0000",
-      "published_ts": 1788964585,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Q.ANT, a leading provider of photonic processors for energy-efficient high-performance computing and artificial intelligence, is strengthening its leadership team with the addition of Joerg Behrend, who joined the company as Vice President Hardware. In this role,…"
-    },
-    {
-      "title": "Former Google Executive Gina Fratarcangeli Joins Qtonic Quantum",
-      "link": "https://thequantuminsider.com/2026/09/09/former-google-executive-gina-fratarcangeli-joins-qtonic-quantum/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 09 Sep 2026 14:18:06 +0000",
-      "published_ts": 1788963486,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qtonic Quantum today announced that Gina Fratarcangeli has joined the company as Senior Advisor, AI Transformation and Global Alliances. The former Google Managing Director will advise on enterprise adoption, commercial strategy and partnerships with global system…"
-    },
-    {
-      "title": "SandboxAQ Tests GPS-Free Navigation on Northrop Grumman Drone",
-      "link": "https://thequantuminsider.com/2026/09/09/sandboxaq-tests-gps-free-navigation-on-northrop-grumman-drone/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 09 Sep 2026 14:05:00 +0000",
-      "published_ts": 1788962700,
-      "summary": "Insider Brief PRESS RELEASE &#8212; –&#160;SandboxAQ&#160;announced it has successfully completed the world’s first reported test of a magnetic navigation (MagNav) system on an attritable platform – Northrop Grumman’s&#160;Lumberjack®, a Group 3 UAS attritable drone. It was also the world&#8217;s fi…"
-    },
-    {
       "title": "Could quantum protocols make electronic voting more secure?",
       "link": "https://phys.org/news/2026-09-quantum-protocols-electronic-voting.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 09 Sep 2026 09:40:10 EDT",
       "published_ts": 1788961210,
       "summary": "Electronic voting, the use of electronic systems to cast, record or count votes, could potentially simplify the process of electing new political leaders or other representatives. While some countries have already started using internet-connected devices or electronic voting machines at polling stat…"
-    },
-    {
-      "title": "Keyfactor Surpasses $200 Million in Annual Recurring Revenue",
-      "link": "https://thequantuminsider.com/2026/09/09/keyfactor-surpasses-200-million-annual-recurring-revenue/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 09 Sep 2026 13:29:43 +0000",
-      "published_ts": 1788960583,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Keyfactor,&#160;the leader in trust infrastructure for the AI and quantum era, today announced significant business traction as the company exceeded $200 million in annual recurring revenue in the beginning of Q3 2026. This success reflects the increasing strategi…"
-    },
-    {
-      "title": "Guest Post: Why Enterprises Need to Start Post-Quantum Migration Now",
-      "link": "https://thequantuminsider.com/2026/09/09/why-enterprises-need-to-start-post-quantum-migration-now/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 09 Sep 2026 13:13:56 +0000",
-      "published_ts": 1788959636,
-      "summary": "Guest Post by Sudiptaa Paul Choudhury CMO, QNu Labs  &#124;  TEDx Speaker  &#124;  LinkedIn Top Voice, AI and Quantum Cybersecurity In March 2026, Google&#8217;s Quantum AI team published findings suggesting that a sufficiently powerful quantum computer could crack Bitcoin&#8217;s core encryption in…"
-    },
-    {
-      "title": "Guest Post: What CERN Brings To Quantum",
-      "link": "https://thequantuminsider.com/2026/09/09/guest-post-what-cern-brings-to-quantum/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 09 Sep 2026 13:11:11 +0000",
-      "published_ts": 1788959471,
-      "summary": "Guest Post by Dr. Kris Naudts, Zeynep Koruturk and Donald Harmitt @ Firgun Ventures. Firgun Ventures is a VC firm investing in Series A/B quantum scale-ups globally. CERN occupies a monumental position in European science and particle physics. The laboratory near Geneva operates the Large Hadron Col…"
     },
     {
       "title": "Helium-3 lifts new quantum computing concept with faster tunneling rates",
@@ -320,14 +328,6 @@
       "published": "Thu, 03 Sep 2026 10:20:04 EDT",
       "published_ts": 1788445204,
       "summary": "Researchers from MIT have designed a new qubit architecture that enables qubits to interact with each other much more quickly while remaining very stable. This advance could someday help scientists build practical quantum computers that can run long, complex algorithms with high accuracy."
-    },
-    {
-      "title": "Quantum control algorithm looks to explain how birds migrate",
-      "link": "https://phys.org/news/2026-09-quantum-algorithm-birds-migrate.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 03 Sep 2026 09:20:07 EDT",
-      "published_ts": 1788441607,
-      "summary": "The hidden world of quantum mechanics exists at scales many orders of magnitude smaller than living organisms, yet scientists have long theorized that quantum effects play an important role in biology. Birds' ability to sense magnetic fields during migration is one of the best-known mysteries in thi…"
     },
     {
       "title": "New qubit architecture enables faster, more accurate operations",
