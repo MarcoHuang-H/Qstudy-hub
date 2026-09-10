@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1789055026,
+  "generated_ts": 1789071674,
   "items": [
+    {
+      "title": "Tightly guided atoms could enable low-power quantum navigation when GPS fails",
+      "link": "https://phys.org/news/2026-09-tightly-atoms-enable-power-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 10 Sep 2026 15:40:10 EDT",
+      "published_ts": 1789069210,
+      "summary": "Within tiny halos of light clinging to a vanishingly thin wisp of optical fiber, scientist Jongmin Lee guides atoms like marbles through a narrow pipe. Rock the fiber and the atoms shift side by side; they just don't fall off. But don't be deceived by the seemingly delicate nature of his experiment.…"
+    },
+    {
+      "title": "New pulse-train method aims to improve precision in quantum control",
+      "link": "https://phys.org/news/2026-09-pulse-method-aims-precision-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 10 Sep 2026 14:00:04 EDT",
+      "published_ts": 1789063204,
+      "summary": "Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses."
+    },
+    {
+      "title": "1,000 times faster operations bring reliable quantum computing a step closer",
+      "link": "https://phys.org/news/2026-09-faster-reliable-quantum-closer.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 10 Sep 2026 13:40:10 EDT",
+      "published_ts": 1789062010,
+      "summary": "So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quantum operation takes, the greater the risk of computational errors."
+    },
+    {
+      "title": "Researchers Send Twin Photons 7 Kilometers Across Brazil’s Guanabara Bay",
+      "link": "https://thequantuminsider.com/2026/09/10/researchers-send-twin-photons-7-kilometers-across-brazils-guanabara-bay/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 17:16:29 +0000",
+      "published_ts": 1789060589,
+      "summary": "Insider Brief PRESS RELEASE &#8212; José Tadeu Arantes &#124; Agência FAPESP — Researchers at Fluminense Federal University (UFF) have taken an important step toward quantum communication and the creation of an ultra-secure internet. They generated pairs of “twin photons,” or particles of light, and…"
+    },
+    {
+      "title": "Altera and Riverlane Partner to Bring Quantum Error Correction Support to Agilex FPGAs",
+      "link": "https://thequantuminsider.com/2026/09/10/altera-riverlane-partner-bring-quantum-error-correction-support-agilex-fpgas/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 15:50:45 +0000",
+      "published_ts": 1789055445,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Altera, the world’s largest pure-play FPGA solutions provider, and Riverlane, the world leader in quantum error correction (QEC) technology and tools, today announced their partnership to help quantum hardware developers build more flexible control and error-corre…"
+    },
     {
       "title": "Spinons may help electrons pair along stripes in some superconductors",
       "link": "https://phys.org/news/2026-09-spinons-electrons-pair-stripes-superconductors.html",
@@ -72,22 +112,6 @@
       "published": "Thu, 10 Sep 2026 09:47:42 +0000",
       "published_ts": 1789033662,
       "summary": "Insider Brief PRESS RELEASE &#8212; HELM Innovations Highlights Urgency of Operationalizing&#160;Quantum&#160;Technology in Fed Gov Today Interview Founder and President&#160;Steve Hoffman&#160;discusses how DoW can better connect emerging technology with warfighter needs, experimentation and operat…"
-    },
-    {
-      "title": "JETRO and Purdue University Sign MOU on Advanced Technology Collaboration",
-      "link": "https://thequantuminsider.com/2026/09/10/jetro-purdue-university-mou-advanced-technology-collaboration/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 09:39:33 +0000",
-      "published_ts": 1789033173,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Japan External Trade Organization (JETRO) and Purdue University today announced the signing of a Memorandum of Understanding (MOU) to strengthen innovation collaboration in advanced technology fields and further connect the innovation ecosystems of Japan and t…"
-    },
-    {
-      "title": "IQM Plans Logical-Qubit System for Finland’s LUMI AI Factory",
-      "link": "https://thequantuminsider.com/2026/09/10/iqm-plans-logical-qubit-system-for-finlands-lumi-ai-factory/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 07:26:46 +0000",
-      "published_ts": 1789025206,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QM Quantum Computers (Nasdaq: IQMX) today announced its upgrade path for a logical-qubit-capable quantum computer. The deployment to the LUMI AI Factory, led by CSC – IT Center for Science, will support R&#38;D efforts toward fault-tolerant quantum computing and a…"
     },
     {
       "title": "Finite-energy Gottesman-Kitaev-Preskill state-enhanced optical interferometry",
@@ -304,30 +328,6 @@
       "published": "Thu, 03 Sep 2026 14:00:17 EDT",
       "published_ts": 1788458417,
       "summary": "The BESIII Collaboration, led by the Institute of High Energy Physics of the Chinese Academy of Sciences, has achieved the world's most precise measurement of the electric dipole moment (EDM) of the Lambda (Λ) hyperon using quantum-entangled Λ–anti-Λ pairs produced in J/ψ decays. The result improves…"
-    },
-    {
-      "title": "Quantum-optical spin glass could improve how AI remembers and learns",
-      "link": "https://phys.org/news/2026-09-quantum-optical-glass-ai.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 03 Sep 2026 14:00:01 EDT",
-      "published_ts": 1788458401,
-      "summary": "A new study has demonstrated that it is possible to make a network of atoms and photons that could improve how artificial intelligence stores and recalls memories. This network, called a quantum-optical spin glass, works as an associative memory, a form of AI that enables the recall of full memories…"
-    },
-    {
-      "title": "AI suggests new physics experiments that could outperform human-designed setups",
-      "link": "https://phys.org/news/2026-09-ai-physics-outperform-human-setups.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 03 Sep 2026 12:20:06 EDT",
-      "published_ts": 1788452406,
-      "summary": "Research means asking questions of the universe. For centuries, clever minds have advanced science by devising ingenious experiments designed so their results reveal something about the laws of nature as clearly and unambiguously as possible."
-    },
-    {
-      "title": "Dual-purpose qubit design could speed operations while cutting quantum errors",
-      "link": "https://phys.org/news/2026-09-dual-purpose-qubit-quantum-errors.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 03 Sep 2026 10:20:04 EDT",
-      "published_ts": 1788445204,
-      "summary": "Researchers from MIT have designed a new qubit architecture that enables qubits to interact with each other much more quickly while remaining very stable. This advance could someday help scientists build practical quantum computers that can run long, complex algorithms with high accuracy."
     },
     {
       "title": "New qubit architecture enables faster, more accurate operations",
