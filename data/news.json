@@ -1,6 +1,150 @@
 {
-  "generated_ts": 1789008475,
+  "generated_ts": 1789036079,
   "items": [
+    {
+      "title": "IQM Plans Logical-Qubit System for Finland’s LUMI AI Factory",
+      "link": "https://thequantuminsider.com/2026/09/10/iqm-plans-logical-qubit-system-for-finlands-lumi-ai-factory/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 07:26:46 +0000",
+      "published_ts": 1789025206,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QM Quantum Computers (Nasdaq: IQMX) today announced its upgrade path for a logical-qubit-capable quantum computer. The deployment to the LUMI AI Factory, led by CSC – IT Center for Science, will support R&#38;D efforts toward fault-tolerant quantum computing and a…"
+    },
+    {
+      "title": "IBM, Lockheed Martin Announce Swiss Quantum Innovation Hub at ETH Zurich, Anchored by Switzerland’s First IBM Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/09/10/ibm-lockheed-martin-announce-swiss-quantum-innovation-hub-at-eth-zurich-anchored-by-switzerlands-first-ibm-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 07:21:03 +0000",
+      "published_ts": 1789024863,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IBM (NYSE: IBM) and Lockheed Martin (NYSE: LMT), through an offset agreement with armasuisse, Switzerland&#8217;s Federal Office for Defence Procurement, today established a hub for quantum innovation at ETH Zurich, a prominent public research university. The new…"
+    },
+    {
+      "title": "SEALSQ Expands Quantum Highway to Nine Hubs Across Four Countries",
+      "link": "https://thequantuminsider.com/2026/09/10/sealsq-expands-quantum-highway-nine-hubs-four-countries/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 10 Sep 2026 07:00:00 +0000",
+      "published_ts": 1789023600,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or the &#8220;Company&#8221;), a global leader in secure semiconductors, PKI and post-quantum cybersecurity technologies, and its parent company WISeKey International Holding Ltd (SIX: WIHN; NASDAQ: WKEY) (&#8220;WI…"
+    },
+    {
+      "title": "Finite-energy Gottesman-Kitaev-Preskill state-enhanced optical interferometry",
+      "link": "https://arxiv.org/abs/2609.09227",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09227v1 Announce Type: new  Abstract: We present the case of a Gottesman-Kitaev-Preskill (GKP) state-enhanced optical interferometry with detailed analysis of the phase sensitivity for both the SU(2) and SU(1,1) interferometers. The conventional quantum-enhanced SU(2) interferometer, empl…"
+    },
+    {
+      "title": "Reconstructing fluid velocity fields from sparse sensors using a variational quantum algorithm",
+      "link": "https://arxiv.org/abs/2609.09268",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09268v1 Announce Type: new  Abstract: Reconstructing fields governed by nonlinear partial differential equations (PDEs) from sparse measurements is a challenging task because the governing equations are strongly nonlinear and observations are available at only a few locations. Fluid veloc…"
+    },
+    {
+      "title": "The Geometry of Transport in Quantum Walks and Parrondo's Paradox",
+      "link": "https://arxiv.org/abs/2609.09269",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09269v1 Announce Type: new  Abstract: We study Parrondo's paradox -- the phenomenon where combining losing strategies yields a winning one -- in a minimal discrete-time quantum walk. We introduce the transport vector, encoded in the coin's steady state, whose inner product with the initia…"
+    },
+    {
+      "title": "Python in the front, party in the Backline: compiling quantum workloads across CPUs, GPUs, and FPGAs",
+      "link": "https://arxiv.org/abs/2609.09270",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09270v1 Announce Type: new  Abstract: Moving from quantum research and development to production-grade, fault-tolerant quantum workload execution remains one of the most significant challenges facing quantum platform builders. While Python frameworks have enabled an easy entry point for q…"
+    },
+    {
+      "title": "Universal Entanglement Dynamics of Unitary Operators",
+      "link": "https://arxiv.org/abs/2609.09276",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09276v1 Announce Type: new  Abstract: The entangling power of a unitary operator acting on a bipartite Hilbert space measures the entanglement it generates from product states, averaged over the inputs. A finite-dimensional unitary has a spectral decomposition $U=\\sum_{a=1}^{n}e^{i\\theta_…"
+    },
+    {
+      "title": "Spectral Core-Tail Architecture for Locally Certified Gibbs-State Preparation",
+      "link": "https://arxiv.org/abs/2609.09291",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09291v1 Announce Type: new  Abstract: Preparing a quantum Gibbs state requires reproducing both its thermal distribution and the associated many-body eigenspaces. In this work, we formalize the spectral core-tail architecture (SCTA) as a framework comprising a structured thermal core, a g…"
+    },
+    {
+      "title": "Dual-unitary Circuits as a Platform for Quantum Reservoir Computing",
+      "link": "https://arxiv.org/abs/2609.09292",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09292v1 Announce Type: new  Abstract: Quantum reservoir computing (QRC) is a machine learning approach which employs the internal dynamics of a physical system (the reservoir) to encode and process information. In this work, we explore the use of dual-unitary circuits in a brickwork archi…"
+    },
+    {
+      "title": "Bell tests for collider decay processes",
+      "link": "https://arxiv.org/abs/2609.09294",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09294v1 Announce Type: new  Abstract: We propose Bell tests for collider decays using independently sampled analysis axes as settings and detector regions to assign binary or null outcomes. We show that a Bell violation requires postselection, opening a loophole. However, under measuremen…"
+    },
+    {
+      "title": "Multivariate quantum state preparation with optimized tensor networks",
+      "link": "https://arxiv.org/abs/2609.09304",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09304v1 Announce Type: new  Abstract: Quantics tensor trains are attracting intense interest for quantum-inspired computing and quantum state preparation. These methods, which approximate continuum functions by representing their amplitude encoding as a matrix product state (MPS), are exc…"
+    },
+    {
+      "title": "Execution-transcript privacy for fault-tolerant surface-code memories",
+      "link": "https://arxiv.org/abs/2609.09334",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09334v1 Announce Type: new  Abstract: A fault-tolerant quantum computer runs behind a telemetry stream logging syndromes, decoder actions, resets and timing separately from the answer. Can it reveal the logical input? For a distance-$d$ rotated surface-code memory on a fixed schedule of $…"
+    },
+    {
+      "title": "Certified measurement and control of an entanglement-breaking index on programmable hardware",
+      "link": "https://arxiv.org/abs/2609.09350",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09350v1 Announce Type: new  Abstract: The entanglement-breaking index of a quantum channel, the number of self-compositions after which the channel destroys all entanglement with any reference, has to our knowledge never been measured. We show that a certified thermal collision feedback l…"
+    },
+    {
+      "title": "From the Unknown to the Desired: Transforming Unknown Initial States in the Resource Theory of Work and Heat",
+      "link": "https://arxiv.org/abs/2609.09352",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09352v1 Announce Type: new  Abstract: We study thermodynamic state transformations in the resource theory of work and heat when the initial quantum state is unknown. Moving beyond state-dependent protocols, we develop a universal framework in which a single transformation applies to all a…"
+    },
+    {
+      "title": "Materials for Quantum Information Science: Roles in the Quantum Evolution 2.0",
+      "link": "https://arxiv.org/abs/2609.09371",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09371v1 Announce Type: new  Abstract: Quantum information science is entering a second phase, the Quantum Evolution 2.0, in which the challenge has shifted from demonstrating coherent control of individual quantum states to building scalable multi-qubit processors and networks. This trans…"
+    },
+    {
+      "title": "Non-Multiplicativity of the Holevo Barycenter of Quantum Channels",
+      "link": "https://arxiv.org/abs/2609.09373",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09373v1 Announce Type: new  Abstract: The Holevo barycenter of a quantum channel is the unique output state obtained as the average output of any ensemble achieving the Holevo capacity. Given two quantum channels, the multiplicativity problem asks whether this barycenter tensorizes under…"
+    },
+    {
+      "title": "Balancing Expressivity and Overfitting in Quantum Gaussian Process Regression",
+      "link": "https://arxiv.org/abs/2609.09407",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789012800,
+      "summary": "arXiv:2609.09407v1 Announce Type: new  Abstract: Active learning is a paradigm of machine learning that can be utilized to model expensive black-box functions by training a surrogate model from actively queried training points. The performance of this framework depends heavily on the choice of the s…"
+    },
     {
       "title": "Unconventional quantum materials could dramatically boost the search for dark matter",
       "link": "https://phys.org/news/2026-09-unconventional-quantum-materials-boost-dark.html",
@@ -80,30 +224,6 @@
       "published": "Wed, 09 Sep 2026 13:11:11 +0000",
       "published_ts": 1788959471,
       "summary": "Guest Post by Dr. Kris Naudts, Zeynep Koruturk and Donald Harmitt @ Firgun Ventures. Firgun Ventures is a VC firm investing in Series A/B quantum scale-ups globally. CERN occupies a monumental position in European science and particle physics. The laboratory near Geneva operates the Large Hadron Col…"
-    },
-    {
-      "title": "La Luce Cristallina Launches Silicon-Based STO Wafer Platform for Cryogenic Devices",
-      "link": "https://thequantuminsider.com/2026/09/09/la-luce-cristallina-strontium-titanate-on-insulator-wafer-platform/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 09 Sep 2026 13:00:55 +0000",
-      "published_ts": 1788958855,
-      "summary": "Insider Brief PRESS RELEASE &#8212; La Luce Cristallina today launched its 0.5-micrometer (µm) silicon-based quantum paraelectric strontium titanate on insulator (QP-STOI) wafer platform, enabling researchers and national laboratories to leverage STO&#8217;s low-temperature quantum paraelectric prop…"
-    },
-    {
-      "title": "NVision Selected for EuroHPC Quantum Grand Challenge With Spin-Qubit Project",
-      "link": "https://thequantuminsider.com/2026/09/09/nvision-selected-eurohpc-quantum-grand-challenge-spin-qubit-project/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 09 Sep 2026 12:43:34 +0000",
-      "published_ts": 1788957814,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The EuroHPC Joint Undertaking has selected NVision Quantum Technologies as one of 13 companies to receive funding under its Quantum Grand Challenge, an EU program aimed at helping Europe turn its strength in quantum research into industrial-scale, commercially com…"
-    },
-    {
-      "title": "Quobly and Absolut System Partner on Cryogenic Infrastructure for Spin-Qubit Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/09/09/quobly-absolut-system-cryogenic-infrastructure-spin-qubit-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 09 Sep 2026 12:27:53 +0000",
-      "published_ts": 1788956873,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quobly and Absolut System today announce the signing of an Industrial  Partnership Declaration to support the development and scaling of Quobly’s spin-qubit quantum  computers.  The signing comes as the two companies reach a first major milestone in the QCube® 100…"
     },
     {
       "title": "Helium-3 lifts new quantum computing concept with faster tunneling rates",
