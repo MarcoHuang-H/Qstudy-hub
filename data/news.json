@@ -1,13 +1,93 @@
 {
-  "generated_ts": 1789122616,
+  "generated_ts": 1789141511,
   "items": [
     {
-      "title": "Novo Holdings Report: Quantum Investment Must Move Beyond Hardware to Build Applications",
-      "link": "https://thequantuminsider.com/2026/09/11/novo-holdings-report-quantum-investment-must-move-beyond-hardware-to-build-applications/",
+      "title": "SEALSQ Reports 131% Revenue Growth in H1 2026",
+      "link": "https://thequantuminsider.com/2026/09/11/sealsq-h1-2026-results-fy2026-guidance/",
       "source": "The Quantum Insider",
-      "published": "Fri, 11 Sep 2026 09:03:07 +0000",
-      "published_ts": 1789117387,
-      "summary": "Insider Brief Quantum investors must begin backing applications that turn emerging machines into useful business tools, according to a new report from Novo Holdings. The report identifies life sciences as one of the clearest opportunities for building commercially defensible quantum applications. Th…"
+      "published": "Fri, 11 Sep 2026 14:20:31 +0000",
+      "published_ts": 1789136431,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or the &#8220;Company&#8221;), a company focused on developing and commercializing post-quantum semiconductor, PKI and trusted provisioning solutions, today announced its financial and operational results for the si…"
+    },
+    {
+      "title": "Stevens Researchers Take Step Toward More Precise, Practical Quantum Technologies",
+      "link": "https://thequantuminsider.com/2026/09/11/stevens-researchers-lower-intensity-quantum-control/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 11 Sep 2026 13:44:18 +0000",
+      "published_ts": 1789134258,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses. Howeve…"
+    },
+    {
+      "title": "The Quantum Insider Launches Datasets, Analyst-Verified Quantum Market Information",
+      "link": "https://thequantuminsider.com/2026/09/11/the-quantum-insider-launches-datasets-analyst-verified-quantum-market-information/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 11 Sep 2026 13:15:42 +0000",
+      "published_ts": 1789132542,
+      "summary": "Insider Brief The Quantum Insider (&#8220;TQI&#8221;), the market intelligence platform for quantum technology, today launched Datasets: analyst-verified quantum market information, sold one dataset at a time as an Excel workbook and a PDF briefing. Three are available at launch and four more are sc…"
+    },
+    {
+      "title": "Bull Selected to Modernize Spain’s National Weather Forecasting Infrastructure",
+      "link": "https://thequantuminsider.com/2026/09/11/bull-selected-to-modernize-spains-national-weather-forecasting-infrastructure/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 11 Sep 2026 13:02:36 +0000",
+      "published_ts": 1789131756,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Bull, a leader in advanced computing and AI, announced a €31 million contract with the Spanish State Meteorological Agency (AEMET) to deliver a new supercomputing infrastructure that will support faster and more accurate weather, climate and environmental forecast…"
+    },
+    {
+      "title": "Quantum Cybersecurity Explained: Preparing for Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/09/11/quantum-cybersecurity-explained-comprehensive-guide/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 11 Sep 2026 12:02:43 +0000",
+      "published_ts": 1789128163,
+      "summary": "Insider Brief Yahoo lost three billion accounts in 2013. Aadhaar had its own reckoning in 2018. Alibaba followed a year later. None of those breaches had anything to do with quantum computers, but they&#8217;re a reminder of how quickly secure data can stop being secure, and how much damage follows…"
+    },
+    {
+      "title": "Scientists just made quantum computer operations 1,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Fri, 11 Sep 2026 07:52:30 EDT",
+      "published_ts": 1789127550,
+      "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality."
+    },
+    {
+      "title": "Qubic Secures $1.5 Million Canadian Government Contract for Cryogenic Amplifiers",
+      "link": "https://thequantuminsider.com/2026/09/11/qubic-secures-1-5-million-canadian-government-contract-cryogenic-amplifiers/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 11 Sep 2026 11:03:01 +0000",
+      "published_ts": 1789124581,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qubic, a quantum technology company developing cryogenic, low-noise amplifiers for quantum computing and applications in sensing and defence, today announces it has signed a contract with an agency of Canada’s federal government valued at up to CA$1.5 million (US$…"
+    },
+    {
+      "title": "BWT Alpine and SEALSQ Explore Quantum-Classical Simulation for Formula One",
+      "link": "https://thequantuminsider.com/2026/09/11/bwt-alpine-sealsq-expand-quantum-computing-collaboration/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 11 Sep 2026 10:52:46 +0000",
+      "published_ts": 1789123966,
+      "summary": "Insider Brief PRESS RELEASE &#8212; BWT Alpine Formula One Team and&#160;SEALSQ&#160;(NASDAQ:&#160;LAES) today introduce an expanded collaboration that brings quantum-powered computation alongside quantum-secure infrastructure to one of Formula One&#8217;s most demanding engineering environments. Bu…"
+    },
+    {
+      "title": "QClairvoyance and Samgnya Sign MoU on Quantum Technology Research",
+      "link": "https://thequantuminsider.com/2026/09/11/qclairvoyance-and-samgnya-sign-mou-on-quantum-technology-research/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 11 Sep 2026 10:39:05 +0000",
+      "published_ts": 1789123145,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QClairvoyance Quantum Labs Pvt. Ltd., an Indian deep-tech company focused on quantum technologies, has signed a Memorandum of Understanding (MoU) with IITM–C-DOT Samgnya Technologies Foundation, India’s National Hub for Quantum Communication, established under the…"
+    },
+    {
+      "title": "Qtonic Quantum Publishes Q4 2026 Quantum Cybersecurity Report",
+      "link": "https://thequantuminsider.com/2026/09/11/qtonic-quantum-q4-2026-quantum-cybersecurity-report/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 11 Sep 2026 10:21:13 +0000",
+      "published_ts": 1789122073,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qtonic Quantum Corp today released State of Quantum Cybersecurity &#124; Q4 2026, a 92-page report helping organizations identify what to protect first, evaluate supplier evidence and plan post-quantum migration. Qtonic Quantum brings cryptographic discovery, auth…"
+    },
+    {
+      "title": "Quip Network to Launch Quantum Echoes QFT Collection",
+      "link": "https://thequantuminsider.com/2026/09/11/quip-network-launches-quantum-echoes-qft-collection/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 11 Sep 2026 10:12:22 +0000",
+      "published_ts": 1789121542,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Postquant Labs, the developer behind quantum computing marketplace quip.network, announces the upcoming launch of Quantum Echoes, the first digital collectibles seeded and generated by actual quantum hardware. Available from September 14, 2026, the collection mark…"
     },
     {
       "title": "Quantum Inversion of Units in Group Rings: Block Dimension, Not Commutativity, Governs Hardness",
@@ -162,84 +242,12 @@
       "summary": "So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quantum operation takes, the greater the risk of computational errors."
     },
     {
-      "title": "Researchers Send Twin Photons 7 Kilometers Across Brazil’s Guanabara Bay",
-      "link": "https://thequantuminsider.com/2026/09/10/researchers-send-twin-photons-7-kilometers-across-brazils-guanabara-bay/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 17:16:29 +0000",
-      "published_ts": 1789060589,
-      "summary": "Insider Brief PRESS RELEASE &#8212; José Tadeu Arantes &#124; Agência FAPESP — Researchers at Fluminense Federal University (UFF) have taken an important step toward quantum communication and the creation of an ultra-secure internet. They generated pairs of “twin photons,” or particles of light, and…"
-    },
-    {
-      "title": "Altera and Riverlane Partner to Bring Quantum Error Correction Support to Agilex FPGAs",
-      "link": "https://thequantuminsider.com/2026/09/10/altera-riverlane-partner-bring-quantum-error-correction-support-agilex-fpgas/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 15:50:45 +0000",
-      "published_ts": 1789055445,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Altera, the world’s largest pure-play FPGA solutions provider, and Riverlane, the world leader in quantum error correction (QEC) technology and tools, today announced their partnership to help quantum hardware developers build more flexible control and error-corre…"
-    },
-    {
       "title": "Spinons may help electrons pair along stripes in some superconductors",
       "link": "https://phys.org/news/2026-09-spinons-electrons-pair-stripes-superconductors.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 10 Sep 2026 10:00:11 EDT",
       "published_ts": 1789048811,
       "summary": "Superconductors are materials that carry electricity with zero resistance below specific temperatures. Many of these materials become superconducting at very low temperatures, yet some enter superconducting phases at higher temperatures."
-    },
-    {
-      "title": "Infleqtion and Cisco Collaborate on Quantum Networking Research",
-      "link": "https://thequantuminsider.com/2026/09/10/infleqtion-cisco-networked-quantum-systems/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 13:46:50 +0000",
-      "published_ts": 1789048010,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion, a global leader in quantum computing and quantum sensing powered by neutral atom technology, today announced a collaboration with Cisco to pursue joint research and development focused on connecting, operating, and scaling quantum systems. Together, th…"
-    },
-    {
-      "title": "Researchers And AI Agents Cut Estimated Quantum Cost of Attacking Bitcoin Encryption by 86%",
-      "link": "https://thequantuminsider.com/2026/09/10/researchers-and-ai-agents-cut-estimated-quantum-cost-of-attacking-bitcoin-encryption-by-86/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 13:23:36 +0000",
-      "published_ts": 1789046616,
-      "summary": "Insider Brief An open research project combining human scientists with AI agents has sharply reduced the estimated quantum computing resources needed for a key step in attacking the encryption used by Bitcoin, Ethereum and other blockchain networks. The study, posted on arXiv, describes how more tha…"
-    },
-    {
-      "title": "Cal State East Bay Opens Pathways to Careers in Quantum Technology",
-      "link": "https://thequantuminsider.com/2026/09/10/cal-state-east-bay-undergraduate-quantum-technology-program/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 11:55:16 +0000",
-      "published_ts": 1789041316,
-      "summary": "Insider Brief PRESS RELEASE &#8212; California is building the future of computing, and Cal State East Bay is helping ensure its students have a pathway to it. A new $37.5 million National Science Foundation investment will help bring quantum science out of research labs and into undergraduate class…"
-    },
-    {
-      "title": "Singular Photonics Launches Litavis SPAD Image Sensor",
-      "link": "https://thequantuminsider.com/2026/09/10/singular-photonics-launches-litavis-spad-image-sensor/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 11:28:55 +0000",
-      "published_ts": 1789039735,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Singular Photonics, an innovator in single-photon imaging, today announced the launch of its most advanced image sensor to date. Litavis is the world&#8217;s first single-photon avalanche diode (SPAD) sensor using in-pixel processing to unify imaging, timing, hist…"
-    },
-    {
-      "title": "Italy Courts IonQ as Rome Seeks Deeper U.S. Quantum Ties",
-      "link": "https://thequantuminsider.com/2026/09/10/italy-courts-ionq-as-rome-seeks-deeper-u-s-quantum-ties/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 11:22:25 +0000",
-      "published_ts": 1789039345,
-      "summary": "Insider Brief Italy is seeking closer cooperation with IonQ and other U.S. technology groups as Rome tries to turn its scientific strengths into a more competitive quantum industry. Alessio Butti, Italy’s undersecretary of state for technological innovation and digital transition, placed quantum tec…"
-    },
-    {
-      "title": "Xanadu and AMD Launch Backline for Low-Latency Quantum-Classical Computing",
-      "link": "https://thequantuminsider.com/2026/09/10/xanadu-amd-backline-low-latency-quantum-classical-computing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 11:21:51 +0000",
-      "published_ts": 1789039311,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Xanadu Quantum Technologies Limited (&#8220;Xanadu&#8220;; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, in collaboration with AMD today announced the release of Backline, an open-platform solution, co-designed by Xanadu and AMD, for rapid commu…"
-    },
-    {
-      "title": "Chalmers Researchers Make Bosonic Quantum Operations More Than 1,000 Times Faster",
-      "link": "https://thequantuminsider.com/2026/09/10/chalmers-researchers-faster-bosonic-quantum-operations/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 10 Sep 2026 11:14:28 +0000",
-      "published_ts": 1789038868,
-      "summary": "Insider Brief PRESS RELEASE &#8212; So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quantum operation takes, the greater the risk that computational errors will occur. Now, researchers at Chalmers University of Technology,…"
     },
     {
       "title": "Unconventional quantum materials could dramatically boost the search for dark matter",
@@ -544,14 +552,6 @@
       "published": "Thu, 28 May 2026 12:00:00 -0400",
       "published_ts": 1779984000,
       "summary": "With $25 million investment from the Commonwealth of Massachusetts, MIT to build a new shared-use facility to serve as a statewide quantum toolbox."
-    },
-    {
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Mon, 18 May 2026 20:23:26 EDT",
-      "published_ts": 1779150206,
-      "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy. The breakthrough may help replace some electronic computing processes with ultra-efficient light-based technology."
     },
     {
       "title": "Researchers “reprogram” materials by quickly rearranging their atoms",
