@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1789071674,
+  "generated_ts": 1789094488,
   "items": [
+    {
+      "title": "Ultra-cold quantum sensors cut X-ray uncertainty, improving nuclear material assessments",
+      "link": "https://phys.org/news/2026-09-ultra-cold-quantum-sensors-ray.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 10 Sep 2026 19:00:01 EDT",
+      "published_ts": 1789081201,
+      "summary": "To monitor the amount and type of nuclear material at power plants and weapons facilities, scientists look for a special signal—the unique pattern of gamma rays emitted by specific radioactive elements. However, some of these elements also emit X-rays in the same energy range as the gamma-ray emissi…"
+    },
     {
       "title": "Tightly guided atoms could enable low-power quantum navigation when GPS fails",
       "link": "https://phys.org/news/2026-09-tightly-atoms-enable-power-quantum.html",
@@ -320,14 +328,6 @@
       "published": "Fri, 04 Sep 2026 07:52:39 EDT",
       "published_ts": 1788522759,
       "summary": "MIT researchers have created bacterial “transistors” that can be wired together into living circuits capable of performing calculations and directing chemical signals. One day, these biological computers could coat plant roots or leaves, detecting environmental threats and automatically triggering d…"
-    },
-    {
-      "title": "BESIII sets world's most stringent direct limit on Lambda hyperon electric dipole moment",
-      "link": "https://phys.org/news/2026-09-besiii-world-stringent-limit-lambda.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 03 Sep 2026 14:00:17 EDT",
-      "published_ts": 1788458417,
-      "summary": "The BESIII Collaboration, led by the Institute of High Energy Physics of the Chinese Academy of Sciences, has achieved the world's most precise measurement of the electric dipole moment (EDM) of the Lambda (Λ) hyperon using quantum-entangled Λ–anti-Λ pairs produced in J/ψ decays. The result improves…"
     },
     {
       "title": "New qubit architecture enables faster, more accurate operations",
