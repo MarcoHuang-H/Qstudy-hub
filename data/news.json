@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1789207088,
+  "generated_ts": 1789224833,
   "items": [
+    {
+      "title": "Tiny sound waves could help solve a major quantum computing problem",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Sat, 12 Sep 2026 10:08:20 EDT",
+      "published_ts": 1789222100,
+      "summary": "Researchers at Harvard have demonstrated a way to protect quantum information using microscopic sound waves. By continuously surrounding a diamond-based qubit with mechanical vibrations, they extended its coherence time by roughly threefold. The same phonons could eventually both transmit and protec…"
+    },
+    {
+      "title": "Physicists turn classical light into a quantum machine for information processing",
+      "link": "https://phys.org/news/2026-09-physicists-classical-quantum-machine.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 12 Sep 2026 10:00:01 EDT",
+      "published_ts": 1789221601,
+      "summary": "Quantum computers promise to tackle problems that are extraordinarily difficult for today's computers. But there is a major obstacle: quantum systems are notoriously fragile. Noise, loss and even tiny disturbances can destroy the delicate behavior that gives them their power. Building systems with m…"
+    },
     {
       "title": "Klea Dhmitri (Hamamatsu): Photonics as the hidden backbone of quantum hardware scaling",
       "link": "https://thequantuminsider.com/2026/09/12/klea-dhmitri-hamamatsu-photonics-as-the-hidden-backbone-of-quantum-hardware-scaling/",
@@ -202,14 +218,6 @@
       "summary": "Superconductors are materials that conduct electricity without electrical resistance when cooled below a specific critical temperature. These materials have proved promising for the development of various technologies, including medical imaging instruments, particle accelerators, ultrasensitive dete…"
     },
     {
-      "title": "Magic-angle graphene provides evidence for unconventional superconductivity",
-      "link": "https://phys.org/news/2026-09-magic-angle-graphene-evidence-unconventional.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 04 Sep 2026 17:20:03 EDT",
-      "published_ts": 1788556803,
-      "summary": "Researchers have completely suppressed superconductivity in magic-angle graphene by screening interactions between electrons, helping resolve a long-running debate about the origin of the phenomenon."
-    },
-    {
       "title": "MIT turns bacteria into living transistors",
       "link": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -408,14 +416,6 @@
       "published": "Tue, 02 Jun 2026 00:30:26 EDT",
       "published_ts": 1780374626,
       "summary": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light…"
-    },
-    {
-      "title": "Stanford quantum computing breakthrough uses twisted light to work without extreme cooling",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528074028.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Sat, 30 May 2026 01:08:07 EDT",
-      "published_ts": 1780117687,
-      "summary": "A new room-temperature quantum device uses twisted light to entangle photons and electrons, overcoming one of the biggest hurdles in quantum technology. The breakthrough could pave the way for smaller, cheaper quantum systems with applications ranging from secure communications to future AI and comp…"
     },
     {
       "title": "New laboratory at MIT aims to advance quantum research for the nation",
