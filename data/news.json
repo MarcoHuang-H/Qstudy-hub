@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1789297184,
+  "generated_ts": 1789313434,
   "items": [
+    {
+      "title": "Scientists are building a microscope powered by a quantum computer",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Sun, 13 Sep 2026 08:03:59 EDT",
+      "published_ts": 1789301039,
+      "summary": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from each electron. The approach could reveal faint details with fewer electrons, helping protect fragile samples that conventional microscopy can damage."
+    },
+    {
+      "title": "Physicists discover a hidden “curveball” in quantum light",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Sun, 13 Sep 2026 07:22:01 EDT",
+      "published_ts": 1789298521,
+      "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a tightly focused laser interacts most strongly with an atom slightly away from the beam’s center. The unexpected shift is similar to the physics that makes a spinning table tennis ball curve th…"
+    },
     {
       "title": "Tiny sound waves could help solve a major quantum computing problem",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
@@ -400,22 +416,6 @@
       "published": "Mon, 15 Jun 2026 03:29:46 EDT",
       "published_ts": 1781508586,
       "summary": "Oxford physicists have created an entirely new type of Schrödinger’s cat-like quantum state using components that are themselves highly quantum in nature. The advance could open new possibilities for more resilient quantum computers and deeper insights into the strange rules that govern the quantum…"
-    },
-    {
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Fri, 12 Jun 2026 06:38:54 EDT",
-      "published_ts": 1781260734,
-      "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave lik…"
-    },
-    {
-      "title": "New light-powered chip could accelerate AI and quantum computing",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Tue, 02 Jun 2026 00:30:26 EDT",
-      "published_ts": 1780374626,
-      "summary": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light…"
     },
     {
       "title": "New laboratory at MIT aims to advance quantum research for the nation",
