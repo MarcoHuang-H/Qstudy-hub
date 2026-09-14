@@ -1,6 +1,142 @@
 {
-  "generated_ts": 1789355014,
+  "generated_ts": 1789385746,
   "items": [
+    {
+      "title": "New Quantum Materials Could Dramatically Boost the Search for Dark Matter",
+      "link": "https://thequantuminsider.com/2026/09/14/new-quantum-materials-could-dramatically-boost-the-search-for-dark-matter/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 14 Sep 2026 09:04:00 +0000",
+      "published_ts": 1789376640,
+      "summary": "Insider Brief PRESS RELEASE &#8212; For decades, physicists have searched for dark matter, the invisible substance thought to make up roughly 85% of all matter in the universe. Although its gravitational influence shapes galaxies and the large-scale structure of the cosmos, dark matter has never bee…"
+    },
+    {
+      "title": "Fortaegis Raises $50 Million to Commercialize Chip-Based Security Technology",
+      "link": "https://thequantuminsider.com/2026/09/14/fortaegis-raises-50-million-to-commercialize-chip-based-security-technology/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 14 Sep 2026 07:33:26 +0000",
+      "published_ts": 1789371206,
+      "summary": "Insider Brief Dutch startup Fortaegis has raised $50 million to move its chip-based security technology into commercial production, targeting networks that connect AI systems, defense equipment, satellites and autonomous machines. The oversubscribed Series A was led by Singapore-based Serendipity Ca…"
+    },
+    {
+      "title": "Log-depth entanglement transition in hypercube Gaussian boson sampling",
+      "link": "https://arxiv.org/abs/2609.12043",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12043v1 Announce Type: new  Abstract: We study an entanglement transition at logarithmic depth in random hypercube linear optical networks. Starting from an initial Gaussian state with all modes squeezed, we prove that random hypercube linear optical networks on $n$ modes generate ensembl…"
+    },
+    {
+      "title": "Dephasing-driven suppression of superradiance and metastable dynamics in the anisotropic open Rabi model",
+      "link": "https://arxiv.org/abs/2609.12066",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12066v1 Announce Type: new  Abstract: Finite-component light-matter systems realize dissipative phase transitions in a single controllable atom-cavity setup, but how atomic dephasing - ubiquitous in real cavity- and circuit-QED devices - affects this criticality remains unknown. We study…"
+    },
+    {
+      "title": "Modeling Quantum Error Detection with Transition Matrices",
+      "link": "https://arxiv.org/abs/2609.12073",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12073v1 Announce Type: new  Abstract: We construct an explicit transition matrix that exactly describes code-adapted basis-population dynamics of stabilizer codes under circuit-level stochastic Pauli noise. The matrix is expressed in a code-adapted basis that captures probability flow bet…"
+    },
+    {
+      "title": "Evidencing Macroscopic Quantum Coherence using Confined Uniform Magnetic Field",
+      "link": "https://arxiv.org/abs/2609.12124",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12124v1 Announce Type: new  Abstract: A previously unexplored scheme is devised for creating and certifying coherent quantum superposition of distinctly separated states of a spin-tagged massive object passing through a confined uniform magnetic field. This results in entangling the spati…"
+    },
+    {
+      "title": "Benchmarking the computational power of quantum computers",
+      "link": "https://arxiv.org/abs/2609.12146",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12146v1 Announce Type: new  Abstract: Quantum computing hardware is advancing rapidly toward utility-scale machines that will enable scientific breakthroughs. Many teams are pursuing distinct and difficult-to-compare routes to this goal, using different qubit technologies and logical arch…"
+    },
+    {
+      "title": "Parallel Circuit Execution for Scalable Quantum Computation",
+      "link": "https://arxiv.org/abs/2609.12172",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12172v1 Announce Type: new  Abstract: Today's quantum processors have tens to hundreds of physical qubits, but reliable execution of arbitrary circuits remains limited to fewer than 30 entangled qubits across hardware modalities. Building upon prior work, we introduce an error- and topolo…"
+    },
+    {
+      "title": "Ab initio multichannel calculation of the Bethe surface and Compton defects for molecular hydrogen",
+      "link": "https://arxiv.org/abs/2609.12200",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12200v1 Announce Type: new  Abstract: A correlated multichannel computation of the generalized oscillator-strength density for electrons scattering off randomly oriented molecular hydrogen at the internuclear separation of 1.4 $a_0$ is being presented. The numerical procedure features a n…"
+    },
+    {
+      "title": "Path-Degenerate Quantum Interferometry for Decoherence Mitigation in Gravitational-Wave Detectors",
+      "link": "https://arxiv.org/abs/2609.12204",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12204v1 Announce Type: new  Abstract: Optical decoherence degrades quantum correlations in squeezed states of light, severely limiting the quantum-nondemolition (QND) sensitivity of gravitational-wave detectors. Here, we propose the path-degenerate quantum interferometry scheme that obvia…"
+    },
+    {
+      "title": "Learning Sparse Quantum States",
+      "link": "https://arxiv.org/abs/2609.12219",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12219v1 Announce Type: new  Abstract: We study the problem of tomography for $k$-sparse quantum states. In contrast to classical distribution learning, where tight sample and time complexity bounds in terms of support size are well understood, no non-trivial bounds were previously shown f…"
+    },
+    {
+      "title": "Keyless secrecy against bounded adversaries",
+      "link": "https://arxiv.org/abs/2609.12251",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12251v1 Announce Type: new  Abstract: We introduce a keyless coding/cryptographic primitive that asks for two guarantees at once: the receiver is never fooled into accepting a message other than the one sent, and the adversary learns nothing about the message unless the receiver aborts. N…"
+    },
+    {
+      "title": "Sparse-Blossom Decoding in $o(1)$ Time",
+      "link": "https://arxiv.org/abs/2609.12262",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12262v1 Announce Type: new  Abstract: Matching-based decoding is widely used in quantum error correction, and accelerating it is key to enabling fast and scalable fault-tolerant quantum computation. Minimum-weight perfect matching (MWPM) decoding provides rigorous guarantees for error sup…"
+    },
+    {
+      "title": "A Simple Quantum Linear-System Solver via Dissipation",
+      "link": "https://arxiv.org/abs/2609.12284",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12284v1 Announce Type: new  Abstract: Dissipation has been recently demonstrated as a powerful primitive for designing quantum algorithms. We apply this viewpoint directly to linear-system solving, $Ax=b$. We construct a simple purely dissipative Lindbladian whose unique fixed point encod…"
+    },
+    {
+      "title": "Dynamical qubit cooling via quasi-particle transport",
+      "link": "https://arxiv.org/abs/2609.12289",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12289v1 Announce Type: new  Abstract: Cooling a quantum state presents a challenge as the external control in active protocols can induce detrimental heating in the system. Passive cooling processes offer a valuable alternative: Here, we present a simple quench protocol to cool a set of q…"
+    },
+    {
+      "title": "The Low-Individual-Degree Test Without the Diagonal-Lines Test Is Not Quantum-Sound",
+      "link": "https://arxiv.org/abs/2609.12346",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12346v1 Announce Type: new  Abstract: To prove the quantum soundness of the classical low-individual-degree test, the authors of \\cite{JNVWY20LID} defined three subtests, namely the axis-parallel lines test, the self-consistency test, and the diagonal-lines test. An interesting question i…"
+    },
+    {
+      "title": "Quantum neural network equipped with backpropagation on a qudit processor",
+      "link": "https://arxiv.org/abs/2609.12500",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 14 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789358400,
+      "summary": "arXiv:2609.12500v1 Announce Type: new  Abstract: Quantum neural networks (QNNs), one of the fundamental algorithms in quantum machine learning, have been widely used in classification and identification tasks. However, the capabilities of QNNs are constrained by their size, which is determined by th…"
+    },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
       "link": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
@@ -16,6 +152,14 @@
       "published": "Sun, 13 Sep 2026 07:22:01 EDT",
       "published_ts": 1789298521,
       "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a tightly focused laser interacts most strongly with an atom slightly away from the beam’s center. The unexpected shift is similar to the physics that makes a spinning table tennis ball curve th…"
+    },
+    {
+      "title": "Quantum Machines Makes Quantum Computers Easier to Program With NVIDIA CUDA-Q And NVQLink",
+      "link": "https://thequantuminsider.com/2026/09/13/quantum-machines-makes-quantum-computers-easier-to-program-with-nvidia-cuda-q-and-nvqlink/",
+      "source": "The Quantum Insider",
+      "published": "Sun, 13 Sep 2026 11:05:00 +0000",
+      "published_ts": 1789297500,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Machines, a leading provider of advanced quantum control solutions, today became the first control company to run an&#160;end-to-end&#160;NVIDIA&#160;CUDA-Q&#160;program across live qubits and a PPU classical processor with&#160;NVIDIA&#160;NVQLink.&#160;C…"
     },
     {
       "title": "Tiny sound waves could help solve a major quantum computing problem",
@@ -96,30 +240,6 @@
       "published": "Fri, 11 Sep 2026 11:03:01 +0000",
       "published_ts": 1789124581,
       "summary": "Insider Brief PRESS RELEASE &#8212; Qubic, a quantum technology company developing cryogenic, low-noise amplifiers for quantum computing and applications in sensing and defence, today announces it has signed a contract with an agency of Canada’s federal government valued at up to CA$1.5 million (US$…"
-    },
-    {
-      "title": "BWT Alpine and SEALSQ Explore Quantum-Classical Simulation for Formula One",
-      "link": "https://thequantuminsider.com/2026/09/11/bwt-alpine-sealsq-expand-quantum-computing-collaboration/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 11 Sep 2026 10:52:46 +0000",
-      "published_ts": 1789123966,
-      "summary": "Insider Brief PRESS RELEASE &#8212; BWT Alpine Formula One Team and&#160;SEALSQ&#160;(NASDAQ:&#160;LAES) today introduce an expanded collaboration that brings quantum-powered computation alongside quantum-secure infrastructure to one of Formula One&#8217;s most demanding engineering environments. Bu…"
-    },
-    {
-      "title": "QClairvoyance and Samgnya Sign MoU on Quantum Technology Research",
-      "link": "https://thequantuminsider.com/2026/09/11/qclairvoyance-and-samgnya-sign-mou-on-quantum-technology-research/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 11 Sep 2026 10:39:05 +0000",
-      "published_ts": 1789123145,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QClairvoyance Quantum Labs Pvt. Ltd., an Indian deep-tech company focused on quantum technologies, has signed a Memorandum of Understanding (MoU) with IITM–C-DOT Samgnya Technologies Foundation, India’s National Hub for Quantum Communication, established under the…"
-    },
-    {
-      "title": "Qtonic Quantum Publishes Q4 2026 Quantum Cybersecurity Report",
-      "link": "https://thequantuminsider.com/2026/09/11/qtonic-quantum-q4-2026-quantum-cybersecurity-report/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 11 Sep 2026 10:21:13 +0000",
-      "published_ts": 1789122073,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qtonic Quantum Corp today released State of Quantum Cybersecurity &#124; Q4 2026, a 92-page report helping organizations identify what to protect first, evaluate supplier evidence and plan post-quantum migration. Qtonic Quantum brings cryptographic discovery, auth…"
     },
     {
       "title": "Ultra-cold quantum sensors cut X-ray uncertainty, improving nuclear material assessments",
