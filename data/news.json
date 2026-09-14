@@ -1,21 +1,109 @@
 {
-  "generated_ts": 1789385746,
+  "generated_ts": 1789407067,
   "items": [
     {
-      "title": "New Quantum Materials Could Dramatically Boost the Search for Dark Matter",
-      "link": "https://thequantuminsider.com/2026/09/14/new-quantum-materials-could-dramatically-boost-the-search-for-dark-matter/",
+      "title": "Oxford Quantum Startup Cloq Wins Top Prize at Reuben Entrepreneurship Forum",
+      "link": "https://thequantuminsider.com/2026/09/14/oxford-quantum-startup-cloq-top-prize-reuben-entrepreneurship-forum/",
       "source": "The Quantum Insider",
-      "published": "Mon, 14 Sep 2026 09:04:00 +0000",
-      "published_ts": 1789376640,
-      "summary": "Insider Brief PRESS RELEASE &#8212; For decades, physicists have searched for dark matter, the invisible substance thought to make up roughly 85% of all matter in the universe. Although its gravitational influence shapes galaxies and the large-scale structure of the cosmos, dark matter has never bee…"
+      "published": "Mon, 14 Sep 2026 16:30:05 +0000",
+      "published_ts": 1789403405,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Cloq took the top prize at the Forum, now in its fourth year, with the pitch delivered by teammate David McMahon, a DPhil student in Atomic and Laser Physics. The win builds on Cloq&#8217;s second-place finish at Oxford Edge&#8217;s StEP Demo Day last month and co…"
     },
     {
-      "title": "Fortaegis Raises $50 Million to Commercialize Chip-Based Security Technology",
-      "link": "https://thequantuminsider.com/2026/09/14/fortaegis-raises-50-million-to-commercialize-chip-based-security-technology/",
+      "title": "Quandela Publishes White Paper on Photonic QPU Integration With NVIDIA Infrastructure",
+      "link": "https://thequantuminsider.com/2026/09/14/quandela-white-paper-photonic-qpu-nvidia-infrastructure/",
       "source": "The Quantum Insider",
-      "published": "Mon, 14 Sep 2026 07:33:26 +0000",
-      "published_ts": 1789371206,
-      "summary": "Insider Brief Dutch startup Fortaegis has raised $50 million to move its chip-based security technology into commercial production, targeting networks that connect AI systems, defense equipment, satellites and autonomous machines. The oversubscribed Series A was led by Singapore-based Serendipity Ca…"
+      "published": "Mon, 14 Sep 2026 16:21:33 +0000",
+      "published_ts": 1789402893,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Building on our June announcement of a low-latency integration between a Quandela photonic QPU and NVIDIA AI infrastructure, the companies are publishing a technical white paper today. This paper outlines a vision and architectural framework for gradually integrat…"
+    },
+    {
+      "title": "Getting photons into shape for reliable quantum communication",
+      "link": "https://phys.org/news/2026-09-photons-reliable-quantum-communication.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 14 Sep 2026 12:20:06 EDT",
+      "published_ts": 1789402806,
+      "summary": "The vast majority of modern quantum technologies—from quantum cryptography to the quantum internet to the quantum computer—rely on one essential element: the transmission of photons. Two qubits (two atoms, for example) exchange information: One qubit emits a photon, and the other qubit absorbs it."
+    },
+    {
+      "title": "NSF Launches $20M Pilot for Deep-Tech Commercialization",
+      "link": "https://thequantuminsider.com/2026/09/14/nsf-20m-pilot-deep-tech-commercialization/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 14 Sep 2026 14:52:07 +0000",
+      "published_ts": 1789397527,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. National Science Foundation today announced a $20 million investment to launch a two-year pilot supporting small businesses in commercializing their deep-technology ventures. The pilot aims to address a persistent gap separating federally funded deep tech…"
+    },
+    {
+      "title": "Photonic Proposes CAD$500 Million Canadian Semiconductor Manufacturing Facility",
+      "link": "https://thequantuminsider.com/2026/09/14/photonic-proposes-cad500-million-canadian-semiconductor-manufacturing-facility/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 14 Sep 2026 14:35:46 +0000",
+      "published_ts": 1789396546,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Photonic Inc. today announced Project VANGUARD, a proposal to establish a Canadian multi-tenant semiconductor manufacturing facility, anchored by Photonic. Project VANGUARD has been selected for inclusion in the Canada Investment Summit Prospectus, a curated portf…"
+    },
+    {
+      "title": "BlueQubit Launches Quantum Flywheel Research Grant Program",
+      "link": "https://thequantuminsider.com/2026/09/14/bluequbit-quantum-flywheel-research-grant-program/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 14 Sep 2026 14:20:49 +0000",
+      "published_ts": 1789395649,
+      "summary": "Insider Brief PRESS RELEASE &#8212; BlueQubit announced the open call for its Quantum Flywheel grant program, a $150,000 initiative created with support from IBM, Amazon Web Services (AWS), and NVIDIA accelerated computing. The three-month program provides research teams with cloud compute credits f…"
+    },
+    {
+      "title": "IonQ to Present Nine Peer-Reviewed Papers and Take Part in Seven Events at 2026 IEEE Quantum Week",
+      "link": "https://thequantuminsider.com/2026/09/14/ionq-nine-research-papers-ieee-quantum-week-2026/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 14 Sep 2026 14:13:36 +0000",
+      "published_ts": 1789395216,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced it will take part in the 2026 IEEE International Conference on Quantum Computing and Engineering (QCE26) meeting. IEEE is the premier international flagship conference…"
+    },
+    {
+      "title": "Physicists help uncover 'spooky' quantum effect in the Large Hadron Collider",
+      "link": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 14 Sep 2026 10:12:41 EDT",
+      "published_ts": 1789395161,
+      "summary": "Physicists at the University of Oxford have helped confirm that one of the strangest phenomena in physics—quantum entanglement—occurs even among some of the heaviest and most fleeting particles ever created. The discovery, made using the world's most powerful particle collider at CERN, has been publ…"
+    },
+    {
+      "title": "Infleqtion Integrates qLDPC With NVIDIA CUDA-Q Logical",
+      "link": "https://thequantuminsider.com/2026/09/14/infleqtion-advances-fault-tolerant-quantum-computing-software-nvidia-cuda-q-logical/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 14 Sep 2026 13:51:33 +0000",
+      "published_ts": 1789393893,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today announced results from its integration of NVIDIA CUDA-Q Logical with the qLDPC open-source library for quantum error correction research. In…"
+    },
+    {
+      "title": "Qedma Brings Quantum Error Mitigation to NVIDIA CUDA-Q",
+      "link": "https://thequantuminsider.com/2026/09/14/qedma-quantum-error-mitigation-nvidia-cuda-q/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 14 Sep 2026 13:43:34 +0000",
+      "published_ts": 1789393414,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qedma Quantum Computing, a pioneer in quantum error reduction software, today announced an integration of QESEM software with the NVIDIA CUDA-Q platform. Qedma’s integration with CUDA-Q is currently available for use with Quantinuum hardware and will be available…"
+    },
+    {
+      "title": "NVIDIA Expands Open Source CUDA-Q Platform",
+      "link": "https://thequantuminsider.com/2026/09/14/nvidia-expands-open-source-cuda-q-platform/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 14 Sep 2026 13:37:56 +0000",
+      "published_ts": 1789393076,
+      "summary": "Insider Brief PRESS RELEASE &#8212; NVIDIA today announced an expansion of the NVIDIA CUDA-Q™ open source platform with CUDA-Q Logical, an orchestration layer that provides a programmable, verifiable approach to developing useful applications for fault-tolerant quantum computers.  Fault-tolerant qua…"
+    },
+    {
+      "title": "Phasecraft and NVIDIA Report 15x Speedup in Quantum Simulations",
+      "link": "https://thequantuminsider.com/2026/09/14/phasecraft-nvidia-quantum-simulation-drug-discovery/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 14 Sep 2026 13:05:00 +0000",
+      "published_ts": 1789391100,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Phasecraft, the world’s leading quantum algorithms company, today announced that the company is bringing together Phasecraft&#8216;s hardware-adaptive ultra-efficient quantum algorithms with NVIDIA AI infrastructure to accelerate the path to fault-tolerant quantum…"
+    },
+    {
+      "title": "Ultracold cesium atoms reveal Bethe strings predicted nearly a century ago",
+      "link": "https://phys.org/news/2026-09-ultracold-cesium-atoms-reveal-bethe.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 14 Sep 2026 08:40:08 EDT",
+      "published_ts": 1789389608,
+      "summary": "In 1931, physicist Hans Bethe predicted that, in certain one-dimensional quantum systems, particles can bind together to form multi-particle states known as Bethe strings. Unlike ordinary molecules, which are held together by chemical bonds, Bethe strings arise purely from interactions between parti…"
     },
     {
       "title": "Log-depth entanglement transition in hypercube Gaussian boson sampling",
@@ -154,14 +242,6 @@
       "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a tightly focused laser interacts most strongly with an atom slightly away from the beam’s center. The unexpected shift is similar to the physics that makes a spinning table tennis ball curve th…"
     },
     {
-      "title": "Quantum Machines Makes Quantum Computers Easier to Program With NVIDIA CUDA-Q And NVQLink",
-      "link": "https://thequantuminsider.com/2026/09/13/quantum-machines-makes-quantum-computers-easier-to-program-with-nvidia-cuda-q-and-nvqlink/",
-      "source": "The Quantum Insider",
-      "published": "Sun, 13 Sep 2026 11:05:00 +0000",
-      "published_ts": 1789297500,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Machines, a leading provider of advanced quantum control solutions, today became the first control company to run an&#160;end-to-end&#160;NVIDIA&#160;CUDA-Q&#160;program across live qubits and a PPU classical processor with&#160;NVIDIA&#160;NVQLink.&#160;C…"
-    },
-    {
       "title": "Tiny sound waves could help solve a major quantum computing problem",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -178,68 +258,12 @@
       "summary": "Quantum computers promise to tackle problems that are extraordinarily difficult for today's computers. But there is a major obstacle: quantum systems are notoriously fragile. Noise, loss and even tiny disturbances can destroy the delicate behavior that gives them their power. Building systems with m…"
     },
     {
-      "title": "Klea Dhmitri (Hamamatsu): Photonics as the hidden backbone of quantum hardware scaling",
-      "link": "https://thequantuminsider.com/2026/09/12/klea-dhmitri-hamamatsu-photonics-as-the-hidden-backbone-of-quantum-hardware-scaling/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 12 Sep 2026 07:00:00 +0000",
-      "published_ts": 1789196400,
-      "summary": "Klea Dhmitri of Hamamatsu joins Yuval to discuss the company’s role as a photonic component provider for trapped-ion and neutral-atom quantum computers. She explains key technologies such as photomultiplier tubes (PMTs), SPADs, and quantitative CMOS cameras, and how scaling to larger qubit arrays ch…"
-    },
-    {
-      "title": "SEALSQ Reports 131% Revenue Growth in H1 2026",
-      "link": "https://thequantuminsider.com/2026/09/11/sealsq-h1-2026-results-fy2026-guidance/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 11 Sep 2026 14:20:31 +0000",
-      "published_ts": 1789136431,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or the &#8220;Company&#8221;), a company focused on developing and commercializing post-quantum semiconductor, PKI and trusted provisioning solutions, today announced its financial and operational results for the si…"
-    },
-    {
-      "title": "Stevens Researchers Take Step Toward More Precise, Practical Quantum Technologies",
-      "link": "https://thequantuminsider.com/2026/09/11/stevens-researchers-lower-intensity-quantum-control/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 11 Sep 2026 13:44:18 +0000",
-      "published_ts": 1789134258,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses. Howeve…"
-    },
-    {
-      "title": "The Quantum Insider Launches Datasets, Analyst-Verified Quantum Market Information",
-      "link": "https://thequantuminsider.com/2026/09/11/the-quantum-insider-launches-datasets-analyst-verified-quantum-market-information/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 11 Sep 2026 13:15:42 +0000",
-      "published_ts": 1789132542,
-      "summary": "Insider Brief The Quantum Insider (&#8220;TQI&#8221;), the market intelligence platform for quantum technology, today launched Datasets: analyst-verified quantum market information, sold one dataset at a time as an Excel workbook and a PDF briefing. Three are available at launch and four more are sc…"
-    },
-    {
-      "title": "Bull Selected to Modernize Spain’s National Weather Forecasting Infrastructure",
-      "link": "https://thequantuminsider.com/2026/09/11/bull-selected-to-modernize-spains-national-weather-forecasting-infrastructure/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 11 Sep 2026 13:02:36 +0000",
-      "published_ts": 1789131756,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Bull, a leader in advanced computing and AI, announced a €31 million contract with the Spanish State Meteorological Agency (AEMET) to deliver a new supercomputing infrastructure that will support faster and more accurate weather, climate and environmental forecast…"
-    },
-    {
-      "title": "Quantum Cybersecurity Explained: Preparing for Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/09/11/quantum-cybersecurity-explained-comprehensive-guide/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 11 Sep 2026 12:02:43 +0000",
-      "published_ts": 1789128163,
-      "summary": "Insider Brief Yahoo lost three billion accounts in 2013. Aadhaar had its own reckoning in 2018. Alibaba followed a year later. None of those breaches had anything to do with quantum computers, but they&#8217;re a reminder of how quickly secure data can stop being secure, and how much damage follows…"
-    },
-    {
       "title": "Scientists just made quantum computer operations 1,000 times faster",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Fri, 11 Sep 2026 07:52:30 EDT",
       "published_ts": 1789127550,
       "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality."
-    },
-    {
-      "title": "Qubic Secures $1.5 Million Canadian Government Contract for Cryogenic Amplifiers",
-      "link": "https://thequantuminsider.com/2026/09/11/qubic-secures-1-5-million-canadian-government-contract-cryogenic-amplifiers/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 11 Sep 2026 11:03:01 +0000",
-      "published_ts": 1789124581,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qubic, a quantum technology company developing cryogenic, low-noise amplifiers for quantum computing and applications in sensing and defence, today announces it has signed a contract with an agency of Canada’s federal government valued at up to CA$1.5 million (US$…"
     },
     {
       "title": "Ultra-cold quantum sensors cut X-ray uncertainty, improving nuclear material assessments",
@@ -328,30 +352,6 @@
       "published": "Tue, 08 Sep 2026 10:00:05 EDT",
       "published_ts": 1788876005,
       "summary": "Superfluid helium could offer a new way to tackle one of the biggest challenges in scaling up quantum computers, say researchers from the University of Surrey. The research team has introduced a conceptual design for a new type of qubit that could be much less vulnerable to errors."
-    },
-    {
-      "title": "A photon that challenges Einstein: According to current physics, it should never have reached Earth",
-      "link": "https://phys.org/news/2026-09-photon-einstein-current-physics-earth.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 08 Sep 2026 09:40:01 EDT",
-      "published_ts": 1788874801,
-      "summary": "How did a photon survive a journey of more than 2 billion light-years when, according to known physics, it should have been absorbed long before reaching Earth? This is the question at the heart of a new study by Giorgio Galanti (INAF) and Marco Roncadelli (INFN), accepted for publication in Physica…"
-    },
-    {
-      "title": "Entangled particles revive a 35-year-old test of the Standard Model",
-      "link": "https://phys.org/news/2026-09-entangled-particles-revive-year-standard.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 07 Sep 2026 13:40:10 EDT",
-      "published_ts": 1788802810,
-      "summary": "Physicists at the BESIII Collaboration have breathed new life into a decades-old test of one of the Standard Model's most important ideas, using a technique that had gone almost untouched by experimenters for 35 years."
-    },
-    {
-      "title": "Three quantum phases in chromium-based material hint at a spin-triplet superconductor",
-      "link": "https://phys.org/news/2026-09-quantum-phases-chromium-based-material.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 07 Sep 2026 07:00:01 EDT",
-      "published_ts": 1788778801,
-      "summary": "Superconductors are materials that conduct electricity without electrical resistance when cooled below a specific critical temperature. These materials have proved promising for the development of various technologies, including medical imaging instruments, particle accelerators, ultrasensitive dete…"
     },
     {
       "title": "MIT turns bacteria into living transistors",
