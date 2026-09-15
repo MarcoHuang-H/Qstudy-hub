@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1789488412,
+  "generated_ts": 1789505257,
   "items": [
+    {
+      "title": "Magnets could help quantum computers talk to each other, says researcher",
+      "link": "https://phys.org/news/2026-09-magnets-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 15 Sep 2026 16:00:01 EDT",
+      "published_ts": 1789502401,
+      "summary": "Xufeng Zhang is using magnets to make computers more power efficient at the quantum level. The Northeastern professor of electrical and computer engineering recently published two papers highlighting small-scale magnetic systems he and his team developed that could help make computers much more powe…"
+    },
+    {
+      "title": "Q*Bird becomes Falqon® Systems, Building the Infrastructure for Quantum Secure Networks",
+      "link": "https://thequantuminsider.com/2026/09/15/qbird-becomes-falqon-systems-quantum-secure-networks/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 15 Sep 2026 17:41:23 +0000",
+      "published_ts": 1789494083,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Q*Bird announced today its transition into Falqon® Systems, introducing a new corporate identity that reflects the company&#8217;s strategic evolution from pioneering scalable quantum communication technologies to building the infrastructure required for operation…"
+    },
+    {
+      "title": "Oracle Java 27 Adds Post-Quantum Hybrid Key Exchange for TLS 1.3",
+      "link": "https://thequantuminsider.com/2026/09/15/oracle-java-27-post-quantum-cryptography-support/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 15 Sep 2026 16:54:35 +0000",
+      "published_ts": 1789491275,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Oracle today announced the availability of Java 27, the latest version of the world&#8217;s number one programming language and development platform. Featuring thousands of performance, stability, security, and productivity improvements, Java 27 (Oracle JDK 27) pr…"
+    },
     {
       "title": "Iceberg Quantum and Diraq Demonstrate Pinnacle qLDPC Architecture on Spin Qubits",
       "link": "https://thequantuminsider.com/2026/09/15/iceberg-quantum-diraq-pinnacle-spin-qubit-hardware/",
@@ -72,22 +96,6 @@
       "published": "Tue, 15 Sep 2026 13:33:54 +0000",
       "published_ts": 1789479234,
       "summary": "Insider Brief PRESS RELEASE &#8212; Mitsubishi Electric Corporation (TOKYO: 6503) announced today that its ME Innovation Fund has invested in OptQC Corp., a Japanese startup that develops and provides optical quantum computer hardware. This is the fund’s sixteenth investment to date. Quantum computi…"
-    },
-    {
-      "title": "Oxford Physicists Help Uncover ‘Spooky’ Quantum Effect in The Large Hadron Collider",
-      "link": "https://thequantuminsider.com/2026/09/15/oxford-physicists-help-uncover-spooky-quantum-effect-in-the-large-hadron-collider/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 13:13:02 +0000",
-      "published_ts": 1789477982,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Physicists at the University of Oxford have helped confirm that one of the strangest phenomena in physics &#8211; quantum entanglement &#8211; occurs even among some of the heaviest and most fleeting particles ever created. The discovery, made using the world’s mo…"
-    },
-    {
-      "title": "USC And Quantum Elements’ Error Correction Technique Demonstrates Surface Code Scaling with Logical Qubits",
-      "link": "https://thequantuminsider.com/2026/09/15/usc-and-quantum-elements-error-correction-technique-demonstrates-surface-code-scaling-with-logical-qubits/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 13:06:00 +0000",
-      "published_ts": 1789477560,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Elements, a provider of AI-powered digital twins for quantum computing developers, and the University of Southern California (USC) today announced the publication of a Nature Communications paper showing that the surface code can improve error protection e…"
     },
     {
       "title": "Physical Counterexamples to the Wigner Shannon Entropy Conjecture",
@@ -344,14 +352,6 @@
       "published": "Tue, 08 Sep 2026 17:20:01 EDT",
       "published_ts": 1788902401,
       "summary": "Helium—the lightest atom that can be laser-cooled and controlled—powers a new design for high-powered, stable quantum computers."
-    },
-    {
-      "title": "A new game demonstrates quantum advantage with provable classical limits",
-      "link": "https://phys.org/news/2026-09-game-quantum-advantage-provable-classical.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 08 Sep 2026 10:50:01 EDT",
-      "published_ts": 1788879001,
-      "summary": "For decades, physicists have worked to prove the strange predictions of quantum mechanics with real experiments. As quantum computers have grown more powerful, researchers have devised increasingly sophisticated ways to test whether these machines are truly harnessing quantum effects—but every metho…"
     },
     {
       "title": "MIT turns bacteria into living transistors",
