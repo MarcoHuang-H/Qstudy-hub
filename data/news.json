@@ -1,45 +1,93 @@
 {
-  "generated_ts": 1789469700,
+  "generated_ts": 1789488412,
   "items": [
     {
-      "title": "Quantum Dice and North Wales Police Test Probabilistic Computing for Emergency Response",
-      "link": "https://thequantuminsider.com/2026/09/15/quantum-dice-north-wales-police-probabilistic-vehicle-deployment/",
+      "title": "Iceberg Quantum and Diraq Demonstrate Pinnacle qLDPC Architecture on Spin Qubits",
+      "link": "https://thequantuminsider.com/2026/09/15/iceberg-quantum-diraq-pinnacle-spin-qubit-hardware/",
       "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 09:15:00 +0000",
-      "published_ts": 1789463700,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Dice and North Wales Police today announced the results of Project PROTECT, a proof-of-technology evaluating how Quantum Dice&#8217;s probabilistic processor can support emergency-response vehicle deployment planning. The project demonstrated that probabil…"
+      "published": "Tue, 15 Sep 2026 15:20:25 +0000",
+      "published_ts": 1789485625,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Today we&#8217;re announcing work done by Iceberg Quantum and Diraq, leveraging early access to the newly announced Logical layer of the NVIDIA CUDA-Q platform. The work demonstrated how Iceberg Quantum’s Pinnacle architecture can be implemented on Diraq&#8217;s s…"
     },
     {
-      "title": "Quantum Computers Need 100,000-Fold Performance Gain For Scientific Utility, Study Finds",
-      "link": "https://thequantuminsider.com/2026/09/15/quantum-computers-need-100000-fold-performance-gain-for-scientific-utility-study-finds/",
+      "title": "QC Design Integrates Plaquette With NVIDIA CUDA-Q Logical for Hardware-Realistic QEC Simulation",
+      "link": "https://thequantuminsider.com/2026/09/15/qc-design-plaquette-nvidia-cuda-q-logical-qec-simulation/",
       "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 08:27:15 +0000",
-      "published_ts": 1789460835,
-      "summary": "Insider Brief A new benchmark could give researchers and buyers a more practical way to compare quantum computers by measuring how much computation they can complete successfully and how quickly they can do it. The new benchmark also indicates that future quantum computers will need a significant pe…"
+      "published": "Tue, 15 Sep 2026 15:11:24 +0000",
+      "published_ts": 1789485084,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QC Design today announced an integration between Plaquette, its design-automation platform for fault-tolerant quantum computing (FTQC), and NVIDIA CUDA-Q Logical, the open, extensible logical layer of the CUDA-Q platform. This collaboration enables quantum hardwar…"
     },
     {
-      "title": "TOYO Corporation Buys Second IQM Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/09/15/toyo-corporation-buys-second-iqm-quantum-computer/",
+      "title": "Anyon Computing Unveils NVQLink-Based Quantum Control System",
+      "link": "https://thequantuminsider.com/2026/09/15/anyon-computing-nvqlink-quantum-control-system-qpu-gpu/",
       "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 07:52:23 +0000",
-      "published_ts": 1789458743,
-      "summary": "Insider Brief PRESS RELEASE &#8212; &#160;IQM Quantum Computers, a global leader in superconducting quantum computers, today announced that TOYO Corporation has purchased a second full-stack quantum computer, IQM Spark. This expands TOYO&#8217;s quantum footprint and reinforces IQM&#8217;s commitmen…"
+      "published": "Tue, 15 Sep 2026 15:01:02 +0000",
+      "published_ts": 1789484462,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The control cluster and the quantum processors it drives join GPU and CPU compute nodes as co-processors of a single quantum-GPU supercomputer with quantum-classical loops measured on hardware in microseconds. The system was developed almost entirely by autonomous…"
     },
     {
-      "title": "Fujitsu Releases Open Quantum Application Research Package as Open Source",
-      "link": "https://thequantuminsider.com/2026/09/15/fujitsu-releases-open-quantum-application-research-package-as-open-source/",
+      "title": "Quantum Elements and USC Demonstrate Surface Code Scaling on IBM Heron",
+      "link": "https://thequantuminsider.com/2026/09/15/usc-quantum-elements-surface-code-scaling-ibm-heron/",
       "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 07:20:08 +0000",
-      "published_ts": 1789456808,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Fujitsu Limited today announced the global open-source release of its quantum application development software, Open Quantum Application Research Package (OpenQARP (code name)). The software offers over 100 software components, including Fujitsu-developed quantum…"
+      "published": "Tue, 15 Sep 2026 14:18:41 +0000",
+      "published_ts": 1789481921,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Elements, a provider of AI-powered digital twins for quantum computing developers, and the University of Southern California (USC) today announced the publication of a Nature Communications paper showing that the surface code can improve error protection e…"
     },
     {
-      "title": "Entrust Turns CBOM Data Into Action With Expanded Cryptographic Security Platform",
-      "link": "https://thequantuminsider.com/2026/09/15/entrust-adds-cbom-capabilities-cryptographic-security-platform/",
+      "title": "ParityQC Launches Parity Twine Optimizer for Quantum Optimization",
+      "link": "https://thequantuminsider.com/2026/09/15/parityqc-parity-twine-compiler-product/",
       "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 06:00:00 +0000",
-      "published_ts": 1789452000,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Entrust today announced new capabilities for its Cryptographic Security Platform (CSP) that help organizations turn Cryptographic Bill of Materials (CBOMs) data into action. Government agencies, financial institutions, healthcare organizations, and other critical…"
+      "published": "Tue, 15 Sep 2026 14:06:26 +0000",
+      "published_ts": 1789481186,
+      "summary": "Insider Brief PRESS RELEASE &#8212; ParityQC, the Quantum Architecture Company,  today launched the Parity Twine Optimizer, making its compiler technology,  which led to record-setting performance in executing the Quantum Fourier  Transform, available as a product. Built on the ParityQC Architecture…"
+    },
+    {
+      "title": "Zapata Quantum CEO Sumit Kapur Named to Boston Business Journal’s 2026 Power 50",
+      "link": "https://thequantuminsider.com/2026/09/15/zapata-quantum-ceo-sumit-kapur-boston-business-journal-2026-power-50/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 15 Sep 2026 13:50:25 +0000",
+      "published_ts": 1789480225,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Zapata Quantum (OTCQB: ZPTA) (“Zapata,” “Zapata Quantum” or the “Company”), a leader in quantum computing algorithm and application development, today announced that its CEO, Sumit Kapur, has been selected by The Boston Business Journal for the publication’s annua…"
+    },
+    {
+      "title": "CNM Joins Sandia’s CAMINO to Expand Quantum and Advanced Manufacturing Workforce Training",
+      "link": "https://thequantuminsider.com/2026/09/15/cnm-quantum-technician-training-camino-facility/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 15 Sep 2026 13:42:17 +0000",
+      "published_ts": 1789479737,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Central New Mexico Community College is joining Sandia National Laboratories and other community partners in the CAMINO Collaborative, a public-private initiative designed to strengthen New Mexico’s advanced-manufacturing ecosystem, expand access to high-quality c…"
+    },
+    {
+      "title": "Novel particle beam could challenge Einstein's theory of gravity",
+      "link": "https://phys.org/news/2026-09-particle-einstein-theory-gravity.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 15 Sep 2026 09:40:06 EDT",
+      "published_ts": 1789479606,
+      "summary": "Does gravity act equally on all particles in the universe, or are there differences between ordinary and exotic matter? Physics professor Anna Soter and her team at ETH Zurich and the Paul Scherrer Institute (PSI) in Villigen are investigating this question. \"We have taken an important step toward c…"
+    },
+    {
+      "title": "Mitsubishi Electric Invests in OptQC Optical Quantum Computing Startup",
+      "link": "https://thequantuminsider.com/2026/09/15/mitsubishi-electric-invests-optqc-optical-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 15 Sep 2026 13:33:54 +0000",
+      "published_ts": 1789479234,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Mitsubishi Electric Corporation (TOKYO: 6503) announced today that its ME Innovation Fund has invested in OptQC Corp., a Japanese startup that develops and provides optical quantum computer hardware. This is the fund’s sixteenth investment to date. Quantum computi…"
+    },
+    {
+      "title": "Oxford Physicists Help Uncover ‘Spooky’ Quantum Effect in The Large Hadron Collider",
+      "link": "https://thequantuminsider.com/2026/09/15/oxford-physicists-help-uncover-spooky-quantum-effect-in-the-large-hadron-collider/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 15 Sep 2026 13:13:02 +0000",
+      "published_ts": 1789477982,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Physicists at the University of Oxford have helped confirm that one of the strangest phenomena in physics &#8211; quantum entanglement &#8211; occurs even among some of the heaviest and most fleeting particles ever created. The discovery, made using the world’s mo…"
+    },
+    {
+      "title": "USC And Quantum Elements’ Error Correction Technique Demonstrates Surface Code Scaling with Logical Qubits",
+      "link": "https://thequantuminsider.com/2026/09/15/usc-and-quantum-elements-error-correction-technique-demonstrates-surface-code-scaling-with-logical-qubits/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 15 Sep 2026 13:06:00 +0000",
+      "published_ts": 1789477560,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Elements, a provider of AI-powered digital twins for quantum computing developers, and the University of Southern California (USC) today announced the publication of a Nature Communications paper showing that the surface code can improve error protection e…"
     },
     {
       "title": "Physical Counterexamples to the Wigner Shannon Entropy Conjecture",
@@ -162,52 +210,12 @@
       "summary": "arXiv:2609.13549v1 Announce Type: new  Abstract: Classical-to-quantum I/O is a critical bottleneck for data-intensive quantum workloads. Quantum Oracle Sketching (QOS) has been proposed to address this problem. We identify its practical requirements, including the representation of data as a probabi…"
     },
     {
-      "title": "Oxford Quantum Startup Cloq Wins Top Prize at Reuben Entrepreneurship Forum",
-      "link": "https://thequantuminsider.com/2026/09/14/oxford-quantum-startup-cloq-top-prize-reuben-entrepreneurship-forum/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 14 Sep 2026 16:30:05 +0000",
-      "published_ts": 1789403405,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Cloq took the top prize at the Forum, now in its fourth year, with the pitch delivered by teammate David McMahon, a DPhil student in Atomic and Laser Physics. The win builds on Cloq&#8217;s second-place finish at Oxford Edge&#8217;s StEP Demo Day last month and co…"
-    },
-    {
-      "title": "Quandela Publishes White Paper on Photonic QPU Integration With NVIDIA Infrastructure",
-      "link": "https://thequantuminsider.com/2026/09/14/quandela-white-paper-photonic-qpu-nvidia-infrastructure/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 14 Sep 2026 16:21:33 +0000",
-      "published_ts": 1789402893,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Building on our June announcement of a low-latency integration between a Quandela photonic QPU and NVIDIA AI infrastructure, the companies are publishing a technical white paper today. This paper outlines a vision and architectural framework for gradually integrat…"
-    },
-    {
       "title": "Getting photons into shape for reliable quantum communication",
       "link": "https://phys.org/news/2026-09-photons-reliable-quantum-communication.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 14 Sep 2026 12:20:06 EDT",
       "published_ts": 1789402806,
       "summary": "The vast majority of modern quantum technologies—from quantum cryptography to the quantum internet to the quantum computer—rely on one essential element: the transmission of photons. Two qubits (two atoms, for example) exchange information: One qubit emits a photon, and the other qubit absorbs it."
-    },
-    {
-      "title": "NSF Launches $20M Pilot for Deep-Tech Commercialization",
-      "link": "https://thequantuminsider.com/2026/09/14/nsf-20m-pilot-deep-tech-commercialization/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 14 Sep 2026 14:52:07 +0000",
-      "published_ts": 1789397527,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. National Science Foundation today announced a $20 million investment to launch a two-year pilot supporting small businesses in commercializing their deep-technology ventures. The pilot aims to address a persistent gap separating federally funded deep tech…"
-    },
-    {
-      "title": "Photonic Proposes CAD$500 Million Canadian Semiconductor Manufacturing Facility",
-      "link": "https://thequantuminsider.com/2026/09/14/photonic-proposes-cad500-million-canadian-semiconductor-manufacturing-facility/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 14 Sep 2026 14:35:46 +0000",
-      "published_ts": 1789396546,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Photonic Inc. today announced Project VANGUARD, a proposal to establish a Canadian multi-tenant semiconductor manufacturing facility, anchored by Photonic. Project VANGUARD has been selected for inclusion in the Canada Investment Summit Prospectus, a curated portf…"
-    },
-    {
-      "title": "BlueQubit Launches Quantum Flywheel Research Grant Program",
-      "link": "https://thequantuminsider.com/2026/09/14/bluequbit-quantum-flywheel-research-grant-program/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 14 Sep 2026 14:20:49 +0000",
-      "published_ts": 1789395649,
-      "summary": "Insider Brief PRESS RELEASE &#8212; BlueQubit announced the open call for its Quantum Flywheel grant program, a $150,000 initiative created with support from IBM, Amazon Web Services (AWS), and NVIDIA accelerated computing. The three-month program provides research teams with cloud compute credits f…"
     },
     {
       "title": "Physicists help uncover 'spooky' quantum effect in the Large Hadron Collider",
@@ -344,14 +352,6 @@
       "published": "Tue, 08 Sep 2026 10:50:01 EDT",
       "published_ts": 1788879001,
       "summary": "For decades, physicists have worked to prove the strange predictions of quantum mechanics with real experiments. As quantum computers have grown more powerful, researchers have devised increasingly sophisticated ways to test whether these machines are truly harnessing quantum effects—but every metho…"
-    },
-    {
-      "title": "Superfluid qubit could help scale up quantum computers",
-      "link": "https://phys.org/news/2026-09-superfluid-qubit-scale-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 08 Sep 2026 10:00:05 EDT",
-      "published_ts": 1788876005,
-      "summary": "Superfluid helium could offer a new way to tackle one of the biggest challenges in scaling up quantum computers, say researchers from the University of Surrey. The research team has introduced a conceptual design for a new type of qubit that could be much less vulnerable to errors."
     },
     {
       "title": "MIT turns bacteria into living transistors",
