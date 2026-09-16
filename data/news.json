@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1789555475,
+  "generated_ts": 1789574410,
   "items": [
+    {
+      "title": "Quobly Demonstrates Key Quantum Operations on 300 mm Silicon Chip",
+      "link": "https://thequantuminsider.com/2026/09/16/quobly-key-quantum-operations-industrial-silicon-chip/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 14:09:12 +0000",
+      "published_ts": 1789567752,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quobly, a French quantum computing company developing  industrially scalable quantum computers based on silicon spin qubits, today announces new results  showing qubit readout, single-qubit gates and two-qubit gates on a single quantum chip fabricated on  its prop…"
+    },
+    {
+      "title": "Matter Venture Partners Closes $450 Million Fund II",
+      "link": "https://thequantuminsider.com/2026/09/16/matter-venture-partners-closes-450-million-fund-ii/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 14:01:07 +0000",
+      "published_ts": 1789567267,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Matter Venture Partners today announced the close of its second fund at $450 million. The fund will go towards backing early-stage HardTech startups across semiconductors, robotics and Physical AI, AI infrastructure, quantum computing, advanced manufacturing, ener…"
+    },
+    {
+      "title": "Planckian Selected for Phase 1 of EuroHPC Quantum Grand Challenge",
+      "link": "https://thequantuminsider.com/2026/09/16/planckian-selected-eurohpc-quantum-grand-challenge/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 13:54:16 +0000",
+      "published_ts": 1789566856,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Planckian today announced that it has been selected for Phase 1 of the EuroHPC Quantum Grand Challenge, the European Union programme backing the quantum computing platforms with the most credible path to industrial-scale systems. Thirteen companies were selected f…"
+    },
+    {
+      "title": "Better Together: IBM Researchers Cut Sampling Demands 63-Fold by Combining Quantum Error Detection And Mitigation",
+      "link": "https://thequantuminsider.com/2026/09/16/better-together-ibm-researchers-cut-sampling-demands-63-fold-by-combining-quantum-error-detection-and-mitigation/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 11:37:00 +0000",
+      "published_ts": 1789558620,
+      "summary": "Insider Brief Quantum error correction may not simply replace error mitigation as quantum computers improve. In fact, the two methods could instead work together to make reliable computations possible with fewer resources, according to an IBM study. IBM researchers combined an error-detection protoc…"
+    },
+    {
+      "title": "Anderon Finalizes $1 Billion CHIPS Award for Quantum Wafer Manufacturing",
+      "link": "https://thequantuminsider.com/2026/09/16/anderon-1-billion-chips-award-quantum-wafer-manufacturing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 11:30:12 +0000",
+      "published_ts": 1789558212,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Today, Anderon LLC (&#8220;Anderon&#8221;), an IBM (NYSE: IBM) company, announced the finalization of a $1 billion award under the CHIPS and Science Act with the U.S. Department of Commerce (the &#8220;Department&#8221;). The award will accelerate Anderon&#8217;s…"
+    },
+    {
+      "title": "CSIC Opens Quantum Nanofabrication Facility in Barcelona",
+      "link": "https://thequantuminsider.com/2026/09/16/csic-spain-quantum-chip-device-facility-barcelona/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 11:18:48 +0000",
+      "published_ts": 1789557528,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Spanish National Research Council (CSIC), an organization under the Ministry of Science, Innovation, and Universities (MICIU), has inaugurated the Quantum Nanofabrication Area of the Micro and Nanofabrication Clean Room at the Institute of Microelectronics of…"
+    },
+    {
+      "title": "Casper College Receives $444,059 NSF Grant for Quantum Education",
+      "link": "https://thequantuminsider.com/2026/09/16/casper-college-444059-nsf-grant-quantum-education/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 11:06:48 +0000",
+      "published_ts": 1789556808,
+      "summary": "Insider Brief PRESS RELEASE &#8212; An NSF Grant awarded to Casper College is bringing quantum physics into hands-on reality for students across the state. Thanks to a recently awarded $444,059 grant from the National Science Foundation, Casper College is leading a statewide initiative to prepare st…"
+    },
     {
       "title": "Beijing Launches Program to Connect Quantum Companies With Industrial Customers",
       "link": "https://thequantuminsider.com/2026/09/16/beijing-launches-program-to-connect-quantum-companies-with-industrial-customers/",
@@ -24,30 +80,6 @@
       "published": "Wed, 16 Sep 2026 07:00:00 +0000",
       "published_ts": 1789542000,
       "summary": "Insider Brief PRESS RELEASE &#8212; At the Canada Investment Summit 2026, the Business Development Bank of Canada (BDC) announced how it will deploy $1 billion in investments under its existing $6 billion Defence Platform: $500 million across funds focused on defence and dual-use technologies, and a…"
-    },
-    {
-      "title": "Infleqtion’s Pranav Gokhale Receives 2026 IEEE QTC Early Career Award",
-      "link": "https://thequantuminsider.com/2026/09/16/infleqtion-pranav-gokhale-2026-ieee-qtc-early-career-award/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 06:59:20 +0000",
-      "published_ts": 1789541960,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion, a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today announced that Pranav Gokhale, Ph.D., Chief Technology Officer and co-founder, has been named a recipient of the 2026 IEEE Quantum Technical Community (Q…"
-    },
-    {
-      "title": "SQC Appoints John Hollister as Chief Financial Officer",
-      "link": "https://thequantuminsider.com/2026/09/16/sqc-appoints-semiconductor-veteran-john-hollister-cfo/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 06:43:33 +0000",
-      "published_ts": 1789541013,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Silicon Quantum Computing (SQC), a pioneer in quantum computing and atomic-precision manufacturing, today announced the appointment of John Hollister as Chief Financial Officer, effective 17 August 2026. Hollister will lead global financial strategy and operations…"
-    },
-    {
-      "title": "Emergence Quantum and AirTrunk Partner on Cryogenic Data Centres",
-      "link": "https://thequantuminsider.com/2026/09/16/emergence-quantum-airtrunk-cryogenic-data-centres/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 06:37:59 +0000",
-      "published_ts": 1789540679,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Emergence Quantum today announced a partnership with hyperscale data centre specialist AirTrunk to bring cryogenic cooling and quantum computing to next-generation data centres. Cryo-cooling can significantly improve the speed and energy-efficiency of today’s sili…"
     },
     {
       "title": "Unconditional Security of Discrete-Modulated CV-QKD from Infinite-Dimensional MEAT",
@@ -176,38 +208,6 @@
       "published": "Tue, 15 Sep 2026 16:00:01 EDT",
       "published_ts": 1789502401,
       "summary": "Xufeng Zhang is using magnets to make computers more power efficient at the quantum level. The Northeastern professor of electrical and computer engineering recently published two papers highlighting small-scale magnetic systems he and his team developed that could help make computers much more powe…"
-    },
-    {
-      "title": "Q*Bird becomes Falqon® Systems, Building the Infrastructure for Quantum Secure Networks",
-      "link": "https://thequantuminsider.com/2026/09/15/qbird-becomes-falqon-systems-quantum-secure-networks/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 17:41:23 +0000",
-      "published_ts": 1789494083,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Q*Bird announced today its transition into Falqon® Systems, introducing a new corporate identity that reflects the company&#8217;s strategic evolution from pioneering scalable quantum communication technologies to building the infrastructure required for operation…"
-    },
-    {
-      "title": "Oracle Java 27 Adds Post-Quantum Hybrid Key Exchange for TLS 1.3",
-      "link": "https://thequantuminsider.com/2026/09/15/oracle-java-27-post-quantum-cryptography-support/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 16:54:35 +0000",
-      "published_ts": 1789491275,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Oracle today announced the availability of Java 27, the latest version of the world&#8217;s number one programming language and development platform. Featuring thousands of performance, stability, security, and productivity improvements, Java 27 (Oracle JDK 27) pr…"
-    },
-    {
-      "title": "Iceberg Quantum and Diraq Demonstrate Pinnacle qLDPC Architecture on Spin Qubits",
-      "link": "https://thequantuminsider.com/2026/09/15/iceberg-quantum-diraq-pinnacle-spin-qubit-hardware/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 15:20:25 +0000",
-      "published_ts": 1789485625,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Today we&#8217;re announcing work done by Iceberg Quantum and Diraq, leveraging early access to the newly announced Logical layer of the NVIDIA CUDA-Q platform. The work demonstrated how Iceberg Quantum’s Pinnacle architecture can be implemented on Diraq&#8217;s s…"
-    },
-    {
-      "title": "QC Design Integrates Plaquette With NVIDIA CUDA-Q Logical for Hardware-Realistic QEC Simulation",
-      "link": "https://thequantuminsider.com/2026/09/15/qc-design-plaquette-nvidia-cuda-q-logical-qec-simulation/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 15:11:24 +0000",
-      "published_ts": 1789485084,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QC Design today announced an integration between Plaquette, its design-automation platform for fault-tolerant quantum computing (FTQC), and NVIDIA CUDA-Q Logical, the open, extensible logical layer of the CUDA-Q platform. This collaboration enables quantum hardwar…"
     },
     {
       "title": "Novel particle beam could challenge Einstein's theory of gravity",
