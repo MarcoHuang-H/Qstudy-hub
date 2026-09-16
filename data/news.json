@@ -1,6 +1,174 @@
 {
-  "generated_ts": 1789527742,
+  "generated_ts": 1789555475,
   "items": [
+    {
+      "title": "Beijing Launches Program to Connect Quantum Companies With Industrial Customers",
+      "link": "https://thequantuminsider.com/2026/09/16/beijing-launches-program-to-connect-quantum-companies-with-industrial-customers/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 08:19:49 +0000",
+      "published_ts": 1789546789,
+      "summary": "Insider Brief Beijing has launched a program to connect quantum technology companies with prospective customers in transportation, energy, finance and other industries, part of a broader effort to move the sector from laboratory research toward commercial applications. The “Scenario Handshake Plan”…"
+    },
+    {
+      "title": "BioInnovation Institute Selects 17 European Startups for Funding and Support",
+      "link": "https://thequantuminsider.com/2026/09/16/bioinnovation-institute-selects-17-european-startups-for-funding-and-support/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 07:57:57 +0000",
+      "published_ts": 1789545477,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Following the announcement of a new EUR 736M from the Novo Nordisk Foundation to the BioInnovation Institute (BII), the Danish innovation house made it clear that the funding would be used to support even more research-based startups in commercialising their ideas…"
+    },
+    {
+      "title": "BDC Allocates $1 Billion Under Defence Platform for Canadian Defence Technologies",
+      "link": "https://thequantuminsider.com/2026/09/16/bdc-1-billion-canadian-defence-dual-use-technologies/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 07:00:00 +0000",
+      "published_ts": 1789542000,
+      "summary": "Insider Brief PRESS RELEASE &#8212; At the Canada Investment Summit 2026, the Business Development Bank of Canada (BDC) announced how it will deploy $1 billion in investments under its existing $6 billion Defence Platform: $500 million across funds focused on defence and dual-use technologies, and a…"
+    },
+    {
+      "title": "Infleqtion’s Pranav Gokhale Receives 2026 IEEE QTC Early Career Award",
+      "link": "https://thequantuminsider.com/2026/09/16/infleqtion-pranav-gokhale-2026-ieee-qtc-early-career-award/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 06:59:20 +0000",
+      "published_ts": 1789541960,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion, a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today announced that Pranav Gokhale, Ph.D., Chief Technology Officer and co-founder, has been named a recipient of the 2026 IEEE Quantum Technical Community (Q…"
+    },
+    {
+      "title": "SQC Appoints John Hollister as Chief Financial Officer",
+      "link": "https://thequantuminsider.com/2026/09/16/sqc-appoints-semiconductor-veteran-john-hollister-cfo/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 06:43:33 +0000",
+      "published_ts": 1789541013,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Silicon Quantum Computing (SQC), a pioneer in quantum computing and atomic-precision manufacturing, today announced the appointment of John Hollister as Chief Financial Officer, effective 17 August 2026. Hollister will lead global financial strategy and operations…"
+    },
+    {
+      "title": "Emergence Quantum and AirTrunk Partner on Cryogenic Data Centres",
+      "link": "https://thequantuminsider.com/2026/09/16/emergence-quantum-airtrunk-cryogenic-data-centres/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 06:37:59 +0000",
+      "published_ts": 1789540679,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Emergence Quantum today announced a partnership with hyperscale data centre specialist AirTrunk to bring cryogenic cooling and quantum computing to next-generation data centres. Cryo-cooling can significantly improve the speed and energy-efficiency of today’s sili…"
+    },
+    {
+      "title": "Unconditional Security of Discrete-Modulated CV-QKD from Infinite-Dimensional MEAT",
+      "link": "https://arxiv.org/abs/2609.16105",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16105v1 Announce Type: new  Abstract: Discrete-Modulated (DM) Continuous-Variable (CV) Quantum Key Distribution (QKD) is an experimentally attractive approach to quantum cryptography, offering high key rates over metropolitan-scale distances while relying on state-of-the-art telecom infra…"
+    },
+    {
+      "title": "Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble",
+      "link": "https://arxiv.org/abs/2609.16106",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16106v1 Announce Type: new  Abstract: The nitrogen-vacancy (NV) center in diamond is a prominent quantum-sensing platform. Combining readout at the quantum projection noise limit with strong dipolar interactions promises substantial gains in sensitivity. However, experimentally accessing…"
+    },
+    {
+      "title": "Large-scale quantum simulations of dissipative spin-1/2 Heisenberg chains",
+      "link": "https://arxiv.org/abs/2609.16108",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16108v1 Announce Type: new  Abstract: A quantum many-body system coupled to an environment relaxes to a nonequilibrium steady state that can sustain order with no equilibrium counterpart. Computing such steady states is harder than closed-system dynamics as the density matrix problem squa…"
+    },
+    {
+      "title": "Adaptive detection of Rabi signals under composite hypotheses",
+      "link": "https://arxiv.org/abs/2609.16119",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16119v1 Announce Type: new  Abstract: Motivated by searches for weak coherent drives, we formulate repeated quantum sensing with a fixed shot budget as an asymmetric composite hypothesis test. Taking Rabi sensing as a concrete example, we benchmark detection power, sensitivity, and Type-I…"
+    },
+    {
+      "title": "The Transient Counting Statistics of Autonomous Quantum Clocks",
+      "link": "https://arxiv.org/abs/2609.16121",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16121v1 Announce Type: new  Abstract: At the heart of every atomic clock is a quantum coherent emitter, the laser, that could in principle be treated autonomously. While their frequency or phase stability is typically studied in the semiclassical regime of a large number of emitted quanta…"
+    },
+    {
+      "title": "Hyperbolic color codes with constant rate and polynomial distance",
+      "link": "https://arxiv.org/abs/2609.16125",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16125v1 Announce Type: new  Abstract: Recent advances in quantum hardware relax the strict geometric-locality constraints traditionally imposed on quantum error-correcting codes, motivating interest in high-rate quantum low-density parity-check (qLDPC) codes. At the same time, color codes…"
+    },
+    {
+      "title": "Pulse-Level Compilation of Measurement-Free Recovery in Transmon Circuits",
+      "link": "https://arxiv.org/abs/2609.16133",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16133v1 Announce Type: new  Abstract: Quantum error correction commonly relies on syndrome measurement, decoding, and conditional feedback. We numerically show that the conditional spectrum of an interacting transmon circuit can compile a local recovery rule into a fixed open-loop control…"
+    },
+    {
+      "title": "Designs without disorder: unitary $k$-designs from a single-site bulk defect",
+      "link": "https://arxiv.org/abs/2609.16140",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16140v1 Announce Type: new  Abstract: We show that an $O(1)$ local defect is sufficient to generate approximate unitary $k$-designs from an otherwise integrable quantum many-body system. Using a two-Pauli-kick (2PK) protocol with temporal sampling, we demonstrate this mechanism in a fixed…"
+    },
+    {
+      "title": "Investigating Interacting Fermionic Models with Locality-Preserving Qubit Encodings",
+      "link": "https://arxiv.org/abs/2609.16142",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16142v1 Announce Type: new  Abstract: We investigate the utility of the locality-preserving Derby-Klassen (DK) fermion-to-qubit mapping [arXiv:2003.06939] for variational quantum simulation of two-dimensional $t$-$V$ and Fermi-Hubbard models. The DK mapping preserves the locality of fermi…"
+    },
+    {
+      "title": "Towards Block-Level Fault-Tolerant Quantum Simulation on Small High-Rate Non-CSS Codes",
+      "link": "https://arxiv.org/abs/2609.16159",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16159v1 Announce Type: new  Abstract: Small high-rate non-CSS stabilizer codes provide compact platforms for encoded quantum computation, but mixed-Pauli checks and limited native transversal logical gates complicate fault-tolerant dynamics. Block-level constructions offer an alternative…"
+    },
+    {
+      "title": "Noise-induced classical phases in optimally-unraveled random quantum circuits",
+      "link": "https://arxiv.org/abs/2609.16160",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16160v1 Announce Type: new  Abstract: We study the classical simulability of open quantum dynamics using random Clifford circuits doped with non-Clifford phase rotations and subject to local noise. We unravel the dynamics into stochastic quantum trajectories simulated with Clifford-augmen…"
+    },
+    {
+      "title": "Why Are We Unrolling? The Importance of Structured Quantum Programs for Compilation",
+      "link": "https://arxiv.org/abs/2609.16171",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16171v1 Announce Type: new  Abstract: As quantum software stacks scale up to support future fault-tolerant quantum hardware and algorithms, quantum compilation is becoming an increasingly important component of the stack. How do we ensure that our software stacks support dynamic algorithm…"
+    },
+    {
+      "title": "Utility-Based Path Selection and Configuration in Quantum Networks via Layered Shortest Paths",
+      "link": "https://arxiv.org/abs/2609.16198",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16198v1 Announce Type: new  Abstract: A path in a quantum network is a chain of repeaters that distributes entanglement between two users. Selecting a path requires balancing the rate and quality (e.g., fidelity) of the delivered entanglement, but these quantities, unlike standard routing…"
+    },
+    {
+      "title": "Coupling Structure Determines Communication Regimes in Discrete Quantum Convolutional Channels",
+      "link": "https://arxiv.org/abs/2609.16200",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16200v1 Announce Type: new  Abstract: We study the recently developed theory of quantum convolution for discrete-variable quantum systems. We classify the discrete quantum convolutional channels generated by an invertible $2\\times2$ coupling matrix and a fixed environmental state accordin…"
+    },
+    {
+      "title": "Link-middle-cut lower bounds for Clifford circuit synthesis",
+      "link": "https://arxiv.org/abs/2609.16208",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789531200,
+      "summary": "arXiv:2609.16208v1 Announce Type: new  Abstract: Minimizing the number of CNOT gates required to synthesize a Clifford operator is a central problem in quantum circuit optimization. We extend the link--middle--cut (LMC) framework for linear reversible circuits to Clifford operators represented by bi…"
+    },
     {
       "title": "Magnets could help quantum computers talk to each other, says researcher",
       "link": "https://phys.org/news/2026-09-magnets-quantum.html",
@@ -42,180 +210,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; QC Design today announced an integration between Plaquette, its design-automation platform for fault-tolerant quantum computing (FTQC), and NVIDIA CUDA-Q Logical, the open, extensible logical layer of the CUDA-Q platform. This collaboration enables quantum hardwar…"
     },
     {
-      "title": "Anyon Computing Unveils NVQLink-Based Quantum Control System",
-      "link": "https://thequantuminsider.com/2026/09/15/anyon-computing-nvqlink-quantum-control-system-qpu-gpu/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 15:01:02 +0000",
-      "published_ts": 1789484462,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The control cluster and the quantum processors it drives join GPU and CPU compute nodes as co-processors of a single quantum-GPU supercomputer with quantum-classical loops measured on hardware in microseconds. The system was developed almost entirely by autonomous…"
-    },
-    {
-      "title": "Quantum Elements and USC Demonstrate Surface Code Scaling on IBM Heron",
-      "link": "https://thequantuminsider.com/2026/09/15/usc-quantum-elements-surface-code-scaling-ibm-heron/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 14:18:41 +0000",
-      "published_ts": 1789481921,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Elements, a provider of AI-powered digital twins for quantum computing developers, and the University of Southern California (USC) today announced the publication of a Nature Communications paper showing that the surface code can improve error protection e…"
-    },
-    {
-      "title": "ParityQC Launches Parity Twine Optimizer for Quantum Optimization",
-      "link": "https://thequantuminsider.com/2026/09/15/parityqc-parity-twine-compiler-product/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 14:06:26 +0000",
-      "published_ts": 1789481186,
-      "summary": "Insider Brief PRESS RELEASE &#8212; ParityQC, the Quantum Architecture Company,  today launched the Parity Twine Optimizer, making its compiler technology,  which led to record-setting performance in executing the Quantum Fourier  Transform, available as a product. Built on the ParityQC Architecture…"
-    },
-    {
-      "title": "Zapata Quantum CEO Sumit Kapur Named to Boston Business Journal’s 2026 Power 50",
-      "link": "https://thequantuminsider.com/2026/09/15/zapata-quantum-ceo-sumit-kapur-boston-business-journal-2026-power-50/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 13:50:25 +0000",
-      "published_ts": 1789480225,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Zapata Quantum (OTCQB: ZPTA) (“Zapata,” “Zapata Quantum” or the “Company”), a leader in quantum computing algorithm and application development, today announced that its CEO, Sumit Kapur, has been selected by The Boston Business Journal for the publication’s annua…"
-    },
-    {
-      "title": "CNM Joins Sandia’s CAMINO to Expand Quantum and Advanced Manufacturing Workforce Training",
-      "link": "https://thequantuminsider.com/2026/09/15/cnm-quantum-technician-training-camino-facility/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 13:42:17 +0000",
-      "published_ts": 1789479737,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Central New Mexico Community College is joining Sandia National Laboratories and other community partners in the CAMINO Collaborative, a public-private initiative designed to strengthen New Mexico’s advanced-manufacturing ecosystem, expand access to high-quality c…"
-    },
-    {
       "title": "Novel particle beam could challenge Einstein's theory of gravity",
       "link": "https://phys.org/news/2026-09-particle-einstein-theory-gravity.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 15 Sep 2026 09:40:06 EDT",
       "published_ts": 1789479606,
       "summary": "Does gravity act equally on all particles in the universe, or are there differences between ordinary and exotic matter? Physics professor Anna Soter and her team at ETH Zurich and the Paul Scherrer Institute (PSI) in Villigen are investigating this question. \"We have taken an important step toward c…"
-    },
-    {
-      "title": "Mitsubishi Electric Invests in OptQC Optical Quantum Computing Startup",
-      "link": "https://thequantuminsider.com/2026/09/15/mitsubishi-electric-invests-optqc-optical-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 15 Sep 2026 13:33:54 +0000",
-      "published_ts": 1789479234,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Mitsubishi Electric Corporation (TOKYO: 6503) announced today that its ME Innovation Fund has invested in OptQC Corp., a Japanese startup that develops and provides optical quantum computer hardware. This is the fund’s sixteenth investment to date. Quantum computi…"
-    },
-    {
-      "title": "Physical Counterexamples to the Wigner Shannon Entropy Conjecture",
-      "link": "https://arxiv.org/abs/2609.13312",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13312v1 Announce Type: new  Abstract: We construct physical quantum states with everywhere positive Wigner functions whose Shannon entropy lies below the vacuum value $1+\\ln\\pi$. Besides an explicit finite-energy counterexample, we obtain rank-two finite-Fock-support families with analyti…"
-    },
-    {
-      "title": "Structured Quantum Kernels for Chaotic Forecasting",
-      "link": "https://arxiv.org/abs/2609.13360",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13360v1 Announce Type: new  Abstract: Quantum kernels promise exponentially large feature spaces, but expressive circuits render their Gram matrices uninformative, bandwidth tuning collapses them toward classical RBF, and the practical consensus is that quantum kernels add nothing on clas…"
-    },
-    {
-      "title": "High-rate multipartite quantum secret sharing with composable security",
-      "link": "https://arxiv.org/abs/2609.13367",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13367v1 Announce Type: new  Abstract: Future quantum communication networks will conceivably support cryptographic tasks that require entanglement among more than two users. Quantum secret sharing is a prime example where entanglement provides a direct means to coordinate untrusted partie…"
-    },
-    {
-      "title": "Moment-Selective Quantum Designs in Aperiodic Temporal Ensembles",
-      "link": "https://arxiv.org/abs/2609.13371",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13371v1 Announce Type: new  Abstract: We introduce a general mechanism for engineering moment-selective temporal designs with hierarchically structured aperiodic drives. At special control settings where the driven dynamics is constrained by a finite symmetry group, lower-order moments ca…"
-    },
-    {
-      "title": "Handling Imperfections in Subcircuit Compilation for Linear Optical Quantum Computing",
-      "link": "https://arxiv.org/abs/2609.13379",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13379v1 Announce Type: new  Abstract: Linear Optical Quantum Computing (LOQC) is emerging as a promising technology in large-scale quantum computing. Corresponding devices, including linear optical circuits, are rapidly growing in size and fabrication precision. However, even with improve…"
-    },
-    {
-      "title": "Noise-resilient sequential circuits for generating quantum order",
-      "link": "https://arxiv.org/abs/2609.13383",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13383v1 Announce Type: new  Abstract: Sequential circuits provide an optimal linear-depth route to unitarily preparing long-range ordered quantum states, but circuit-level noise can be far more damaging than noise applied after preparation: local errors may be propagated by subsequent gat…"
-    },
-    {
-      "title": "CUDA-Q Logical: Retargetable Compilation for Fault-Tolerant Quantum Computing",
-      "link": "https://arxiv.org/abs/2609.13388",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13388v1 Announce Type: new  Abstract: Realizing fault-tolerant quantum computing requires mapping logical programs to heterogeneous quantum error correction (QEC) codes and diverse fault-tolerant execution models, scheduling physical resources, and coupling to real-time classical control…"
-    },
-    {
-      "title": "Orientation-dependent Pauli noise in one-dimensional discrete-time quantum walks",
-      "link": "https://arxiv.org/abs/2609.13392",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13392v1 Announce Type: new  Abstract: Discrete-time quantum walks exhibit ballistic spreading that is highly sensitive to decoherence. We study the long-time dynamics of a one-dimensional discrete-time quantum walk under Pauli noise acting on the coin. Choosing the unitary coin such that…"
-    },
-    {
-      "title": "High quantum local differential privacy breaks entanglement",
-      "link": "https://arxiv.org/abs/2609.13418",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13418v1 Announce Type: new  Abstract: Differential privacy provides a mathematical framework for guaranteeing privacy for sensitive data. In quantum information processing, the interaction of privacy constraints with quantum resources such as entanglement remains a question of interest. G…"
-    },
-    {
-      "title": "Reusable selected-time channels for quantum simulation of non-Markovian dynamics",
-      "link": "https://arxiv.org/abs/2609.13456",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13456v1 Announce Type: new  Abstract: Non-Markovian quantum-state diffusion (QSD) provides a microscopic trajectory description of open-system dynamics, but trajectories associated with a chosen initial state are not directly reusable as quantum channels. We develop a constructive framewo…"
-    },
-    {
-      "title": "Reservoir Support Sets the Minimum Loss for Non-Hermitian Dynamics",
-      "link": "https://arxiv.org/abs/2609.13496",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13496v1 Announce Type: new  Abstract: The minimum loss required to reproduce non-Hermitian dynamics depends on how many physical modes each reservoir can address coherently. Established positive-matrix criteria bound this cost. We construct a phase-controlled cubic-root Su-Schrieffer-Heeg…"
-    },
-    {
-      "title": "Heuristic Quantum Amplitude Amplification: A Traffic QUBO Case Study",
-      "link": "https://arxiv.org/abs/2609.13505",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13505v1 Announce Type: new  Abstract: Quantum Amplitude Amplification (QAA), the generalization of Grover's algorithm, is well-positioned for combinatorial optimization and is particularly promising for Quadratic Unconstrained Binary Optimization (QUBO) problems. QAA is appealing due to i…"
-    },
-    {
-      "title": "Energy Is Not Enough: Leakage-Aware Ansatz Criterion for Variational Quantum Eigensolvers",
-      "link": "https://arxiv.org/abs/2609.13521",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13521v1 Announce Type: new  Abstract: In molecular variational quantum eigensolver (VQE) calculations for a fixed electron-number sector, the projected-sector energy alone does not certify that a prepared state is physically valid. We show that a state can have zero projected-sector error…"
-    },
-    {
-      "title": "WISER: Systematic Design-Space Exploration of Fault-Tolerant Global Control Trapped-Ions",
-      "link": "https://arxiv.org/abs/2609.13546",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13546v1 Announce Type: new  Abstract: Trapped-ion quantum computers are a leading candidate for scalable fault-tolerant quantum computing, but conventional Quantum Charge-Coupled Device (QCCD) architectures face severe wiring and power constraints as systems scale. The recently proposed W…"
-    },
-    {
-      "title": "Practical Considerations for Processing Massive Classical Data via Quantum Oracle Sketching",
-      "link": "https://arxiv.org/abs/2609.13549",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789444800,
-      "summary": "arXiv:2609.13549v1 Announce Type: new  Abstract: Classical-to-quantum I/O is a critical bottleneck for data-intensive quantum workloads. Quantum Oracle Sketching (QOS) has been proposed to address this problem. We identify its practical requirements, including the representation of data as a probabi…"
     },
     {
       "title": "Getting photons into shape for reliable quantum communication",
