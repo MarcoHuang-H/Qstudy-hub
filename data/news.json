@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1789574410,
+  "generated_ts": 1789591645,
   "items": [
+    {
+      "title": "Circular Rydberg atoms set three records, staying stable for 11 milliseconds",
+      "link": "https://phys.org/news/2026-09-circular-rydberg-atoms-staying-stable.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 16 Sep 2026 15:20:08 EDT",
+      "published_ts": 1789586408,
+      "summary": "Rydberg atoms are considered promising building blocks for quantum computers and their precursors, quantum simulators. Researchers at the 5th Institute of Physics of the University of Stuttgart have achieved record values for the lifetime, size, and storage time of circular Rydberg atoms, a special…"
+    },
+    {
+      "title": "IonQ and ORNL Demonstrate Generative AI for Quantum Optimization",
+      "link": "https://thequantuminsider.com/2026/09/16/ionq-ornl-nvidia-tennessee-ai-quantum-optimization-tradeoff/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 17:07:40 +0000",
+      "published_ts": 1789578460,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world&#8217;s leading full-stack quantum platform and foundry, today detailed joint research with Oak Ridge National Laboratory (ORNL), NVIDIA, and the University of Tennessee, Knoxville (UT) showing that a trained generative model can write…"
+    },
     {
       "title": "Quobly Demonstrates Key Quantum Operations on 300 mm Silicon Chip",
       "link": "https://thequantuminsider.com/2026/09/16/quobly-key-quantum-operations-industrial-silicon-chip/",
@@ -72,14 +88,6 @@
       "published": "Wed, 16 Sep 2026 07:57:57 +0000",
       "published_ts": 1789545477,
       "summary": "Insider Brief PRESS RELEASE &#8212; Following the announcement of a new EUR 736M from the Novo Nordisk Foundation to the BioInnovation Institute (BII), the Danish innovation house made it clear that the funding would be used to support even more research-based startups in commercialising their ideas…"
-    },
-    {
-      "title": "BDC Allocates $1 Billion Under Defence Platform for Canadian Defence Technologies",
-      "link": "https://thequantuminsider.com/2026/09/16/bdc-1-billion-canadian-defence-dual-use-technologies/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 07:00:00 +0000",
-      "published_ts": 1789542000,
-      "summary": "Insider Brief PRESS RELEASE &#8212; At the Canada Investment Summit 2026, the Business Development Bank of Canada (BDC) announced how it will deploy $1 billion in investments under its existing $6 billion Defence Platform: $500 million across funds focused on defence and dual-use technologies, and a…"
     },
     {
       "title": "Unconditional Security of Discrete-Modulated CV-QKD from Infinite-Dimensional MEAT",
@@ -344,14 +352,6 @@
       "published": "Wed, 09 Sep 2026 09:40:10 EDT",
       "published_ts": 1788961210,
       "summary": "Electronic voting, the use of electronic systems to cast, record or count votes, could potentially simplify the process of electing new political leaders or other representatives. While some countries have already started using internet-connected devices or electronic voting machines at polling stat…"
-    },
-    {
-      "title": "Helium-3 lifts new quantum computing concept with faster tunneling rates",
-      "link": "https://phys.org/news/2026-09-helium-quantum-concept-faster-tunneling.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 08 Sep 2026 17:20:01 EDT",
-      "published_ts": 1788902401,
-      "summary": "Helium—the lightest atom that can be laser-cooled and controlled—powers a new design for high-powered, stable quantum computers."
     },
     {
       "title": "MIT turns bacteria into living transistors",
