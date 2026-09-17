@@ -1,6 +1,166 @@
 {
-  "generated_ts": 1789614357,
+  "generated_ts": 1789642307,
   "items": [
+    {
+      "title": "Alice & Bob Partners With The CEA to Accelerate Quantum-HPC Integration And Industrial Use Cases",
+      "link": "https://thequantuminsider.com/2026/09/17/alice-bob-partners-with-the-cea-to-accelerate-quantum-hpc-integration-and-industrial-use-cases/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 08:14:47 +0000",
+      "published_ts": 1789632887,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Alice &#38; Bob,&#160;a leader in fault-tolerant quantum computing&#160;(FTQC) technologies, today announced a research collaboration with the CEA, a globally recognized scientific institution, to advance the integration of its quantum software stack within hybrid…"
+    },
+    {
+      "title": "IQM to Deploy Quantum Computer in South America at Brazil’s Eldorado Institute",
+      "link": "https://thequantuminsider.com/2026/09/17/iqm-quantum-computer-south-america-brazil-eldorado/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 08:12:17 +0000",
+      "published_ts": 1789632737,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, today announced a purchase agreement with the Eldorado Research Institute to deploy its first quantum computer in South America, marking IQM&#8216;s entry into the region.…"
+    },
+    {
+      "title": "Mitsubishi Electric Launches NEDO-Supported R&D to Scale Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/09/17/mitsubishi-electric-rd-scale-up-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 07:59:51 +0000",
+      "published_ts": 1789631991,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Mitsubishi Electric Corporation (TOKYO: 6503) announced today that two of its research and development (R&#38;D) projects have been selected through a public solicitation by Japan’s New Energy and Industrial Technology Development Organization (NEDO) for support u…"
+    },
+    {
+      "title": "Quantum B Secures European Patent for Quantum Conference Key Agreement Protocol Supporting Consensus in Distributed Systems",
+      "link": "https://thequantuminsider.com/2026/09/17/quantum-b-secures-european-patent-for-quantum-conference-key-agreement-protocol-supporting-consensus-in-distributed-systems/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 07:43:52 +0000",
+      "published_ts": 1789631032,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum B, Inc. (formerly Quantum Blockchains) announced that the European Patent Office (EPO) has granted the company a patent covering its Quantum Conference Key Agreement protocol and its application in distributed systems. The invention enables networks of ind…"
+    },
+    {
+      "title": "NSF and UKRI Invest More Than $10 Million in Quantum Chemistry Research",
+      "link": "https://thequantuminsider.com/2026/09/17/nsf-ukri-quantum-science-foundational-chemistry-research/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 07:05:30 +0000",
+      "published_ts": 1789628730,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. National Science Foundation and United Kingdom Research and Innovation (UKRI) are bringing together scientists on opposite sides of the Atlantic to explore a shared frontier in chemistry research: quantum information. The agencies are jointly investing ov…"
+    },
+    {
+      "title": "The Global Geometry of the Gaussian Bures Manifold: Admissible Domain, Spectral Boundary, and Asymptotic Classicality",
+      "link": "https://arxiv.org/abs/2609.17563",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17563v1 Announce Type: new  Abstract: We construct the covariance-sector Bures geometry of centered bosonic Gaussian states from the Gaussian symmetric-logarithmic-derivative equation and determine its quantum-admissible domain. At the Williamson uncertainty floor, the boundary geometry i…"
+    },
+    {
+      "title": "The Golden Junction of Gaussian Covariance Geometries: Sector Anisotropy, Relative-Entropy Response, and Local Penalties",
+      "link": "https://arxiv.org/abs/2609.17574",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17574v1 Announce Type: new  Abstract: We compare four local geometries of centered one-mode bosonic Gaussian covariances while keeping their operational meanings distinct. In a common trace-orthonormal normalization, the Bures and covariance Fisher--Rao cometric determinants cross intrins…"
+    },
+    {
+      "title": "Adaptive Record Consistency in a Schulman-Type Model",
+      "link": "https://arxiv.org/abs/2609.17607",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17607v1 Announce Type: new  Abstract: Adaptive measurements test whether a retrocausal model preserves observable records when experiments are connected by classical feedback. We establish exact and quantitative composition constraints for a finite-width, coplanar Schulman-type source wit…"
+    },
+    {
+      "title": "Quantum Encodings, Private Messages, and Communication Complexity",
+      "link": "https://arxiv.org/abs/2609.17690",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17690v1 Announce Type: new  Abstract: We study the complexity of quantum decomposable randomized encodings (QDRE). We establish a bi-directional connection between the QDRE model and the communication complexity model of quantum private simultaneous message protocols (QPSM), where classic…"
+    },
+    {
+      "title": "Efficiency-Resolved Recovery Dynamics of an Free-Running InGaAs/InP Single Photon Avalanche Detector Operated in Gated Mode",
+      "link": "https://arxiv.org/abs/2609.17694",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17694v1 Announce Type: new  Abstract: Detection efficiency in gated-mode single-photon avalanche detectors recovers gradually after each gate edge, limiting attainable count rates, yet quantitative recovery models exist only for free-running operation. We extract the gated recovery time c…"
+    },
+    {
+      "title": "Advances in the quantum-state texture theory",
+      "link": "https://arxiv.org/abs/2609.17704",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17704v1 Announce Type: new  Abstract: The recently introduced concept of quantum-state texture (QST) has found applications ranging from the identification of unknown quantum gates to the study of quantum phase transitions and criticality, and has already been experimentally investigated.…"
+    },
+    {
+      "title": "Diagnosing and Restoring the Degraded Fault Distance of Magic State Cultivation",
+      "link": "https://arxiv.org/abs/2609.17706",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17706v1 Announce Type: new  Abstract: T-state cultivation is a resource-efficient protocol producing logical T states but recent benchmarks show that its logical error rate is considerably higher than intended i.e. than S-state cultivation, which is the analogous protocol for producing lo…"
+    },
+    {
+      "title": "Exact damping-basis continued fractions for few-atom lasers: collective correlations beyond second-order cumulant closure",
+      "link": "https://arxiv.org/abs/2609.17785",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17785v1 Announce Type: new  Abstract: We combine the Briegel--Englert damping basis of a lossy cavity mode with the permutation-invariant Liouville basis of \\(N\\) identical, incoherently pumped two-level emitters. The resulting Liouvillian is exactly block tridiagonal in a single radial f…"
+    },
+    {
+      "title": "Superconducting levitation and control of a high-reflectivity micromirror",
+      "link": "https://arxiv.org/abs/2609.17787",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17787v1 Announce Type: new  Abstract: We introduce a method to suspend an optical micromirror, with a total mass of \\SI{30}{\\micro\\gram}, using superconducting magnetic levitation. The micromirror is formed on a silicon membrane, coated with a high-reflectivity dielectric stack and attach…"
+    },
+    {
+      "title": "QiT: Quantum-Inspired Transformer for Visual Recognition Task",
+      "link": "https://arxiv.org/abs/2609.17789",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17789v1 Announce Type: new  Abstract: Quantum machine learning offers a compelling representational perspective: angle-encoded states inhabit Hilbert spaces in which periodic similarities and interactions can be expressed naturally. Realizing this perspective for visual recognition remain…"
+    },
+    {
+      "title": "Depth analysis of the Quantum Approximate Optimization Algorithm with a Grover mixer",
+      "link": "https://arxiv.org/abs/2609.17835",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17835v1 Announce Type: new  Abstract: We study the Quantum Approximate Optimization Algorithm with a Grover mixer and independently sampled cost and mixing angles. Under a lattice condition on the cost values carried by the initial state, we prove a depth-independent lower bound for the v…"
+    },
+    {
+      "title": "Quantifying and Bounding Spatiotemporal Correlations in Quantum Noise",
+      "link": "https://arxiv.org/abs/2609.17870",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17870v1 Announce Type: new  Abstract: Spatial and temporal correlations in quantum noise challenge the local Markovian models commonly used in quantum information processing. We develop a unified operational framework for quantifying temporal, spatial, and total spatiotemporal correlation…"
+    },
+    {
+      "title": "QEMScore: How Much Does the Measurement Add to Learned Quantum Error Mitigation?",
+      "link": "https://arxiv.org/abs/2609.17896",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17896v1 Announce Type: new  Abstract: How much does the noisy measurement add to learned quantum error mitigation? An accuracy table cannot say, because a model handed circuit structure can score well without reading the measurement at all. QEMScore adds the comparison that can. Each simu…"
+    },
+    {
+      "title": "Classical, quantum, and general probabilistic state-discrimination profiles",
+      "link": "https://arxiv.org/abs/2609.17920",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17920v1 Announce Type: new  Abstract: For a collection of states indexed by $[n]={1,\\ldots,n}$, let $F(H)$ denote the optimal unnormalized minimum discrimination error for each nonempty subfamily $H\\subseteq[n]$. We call $F$ the discrimination profile and characterize exactly which profil…"
+    },
+    {
+      "title": "R\\'enyi and Tsallis information entropies for a harmonic position-dependent mass",
+      "link": "https://arxiv.org/abs/2609.17941",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789617600,
+      "summary": "arXiv:2609.17941v1 Announce Type: new  Abstract: In this paper, we study Renyi and Tsallis information entropies for a Hamiltonian system with position-dependent mass confined in harmonic oscillator potential. Gegenbauer polynomials are used to obtain the position eigenfunction of such a system, and…"
+    },
     {
       "title": "Hot electrons reveal electronic collisions may raise resistance in twisted graphene",
       "link": "https://phys.org/news/2026-09-hot-electrons-reveal-electronic-collisions.html",
@@ -64,166 +224,6 @@
       "published": "Wed, 16 Sep 2026 13:54:16 +0000",
       "published_ts": 1789566856,
       "summary": "Insider Brief PRESS RELEASE &#8212; Planckian today announced that it has been selected for Phase 1 of the EuroHPC Quantum Grand Challenge, the European Union programme backing the quantum computing platforms with the most credible path to industrial-scale systems. Thirteen companies were selected f…"
-    },
-    {
-      "title": "Better Together: IBM Researchers Cut Sampling Demands 63-Fold by Combining Quantum Error Detection And Mitigation",
-      "link": "https://thequantuminsider.com/2026/09/16/better-together-ibm-researchers-cut-sampling-demands-63-fold-by-combining-quantum-error-detection-and-mitigation/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 11:37:00 +0000",
-      "published_ts": 1789558620,
-      "summary": "Insider Brief Quantum error correction may not simply replace error mitigation as quantum computers improve. In fact, the two methods could instead work together to make reliable computations possible with fewer resources, according to an IBM study. IBM researchers combined an error-detection protoc…"
-    },
-    {
-      "title": "Anderon Finalizes $1 Billion CHIPS Award for Quantum Wafer Manufacturing",
-      "link": "https://thequantuminsider.com/2026/09/16/anderon-1-billion-chips-award-quantum-wafer-manufacturing/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 11:30:12 +0000",
-      "published_ts": 1789558212,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Today, Anderon LLC (&#8220;Anderon&#8221;), an IBM (NYSE: IBM) company, announced the finalization of a $1 billion award under the CHIPS and Science Act with the U.S. Department of Commerce (the &#8220;Department&#8221;). The award will accelerate Anderon&#8217;s…"
-    },
-    {
-      "title": "CSIC Opens Quantum Nanofabrication Facility in Barcelona",
-      "link": "https://thequantuminsider.com/2026/09/16/csic-spain-quantum-chip-device-facility-barcelona/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 11:18:48 +0000",
-      "published_ts": 1789557528,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Spanish National Research Council (CSIC), an organization under the Ministry of Science, Innovation, and Universities (MICIU), has inaugurated the Quantum Nanofabrication Area of the Micro and Nanofabrication Clean Room at the Institute of Microelectronics of…"
-    },
-    {
-      "title": "Casper College Receives $444,059 NSF Grant for Quantum Education",
-      "link": "https://thequantuminsider.com/2026/09/16/casper-college-444059-nsf-grant-quantum-education/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 11:06:48 +0000",
-      "published_ts": 1789556808,
-      "summary": "Insider Brief PRESS RELEASE &#8212; An NSF Grant awarded to Casper College is bringing quantum physics into hands-on reality for students across the state. Thanks to a recently awarded $444,059 grant from the National Science Foundation, Casper College is leading a statewide initiative to prepare st…"
-    },
-    {
-      "title": "Beijing Launches Program to Connect Quantum Companies With Industrial Customers",
-      "link": "https://thequantuminsider.com/2026/09/16/beijing-launches-program-to-connect-quantum-companies-with-industrial-customers/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 08:19:49 +0000",
-      "published_ts": 1789546789,
-      "summary": "Insider Brief Beijing has launched a program to connect quantum technology companies with prospective customers in transportation, energy, finance and other industries, part of a broader effort to move the sector from laboratory research toward commercial applications. The “Scenario Handshake Plan”…"
-    },
-    {
-      "title": "Unconditional Security of Discrete-Modulated CV-QKD from Infinite-Dimensional MEAT",
-      "link": "https://arxiv.org/abs/2609.16105",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16105v1 Announce Type: new  Abstract: Discrete-Modulated (DM) Continuous-Variable (CV) Quantum Key Distribution (QKD) is an experimentally attractive approach to quantum cryptography, offering high key rates over metropolitan-scale distances while relying on state-of-the-art telecom infra…"
-    },
-    {
-      "title": "Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble",
-      "link": "https://arxiv.org/abs/2609.16106",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16106v1 Announce Type: new  Abstract: The nitrogen-vacancy (NV) center in diamond is a prominent quantum-sensing platform. Combining readout at the quantum projection noise limit with strong dipolar interactions promises substantial gains in sensitivity. However, experimentally accessing…"
-    },
-    {
-      "title": "Large-scale quantum simulations of dissipative spin-1/2 Heisenberg chains",
-      "link": "https://arxiv.org/abs/2609.16108",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16108v1 Announce Type: new  Abstract: A quantum many-body system coupled to an environment relaxes to a nonequilibrium steady state that can sustain order with no equilibrium counterpart. Computing such steady states is harder than closed-system dynamics as the density matrix problem squa…"
-    },
-    {
-      "title": "Adaptive detection of Rabi signals under composite hypotheses",
-      "link": "https://arxiv.org/abs/2609.16119",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16119v1 Announce Type: new  Abstract: Motivated by searches for weak coherent drives, we formulate repeated quantum sensing with a fixed shot budget as an asymmetric composite hypothesis test. Taking Rabi sensing as a concrete example, we benchmark detection power, sensitivity, and Type-I…"
-    },
-    {
-      "title": "The Transient Counting Statistics of Autonomous Quantum Clocks",
-      "link": "https://arxiv.org/abs/2609.16121",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16121v1 Announce Type: new  Abstract: At the heart of every atomic clock is a quantum coherent emitter, the laser, that could in principle be treated autonomously. While their frequency or phase stability is typically studied in the semiclassical regime of a large number of emitted quanta…"
-    },
-    {
-      "title": "Hyperbolic color codes with constant rate and polynomial distance",
-      "link": "https://arxiv.org/abs/2609.16125",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16125v1 Announce Type: new  Abstract: Recent advances in quantum hardware relax the strict geometric-locality constraints traditionally imposed on quantum error-correcting codes, motivating interest in high-rate quantum low-density parity-check (qLDPC) codes. At the same time, color codes…"
-    },
-    {
-      "title": "Pulse-Level Compilation of Measurement-Free Recovery in Transmon Circuits",
-      "link": "https://arxiv.org/abs/2609.16133",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16133v1 Announce Type: new  Abstract: Quantum error correction commonly relies on syndrome measurement, decoding, and conditional feedback. We numerically show that the conditional spectrum of an interacting transmon circuit can compile a local recovery rule into a fixed open-loop control…"
-    },
-    {
-      "title": "Designs without disorder: unitary $k$-designs from a single-site bulk defect",
-      "link": "https://arxiv.org/abs/2609.16140",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16140v1 Announce Type: new  Abstract: We show that an $O(1)$ local defect is sufficient to generate approximate unitary $k$-designs from an otherwise integrable quantum many-body system. Using a two-Pauli-kick (2PK) protocol with temporal sampling, we demonstrate this mechanism in a fixed…"
-    },
-    {
-      "title": "Investigating Interacting Fermionic Models with Locality-Preserving Qubit Encodings",
-      "link": "https://arxiv.org/abs/2609.16142",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16142v1 Announce Type: new  Abstract: We investigate the utility of the locality-preserving Derby-Klassen (DK) fermion-to-qubit mapping [arXiv:2003.06939] for variational quantum simulation of two-dimensional $t$-$V$ and Fermi-Hubbard models. The DK mapping preserves the locality of fermi…"
-    },
-    {
-      "title": "Towards Block-Level Fault-Tolerant Quantum Simulation on Small High-Rate Non-CSS Codes",
-      "link": "https://arxiv.org/abs/2609.16159",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16159v1 Announce Type: new  Abstract: Small high-rate non-CSS stabilizer codes provide compact platforms for encoded quantum computation, but mixed-Pauli checks and limited native transversal logical gates complicate fault-tolerant dynamics. Block-level constructions offer an alternative…"
-    },
-    {
-      "title": "Noise-induced classical phases in optimally-unraveled random quantum circuits",
-      "link": "https://arxiv.org/abs/2609.16160",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16160v1 Announce Type: new  Abstract: We study the classical simulability of open quantum dynamics using random Clifford circuits doped with non-Clifford phase rotations and subject to local noise. We unravel the dynamics into stochastic quantum trajectories simulated with Clifford-augmen…"
-    },
-    {
-      "title": "Why Are We Unrolling? The Importance of Structured Quantum Programs for Compilation",
-      "link": "https://arxiv.org/abs/2609.16171",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16171v1 Announce Type: new  Abstract: As quantum software stacks scale up to support future fault-tolerant quantum hardware and algorithms, quantum compilation is becoming an increasingly important component of the stack. How do we ensure that our software stacks support dynamic algorithm…"
-    },
-    {
-      "title": "Utility-Based Path Selection and Configuration in Quantum Networks via Layered Shortest Paths",
-      "link": "https://arxiv.org/abs/2609.16198",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16198v1 Announce Type: new  Abstract: A path in a quantum network is a chain of repeaters that distributes entanglement between two users. Selecting a path requires balancing the rate and quality (e.g., fidelity) of the delivered entanglement, but these quantities, unlike standard routing…"
-    },
-    {
-      "title": "Coupling Structure Determines Communication Regimes in Discrete Quantum Convolutional Channels",
-      "link": "https://arxiv.org/abs/2609.16200",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16200v1 Announce Type: new  Abstract: We study the recently developed theory of quantum convolution for discrete-variable quantum systems. We classify the discrete quantum convolutional channels generated by an invertible $2\\times2$ coupling matrix and a fixed environmental state accordin…"
-    },
-    {
-      "title": "Link-middle-cut lower bounds for Clifford circuit synthesis",
-      "link": "https://arxiv.org/abs/2609.16208",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789531200,
-      "summary": "arXiv:2609.16208v1 Announce Type: new  Abstract: Minimizing the number of CNOT gates required to synthesize a Clifford operator is a central problem in quantum circuit optimization. We extend the link--middle--cut (LMC) framework for linear reversible circuits to Clifford operators represented by bi…"
     },
     {
       "title": "Magnets could help quantum computers talk to each other, says researcher",
