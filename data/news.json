@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1789661195,
+  "generated_ts": 1789678418,
   "items": [
+    {
+      "title": "A new bridge for quantum networks: Physicists convert microwaves to light using 2D magnets",
+      "link": "https://phys.org/news/2026-09-bridge-quantum-networks-physicists-microwaves.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 17 Sep 2026 16:30:01 EDT",
+      "published_ts": 1789677001,
+      "summary": "Physicists at The City College of New York have demonstrated a new way to transfer microwave signals onto light using magnetic waves inside a layered semiconductor. The work establishes a materials platform for building interfaces that could one day link quantum computers through optical networks. T…"
+    },
+    {
+      "title": "TQI and Tesseract Quantum Partner for The Quantum Kid",
+      "link": "https://thequantuminsider.com/2026/09/17/tqi-and-tesseract-quantum-partner-for-the-quantum-kid/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 19:22:08 +0000",
+      "published_ts": 1789672928,
+      "summary": "Insider Brief PRESS RELEASE — The Quantum Insider (TQI) is pleased to announce it has entered into a partnership with Tesseract Quantum, a Swiss educational non-profit, whose flagship YouTube science channel The Quantum Kid sports over 120,000 subscribers and nearly 3 million views.  Launched in Jun…"
+    },
+    {
+      "title": "What kills Schrödinger's cat? Underground experiment rules out gravity model for quantum decoherence",
+      "link": "https://phys.org/news/2026-09-schrdinger-cat-underground-gravity-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 17 Sep 2026 15:00:11 EDT",
+      "published_ts": 1789671611,
+      "summary": "Somewhere between the microscopic realm of elementary particles and the macroscopic world of human beings, something strange happens: The rules of quantum physics, which work so exquisitely for tiny atoms, seem to lose their grip as objects grow larger. Pondering where and how this shift from small-…"
+    },
+    {
+      "title": "Real-time quantum jump in sound observed for first time",
+      "link": "https://phys.org/news/2026-09-real-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 17 Sep 2026 14:00:42 EDT",
+      "published_ts": 1789668042,
+      "summary": "A Stanford team has documented the first direct observation of quantum jumps of sound in a mechanical resonator, completing an arc of scientific exploration that started more than 100 years ago."
+    },
+    {
+      "title": "New benchmark puts quantum computers to the test and reveals their limitations",
+      "link": "https://phys.org/news/2026-09-benchmark-quantum-reveals-limitations.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 17 Sep 2026 13:10:02 EDT",
+      "published_ts": 1789665002,
+      "summary": "Quantum computers are no longer theoretical concepts. Today, they are being developed to tackle a range of complex problems, including exploring financial risk, modeling complex molecules and optimizing massive logistics networks. However, until now, there has been no way to benchmark the computatio…"
+    },
+    {
+      "title": "Guest Post: Why AI Agent Identities Need Post-Quantum Cryptography",
+      "link": "https://thequantuminsider.com/2026/09/17/post-quantum-security-ai-agent-economy/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 16:32:36 +0000",
+      "published_ts": 1789662756,
+      "summary": "Guest Post by Michael Heinrich, co-founder and CEO of 0G Labs Ask a security team about quantum risk, and the conversation usually starts with encryption: harvest now, decrypt later, with adversaries recording today’s traffic so they can read it once a sufficiently powerful quantum computer exists.…"
+    },
+    {
+      "title": "IonQ and Synopsys Report Up to 14.6% Faster Engineering Simulations",
+      "link": "https://thequantuminsider.com/2026/09/17/ionq-synopsys-14-6-percent-faster-engineering-simulations/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 16:22:51 +0000",
+      "published_ts": 1789662171,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today detailed research conducted with Synopsys. The publication shows early results that quantum algorithms integrated into mainstream engineering software can accelerate complex indu…"
+    },
+    {
+      "title": "NLM Photonics and LIGENTEC Demonstrate Silicon Nitride Organic Hybrid Modulators",
+      "link": "https://thequantuminsider.com/2026/09/17/nlm-photonics-ligentec-silicon-nitride-organic-hybrid-modulators/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 16:13:05 +0000",
+      "published_ts": 1789661585,
+      "summary": "Insider Brief PRESS RELEASE &#8212; NLM Photonics, the leader in the development of organic electro-optic (OEO) technology, has partnered with LIGENTEC to produce the first Silicon Nitride Organic Hybrid (NOH) modulators on a commercial photonics platform. Silicon absorbs light in the visible and ne…"
+    },
     {
       "title": "Diamond quantum sensors can detect heart magnetism at room temperature without skin contact",
       "link": "https://phys.org/news/2026-09-diamond-quantum-sensors-heart-magnetism.html",
@@ -56,38 +120,6 @@
       "published": "Thu, 17 Sep 2026 08:14:47 +0000",
       "published_ts": 1789632887,
       "summary": "Insider Brief PRESS RELEASE &#8212; Alice &#38; Bob,&#160;a leader in fault-tolerant quantum computing&#160;(FTQC) technologies, today announced a research collaboration with the CEA, a globally recognized scientific institution, to advance the integration of its quantum software stack within hybrid…"
-    },
-    {
-      "title": "IQM to Deploy Quantum Computer in South America at Brazil’s Eldorado Institute",
-      "link": "https://thequantuminsider.com/2026/09/17/iqm-quantum-computer-south-america-brazil-eldorado/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 17 Sep 2026 08:12:17 +0000",
-      "published_ts": 1789632737,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, today announced a purchase agreement with the Eldorado Research Institute to deploy its first quantum computer in South America, marking IQM&#8216;s entry into the region.…"
-    },
-    {
-      "title": "Mitsubishi Electric Launches NEDO-Supported R&D to Scale Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/09/17/mitsubishi-electric-rd-scale-up-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 17 Sep 2026 07:59:51 +0000",
-      "published_ts": 1789631991,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Mitsubishi Electric Corporation (TOKYO: 6503) announced today that two of its research and development (R&#38;D) projects have been selected through a public solicitation by Japan’s New Energy and Industrial Technology Development Organization (NEDO) for support u…"
-    },
-    {
-      "title": "Quantum B Secures European Patent for Quantum Conference Key Agreement Protocol Supporting Consensus in Distributed Systems",
-      "link": "https://thequantuminsider.com/2026/09/17/quantum-b-secures-european-patent-for-quantum-conference-key-agreement-protocol-supporting-consensus-in-distributed-systems/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 17 Sep 2026 07:43:52 +0000",
-      "published_ts": 1789631032,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum B, Inc. (formerly Quantum Blockchains) announced that the European Patent Office (EPO) has granted the company a patent covering its Quantum Conference Key Agreement protocol and its application in distributed systems. The invention enables networks of ind…"
-    },
-    {
-      "title": "NSF and UKRI Invest More Than $10 Million in Quantum Chemistry Research",
-      "link": "https://thequantuminsider.com/2026/09/17/nsf-ukri-quantum-science-foundational-chemistry-research/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 17 Sep 2026 07:05:30 +0000",
-      "published_ts": 1789628730,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. National Science Foundation and United Kingdom Research and Innovation (UKRI) are bringing together scientists on opposite sides of the Atlantic to explore a shared frontier in chemistry research: quantum information. The agencies are jointly investing ov…"
     },
     {
       "title": "The Global Geometry of the Gaussian Bures Manifold: Admissible Domain, Spectral Boundary, and Asymptotic Classicality",
@@ -320,38 +352,6 @@
       "published": "Thu, 10 Sep 2026 19:00:01 EDT",
       "published_ts": 1789081201,
       "summary": "To monitor the amount and type of nuclear material at power plants and weapons facilities, scientists look for a special signal—the unique pattern of gamma rays emitted by specific radioactive elements. However, some of these elements also emit X-rays in the same energy range as the gamma-ray emissi…"
-    },
-    {
-      "title": "Tightly guided atoms could enable low-power quantum navigation when GPS fails",
-      "link": "https://phys.org/news/2026-09-tightly-atoms-enable-power-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 10 Sep 2026 15:40:10 EDT",
-      "published_ts": 1789069210,
-      "summary": "Within tiny halos of light clinging to a vanishingly thin wisp of optical fiber, scientist Jongmin Lee guides atoms like marbles through a narrow pipe. Rock the fiber and the atoms shift side by side; they just don't fall off. But don't be deceived by the seemingly delicate nature of his experiment.…"
-    },
-    {
-      "title": "New pulse-train method aims to improve precision in quantum control",
-      "link": "https://phys.org/news/2026-09-pulse-method-aims-precision-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 10 Sep 2026 14:00:04 EDT",
-      "published_ts": 1789063204,
-      "summary": "Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses."
-    },
-    {
-      "title": "1,000 times faster operations bring reliable quantum computing a step closer",
-      "link": "https://phys.org/news/2026-09-faster-reliable-quantum-closer.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 10 Sep 2026 13:40:10 EDT",
-      "published_ts": 1789062010,
-      "summary": "So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quantum operation takes, the greater the risk of computational errors."
-    },
-    {
-      "title": "Spinons may help electrons pair along stripes in some superconductors",
-      "link": "https://phys.org/news/2026-09-spinons-electrons-pair-stripes-superconductors.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 10 Sep 2026 10:00:11 EDT",
-      "published_ts": 1789048811,
-      "summary": "Superconductors are materials that carry electricity with zero resistance below specific temperatures. Many of these materials become superconducting at very low temperatures, yet some enter superconducting phases at higher temperatures."
     },
     {
       "title": "MIT turns bacteria into living transistors",
