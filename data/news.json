@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1789591645,
+  "generated_ts": 1789614357,
   "items": [
+    {
+      "title": "Hot electrons reveal electronic collisions may raise resistance in twisted graphene",
+      "link": "https://phys.org/news/2026-09-hot-electrons-reveal-electronic-collisions.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 16 Sep 2026 19:40:01 EDT",
+      "published_ts": 1789602001,
+      "summary": "When a material heats up, its electrical resistance often rises. The harder question is what, exactly, is getting in the way. The electrons carrying the current may be scattered by vibrations of the material's atomic lattice, known as phonons. They may also collide with one another. Frustratingly, a…"
+    },
+    {
+      "title": "Mobile trap transports 92 antiprotons by road and stores them for over a month in world first",
+      "link": "https://phys.org/news/2026-09-mobile-antiprotons-road-month-world.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 16 Sep 2026 18:30:06 EDT",
+      "published_ts": 1789597806,
+      "summary": "In March 2026, scientists succeeded in transporting antiprotons by road for the first time in a purpose-built trap loaded on a truck. The BASE collaboration, which realized this experiment at the European Organization for Nuclear Research (CERN) in Geneva under the lead of Professor Dr Stefan Ulmer…"
+    },
+    {
+      "title": "Gold’s Quantum Moment",
+      "link": "https://thequantuminsider.com/2026/09/16/golds-quantum-moment/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 16 Sep 2026 20:41:28 +0000",
+      "published_ts": 1789591288,
+      "summary": "How two research teams and a London based quantum hardware company are betting nanoscale gold can crack the stability-scalability problem that has stalled every other qubit platform. Insider Brief Quantum computing&#8217;s race for a stable, scalable qubit has never lacked contenders. Trapped ions,…"
+    },
     {
       "title": "Circular Rydberg atoms set three records, staying stable for 11 milliseconds",
       "link": "https://phys.org/news/2026-09-circular-rydberg-atoms-staying-stable.html",
@@ -80,14 +104,6 @@
       "published": "Wed, 16 Sep 2026 08:19:49 +0000",
       "published_ts": 1789546789,
       "summary": "Insider Brief Beijing has launched a program to connect quantum technology companies with prospective customers in transportation, energy, finance and other industries, part of a broader effort to move the sector from laboratory research toward commercial applications. The “Scenario Handshake Plan”…"
-    },
-    {
-      "title": "BioInnovation Institute Selects 17 European Startups for Funding and Support",
-      "link": "https://thequantuminsider.com/2026/09/16/bioinnovation-institute-selects-17-european-startups-for-funding-and-support/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 07:57:57 +0000",
-      "published_ts": 1789545477,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Following the announcement of a new EUR 736M from the Novo Nordisk Foundation to the BioInnovation Institute (BII), the Danish innovation house made it clear that the funding would be used to support even more research-based startups in commercialising their ideas…"
     },
     {
       "title": "Unconditional Security of Discrete-Modulated CV-QKD from Infinite-Dimensional MEAT",
@@ -336,22 +352,6 @@
       "published": "Wed, 09 Sep 2026 19:20:04 EDT",
       "published_ts": 1788996004,
       "summary": "For decades, physicists have searched for dark matter, the invisible substance thought to make up roughly 85% of all matter in the universe. Although its gravitational influence shapes galaxies and the large-scale structure of the cosmos, dark matter has never been directly detected. Now, an interna…"
-    },
-    {
-      "title": "Layer-based design offers new route to topological magnets",
-      "link": "https://phys.org/news/2026-09-layer-based-route-topological-magnets.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 09 Sep 2026 12:20:02 EDT",
-      "published_ts": 1788970802,
-      "summary": "Topological quantum materials combine unusual electronic states with properties such as magnetism or superconductivity, offering possibilities for future electronics and quantum technologies. Researchers at Tohoku University have now shown that changing the number of layers in a crystal can provide…"
-    },
-    {
-      "title": "Could quantum protocols make electronic voting more secure?",
-      "link": "https://phys.org/news/2026-09-quantum-protocols-electronic-voting.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 09 Sep 2026 09:40:10 EDT",
-      "published_ts": 1788961210,
-      "summary": "Electronic voting, the use of electronic systems to cast, record or count votes, could potentially simplify the process of electing new political leaders or other representatives. While some countries have already started using internet-connected devices or electronic voting machines at polling stat…"
     },
     {
       "title": "MIT turns bacteria into living transistors",
