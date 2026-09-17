@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1789642307,
+  "generated_ts": 1789661195,
   "items": [
+    {
+      "title": "Diamond quantum sensors can detect heart magnetism at room temperature without skin contact",
+      "link": "https://phys.org/news/2026-09-diamond-quantum-sensors-heart-magnetism.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 17 Sep 2026 11:40:08 EDT",
+      "published_ts": 1789659608,
+      "summary": "Physicists at Johannes Gutenberg University Mainz (JGU) have developed a technology that uses quantum sensors to measure biomagnetic signals, such as heart activity. Researchers from the DIAQNOS (DIAmond-based Quantum Sensing for NeurOSurgery) flagship project, coordinated by Dr. Arne Wickenbrock in…"
+    },
+    {
+      "title": "Quantum X Labs Launches QuantumQ Security Program for Quantum Cybersecurity",
+      "link": "https://thequantuminsider.com/2026/09/17/quantum-x-labs-launches-quantum-native-cybersecurity-program/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 13:00:28 +0000",
+      "published_ts": 1789650028,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X Labs” or the “Company”), a quantum technology company developing technologies across quantum computing, sensing, simulation and cybersecurity, today announced, that as part of its QuantumQ Security operation, it has la…"
+    },
+    {
+      "title": "Sectigo Launches Quantum Ready for Enterprise PQC Readiness",
+      "link": "https://thequantuminsider.com/2026/09/17/sectigo-launches-quantum-ready-pqc-readiness/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 12:43:47 +0000",
+      "published_ts": 1789649027,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Sectigo today announced the launch of Sectigo Quantum Ready™, a cryptographic discovery and quantum readiness solution designed to help enterprises discover and map cryptographic assets and dependencies across their entire environment, assess PQC risk exposure and…"
+    },
+    {
+      "title": "USA Rare Earth, Pasqal and Riven Test Quantum Machine Learning for Rare Earth Separation",
+      "link": "https://thequantuminsider.com/2026/09/17/usa-rare-earth-pasqal-riven-critical-mineral-production/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 12:22:15 +0000",
+      "published_ts": 1789647735,
+      "summary": "Insider Brief PRESS RELEASE &#8212; USA Rare Earth (Nasdaq: USAR), a rare earth, critical minerals and advanced materials company, Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing and Riven Systems, a specialist in AI for industrial chemistry, today announced a strategic part…"
+    },
+    {
+      "title": "OQC And Trust Base Study Helps Map The Path to Quantum Advantage in Finance",
+      "link": "https://thequantuminsider.com/2026/09/17/oqc-and-trust-base-study-helps-map-the-path-to-quantum-advantage-in-finance/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 11:16:31 +0000",
+      "published_ts": 1789643791,
+      "summary": "Insider Brief Research by Oxford Quantum Circuits and Trust Base suggests that finding quantum advantage in finance will require more than demonstrating that a quantum algorithm can perform a pricing calculation. The companies examined where quantum methods could fit within financial workflows, how…"
+    },
+    {
+      "title": "Riverlane Establishes U.S. Headquarters in Maryland to Accelerate Quantum Computing Innovation",
+      "link": "https://thequantuminsider.com/2026/09/17/riverlane-establishes-u-s-headquarters-in-maryland-to-accelerate-quantum-computing-innovation/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 17 Sep 2026 11:05:00 +0000",
+      "published_ts": 1789643100,
+      "summary": "Insider Brief PRESS RELEASE &#8212; &#160;Riverlane, the global leader in quantum error correction (QEC), today announced plans to open its U.S. headquarters in&#160;Discovery District Maryland, marking a significant milestone in the company&#8217;s long-term investment in the United States.&#160; T…"
+    },
     {
       "title": "Alice & Bob Partners With The CEA to Accelerate Quantum-HPC Integration And Industrial Use Cases",
       "link": "https://thequantuminsider.com/2026/09/17/alice-bob-partners-with-the-cea-to-accelerate-quantum-hpc-integration-and-industrial-use-cases/",
@@ -178,52 +226,12 @@
       "summary": "In March 2026, scientists succeeded in transporting antiprotons by road for the first time in a purpose-built trap loaded on a truck. The BASE collaboration, which realized this experiment at the European Organization for Nuclear Research (CERN) in Geneva under the lead of Professor Dr Stefan Ulmer…"
     },
     {
-      "title": "Gold’s Quantum Moment",
-      "link": "https://thequantuminsider.com/2026/09/16/golds-quantum-moment/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 20:41:28 +0000",
-      "published_ts": 1789591288,
-      "summary": "How two research teams and a London based quantum hardware company are betting nanoscale gold can crack the stability-scalability problem that has stalled every other qubit platform. Insider Brief Quantum computing&#8217;s race for a stable, scalable qubit has never lacked contenders. Trapped ions,…"
-    },
-    {
       "title": "Circular Rydberg atoms set three records, staying stable for 11 milliseconds",
       "link": "https://phys.org/news/2026-09-circular-rydberg-atoms-staying-stable.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 16 Sep 2026 15:20:08 EDT",
       "published_ts": 1789586408,
       "summary": "Rydberg atoms are considered promising building blocks for quantum computers and their precursors, quantum simulators. Researchers at the 5th Institute of Physics of the University of Stuttgart have achieved record values for the lifetime, size, and storage time of circular Rydberg atoms, a special…"
-    },
-    {
-      "title": "IonQ and ORNL Demonstrate Generative AI for Quantum Optimization",
-      "link": "https://thequantuminsider.com/2026/09/16/ionq-ornl-nvidia-tennessee-ai-quantum-optimization-tradeoff/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 17:07:40 +0000",
-      "published_ts": 1789578460,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world&#8217;s leading full-stack quantum platform and foundry, today detailed joint research with Oak Ridge National Laboratory (ORNL), NVIDIA, and the University of Tennessee, Knoxville (UT) showing that a trained generative model can write…"
-    },
-    {
-      "title": "Quobly Demonstrates Key Quantum Operations on 300 mm Silicon Chip",
-      "link": "https://thequantuminsider.com/2026/09/16/quobly-key-quantum-operations-industrial-silicon-chip/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 14:09:12 +0000",
-      "published_ts": 1789567752,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quobly, a French quantum computing company developing  industrially scalable quantum computers based on silicon spin qubits, today announces new results  showing qubit readout, single-qubit gates and two-qubit gates on a single quantum chip fabricated on  its prop…"
-    },
-    {
-      "title": "Matter Venture Partners Closes $450 Million Fund II",
-      "link": "https://thequantuminsider.com/2026/09/16/matter-venture-partners-closes-450-million-fund-ii/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 14:01:07 +0000",
-      "published_ts": 1789567267,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Matter Venture Partners today announced the close of its second fund at $450 million. The fund will go towards backing early-stage HardTech startups across semiconductors, robotics and Physical AI, AI infrastructure, quantum computing, advanced manufacturing, ener…"
-    },
-    {
-      "title": "Planckian Selected for Phase 1 of EuroHPC Quantum Grand Challenge",
-      "link": "https://thequantuminsider.com/2026/09/16/planckian-selected-eurohpc-quantum-grand-challenge/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 16 Sep 2026 13:54:16 +0000",
-      "published_ts": 1789566856,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Planckian today announced that it has been selected for Phase 1 of the EuroHPC Quantum Grand Challenge, the European Union programme backing the quantum computing platforms with the most credible path to industrial-scale systems. Thirteen companies were selected f…"
     },
     {
       "title": "Magnets could help quantum computers talk to each other, says researcher",
@@ -344,14 +352,6 @@
       "published": "Thu, 10 Sep 2026 10:00:11 EDT",
       "published_ts": 1789048811,
       "summary": "Superconductors are materials that carry electricity with zero resistance below specific temperatures. Many of these materials become superconducting at very low temperatures, yet some enter superconducting phases at higher temperatures."
-    },
-    {
-      "title": "Unconventional quantum materials could dramatically boost the search for dark matter",
-      "link": "https://phys.org/news/2026-09-unconventional-quantum-materials-boost-dark.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 09 Sep 2026 19:20:04 EDT",
-      "published_ts": 1788996004,
-      "summary": "For decades, physicists have searched for dark matter, the invisible substance thought to make up roughly 85% of all matter in the universe. Although its gravitational influence shapes galaxies and the large-scale structure of the cosmos, dark matter has never been directly detected. Now, an interna…"
     },
     {
       "title": "MIT turns bacteria into living transistors",
