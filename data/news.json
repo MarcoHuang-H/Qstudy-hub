@@ -1,6 +1,182 @@
 {
-  "generated_ts": 1789700019,
+  "generated_ts": 1789727219,
   "items": [
+    {
+      "title": "MIT’s Robotic Optics Lab Could Speed Testing for Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/09/18/mits-robotic-optics-lab-could-speed-testing-for-quantum-technology/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 18 Sep 2026 08:16:48 +0000",
+      "published_ts": 1789719408,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Every new generation of phone display, television screen, and solar panel is a result of precision optics experiments, which use lasers and other light sources to measure the optical properties of candidate materials. These experiments can take months to run, requ…"
+    },
+    {
+      "title": "Researchers Observe First Real-Time Quantum Jump in Sound",
+      "link": "https://thequantuminsider.com/2026/09/18/researchers-observe-first-real-time-quantum-jump-in-sound/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 18 Sep 2026 08:07:01 +0000",
+      "published_ts": 1789718821,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A Stanford team has documented the first direct observation of quantum jumps of sound in a mechanical resonator, completing an arc of scientific exploration that started over a hundred years ago. Quantum jumps—sudden transitions from one energy state to another—ha…"
+    },
+    {
+      "title": "ICTK and Jiran Security Partner on Post-Quantum Cryptography Migration",
+      "link": "https://thequantuminsider.com/2026/09/18/ictk-jiran-security-post-quantum-cryptography-migration/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 18 Sep 2026 08:02:40 +0000",
+      "published_ts": 1789718560,
+      "summary": "Insider Brief South Korean quantum security company ICTK (KOSDAQ: 456010) has signed a memorandum of understanding (MoU) with information security firm Jiran Security to jointly work on post-quantum cryptography migration and cryptographic asset discovery, Business Korea reported. Jiran Security off…"
+    },
+    {
+      "title": "DOE Launches $215 Million Quantum Genesis Q Competition",
+      "link": "https://thequantuminsider.com/2026/09/18/doe-215-million-quantum-genesis-q-competition/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 18 Sep 2026 07:51:42 +0000",
+      "published_ts": 1789717902,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of Energy (DOE) today announced the Quantum Genesis Q Competition, an initiative with up to $215 million in planned funding to demonstrate the world’s first fault-tolerant scientifically relevant quantum computers (SRQCs). Applicants are invite…"
+    },
+    {
+      "title": "Montana State Offers Free Quantum Science Curriculum for Middle Schools",
+      "link": "https://thequantuminsider.com/2026/09/18/montana-state-free-quantum-education-program/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 18 Sep 2026 07:31:16 +0000",
+      "published_ts": 1789716676,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Montana middle school educators are invited to apply for QuantumClub, an education and outreach project developed by Montana State University’s QCORE and the Science Math Resource Center in partnership with the National Girls Collaborative Project. Through Quantum…"
+    },
+    {
+      "title": "Lawrence Semiconductor Appoints Don Garrison as General Manager and COO",
+      "link": "https://thequantuminsider.com/2026/09/18/lawrence-semiconductor-appoints-don-garrison-general-manager-coo/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 18 Sep 2026 07:22:09 +0000",
+      "published_ts": 1789716129,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Lawrence Semiconductor, a U.S.-owned manufacturer of engineered silicon and germanium epitaxial materials, today announced that Don Garrison has joined as General Manager and Chief Operating Officer. Garrison reports to Chief Executive Officer Ali Torabi and leads…"
+    },
+    {
+      "title": "Qtonic Quantum Launches QShield for Post-Quantum Network Protection",
+      "link": "https://thequantuminsider.com/2026/09/18/qtonic-quantum-launches-qshield-post-quantum-network-protection/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 18 Sep 2026 06:58:30 +0000",
+      "published_ts": 1789714710,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qtonic Quantum Corp today launched QShield, its SAFE/29 packet runtime, and opened paid, scoped, operator-led engagements to enterprise and government organizations, available now. QShield puts post-quantum encryption on a sensitive network connection using softwa…"
+    },
+    {
+      "title": "Qupertino: Pure MLX Array Kernels versus Hand-Tuned Metal Shaders for Quantum Circuit Simulation on Apple Silicon",
+      "link": "https://arxiv.org/abs/2609.19147",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19147v1 Announce Type: new  Abstract: We present Qupertino, an open-source quantum circuit simulator for Apple Silicon, and use it to ask how far a simulator written purely in MLX array operations can go and what remains for hand-tuned Metal shaders. The framework ships two measured tiers…"
+    },
+    {
+      "title": "AlchemQ: Proof-Carrying Quantum Circuit Optimization with Per-Result Equivalence Certificates",
+      "link": "https://arxiv.org/abs/2609.19160",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19160v1 Announce Type: new  Abstract: We present AlchemQ v0.5, a proof-of-concept system that couples an untrusted beam-search optimizer with a machine-checkable per-result certification layer and a versioned certificate protocol (0.2.0), so that every optimized circuit ships with a verif…"
+    },
+    {
+      "title": "Femtoscopic Correlation Functions in Density Operator Representation",
+      "link": "https://arxiv.org/abs/2609.19161",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19161v1 Announce Type: new  Abstract: Femtoscopic correlation functions (CFs) have been increasingly used to extract strong interactions between pairs of unstable particles, but their physical soundness has recently been questioned. To answer this, we formulate CFs at the operator level,…"
+    },
+    {
+      "title": "Holomorphic Quantum Error Correction Codes",
+      "link": "https://arxiv.org/abs/2609.19162",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19162v1 Announce Type: new  Abstract: We develop a holomorphic representation of quantum error correction codes (QECCs) within the Segal--Bargmann space. By encoding qubits into Schwinger boson modes $(z_{a_j}, z_{b_j})$ subject to a degree-one homogeneity constraint, we derive closed-for…"
+    },
+    {
+      "title": "Energy-Constrained Commutator Variance for Weyl Pairs",
+      "link": "https://arxiv.org/abs/2609.19163",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19163v1 Announce Type: new  Abstract: Let $W$ be a representation of the Weyl relations on a separable Hilbert space and write $\\mathcal R_W(K)=\\{W(f):f\\in K\\}''$. If the symplectic pairing of $K_1$ and $K_2$ is nonzero, there is a self-adjoint unitary $B\\in\\mathcal R_W(K_2)$ such that, f…"
+    },
+    {
+      "title": "Suzuki-Trotter Decompositions and other Methods for Quantum Time Evolution",
+      "link": "https://arxiv.org/abs/2609.19184",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19184v1 Announce Type: new  Abstract: (Suzuki-)Trotter decompositions, splitting methods, (Lie) product formulae... The most common numerical methods for the time evolution of quantum systems come with many names. And they are used practically everywhere with applications ranging from the…"
+    },
+    {
+      "title": "Enhanced Emission and Two-Photon Interference of Lead-Vacancy Centers in Diamond Solid Immersion Lenses",
+      "link": "https://arxiv.org/abs/2609.19220",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19220v1 Announce Type: new  Abstract: A negatively charged lead-vacancy (PbV-) center in diamond is a novel quantum system which can be operated at a high temperature above 4 K owing to its large ground state splitting. To unlock the quantum properties of the PbV- center, the enhancement…"
+    },
+    {
+      "title": "Lazy training of quantum physics informed neural networks",
+      "link": "https://arxiv.org/abs/2609.19239",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19239v1 Announce Type: new  Abstract: We study the gradient-flow training dynamics of quantum physics-informed neural networks (QPINNs) for the solution of second-order elliptic partial differential equations with Dirichlet boundary conditions. We consider parameterized quantum circuits a…"
+    },
+    {
+      "title": "Achieving the limits of automorphism gates",
+      "link": "https://arxiv.org/abs/2609.19250",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19250v1 Announce Type: new  Abstract: Universal fault-tolerant quantum computing combines versatile but expensive operations with specialized but cheap ones. Its efficiency depends on how much computation can be pushed onto the cheap operations and on the size of the code needed to do so.…"
+    },
+    {
+      "title": "Theory of post-selected entanglement transitions in monitored bosons",
+      "link": "https://arxiv.org/abs/2609.19251",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19251v1 Announce Type: new  Abstract: Entanglement phase transitions driven by quantum measurements have emerged as a central paradigm in open quantum many-body physics. Such phase transitions are well established for systems with finite local Hilbert-space dimensions, such as qubits and…"
+    },
+    {
+      "title": "Emergent classicality and wavefunction branching in an isolated quantum many-body system",
+      "link": "https://arxiv.org/abs/2609.19254",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19254v1 Announce Type: new  Abstract: Decoherence in quantum systems is conventionally modeled as the effect of interactions with an external environment. However, such a prescription excludes isolated many-body systems, which are also expected to display classical behavior at macroscopic…"
+    },
+    {
+      "title": "A Square-Root Barrier to Quantum Gate Speed under Linear Coupling",
+      "link": "https://arxiv.org/abs/2609.19280",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19280v1 Announce Type: new  Abstract: Faster quantum gates can suppress the decoherence accumulated during a computation, but in superconducting processors stronger microwave pulses can also increase leakage, off-resonant excitation, stray-field errors, and crosstalk. This creates a centr…"
+    },
+    {
+      "title": "Temporal information processing on a 4,500-qubit quantum annealer",
+      "link": "https://arxiv.org/abs/2609.19308",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19308v1 Announce Type: new  Abstract: Quantum machine learning could uncover statistical structure beyond the reach of classical models, but this requires quantum models large and expressive enough to be useful and cheap enough to read out. Most approaches optimize many quantum parameters…"
+    },
+    {
+      "title": "Quantum tree networks: complete semidefinite hierarchies and the source-transfer model",
+      "link": "https://arxiv.org/abs/2609.19310",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19310v1 Announce Type: new  Abstract: Understanding the capabilities and limits of quantum systems is central to quantum information processing. This includes determining which correlations can arise in networks of quantum systems distributed by independent sources. Yet for general quantu…"
+    },
+    {
+      "title": "Observing and evading quantum back-action on a kilogram-scale oscillator",
+      "link": "https://arxiv.org/abs/2609.19317",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "published_ts": 1789704000,
+      "summary": "arXiv:2609.19317v1 Announce Type: new  Abstract: Continuous quantum displacement measurements are fundamentally limited by a trade-off between readout imprecision and measurement back-action, constrained by the Heisenberg uncertainty principle. In the Laser Interferometric Gravitational-Wave Observa…"
+    },
     {
       "title": "Close-up images show defects locking electrons into stable Wigner solids",
       "link": "https://phys.org/news/2026-09-images-defects-electrons-stable-wigner.html",
@@ -23,7 +199,7 @@
       "source": "The Quantum Insider",
       "published": "Thu, 17 Sep 2026 19:22:08 +0000",
       "published_ts": 1789672928,
-      "summary": "Insider Brief PRESS RELEASE — The Quantum Insider (TQI) is pleased to announce it has entered into a partnership with Tesseract Quantum, a Swiss educational non-profit, whose flagship YouTube science channel The Quantum Kid sports over 120,000 subscribers and nearly 3 million views.  Launched in Jun…"
+      "summary": "Insider Brief PRESS RELEASE — The Quantum Insider (TQI) is pleased to announce it has entered into a partnership with Tesseract Quantum, a Swiss educational non-profit, whose flagship YouTube science channel The Quantum Kid sports over 120,000 subscribers and nearly 3 million views.&#160; Launched i…"
     },
     {
       "title": "What kills Schrödinger's cat? Underground experiment rules out gravity model for quantum decoherence",
@@ -66,188 +242,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today detailed research conducted with Synopsys. The publication shows early results that quantum algorithms integrated into mainstream engineering software can accelerate complex indu…"
     },
     {
-      "title": "NLM Photonics and LIGENTEC Demonstrate Silicon Nitride Organic Hybrid Modulators",
-      "link": "https://thequantuminsider.com/2026/09/17/nlm-photonics-ligentec-silicon-nitride-organic-hybrid-modulators/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 17 Sep 2026 16:13:05 +0000",
-      "published_ts": 1789661585,
-      "summary": "Insider Brief PRESS RELEASE &#8212; NLM Photonics, the leader in the development of organic electro-optic (OEO) technology, has partnered with LIGENTEC to produce the first Silicon Nitride Organic Hybrid (NOH) modulators on a commercial photonics platform. Silicon absorbs light in the visible and ne…"
-    },
-    {
       "title": "Diamond quantum sensors can detect heart magnetism at room temperature without skin contact",
       "link": "https://phys.org/news/2026-09-diamond-quantum-sensors-heart-magnetism.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 17 Sep 2026 11:40:08 EDT",
       "published_ts": 1789659608,
       "summary": "Physicists at Johannes Gutenberg University Mainz (JGU) have developed a technology that uses quantum sensors to measure biomagnetic signals, such as heart activity. Researchers from the DIAQNOS (DIAmond-based Quantum Sensing for NeurOSurgery) flagship project, coordinated by Dr. Arne Wickenbrock in…"
-    },
-    {
-      "title": "Quantum X Labs Launches QuantumQ Security Program for Quantum Cybersecurity",
-      "link": "https://thequantuminsider.com/2026/09/17/quantum-x-labs-launches-quantum-native-cybersecurity-program/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 17 Sep 2026 13:00:28 +0000",
-      "published_ts": 1789650028,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X Labs” or the “Company”), a quantum technology company developing technologies across quantum computing, sensing, simulation and cybersecurity, today announced, that as part of its QuantumQ Security operation, it has la…"
-    },
-    {
-      "title": "Sectigo Launches Quantum Ready for Enterprise PQC Readiness",
-      "link": "https://thequantuminsider.com/2026/09/17/sectigo-launches-quantum-ready-pqc-readiness/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 17 Sep 2026 12:43:47 +0000",
-      "published_ts": 1789649027,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Sectigo today announced the launch of Sectigo Quantum Ready™, a cryptographic discovery and quantum readiness solution designed to help enterprises discover and map cryptographic assets and dependencies across their entire environment, assess PQC risk exposure and…"
-    },
-    {
-      "title": "USA Rare Earth, Pasqal and Riven Test Quantum Machine Learning for Rare Earth Separation",
-      "link": "https://thequantuminsider.com/2026/09/17/usa-rare-earth-pasqal-riven-critical-mineral-production/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 17 Sep 2026 12:22:15 +0000",
-      "published_ts": 1789647735,
-      "summary": "Insider Brief PRESS RELEASE &#8212; USA Rare Earth (Nasdaq: USAR), a rare earth, critical minerals and advanced materials company, Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing and Riven Systems, a specialist in AI for industrial chemistry, today announced a strategic part…"
-    },
-    {
-      "title": "OQC And Trust Base Study Helps Map The Path to Quantum Advantage in Finance",
-      "link": "https://thequantuminsider.com/2026/09/17/oqc-and-trust-base-study-helps-map-the-path-to-quantum-advantage-in-finance/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 17 Sep 2026 11:16:31 +0000",
-      "published_ts": 1789643791,
-      "summary": "Insider Brief Research by Oxford Quantum Circuits and Trust Base suggests that finding quantum advantage in finance will require more than demonstrating that a quantum algorithm can perform a pricing calculation. The companies examined where quantum methods could fit within financial workflows, how…"
-    },
-    {
-      "title": "Riverlane Establishes U.S. Headquarters in Maryland to Accelerate Quantum Computing Innovation",
-      "link": "https://thequantuminsider.com/2026/09/17/riverlane-establishes-u-s-headquarters-in-maryland-to-accelerate-quantum-computing-innovation/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 17 Sep 2026 11:05:00 +0000",
-      "published_ts": 1789643100,
-      "summary": "Insider Brief PRESS RELEASE &#8212; &#160;Riverlane, the global leader in quantum error correction (QEC), today announced plans to open its U.S. headquarters in&#160;Discovery District Maryland, marking a significant milestone in the company&#8217;s long-term investment in the United States.&#160; T…"
-    },
-    {
-      "title": "Alice & Bob Partners With The CEA to Accelerate Quantum-HPC Integration And Industrial Use Cases",
-      "link": "https://thequantuminsider.com/2026/09/17/alice-bob-partners-with-the-cea-to-accelerate-quantum-hpc-integration-and-industrial-use-cases/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 17 Sep 2026 08:14:47 +0000",
-      "published_ts": 1789632887,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Alice &#38; Bob,&#160;a leader in fault-tolerant quantum computing&#160;(FTQC) technologies, today announced a research collaboration with the CEA, a globally recognized scientific institution, to advance the integration of its quantum software stack within hybrid…"
-    },
-    {
-      "title": "The Global Geometry of the Gaussian Bures Manifold: Admissible Domain, Spectral Boundary, and Asymptotic Classicality",
-      "link": "https://arxiv.org/abs/2609.17563",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17563v1 Announce Type: new  Abstract: We construct the covariance-sector Bures geometry of centered bosonic Gaussian states from the Gaussian symmetric-logarithmic-derivative equation and determine its quantum-admissible domain. At the Williamson uncertainty floor, the boundary geometry i…"
-    },
-    {
-      "title": "The Golden Junction of Gaussian Covariance Geometries: Sector Anisotropy, Relative-Entropy Response, and Local Penalties",
-      "link": "https://arxiv.org/abs/2609.17574",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17574v1 Announce Type: new  Abstract: We compare four local geometries of centered one-mode bosonic Gaussian covariances while keeping their operational meanings distinct. In a common trace-orthonormal normalization, the Bures and covariance Fisher--Rao cometric determinants cross intrins…"
-    },
-    {
-      "title": "Adaptive Record Consistency in a Schulman-Type Model",
-      "link": "https://arxiv.org/abs/2609.17607",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17607v1 Announce Type: new  Abstract: Adaptive measurements test whether a retrocausal model preserves observable records when experiments are connected by classical feedback. We establish exact and quantitative composition constraints for a finite-width, coplanar Schulman-type source wit…"
-    },
-    {
-      "title": "Quantum Encodings, Private Messages, and Communication Complexity",
-      "link": "https://arxiv.org/abs/2609.17690",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17690v1 Announce Type: new  Abstract: We study the complexity of quantum decomposable randomized encodings (QDRE). We establish a bi-directional connection between the QDRE model and the communication complexity model of quantum private simultaneous message protocols (QPSM), where classic…"
-    },
-    {
-      "title": "Efficiency-Resolved Recovery Dynamics of an Free-Running InGaAs/InP Single Photon Avalanche Detector Operated in Gated Mode",
-      "link": "https://arxiv.org/abs/2609.17694",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17694v1 Announce Type: new  Abstract: Detection efficiency in gated-mode single-photon avalanche detectors recovers gradually after each gate edge, limiting attainable count rates, yet quantitative recovery models exist only for free-running operation. We extract the gated recovery time c…"
-    },
-    {
-      "title": "Advances in the quantum-state texture theory",
-      "link": "https://arxiv.org/abs/2609.17704",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17704v1 Announce Type: new  Abstract: The recently introduced concept of quantum-state texture (QST) has found applications ranging from the identification of unknown quantum gates to the study of quantum phase transitions and criticality, and has already been experimentally investigated.…"
-    },
-    {
-      "title": "Diagnosing and Restoring the Degraded Fault Distance of Magic State Cultivation",
-      "link": "https://arxiv.org/abs/2609.17706",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17706v1 Announce Type: new  Abstract: T-state cultivation is a resource-efficient protocol producing logical T states but recent benchmarks show that its logical error rate is considerably higher than intended i.e. than S-state cultivation, which is the analogous protocol for producing lo…"
-    },
-    {
-      "title": "Exact damping-basis continued fractions for few-atom lasers: collective correlations beyond second-order cumulant closure",
-      "link": "https://arxiv.org/abs/2609.17785",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17785v1 Announce Type: new  Abstract: We combine the Briegel--Englert damping basis of a lossy cavity mode with the permutation-invariant Liouville basis of \\(N\\) identical, incoherently pumped two-level emitters. The resulting Liouvillian is exactly block tridiagonal in a single radial f…"
-    },
-    {
-      "title": "Superconducting levitation and control of a high-reflectivity micromirror",
-      "link": "https://arxiv.org/abs/2609.17787",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17787v1 Announce Type: new  Abstract: We introduce a method to suspend an optical micromirror, with a total mass of \\SI{30}{\\micro\\gram}, using superconducting magnetic levitation. The micromirror is formed on a silicon membrane, coated with a high-reflectivity dielectric stack and attach…"
-    },
-    {
-      "title": "QiT: Quantum-Inspired Transformer for Visual Recognition Task",
-      "link": "https://arxiv.org/abs/2609.17789",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17789v1 Announce Type: new  Abstract: Quantum machine learning offers a compelling representational perspective: angle-encoded states inhabit Hilbert spaces in which periodic similarities and interactions can be expressed naturally. Realizing this perspective for visual recognition remain…"
-    },
-    {
-      "title": "Depth analysis of the Quantum Approximate Optimization Algorithm with a Grover mixer",
-      "link": "https://arxiv.org/abs/2609.17835",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17835v1 Announce Type: new  Abstract: We study the Quantum Approximate Optimization Algorithm with a Grover mixer and independently sampled cost and mixing angles. Under a lattice condition on the cost values carried by the initial state, we prove a depth-independent lower bound for the v…"
-    },
-    {
-      "title": "Quantifying and Bounding Spatiotemporal Correlations in Quantum Noise",
-      "link": "https://arxiv.org/abs/2609.17870",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17870v1 Announce Type: new  Abstract: Spatial and temporal correlations in quantum noise challenge the local Markovian models commonly used in quantum information processing. We develop a unified operational framework for quantifying temporal, spatial, and total spatiotemporal correlation…"
-    },
-    {
-      "title": "QEMScore: How Much Does the Measurement Add to Learned Quantum Error Mitigation?",
-      "link": "https://arxiv.org/abs/2609.17896",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17896v1 Announce Type: new  Abstract: How much does the noisy measurement add to learned quantum error mitigation? An accuracy table cannot say, because a model handed circuit structure can score well without reading the measurement at all. QEMScore adds the comparison that can. Each simu…"
-    },
-    {
-      "title": "Classical, quantum, and general probabilistic state-discrimination profiles",
-      "link": "https://arxiv.org/abs/2609.17920",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17920v1 Announce Type: new  Abstract: For a collection of states indexed by $[n]={1,\\ldots,n}$, let $F(H)$ denote the optimal unnormalized minimum discrimination error for each nonempty subfamily $H\\subseteq[n]$. We call $F$ the discrimination profile and characterize exactly which profil…"
-    },
-    {
-      "title": "R\\'enyi and Tsallis information entropies for a harmonic position-dependent mass",
-      "link": "https://arxiv.org/abs/2609.17941",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789617600,
-      "summary": "arXiv:2609.17941v1 Announce Type: new  Abstract: In this paper, we study Renyi and Tsallis information entropies for a Hamiltonian system with position-dependent mass confined in harmonic oscillator potential. Gegenbauer polynomials are used to obtain the position eigenfunction of such a system, and…"
     },
     {
       "title": "Hot electrons reveal electronic collisions may raise resistance in twisted graphene",
