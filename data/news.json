@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1789678418,
+  "generated_ts": 1789700019,
   "items": [
+    {
+      "title": "Close-up images show defects locking electrons into stable Wigner solids",
+      "link": "https://phys.org/news/2026-09-images-defects-electrons-stable-wigner.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 17 Sep 2026 17:00:01 EDT",
+      "published_ts": 1789678801,
+      "summary": "A team of researchers led by the U.S. Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) developed an approach that enabled them to directly observe how electrons interact with defects in advanced semiconductor devices in unprecedented detail. The team's methodology included…"
+    },
     {
       "title": "A new bridge for quantum networks: Physicists convert microwaves to light using 2D magnets",
       "link": "https://phys.org/news/2026-09-bridge-quantum-networks-physicists-microwaves.html",
@@ -344,14 +352,6 @@
       "published": "Fri, 11 Sep 2026 07:52:30 EDT",
       "published_ts": 1789127550,
       "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality."
-    },
-    {
-      "title": "Ultra-cold quantum sensors cut X-ray uncertainty, improving nuclear material assessments",
-      "link": "https://phys.org/news/2026-09-ultra-cold-quantum-sensors-ray.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 10 Sep 2026 19:00:01 EDT",
-      "published_ts": 1789081201,
-      "summary": "To monitor the amount and type of nuclear material at power plants and weapons facilities, scientists look for a special signal—the unique pattern of gamma rays emitted by specific radioactive elements. However, some of these elements also emit X-rays in the same energy range as the gamma-ray emissi…"
     },
     {
       "title": "MIT turns bacteria into living transistors",
