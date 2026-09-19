@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1789812735,
+  "generated_ts": 1789830851,
   "items": [
+    {
+      "title": "DOE Panel Ties Future National Quantum Facility to Proof of Scientific Use",
+      "link": "https://thequantuminsider.com/2026/09/19/doe-panel-ties-future-national-quantum-facility-to-proof-of-scientific-use/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 19 Sep 2026 13:12:16 +0000",
+      "published_ts": 1789823536,
+      "summary": "Insider Brief For a committee advising the U.S. government on fault-tolerant quantum computing, the message appears to be money talks, but qubits still have to walk. A proposed national quantum computing user facility would depend on quantum systems first demonstrating validated scientific value, te…"
+    },
     {
       "title": "Tom Darras (Welinq): Scaling quantum computers by networking shared entanglement",
       "link": "https://thequantuminsider.com/2026/09/19/tom-darras-welinq-scaling-quantum-computers-by-networking-shared-entanglement/",
@@ -88,14 +96,6 @@
       "published": "Fri, 18 Sep 2026 08:07:01 +0000",
       "published_ts": 1789718821,
       "summary": "Insider Brief PRESS RELEASE &#8212; A Stanford team has documented the first direct observation of quantum jumps of sound in a mechanical resonator, completing an arc of scientific exploration that started over a hundred years ago. Quantum jumps—sudden transitions from one energy state to another—ha…"
-    },
-    {
-      "title": "ICTK and Jiran Security Partner on Post-Quantum Cryptography Migration",
-      "link": "https://thequantuminsider.com/2026/09/18/ictk-jiran-security-post-quantum-cryptography-migration/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 18 Sep 2026 08:02:40 +0000",
-      "published_ts": 1789718560,
-      "summary": "Insider Brief South Korean quantum security company ICTK (KOSDAQ: 456010) has signed a memorandum of understanding (MoU) with information security firm Jiran Security to jointly work on post-quantum cryptography migration and cryptographic asset discovery, Business Korea reported. Jiran Security off…"
     },
     {
       "title": "Close-up images show defects locking electrons into stable Wigner solids",
