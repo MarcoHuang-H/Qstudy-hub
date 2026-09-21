@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1789991417,
+  "generated_ts": 1790012663,
   "items": [
+    {
+      "title": "Nuclear-spin swap extends room-temperature entanglement lifetime up to 240-fold",
+      "link": "https://phys.org/news/2026-09-nuclear-swap-room-temperature-entanglement.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 21 Sep 2026 12:40:08 EDT",
+      "published_ts": 1790008808,
+      "summary": "Researchers in China have extended the lifetime of entanglement in a room-temperature, solid-state system by up to a factor of 240. Led by Shuo Ren and Rui-Jian Liang at the University of Science and Technology of China in Hefei, the team transferred entangled states from the electron spins of solid…"
+    },
+    {
+      "title": "Quantum communication protocol enables three users to establish a shared secure key",
+      "link": "https://phys.org/news/2026-09-quantum-communication-protocol-enables-users.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 21 Sep 2026 12:00:01 EDT",
+      "published_ts": 1790006401,
+      "summary": "Quantum key distribution allows two users to establish secret keys whose security is grounded in the laws of quantum mechanics. Extending this capability to multiple users is an essential step toward quantum networks that support secure communication among many participants. Quantum cryptographic co…"
+    },
+    {
+      "title": "IEEE-Presented Study Tests Quantum-to-Classical Handoff for Distributed Computing",
+      "link": "https://thequantuminsider.com/2026/09/21/ieee-presented-study-tests-quantum-to-classical-handoff-for-distributed-computing/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 21 Sep 2026 15:35:47 +0000",
+      "published_ts": 1790004947,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A study presented at IEEE proposes a way to test whether results from quantum processors remain recognizable and useful as they move into the conventional computing systems that would coordinate future distributed quantum computers. The research, led by Frank Ange…"
+    },
+    {
+      "title": "Scientists teleport quantum states across 100 parallel optical channels",
+      "link": "https://phys.org/news/2026-09-scientists-teleport-quantum-states-parallel.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 21 Sep 2026 11:20:06 EDT",
+      "published_ts": 1790004006,
+      "summary": "Quantum communication networks consist of several connected nodes that exchange information encoded in quantum states. These networks could potentially enable more secure communications between quantum devices in different locations."
+    },
+    {
+      "title": "Cornell Researchers Demonstrate Standing-Wave EIT Cooling for Trapped Ions",
+      "link": "https://thequantuminsider.com/2026/09/21/cornell-standing-wave-eit-cooling-trapped-ions/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 21 Sep 2026 15:17:47 +0000",
+      "published_ts": 1790003867,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Nullspace, a leading provider of advanced electromagnetic simulation software, today announced that researchers at Cornell University, led by Professor Karan Mehta, used Nullspace ES to support the first experimental demonstration of standing-wave electromagnetica…"
+    },
+    {
+      "title": "Intel CEO Sees Quantum Computing Working Alongside CPUs and GPUs",
+      "link": "https://thequantuminsider.com/2026/09/21/intel-ceo-sees-quantum-computing-working-alongside-cpus-and-gpus/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 21 Sep 2026 15:10:52 +0000",
+      "published_ts": 1790003452,
+      "summary": "Insider Brief Intel Chief Executive Lip-Bu Tan said quantum computers are likely to work alongside conventional processors rather than replace them, as the industry searches for commercially useful applications. “In my view, GPUs, CPUs and quantum computing are all forms of computing, so they will r…"
+    },
+    {
+      "title": "Phasecraft to Establish U.S. Headquarters in Arlington, Virginia",
+      "link": "https://thequantuminsider.com/2026/09/21/phasecraft-us-headquarters-arlington-virginia/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 21 Sep 2026 15:05:37 +0000",
+      "published_ts": 1790003137,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Governor Abigail Spanberger today announced that Phasecraft — a leading quantum algorithms company — plans to create 19 new jobs through a $113,000 investment in Arlington County. Founded by researchers from the United Kingdom’s quantum science community, Phasecra…"
+    },
+    {
+      "title": "Chulalongkorn University and AIST Sign MoU on Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/09/21/chulalongkorn-aist-mou-quantum-technology/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 21 Sep 2026 13:38:24 +0000",
+      "published_ts": 1789997904,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Chulalongkorn University and the National Institute of Advanced Industrial Science and Technology (AIST) in Japan, through the Global Research and Development Center for Business by Quantum-AI Technology (G-QuAT), signed a memorandum of understanding to drive coll…"
+    },
     {
       "title": "D-Wave Appoints Former BNP Paribas CIO Bernard Gavgani to Board",
       "link": "https://thequantuminsider.com/2026/09/21/d-wave-bernard-gavgani-board-cybersecurity-committee/",
@@ -40,30 +104,6 @@
       "published": "Mon, 21 Sep 2026 08:19:32 +0000",
       "published_ts": 1789978772,
       "summary": "Insider Brief PRESS RELEASE &#8212; Diraq and Dell Technologies are working together to address one of the central challenges in quantum computing: how to integrate quantum processors with classical high‑performance computing (HPC) in a practical, scalable way. Andrew Dzurak, Diraq’s CEO and Founder…"
-    },
-    {
-      "title": "GlobalFoundries Finalizes $375M CHIPS Award for Quantum Technology R&D",
-      "link": "https://thequantuminsider.com/2026/09/21/globalfoundries-375m-chips-award-quantum-rd/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 21 Sep 2026 08:08:38 +0000",
-      "published_ts": 1789978118,
-      "summary": "Insider Brief PRESS RELEASE &#8212; GlobalFoundries (Nasdaq: GFS) (GF) today announced it has finalized a definitive agreement with the U.S. Department of Commerce’s CHIPS Research and Development Office for a $375 million award for research and development to accelerate the company’s Quantum Techno…"
-    },
-    {
-      "title": "QNu Labs Launches QShield 2.0 for Cryptographic Discovery and Quantum Readiness",
-      "link": "https://thequantuminsider.com/2026/09/21/qnu-labs-qshield-2-cryptographic-assessment-assurance/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 21 Sep 2026 07:53:18 +0000",
-      "published_ts": 1789977198,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Most organisations cannot currently produce an accurate account of their own cryptography. QNu Labs, a global leader in quantum security solutions, has launched QShield 2.0 today, the platform powering its National Cryptographic Assessment &#38; Assurance Framewor…"
-    },
-    {
-      "title": "Creotech Quantum Leads Project for the Next Generation of Secure Quantum And Optical Communications",
-      "link": "https://thequantuminsider.com/2026/09/21/creotech-quantum-leads-project-for-the-next-generation-of-secure-quantum-and-optical-communications/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 21 Sep 2026 07:26:21 +0000",
-      "published_ts": 1789975581,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Creotech Quantum S.A., a Warsaw Stock Exchange-listed company developing and commercializing quantum technologies, has signed an agreement to carry out a project for the European Space Agency (ESA) aimed at developing and demonstrating a new generation of single-p…"
     },
     {
       "title": "UCQM: A Six-Metric Quality Framework for Continuous-Variable Cluster States",
@@ -186,22 +226,6 @@
       "summary": "arXiv:2609.21249v1 Announce Type: new  Abstract: We show how the Pinnacle architecture can be adapted to be compatible with superconducting qubits, where the connectivity between qubits must be fixed at fabrication. Specifically, we present a modified instantiation of the architecture that has fixed…"
     },
     {
-      "title": "DOE Panel Ties Future National Quantum Facility to Proof of Scientific Use",
-      "link": "https://thequantuminsider.com/2026/09/19/doe-panel-ties-future-national-quantum-facility-to-proof-of-scientific-use/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 19 Sep 2026 13:12:16 +0000",
-      "published_ts": 1789823536,
-      "summary": "Insider Brief For a committee advising the U.S. government on fault-tolerant quantum computing, the message appears to be money talks, but qubits still have to walk. A proposed national quantum computing user facility would depend on quantum systems first demonstrating validated scientific value, te…"
-    },
-    {
-      "title": "Tom Darras (Welinq): Scaling quantum computers by networking shared entanglement",
-      "link": "https://thequantuminsider.com/2026/09/19/tom-darras-welinq-scaling-quantum-computers-by-networking-shared-entanglement/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 19 Sep 2026 07:00:00 +0000",
-      "published_ts": 1789801200,
-      "summary": "Yuval Boger interviews Tom Darras, CEO and co-founder of Welinq. They discuss how quantum networking uses shared entanglement to interconnect quantum processors, enabling modular scale-out clusters and quantum-safe connectivity between data centers. Tom explains the technical building blocks—qubit-p…"
-    },
-    {
       "title": "Physicists extend the search for quantum black holes at the LHC",
       "link": "https://phys.org/news/2026-09-physicists-quantum-black-holes-lhc.html",
       "source": "Phys.org — Quantum Physics",
@@ -296,30 +320,6 @@
       "published": "Tue, 15 Sep 2026 16:00:01 EDT",
       "published_ts": 1789502401,
       "summary": "Xufeng Zhang is using magnets to make computers more power efficient at the quantum level. The Northeastern professor of electrical and computer engineering recently published two papers highlighting small-scale magnetic systems he and his team developed that could help make computers much more powe…"
-    },
-    {
-      "title": "Novel particle beam could challenge Einstein's theory of gravity",
-      "link": "https://phys.org/news/2026-09-particle-einstein-theory-gravity.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 15 Sep 2026 09:40:06 EDT",
-      "published_ts": 1789479606,
-      "summary": "Does gravity act equally on all particles in the universe, or are there differences between ordinary and exotic matter? Physics professor Anna Soter and her team at ETH Zurich and the Paul Scherrer Institute (PSI) in Villigen are investigating this question. \"We have taken an important step toward c…"
-    },
-    {
-      "title": "Getting photons into shape for reliable quantum communication",
-      "link": "https://phys.org/news/2026-09-photons-reliable-quantum-communication.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 14 Sep 2026 12:20:06 EDT",
-      "published_ts": 1789402806,
-      "summary": "The vast majority of modern quantum technologies—from quantum cryptography to the quantum internet to the quantum computer—rely on one essential element: the transmission of photons. Two qubits (two atoms, for example) exchange information: One qubit emits a photon, and the other qubit absorbs it."
-    },
-    {
-      "title": "Physicists help uncover 'spooky' quantum effect in the Large Hadron Collider",
-      "link": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 14 Sep 2026 10:12:41 EDT",
-      "published_ts": 1789395161,
-      "summary": "Physicists at the University of Oxford have helped confirm that one of the strangest phenomena in physics—quantum entanglement—occurs even among some of the heaviest and most fleeting particles ever created. The discovery, made using the world's most powerful particle collider at CERN, has been publ…"
     },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
