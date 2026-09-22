@@ -1,6 +1,150 @@
 {
-  "generated_ts": 1790046047,
+  "generated_ts": 1790074258,
   "items": [
+    {
+      "title": "Toward Scalable Quantum Networks: An Efficient And Practical Approach to Secure Quantum Conferencing",
+      "link": "https://thequantuminsider.com/2026/09/22/toward-scalable-quantum-networks-an-efficient-and-practical-approach-to-secure-quantum-conferencing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 22 Sep 2026 07:57:17 +0000",
+      "published_ts": 1790063837,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum key distribution allows two users to establish secret keys whose security is grounded in the laws of quantum mechanics. Extending this capability to multiple users is an essential step toward quantum networks that support secure communication among many pa…"
+    },
+    {
+      "title": "Chulalongkorn University and Qunova Computing Sign Quantum Computing MoU",
+      "link": "https://thequantuminsider.com/2026/09/22/chulalongkorn-qunova-quantum-computing-mou/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 22 Sep 2026 05:52:31 +0000",
+      "published_ts": 1790056351,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Chulalongkorn University has signed a three-year Memorandum of Understanding (MoU) with Qunova Computing Inc. of the Republic of Korea to establish collaboration in quantum computing research and its practical applications.&#160; The agreement was signed by Prof.…"
+    },
+    {
+      "title": "IonQ and SDT Partner on Quantum Computing and Manufacturing in South Korea",
+      "link": "https://thequantuminsider.com/2026/09/22/ionq-sdt-quantum-computing-networking-south-korea/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 22 Sep 2026 05:50:25 +0000",
+      "published_ts": 1790056225,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced a strategic partnership with Korea-based quantum technology and software company SDT, Inc. Under this multi-year collaboration IonQ will supply SDT with a Superion 256…"
+    },
+    {
+      "title": "The Limit and Its Ground. QBism, Scientific Realism, and the Born Rule",
+      "link": "https://arxiv.org/abs/2609.22159",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22159v1 Announce Type: new  Abstract: QBists insist that theirs is a realist position while denying that the quantum formalism represents a mind-independent world. The insistence is hard to place. The realism debate is throughout a dispute about represented content, so a theory that denie…"
+    },
+    {
+      "title": "Every architecture of six two-qubit gates is locally universal on three qubits",
+      "link": "https://arxiv.org/abs/2609.22176",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22176v1 Announce Type: new  Abstract: We present the \\emph{first} analytical determination of the exact accessible dimension for every fixed architecture of arbitrary two-qubit gates on three qubits. A support word represents which pair of qubits each two-qubit gate acts on, and its reduc…"
+    },
+    {
+      "title": "Localizable Bipartite Rank-One Ideal Measurements Have a Block-Replicated Nice-Bell Structure",
+      "link": "https://arxiv.org/abs/2609.22181",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22181v1 Announce Type: new  Abstract: We prove a complete structural characterization of finite-dimensional bipartite rank-one ideal projective measurements that are localizable without communication in the sense of Akibue and Miyazaki. Up to local-unitary equivalence, every such measurem…"
+    },
+    {
+      "title": "Physics-Informed Classical and Quantum Neural Networks for One-Dimensional Schrodinger Eigenvalue Problems",
+      "link": "https://arxiv.org/abs/2609.22189",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22189v1 Announce Type: new  Abstract: The Schrodinger equation in one spatial dimension admits a small set of exactly solvable potentials that serve as natural proving grounds for any new eigenvalue solver. We formulate Physics-Informed Neural Networks (PINNs) and Physics-Informed Quantum…"
+    },
+    {
+      "title": "Non-Markovian Quantum Decay in Complex Environments: A Hyperstatistical Approach",
+      "link": "https://arxiv.org/abs/2609.22190",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22190v1 Announce Type: new  Abstract: The exponential decay of an unstable quantum state, as described by standard Markovian theories such as Fermi's Golden Rule, assumes a simple, structureless environment. However, in complex environments characterized by disorder, long-range interactio…"
+    },
+    {
+      "title": "Gibbs resampling transitions and structured fast-measurement protocols",
+      "link": "https://arxiv.org/abs/2609.22425",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22425v1 Announce Type: new  Abstract: Quantum Gibbs sampling algorithms generalize classical Markov chain Monte Carlo (cMCMC) methods, and prepare thermal states on quantum computers by implementing local dissipative evolution for a mixing time $t_{\\rm mix}$. Since quantum measurements di…"
+    },
+    {
+      "title": "Extracting Electromagnetic Bare Mode Couplings in Large Superconducting Quantum Processors",
+      "link": "https://arxiv.org/abs/2609.22442",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22442v1 Announce Type: new  Abstract: High-fidelity control of superconducting quantum processors requires accurate characterization of electromagnetic coupling strengths among the device's constituent elements. Accurately extracting these couplings across large-scale architectures, prese…"
+    },
+    {
+      "title": "A Near-Optimal Joint Lower Bound for Sparse Quantum Linear System Solvers",
+      "link": "https://arxiv.org/abs/2609.22445",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22445v1 Announce Type: new  Abstract: Quantum linear system solvers form one of the central algorithmic primitives in quantum computing, with applications ranging from differential equations and optimization to machine learning. Their cost is commonly measured through query complexity, wh…"
+    },
+    {
+      "title": "Gravitationally Induced Entanglement of Matter in Quadratic Curvature Gravity and Constraints on Ghost Mass",
+      "link": "https://arxiv.org/abs/2609.22501",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22501v1 Announce Type: new  Abstract: We investigate gravitationally generated entanglement in two quantum harmonic oscillators induced by quadratic (Stelle) gravity, including corrections up to $1.5$ post-Newtonian order. Starting from the quadratic action, we derive the effective two-bo…"
+    },
+    {
+      "title": "Spin-Boson Mappings in the Formalism of $f$-Deformations",
+      "link": "https://arxiv.org/abs/2609.22502",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22502v1 Announce Type: new  Abstract: We develop a unified algebraic approach to spin-boson transformations based on the formalism of $f$-deformed oscillators. In the single-mode case, we show that the Holstein-Primakoff and Dyson-Maleev transformations, together with the interpolating $\\…"
+    },
+    {
+      "title": "Generating Dicke State Graphs",
+      "link": "https://arxiv.org/abs/2609.22564",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22564v1 Announce Type: new  Abstract: Graph theory is a powerful tool in quantum computing, with applications ranging from quantum circuit synthesis and optimization to entanglement mapping. Recent work has shown how one can use edge-colored graphs to model photonic experiments that gener…"
+    },
+    {
+      "title": "Modular fault-tolerant quantum computing on a non-CSS code",
+      "link": "https://arxiv.org/abs/2609.22572",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22572v1 Announce Type: new  Abstract: Modularization promises to break down the design and implementation complexity of large scale quantum processors into smaller manageable subtasks. In this approach, quantum channels, realized for instance through physical rerouting of qubits or quantu…"
+    },
+    {
+      "title": "Thermometry in Near-Degenerate Nitrogen-Vacancy Ensembles Enabled by Bright-Dark-State Mixing",
+      "link": "https://arxiv.org/abs/2609.22661",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22661v1 Announce Type: new  Abstract: Nitrogen-vacancy (NV) centers have emerged as a highly sensitive platform for spatially resolved temperature measurements. When the $\\lvert0\\rangle\\to\\lvert+1\\rangle$ and $\\lvert0\\rangle\\to\\lvert-1\\rangle$ transitions are nearly degenerate and the Rab…"
+    },
+    {
+      "title": "Metric Self-Dual Completion and Optimal Additive Hardness for Quantum and Graph-State Distance",
+      "link": "https://arxiv.org/abs/2609.22669",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22669v1 Announce Type: new  Abstract: We prove that the quantum code distance is NP-hard to approximate within an additive error of $c N$, for some constant $c >0$, where $N$ is the number of qubits. Our reductions are deterministic. This improves the previous square-root additive gap to…"
+    },
+    {
+      "title": "Collective Chirped STIRAP in a Pair of Three-Level Atoms: Dressed-Manifold Dynamics and Compensation of the Rydberg-Rydberg Interaction-Induced Detuning",
+      "link": "https://arxiv.org/abs/2609.22673",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790049600,
+      "summary": "arXiv:2609.22673v1 Announce Type: new  Abstract: We investigate collective chirped stimulated Raman adiabatic passage (STIRAP) in a pair of identical three-level atoms using a symmetric six-state model. Numerical simulations reveal a pronounced oscillatory dependence of the population transfer to th…"
+    },
     {
       "title": "Nuclear-spin swap extends room-temperature entanglement lifetime up to 240-fold",
       "link": "https://phys.org/news/2026-09-nuclear-swap-room-temperature-entanglement.html",
@@ -80,150 +224,6 @@
       "published": "Mon, 21 Sep 2026 10:56:46 +0000",
       "published_ts": 1789988206,
       "summary": "Insider Brief PRESS RELEASE &#8212; &#8211;&#160;CORNERSTONE,&#160;the silicon photonics foundry at the University of&#160;Southampton, today&#160;announces the opening of applications for its Photonics Innovation Centre (C-PIC)&#160;Future Leaders&#160;programme, which will take place from&#160;12-…"
-    },
-    {
-      "title": "SEALSQ, WISeKey and Jura Sign MoU for Swiss Post-Quantum Semiconductor Center",
-      "link": "https://thequantuminsider.com/2026/09/21/sealsq-wisekey-jura-post-quantum-semiconductor-center/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 21 Sep 2026 09:24:37 +0000",
-      "published_ts": 1789982677,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, its parent company, WISeKey International Holding Ltd (SIX…"
-    },
-    {
-      "title": "NLM Photonics and SilOriX Partner on Silicon Organic Hybrid Photonics",
-      "link": "https://thequantuminsider.com/2026/09/21/nlm-photonics-silorix-joint-development-agreement/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 21 Sep 2026 09:12:51 +0000",
-      "published_ts": 1789981971,
-      "summary": "Insider Brief PRESS RELEASE &#8212; NLM Photonics and SilOriX, both leaders in silicon organic hybrid (SOH) photonic solutions, today announced that they have entered into a Joint Development Agreement to advance next-generation photonic integrated circuits (PICs) for high-speed, energy-efficient op…"
-    },
-    {
-      "title": "Diraq and Dell Test Hybrid Quantum-Classical Computing in Sydney",
-      "link": "https://thequantuminsider.com/2026/09/21/diraq-dell-hybrid-quantum-classical-computing/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 21 Sep 2026 08:19:32 +0000",
-      "published_ts": 1789978772,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Diraq and Dell Technologies are working together to address one of the central challenges in quantum computing: how to integrate quantum processors with classical high‑performance computing (HPC) in a practical, scalable way. Andrew Dzurak, Diraq’s CEO and Founder…"
-    },
-    {
-      "title": "UCQM: A Six-Metric Quality Framework for Continuous-Variable Cluster States",
-      "link": "https://arxiv.org/abs/2609.20852",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.20852v1 Announce Type: new  Abstract: Continuous-variable (CV) cluster states constitute one of the central resources for measurement-based quantum computation (MBQC). Despite substantial progress in their theoretical development and experimental realization, comparing the quality of diff…"
-    },
-    {
-      "title": "Set-Packing and Sequence-Pair QUBOs for the 2D Cutting Stock Problem on Quantum Annealing Hardware",
-      "link": "https://arxiv.org/abs/2609.20853",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.20853v1 Announce Type: new  Abstract: The two-dimensional Cutting Stock Problem (2D-CSP) is an NP-hard problem with direct economic and environmental impacts on manufacturing and logistics. We encode its fixed-plate variant, with free piece repetition and full non-overlap and containment…"
-    },
-    {
-      "title": "Oracle Synthesis Based on X-Map Decision Diagrams",
-      "link": "https://arxiv.org/abs/2609.20854",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.20854v1 Announce Type: new  Abstract: Quantum oracles act as reversible black-box operators that encode classical Boolean functions into quantum states, enabling efficient function evaluation in quantum superposition. The resource efficiency of oracle implementation is critical to the per…"
-    },
-    {
-      "title": "Pauli-string grouping for VQE measurement reduction on a sparse-connectivity quantum annealer",
-      "link": "https://arxiv.org/abs/2609.20861",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.20861v1 Announce Type: new  Abstract: The Variational Quantum Eigensolver (VQE) requires a large number of measurements to evaluate molecular Hamiltonians. Expressing a molecular Hamiltonian as a linear combination of Pauli strings creates a measurement bottleneck: non-commuting Pauli str…"
-    },
-    {
-      "title": "Stabilizer-Public-Key Authentication: Partial Prediction Bounds and Limits of Key Reuse",
-      "link": "https://arxiv.org/abs/2609.20877",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.20877v1 Announce Type: new  Abstract: We propose an information-theoretic authentication protocol based on a finite supply of quadratic-stabilizer public-key states over an odd-prime field. A computationally unbounded adversary observes one valid classical signature and may jointly proces…"
-    },
-    {
-      "title": "Nonlocal Magic Spreading in Many-body Quantum Dynamics: From Chaotic Evolution to Quasi-particle Picture in Integrable Models",
-      "link": "https://arxiv.org/abs/2609.20951",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.20951v1 Announce Type: new  Abstract: Entanglement and magic are resources that reveal complementary aspects of quantum many-body systems. Their interplay is captured by nonlocal magic, the magic that survives arbitrary local changes of basis. Yet their markedly different dynamical behavi…"
-    },
-    {
-      "title": "Robust many-body quantum batteries",
-      "link": "https://arxiv.org/abs/2609.20966",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.20966v1 Announce Type: new  Abstract: Realistic work extraction from many-body quantum batteries must be local. However, only a small fraction of energy eigenstates of a generic many-body system, called scars, can support local extraction. The remaining bulk is useless for the task due to…"
-    },
-    {
-      "title": "Autonomous stabilization of many-body entanglement with Floquet Hamiltonians and weak measurement",
-      "link": "https://arxiv.org/abs/2609.21086",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.21086v1 Announce Type: new  Abstract: Reaching a technological advantage with large quantum systems requires safeguarding their many-body entanglement. Dissipation typically acts to decohere a quantum system via random projective noise but, when judiciously engineered together with cohere…"
-    },
-    {
-      "title": "Hybrid quantum-classical attention for histopathology-based molecular profiling in data-limited cancers",
-      "link": "https://arxiv.org/abs/2609.21115",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.21115v1 Announce Type: new  Abstract: Molecular profiling from routine histopathology could expand access to precision oncology when sequencing is unavailable, tissue is limited, or training cohorts are small. We developed a hybrid quantum-classical strategy that replaces softmax attentio…"
-    },
-    {
-      "title": "ReFINE: Scheduling of Distillation and Coding for Rate-Fidelity Tradeoff in Quantum Networks",
-      "link": "https://arxiv.org/abs/2609.21152",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.21152v1 Announce Type: new  Abstract: In quantum networks, nodes are connected via sharing of Einstein-Podolsky-Rosen (EPR) pairs, ideally with high fidelity and high rate. However, the fidelity of EPR pairs degrades due to imperfect generation and decoherence errors. Entanglement Distill…"
-    },
-    {
-      "title": "Shock-Capturing Quantum Algorithm for the Linear Advection Operator",
-      "link": "https://arxiv.org/abs/2609.21153",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.21153v1 Announce Type: new  Abstract: The linear advection operator is an ubiquitous building block in fluid and plasma problems. We develop a quantum algorithm for enacting the operator. When the advection velocity is constant in space, our algorithm is exponentially more efficient per t…"
-    },
-    {
-      "title": "Multiscale Schmidt-Spectrum Bounds for High-Dimensional Entanglement: Geometric Measures and Schmidt-Number Witnesses",
-      "link": "https://arxiv.org/abs/2609.21209",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.21209v1 Announce Type: new  Abstract: High-dimensional bipartite entanglement depends on how probability is distributed across the Schmidt spectrum, whereas a single reference-state fidelity resolves only one spectral scale. We develop multiscale Schmidt-spectrum bounds that connect geome…"
-    },
-    {
-      "title": "Unconditional quantum advantage from a two-round CHSH problem in one dimension",
-      "link": "https://arxiv.org/abs/2609.21237",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.21237v1 Announce Type: new  Abstract: We introduce a relation problem constructed from the Clauser--Horne--Shimony--Holt (CHSH) game, which we call the two-round one-dimensional CHSH problem. Its two-round structure ensures that the CHSH questions are supplied only after the relevant Paul…"
-    },
-    {
-      "title": "From Trainability Diagnostics to Optimization Claims: Boundaries and Controls in Variational Quantum Optimization",
-      "link": "https://arxiv.org/abs/2609.21243",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.21243v1 Announce Type: new  Abstract: Barren plateau diagnostics characterize whether gradient signal remains available for training, but surviving signal need not translate into successful optimization. We study this trainability--optimization gap at the level of optimizer steps. Treatin…"
-    },
-    {
-      "title": "The Pinnacle Architecture with fixed connectivity of degree eight",
-      "link": "https://arxiv.org/abs/2609.21249",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 21 Sep 2026 00:00:00 -0400",
-      "published_ts": 1789963200,
-      "summary": "arXiv:2609.21249v1 Announce Type: new  Abstract: We show how the Pinnacle architecture can be adapted to be compatible with superconducting qubits, where the connectivity between qubits must be fixed at fabrication. Specifically, we present a modified instantiation of the architecture that has fixed…"
     },
     {
       "title": "Physicists extend the search for quantum black holes at the LHC",
