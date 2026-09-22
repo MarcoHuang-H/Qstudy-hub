@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1790093341,
+  "generated_ts": 1790110063,
   "items": [
+    {
+      "title": "Light beam 'swims' upstream through a quantum fluid by violating Newton's third law",
+      "link": "https://phys.org/news/2026-09-upstream-quantum-fluid-violating-newton.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 22 Sep 2026 16:10:02 EDT",
+      "published_ts": 1790107802,
+      "summary": "Just as a leaf drifts along with a stream, objects in other moving fluids normally drift along with the flow. That is, unless they exert energy to move against it. Although it may be less intuitive, light waves or photons work similarly. To move against a stream of light, an object or particle, like…"
+    },
+    {
+      "title": "Zapata Launches Platform to Help Companies Assess Quantum Use Cases",
+      "link": "https://thequantuminsider.com/2026/09/22/zapata-launches-platform-to-help-companies-assess-quantum-use-cases/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 22 Sep 2026 18:41:27 +0000",
+      "published_ts": 1790102487,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Zapata Quantum, Inc. (OTCQB: ZPTA) (“Zapata,” “Zapata Quantum” or the “Company”), a leader in quantum computing algorithm and application development, today announced early access to Quantum Pilot, a hardware-agnostic, cloud-based software platform designed to clo…"
+    },
+    {
+      "title": "Quobly Brings Alloy Forge to qBraid for Silicon Quantum Development",
+      "link": "https://thequantuminsider.com/2026/09/22/quobly-alloy-forge-qbraid-silicon-quantum-development-environment/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 22 Sep 2026 15:41:23 +0000",
+      "published_ts": 1790091683,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quobly, a French company developing silicon-based quantum computers, and qBraid, a quantum computing cloud service providing access to more than 24 quantum computers, today announced that Alloy Forge is now available on the qBraid platform, further expanding acces…"
+    },
     {
       "title": "Quantum protocol securely verifies a device's position using stations 2 km apart",
       "link": "https://phys.org/news/2026-09-quantum-protocol-device-position-stations.html",
@@ -42,14 +66,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the leader in neutral-atom quantum computing, today announced a collaboration with HPE to integrate neutral-atom, fault-tolerant quantum computing with on-premise high-performance computing (HPC) environments powered by the HPE Cray supercomputing…"
     },
     {
-      "title": "QuEra, HPE Partner to Bring Neutral-Atom Quantum Systems to Supercomputing Centers",
-      "link": "https://thequantuminsider.com/2026/09/22/quera-hpe-partner-to-bring-neutral-atom-quantum-systems-to-supercomputing-centers/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 13:05:00 +0000",
-      "published_ts": 1790082300,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the leader in neutral-atom quantum computing, today announced a collaboration with HPE to integrate neutral-atom, fault-tolerant quantum computing with on-premise high-performance computing (HPC) environments powered by the HPE Cray supercomputing…"
-    },
-    {
       "title": "Aviatrix Launches Harvest and Decrypt Protection for Post-Quantum Security",
       "link": "https://thequantuminsider.com/2026/09/22/aviatrix-harvest-decrypt-protection-post-quantum-security/",
       "source": "The Quantum Insider",
@@ -88,14 +104,6 @@
       "published": "Tue, 22 Sep 2026 05:52:31 +0000",
       "published_ts": 1790056351,
       "summary": "Insider Brief PRESS RELEASE &#8212; Chulalongkorn University has signed a three-year Memorandum of Understanding (MoU) with Qunova Computing Inc. of the Republic of Korea to establish collaboration in quantum computing research and its practical applications.&#160; The agreement was signed by Prof.…"
-    },
-    {
-      "title": "IonQ and SDT Partner on Quantum Computing and Manufacturing in South Korea",
-      "link": "https://thequantuminsider.com/2026/09/22/ionq-sdt-quantum-computing-networking-south-korea/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 05:50:25 +0000",
-      "published_ts": 1790056225,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced a strategic partnership with Korea-based quantum technology and software company SDT, Inc. Under this multi-year collaboration IonQ will supply SDT with a Superion 256…"
     },
     {
       "title": "The Limit and Its Ground. QBism, Scientific Realism, and the Born Rule",
@@ -320,14 +328,6 @@
       "published": "Wed, 16 Sep 2026 18:30:06 EDT",
       "published_ts": 1789597806,
       "summary": "In March 2026, scientists succeeded in transporting antiprotons by road for the first time in a purpose-built trap loaded on a truck. The BASE collaboration, which realized this experiment at the European Organization for Nuclear Research (CERN) in Geneva under the lead of Professor Dr Stefan Ulmer…"
-    },
-    {
-      "title": "Circular Rydberg atoms set three records, staying stable for 11 milliseconds",
-      "link": "https://phys.org/news/2026-09-circular-rydberg-atoms-staying-stable.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 16 Sep 2026 15:20:08 EDT",
-      "published_ts": 1789586408,
-      "summary": "Rydberg atoms are considered promising building blocks for quantum computers and their precursors, quantum simulators. Researchers at the 5th Institute of Physics of the University of Stuttgart have achieved record values for the lifetime, size, and storage time of circular Rydberg atoms, a special…"
     },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
