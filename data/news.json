@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1790179126,
+  "generated_ts": 1790197159,
   "items": [
+    {
+      "title": "Scientists build world's most accurate atomic clock",
+      "link": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 23 Sep 2026 16:20:03 EDT",
+      "published_ts": 1790194803,
+      "summary": "Take a second and turn it into trillions of moments. Measure each one. That's how precisely an atomic clock at Singapore's Centre for Quantum Technologies (CQT) keeps time—and with record-setting accuracy, according to results published in Nature on Sept. 23."
+    },
+    {
+      "title": "CGI And D-Wave Quantum Partner to Advance Enterprise Quantum Adoption",
+      "link": "https://thequantuminsider.com/2026/09/23/cgi-and-d-wave-quantum-partner-to-advance-enterprise-quantum-adoption/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 18:03:59 +0000",
+      "published_ts": 1790186639,
+      "summary": "Insider brief PRESS RELEASE &#8212; CGI (NYSE:&#160;GIB) (TSX: GIB.A), one of the largest independent IT and business consulting services firms in the world, today announced a strategic partnership with D-Wave Quantum Inc. (NASDAQ:&#160;QBTS) (&#8220;D-Wave&#8220;), the only dual-platform quantum co…"
+    },
+    {
+      "title": "Qunnect Publishes Research on Quantum Security Beyond QKD",
+      "link": "https://thequantuminsider.com/2026/09/23/qunnect-quantum-security-beyond-qkd/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 17:11:37 +0000",
+      "published_ts": 1790183497,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qunnect, the leading quantum networking company with more quantum networks deployed than any other company, today announced its work with U.S. government agencies and national security partners. That work, together with Qunnect&#8217;s commercial deployments and n…"
+    },
     {
       "title": "Quantum device simulates matter popping into existence",
       "link": "https://phys.org/news/2026-09-quantum-device-simulates.html",
@@ -42,14 +66,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Photonic Inc. and Microsoft are collaborating on quantum resource estimation for distributed, large-scale quantum computing systems and advanced error-correction approaches. The companies are exploring how architecture, quantum networking requirements and error-co…"
     },
     {
-      "title": "CGI and D-Wave Partner on Enterprise Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/09/23/cgi-d-wave-enterprise-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 12:35:44 +0000",
-      "published_ts": 1790166944,
-      "summary": "Insider Brief PRESS RELEASE &#8212; CGI (NYSE: GIB) (TSX: GIB.A), one of the largest independent IT and business consulting services firms in the world, today announced a strategic partnership with D-Wave Quantum Inc. (NASDAQ: QBTS) (&#8220;D-Wave&#8221;), the only dual-platform quantum computing co…"
-    },
-    {
       "title": "Classiq, INGL and IonQ Test Quantum Optimization for Natural Gas Networks",
       "link": "https://thequantuminsider.com/2026/09/23/classiq-ingl-ionq-quantum-optimization-natural-gas-networks/",
       "source": "The Quantum Insider",
@@ -80,14 +96,6 @@
       "published": "Wed, 23 Sep 2026 09:41:21 +0000",
       "published_ts": 1790156481,
       "summary": "Insider Brief PRESS RELEASE &#8212; Cisco and KETS Quantum Security today announced a major milestone in secure communications by successfully integrating KETS’ chip-based Quantum Key Distribution (QKD) technology with Cisco’s IOS XR-based routing infrastructure. This partnership marks a significant…"
-    },
-    {
-      "title": "Yenepoya University and Edutecnicia Partner on Quantum AI Research",
-      "link": "https://thequantuminsider.com/2026/09/23/yenepoya-university-edutecnicia-quantum-ai-research/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 09:14:57 +0000",
-      "published_ts": 1790154897,
-      "summary": "Insider Brief Yenepoya (Deemed to be University) has entered a memorandum of understanding (MoU) with Edutecnicia Pvt Ltd, working through its AI research initiative REYRA AI, to build collaborative research, training, and innovation programs around quantum computing, quantum artificial intelligence…"
     },
     {
       "title": "Encrypted Redundancy as a Diagnostic Resource: Relational Diagnosis in Quantum Encrypted Cloning",
@@ -320,14 +328,6 @@
       "published": "Thu, 17 Sep 2026 13:10:02 EDT",
       "published_ts": 1789665002,
       "summary": "Quantum computers are no longer theoretical concepts. Today, they are being developed to tackle a range of complex problems, including exploring financial risk, modeling complex molecules and optimizing massive logistics networks. However, until now, there has been no way to benchmark the computatio…"
-    },
-    {
-      "title": "Diamond quantum sensors can detect heart magnetism at room temperature without skin contact",
-      "link": "https://phys.org/news/2026-09-diamond-quantum-sensors-heart-magnetism.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 17 Sep 2026 11:40:08 EDT",
-      "published_ts": 1789659608,
-      "summary": "Physicists at Johannes Gutenberg University Mainz (JGU) have developed a technology that uses quantum sensors to measure biomagnetic signals, such as heart activity. Researchers from the DIAQNOS (DIAmond-based Quantum Sensing for NeurOSurgery) flagship project, coordinated by Dr. Arne Wickenbrock in…"
     },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
