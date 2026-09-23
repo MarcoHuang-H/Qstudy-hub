@@ -1,8 +1,192 @@
 {
-  "generated_ts": 1790132440,
+  "generated_ts": 1790159981,
   "items": [
     {
-      "title": "IonQ Demonstrates Industry’s First End-to-End Real-Time Quantum Error Decoder",
+      "title": "Cisco and KETS Integrate Quantum Key Distribution With Cisco IOS XR Routers",
+      "link": "https://thequantuminsider.com/2026/09/23/cisco-kets-integrate-qkd-ios-xr-routers/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 09:41:21 +0000",
+      "published_ts": 1790156481,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Cisco and KETS Quantum Security today announced a major milestone in secure communications by successfully integrating KETS’ chip-based Quantum Key Distribution (QKD) technology with Cisco’s IOS XR-based routing infrastructure. This partnership marks a significant…"
+    },
+    {
+      "title": "Yenepoya University and Edutecnicia Partner on Quantum AI Research",
+      "link": "https://thequantuminsider.com/2026/09/23/yenepoya-university-edutecnicia-quantum-ai-research/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 09:14:57 +0000",
+      "published_ts": 1790154897,
+      "summary": "Insider Brief Yenepoya (Deemed to be University) has entered a memorandum of understanding (MoU) with Edutecnicia Pvt Ltd, working through its AI research initiative REYRA AI, to build collaborative research, training, and innovation programs around quantum computing, quantum artificial intelligence…"
+    },
+    {
+      "title": "George Mason Launches Virginia Quantum Hub",
+      "link": "https://thequantuminsider.com/2026/09/23/george-mason-launches-virginia-quantum-hub/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 08:53:55 +0000",
+      "published_ts": 1790153635,
+      "summary": "Insider Brief PRESS RELEASE &#8212; “The Virginia Quantum Hub at George Mason positions the Commonwealth of Virginia at the forefront of this cutting-edge technology that will drive investment and economic opportunity in the decades to come,” said Governor Abigail Spanberger. “As home to the first o…"
+    },
+    {
+      "title": "Xanadu Appoints Tara Deakin as Chief People Officer",
+      "link": "https://thequantuminsider.com/2026/09/23/xanadu-appoints-tara-deakin-chief-people-officer/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 08:30:26 +0000",
+      "published_ts": 1790152226,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Xanadu Quantum Technologies Limited (&#8220;Xanadu&#8220;; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, today announced the addition of a strategic leader to its executive team: Tara Deakin as Chief People Officer. This appointment strengthens…"
+    },
+    {
+      "title": "Stony Brook Hosts Congressional Briefing on Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/09/23/stony-brook-congressional-briefing-quantum-technology/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 08:22:01 +0000",
+      "published_ts": 1790151721,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Stony Brook University brought its leadership in quantum science and education to Capitol Hill on September 16, convening members of Congress, senior federal science officials and researchers from across the country for “Winning the Quantum Race: Workforce, Resear…"
+    },
+    {
+      "title": "Fermilab and Microsoft Partner on Quantum Hardware Tools",
+      "link": "https://thequantuminsider.com/2026/09/23/fermilab-microsoft-partner-quantum-hardware-tools/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 08:14:19 +0000",
+      "published_ts": 1790151259,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of Energy’s Fermi National Accelerator Laboratory is joining Microsoft Quantum as an initial partner in the company’s new quantum hardware makerspace in its newest quantum research center in the University of Maryland’s Discovery District. Here…"
+    },
+    {
+      "title": "Tiny Quantum Nanostructures Could Make AI Less of an Energy Hog",
+      "link": "https://thequantuminsider.com/2026/09/23/tiny-quantum-nanostructures-could-make-ai-less-of-an-energy-hog/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 08:13:17 +0000",
+      "published_ts": 1790151197,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Engineers at the University of Wisconsin-Madison have designed a new type of quantum nanostructure that could enable optical neural networks. This emerging technology has the potential to make artificial intelligence systems, like large language models and image g…"
+    },
+    {
+      "title": "QuEra Computing Opens Office in Discovery District Maryland",
+      "link": "https://thequantuminsider.com/2026/09/23/quera-computing-joins-maryland-capital-of-quantum/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 07:00:00 +0000",
+      "published_ts": 1790146800,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the Boston-based leader in neutral-atom quantum computing, will open an office in Discovery District Maryland, joining the Capital of Quantum&#8217;s expanding roster of quantum companies. The move builds on an agreement between QuEra and the Univ…"
+    },
+    {
+      "title": "Encrypted Redundancy as a Diagnostic Resource: Relational Diagnosis in Quantum Encrypted Cloning",
+      "link": "https://arxiv.org/abs/2609.25043",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25043v1 Announce Type: new  Abstract: Quantum encrypted cloning encodes an unknown state into several encrypted components, each offering an alternative way to recover it later. We show that this redundancy can also serve for one-shot fault diagnosis: instead of inspecting the encrypted s…"
+    },
+    {
+      "title": "End-to-End Quantum Semantic Communication with Variational Quantum Neural Networks",
+      "link": "https://arxiv.org/abs/2609.25044",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25044v1 Announce Type: new  Abstract: This paper presents a quantum semantic communication (QSemCom) framework combining quantum machine learning (QML) and semantic communication (SemCom). Classical data are compressed into low-dimensional semantic representations, encoded and processed b…"
+    },
+    {
+      "title": "A non-robust quantum correlation self-test",
+      "link": "https://arxiv.org/abs/2609.25117",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25117v1 Announce Type: new  Abstract: We show that exact self-testing of a quantum correlation does not imply robust self-testing. Man\\v{c}inska and Schmidt previously established such a separation for non-local games, but their obstruction to robustness arises from two distinct optimal c…"
+    },
+    {
+      "title": "Pulsed coherent and squeezed driving of a spin-$S$ emitter as a deterministic source of Wigner-negative light",
+      "link": "https://arxiv.org/abs/2609.25135",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25135v1 Announce Type: new  Abstract: Generating propagating Wigner-negative states of light is an important and difficult task for many quantum technologies. Historically, the proposed methods of creating such states have been intrinsically probabilistic, relying on conditional measureme…"
+    },
+    {
+      "title": "Probing quantum spin liquids with multiple quantum coherences",
+      "link": "https://arxiv.org/abs/2609.25193",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25193v1 Announce Type: new  Abstract: Quantum simulators are beginning to prepare long-sought phases of matter that remain difficult to realize cleanly in materials. Yet identifying such phases remains a major challenge when their defining properties are inherently non-local and cannot be…"
+    },
+    {
+      "title": "Measurement-Induced Phase Transitions and Logical-Space Localization in Floquet Monitored Clifford Circuits",
+      "link": "https://arxiv.org/abs/2609.25201",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25201v1 Announce Type: new  Abstract: An entanglement transition can occur without a corresponding transition in purification. We demonstrate this separation in spatially local monitored Clifford circuits with a fixed number of layers per Floquet period, where a spatially random pattern o…"
+    },
+    {
+      "title": "Adaptive thresholding for scalable measurement-based qubit reset",
+      "link": "https://arxiv.org/abs/2609.25208",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25208v1 Announce Type: new  Abstract: Fast, high-fidelity qubit initialization is a key primitive for scalable quantum information processing, but conventional reset protocols either require long relaxation times or discard information contained in continuous measurement records. We demon…"
+    },
+    {
+      "title": "Thermodynamic Proof of Quantumness without Structure",
+      "link": "https://arxiv.org/abs/2609.25211",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25211v1 Announce Type: new  Abstract: Demonstrating that a machine performs genuinely quantum operations is a central challenge in quantum information processing. Existing proofs of quantumness typically rely on computational tasks that are infeasible for classical machines under assumpti…"
+    },
+    {
+      "title": "Nonlocal advantage of quantum coherence in tau-lepton pairs from electron--positron collisions",
+      "link": "https://arxiv.org/abs/2609.25214",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25214v1 Announce Type: new  Abstract: Quantum correlations have recently attracted significant attention in collider physics, with Nonlocal Advantage of Quantum Coherence (NAQC) representing the strongest form of quantum correlation studied so far. Owing to its strength, NAQC is considera…"
+    },
+    {
+      "title": "Localized Decoherence as a Constructive Tool: An Optical Simulation of Matter-Wave Interference",
+      "link": "https://arxiv.org/abs/2609.25227",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25227v1 Announce Type: new  Abstract: Decoherence is conventionally regarded as a detrimental process that suppresses quantum coherence and limits the performance of quantum technologies. Contrary to this view, we show that spatially localized decoherence can instead be exploited as an in…"
+    },
+    {
+      "title": "Strong coupling of a reconfigurable ${}^{171}$Yb atom array to a tunable telecom-band nanofiber cavity",
+      "link": "https://arxiv.org/abs/2609.25232",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25232v1 Announce Type: new  Abstract: Nanophotonic cavities provide strong atom-photon coupling in a compact, directly fiber-coupled geometry, while a reconfigurable array of $^{171}$Yb atoms combines high-fidelity gates with a metastable qubit state coupled directly to a telecom-band tra…"
+    },
+    {
+      "title": "A dual-region ytterbium tweezer apparatus with an in-vacuum nanofiber cavity",
+      "link": "https://arxiv.org/abs/2609.25245",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25245v1 Announce Type: new  Abstract: We present a dual-region experimental apparatus for trapping single atoms of the fermionic isotope ytterbium-171 (${}^{171}\\mathrm{Yb}$) with optical tweezers in a science chamber containing an in-vacuum nanofiber cavity. A source region is located ap…"
+    },
+    {
+      "title": "Operator Score Matching for Learning Quantum Hamiltonians",
+      "link": "https://arxiv.org/abs/2609.25246",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25246v1 Announce Type: new  Abstract: Learning quantum Hamiltonians from low-temperature thermal state measurements is a fundamental problem in quantum physics. Scalability of existing methods is limited by the complexity of semidefinite optimization problems or partition function computa…"
+    },
+    {
+      "title": "In-orbit operation of a programmable quantum photonic processor",
+      "link": "https://arxiv.org/abs/2609.25248",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25248v1 Announce Type: new  Abstract: Quantum technologies promise computational capabilities beyond the reach of classical systems. A forward-looking application lies in satellite missions, which increasingly depend on onboard computing under stringent constraints on size, weight and pow…"
+    },
+    {
+      "title": "Exploring Asymmetric QEC Code Concatenation",
+      "link": "https://arxiv.org/abs/2609.25251",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790136000,
+      "summary": "arXiv:2609.25251v1 Announce Type: new  Abstract: Concatenated quantum error-correcting codes have recently gained popularity because they improve the effective distance of a joint code without requiring the discovery of new codes with desirable parameters. A common building block for such studies is…"
+    },
+    {
+      "title": "IonQ Demonstrates End-to-End Real-Time Quantum Error Decoder",
       "link": "https://thequantuminsider.com/2026/09/23/ionq-demonstrates-industrys-first-end-to-end-real-time-quantum-error-decoder/",
       "source": "The Quantum Insider",
       "published": "Wed, 23 Sep 2026 00:34:42 +0000",
@@ -34,22 +218,6 @@
       "summary": "Just as a leaf drifts along with a stream, objects in other moving fluids normally drift along with the flow. That is, unless they exert energy to move against it. Although it may be less intuitive, light waves or photons work similarly. To move against a stream of light, an object or particle, like…"
     },
     {
-      "title": "Zapata Launches Platform to Help Companies Assess Quantum Use Cases",
-      "link": "https://thequantuminsider.com/2026/09/22/zapata-launches-platform-to-help-companies-assess-quantum-use-cases/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 18:41:27 +0000",
-      "published_ts": 1790102487,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Zapata Quantum, Inc. (OTCQB: ZPTA) (“Zapata,” “Zapata Quantum” or the “Company”), a leader in quantum computing algorithm and application development, today announced early access to Quantum Pilot, a hardware-agnostic, cloud-based software platform designed to clo…"
-    },
-    {
-      "title": "Quobly Brings Alloy Forge to qBraid for Silicon Quantum Development",
-      "link": "https://thequantuminsider.com/2026/09/22/quobly-alloy-forge-qbraid-silicon-quantum-development-environment/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 15:41:23 +0000",
-      "published_ts": 1790091683,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quobly, a French company developing silicon-based quantum computers, and qBraid, a quantum computing cloud service providing access to more than 24 quantum computers, today announced that Alloy Forge is now available on the qBraid platform, further expanding acces…"
-    },
-    {
       "title": "Quantum protocol securely verifies a device's position using stations 2 km apart",
       "link": "https://phys.org/news/2026-09-quantum-protocol-device-position-stations.html",
       "source": "Phys.org — Quantum Physics",
@@ -58,180 +226,12 @@
       "summary": "Reliably verifying the location of a device connected to the internet or other networks is important for various real-world applications. For instance, it could be valuable for authorizing financial transactions, securing communications and controlling who can access specific databases or services."
     },
     {
-      "title": "Quantum XChange and Carahsoft Partner on Post-Quantum Cryptography for Government",
-      "link": "https://thequantuminsider.com/2026/09/22/quantum-xchange-carahsoft-post-quantum-cryptography-government/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 13:23:24 +0000",
-      "published_ts": 1790083404,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum XChange®, a leader in quantum-safe network security, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a partnership. Under the agreement, Carahsoft will serve as Quantum XChange’s Master Government Aggregator®,…"
-    },
-    {
-      "title": "Babcock and Arqit Demonstrate Quantum-Safe Encryption for Defence Communications",
-      "link": "https://thequantuminsider.com/2026/09/22/babcock-arqit-secure-communications-quantum-enabled-threats/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 13:19:55 +0000",
-      "published_ts": 1790083195,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Babcock International Group (Babcock), the defence company, has demonstrated its systems integration expertise by securely transferring scenario data using advanced encryption technology from Arqit Quantum Inc, a global leader in quantum-safe encryption, helping s…"
-    },
-    {
       "title": "For the first time, scientists watch sound jump between quantum states",
       "link": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Tue, 22 Sep 2026 09:17:20 EDT",
       "published_ts": 1790083040,
       "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation sound-based…"
-    },
-    {
-      "title": "QuEra and HPE Partner on Fault-Tolerant Quantum Computing for HPC",
-      "link": "https://thequantuminsider.com/2026/09/22/quera-hpe-fault-tolerant-quantum-computing-hpc/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 13:13:59 +0000",
-      "published_ts": 1790082839,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the leader in neutral-atom quantum computing, today announced a collaboration with HPE to integrate neutral-atom, fault-tolerant quantum computing with on-premise high-performance computing (HPC) environments powered by the HPE Cray supercomputing…"
-    },
-    {
-      "title": "Aviatrix Launches Harvest and Decrypt Protection for Post-Quantum Security",
-      "link": "https://thequantuminsider.com/2026/09/22/aviatrix-harvest-decrypt-protection-post-quantum-security/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 11:54:52 +0000",
-      "published_ts": 1790078092,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Aviatrix&#160;today announced Harvest and Decrypt Protection, the first post-quantum protection that&#160;encrypts and simultaneously&#160;governs what a compromised workload can reach. It&#160;delivers post-quantum encryption&#160;and Communication Governance as…"
-    },
-    {
-      "title": "Microsoft Quantum, QOLAB Propose Higher Bar For ‘Scalable’ Logical Qubits",
-      "link": "https://thequantuminsider.com/2026/09/22/microsoft-quantum-qolab-propose-higher-bar-for-scalable-logical-qubits/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 11:48:45 +0000",
-      "published_ts": 1790077725,
-      "summary": "Insider Brief A framework from Microsoft Quantum and QOLAB proposes that quantum computing’s next progress reports should be judged by more than a rising count of logical qubits. The paper, posted on arXiv by Microsoft Quantum researchers Matthias Troyer and Chetan Nayak and QOLAB’s John Martinis, i…"
-    },
-    {
-      "title": "SK Telecom and KISTI Develop Digital Twin for QKD Network Testing",
-      "link": "https://thequantuminsider.com/2026/09/22/skt-kisti-digital-twin-qkd-network-testing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 11:15:05 +0000",
-      "published_ts": 1790075705,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SK Telecom (CEO Jeong Jae-heon, CEO) news.sktelecom.com 22, said that in collaboration with the Korea Institute of Science and Technology Information (KISTI), the company has developed digital twin technology to verify performance and operability before actually e…"
-    },
-    {
-      "title": "The Limit and Its Ground. QBism, Scientific Realism, and the Born Rule",
-      "link": "https://arxiv.org/abs/2609.22159",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22159v1 Announce Type: new  Abstract: QBists insist that theirs is a realist position while denying that the quantum formalism represents a mind-independent world. The insistence is hard to place. The realism debate is throughout a dispute about represented content, so a theory that denie…"
-    },
-    {
-      "title": "Every architecture of six two-qubit gates is locally universal on three qubits",
-      "link": "https://arxiv.org/abs/2609.22176",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22176v1 Announce Type: new  Abstract: We present the \\emph{first} analytical determination of the exact accessible dimension for every fixed architecture of arbitrary two-qubit gates on three qubits. A support word represents which pair of qubits each two-qubit gate acts on, and its reduc…"
-    },
-    {
-      "title": "Localizable Bipartite Rank-One Ideal Measurements Have a Block-Replicated Nice-Bell Structure",
-      "link": "https://arxiv.org/abs/2609.22181",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22181v1 Announce Type: new  Abstract: We prove a complete structural characterization of finite-dimensional bipartite rank-one ideal projective measurements that are localizable without communication in the sense of Akibue and Miyazaki. Up to local-unitary equivalence, every such measurem…"
-    },
-    {
-      "title": "Physics-Informed Classical and Quantum Neural Networks for One-Dimensional Schrodinger Eigenvalue Problems",
-      "link": "https://arxiv.org/abs/2609.22189",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22189v1 Announce Type: new  Abstract: The Schrodinger equation in one spatial dimension admits a small set of exactly solvable potentials that serve as natural proving grounds for any new eigenvalue solver. We formulate Physics-Informed Neural Networks (PINNs) and Physics-Informed Quantum…"
-    },
-    {
-      "title": "Non-Markovian Quantum Decay in Complex Environments: A Hyperstatistical Approach",
-      "link": "https://arxiv.org/abs/2609.22190",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22190v1 Announce Type: new  Abstract: The exponential decay of an unstable quantum state, as described by standard Markovian theories such as Fermi's Golden Rule, assumes a simple, structureless environment. However, in complex environments characterized by disorder, long-range interactio…"
-    },
-    {
-      "title": "Gibbs resampling transitions and structured fast-measurement protocols",
-      "link": "https://arxiv.org/abs/2609.22425",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22425v1 Announce Type: new  Abstract: Quantum Gibbs sampling algorithms generalize classical Markov chain Monte Carlo (cMCMC) methods, and prepare thermal states on quantum computers by implementing local dissipative evolution for a mixing time $t_{\\rm mix}$. Since quantum measurements di…"
-    },
-    {
-      "title": "Extracting Electromagnetic Bare Mode Couplings in Large Superconducting Quantum Processors",
-      "link": "https://arxiv.org/abs/2609.22442",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22442v1 Announce Type: new  Abstract: High-fidelity control of superconducting quantum processors requires accurate characterization of electromagnetic coupling strengths among the device's constituent elements. Accurately extracting these couplings across large-scale architectures, prese…"
-    },
-    {
-      "title": "A Near-Optimal Joint Lower Bound for Sparse Quantum Linear System Solvers",
-      "link": "https://arxiv.org/abs/2609.22445",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22445v1 Announce Type: new  Abstract: Quantum linear system solvers form one of the central algorithmic primitives in quantum computing, with applications ranging from differential equations and optimization to machine learning. Their cost is commonly measured through query complexity, wh…"
-    },
-    {
-      "title": "Gravitationally Induced Entanglement of Matter in Quadratic Curvature Gravity and Constraints on Ghost Mass",
-      "link": "https://arxiv.org/abs/2609.22501",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22501v1 Announce Type: new  Abstract: We investigate gravitationally generated entanglement in two quantum harmonic oscillators induced by quadratic (Stelle) gravity, including corrections up to $1.5$ post-Newtonian order. Starting from the quadratic action, we derive the effective two-bo…"
-    },
-    {
-      "title": "Spin-Boson Mappings in the Formalism of $f$-Deformations",
-      "link": "https://arxiv.org/abs/2609.22502",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22502v1 Announce Type: new  Abstract: We develop a unified algebraic approach to spin-boson transformations based on the formalism of $f$-deformed oscillators. In the single-mode case, we show that the Holstein-Primakoff and Dyson-Maleev transformations, together with the interpolating $\\…"
-    },
-    {
-      "title": "Generating Dicke State Graphs",
-      "link": "https://arxiv.org/abs/2609.22564",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22564v1 Announce Type: new  Abstract: Graph theory is a powerful tool in quantum computing, with applications ranging from quantum circuit synthesis and optimization to entanglement mapping. Recent work has shown how one can use edge-colored graphs to model photonic experiments that gener…"
-    },
-    {
-      "title": "Modular fault-tolerant quantum computing on a non-CSS code",
-      "link": "https://arxiv.org/abs/2609.22572",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22572v1 Announce Type: new  Abstract: Modularization promises to break down the design and implementation complexity of large scale quantum processors into smaller manageable subtasks. In this approach, quantum channels, realized for instance through physical rerouting of qubits or quantu…"
-    },
-    {
-      "title": "Thermometry in Near-Degenerate Nitrogen-Vacancy Ensembles Enabled by Bright-Dark-State Mixing",
-      "link": "https://arxiv.org/abs/2609.22661",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22661v1 Announce Type: new  Abstract: Nitrogen-vacancy (NV) centers have emerged as a highly sensitive platform for spatially resolved temperature measurements. When the $\\lvert0\\rangle\\to\\lvert+1\\rangle$ and $\\lvert0\\rangle\\to\\lvert-1\\rangle$ transitions are nearly degenerate and the Rab…"
-    },
-    {
-      "title": "Metric Self-Dual Completion and Optimal Additive Hardness for Quantum and Graph-State Distance",
-      "link": "https://arxiv.org/abs/2609.22669",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22669v1 Announce Type: new  Abstract: We prove that the quantum code distance is NP-hard to approximate within an additive error of $c N$, for some constant $c >0$, where $N$ is the number of qubits. Our reductions are deterministic. This improves the previous square-root additive gap to…"
-    },
-    {
-      "title": "Collective Chirped STIRAP in a Pair of Three-Level Atoms: Dressed-Manifold Dynamics and Compensation of the Rydberg-Rydberg Interaction-Induced Detuning",
-      "link": "https://arxiv.org/abs/2609.22673",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790049600,
-      "summary": "arXiv:2609.22673v1 Announce Type: new  Abstract: We investigate collective chirped stimulated Raman adiabatic passage (STIRAP) in a pair of identical three-level atoms using a symmetric six-state model. Numerical simulations reveal a pronounced oscillatory dependence of the population transfer to th…"
     },
     {
       "title": "Nuclear-spin swap extends room-temperature entanglement lifetime up to 240-fold",
