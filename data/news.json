@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1790159981,
+  "generated_ts": 1790179126,
   "items": [
+    {
+      "title": "Quantum device simulates matter popping into existence",
+      "link": "https://phys.org/news/2026-09-quantum-device-simulates.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 23 Sep 2026 09:40:01 EDT",
+      "published_ts": 1790170801,
+      "summary": "A research team led by faculty at the Duke Quantum Center (DQC) has observed string-breaking dynamics related to particle-antiparticle formation on a quantum simulator, among the first such observations in quantum physics."
+    },
+    {
+      "title": "German Government Selects QUDORA-Led Consortium For €122 Million Project",
+      "link": "https://thequantuminsider.com/2026/09/23/german-government-selects-qudora-led-consortium-for-e122-million-project/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 13:29:23 +0000",
+      "published_ts": 1790170163,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QUDORA will lead a seven-member consortium of research institutions and industry partners in a bid to build one of Europe’s most advanced quantum computers. The project, named NFQC-1k, is being selected under the Quantum Computing Competition of Germany’s Federal…"
+    },
+    {
+      "title": "Global Study Finds Quantum Industry Dependent on Cross-Border Supply Chains",
+      "link": "https://thequantuminsider.com/2026/09/23/global-study-finds-quantum-industry-dependent-on-cross-border-supply-chains/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 13:17:15 +0000",
+      "published_ts": 1790169435,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A new international survey of the quantum industry finds that the supply chains supporting quantum technologies are deeply global, with companies of every size relying on suppliers and customers across national borders. The survey included responses from 160 compa…"
+    },
+    {
+      "title": "Q.ANT Launches Open-Source SDK for Photonic Computing",
+      "link": "https://thequantuminsider.com/2026/09/23/q-ant-open-source-sdk-photonic-computing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 13:09:44 +0000",
+      "published_ts": 1790168984,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Q.ANT, the pioneer in commercial photonic computing, today debuted its open-source software development kit for photonic computing, making the programming tools for a photonic processor publicly available for the first time. Programmers now have everything they ne…"
+    },
+    {
+      "title": "Photonic Inc. and Microsoft Collaborate on Quantum Resource Estimation",
+      "link": "https://thequantuminsider.com/2026/09/23/photonic-microsoft-quantum-resource-estimation/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 12:58:02 +0000",
+      "published_ts": 1790168282,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Photonic Inc. and Microsoft are collaborating on quantum resource estimation for distributed, large-scale quantum computing systems and advanced error-correction approaches. The companies are exploring how architecture, quantum networking requirements and error-co…"
+    },
+    {
+      "title": "CGI and D-Wave Partner on Enterprise Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/09/23/cgi-d-wave-enterprise-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 12:35:44 +0000",
+      "published_ts": 1790166944,
+      "summary": "Insider Brief PRESS RELEASE &#8212; CGI (NYSE: GIB) (TSX: GIB.A), one of the largest independent IT and business consulting services firms in the world, today announced a strategic partnership with D-Wave Quantum Inc. (NASDAQ: QBTS) (&#8220;D-Wave&#8221;), the only dual-platform quantum computing co…"
+    },
+    {
+      "title": "Classiq, INGL and IonQ Test Quantum Optimization for Natural Gas Networks",
+      "link": "https://thequantuminsider.com/2026/09/23/classiq-ingl-ionq-quantum-optimization-natural-gas-networks/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 12:27:44 +0000",
+      "published_ts": 1790166464,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq and Israel Natural Gas Lines Ltd. (INGL) announced results from research applying quantum optimization to natural gas transmission planning, including execution of a reduced version of the problem on the IonQ Forte-1 quantum computer. The collaboration foc…"
+    },
+    {
+      "title": "Azulene Labs Secures $3.4 Million Pre-Seed Round For Drug And Materials Simulation",
+      "link": "https://thequantuminsider.com/2026/09/23/azulene-labs-secures-3-4-million-pre-seed-round-for-drug-and-materials-simulation/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 12:06:00 +0000",
+      "published_ts": 1790165160,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Azulene Labs, a startup creating the future of drug and materials development, has raised a $3.4 million pre-seed round. The round was led by Ground State Ventures, with participation from existing Azulene investor Entrada Ventures and angels. While mechanical and…"
+    },
+    {
+      "title": "IonQ Bringing QPU to The NVIDIA Accelerated Quantum Research Center",
+      "link": "https://thequantuminsider.com/2026/09/23/ionq-bringing-qpu-to-the-nvidia-accelerated-quantum-research-center/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 12:01:50 +0000",
+      "published_ts": 1790164910,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Today, IonQ (NYSE: IONQ) announced that it will be the first on-premise quantum computing deployment at the NVIDIA Accelerated Quantum Research Center (NVAQC). The NVAQC is designed to address the fundamental challenges of scaling quantum processors into a new cla…"
+    },
     {
       "title": "Cisco and KETS Integrate Quantum Key Distribution With Cisco IOS XR Routers",
       "link": "https://thequantuminsider.com/2026/09/23/cisco-kets-integrate-qkd-ios-xr-routers/",
@@ -16,54 +88,6 @@
       "published": "Wed, 23 Sep 2026 09:14:57 +0000",
       "published_ts": 1790154897,
       "summary": "Insider Brief Yenepoya (Deemed to be University) has entered a memorandum of understanding (MoU) with Edutecnicia Pvt Ltd, working through its AI research initiative REYRA AI, to build collaborative research, training, and innovation programs around quantum computing, quantum artificial intelligence…"
-    },
-    {
-      "title": "George Mason Launches Virginia Quantum Hub",
-      "link": "https://thequantuminsider.com/2026/09/23/george-mason-launches-virginia-quantum-hub/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 08:53:55 +0000",
-      "published_ts": 1790153635,
-      "summary": "Insider Brief PRESS RELEASE &#8212; “The Virginia Quantum Hub at George Mason positions the Commonwealth of Virginia at the forefront of this cutting-edge technology that will drive investment and economic opportunity in the decades to come,” said Governor Abigail Spanberger. “As home to the first o…"
-    },
-    {
-      "title": "Xanadu Appoints Tara Deakin as Chief People Officer",
-      "link": "https://thequantuminsider.com/2026/09/23/xanadu-appoints-tara-deakin-chief-people-officer/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 08:30:26 +0000",
-      "published_ts": 1790152226,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Xanadu Quantum Technologies Limited (&#8220;Xanadu&#8220;; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, today announced the addition of a strategic leader to its executive team: Tara Deakin as Chief People Officer. This appointment strengthens…"
-    },
-    {
-      "title": "Stony Brook Hosts Congressional Briefing on Quantum Technology",
-      "link": "https://thequantuminsider.com/2026/09/23/stony-brook-congressional-briefing-quantum-technology/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 08:22:01 +0000",
-      "published_ts": 1790151721,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Stony Brook University brought its leadership in quantum science and education to Capitol Hill on September 16, convening members of Congress, senior federal science officials and researchers from across the country for “Winning the Quantum Race: Workforce, Resear…"
-    },
-    {
-      "title": "Fermilab and Microsoft Partner on Quantum Hardware Tools",
-      "link": "https://thequantuminsider.com/2026/09/23/fermilab-microsoft-partner-quantum-hardware-tools/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 08:14:19 +0000",
-      "published_ts": 1790151259,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of Energy’s Fermi National Accelerator Laboratory is joining Microsoft Quantum as an initial partner in the company’s new quantum hardware makerspace in its newest quantum research center in the University of Maryland’s Discovery District. Here…"
-    },
-    {
-      "title": "Tiny Quantum Nanostructures Could Make AI Less of an Energy Hog",
-      "link": "https://thequantuminsider.com/2026/09/23/tiny-quantum-nanostructures-could-make-ai-less-of-an-energy-hog/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 08:13:17 +0000",
-      "published_ts": 1790151197,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Engineers at the University of Wisconsin-Madison have designed a new type of quantum nanostructure that could enable optical neural networks. This emerging technology has the potential to make artificial intelligence systems, like large language models and image g…"
-    },
-    {
-      "title": "QuEra Computing Opens Office in Discovery District Maryland",
-      "link": "https://thequantuminsider.com/2026/09/23/quera-computing-joins-maryland-capital-of-quantum/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 07:00:00 +0000",
-      "published_ts": 1790146800,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the Boston-based leader in neutral-atom quantum computing, will open an office in Discovery District Maryland, joining the Capital of Quantum&#8217;s expanding roster of quantum companies. The move builds on an agreement between QuEra and the Univ…"
     },
     {
       "title": "Encrypted Redundancy as a Diagnostic Resource: Relational Diagnosis in Quantum Encrypted Cloning",
@@ -186,28 +210,12 @@
       "summary": "arXiv:2609.25251v1 Announce Type: new  Abstract: Concatenated quantum error-correcting codes have recently gained popularity because they improve the effective distance of a joint code without requiring the discovery of new codes with desirable parameters. A common building block for such studies is…"
     },
     {
-      "title": "IonQ Demonstrates End-to-End Real-Time Quantum Error Decoder",
-      "link": "https://thequantuminsider.com/2026/09/23/ionq-demonstrates-industrys-first-end-to-end-real-time-quantum-error-decoder/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 00:34:42 +0000",
-      "published_ts": 1790123682,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced a major milestone in fault-tolerant quantum computing. Researchers demonstrated the development and successful testing of the industry’s first end-to-end real-time quan…"
-    },
-    {
       "title": "Physicists crack the math connecting ultraslow quantum magnetism to ultrafast black-hole physics",
       "link": "https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 22 Sep 2026 18:00:03 EDT",
       "published_ts": 1790114403,
       "summary": "A team led by University at Buffalo physicists has found a mathematical solution that shows how a frustrated quantum magnet can transition from ultraslow behavior to ultrafast, highly entangled behavior resembling that of a black hole."
-    },
-    {
-      "title": "Microsoft Gives DARPA Access to Majorana System, Opens Maryland Quantum Research Center",
-      "link": "https://thequantuminsider.com/2026/09/22/microsoft-gives-darpa-access-to-majorana-system-opens-maryland-quantum-research-center/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 20:16:59 +0000",
-      "published_ts": 1790108219,
-      "summary": "Insider Brief Microsoft has opened a quantum research center in Maryland that will house one of its topological quantum systems for independent testing by the Defense Advanced Research Projects Agency, widening the government’s role in evaluating the company’s path toward large-scale quantum compute…"
     },
     {
       "title": "Light beam 'swims' upstream through a quantum fluid by violating Newton's third law",
@@ -320,14 +328,6 @@
       "published": "Thu, 17 Sep 2026 11:40:08 EDT",
       "published_ts": 1789659608,
       "summary": "Physicists at Johannes Gutenberg University Mainz (JGU) have developed a technology that uses quantum sensors to measure biomagnetic signals, such as heart activity. Researchers from the DIAQNOS (DIAmond-based Quantum Sensing for NeurOSurgery) flagship project, coordinated by Dr. Arne Wickenbrock in…"
-    },
-    {
-      "title": "Hot electrons reveal electronic collisions may raise resistance in twisted graphene",
-      "link": "https://phys.org/news/2026-09-hot-electrons-reveal-electronic-collisions.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 16 Sep 2026 19:40:01 EDT",
-      "published_ts": 1789602001,
-      "summary": "When a material heats up, its electrical resistance often rises. The harder question is what, exactly, is getting in the way. The electrons carrying the current may be scattered by vibrations of the material's atomic lattice, known as phonons. They may also collide with one another. Frustratingly, a…"
     },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
