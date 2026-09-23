@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1790110063,
+  "generated_ts": 1790132440,
   "items": [
+    {
+      "title": "IonQ Demonstrates Industry’s First End-to-End Real-Time Quantum Error Decoder",
+      "link": "https://thequantuminsider.com/2026/09/23/ionq-demonstrates-industrys-first-end-to-end-real-time-quantum-error-decoder/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 23 Sep 2026 00:34:42 +0000",
+      "published_ts": 1790123682,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced a major milestone in fault-tolerant quantum computing. Researchers demonstrated the development and successful testing of the industry’s first end-to-end real-time quan…"
+    },
+    {
+      "title": "Physicists crack the math connecting ultraslow quantum magnetism to ultrafast black-hole physics",
+      "link": "https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 22 Sep 2026 18:00:03 EDT",
+      "published_ts": 1790114403,
+      "summary": "A team led by University at Buffalo physicists has found a mathematical solution that shows how a frustrated quantum magnet can transition from ultraslow behavior to ultrafast, highly entangled behavior resembling that of a black hole."
+    },
+    {
+      "title": "Microsoft Gives DARPA Access to Majorana System, Opens Maryland Quantum Research Center",
+      "link": "https://thequantuminsider.com/2026/09/22/microsoft-gives-darpa-access-to-majorana-system-opens-maryland-quantum-research-center/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 22 Sep 2026 20:16:59 +0000",
+      "published_ts": 1790108219,
+      "summary": "Insider Brief Microsoft has opened a quantum research center in Maryland that will house one of its topological quantum systems for independent testing by the Defense Advanced Research Projects Agency, widening the government’s role in evaluating the company’s path toward large-scale quantum compute…"
+    },
     {
       "title": "Light beam 'swims' upstream through a quantum fluid by violating Newton's third law",
       "link": "https://phys.org/news/2026-09-upstream-quantum-fluid-violating-newton.html",
@@ -88,22 +112,6 @@
       "published": "Tue, 22 Sep 2026 11:15:05 +0000",
       "published_ts": 1790075705,
       "summary": "Insider Brief PRESS RELEASE &#8212; SK Telecom (CEO Jeong Jae-heon, CEO) news.sktelecom.com 22, said that in collaboration with the Korea Institute of Science and Technology Information (KISTI), the company has developed digital twin technology to verify performance and operability before actually e…"
-    },
-    {
-      "title": "Toward Scalable Quantum Networks: An Efficient And Practical Approach to Secure Quantum Conferencing",
-      "link": "https://thequantuminsider.com/2026/09/22/toward-scalable-quantum-networks-an-efficient-and-practical-approach-to-secure-quantum-conferencing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 07:57:17 +0000",
-      "published_ts": 1790063837,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum key distribution allows two users to establish secret keys whose security is grounded in the laws of quantum mechanics. Extending this capability to multiple users is an essential step toward quantum networks that support secure communication among many pa…"
-    },
-    {
-      "title": "Chulalongkorn University and Qunova Computing Sign Quantum Computing MoU",
-      "link": "https://thequantuminsider.com/2026/09/22/chulalongkorn-qunova-quantum-computing-mou/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 22 Sep 2026 05:52:31 +0000",
-      "published_ts": 1790056351,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Chulalongkorn University has signed a three-year Memorandum of Understanding (MoU) with Qunova Computing Inc. of the Republic of Korea to establish collaboration in quantum computing research and its practical applications.&#160; The agreement was signed by Prof.…"
     },
     {
       "title": "The Limit and Its Ground. QBism, Scientific Realism, and the Born Rule",
@@ -320,14 +328,6 @@
       "published": "Wed, 16 Sep 2026 19:40:01 EDT",
       "published_ts": 1789602001,
       "summary": "When a material heats up, its electrical resistance often rises. The harder question is what, exactly, is getting in the way. The electrons carrying the current may be scattered by vibrations of the material's atomic lattice, known as phonons. They may also collide with one another. Frustratingly, a…"
-    },
-    {
-      "title": "Mobile trap transports 92 antiprotons by road and stores them for over a month in world first",
-      "link": "https://phys.org/news/2026-09-mobile-antiprotons-road-month-world.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 16 Sep 2026 18:30:06 EDT",
-      "published_ts": 1789597806,
-      "summary": "In March 2026, scientists succeeded in transporting antiprotons by road for the first time in a purpose-built trap loaded on a truck. The BASE collaboration, which realized this experiment at the European Organization for Nuclear Research (CERN) in Geneva under the lead of Professor Dr Stefan Ulmer…"
     },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
