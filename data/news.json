@@ -1,21 +1,85 @@
 {
-  "generated_ts": 1790247590,
+  "generated_ts": 1790266957,
   "items": [
     {
-      "title": "Singapore Scientists Claim They Built The World’s Most Accurate Atomic Clock",
-      "link": "https://thequantuminsider.com/2026/09/24/singapore-scientists-claim-they-built-the-worlds-most-accurate-atomic-clock/",
+      "title": "memQ Releases Open-Source Distributed Quantum Compiler",
+      "link": "https://thequantuminsider.com/2026/09/24/memq-open-source-distributed-quantum-compiler/",
       "source": "The Quantum Insider",
-      "published": "Thu, 24 Sep 2026 07:43:56 +0000",
-      "published_ts": 1790235836,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Take a second and turn it into trillions of moments. Measure each one. That’s how precisely an atomic clock at Singapore’s Centre for Quantum Technologies (CQT) keeps time – and with record-making accuracy, according to results published in Nature on 23 September.…"
+      "published": "Thu, 24 Sep 2026 14:43:05 +0000",
+      "published_ts": 1790260985,
+      "summary": "Insider Brief PRESS RELEASE &#8212; memQ™, the industry leader in quantum networking for scalable and distributed quantum computing, announced today the public release of its distributed quantum compiler (DQC). This integral part of a distributed quantum computing environment will be released as a p…"
     },
     {
-      "title": "Chattanooga Schools Begin K–12 Quantum Technology Curriculum",
-      "link": "https://thequantuminsider.com/2026/09/24/chattanooga-schools-begin-k-12-quantum-technology-curriculum/",
+      "title": "Oxford Quantum Circuits Appoints Simon Phillips as Chief Product Officer",
+      "link": "https://thequantuminsider.com/2026/09/24/oqc-simon-phillips-chief-product-officer/",
       "source": "The Quantum Insider",
-      "published": "Thu, 24 Sep 2026 07:14:11 +0000",
-      "published_ts": 1790234051,
-      "summary": "Insider Brief PRESS RELEASE &#8212; As EPB launches its quantum computer, the TN QuantumWorks K–12 quantum technology and career awareness curriculum is now being implemented in Hamilton County classrooms. Announced earlier this year, the curriculum includes programs for four age groups: grades K–2,…"
+      "published": "Thu, 24 Sep 2026 14:33:34 +0000",
+      "published_ts": 1790260414,
+      "summary": "Insider Brief PRESS RELEASE &#8212; OQC, a global leader in quantum computing, today announced that Simon Phillips will move into the role of Chief Product Officer, having previously served as Chief Technology Officer. In his new role, Phillips will lead OQC’s product strategy, helping translate the…"
+    },
+    {
+      "title": "Bifrost Electronics Appoints Doug Campbell as CEO",
+      "link": "https://thequantuminsider.com/2026/09/24/bifrost-electronics-doug-campbell-ceo/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 24 Sep 2026 14:26:25 +0000",
+      "published_ts": 1790259985,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Bifrost Electronics, a leading developer and manufacturer of advanced electronic hardware for quantum computers, today announced that successful deep-tech entrepreneur Doug Campbell has joined the company as its Chief Executive Officer.  Campbell brings more than…"
+    },
+    {
+      "title": "QC Design Reports 10x Logical Error Reduction With Meridian AI",
+      "link": "https://thequantuminsider.com/2026/09/24/qc-design-meridian-lower-error-rates-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 24 Sep 2026 14:15:01 +0000",
+      "published_ts": 1790259301,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QC Design today published “Over 10x reduction in logical error rates with Meridian,” a white paper showing that Meridian, its purpose-built AI system for fault-tolerant quantum computing design, achieved lower logical error rates than published methods and general…"
+    },
+    {
+      "title": "IonQ to Deploy Superion 256 Quantum Computer at Florida International University",
+      "link": "https://thequantuminsider.com/2026/09/24/ionq-superion-256-florida-international-university/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 24 Sep 2026 14:01:55 +0000",
+      "published_ts": 1790258515,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced a contract with Florida International University (FIU), Miami’s top ranked state university. Under the agreement, IonQ will deliver its Superion 256-qubit trapped-ion q…"
+    },
+    {
+      "title": "Pasqal Receives EIC Fund Award at 2026 TechEU Equity Summit",
+      "link": "https://thequantuminsider.com/2026/09/24/pasqal-receives-eic-fund-award-techeu-equity-summit/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 24 Sep 2026 13:18:00 +0000",
+      "published_ts": 1790255880,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced that it had received a European Innovation Council (EIC) Fund Award at the 2026 TechEU Equity Summit in Luxembourg. Organized by the European Investment Bank (EIB), the event…"
+    },
+    {
+      "title": "Tezos Launches Quantumnet Post-Quantum Testnet",
+      "link": "https://thequantuminsider.com/2026/09/24/tezos-launches-quantumnet-post-quantum-testnet/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 24 Sep 2026 13:16:14 +0000",
+      "published_ts": 1790255774,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Engineering teams in the Tezos ecosystem have successfully launched Quantumnet, an experimental post-quantum testnet that previews an early post-quantum version of the Tezos network. Developers at Nomadic Labs, Trilitech, alongside other contributors, collaborated…"
+    },
+    {
+      "title": "QTREX Quantum Reports First Half 2026 Financial Results",
+      "link": "https://thequantuminsider.com/2026/09/24/qtrex-quantum-first-half-2026-financial-results/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 24 Sep 2026 13:07:01 +0000",
+      "published_ts": 1790255221,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QTREX Quantum Ltd. (Nasdaq: QTEX) (&#8220;QTREX&#8221; or the &#8220;Company&#8221;), a company focused on advancing Additively Manufactured Electronics (&#8220;AME&#8221;) for quantum computing infrastructure, today reported financial results for the six months e…"
+    },
+    {
+      "title": "Infleqtion Achieves 30 Entangled Logical Qubits on Its Sqale Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/09/24/infleqtion-achieves-30-entangled-logical-qubits-on-its-sqale-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 24 Sep 2026 12:50:17 +0000",
+      "published_ts": 1790254217,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today announced it has achieved 30 entangled logical qubits using just 80 physical qubits on its Sqale™ quantum computing platform, delivering a k…"
+    },
+    {
+      "title": "QuiX Quantum Expands in Japan with Tohoku Electronic Industrial as Exclusive Distributor",
+      "link": "https://thequantuminsider.com/2026/09/24/quix-quantum-tei-c-exclusive-distributor-japan/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 24 Sep 2026 12:49:09 +0000",
+      "published_ts": 1790254149,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum today announced the appointment of Tohoku Electronic Industrial Co., Ltd. (TEI-C) as its Authorized Exclusive Distributor in Japan, strengthening the company’s commercial presence in one of Asia’s most strategically important quantum technology market…"
     },
     {
       "title": "Structured Variational Key Concentration for a Reduced AES Cipher",
@@ -154,76 +218,12 @@
       "summary": "Take a second and turn it into trillions of moments. Measure each one. That's how precisely an atomic clock at Singapore's Centre for Quantum Technologies (CQT) keeps time—and with record-setting accuracy, according to results published in Nature on Sept. 23."
     },
     {
-      "title": "CGI And D-Wave Quantum Partner to Advance Enterprise Quantum Adoption",
-      "link": "https://thequantuminsider.com/2026/09/23/d-wave-quantum-partner-to-advance-enterprise-quantum-adoption/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 18:03:59 +0000",
-      "published_ts": 1790186639,
-      "summary": "Insider brief PRESS RELEASE &#8212; CGI (NYSE:&#160;GIB) (TSX: GIB.A), one of the largest independent IT and business consulting services firms in the world, today announced a strategic partnership with D-Wave Quantum Inc. (NASDAQ:&#160;QBTS) (&#8220;D-Wave&#8220;), the only dual-platform quantum co…"
-    },
-    {
-      "title": "Qunnect Publishes Research on Quantum Security Beyond QKD",
-      "link": "https://thequantuminsider.com/2026/09/23/qunnect-quantum-security-beyond-qkd/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 17:11:37 +0000",
-      "published_ts": 1790183497,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qunnect, the leading quantum networking company with more quantum networks deployed than any other company, today announced its work with U.S. government agencies and national security partners. That work, together with Qunnect&#8217;s commercial deployments and n…"
-    },
-    {
       "title": "Quantum device simulates matter popping into existence",
       "link": "https://phys.org/news/2026-09-quantum-device-simulates.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 23 Sep 2026 09:40:01 EDT",
       "published_ts": 1790170801,
       "summary": "A research team led by faculty at the Duke Quantum Center (DQC) has observed string-breaking dynamics related to particle-antiparticle formation on a quantum simulator, among the first such observations in quantum physics."
-    },
-    {
-      "title": "German Government Selects QUDORA-Led Consortium For €122 Million Project",
-      "link": "https://thequantuminsider.com/2026/09/23/german-government-selects-qudora-led-consortium-for-e122-million-project/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 13:29:23 +0000",
-      "published_ts": 1790170163,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QUDORA will lead a seven-member consortium of research institutions and industry partners in a bid to build one of Europe’s most advanced quantum computers. The project, named NFQC-1k, is being selected under the Quantum Computing Competition of Germany’s Federal…"
-    },
-    {
-      "title": "Global Study Finds Quantum Industry Dependent on Cross-Border Supply Chains",
-      "link": "https://thequantuminsider.com/2026/09/23/global-study-finds-quantum-industry-dependent-on-cross-border-supply-chains/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 13:17:15 +0000",
-      "published_ts": 1790169435,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A new international survey of the quantum industry finds that the supply chains supporting quantum technologies are deeply global, with companies of every size relying on suppliers and customers across national borders. The survey included responses from 160 compa…"
-    },
-    {
-      "title": "Q.ANT Launches Open-Source SDK for Photonic Computing",
-      "link": "https://thequantuminsider.com/2026/09/23/q-ant-open-source-sdk-photonic-computing/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 13:09:44 +0000",
-      "published_ts": 1790168984,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Q.ANT, the pioneer in commercial photonic computing, today debuted its open-source software development kit for photonic computing, making the programming tools for a photonic processor publicly available for the first time. Programmers now have everything they ne…"
-    },
-    {
-      "title": "Photonic Inc. and Microsoft Collaborate on Quantum Resource Estimation",
-      "link": "https://thequantuminsider.com/2026/09/23/photonic-microsoft-quantum-resource-estimation/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 12:58:02 +0000",
-      "published_ts": 1790168282,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Photonic Inc. and Microsoft are collaborating on quantum resource estimation for distributed, large-scale quantum computing systems and advanced error-correction approaches. The companies are exploring how architecture, quantum networking requirements and error-co…"
-    },
-    {
-      "title": "Classiq, INGL and IonQ Test Quantum Optimization for Natural Gas Networks",
-      "link": "https://thequantuminsider.com/2026/09/23/classiq-ingl-ionq-quantum-optimization-natural-gas-networks/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 12:27:44 +0000",
-      "published_ts": 1790166464,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq and Israel Natural Gas Lines Ltd. (INGL) announced results from research applying quantum optimization to natural gas transmission planning, including execution of a reduced version of the problem on the IonQ Forte-1 quantum computer. The collaboration foc…"
-    },
-    {
-      "title": "Azulene Labs Secures $3.4 Million Pre-Seed Round For Drug And Materials Simulation",
-      "link": "https://thequantuminsider.com/2026/09/23/azulene-labs-secures-3-4-million-pre-seed-round-for-drug-and-materials-simulation/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 23 Sep 2026 12:06:00 +0000",
-      "published_ts": 1790165160,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Azulene Labs, a startup creating the future of drug and materials development, has raised a $3.4 million pre-seed round. The round was led by Ground State Ventures, with participation from existing Azulene investor Entrada Ventures and angels. While mechanical and…"
     },
     {
       "title": "Physicists crack the math connecting ultraslow quantum magnetism to ultrafast black-hole physics",
