@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1790266957,
+  "generated_ts": 1790283859,
   "items": [
+    {
+      "title": "Vertical quantum sensor could reveal nanoscale magnetic patterns in quantum materials",
+      "link": "https://phys.org/news/2026-09-vertical-quantum-sensor-reveal-nanoscale.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 24 Sep 2026 15:20:06 EDT",
+      "published_ts": 1790277606,
+      "summary": "Quantum materials do things ordinary materials cannot. They carry current without any loss, or conduct only along their outer edge while the inside insulates. Future quantum computers and quantum sensors will run on materials like these. To improve them, researchers need to see exactly where current…"
+    },
+    {
+      "title": "New catalogs map the quantum possibilities of atomically thin materials",
+      "link": "https://phys.org/news/2026-09-quantum-possibilities-atomically-thin-materials.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 24 Sep 2026 14:00:06 EDT",
+      "published_ts": 1790272806,
+      "summary": "Twistronics has become a new alchemy of materials. By choosing atomically thin layers, stacking them and changing their relative angle, researchers can create electronic behavior absent from the original ingredients. Twisted graphene and transition metal dichalcogenides have already yielded supercon…"
+    },
+    {
+      "title": "Mesa Quantum Raises $11.8 Million to Scale Quantum Timing Systems",
+      "link": "https://thequantuminsider.com/2026/09/24/mesa-quantum-raises-11-8-million-quantum-sensing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 24 Sep 2026 17:39:07 +0000",
+      "published_ts": 1790271547,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Mesa Quantum, the company developing the next generation of quantum sensing technology for integration at scale, today announced it has raised $11.8 million in funding led by Playground Global. The round accelerates the company’s transition from component-level de…"
+    },
     {
       "title": "memQ Releases Open-Source Distributed Quantum Compiler",
       "link": "https://thequantuminsider.com/2026/09/24/memq-open-source-distributed-quantum-compiler/",
@@ -72,14 +96,6 @@
       "published": "Thu, 24 Sep 2026 12:50:17 +0000",
       "published_ts": 1790254217,
       "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today announced it has achieved 30 entangled logical qubits using just 80 physical qubits on its Sqale™ quantum computing platform, delivering a k…"
-    },
-    {
-      "title": "QuiX Quantum Expands in Japan with Tohoku Electronic Industrial as Exclusive Distributor",
-      "link": "https://thequantuminsider.com/2026/09/24/quix-quantum-tei-c-exclusive-distributor-japan/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 24 Sep 2026 12:49:09 +0000",
-      "published_ts": 1790254149,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum today announced the appointment of Tohoku Electronic Industrial Co., Ltd. (TEI-C) as its Authorized Exclusive Distributor in Japan, strengthening the company’s commercial presence in one of Asia’s most strategically important quantum technology market…"
     },
     {
       "title": "Structured Variational Key Concentration for a Reduced AES Cipher",
@@ -312,22 +328,6 @@
       "published": "Thu, 17 Sep 2026 16:30:01 EDT",
       "published_ts": 1789677001,
       "summary": "Physicists at The City College of New York have demonstrated a new way to transfer microwave signals onto light using magnetic waves inside a layered semiconductor. The work establishes a materials platform for building interfaces that could one day link quantum computers through optical networks. T…"
-    },
-    {
-      "title": "What kills Schrödinger's cat? Underground experiment rules out gravity model for quantum decoherence",
-      "link": "https://phys.org/news/2026-09-schrdinger-cat-underground-gravity-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 17 Sep 2026 15:00:11 EDT",
-      "published_ts": 1789671611,
-      "summary": "Somewhere between the microscopic realm of elementary particles and the macroscopic world of human beings, something strange happens: The rules of quantum physics, which work so exquisitely for tiny atoms, seem to lose their grip as objects grow larger. Pondering where and how this shift from small-…"
-    },
-    {
-      "title": "Real-time quantum jump in sound observed for first time",
-      "link": "https://phys.org/news/2026-09-real-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 17 Sep 2026 14:00:42 EDT",
-      "published_ts": 1789668042,
-      "summary": "A Stanford team has documented the first direct observation of quantum jumps of sound in a mechanical resonator, completing an arc of scientific exploration that started more than 100 years ago."
     },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
