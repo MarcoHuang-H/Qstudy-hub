@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1790197159,
+  "generated_ts": 1790218323,
   "items": [
+    {
+      "title": "Graphene measurements reveal energy-loss and quantum-coherence exponents diverge under gate control",
+      "link": "https://phys.org/news/2026-09-graphene-reveal-energy-loss-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 23 Sep 2026 17:20:04 EDT",
+      "published_ts": 1790198404,
+      "summary": "Scientists have shown that the two exponents (inelastic scattering exponent and dephasing exponent) commonly used to describe electron scattering in graphene do not necessarily follow the same behavior. Using gated epitaxial graphene, a multi-institutional team of researchers independently extracted…"
+    },
     {
       "title": "Scientists build world's most accurate atomic clock",
       "link": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
@@ -11,7 +19,7 @@
     },
     {
       "title": "CGI And D-Wave Quantum Partner to Advance Enterprise Quantum Adoption",
-      "link": "https://thequantuminsider.com/2026/09/23/cgi-and-d-wave-quantum-partner-to-advance-enterprise-quantum-adoption/",
+      "link": "https://thequantuminsider.com/2026/09/23/d-wave-quantum-partner-to-advance-enterprise-quantum-adoption/",
       "source": "The Quantum Insider",
       "published": "Wed, 23 Sep 2026 18:03:59 +0000",
       "published_ts": 1790186639,
@@ -320,14 +328,6 @@
       "published": "Thu, 17 Sep 2026 14:00:42 EDT",
       "published_ts": 1789668042,
       "summary": "A Stanford team has documented the first direct observation of quantum jumps of sound in a mechanical resonator, completing an arc of scientific exploration that started more than 100 years ago."
-    },
-    {
-      "title": "New benchmark puts quantum computers to the test and reveals their limitations",
-      "link": "https://phys.org/news/2026-09-benchmark-quantum-reveals-limitations.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 17 Sep 2026 13:10:02 EDT",
-      "published_ts": 1789665002,
-      "summary": "Quantum computers are no longer theoretical concepts. Today, they are being developed to tackle a range of complex problems, including exploring financial risk, modeling complex molecules and optimizing massive logistics networks. However, until now, there has been no way to benchmark the computatio…"
     },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
