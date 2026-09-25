@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1790353383,
+  "generated_ts": 1790370094,
   "items": [
+    {
+      "title": "Ultrathin materials could make quantum light circuits programmable",
+      "link": "https://phys.org/news/2026-09-ultrathin-materials-quantum-circuits-programmable.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 25 Sep 2026 15:40:01 EDT",
+      "published_ts": 1790365201,
+      "summary": "Quantum photonics could be a pivotal part of future quantum technology if the right materials can be created, a new review paper has found."
+    },
+    {
+      "title": "Spin rephasing helps quantum memories store single-photon states longer for future networks",
+      "link": "https://phys.org/news/2026-09-rephasing-quantum-memories-photon-states.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 25 Sep 2026 13:10:01 EDT",
+      "published_ts": 1790356201,
+      "summary": "We are continuously sending information to each other, transmitting zeros and ones through a giant network of connected computers and devices. Scientists are now trying to extend this familiar concept of the internet to the quantum realm, looking for an efficient way to exchange quantum rather than…"
+    },
+    {
+      "title": "Fairfax County Schools Plans Quantum Computer Program at High School",
+      "link": "https://thequantuminsider.com/2026/09/25/fairfax-county-schools-quantum-computer-high-school/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 25 Sep 2026 17:04:22 +0000",
+      "published_ts": 1790355862,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Fairfax County Public Schools (FCPS) is making history through a groundbreaking partnership with Connected DMV and the Fairfax County Economic Development Authority (FCEDA) that will bring an operational quantum computer directly to students at Skyview High School…"
+    },
     {
       "title": "Creotech Quantum Prepares QKD System for Commercialization",
       "link": "https://thequantuminsider.com/2026/09/25/creotech-quantum-qkd-system-commercialization/",
@@ -96,14 +120,6 @@
       "published": "Fri, 25 Sep 2026 07:56:35 +0000",
       "published_ts": 1790322995,
       "summary": "Insider Brief PRESS RELEASE &#8212; IonQ researchers applied a quantum generative machine learning model to help detect changes in highly complex satellite image data. The results, detailed in a recently published paper, reveal that using quantum-based analysis shows promise for detecting and predic…"
-    },
-    {
-      "title": "UTM Becomes Base For Malaysia’s First Quantum Computing Hardware Company",
-      "link": "https://thequantuminsider.com/2026/09/25/utm-becomes-base-for-malaysias-first-quantum-computing-hardware-company/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 25 Sep 2026 07:19:04 +0000",
-      "published_ts": 1790320744,
-      "summary": "Insider Brief PRESS RELEASE &#8212;  Universiti Teknologi Malaysia (UTM) is strengthening its role in Malaysia&#8217;s emerging quantum technology ecosystem as AQSolotl Pte. Ltd., a Singapore-based quantum technology company, establishes its research, development and commercialisation (R&#38;D&#38;C…"
     },
     {
       "title": "Cosmic lockdown: How the environment can isolate quantum fields",
@@ -320,22 +336,6 @@
       "published": "Mon, 21 Sep 2026 12:40:08 EDT",
       "published_ts": 1790008808,
       "summary": "Researchers in China have extended the lifetime of entanglement in a room-temperature, solid-state system by up to a factor of 240. Led by Shuo Ren and Rui-Jian Liang at the University of Science and Technology of China in Hefei, the team transferred entangled states from the electron spins of solid…"
-    },
-    {
-      "title": "Quantum communication protocol enables three users to establish a shared secure key",
-      "link": "https://phys.org/news/2026-09-quantum-communication-protocol-enables-users.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 21 Sep 2026 12:00:01 EDT",
-      "published_ts": 1790006401,
-      "summary": "Quantum key distribution allows two users to establish secret keys whose security is grounded in the laws of quantum mechanics. Extending this capability to multiple users is an essential step toward quantum networks that support secure communication among many participants. Quantum cryptographic co…"
-    },
-    {
-      "title": "Scientists teleport quantum states across 100 parallel optical channels",
-      "link": "https://phys.org/news/2026-09-scientists-teleport-quantum-states-parallel.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 21 Sep 2026 11:20:06 EDT",
-      "published_ts": 1790004006,
-      "summary": "Quantum communication networks consist of several connected nodes that exchange information encoded in quantum states. These networks could potentially enable more secure communications between quantum devices in different locations."
     },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
