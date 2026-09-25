@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1790334018,
+  "generated_ts": 1790353383,
   "items": [
+    {
+      "title": "Creotech Quantum Prepares QKD System for Commercialization",
+      "link": "https://thequantuminsider.com/2026/09/25/creotech-quantum-qkd-system-commercialization/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 25 Sep 2026 13:14:34 +0000",
+      "published_ts": 1790342074,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Creotech Quantum S.A., a Warsaw Stock Exchange-listed company developing and commercializing quantum technologies, announced that the European Commission has approved the results of the eCAUSIS project &#8211; “European, Certifiable, Affordable, User-oriented, Sec…"
+    },
+    {
+      "title": "Rare quantum state reveals particles with quarter-electron charge",
+      "link": "https://phys.org/news/2026-09-rare-quantum-state-reveals-particles.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 25 Sep 2026 09:00:08 EDT",
+      "published_ts": 1790341208,
+      "summary": "An electron's charge is normally fixed, like a coin you can't break into pieces. But if electrons are cooled close to absolute zero and trapped in a two-dimensional layer under a powerful magnetic field, they organize into a collective state of \"quasiparticles\" that seem to hold only a fraction of a…"
+    },
+    {
+      "title": "Quantum computing’s “dark horse” just proved it can go universal",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Fri, 25 Sep 2026 08:45:04 EDT",
+      "published_ts": 1790340304,
+      "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide…"
+    },
+    {
+      "title": "Guest Post: Quantum Investment May Start With Post-Quantum Security",
+      "link": "https://thequantuminsider.com/2026/09/25/quantum-investment-post-quantum-security/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 25 Sep 2026 12:24:49 +0000",
+      "published_ts": 1790339089,
+      "summary": "Guest Post By Courtney Olujobi, Principal at Moon Pursuit Capital. From an investment perspective, one of the first significant markets created by quantum computing may have very little to do with buying access to quantum computers themselves. It may come from the amount of capital businesses will n…"
+    },
+    {
+      "title": "DRDO Partners With Zero mK India on 20 mK Quantum Refrigerator",
+      "link": "https://thequantuminsider.com/2026/09/25/drdo-zero-mk-india-20-mk-dilution-refrigerator/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 25 Sep 2026 12:13:55 +0000",
+      "published_ts": 1790338435,
+      "summary": "Insider Brief India&#8217;s Defence Research and Development Organisation (DRDO) has entered its first high-value deep-tech project agreement under the Technology Development Fund scheme, partnering with start-up Zero mK India Private Limited to build an indigenous 20 mK dilution refrigerator for qu…"
+    },
+    {
+      "title": "China’s Qingxing Raises Nearly 100 Million Yuan to Develop Quantum-Inspired AI",
+      "link": "https://thequantuminsider.com/2026/09/25/chinas-qingxing-raises-nearly-100-million-yuan-to-develop-quantum-inspired-ai/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 25 Sep 2026 12:06:19 +0000",
+      "published_ts": 1790337979,
+      "summary": "Insider Brief Qingxing Heterogeneous Computing completed a Series A+ funding round, bringing its total raised across two rounds in three months to nearly 100 million yuan (about $14.9 million) to develop quantum-inspired AI. Its RiverONE model runs on conventional GPUs and reportedly achieved at lea…"
+    },
+    {
+      "title": "Random access quantum memory lets one processor select among seven storage cells",
+      "link": "https://phys.org/news/2026-09-random-access-quantum-memory-processor.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 25 Sep 2026 08:00:01 EDT",
+      "published_ts": 1790337601,
+      "summary": "Classical computers can temporarily store the information required to perform specific tasks in a short-term memory component known as RAM (random access memory). This component allows computer processors to retrieve information from a chosen location without searching through all stored data."
+    },
+    {
+      "title": "CGI Federal, DLA and UT Knoxville Study Quantum Computing for Logistics",
+      "link": "https://thequantuminsider.com/2026/09/25/dla-ut-knoxville-applied-research-agreement/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 25 Sep 2026 11:54:54 +0000",
+      "published_ts": 1790337294,
+      "summary": "Insider Brief PRESS RELEASE &#8212; CGI Federal Inc. (CGI Federal), a leading provider of technology and professional services for the U.S. government, today announced that it has entered into an agreement with the U.S. Defense Logistics Agency (DLA) and the University of Tennessee, Knoxville (UT) t…"
+    },
+    {
+      "title": "Chinese Scientists Say Compact Quantum Magnetometer Tracks Hidden Targets in Field Tests",
+      "link": "https://thequantuminsider.com/2026/09/25/chinese-scientists-say-compact-quantum-magnetometer-tracks-hidden-targets-in-field-tests/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 25 Sep 2026 11:32:11 +0000",
+      "published_ts": 1790335931,
+      "summary": "Insider Brief Chinese researchers developed a compact quantum magnetometer that detected underground train activity, located a buried magnet and monitored a geomagnetic storm in field tests. The instrument uses a small sensing probe &#8212; about the the size of two dice placed side by side &#8212;…"
+    },
     {
       "title": "Mphasis and Copa Airlines Host Quantum Computing Challenge for Airline Optimization",
       "link": "https://thequantuminsider.com/2026/09/25/mphasis-copa-airlines-quantum-computing-challenge/",
@@ -186,54 +258,6 @@
       "summary": "Twistronics has become a new alchemy of materials. By choosing atomically thin layers, stacking them and changing their relative angle, researchers can create electronic behavior absent from the original ingredients. Twisted graphene and transition metal dichalcogenides have already yielded supercon…"
     },
     {
-      "title": "Mesa Quantum Raises $11.8 Million to Scale Quantum Timing Systems",
-      "link": "https://thequantuminsider.com/2026/09/24/mesa-quantum-raises-11-8-million-quantum-sensing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 24 Sep 2026 17:39:07 +0000",
-      "published_ts": 1790271547,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Mesa Quantum, the company developing the next generation of quantum sensing technology for integration at scale, today announced it has raised $11.8 million in funding led by Playground Global. The round accelerates the company’s transition from component-level de…"
-    },
-    {
-      "title": "memQ Releases Open-Source Distributed Quantum Compiler",
-      "link": "https://thequantuminsider.com/2026/09/24/memq-open-source-distributed-quantum-compiler/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 24 Sep 2026 14:43:05 +0000",
-      "published_ts": 1790260985,
-      "summary": "Insider Brief PRESS RELEASE &#8212; memQ™, the industry leader in quantum networking for scalable and distributed quantum computing, announced today the public release of its distributed quantum compiler (DQC). This integral part of a distributed quantum computing environment will be released as a p…"
-    },
-    {
-      "title": "Oxford Quantum Circuits Appoints Simon Phillips as Chief Product Officer",
-      "link": "https://thequantuminsider.com/2026/09/24/oqc-simon-phillips-chief-product-officer/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 24 Sep 2026 14:33:34 +0000",
-      "published_ts": 1790260414,
-      "summary": "Insider Brief PRESS RELEASE &#8212; OQC, a global leader in quantum computing, today announced that Simon Phillips will move into the role of Chief Product Officer, having previously served as Chief Technology Officer. In his new role, Phillips will lead OQC’s product strategy, helping translate the…"
-    },
-    {
-      "title": "Bifrost Electronics Appoints Doug Campbell as CEO",
-      "link": "https://thequantuminsider.com/2026/09/24/bifrost-electronics-doug-campbell-ceo/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 24 Sep 2026 14:26:25 +0000",
-      "published_ts": 1790259985,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Bifrost Electronics, a leading developer and manufacturer of advanced electronic hardware for quantum computers, today announced that successful deep-tech entrepreneur Doug Campbell has joined the company as its Chief Executive Officer.  Campbell brings more than…"
-    },
-    {
-      "title": "QC Design Reports 10x Logical Error Reduction With Meridian AI",
-      "link": "https://thequantuminsider.com/2026/09/24/qc-design-meridian-lower-error-rates-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 24 Sep 2026 14:15:01 +0000",
-      "published_ts": 1790259301,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QC Design today published “Over 10x reduction in logical error rates with Meridian,” a white paper showing that Meridian, its purpose-built AI system for fault-tolerant quantum computing design, achieved lower logical error rates than published methods and general…"
-    },
-    {
-      "title": "IonQ to Deploy Superion 256 Quantum Computer at Florida International University",
-      "link": "https://thequantuminsider.com/2026/09/24/ionq-superion-256-florida-international-university/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 24 Sep 2026 14:01:55 +0000",
-      "published_ts": 1790258515,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced a contract with Florida International University (FIU), Miami’s top ranked state university. Under the agreement, IonQ will deliver its Superion 256-qubit trapped-ion q…"
-    },
-    {
       "title": "Graphene measurements reveal energy-loss and quantum-coherence exponents diverge under gate control",
       "link": "https://phys.org/news/2026-09-graphene-reveal-energy-loss-quantum.html",
       "source": "Phys.org — Quantum Physics",
@@ -312,22 +336,6 @@
       "published": "Mon, 21 Sep 2026 11:20:06 EDT",
       "published_ts": 1790004006,
       "summary": "Quantum communication networks consist of several connected nodes that exchange information encoded in quantum states. These networks could potentially enable more secure communications between quantum devices in different locations."
-    },
-    {
-      "title": "Physicists extend the search for quantum black holes at the LHC",
-      "link": "https://phys.org/news/2026-09-physicists-quantum-black-holes-lhc.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 18 Sep 2026 14:20:07 EDT",
-      "published_ts": 1789755607,
-      "summary": "Physicists at UC Santa Barbara have extended the search for evidence of microscopic black holes produced at the Large Hadron Collider (LHC) at the European Organization for Nuclear Research (CERN). The formation of these tiny, fleeting objects at the LHC represents one way theorists have sought to r…"
-    },
-    {
-      "title": "An extremely stable quantum gas offers a new lens on strongly interacting systems",
-      "link": "https://phys.org/news/2026-09-extremely-stable-quantum-gas-lens.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 18 Sep 2026 12:20:01 EDT",
-      "published_ts": 1789748401,
-      "summary": "Molecular gases are a new form of artificial quantum matter. However, when these molecules collide, they are often lost extremely rapidly. Researchers from Radboud University and Columbia University have been able to suppress this collisional loss, paving the way for strongly interacting quantum mat…"
     },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
@@ -504,14 +512,6 @@
       "published": "Thu, 25 Jun 2026 12:00:00 -0400",
       "published_ts": 1782403200,
       "summary": "“Scientific American” showcases the history and future of America’s scientific engine, highlighting promising young scientists and icons at MIT and beyond."
-    },
-    {
-      "title": "SpaceX wants to build AI data centers in space. Will it work?",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Thu, 18 Jun 2026 23:43:09 EDT",
-      "published_ts": 1781840589,
-      "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with maj…"
     },
     {
       "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
