@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1790283859,
+  "generated_ts": 1790305698,
   "items": [
+    {
+      "title": "Higher-dimensional black holes hide an exact symmetry in their ringing, and string-inspired gravity breaks it",
+      "link": "https://phys.org/news/2026-09-higher-dimensional-black-holes-exact.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 24 Sep 2026 17:20:04 EDT",
+      "published_ts": 1790284804,
+      "summary": "Strike a bell, and it rings with a pitch and a fading that tell you about the bell: its size, its shape, the metal it is made of. Black holes ring too. When two merge, the newborn black hole shivers and sheds gravitational waves in a brief, dying chord, and since 2015, gravitational-wave detectors h…"
+    },
     {
       "title": "Vertical quantum sensor could reveal nanoscale magnetic patterns in quantum materials",
       "link": "https://phys.org/news/2026-09-vertical-quantum-sensor-reveal-nanoscale.html",
@@ -320,14 +328,6 @@
       "published": "Thu, 17 Sep 2026 17:00:01 EDT",
       "published_ts": 1789678801,
       "summary": "A team of researchers led by the U.S. Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) developed an approach that enabled them to directly observe how electrons interact with defects in advanced semiconductor devices in unprecedented detail. The team's methodology included…"
-    },
-    {
-      "title": "A new bridge for quantum networks: Physicists convert microwaves to light using 2D magnets",
-      "link": "https://phys.org/news/2026-09-bridge-quantum-networks-physicists-microwaves.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 17 Sep 2026 16:30:01 EDT",
-      "published_ts": 1789677001,
-      "summary": "Physicists at The City College of New York have demonstrated a new way to transfer microwave signals onto light using magnetic waves inside a layered semiconductor. The work establishes a materials platform for building interfaces that could one day link quantum computers through optical networks. T…"
     },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
