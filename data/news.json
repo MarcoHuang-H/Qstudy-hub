@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1790419380,
+  "generated_ts": 1790437088,
   "items": [
+    {
+      "title": "MANA Reveals Atomic-Scale Rails for Guiding Superconducting Vortices",
+      "link": "https://thequantuminsider.com/2026/09/26/mana-reveals-atomic-scale-rails-for-guiding-superconducting-vortices/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 26 Sep 2026 13:46:41 +0000",
+      "published_ts": 1790430401,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at the Research Center for Materials Nanoarchitectonics (MANA), one of the centers under the National Institute for Materials Science (NIMS), Japan, discovered that atomic-scale steps can guide superconducting vortices in an ultrathin superconductor. V…"
+    },
     {
       "title": "Ultrathin materials could make quantum light circuits programmable",
       "link": "https://phys.org/news/2026-09-ultrathin-materials-quantum-circuits-programmable.html",
@@ -112,14 +120,6 @@
       "published": "Fri, 25 Sep 2026 08:35:42 +0000",
       "published_ts": 1790325342,
       "summary": "Insider Brief PRESS RELEASE &#8212; DigiCert, a global leader in intelligent trust, today announced the general availability of DigiCert Quantum Central, part of the DigiCert ONE platform, that helps organizations manage and demonstrate progress toward post-quantum cryptography (PQC) readiness. Firs…"
-    },
-    {
-      "title": "Evaluating Quantum Generative Models on Real Satellite Radar",
-      "link": "https://thequantuminsider.com/2026/09/25/evaluating-quantum-generative-models-on-real-satellite-radar/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 25 Sep 2026 07:56:35 +0000",
-      "published_ts": 1790322995,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ researchers applied a quantum generative machine learning model to help detect changes in highly complex satellite image data. The results, detailed in a recently published paper, reveal that using quantum-based analysis shows promise for detecting and predic…"
     },
     {
       "title": "Cosmic lockdown: How the environment can isolate quantum fields",
