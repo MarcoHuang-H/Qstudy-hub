@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1790437088,
+  "generated_ts": 1790454875,
   "items": [
+    {
+      "title": "Sebastian Hassinger (The New Quantum Era): why neutral atoms lead the qubit race for now",
+      "link": "https://thequantuminsider.com/2026/09/26/sebastian-hassinger-the-new-quantum-era-why-neutral-atoms-lead-the-qubit-race-for-now/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 26 Sep 2026 19:00:00 +0000",
+      "published_ts": 1790449200,
+      "summary": "Yuval Boger interviews Sebastian Hassinger, host of The New Quantum Era podcast, and author of a new book by the same name. Sebastian and I have many things in common beyond our jobs in quantum. We are both podcasters, neither of us has a PhD, and we are both authors of new books &#8211; Sebastian’s…"
+    },
     {
       "title": "MANA Reveals Atomic-Scale Rails for Guiding Superconducting Vortices",
       "link": "https://thequantuminsider.com/2026/09/26/mana-reveals-atomic-scale-rails-for-guiding-superconducting-vortices/",
@@ -112,14 +120,6 @@
       "published": "Fri, 25 Sep 2026 09:54:38 +0000",
       "published_ts": 1790330078,
       "summary": "Insider Brief PRESS RELEASE &#8212; Mphasis, (BSE: 526299; NSE: MPHASIS), a global AI-led, platform-driven technology solutions provider, in partnership with Copa Airlines, recently hosted a Quantum Computing Challenge, an international innovation contest. The challenge brought together teams from v…"
-    },
-    {
-      "title": "DigiCert Launches Quantum Central for Post-Quantum Cryptography Readiness",
-      "link": "https://thequantuminsider.com/2026/09/25/digicert-quantum-central-pqc-plans-action/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 25 Sep 2026 08:35:42 +0000",
-      "published_ts": 1790325342,
-      "summary": "Insider Brief PRESS RELEASE &#8212; DigiCert, a global leader in intelligent trust, today announced the general availability of DigiCert Quantum Central, part of the DigiCert ONE platform, that helps organizations manage and demonstrate progress toward post-quantum cryptography (PQC) readiness. Firs…"
     },
     {
       "title": "Cosmic lockdown: How the environment can isolate quantum fields",
