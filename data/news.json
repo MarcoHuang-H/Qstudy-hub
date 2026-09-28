@@ -1,6 +1,110 @@
 {
-  "generated_ts": 1790599458,
+  "generated_ts": 1790635972,
   "items": [
+    {
+      "title": "Experimental evidence of altermagnetism in a layered material opens a promising path toward future spintronics",
+      "link": "https://phys.org/news/2026-09-experimental-evidence-altermagnetism-layered-material.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 28 Sep 2026 18:10:01 EDT",
+      "published_ts": 1790633401,
+      "summary": "To build the ultrafast computers of the future, scientists are looking beyond the electrical charge of electrons to another property: their spin. While conventional hardware relies on the movement of charge to process data, tapping into this intrinsic quantum property could enable researchers to rei…"
+    },
+    {
+      "title": "How to balance quantum batteries' high power with stable energy delivery",
+      "link": "https://phys.org/news/2026-09-quantum-batteries-high-power-stable.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 28 Sep 2026 15:20:10 EDT",
+      "published_ts": 1790623210,
+      "summary": "Quantum batteries are an emerging area of research, with progress coming from theoretical studies and proof-of-principle experiments in small quantum systems. Unlike conventional chemical batteries used in everyday life, they use quantum systems to store and transfer energy. Researchers are explorin…"
+    },
+    {
+      "title": "Quantum computer boldly goes where no quantum computer has gone before: Space",
+      "link": "https://phys.org/news/2026-09-quantum-boldly-space.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 28 Sep 2026 14:40:01 EDT",
+      "published_ts": 1790620801,
+      "summary": "There's big news from the quantum world. A quantum computer has been used in space for the first time. The device was aboard a spacecraft in low Earth orbit and demonstrated technology that could eventually help solve a problem that has been bugging satellites for years."
+    },
+    {
+      "title": "Donate & Join Us! Trick, Treat, and Quantum Physics: Kai Brings Halloween to ETH Zürich",
+      "link": "https://thequantuminsider.com/2026/09/28/donate-join-us-trick-treat-and-quantum-physics-kai-brings-halloween-to-eth-zurich/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 28 Sep 2026 16:21:41 +0000",
+      "published_ts": 1790612501,
+      "summary": "Insider Brief Halloween is just around the corner &#8211; and at ETH Zürich this year it&#8217;ll be blended with quantum physics! On October 31, 10-year-old Kai will take the stage at wow² Space dressed as the Grim Reaper, ready to ask some of the biggest questions in science in the way only a 10-y…"
+    },
+    {
+      "title": "FSU Receives $2.1 Million for Quantum Communication Testbed",
+      "link": "https://thequantuminsider.com/2026/09/28/fsu-2-1-million-quantum-communication-testbed/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 28 Sep 2026 15:54:32 +0000",
+      "published_ts": 1790610872,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Florida State University will establish a campus-scale quantum communication testing platform with $2.1 million in federal Community Project Funding through the National Institute of Standards and Technology, secured with support from U.S. Rep. Daniel Webster of F…"
+    },
+    {
+      "title": "India’s Finance Minister Places Quantum Among Next Major Infrastructure Investment Priorities",
+      "link": "https://thequantuminsider.com/2026/09/28/indias-finance-minister-places-quantum-among-next-major-infrastructure-investment-priorities/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 28 Sep 2026 14:06:47 +0000",
+      "published_ts": 1790604407,
+      "summary": "Insider Brief India’s next major infrastructure investments will include quantum technology alongside artificial intelligence and semiconductor chips, Finance Minister Nirmala Sitharaman said, according to the Hindustan Times. Speaking at a fireside chat organized by the IIT Madras Alumni Associatio…"
+    },
+    {
+      "title": "Mapping one atom's interaction with light uncovers an unbounded network of quantum states",
+      "link": "https://phys.org/news/2026-09-atom-interaction-uncovers-unbounded-network.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 28 Sep 2026 09:40:10 EDT",
+      "published_ts": 1790602810,
+      "summary": "A new graph-theoretic framework provides a unified description of atom-light interactions across regimes ranging from weak to deep-strong coupling."
+    },
+    {
+      "title": "Magnetic order survives weak quantum fluctuations in gapless magnets",
+      "link": "https://phys.org/news/2026-09-magnetic-survives-weak-quantum-fluctuations.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 28 Sep 2026 09:20:01 EDT",
+      "published_ts": 1790601601,
+      "summary": "In a new study published in Physical Review Letters, researchers have shown that magnetic order can survive weak quantum fluctuations in disordered magnets that lack an energy gap. The work establishes robust ferromagnetism in the two-dimensional random-bond quantum Ising model, confirming a longsta…"
+    },
+    {
+      "title": "Occam Foundry Gains Austin and UT Austin Support for Quantum Campus",
+      "link": "https://thequantuminsider.com/2026/09/28/austin-mayor-ut-austin-support-occam-foundry/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 28 Sep 2026 13:18:01 +0000",
+      "published_ts": 1790601481,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Occam Foundry, a commercialization campus for quantum technology planned for 16.5 acres in southeastern Travis County, announces a letter of support from Austin Mayor Kirk Watson and a signed memorandum of understanding with The University of Texas at Austin, acti…"
+    },
+    {
+      "title": "KIST Connects Korean Quantum Startups With U.S. Partners at QWC 2026",
+      "link": "https://thequantuminsider.com/2026/09/28/kist-korean-quantum-startups-us-partners-qwc-2026/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 28 Sep 2026 12:56:39 +0000",
+      "published_ts": 1790600199,
+      "summary": "Insider Brief PRESS RELEASE &#8212;  The Korea Institute of Science and Technology (KIST) has successfully led a delegation of South Korean quantum deep-tech startups at Quantum World Congress (QWC) 2026, establishing key international partnerships and expanding their footprint into the U.S. market.…"
+    },
+    {
+      "title": "CEA-Leti and Quobly Strengthen Their Collaboration to Accelerate the Development of Next-Generation Silicon Quantum Technologies",
+      "link": "https://thequantuminsider.com/2026/09/28/cea-leti-and-quobly-strengthen-their-collaboration-to-accelerate-the-development-of-next-generation-silicon-quantum-technologies/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 28 Sep 2026 12:52:25 +0000",
+      "published_ts": 1790599945,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quobly, a French company developing silicon-based quantum computers, and CEA-Leti, a leading research institute in microelectronics and information technologies, are strengthening their long-standing collaboration through access to the FAMES Pilot Line, which comp…"
+    },
+    {
+      "title": "Pasqal Shifts French Public Collaboration Toward Commercial Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/09/28/pasqal-collaboration-french-public-authorities/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 28 Sep 2026 12:45:40 +0000",
+      "published_ts": 1790599540,
+      "summary": "Insider Brief PRESS RELEASE &#8212;  Pasqal (NASDAQ: PSQL) is announcing an evolution of the areas of its collaboration with the French public authorities to now focus on commercial applications, in line with the company’s growth strategy and innovation priorities.  This evolution includes the termi…"
+    },
+    {
+      "title": "UCL and Siloton Adapt Quantum-Enabled Eye Imaging for Children",
+      "link": "https://thequantuminsider.com/2026/09/28/ucl-siloton-quantum-eye-imaging-children/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 28 Sep 2026 12:27:50 +0000",
+      "published_ts": 1790598470,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at the University College London (UCL) Great Ormond Street Institute of Child Health are teaming up with Bristol-based start-up Siloton on a project that could help prevent sight loss in children by adapting a groundbreaking new eye imaging technology.…"
+    },
     {
       "title": "Quandela Seeks South Korean Partners for Photonic Quantum Computing",
       "link": "https://thequantuminsider.com/2026/09/28/quandela-south-korea-photonic-quantum-computing/",
@@ -16,22 +120,6 @@
       "published": "Mon, 28 Sep 2026 11:00:55 +0000",
       "published_ts": 1790593255,
       "summary": "Insider Brief PRESS RELEASE &#8212; New research identifies fundamental limits on the reliability of quantum batteries and shows how charging strategies can balance high power with stable energy and power delivery. The findings represent an important step toward the future development of practical a…"
-    },
-    {
-      "title": "Quantum Cyber’s Strategic Focus Includes Quantum Navigation",
-      "link": "https://thequantuminsider.com/2026/09/28/quantum-cybers-strategic-focus-includes-quantum-navigation/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 28 Sep 2026 07:54:55 +0000",
-      "published_ts": 1790582095,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Cyber N.V. (Nasdaq: QUCY) (&#8220;Quantum Cyber&#8221; or the &#8220;Company&#8221;), a Nasdaq-listed autonomous defense technology company assembling an AI-powered System-of-Systems platform for drone warfare, counter-UAS, and border security applications…"
-    },
-    {
-      "title": "Cosmic Lockdown: How The Environment Can Isolate Quantum Fields",
-      "link": "https://thequantuminsider.com/2026/09/28/cosmic-lockdown-how-the-environment-can-isolate-quantum-fields/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 28 Sep 2026 07:27:07 +0000",
-      "published_ts": 1790580427,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The vacuum is not always so empty. &#8220;When we talk about a vacuum in cosmology, we do not mean completely devoid of energy,&#8221; explains David Wands, Professor at the Institute of Cosmology &#38; Gravitation at the University of Portsmouth. &#8220;A vacuum…"
     },
     {
       "title": "Attosecond topological interference beyond Floquet-Volkov paths",
@@ -154,22 +242,6 @@
       "summary": "arXiv:2609.30762v1 Announce Type: new  Abstract: We prove a generalized quantum Stein lemma for parallel discrimination of an arbitrary finite-dimensional channel against families of alternative channels. The alternatives are compact and convex, closed under tensor products, and contain a faithful r…"
     },
     {
-      "title": "Sebastian Hassinger (The New Quantum Era): why neutral atoms lead the qubit race for now",
-      "link": "https://thequantuminsider.com/2026/09/26/sebastian-hassinger-the-new-quantum-era-why-neutral-atoms-lead-the-qubit-race-for-now/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 26 Sep 2026 19:00:00 +0000",
-      "published_ts": 1790449200,
-      "summary": "Yuval Boger interviews Sebastian Hassinger, host of The New Quantum Era podcast, and author of a new book by the same name. Sebastian and I have many things in common beyond our jobs in quantum. We are both podcasters, neither of us has a PhD, and we are both authors of new books &#8211; Sebastian’s…"
-    },
-    {
-      "title": "MANA Reveals Atomic-Scale Rails for Guiding Superconducting Vortices",
-      "link": "https://thequantuminsider.com/2026/09/26/mana-reveals-atomic-scale-rails-for-guiding-superconducting-vortices/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 26 Sep 2026 13:46:41 +0000",
-      "published_ts": 1790430401,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at the Research Center for Materials Nanoarchitectonics (MANA), one of the centers under the National Institute for Materials Science (NIMS), Japan, discovered that atomic-scale steps can guide superconducting vortices in an ultrathin superconductor. V…"
-    },
-    {
       "title": "Ultrathin materials could make quantum light circuits programmable",
       "link": "https://phys.org/news/2026-09-ultrathin-materials-quantum-circuits-programmable.html",
       "source": "Phys.org — Quantum Physics",
@@ -186,22 +258,6 @@
       "summary": "We are continuously sending information to each other, transmitting zeros and ones through a giant network of connected computers and devices. Scientists are now trying to extend this familiar concept of the internet to the quantum realm, looking for an efficient way to exchange quantum rather than…"
     },
     {
-      "title": "Fairfax County Schools Plans Quantum Computer Program at High School",
-      "link": "https://thequantuminsider.com/2026/09/25/fairfax-county-schools-quantum-computer-high-school/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 25 Sep 2026 17:04:22 +0000",
-      "published_ts": 1790355862,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Fairfax County Public Schools (FCPS) is making history through a groundbreaking partnership with Connected DMV and the Fairfax County Economic Development Authority (FCEDA) that will bring an operational quantum computer directly to students at Skyview High School…"
-    },
-    {
-      "title": "Creotech Quantum Prepares QKD System for Commercialization",
-      "link": "https://thequantuminsider.com/2026/09/25/creotech-quantum-qkd-system-commercialization/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 25 Sep 2026 13:14:34 +0000",
-      "published_ts": 1790342074,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Creotech Quantum S.A., a Warsaw Stock Exchange-listed company developing and commercializing quantum technologies, announced that the European Commission has approved the results of the eCAUSIS project &#8211; “European, Certifiable, Affordable, User-oriented, Sec…"
-    },
-    {
       "title": "Rare quantum state reveals particles with quarter-electron charge",
       "link": "https://phys.org/news/2026-09-rare-quantum-state-reveals-particles.html",
       "source": "Phys.org — Quantum Physics",
@@ -216,22 +272,6 @@
       "published": "Fri, 25 Sep 2026 08:45:04 EDT",
       "published_ts": 1790340304,
       "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide…"
-    },
-    {
-      "title": "Guest Post: Quantum Investment May Start With Post-Quantum Security",
-      "link": "https://thequantuminsider.com/2026/09/25/quantum-investment-post-quantum-security/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 25 Sep 2026 12:24:49 +0000",
-      "published_ts": 1790339089,
-      "summary": "Guest Post By Courtney Olujobi, Principal at Moon Pursuit Capital. From an investment perspective, one of the first significant markets created by quantum computing may have very little to do with buying access to quantum computers themselves. It may come from the amount of capital businesses will n…"
-    },
-    {
-      "title": "DRDO Partners With Zero mK India on 20 mK Quantum Refrigerator",
-      "link": "https://thequantuminsider.com/2026/09/25/drdo-zero-mk-india-20-mk-dilution-refrigerator/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 25 Sep 2026 12:13:55 +0000",
-      "published_ts": 1790338435,
-      "summary": "Insider Brief India&#8217;s Defence Research and Development Organisation (DRDO) has entered its first high-value deep-tech project agreement under the Technology Development Fund scheme, partnering with start-up Zero mK India Private Limited to build an indigenous 20 mK dilution refrigerator for qu…"
     },
     {
       "title": "Random access quantum memory lets one processor select among seven storage cells",
@@ -290,52 +330,12 @@
       "summary": "Take a second and turn it into trillions of moments. Measure each one. That's how precisely an atomic clock at Singapore's Centre for Quantum Technologies (CQT) keeps time—and with record-setting accuracy, according to results published in Nature on Sept. 23."
     },
     {
-      "title": "Quantum device simulates matter popping into existence",
-      "link": "https://phys.org/news/2026-09-quantum-device-simulates.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 23 Sep 2026 09:40:01 EDT",
-      "published_ts": 1790170801,
-      "summary": "A research team led by faculty at the Duke Quantum Center (DQC) has observed string-breaking dynamics related to particle-antiparticle formation on a quantum simulator, among the first such observations in quantum physics."
-    },
-    {
-      "title": "Physicists crack the math connecting ultraslow quantum magnetism to ultrafast black-hole physics",
-      "link": "https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 22 Sep 2026 18:00:03 EDT",
-      "published_ts": 1790114403,
-      "summary": "A team led by University at Buffalo physicists has found a mathematical solution that shows how a frustrated quantum magnet can transition from ultraslow behavior to ultrafast, highly entangled behavior resembling that of a black hole."
-    },
-    {
-      "title": "Light beam 'swims' upstream through a quantum fluid by violating Newton's third law",
-      "link": "https://phys.org/news/2026-09-upstream-quantum-fluid-violating-newton.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 22 Sep 2026 16:10:02 EDT",
-      "published_ts": 1790107802,
-      "summary": "Just as a leaf drifts along with a stream, objects in other moving fluids normally drift along with the flow. That is, unless they exert energy to move against it. Although it may be less intuitive, light waves or photons work similarly. To move against a stream of light, an object or particle, like…"
-    },
-    {
-      "title": "Quantum protocol securely verifies a device's position using stations 2 km apart",
-      "link": "https://phys.org/news/2026-09-quantum-protocol-device-position-stations.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 22 Sep 2026 09:40:03 EDT",
-      "published_ts": 1790084403,
-      "summary": "Reliably verifying the location of a device connected to the internet or other networks is important for various real-world applications. For instance, it could be valuable for authorizing financial transactions, securing communications and controlling who can access specific databases or services."
-    },
-    {
       "title": "For the first time, scientists watch sound jump between quantum states",
       "link": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Tue, 22 Sep 2026 09:17:20 EDT",
       "published_ts": 1790083040,
       "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation sound-based…"
-    },
-    {
-      "title": "Nuclear-spin swap extends room-temperature entanglement lifetime up to 240-fold",
-      "link": "https://phys.org/news/2026-09-nuclear-swap-room-temperature-entanglement.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 21 Sep 2026 12:40:08 EDT",
-      "published_ts": 1790008808,
-      "summary": "Researchers in China have extended the lifetime of entanglement in a room-temperature, solid-state system by up to a factor of 240. Led by Shuo Ren and Rui-Jian Liang at the University of Science and Technology of China in Hefei, the team transferred entangled states from the electron spins of solid…"
     },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
