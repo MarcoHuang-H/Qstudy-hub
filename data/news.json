@@ -1,6 +1,158 @@
 {
-  "generated_ts": 1790565418,
+  "generated_ts": 1790599458,
   "items": [
+    {
+      "title": "Quandela Seeks South Korean Partners for Photonic Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/09/28/quandela-south-korea-photonic-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 28 Sep 2026 11:16:47 +0000",
+      "published_ts": 1790594207,
+      "summary": "Insider Brief French photonic quantum computing company Quandela intends to spend the next two years lining up strategic partners in South Korea, with joint work expected to cover quantum chip manufacturing, system integration, demonstration, and real-world operation, Seoul Economic Daily reported.…"
+    },
+    {
+      "title": "Researchers Identify Limits on Quantum Battery Energy And Power Stability",
+      "link": "https://thequantuminsider.com/2026/09/28/researchers-identify-limits-on-quantum-battery-energy-and-power-stability/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 28 Sep 2026 11:00:55 +0000",
+      "published_ts": 1790593255,
+      "summary": "Insider Brief PRESS RELEASE &#8212; New research identifies fundamental limits on the reliability of quantum batteries and shows how charging strategies can balance high power with stable energy and power delivery. The findings represent an important step toward the future development of practical a…"
+    },
+    {
+      "title": "Quantum Cyber’s Strategic Focus Includes Quantum Navigation",
+      "link": "https://thequantuminsider.com/2026/09/28/quantum-cybers-strategic-focus-includes-quantum-navigation/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 28 Sep 2026 07:54:55 +0000",
+      "published_ts": 1790582095,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Cyber N.V. (Nasdaq: QUCY) (&#8220;Quantum Cyber&#8221; or the &#8220;Company&#8221;), a Nasdaq-listed autonomous defense technology company assembling an AI-powered System-of-Systems platform for drone warfare, counter-UAS, and border security applications…"
+    },
+    {
+      "title": "Cosmic Lockdown: How The Environment Can Isolate Quantum Fields",
+      "link": "https://thequantuminsider.com/2026/09/28/cosmic-lockdown-how-the-environment-can-isolate-quantum-fields/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 28 Sep 2026 07:27:07 +0000",
+      "published_ts": 1790580427,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The vacuum is not always so empty. &#8220;When we talk about a vacuum in cosmology, we do not mean completely devoid of energy,&#8221; explains David Wands, Professor at the Institute of Cosmology &#38; Gravitation at the University of Portsmouth. &#8220;A vacuum…"
+    },
+    {
+      "title": "Attosecond topological interference beyond Floquet-Volkov paths",
+      "link": "https://arxiv.org/abs/2609.30282",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30282v1 Announce Type: new  Abstract: Combining attosecond science with semiconductor physics provides a promising interdisciplinary platform for the attosecond control of semiconducting properties. In each field, the reconstruction of attosecond beating by interference of two-photon tran…"
+    },
+    {
+      "title": "Restricting Trainable Lie-Algebra Growth in Equivariant Quantum Networks via Hierarchical Ancilla-Controlled Subspace Projections",
+      "link": "https://arxiv.org/abs/2609.30283",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30283v1 Announce Type: new  Abstract: Equivariant quantum networks encode symmetry as an inductive bias, which can improve generalization and may also favor optimization convergence. Equivariance alone, however, does not constrain the noncommuting closure of trainable generators, and this…"
+    },
+    {
+      "title": "Non-abelian quantum cellular automata: $1{+}1$-dimensional $SU(2)$ Yang--Mills with fermions",
+      "link": "https://arxiv.org/abs/2609.30285",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30285v1 Announce Type: new  Abstract: This work provides a digital quantum simulation scheme for $1{+}1$-dimensional $SU(2)$ Yang--Mills theory with Dirac fermions. It takes the form of a quantum circuit, infinitely repeating across space and time with $\\Delta_t=\\Delta_x=\\varepsilon$, who…"
+    },
+    {
+      "title": "Quantum advantage in learning single mode bosonic channels",
+      "link": "https://arxiv.org/abs/2609.30374",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30374v1 Announce Type: new  Abstract: Quantum resources can dramatically reduce the data required to learn physical systems, with exponential improvements in sample complexity demonstrated in several quantum learning tasks. However, these advantages have typically relied on quantum resour…"
+    },
+    {
+      "title": "A Mechanism for the R\\'enyi Hierarchy of Decoherence-Induced Phase Transitions",
+      "link": "https://arxiv.org/abs/2609.30377",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30377v1 Announce Type: new  Abstract: Decoherence-induced phase transitions (DIPTs) are associated with singular changes in a quantum system's entanglement structure as the decoherence strength varies. In many cases, their critical strengths depend monotonically on the R\\'enyi index of th…"
+    },
+    {
+      "title": "Colored Weingarten Calculus for Block-Unitary Ensemble",
+      "link": "https://arxiv.org/abs/2609.30385",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30385v1 Announce Type: new  Abstract: Haar randomness is the standard null model for quantum typicality, scrambling, and random-matrix formulations of thermalization. In many physical settings, however, randomness is naturally constrained to subspaces of Hilbert space. This structure aris…"
+    },
+    {
+      "title": "R\\'enyi Phase Transitions and Analytic Continuation to the von Neumann Entropy",
+      "link": "https://arxiv.org/abs/2609.30386",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30386v1 Announce Type: new  Abstract: Extracting operationally meaningful quantities such as von Neumann entropy and mutual information is central to characterizing many-body quantum systems, yet experiments and numerics often provide direct access only to integer R\\'enyi entropies. Where…"
+    },
+    {
+      "title": "Optimal noisy sequential multiparameter quantum sensing",
+      "link": "https://arxiv.org/abs/2609.30398",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30398v1 Announce Type: new  Abstract: The most general strategy for estimating parameters of a quantum channel is to probe the channel many times sequentially with the help of coherent ancillary systems. However, finding the strategy that minimizes the mean-squared error (MSE) is a notori…"
+    },
+    {
+      "title": "Three-uniform edge-ordered hypergraph quantum states: entanglement and its relation to hypergraph properties",
+      "link": "https://arxiv.org/abs/2609.30399",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30399v1 Announce Type: new  Abstract: The encoding of 3-uniform edge-ordered weighted hypergraphs into multiqubit quantum states is proposed. We derive an analytical expression for the geometric measure of entanglement of hypergraph quantum states and establish its relation to hypergraph…"
+    },
+    {
+      "title": "Generation of Photonic Graph States with minimal number of quantum emitters",
+      "link": "https://arxiv.org/abs/2609.30400",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30400v1 Announce Type: new  Abstract: Graph states are a fundamental resource for measurement and fusion-based quantum computing, quantum networks, and sensing. Preparing them in a photonic system deterministically is, in principle, possible, but finding efficient schemes to prepare them…"
+    },
+    {
+      "title": "Construction of Partial Join Graphs with Perfect State Transfer in Shunt Decomposition-Based Quantum Walks",
+      "link": "https://arxiv.org/abs/2609.30490",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30490v1 Announce Type: new  Abstract: In this paper, we define directed partial join graphs with signed couplings and construct discrete-time quantum-walk transition operators for these graphs using the shunt-decomposition framework. The resulting transition operators apply to several imp…"
+    },
+    {
+      "title": "Disentangling Expressibility, Symmetry Protection, and Hardware Noise in Variational Quantum Simulation of the Two-Flavor Schwinger Model",
+      "link": "https://arxiv.org/abs/2609.30496",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30496v1 Announce Type: new  Abstract: Existing quantum simulations of the two-flavor Schwinger model have run at a single lattice size, and it is not known how far the variational approach can be pushed or which weakness stops it first. Following the model from N = 2 to 6 staggered lattic…"
+    },
+    {
+      "title": "Encryptability As a Coordinate Choice: Depth-One Homomorphic Federated Learning of Quantum Neural Networks",
+      "link": "https://arxiv.org/abs/2609.30581",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30581v1 Announce Type: new  Abstract: Encrypted training relies on keeping server-side updates low-degree. This constraint traditionally excludes models whose weights inhabit a compact Lie group (notably variational quantum circuits, where every trainable weight is an $\\mathrm{SU(2)}$ rot…"
+    },
+    {
+      "title": "A Novel $q$-Derivative Framework with Applications to $q$-Deformed Thermodynamics and Leakage Suppression in Superconducting Qubits",
+      "link": "https://arxiv.org/abs/2609.30632",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30632v1 Announce Type: new  Abstract: We propose a new $q$-derivative operator built directly from Jackson's $q$-number formulation, designed to preserve the structural properties of standard differential calculus while incorporating deformation effects. By analyzing $q$-deformed Heisenbe…"
+    },
+    {
+      "title": "A Generalized Stein Lemma for Quantum Channels",
+      "link": "https://arxiv.org/abs/2609.30762",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790568000,
+      "summary": "arXiv:2609.30762v1 Announce Type: new  Abstract: We prove a generalized quantum Stein lemma for parallel discrimination of an arbitrary finite-dimensional channel against families of alternative channels. The alternatives are compact and convex, closed under tensor products, and contain a faithful r…"
+    },
     {
       "title": "Sebastian Hassinger (The New Quantum Era): why neutral atoms lead the qubit race for now",
       "link": "https://thequantuminsider.com/2026/09/26/sebastian-hassinger-the-new-quantum-era-why-neutral-atoms-lead-the-qubit-race-for-now/",
@@ -82,44 +234,12 @@
       "summary": "Insider Brief India&#8217;s Defence Research and Development Organisation (DRDO) has entered its first high-value deep-tech project agreement under the Technology Development Fund scheme, partnering with start-up Zero mK India Private Limited to build an indigenous 20 mK dilution refrigerator for qu…"
     },
     {
-      "title": "China’s Qingxing Raises Nearly 100 Million Yuan to Develop Quantum-Inspired AI",
-      "link": "https://thequantuminsider.com/2026/09/25/chinas-qingxing-raises-nearly-100-million-yuan-to-develop-quantum-inspired-ai/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 25 Sep 2026 12:06:19 +0000",
-      "published_ts": 1790337979,
-      "summary": "Insider Brief Qingxing Heterogeneous Computing completed a Series A+ funding round, bringing its total raised across two rounds in three months to nearly 100 million yuan (about $14.9 million) to develop quantum-inspired AI. Its RiverONE model runs on conventional GPUs and reportedly achieved at lea…"
-    },
-    {
       "title": "Random access quantum memory lets one processor select among seven storage cells",
       "link": "https://phys.org/news/2026-09-random-access-quantum-memory-processor.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 25 Sep 2026 08:00:01 EDT",
       "published_ts": 1790337601,
       "summary": "Classical computers can temporarily store the information required to perform specific tasks in a short-term memory component known as RAM (random access memory). This component allows computer processors to retrieve information from a chosen location without searching through all stored data."
-    },
-    {
-      "title": "CGI Federal, DLA and UT Knoxville Study Quantum Computing for Logistics",
-      "link": "https://thequantuminsider.com/2026/09/25/dla-ut-knoxville-applied-research-agreement/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 25 Sep 2026 11:54:54 +0000",
-      "published_ts": 1790337294,
-      "summary": "Insider Brief PRESS RELEASE &#8212; CGI Federal Inc. (CGI Federal), a leading provider of technology and professional services for the U.S. government, today announced that it has entered into an agreement with the U.S. Defense Logistics Agency (DLA) and the University of Tennessee, Knoxville (UT) t…"
-    },
-    {
-      "title": "Chinese Scientists Say Compact Quantum Magnetometer Tracks Hidden Targets in Field Tests",
-      "link": "https://thequantuminsider.com/2026/09/25/chinese-scientists-say-compact-quantum-magnetometer-tracks-hidden-targets-in-field-tests/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 25 Sep 2026 11:32:11 +0000",
-      "published_ts": 1790335931,
-      "summary": "Insider Brief Chinese researchers developed a compact quantum magnetometer that detected underground train activity, located a buried magnet and monitored a geomagnetic storm in field tests. The instrument uses a small sensing probe &#8212; about the the size of two dice placed side by side &#8212;…"
-    },
-    {
-      "title": "Mphasis and Copa Airlines Host Quantum Computing Challenge for Airline Optimization",
-      "link": "https://thequantuminsider.com/2026/09/25/mphasis-copa-airlines-quantum-computing-challenge/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 25 Sep 2026 09:54:38 +0000",
-      "published_ts": 1790330078,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Mphasis, (BSE: 526299; NSE: MPHASIS), a global AI-led, platform-driven technology solutions provider, in partnership with Copa Airlines, recently hosted a Quantum Computing Challenge, an international innovation contest. The challenge brought together teams from v…"
     },
     {
       "title": "Cosmic lockdown: How the environment can isolate quantum fields",
