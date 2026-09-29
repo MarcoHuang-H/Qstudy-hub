@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1790654067,
+  "generated_ts": 1790683247,
   "items": [
+    {
+      "title": "EigenQ and Silicon Valley Acquisition Corp. File S-4 for Proposed Business Combination",
+      "link": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 29 Sep 2026 11:21:57 +0000",
+      "published_ts": 1790680917,
+      "summary": "Insider Brief PRESS RELEASE &#8212; EigenQ, Inc. (&#8220;EigenQ&#8221; or the &#8220;Company&#8221;) and Silicon Valley Acquisition Corp. (Nasdaq: SVAQ) (&#8220;SVAQ&#8221;) today announced the public filing with the U.S. Securities and Exchange Commission (&#8220;SEC&#8221;) of a registration state…"
+    },
+    {
+      "title": "CTM and Huawei Launch Integrated QKD Network in Macao",
+      "link": "https://thequantuminsider.com/2026/09/29/ctm-huawei-integrated-qkd-network-macao/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 29 Sep 2026 11:15:58 +0000",
+      "published_ts": 1790680558,
+      "summary": "Insider Brief PRESS RELEASE &#8212; To counter the emerging network security challenges posed by quantum computing, CTM has actively embraced the national quantum strategy. It is designing a quantum-secured framework to build an integrated QKD-communication network security foundation, further enhan…"
+    },
+    {
+      "title": "UIC Joins Midwest Quantum Collaboratory",
+      "link": "https://thequantuminsider.com/2026/09/29/uic-joins-midwest-quantum-collaboratory/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 29 Sep 2026 09:11:55 +0000",
+      "published_ts": 1790673115,
+      "summary": "Insider Brief PRESS RELEASE &#8212; UIC has joined the Midwest Quantum Collaboratory, a consortium of eight universities shaping quantum technology’s future through collaborative research, innovation and workforce development.&#160; “UIC is claiming a larger presence in this constantly evolving quan…"
+    },
+    {
+      "title": "C12 and Thales Develop QuantumTrack for Real-Time Radar Tracking",
+      "link": "https://thequantuminsider.com/2026/09/29/c12-thales-quantumtrack-real-time-radar-tracking/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 29 Sep 2026 09:03:14 +0000",
+      "published_ts": 1790672594,
+      "summary": "Insider Brief PRESS RELEASE &#8212; C12, the French quantum computing company building carbon nanotube spin-qubit processors, and Thales, the global technology leader in Aerospace, Defence, and Cyber &#38; Digital, today announced QuantumTrack, a hybrid quantum-classical solution for real-time multi…"
+    },
+    {
+      "title": "Simula to Lead Quantum Software Testing and Integration for EU Project",
+      "link": "https://thequantuminsider.com/2026/09/29/simula-to-lead-quantum-software-testing-and-integration-for-eu-project/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 29 Sep 2026 08:11:44 +0000",
+      "published_ts": 1790669504,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computing promises unprecedented processing power, with the potential to transform fields from medicine to finance. However, today’s quantum computers operate in a noisy, error-prone environment, and their programming tools remain fragmented across differe…"
+    },
+    {
+      "title": "One Giant Leap: Researchers Demonstrate Programmable Quantum Photonic Processor in Orbit",
+      "link": "https://thequantuminsider.com/2026/09/29/one-giant-leap-researchers-demonstrate-programmable-quantum-photonic-processor-in-orbit/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 29 Sep 2026 07:44:41 +0000",
+      "published_ts": 1790667881,
+      "summary": "Insider Brief Researchers have operated a programmable quantum photonic processor in orbit, demonstrating a light-based computing capability that could eventually help satellites analyze data before sending it to Earth. The experiment used two photons traveling through a circuit with six optical pat…"
+    },
     {
       "title": "Experimental evidence of altermagnetism in a layered material opens a promising path toward future spintronics",
       "link": "https://phys.org/news/2026-09-experimental-evidence-altermagnetism-layered-material.html",
@@ -72,174 +120,6 @@
       "published": "Mon, 28 Sep 2026 13:18:01 +0000",
       "published_ts": 1790601481,
       "summary": "Insider Brief PRESS RELEASE &#8212; Occam Foundry, a commercialization campus for quantum technology planned for 16.5 acres in southeastern Travis County, announces a letter of support from Austin Mayor Kirk Watson and a signed memorandum of understanding with The University of Texas at Austin, acti…"
-    },
-    {
-      "title": "KIST Connects Korean Quantum Startups With U.S. Partners at QWC 2026",
-      "link": "https://thequantuminsider.com/2026/09/28/kist-korean-quantum-startups-us-partners-qwc-2026/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 28 Sep 2026 12:56:39 +0000",
-      "published_ts": 1790600199,
-      "summary": "Insider Brief PRESS RELEASE &#8212;  The Korea Institute of Science and Technology (KIST) has successfully led a delegation of South Korean quantum deep-tech startups at Quantum World Congress (QWC) 2026, establishing key international partnerships and expanding their footprint into the U.S. market.…"
-    },
-    {
-      "title": "CEA-Leti and Quobly Strengthen Their Collaboration to Accelerate the Development of Next-Generation Silicon Quantum Technologies",
-      "link": "https://thequantuminsider.com/2026/09/28/cea-leti-and-quobly-strengthen-their-collaboration-to-accelerate-the-development-of-next-generation-silicon-quantum-technologies/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 28 Sep 2026 12:52:25 +0000",
-      "published_ts": 1790599945,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quobly, a French company developing silicon-based quantum computers, and CEA-Leti, a leading research institute in microelectronics and information technologies, are strengthening their long-standing collaboration through access to the FAMES Pilot Line, which comp…"
-    },
-    {
-      "title": "Pasqal Shifts French Public Collaboration Toward Commercial Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/09/28/pasqal-collaboration-french-public-authorities/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 28 Sep 2026 12:45:40 +0000",
-      "published_ts": 1790599540,
-      "summary": "Insider Brief PRESS RELEASE &#8212;  Pasqal (NASDAQ: PSQL) is announcing an evolution of the areas of its collaboration with the French public authorities to now focus on commercial applications, in line with the company’s growth strategy and innovation priorities.  This evolution includes the termi…"
-    },
-    {
-      "title": "UCL and Siloton Adapt Quantum-Enabled Eye Imaging for Children",
-      "link": "https://thequantuminsider.com/2026/09/28/ucl-siloton-quantum-eye-imaging-children/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 28 Sep 2026 12:27:50 +0000",
-      "published_ts": 1790598470,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at the University College London (UCL) Great Ormond Street Institute of Child Health are teaming up with Bristol-based start-up Siloton on a project that could help prevent sight loss in children by adapting a groundbreaking new eye imaging technology.…"
-    },
-    {
-      "title": "Quandela Seeks South Korean Partners for Photonic Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/09/28/quandela-south-korea-photonic-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 28 Sep 2026 11:16:47 +0000",
-      "published_ts": 1790594207,
-      "summary": "Insider Brief French photonic quantum computing company Quandela intends to spend the next two years lining up strategic partners in South Korea, with joint work expected to cover quantum chip manufacturing, system integration, demonstration, and real-world operation, Seoul Economic Daily reported.…"
-    },
-    {
-      "title": "Researchers Identify Limits on Quantum Battery Energy And Power Stability",
-      "link": "https://thequantuminsider.com/2026/09/28/researchers-identify-limits-on-quantum-battery-energy-and-power-stability/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 28 Sep 2026 11:00:55 +0000",
-      "published_ts": 1790593255,
-      "summary": "Insider Brief PRESS RELEASE &#8212; New research identifies fundamental limits on the reliability of quantum batteries and shows how charging strategies can balance high power with stable energy and power delivery. The findings represent an important step toward the future development of practical a…"
-    },
-    {
-      "title": "Attosecond topological interference beyond Floquet-Volkov paths",
-      "link": "https://arxiv.org/abs/2609.30282",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30282v1 Announce Type: new  Abstract: Combining attosecond science with semiconductor physics provides a promising interdisciplinary platform for the attosecond control of semiconducting properties. In each field, the reconstruction of attosecond beating by interference of two-photon tran…"
-    },
-    {
-      "title": "Restricting Trainable Lie-Algebra Growth in Equivariant Quantum Networks via Hierarchical Ancilla-Controlled Subspace Projections",
-      "link": "https://arxiv.org/abs/2609.30283",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30283v1 Announce Type: new  Abstract: Equivariant quantum networks encode symmetry as an inductive bias, which can improve generalization and may also favor optimization convergence. Equivariance alone, however, does not constrain the noncommuting closure of trainable generators, and this…"
-    },
-    {
-      "title": "Non-abelian quantum cellular automata: $1{+}1$-dimensional $SU(2)$ Yang--Mills with fermions",
-      "link": "https://arxiv.org/abs/2609.30285",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30285v1 Announce Type: new  Abstract: This work provides a digital quantum simulation scheme for $1{+}1$-dimensional $SU(2)$ Yang--Mills theory with Dirac fermions. It takes the form of a quantum circuit, infinitely repeating across space and time with $\\Delta_t=\\Delta_x=\\varepsilon$, who…"
-    },
-    {
-      "title": "Quantum advantage in learning single mode bosonic channels",
-      "link": "https://arxiv.org/abs/2609.30374",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30374v1 Announce Type: new  Abstract: Quantum resources can dramatically reduce the data required to learn physical systems, with exponential improvements in sample complexity demonstrated in several quantum learning tasks. However, these advantages have typically relied on quantum resour…"
-    },
-    {
-      "title": "A Mechanism for the R\\'enyi Hierarchy of Decoherence-Induced Phase Transitions",
-      "link": "https://arxiv.org/abs/2609.30377",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30377v1 Announce Type: new  Abstract: Decoherence-induced phase transitions (DIPTs) are associated with singular changes in a quantum system's entanglement structure as the decoherence strength varies. In many cases, their critical strengths depend monotonically on the R\\'enyi index of th…"
-    },
-    {
-      "title": "Colored Weingarten Calculus for Block-Unitary Ensemble",
-      "link": "https://arxiv.org/abs/2609.30385",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30385v1 Announce Type: new  Abstract: Haar randomness is the standard null model for quantum typicality, scrambling, and random-matrix formulations of thermalization. In many physical settings, however, randomness is naturally constrained to subspaces of Hilbert space. This structure aris…"
-    },
-    {
-      "title": "R\\'enyi Phase Transitions and Analytic Continuation to the von Neumann Entropy",
-      "link": "https://arxiv.org/abs/2609.30386",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30386v1 Announce Type: new  Abstract: Extracting operationally meaningful quantities such as von Neumann entropy and mutual information is central to characterizing many-body quantum systems, yet experiments and numerics often provide direct access only to integer R\\'enyi entropies. Where…"
-    },
-    {
-      "title": "Optimal noisy sequential multiparameter quantum sensing",
-      "link": "https://arxiv.org/abs/2609.30398",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30398v1 Announce Type: new  Abstract: The most general strategy for estimating parameters of a quantum channel is to probe the channel many times sequentially with the help of coherent ancillary systems. However, finding the strategy that minimizes the mean-squared error (MSE) is a notori…"
-    },
-    {
-      "title": "Three-uniform edge-ordered hypergraph quantum states: entanglement and its relation to hypergraph properties",
-      "link": "https://arxiv.org/abs/2609.30399",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30399v1 Announce Type: new  Abstract: The encoding of 3-uniform edge-ordered weighted hypergraphs into multiqubit quantum states is proposed. We derive an analytical expression for the geometric measure of entanglement of hypergraph quantum states and establish its relation to hypergraph…"
-    },
-    {
-      "title": "Generation of Photonic Graph States with minimal number of quantum emitters",
-      "link": "https://arxiv.org/abs/2609.30400",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30400v1 Announce Type: new  Abstract: Graph states are a fundamental resource for measurement and fusion-based quantum computing, quantum networks, and sensing. Preparing them in a photonic system deterministically is, in principle, possible, but finding efficient schemes to prepare them…"
-    },
-    {
-      "title": "Construction of Partial Join Graphs with Perfect State Transfer in Shunt Decomposition-Based Quantum Walks",
-      "link": "https://arxiv.org/abs/2609.30490",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30490v1 Announce Type: new  Abstract: In this paper, we define directed partial join graphs with signed couplings and construct discrete-time quantum-walk transition operators for these graphs using the shunt-decomposition framework. The resulting transition operators apply to several imp…"
-    },
-    {
-      "title": "Disentangling Expressibility, Symmetry Protection, and Hardware Noise in Variational Quantum Simulation of the Two-Flavor Schwinger Model",
-      "link": "https://arxiv.org/abs/2609.30496",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30496v1 Announce Type: new  Abstract: Existing quantum simulations of the two-flavor Schwinger model have run at a single lattice size, and it is not known how far the variational approach can be pushed or which weakness stops it first. Following the model from N = 2 to 6 staggered lattic…"
-    },
-    {
-      "title": "Encryptability As a Coordinate Choice: Depth-One Homomorphic Federated Learning of Quantum Neural Networks",
-      "link": "https://arxiv.org/abs/2609.30581",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30581v1 Announce Type: new  Abstract: Encrypted training relies on keeping server-side updates low-degree. This constraint traditionally excludes models whose weights inhabit a compact Lie group (notably variational quantum circuits, where every trainable weight is an $\\mathrm{SU(2)}$ rot…"
-    },
-    {
-      "title": "A Novel $q$-Derivative Framework with Applications to $q$-Deformed Thermodynamics and Leakage Suppression in Superconducting Qubits",
-      "link": "https://arxiv.org/abs/2609.30632",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30632v1 Announce Type: new  Abstract: We propose a new $q$-derivative operator built directly from Jackson's $q$-number formulation, designed to preserve the structural properties of standard differential calculus while incorporating deformation effects. By analyzing $q$-deformed Heisenbe…"
-    },
-    {
-      "title": "A Generalized Stein Lemma for Quantum Channels",
-      "link": "https://arxiv.org/abs/2609.30762",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 28 Sep 2026 00:00:00 -0400",
-      "published_ts": 1790568000,
-      "summary": "arXiv:2609.30762v1 Announce Type: new  Abstract: We prove a generalized quantum Stein lemma for parallel discrimination of an arbitrary finite-dimensional channel against families of alternative channels. The alternatives are compact and convex, closed under tensor products, and contain a faithful r…"
     },
     {
       "title": "Ultrathin materials could make quantum light circuits programmable",
