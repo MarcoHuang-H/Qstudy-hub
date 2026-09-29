@@ -1,53 +1,93 @@
 {
-  "generated_ts": 1790683247,
+  "generated_ts": 1790718409,
   "items": [
     {
-      "title": "EigenQ and Silicon Valley Acquisition Corp. File S-4 for Proposed Business Combination",
-      "link": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/",
+      "title": "Roadrunner Quantum Lab to Open Its Doors in Albuquerque With First Eleven Tenants",
+      "link": "https://thequantuminsider.com/2026/09/29/roadrunner-quantum-lab-to-open-its-doors-in-albuquerque-with-first-eleven-tenants/",
       "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 11:21:57 +0000",
-      "published_ts": 1790680917,
-      "summary": "Insider Brief PRESS RELEASE &#8212; EigenQ, Inc. (&#8220;EigenQ&#8221; or the &#8220;Company&#8221;) and Silicon Valley Acquisition Corp. (Nasdaq: SVAQ) (&#8220;SVAQ&#8221;) today announced the public filing with the U.S. Securities and Exchange Commission (&#8220;SEC&#8221;) of a registration state…"
+      "published": "Tue, 29 Sep 2026 18:45:40 +0000",
+      "published_ts": 1790707540,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Roadrunner Venture Studios and New Mexico’s Technology and Innovation Office (TIO) today debuted the Roadrunner Quantum Lab (RQL) Powered by the State of New Mexico. Built in Albuquerque’s Innovation District, the new 35,000-square-foot will be an anchor facility…"
     },
     {
-      "title": "CTM and Huawei Launch Integrated QKD Network in Macao",
-      "link": "https://thequantuminsider.com/2026/09/29/ctm-huawei-integrated-qkd-network-macao/",
+      "title": "Xanadu and Bluefors Develop Cryogenic Infrastructure for Utility-Scale Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/09/29/xanadu-bluefors-cryogenic-infrastructure-utility-scale-quantum/",
       "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 11:15:58 +0000",
-      "published_ts": 1790680558,
-      "summary": "Insider Brief PRESS RELEASE &#8212; To counter the emerging network security challenges posed by quantum computing, CTM has actively embraced the national quantum strategy. It is designing a quantum-secured framework to build an integrated QKD-communication network security foundation, further enhan…"
+      "published": "Tue, 29 Sep 2026 17:25:45 +0000",
+      "published_ts": 1790702745,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, and Bluefors, the industry-leader in cryogenic solutions, announced today a strategic partnership to develop a novel, high-performance cryogenic prototy…"
     },
     {
-      "title": "UIC Joins Midwest Quantum Collaboratory",
-      "link": "https://thequantuminsider.com/2026/09/29/uic-joins-midwest-quantum-collaboratory/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 09:11:55 +0000",
-      "published_ts": 1790673115,
-      "summary": "Insider Brief PRESS RELEASE &#8212; UIC has joined the Midwest Quantum Collaboratory, a consortium of eight universities shaping quantum technology’s future through collaborative research, innovation and workforce development.&#160; “UIC is claiming a larger presence in this constantly evolving quan…"
+      "title": "Rotating light pattern reveals laser frequency in a single image",
+      "link": "https://phys.org/news/2026-09-rotating-pattern-reveals-laser-frequency.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 29 Sep 2026 11:40:10 EDT",
+      "published_ts": 1790696410,
+      "summary": "An international team of physicists has developed a new method for determining the precise color of laser light using an image that rotates as the laser's frequency shifts."
     },
     {
-      "title": "C12 and Thales Develop QuantumTrack for Real-Time Radar Tracking",
-      "link": "https://thequantuminsider.com/2026/09/29/c12-thales-quantumtrack-real-time-radar-tracking/",
+      "title": "Cloudflare Plans Public Certificate Authority for Post-Quantum Security",
+      "link": "https://thequantuminsider.com/2026/09/29/cloudflare-public-certificate-authority-post-quantum-securit/",
       "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 09:03:14 +0000",
-      "published_ts": 1790672594,
-      "summary": "Insider Brief PRESS RELEASE &#8212; C12, the French quantum computing company building carbon nanotube spin-qubit processors, and Thales, the global technology leader in Aerospace, Defence, and Cyber &#38; Digital, today announced QuantumTrack, a hybrid quantum-classical solution for real-time multi…"
+      "published": "Tue, 29 Sep 2026 14:11:10 +0000",
+      "published_ts": 1790691070,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Cloudflare, Inc. (NYSE: NET), the leading connectivity cloud company, today announced its intent to become a public Certificate Authority (CA), an open service that issues the digital certificates websites need to encrypt traffic and prove their identity to visito…"
     },
     {
-      "title": "Simula to Lead Quantum Software Testing and Integration for EU Project",
-      "link": "https://thequantuminsider.com/2026/09/29/simula-to-lead-quantum-software-testing-and-integration-for-eu-project/",
+      "title": "Project Eleven Acquires Riva Labs for Post-Quantum Security",
+      "link": "https://thequantuminsider.com/2026/09/29/project-eleven-acquires-riva-labs-post-quantum-security/",
       "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 08:11:44 +0000",
-      "published_ts": 1790669504,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computing promises unprecedented processing power, with the potential to transform fields from medicine to finance. However, today’s quantum computers operate in a noisy, error-prone environment, and their programming tools remain fragmented across differe…"
+      "published": "Tue, 29 Sep 2026 14:05:59 +0000",
+      "published_ts": 1790690759,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Project Eleven, the company building post-quantum security infrastructure for digital assets, today announced its acquisition of Riva Labs, expanding its expertise in post-quantum signatures, wallets, MPC, and account abstraction. The acquisition also brings techn…"
     },
     {
-      "title": "One Giant Leap: Researchers Demonstrate Programmable Quantum Photonic Processor in Orbit",
-      "link": "https://thequantuminsider.com/2026/09/29/one-giant-leap-researchers-demonstrate-programmable-quantum-photonic-processor-in-orbit/",
+      "title": "Quantum Computing Explained – With Maple Syrup and Sunglasses",
+      "link": "https://thequantuminsider.com/2026/09/29/quantum-computing-explained-with-maple-syrup-and-sunglasses/",
       "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 07:44:41 +0000",
-      "published_ts": 1790667881,
-      "summary": "Insider Brief Researchers have operated a programmable quantum photonic processor in orbit, demonstrating a light-based computing capability that could eventually help satellites analyze data before sending it to Earth. The experiment used two photons traveling through a circuit with six optical pat…"
+      "published": "Tue, 29 Sep 2026 13:33:36 +0000",
+      "published_ts": 1790688816,
+      "summary": "The Insider Brief: A quantum computer is being tuned with maple syrup. Not metaphorically &#8211; actually. That&#8217;s the answer Ghislain Lefebvre, interim executive director of Institut quantique at Université de Sherbrooke, gives when asked the deliberately odd question that opens this episode…"
+    },
+    {
+      "title": "U.S., Europe Need Closer Cooperation to Build Quantum Industry, QED-C Official Says",
+      "link": "https://thequantuminsider.com/2026/09/29/u-s-europe-need-closer-cooperation-to-build-quantum-industry-qed-c-official-says/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 29 Sep 2026 13:30:47 +0000",
+      "published_ts": 1790688647,
+      "summary": "Insider Brief National, state and regional efforts to build quantum industries often capture the headlines. But the strengths that reach across those borders may prove to be just as important to their success, according to a senior industry consortium official writes in EE Times. According to Jonath…"
+    },
+    {
+      "title": "Infleqtion and Riverlane Partner on Quantum Error Correction",
+      "link": "https://thequantuminsider.com/2026/09/29/infleqtion-riverlane-quantum-error-correction/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 29 Sep 2026 12:19:53 +0000",
+      "published_ts": 1790684393,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral atom technology, today announced a memorandum of understanding (MOU) with Riverlane, a UK company specialising in quantum error correction. The companies will expl…"
+    },
+    {
+      "title": "Royal Bank of Canada Expands Quantum Strategy With New Director and University Partnerships",
+      "link": "https://thequantuminsider.com/2026/09/29/rbc-quantum-strategy-director-university-partnerships/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 29 Sep 2026 12:12:58 +0000",
+      "published_ts": 1790683978,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Royal Bank of Canada (RBC) is advancing its quantum strategy with the appointment of a Director of Quantum, the signing of two strategic partnerships with leading Canadian universities and a multi-year roadmap to drive innovation while ensuring quantum-safe operat…"
+    },
+    {
+      "title": "Terra Quantum and Empa Develop AI Model for Laser Welding Prediction",
+      "link": "https://thequantuminsider.com/2026/09/29/terra-quantum-empa-ai-laser-welding-prediction/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 29 Sep 2026 11:59:10 +0000",
+      "published_ts": 1790683150,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Terra Quantum, a global leader in quantum technologies, and Empa, the Swiss Federal Laboratories for Materials Science and Technology, announced LP-FNO (Laser Processing Fourier Neural Operator), an artificial intelligence surrogate model that predicts full three-…"
+    },
+    {
+      "title": "UCSB Researchers Join Three NSF Quantum Leap Challenge Institutes",
+      "link": "https://thequantuminsider.com/2026/09/29/ucsb-researchers-three-nsf-quantum-leap-institutes/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 29 Sep 2026 11:45:00 +0000",
+      "published_ts": 1790682300,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Through the National Science Foundation’s Quantum Leap Challenge Institutes (QLCI) program, several UC Santa Barbara researchers are poised to tackle hurdles on the road to building widespread, powerful quantum-based technologies. “We are very proud that UC Santa…"
     },
     {
       "title": "Experimental evidence of altermagnetism in a layered material opens a promising path toward future spintronics",
@@ -74,30 +114,6 @@
       "summary": "There's big news from the quantum world. A quantum computer has been used in space for the first time. The device was aboard a spacecraft in low Earth orbit and demonstrated technology that could eventually help solve a problem that has been bugging satellites for years."
     },
     {
-      "title": "Donate & Join Us! Trick, Treat, and Quantum Physics: Kai Brings Halloween to ETH Zürich",
-      "link": "https://thequantuminsider.com/2026/09/28/donate-join-us-trick-treat-and-quantum-physics-kai-brings-halloween-to-eth-zurich/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 28 Sep 2026 16:21:41 +0000",
-      "published_ts": 1790612501,
-      "summary": "Insider Brief Halloween is just around the corner &#8211; and at ETH Zürich this year it&#8217;ll be blended with quantum physics! On October 31, 10-year-old Kai will take the stage at wow² Space dressed as the Grim Reaper, ready to ask some of the biggest questions in science in the way only a 10-y…"
-    },
-    {
-      "title": "FSU Receives $2.1 Million for Quantum Communication Testbed",
-      "link": "https://thequantuminsider.com/2026/09/28/fsu-2-1-million-quantum-communication-testbed/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 28 Sep 2026 15:54:32 +0000",
-      "published_ts": 1790610872,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Florida State University will establish a campus-scale quantum communication testing platform with $2.1 million in federal Community Project Funding through the National Institute of Standards and Technology, secured with support from U.S. Rep. Daniel Webster of F…"
-    },
-    {
-      "title": "India’s Finance Minister Places Quantum Among Next Major Infrastructure Investment Priorities",
-      "link": "https://thequantuminsider.com/2026/09/28/indias-finance-minister-places-quantum-among-next-major-infrastructure-investment-priorities/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 28 Sep 2026 14:06:47 +0000",
-      "published_ts": 1790604407,
-      "summary": "Insider Brief India’s next major infrastructure investments will include quantum technology alongside artificial intelligence and semiconductor chips, Finance Minister Nirmala Sitharaman said, according to the Hindustan Times. Speaking at a fireside chat organized by the IIT Madras Alumni Associatio…"
-    },
-    {
       "title": "Mapping one atom's interaction with light uncovers an unbounded network of quantum states",
       "link": "https://phys.org/news/2026-09-atom-interaction-uncovers-unbounded-network.html",
       "source": "Phys.org — Quantum Physics",
@@ -112,14 +128,6 @@
       "published": "Mon, 28 Sep 2026 09:20:01 EDT",
       "published_ts": 1790601601,
       "summary": "In a new study published in Physical Review Letters, researchers have shown that magnetic order can survive weak quantum fluctuations in disordered magnets that lack an energy gap. The work establishes robust ferromagnetism in the two-dimensional random-bond quantum Ising model, confirming a longsta…"
-    },
-    {
-      "title": "Occam Foundry Gains Austin and UT Austin Support for Quantum Campus",
-      "link": "https://thequantuminsider.com/2026/09/28/austin-mayor-ut-austin-support-occam-foundry/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 28 Sep 2026 13:18:01 +0000",
-      "published_ts": 1790601481,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Occam Foundry, a commercialization campus for quantum technology planned for 16.5 acres in southeastern Travis County, announces a letter of support from Austin Mayor Kirk Watson and a signed memorandum of understanding with The University of Texas at Austin, acti…"
     },
     {
       "title": "Ultrathin materials could make quantum light circuits programmable",
@@ -200,14 +208,6 @@
       "published": "Wed, 23 Sep 2026 17:20:04 EDT",
       "published_ts": 1790198404,
       "summary": "Scientists have shown that the two exponents (inelastic scattering exponent and dephasing exponent) commonly used to describe electron scattering in graphene do not necessarily follow the same behavior. Using gated epitaxial graphene, a multi-institutional team of researchers independently extracted…"
-    },
-    {
-      "title": "Scientists build world's most accurate atomic clock",
-      "link": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 23 Sep 2026 16:20:03 EDT",
-      "published_ts": 1790194803,
-      "summary": "Take a second and turn it into trillions of moments. Measure each one. That's how precisely an atomic clock at Singapore's Centre for Quantum Technologies (CQT) keeps time—and with record-setting accuracy, according to results published in Nature on Sept. 23."
     },
     {
       "title": "For the first time, scientists watch sound jump between quantum states",
