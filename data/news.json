@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1790789376,
+  "generated_ts": 1790804876,
   "items": [
+    {
+      "title": "3D light fields push electrons into quantum states previously beyond experimental reach",
+      "link": "https://phys.org/news/2026-09-3d-fields-electrons-quantum-states.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 30 Sep 2026 13:40:26 EDT",
+      "published_ts": 1790790026,
+      "summary": "By superimposing two ultrashort laser pulses that converge from different directions, a team of physicists at the University of Oldenburg has succeeded in generating three-dimensional light fields."
+    },
     {
       "title": "Zinc oxide quantum dots enable faster charge detection, laying groundwork for spin qubits",
       "link": "https://phys.org/news/2026-09-zinc-oxide-quantum-dots-enable.html",
@@ -328,14 +336,6 @@
       "published": "Fri, 25 Sep 2026 00:00:01 EDT",
       "published_ts": 1790308801,
       "summary": "A simplified cosmological model suggests that decoherence can suppress quantum tunneling, effectively locking fields into the vacuum state they have reached."
-    },
-    {
-      "title": "Higher-dimensional black holes hide an exact symmetry in their ringing, and string-inspired gravity breaks it",
-      "link": "https://phys.org/news/2026-09-higher-dimensional-black-holes-exact.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 24 Sep 2026 17:20:04 EDT",
-      "published_ts": 1790284804,
-      "summary": "Strike a bell, and it rings with a pitch and a fading that tell you about the bell: its size, its shape, the metal it is made of. Black holes ring too. When two merge, the newborn black hole shivers and sheds gravitational waves in a brief, dying chord, and since 2015, gravitational-wave detectors h…"
     },
     {
       "title": "For the first time, scientists watch sound jump between quantum states",
