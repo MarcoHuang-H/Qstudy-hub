@@ -1,6 +1,166 @@
 {
-  "generated_ts": 1790739731,
+  "generated_ts": 1790768948,
   "items": [
+    {
+      "title": "QuantLase Tests Photonic Computing Platform on Financial Market Data",
+      "link": "https://thequantuminsider.com/2026/09/30/quantlase-tests-photonic-computing-platform-on-financial-market-data/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 30 Sep 2026 11:02:17 +0000",
+      "published_ts": 1790766137,
+      "summary": "Insider Brief QuantLase Research and Development Center says it has tested an experimental light-based computing platform on seven financial market datasets, examining whether optical dynamics can process complex information that changes over time. The experiments evaluated how its Photonic Intellig…"
+    },
+    {
+      "title": "NATO Sets Quantum Roadmap For Military Trials And Secure Communications",
+      "link": "https://thequantuminsider.com/2026/09/30/nato-sets-quantum-roadmap-for-military-trials-and-secure-communications/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 30 Sep 2026 08:57:05 +0000",
+      "published_ts": 1790758625,
+      "summary": "Insider Brief NATO has set deadlines for testing quantum technologies in military operations and strengthening its defenses against quantum threats, turning its research ambitions into a schedule of trials, assessments and security projects. The alliance’s new Quantum Technology Roadmap calls for se…"
+    },
+    {
+      "title": "New Quantum Algorithm Targets Bottleneck in Fluid-Flow Modeling",
+      "link": "https://thequantuminsider.com/2026/09/30/new-quantum-algorithm-targets-bottleneck-in-fluid-flow-modeling/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 30 Sep 2026 08:23:30 +0000",
+      "published_ts": 1790756610,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at the Department of Energy’s Oak Ridge National Laboratory used the world’s fastest supercomputer for open science to develop a quantum algorithm that could lead to more advanced models in fluid dynamics and other scientific fields. The results of the…"
+    },
+    {
+      "title": "French National Quantum Update: September 2026",
+      "link": "https://thequantuminsider.com/2026/09/30/french-national-quantum-update-september-2026/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 30 Sep 2026 08:13:44 +0000",
+      "published_ts": 1790756024,
+      "summary": "Executive Summary The summer break is definitely over. France’s quantum sector focused on the manufacturing, software and commercial relationships needed to put quantum computers into wider use in September 2026. Quobly reported progress on chips made through an industrial semiconductor process, whi…"
+    },
+    {
+      "title": "Crystal spacing predicts magnetic states in complex alloys better than electron count",
+      "link": "https://phys.org/news/2026-09-crystal-spacing-magnetic-states-complex.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 30 Sep 2026 00:00:02 EDT",
+      "published_ts": 1790740802,
+      "summary": "In materials chemistry, identifying common parameters that can organize magnetic ground states across complex intermetallic compounds remains a central challenge. Researchers have long used chemically tunable parameters to control magnetic properties. One is valence-electron concentration, commonly…"
+    },
+    {
+      "title": "One-dimensional quantum Gibbs states in constant circuit depth",
+      "link": "https://arxiv.org/abs/2609.35973",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.35973v1 Announce Type: new  Abstract: We prove that the Gibbs state of any spin chain can be exactly decomposed into a mixture of product states over contiguous blocks of qubits with bounded length, at any constant temperature. As a consequence, any such Gibbs state can be prepared by loc…"
+    },
+    {
+      "title": "Deciding the Attainability of the Multiparameter Quantum Fisher Information is NP-Hard",
+      "link": "https://arxiv.org/abs/2609.35975",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.35975v1 Announce Type: new  Abstract: The quantum Fisher information (QFI) sets a fundamental bound on the attainable precision when estimating multiple parameters simultaneously. Incompatibility among the individually optimal measurements can, in some cases, imply that the precision limi…"
+    },
+    {
+      "title": "Chern-number estimation: nearly optimal quantum algorithm and provable quantum speedup",
+      "link": "https://arxiv.org/abs/2609.35978",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.35978v1 Announce Type: new  Abstract: Topological phases of matter are characterized by global properties of quantum states beyond conventional local order parameters. The Chern number is a central invariant in this characterization, linking the geometry of quantum states to robust physic…"
+    },
+    {
+      "title": "Characterizing quantum precision enhancement for multiple currents in open quantum systems",
+      "link": "https://arxiv.org/abs/2609.35982",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.35982v1 Announce Type: new  Abstract: The kinetic uncertainty relation (KUR) constrains fluctuations of individual currents in classical nonequilibrium systems in terms of the dynamical activity, which quantifies the average number of transitions per unit of time. Here, we derive a multi-…"
+    },
+    {
+      "title": "Asymptotically Optimal Mixed-State Cloning",
+      "link": "https://arxiv.org/abs/2609.35986",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.35986v1 Announce Type: new  Abstract: We determine asymptotic global fidelities of cloning generic mixed states with simple (non-degenerate) full-rank spectra. In fixed dimension $d$, let $n$ inputs and $m_n$ outputs satisfy $m_n/n\\to\\gamma>1$. For a known simple full-rank spectrum $p_1>\\…"
+    },
+    {
+      "title": "Out-of-time-order Correlators in Volcano potentials",
+      "link": "https://arxiv.org/abs/2609.35990",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.35990v1 Announce Type: new  Abstract: The out-of-time-order correlator (OTOC) has emerged as an important diagnostic for quantum information scrambling and a key signature of quantum chaos. In this work, we discuss out-of-time-order correlators, analytically and numerically, for the so-ca…"
+    },
+    {
+      "title": "Digital Quantum Algorithms for Generating and Utilizing Spin Squeezed States",
+      "link": "https://arxiv.org/abs/2609.36004",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.36004v1 Announce Type: new  Abstract: Spin squeezed states (SSSs) are conventionally viewed as analog resources for quantum metrology. Here we develop algorithms to efficiently generate and exploit SSSs on a digital quantum computer. We introduce an adaptive local-circuit protocol that pr…"
+    },
+    {
+      "title": "Fast Hamiltonian engineering from cut polytope geometry",
+      "link": "https://arxiv.org/abs/2609.36006",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.36006v1 Announce Type: new  Abstract: Hamiltonian engineering (HE) simulates quantum dynamics under a target Hamiltonian using a native entangling system Hamiltonian and restricted control, with applications from quantum gate design to analog quantum simulation. Observing that, for many s…"
+    },
+    {
+      "title": "Entanglement spectrum and magic in higher-dimensional free fermionic systems",
+      "link": "https://arxiv.org/abs/2609.36008",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.36008v1 Announce Type: new  Abstract: We study fermionic non-local magic in higher-dimensional free-fermion systems through the lens of the entanglement spectrum. For translationally invariant Gaussian states in strip geometries, dimensional reduction maps the problem to independent lower…"
+    },
+    {
+      "title": "Is rapid mixing stable?",
+      "link": "https://arxiv.org/abs/2609.36016",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.36016v1 Announce Type: new  Abstract: Several physically interesting Lindbladians, such as those describing generic open quantum system models as well as engineered state preparation processes, are often rapidly mixing, that is, they relax to steady states in time scaling polylogarithmica…"
+    },
+    {
+      "title": "Independent density and coherence skin effects in adaptive fermion circuits",
+      "link": "https://arxiv.org/abs/2609.36017",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.36017v1 Announce Type: new  Abstract: Adaptive circuits use measurements and outcome-conditioned feedback to implement nonreciprocal dynamics without postselection. We show that fermion circuits host independently tunable density and coherence skin effects. The stationary state has an exa…"
+    },
+    {
+      "title": "Out-of-Time-Ordered Correlators Beyond Lindblad",
+      "link": "https://arxiv.org/abs/2609.36029",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.36029v1 Announce Type: new  Abstract: Out-of-time-ordered correlators (OTOCs) provide a powerful probe of quantum chaos and scrambling. While the Lindblad formalism is often used to describe OTOCs in open systems, microscopic mechanisms that give rise to the Lindblad equation at the level…"
+    },
+    {
+      "title": "Quantum Estimation under Decoherence in Neutrino Oscillations: Quantum Resources, Flavor Accessibility, and Multiparameter Incompatibility",
+      "link": "https://arxiv.org/abs/2609.36038",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.36038v1 Announce Type: new  Abstract: Neutrino oscillations offer an interferometric setting for open-system dynamics, quantum resources, and parameter estimation. We distinguish two often-conflated statistical families: propagation-basis dephasing uses a survival factor $\\eta_p$ to damp…"
+    },
+    {
+      "title": "From Projected Subspaces to Full-Space Implementations: Representation-Equivalence Audits for Open-Shell ADAPT-VQE",
+      "link": "https://arxiv.org/abs/2609.36060",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.36060v1 Announce Type: new  Abstract: A variational state optimized in a symmetry-projected space need not be the state prepared by exponentiating the corresponding unprojected parent generators. For an orthogonal target-space projector $P$, $Q=I-P$, and an anti-Hermitian generator $A$, e…"
+    },
+    {
+      "title": "Witness-based quantification of non-Markovianity without complete Choi state reconstruction",
+      "link": "https://arxiv.org/abs/2609.36080",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "published_ts": 1790740800,
+      "summary": "arXiv:2609.36080v1 Announce Type: new  Abstract: Quantifying non-Markovianity is a fundamental problem in the theory of open quantum systems, as it is essential for exploiting environmental memory as a resource in quantum technologies. Existing resource-theoretic and operational quantifiers, however…"
+    },
     {
       "title": "Roadrunner Quantum Lab to Open Its Doors in Albuquerque With First Eleven Tenants",
       "link": "https://thequantuminsider.com/2026/09/29/roadrunner-quantum-lab-to-open-its-doors-in-albuquerque-with-first-eleven-tenants/",
@@ -56,38 +216,6 @@
       "published": "Tue, 29 Sep 2026 13:30:47 +0000",
       "published_ts": 1790688647,
       "summary": "Insider Brief National, state and regional efforts to build quantum industries often capture the headlines. But the strengths that reach across those borders may prove to be just as important to their success, according to a senior industry consortium official writes in EE Times. According to Jonath…"
-    },
-    {
-      "title": "Infleqtion and Riverlane Partner on Quantum Error Correction",
-      "link": "https://thequantuminsider.com/2026/09/29/infleqtion-riverlane-quantum-error-correction/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 12:19:53 +0000",
-      "published_ts": 1790684393,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral atom technology, today announced a memorandum of understanding (MOU) with Riverlane, a UK company specialising in quantum error correction. The companies will expl…"
-    },
-    {
-      "title": "Royal Bank of Canada Expands Quantum Strategy With New Director and University Partnerships",
-      "link": "https://thequantuminsider.com/2026/09/29/rbc-quantum-strategy-director-university-partnerships/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 12:12:58 +0000",
-      "published_ts": 1790683978,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Royal Bank of Canada (RBC) is advancing its quantum strategy with the appointment of a Director of Quantum, the signing of two strategic partnerships with leading Canadian universities and a multi-year roadmap to drive innovation while ensuring quantum-safe operat…"
-    },
-    {
-      "title": "Terra Quantum and Empa Develop AI Model for Laser Welding Prediction",
-      "link": "https://thequantuminsider.com/2026/09/29/terra-quantum-empa-ai-laser-welding-prediction/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 11:59:10 +0000",
-      "published_ts": 1790683150,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Terra Quantum, a global leader in quantum technologies, and Empa, the Swiss Federal Laboratories for Materials Science and Technology, announced LP-FNO (Laser Processing Fourier Neural Operator), an artificial intelligence surrogate model that predicts full three-…"
-    },
-    {
-      "title": "UCSB Researchers Join Three NSF Quantum Leap Challenge Institutes",
-      "link": "https://thequantuminsider.com/2026/09/29/ucsb-researchers-three-nsf-quantum-leap-institutes/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 11:45:00 +0000",
-      "published_ts": 1790682300,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Through the National Science Foundation’s Quantum Leap Challenge Institutes (QLCI) program, several UC Santa Barbara researchers are poised to tackle hurdles on the road to building widespread, powerful quantum-based technologies. “We are very proud that UC Santa…"
     },
     {
       "title": "Experimental evidence of altermagnetism in a layered material opens a promising path toward future spintronics",
@@ -200,14 +328,6 @@
       "published": "Thu, 24 Sep 2026 14:00:06 EDT",
       "published_ts": 1790272806,
       "summary": "Twistronics has become a new alchemy of materials. By choosing atomically thin layers, stacking them and changing their relative angle, researchers can create electronic behavior absent from the original ingredients. Twisted graphene and transition metal dichalcogenides have already yielded supercon…"
-    },
-    {
-      "title": "Graphene measurements reveal energy-loss and quantum-coherence exponents diverge under gate control",
-      "link": "https://phys.org/news/2026-09-graphene-reveal-energy-loss-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 23 Sep 2026 17:20:04 EDT",
-      "published_ts": 1790198404,
-      "summary": "Scientists have shown that the two exponents (inelastic scattering exponent and dephasing exponent) commonly used to describe electron scattering in graphene do not necessarily follow the same behavior. Using gated epitaxial graphene, a multi-institutional team of researchers independently extracted…"
     },
     {
       "title": "For the first time, scientists watch sound jump between quantum states",
