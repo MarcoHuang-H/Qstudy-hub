@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1790768948,
+  "generated_ts": 1790789376,
   "items": [
+    {
+      "title": "Zinc oxide quantum dots enable faster charge detection, laying groundwork for spin qubits",
+      "link": "https://phys.org/news/2026-09-zinc-oxide-quantum-dots-enable.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 30 Sep 2026 13:20:11 EDT",
+      "published_ts": 1790788811,
+      "summary": "Researchers at Tohoku University, in collaboration with the National Institute for Materials Science (NIMS) and the University of Tokyo, have taken an important step toward semiconductor quantum computing using zinc oxide (ZnO)."
+    },
+    {
+      "title": "Physicists identify 'octupolar' magnetism, with implications for quantum technologies",
+      "link": "https://phys.org/news/2026-09-physicists-octupolar-magnetism-implications-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 30 Sep 2026 10:40:25 EDT",
+      "published_ts": 1790779225,
+      "summary": "Most magnets have two poles: north and south, or positive and negative, in a familiar arrangement called a \"dipole.\" But researchers are increasingly uncovering more complex forms of magnetism."
+    },
+    {
+      "title": "Charles Black Leads C2QA Research on Scalable Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/09/30/charles-black-c2qa-scalable-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 30 Sep 2026 13:30:11 +0000",
+      "published_ts": 1790775011,
+      "summary": "Insider Brief PRESS RELEASE &#8212; When Charles (Chuck) Black was a doctoral student at Harvard University, he, like many other physicists, used superconducting materials as vehicles for exploring fundamental physics questions. The materials — which can conduct electricity without losing energy whe…"
+    },
+    {
+      "title": "New Report Positions Florida as an Emerging Leader in Defense-Led Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/09/30/new-report-positions-florida-as-an-emerging-leader-in-defense-led-quantum-technology/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 30 Sep 2026 13:02:43 +0000",
+      "published_ts": 1790773363,
+      "summary": "Insider Brief WEST PALM BEACH, Fla. — 30th September, 2026 — The Quantum Insider today announced the release of Florida Quantum Ecosystem: A Strategic Assessment of Florida’s Quantum Technology Position and Opportunities, a comprehensive study of the state’s quantum assets, competitive position and…"
+    },
+    {
+      "title": "Classiq Introduces Fault Tolerance Engine for Quantum Applications",
+      "link": "https://thequantuminsider.com/2026/09/30/classiq-fault-tolerance-engine-quantum-applications-hardware/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 30 Sep 2026 12:01:16 +0000",
+      "published_ts": 1790769676,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq today announced its Fault Tolerance Engine, a new product capability that translates optimized logical quantum programs into fault-tolerant execution plans, and measures from those same plans the physical resources and reliability required to run the appli…"
+    },
+    {
+      "title": "Quantum eMotion to Acquire Plurilock Security",
+      "link": "https://thequantuminsider.com/2026/09/30/quantum-emotion-acquire-plurilock-quantum-ai-cybersecurity/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 30 Sep 2026 11:52:23 +0000",
+      "published_ts": 1790769143,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum eMotion Corp. (“QeM” or the “Company”) (NYSE American: QNC; TSXV: QNC; FSE: 34Q0), a developer of quantum-secure cybersecurity technologies, and Plurilock Security Inc. (“Plurilock”) (TSXV: PLUR) are pleased to announce that they have entered into a defini…"
+    },
     {
       "title": "QuantLase Tests Photonic Computing Platform on Financial Market Data",
       "link": "https://thequantuminsider.com/2026/09/30/quantlase-tests-photonic-computing-platform-on-financial-market-data/",
@@ -186,36 +234,12 @@
       "summary": "An international team of physicists has developed a new method for determining the precise color of laser light using an image that rotates as the laser's frequency shifts."
     },
     {
-      "title": "Cloudflare Plans Public Certificate Authority for Post-Quantum Security",
-      "link": "https://thequantuminsider.com/2026/09/29/cloudflare-public-certificate-authority-post-quantum-securit/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 14:11:10 +0000",
-      "published_ts": 1790691070,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Cloudflare, Inc. (NYSE: NET), the leading connectivity cloud company, today announced its intent to become a public Certificate Authority (CA), an open service that issues the digital certificates websites need to encrypt traffic and prove their identity to visito…"
-    },
-    {
-      "title": "Project Eleven Acquires Riva Labs for Post-Quantum Security",
-      "link": "https://thequantuminsider.com/2026/09/29/project-eleven-acquires-riva-labs-post-quantum-security/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 14:05:59 +0000",
-      "published_ts": 1790690759,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Project Eleven, the company building post-quantum security infrastructure for digital assets, today announced its acquisition of Riva Labs, expanding its expertise in post-quantum signatures, wallets, MPC, and account abstraction. The acquisition also brings techn…"
-    },
-    {
-      "title": "Quantum Computing Explained – With Maple Syrup and Sunglasses",
-      "link": "https://thequantuminsider.com/2026/09/29/quantum-computing-explained-with-maple-syrup-and-sunglasses/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 13:33:36 +0000",
-      "published_ts": 1790688816,
-      "summary": "The Insider Brief: A quantum computer is being tuned with maple syrup. Not metaphorically &#8211; actually. That&#8217;s the answer Ghislain Lefebvre, interim executive director of Institut quantique at Université de Sherbrooke, gives when asked the deliberately odd question that opens this episode…"
-    },
-    {
-      "title": "U.S., Europe Need Closer Cooperation to Build Quantum Industry, QED-C Official Says",
-      "link": "https://thequantuminsider.com/2026/09/29/u-s-europe-need-closer-cooperation-to-build-quantum-industry-qed-c-official-says/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 29 Sep 2026 13:30:47 +0000",
-      "published_ts": 1790688647,
-      "summary": "Insider Brief National, state and regional efforts to build quantum industries often capture the headlines. But the strengths that reach across those borders may prove to be just as important to their success, according to a senior industry consortium official writes in EE Times. According to Jonath…"
+      "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Tue, 29 Sep 2026 08:02:30 EDT",
+      "published_ts": 1790683350,
+      "summary": "Scientists have developed and experimentally demonstrated a long-sought method for identifying W states, an important form of multi-photon quantum entanglement. The technique could make complex entangled systems much easier to measure, opening new possibilities for quantum teleportation, communicati…"
     },
     {
       "title": "Experimental evidence of altermagnetism in a layered material opens a promising path toward future spintronics",
@@ -312,22 +336,6 @@
       "published": "Thu, 24 Sep 2026 17:20:04 EDT",
       "published_ts": 1790284804,
       "summary": "Strike a bell, and it rings with a pitch and a fading that tell you about the bell: its size, its shape, the metal it is made of. Black holes ring too. When two merge, the newborn black hole shivers and sheds gravitational waves in a brief, dying chord, and since 2015, gravitational-wave detectors h…"
-    },
-    {
-      "title": "Vertical quantum sensor could reveal nanoscale magnetic patterns in quantum materials",
-      "link": "https://phys.org/news/2026-09-vertical-quantum-sensor-reveal-nanoscale.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 24 Sep 2026 15:20:06 EDT",
-      "published_ts": 1790277606,
-      "summary": "Quantum materials do things ordinary materials cannot. They carry current without any loss, or conduct only along their outer edge while the inside insulates. Future quantum computers and quantum sensors will run on materials like these. To improve them, researchers need to see exactly where current…"
-    },
-    {
-      "title": "New catalogs map the quantum possibilities of atomically thin materials",
-      "link": "https://phys.org/news/2026-09-quantum-possibilities-atomically-thin-materials.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 24 Sep 2026 14:00:06 EDT",
-      "published_ts": 1790272806,
-      "summary": "Twistronics has become a new alchemy of materials. By choosing atomically thin layers, stacking them and changing their relative angle, researchers can create electronic behavior absent from the original ingredients. Twisted graphene and transition metal dichalcogenides have already yielded supercon…"
     },
     {
       "title": "For the first time, scientists watch sound jump between quantum states",
@@ -488,14 +496,6 @@
       "published": "Wed, 08 Jul 2026 00:07:40 EDT",
       "published_ts": 1783483660,
       "summary": "Researchers have created an AI-based simulation that makes it much faster to model how neutron star mergers produce many of the universe's heaviest elements. The new tool could improve predictions of these powerful explosions while helping scientists better connect observations in space with experim…"
-    },
-    {
-      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Sun, 05 Jul 2026 14:13:44 EDT",
-      "published_ts": 1783275224,
-      "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe."
     },
     {
       "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
