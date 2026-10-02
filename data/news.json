@@ -1,6 +1,150 @@
 {
-  "generated_ts": 1790912798,
+  "generated_ts": 1790941745,
   "items": [
+    {
+      "title": "SQC and Schneider Electric Advance Quantum-Enhanced Energy Forecasting",
+      "link": "https://thequantuminsider.com/2026/10/02/sqc-schneider-electric-quantum-energy-forecasting/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 02 Oct 2026 11:17:37 +0000",
+      "published_ts": 1790939857,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Silicon Quantum Computing (SQC) and Schneider Electric, a global energy technology leader, have progressed to Stage 2 of the Australian Government&#8217;s Critical Technologies Challenge Program (CTCP), receiving A$3.6 million (US$2.5m) in funding to continue thei…"
+    },
+    {
+      "title": "Quantum Computing Could Cut Industrial Emissions Without an AI-Sized Footprint, BCG Finds",
+      "link": "https://thequantuminsider.com/2026/10/02/quantum-computing-could-cut-industrial-emissions-without-an-ai-sized-footprint-bcg-finds/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 02 Oct 2026 11:07:59 +0000",
+      "published_ts": 1790939279,
+      "summary": "Insider Brief The rise of artificial intelligence has raised a new question about whether the next major computing technology will add another large load to power grids. Some experts are worried that quantum systems might do the same as they scale. A Boston Consulting Group study suggests that is un…"
+    },
+    {
+      "title": "The Conversation: 100 Years Ago, Schrödinger’s Equation Shed Light on Quantum Physics – Scientists Use it Today to Fine‑Tune Chemical Reactions",
+      "link": "https://thequantuminsider.com/2026/10/02/the-conversation-100-years-ago-schrodingers-equation-shed-light-on-quantum-physics-scientists-use-it-today-to-fine-tune-chemical-reactions/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 02 Oct 2026 07:26:43 +0000",
+      "published_ts": 1790926003,
+      "summary": "By Sophya Garashchuk, Professor of Chemistry and Biochemistry, University of South Carolina For The Conversation The objects you interact with every day are predictable – you can pick up a box, sit down in a chair without falling to the floor, or open a door without your hand passing through the kno…"
+    },
+    {
+      "title": "Beyond Lie Algebras: Lie-Wedge Stratification and Pure-State Stabilizability in Single-Channel Qubit Control",
+      "link": "https://arxiv.org/abs/2610.00046",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00046v1 Announce Type: new  Abstract: Lie algebras describe how control generators combine, but in open systems they erase the distinction between reversible control and irreversible dissipation. Lie wedges retain this information. We study drift-free single-qubit systems with bidirection…"
+    },
+    {
+      "title": "Sharp Target-Domain Certificates for Quantum-Kernel Advantage under Distribution Shift",
+      "link": "https://arxiv.org/abs/2610.00080",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00080v1 Announce Type: new  Abstract: Quantum predictive advantage under shift usually requires known target labels. We derive the assumption-free sharp identified interval for the finite-batch advantage of a fixed candidate over the best member of a prespecified fixed classical-kernel fa…"
+    },
+    {
+      "title": "Exact Posterior Prediction from Product Haar Measurements and a Randomized-Mesh Maximum-Likelihood Bridge",
+      "link": "https://arxiv.org/abs/2610.00117",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00117v1 Announce Type: new  Abstract: We study prediction of one unmeasured copy of an unknown finite-dimensional pure quantum state after independently measuring the observed copies with the one-copy Haar POVM. For the resulting fixed separable observation, the Bayes predictive state und…"
+    },
+    {
+      "title": "Global and nonlocal magic of quantum many-body scars",
+      "link": "https://arxiv.org/abs/2610.00129",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00129v1 Announce Type: new  Abstract: Nonergodic features of chaotic quantum many-body systems are commonly characterized through local observables, fidelity, and entanglement entropy. Here, using global and nonlocal measures of nonstabilizerness (magic), we study quantum many-body scars…"
+    },
+    {
+      "title": "Stellar rank under the contraction of SU(1,1) to the Heisenberg-Weyl group",
+      "link": "https://arxiv.org/abs/2610.00133",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00133v1 Announce Type: new  Abstract: Under the contraction of $SU(1,1)$ to the Heisenberg-Weyl group, the zeros of the Husimi function of a state redistribute according to a single scale, and we determine which of them survive. The stellar rank of a single-mode bosonic pure state, the nu…"
+    },
+    {
+      "title": "Symmetry Discovery in Quantum Learning: Observable-Level and Task-Level Inference from Finite Measurements",
+      "link": "https://arxiv.org/abs/2610.00157",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00157v1 Announce Type: new  Abstract: Symmetry reduces the capacity of a quantum learning model, but the imposed group must match both the measured information and the label transformation. We establish a finite-measurement theory for inferring this group from candidate transformations. T…"
+    },
+    {
+      "title": "Projector Form of the Quantum Brachistochrone and Its Relation to Two-Boundary Quantum Algorithm Design",
+      "link": "https://arxiv.org/abs/2610.00169",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00169v1 Announce Type: new  Abstract: We clarify the relation between the time-optimal quantum evolution of Carlini et al. and the coherent two-boundary optimal-control formulation recently proposed for quantum algorithm design."
+    },
+    {
+      "title": "Entanglement cost of quantum depolarization",
+      "link": "https://arxiv.org/abs/2610.00187",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00187v1 Announce Type: new  Abstract: Entanglement cost is the asymptotic rate of Bell pairs required to prepare a quantum state. Its regularized definition has made exact evaluation difficult, even for isotropic states (i.e., depolarized maximally entangled states). In this work, we dete…"
+    },
+    {
+      "title": "Simultaneous Perturbation as a Spectral Filter",
+      "link": "https://arxiv.org/abs/2610.00201",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00201v1 Announce Type: new  Abstract: Parameterized quantum circuits require repeated measurements to estimate objective gradients, making the number of circuit evaluations a central resource. Simultaneous perturbation stochastic approximation (SPSA) is widely used because it obtains a fu…"
+    },
+    {
+      "title": "Minimax Quantum State Tomography with Periodic Clifford Measurements",
+      "link": "https://arxiv.org/abs/2610.00210",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00210v1 Announce Type: new  Abstract: Quantum state tomography provides a foundation for characterizing state preparation and predicting measurement outcomes. We characterize the minimax expected trace norm risk of quantum state tomography over classes with polynomial spectral decay under…"
+    },
+    {
+      "title": "Physical-Work Fluctuation Relations from Accessible Quantum Macrostates",
+      "link": "https://arxiv.org/abs/2610.00246",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00246v1 Announce Type: new  Abstract: Jarzynski's equality recovers an equilibrium free-energy difference from nonequilibrium work trajectories, but its exponential average can converge very slowly because rare trajectories carry large weight. We show that coarse thermodynamic information…"
+    },
+    {
+      "title": "Exact replica-sector hierarchy of multi-resolvent correlations in random free fermions",
+      "link": "https://arxiv.org/abs/2610.00261",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00261v1 Announce Type: new  Abstract: The spectral weight with which a many-body eigenstate contributes to a given channel is not fixed by the smooth one-point ETH envelope, and its higher-order correlations---the connected cumulants of three and more channel-resolved spectral functions--…"
+    },
+    {
+      "title": "Exact Critical Curve for Uniform Stabilizer-State Identification",
+      "link": "https://arxiv.org/abs/2610.00266",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00266v1 Announce Type: new  Abstract: The sample complexity of identifying an unknown pure stabilizer state has been a longstanding problem in quantum information. In this paper, we resolve the entire exact critical crossover for the uniform ensemble of pure $n$-qubit stabilizer states un…"
+    },
+    {
+      "title": "A Frame-Spread Lower Bound for Quantum Entropy Estimation under Fixed Rank-One Measurements",
+      "link": "https://arxiv.org/abs/2610.00270",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00270v1 Announce Type: new  Abstract: We study estimation of the von Neumann entropy of a $d$-dimensional quantum state from independent outcomes of a fixed rank-one measurement. Let $\\kappa_\\nu\\in[1,d+1]$ denote the normalized trace-zero frame spread; $\\kappa_\\nu=1$ for exact complex pro…"
+    },
+    {
+      "title": "Frame dependence of Kochen-Specker contextuality for relativistic spin systems",
+      "link": "https://arxiv.org/abs/2610.00274",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "published_ts": 1790913600,
+      "summary": "arXiv:2610.00274v1 Announce Type: new  Abstract: We ask whether Kochen-Specker contextuality is Lorentz invariant. On the full Hilbert space, it is, since boosts act unitarily. Restricted to spin, it is not: momentum acts as an environment applying momentum-dependent Wigner rotations, leaving spin o…"
+    },
     {
       "title": "New method generates nearly indistinguishable photons for quantum communication",
       "link": "https://phys.org/news/2026-10-method-generates-indistinguishable-photons-quantum.html",
@@ -80,150 +224,6 @@
       "published": "Thu, 01 Oct 2026 09:57:57 +0000",
       "published_ts": 1790848677,
       "summary": "Insider Brief PRESS RELEASE &#8212; The National Science Foundation (NSF) has awarded a $600,000 grant to Hyeongrak “Chuck” Choi, an assistant professor in the Department of Electrical and Computer Engineering at Stony Brook University, and Bo-Han Wu, an assistant professor at the University of Hawa…"
-    },
-    {
-      "title": "Diraq to Establish Quantum R&D Lab in New Mexico",
-      "link": "https://thequantuminsider.com/2026/10/01/diraq-quantum-rd-laboratory-new-mexico/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 01 Oct 2026 09:17:32 +0000",
-      "published_ts": 1790846252,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Diraq today announced plans to establish a new research and development laboratory in Albuquerque, New Mexico, expanding its U.S. presence as the company brings its silicon quantum computing technology toward utility scale. Diraq has signed a memorandum of underst…"
-    },
-    {
-      "title": "Scientists Find Structural Guide to Unusual Magnetism in Quantum Materials",
-      "link": "https://thequantuminsider.com/2026/10/01/scientists-find-structural-guide-to-unusual-magnetism-in-quantum-materials/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 01 Oct 2026 07:56:59 +0000",
-      "published_ts": 1790841419,
-      "summary": "Insider Brief Researchers in Japan have identified a structural measurement that could help scientists predict magnetic behavior in complex alloys, offering a more reliable way to search for materials with unusual quantum properties. The finding gives researchers studying quasicrystals and related m…"
-    },
-    {
-      "title": "Alice & Bob Demonstrates New Approach to Stabilizing Cat With DC Voltage Bias",
-      "link": "https://thequantuminsider.com/2026/10/01/alice-bob-demonstrates-new-approach-to-stabilising-cat-with-dc-voltage-bias/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 01 Oct 2026 07:23:31 +0000",
-      "published_ts": 1790839411,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Alice &#38; Bob, a leader in fault-tolerant quantum computing, and the École Normale Supérieure de Lyon today announced a new and faster&#160;approach to stabilising&#160;cat-qubits in superconducting quantum systems&#160;enabling more compact&#160;designs that&#1…"
-    },
-    {
-      "title": "Exact Operator Complexity Measures from Random Matchgate Unitaries",
-      "link": "https://arxiv.org/abs/2609.38300",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38300v1 Announce Type: new  Abstract: Matchgate circuits describe classically tractable dynamics in a physically relevant setting while nonetheless exhibiting features characteristic of complex quantum systems, such as high amounts of magic. This invites the broader question: to what exte…"
-    },
-    {
-      "title": "Making the most of leftovers: Improved privacy amplification for quantum key distribution",
-      "link": "https://arxiv.org/abs/2609.38306",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38306v1 Announce Type: new  Abstract: The amount of secret key that can be obtained from a quantum key distribution run depends on both the physically observed error rates and the mathematical bounds used to certify security. For finite datasets, conservative bounds force users to discard…"
-    },
-    {
-      "title": "When Symmetry Suppresses Magic",
-      "link": "https://arxiv.org/abs/2609.38319",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38319v1 Announce Type: new  Abstract: Nonstabilizerness is a critical resource for quantum advantage, but evaluating it, especially for mixed states, requires superexponentially many samples in system size, making the problem NP-hard. While symmetries are known to reduce this complexity,…"
-    },
-    {
-      "title": "Exponential strong converse for blind quantum data compression",
-      "link": "https://arxiv.org/abs/2609.38328",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38328v1 Announce Type: new  Abstract: We establish exponential strong converse theorems for blind quantum data compression of finite-dimensional mixed-state sources, with and without entanglement assistance. Blind compression is a fundamental quantum information processing task in which t…"
-    },
-    {
-      "title": "Collective Dynamics in Spin Chains with Constrained Dissipation: Classically Fragile but Quantum Robust",
-      "link": "https://arxiv.org/abs/2609.38333",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38333v1 Announce Type: new  Abstract: Collective non-equilibrium phenomena in many-body systems are strongly influenced by fluctuations, particularly in the vicinity of phase transitions, where the interplay between classical and quantum effects can alter cooperative behavior. Here, we in…"
-    },
-    {
-      "title": "Interferometric Readout of Momentum-Space Topology in a Programmable Dissipative Photonic Circuit",
-      "link": "https://arxiv.org/abs/2609.38352",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38352v1 Announce Type: new  Abstract: Topology under non-Hermitian dynamics is encoded in the phase of the bulk evolution, yet strong dissipation suppresses the amplitudes carrying it. We resolve this using a programmable photonic integrated circuit that implements such dynamics in synthe…"
-    },
-    {
-      "title": "Time-Integrated Leakage as a Dynamical Benchmark for Multi-Mode Superconducting-Qubit Reset",
-      "link": "https://arxiv.org/abs/2609.38354",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38354v1 Announce Type: new  Abstract: Reset performance in superconducting qubits is often summarized by the population that remains at the end of the pulse. This is an important number, but it does not describe what happens during the reset itself. A protocol may reach a small final resi…"
-    },
-    {
-      "title": "On Removing Interaction from Quantum Proofs",
-      "link": "https://arxiv.org/abs/2609.38387",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38387v1 Announce Type: new  Abstract: An important open question in quantum cryptography is the construction of publicly-verifiable NIZKs for QMA. Classically, one can construct NIZKs for NP in the random oracle model (and sometimes in the standard model) by compiling an honest-verifier Z…"
-    },
-    {
-      "title": "Advantage of Sample Complexity in Quantum PAC Learning Requires Inverse Access to State-Preparation Unitaries",
-      "link": "https://arxiv.org/abs/2609.38403",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38403v1 Announce Type: new  Abstract: Whether quantum computation can reduce the amount of data sampled from an unknown probability distribution required to learn a prediction rule is a fundamental question in quantum machine learning. Quantum PAC learning studies this question using quan…"
-    },
-    {
-      "title": "Classical Verifier Position Verification from Non-Local Games",
-      "link": "https://arxiv.org/abs/2609.38441",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38441v1 Announce Type: new  Abstract: Secure position verification certifies that a remote prover occupies a claimed location, a task that is provably impossible with classical resources alone against colluding adversaries. Most existing quantum position verification schemes require trans…"
-    },
-    {
-      "title": "Quantum Secure Non-Interactive Reductions",
-      "link": "https://arxiv.org/abs/2609.38452",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38452v1 Announce Type: new  Abstract: Efficient models for secure computation often rely on offline preprocessed correlations, which subsequently enable private online computation from minimal assumptions. Within these models, the study of secure non-interactive reductions (SNIR) formaliz…"
-    },
-    {
-      "title": "Q-SPARSE: Quantum Subspace Projection for Near-Field Angle-Range Spectrum Estimation",
-      "link": "https://arxiv.org/abs/2609.38500",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38500v1 Announce Type: new  Abstract: Near-field wavefront curvature enables joint angle-range localization, but exploiting it entails repeated covariance-eigenspace tests over a two-dimensional spherical manifold. We propose a quantum subspace-projection algorithm (Q-SPARSE) for super-re…"
-    },
-    {
-      "title": "Copy-scarce learning of ground states",
-      "link": "https://arxiv.org/abs/2609.38513",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38513v1 Announce Type: new  Abstract: Probing multiple properties of ground states is central to understanding quantum matter, yet conventional readout can be prohibitively costly because it consumes many independently prepared copies. Here, in copy-scarce regimes, we establish optimal tr…"
-    },
-    {
-      "title": "Input-output formulation of quantum light spectroscopy",
-      "link": "https://arxiv.org/abs/2609.38533",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38533v1 Announce Type: new  Abstract: We develop an input-output formulation of quantum light spectroscopy (QLS) by combining the input-output theory, commonly used in quantum optics, with the perturbative expansion method for nonlinear spectroscopy, commonly used in chemical physics. The…"
-    },
-    {
-      "title": "Proposal for matter-wave interferometry with a rare-earth-doped microparticle",
-      "link": "https://arxiv.org/abs/2609.38564",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "published_ts": 1790827200,
-      "summary": "arXiv:2609.38564v1 Announce Type: new  Abstract: Matter-wave interferometers are sensitive probes of low energy physics and have been used for precise tests of gravity and quantum mechanics. These applications would benefit from interfering particles of higher mass, but observing the interference of…"
     },
     {
       "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
