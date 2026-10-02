@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1790941745,
+  "generated_ts": 1790961584,
   "items": [
+    {
+      "title": "Quantum in Business Conference Highlights Commercial Quantum Applications",
+      "link": "https://thequantuminsider.com/2026/10/02/quantum-in-business-commercial-quantum-applications/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 02 Oct 2026 16:02:55 +0000",
+      "published_ts": 1790956975,
+      "summary": "Insider Brief PRESS RELEASE &#8212; More than 450 business leaders, technology innovators, researchers and public officials gathered in Chattanooga today for the Quantum in Business conference presented by EPB QuantumSM. The event highlighted Tennessee and Chattanooga&#8217;s growing role in advanci…"
+    },
+    {
+      "title": "QEst Hack Invites Participants to Test Quantum Algorithms on Real Business Problems",
+      "link": "https://thequantuminsider.com/2026/10/02/qest-hack-invites-participants-to-test-quantum-algorithms-on-real-business-problems/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 02 Oct 2026 15:56:20 +0000",
+      "published_ts": 1790956580,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Metrosert, Estonia’s Applied Research Centre and National Metrology Institute, invites Estonian companies as well as students, researchers and other interested participants from the Nordic and Baltic countries to apply for the QEst Hack 2026 quantum hackathon, tak…"
+    },
+    {
+      "title": "New Method Generates Photons That Are Virtually Indistinguishable",
+      "link": "https://thequantuminsider.com/2026/10/02/new-method-generates-photons-that-are-virtually-indistinguishable/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 02 Oct 2026 15:28:15 +0000",
+      "published_ts": 1790954895,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Working in close collaboration, researchers from Paderborn University, the University of Basel and Ruhr University Bochum have made a significant breakthrough in the field of quantum communication. In their recently published paper in the prestigious journal Physi…"
+    },
     {
       "title": "SQC and Schneider Electric Advance Quantum-Enhanced Energy Forecasting",
       "link": "https://thequantuminsider.com/2026/10/02/sqc-schneider-electric-quantum-energy-forecasting/",
@@ -200,30 +224,6 @@
       "published": "Thu, 01 Oct 2026 11:20:13 +0000",
       "published_ts": 1790853613,
       "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at Tohoku University, in collaboration with the National Institute for Materials Science (NIMS) and the University of Tokyo, have taken an important step toward semiconductor quantum computing using zinc oxide (ZnO). The team successfully demonstrated…"
-    },
-    {
-      "title": "D-Wave Launches Gate-Model Quantum Simulator Beta",
-      "link": "https://thequantuminsider.com/2026/10/01/d-wave-gate-model-quantum-simulator-beta/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 01 Oct 2026 11:07:01 +0000",
-      "published_ts": 1790852821,
-      "summary": "Insider Brief PRESS RELEASE &#8212; D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today launched its gate-model quantum computing simulator beta program, marking…"
-    },
-    {
-      "title": "California Signs Fusion Legislation and Announces $30 Million Quantum Investment",
-      "link": "https://thequantuminsider.com/2026/10/01/california-fusion-legislation-30-million-quantum-investment/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 01 Oct 2026 10:12:44 +0000",
-      "published_ts": 1790849564,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Standing alongside faculty and staff at a quantum lab at UC Berkeley, Governor Newsom announced he has signed legislation to accelerate the development of quantum and fusion energy in California by investing in the state’s research hubs. The Governor also announce…"
-    },
-    {
-      "title": "Choi Co-Leads Research on Quantum Intelligent Sensor Networks",
-      "link": "https://thequantuminsider.com/2026/10/01/choi-next-generation-quantum-sensors/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 01 Oct 2026 09:57:57 +0000",
-      "published_ts": 1790848677,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The National Science Foundation (NSF) has awarded a $600,000 grant to Hyeongrak “Chuck” Choi, an assistant professor in the Department of Electrical and Computer Engineering at Stony Brook University, and Bo-Han Wu, an assistant professor at the University of Hawa…"
     },
     {
       "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
