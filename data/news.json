@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1791041812,
+  "generated_ts": 1791059474,
   "items": [
+    {
+      "title": "Reading hidden topology in light, even when energy leaks away",
+      "link": "https://phys.org/news/2026-10-hidden-topology-energy-leaks.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 03 Oct 2026 13:40:01 EDT",
+      "published_ts": 1791049201,
+      "summary": "When I explain topology to students, I start with a knot in a rope. You can stretch it, twist it or shake it, but the knot stays until you cut the rope. Physicists have found that some materials and devices carry similar \"knots\" in how waves move through them. These are topological properties, label…"
+    },
     {
       "title": "IBM Expands AI and Quantum Research With IIT Bombay and IISc",
       "link": "https://thequantuminsider.com/2026/10/03/ibm-academic-collaborations-iit-bombay-iisc-agentic-ai-quantum/",
@@ -216,14 +224,6 @@
       "published": "Fri, 25 Sep 2026 15:40:01 EDT",
       "published_ts": 1790365201,
       "summary": "Quantum photonics could be a pivotal part of future quantum technology if the right materials can be created, a new review paper has found."
-    },
-    {
-      "title": "Spin rephasing helps quantum memories store single-photon states longer for future networks",
-      "link": "https://phys.org/news/2026-09-rephasing-quantum-memories-photon-states.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 25 Sep 2026 13:10:01 EDT",
-      "published_ts": 1790356201,
-      "summary": "We are continuously sending information to each other, transmitting zeros and ones through a giant network of connected computers and devices. Scientists are now trying to extend this familiar concept of the internet to the quantum realm, looking for an efficient way to exchange quantum rather than…"
     },
     {
       "title": "Quantum computing’s “dark horse” just proved it can go universal",
