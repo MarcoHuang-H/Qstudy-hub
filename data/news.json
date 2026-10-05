@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1791206743,
+  "generated_ts": 1791243506,
   "items": [
+    {
+      "title": "Quantum systems never quite forget where they came from",
+      "link": "https://phys.org/news/2026-10-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 05 Oct 2026 16:00:13 EDT",
+      "published_ts": 1791230413,
+      "summary": "Even the most chaotic quantum systems keep a permanent mark of their own past—a \"quantum birthmark\"—that never fades. Researchers from Tampere University, Harvard University and TU Dresden discovered the feature in their recent study. Their findings shed new light on the elusive relationship between…"
+    },
+    {
+      "title": "planqc and LOGIQC Selected for Germany’s Quantum Computing Competition",
+      "link": "https://thequantuminsider.com/2026/10/05/planqc-logiqc-germany-quantum-computing-competition/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 05 Oct 2026 19:11:24 +0000",
+      "published_ts": 1791227484,
+      "summary": "Insider Brief PRESS RELEASE &#8212; planqc and the LOGIQC consortium have been selected as one of six consortia to compete in Germany’s Quantum Computing Competition (QCC). The QCC is a major initiative of the Federal Ministry of Research, Technology and Space (BMFTR) to advance error-corrected quan…"
+    },
+    {
+      "title": "The AI Lab Launches Post-Quantum TIP Protocol for Content Verification",
+      "link": "https://thequantuminsider.com/2026/10/05/ai-lab-post-quantum-tip-content-verification/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 05 Oct 2026 15:35:03 +0000",
+      "published_ts": 1791214503,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Journalists, authors, filmmakers, and other creators can now prove that their work is theirs, and that it has not been changed, with a tag built for the post-quantum era and recorded on an immutable, decentralized distributed ledger. The AI Lab (theailab.org) toda…"
+    },
     {
       "title": "AIDAQ 2026: AI is Now a staple of The Quantum story",
       "link": "https://thequantuminsider.com/2026/10/05/ai-part-quantum-story/",
@@ -72,22 +96,6 @@
       "published": "Mon, 05 Oct 2026 08:20:58 +0000",
       "published_ts": 1791188458,
       "summary": "Insider Brief PRESS RELEASE &#8212; Understanding why some superconducting qubits outperform others remains one of the most important challenges in quantum computing. As long as the quantum state in a qubit maintains its coherence and does not decay, information can be held and potentially processed…"
-    },
-    {
-      "title": "planqc Wins Made in Europe Award for Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/10/05/made-in-europe-award-2026-planqc-commercialising/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 05 Oct 2026 08:08:21 +0000",
-      "published_ts": 1791187701,
-      "summary": "Insider Brief PRESS RELEASE &#8212; planqc has been honored at the Made in Europe Award 2026 in the Commercialising category, presented last night in Berlin by Thomas Jarzombek, Parliamentary State Secretary at the Federal Ministry for Digital Affairs and State Modernisation. The award recognizes pl…"
-    },
-    {
-      "title": "Contrivian Launches Government Solutions Division for Federal and Defense Networks",
-      "link": "https://thequantuminsider.com/2026/10/05/contrivian-government-solutions-federal-defense-networks/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 05 Oct 2026 08:02:18 +0000",
-      "published_ts": 1791187338,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Contrivian, a technology company providing intelligent mission-critical connectivity, has launched Contrivian Government Solutions, a dedicated division focused on delivering secure, mission-critical connectivity for US federal agencies and defense organizations.…"
     },
     {
       "title": "Premonoidal Semantics and Scalable Diagrammatics of Fermionic Quantum Computing",
@@ -336,14 +344,6 @@
       "published": "Mon, 28 Sep 2026 09:40:10 EDT",
       "published_ts": 1790602810,
       "summary": "A new graph-theoretic framework provides a unified description of atom-light interactions across regimes ranging from weak to deep-strong coupling."
-    },
-    {
-      "title": "Magnetic order survives weak quantum fluctuations in gapless magnets",
-      "link": "https://phys.org/news/2026-09-magnetic-survives-weak-quantum-fluctuations.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 28 Sep 2026 09:20:01 EDT",
-      "published_ts": 1790601601,
-      "summary": "In a new study published in Physical Review Letters, researchers have shown that magnetic order can survive weak quantum fluctuations in disordered magnets that lack an energy gap. The work establishes robust ferromagnetism in the two-dimensional random-bond quantum Ising model, confirming a longsta…"
     },
     {
       "title": "Quantum computing’s “dark horse” just proved it can go universal",
