@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1791261148,
+  "generated_ts": 1791290328,
   "items": [
+    {
+      "title": "India’s Startup Policy Forum Launches DeepVerse,  Lists Quantum as a Priority",
+      "link": "https://thequantuminsider.com/2026/10/06/indias-startup-policy-forum-launches-deepverse-lists-quantum-as-a-priority/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 11:57:40 +0000",
+      "published_ts": 1791287860,
+      "summary": "Insider Brief India’s Startup Policy Forum launched a center to give deep-technology companies, including quantum startups, a sustained role in shaping national policy, according to a news release. The industry alliance said its Centre for DeepTech Innovation, called DeepVerse, will bring together i…"
+    },
+    {
+      "title": "QuantumGate and NEC GCC Partner on Post-Quantum Security in the UAE",
+      "link": "https://thequantuminsider.com/2026/10/06/quantumgate-nec-gcc-post-quantum-security-cyber-resilience/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 11:56:22 +0000",
+      "published_ts": 1791287782,
+      "summary": "Insider Brief QuantumGate, a quantum-safe cybersecurity firm based in Abu Dhabi and a subsidiary of VentureOne, has entered a strategic collaboration with NEC Corporation&#8217;s GCC branch, the companies announced. The partnership is focused on accelerating the rollout of post-quantum security, sov…"
+    },
+    {
+      "title": "Xanadu and GlobalFoundries Partner on Photonic Quantum Manufacturing",
+      "link": "https://thequantuminsider.com/2026/10/06/xanadu-globalfoundries-photonic-quantum-manufacturing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 11:40:47 +0000",
+      "published_ts": 1791286847,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Xanadu Quantum Technologies Limited (&#8220;Xanadu&#8220;; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, today announced a strategic multi-year partnership with GlobalFoundries (GF), a leading semiconductor manufacturer, to address the high-volu…"
+    },
+    {
+      "title": "PQShield Appoints New Commercial and Sovereign Security Leaders",
+      "link": "https://thequantuminsider.com/2026/10/06/pqshield-commercial-sovereign-security-leaders/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 09:40:12 +0000",
+      "published_ts": 1791279612,
+      "summary": "Insider Brief PRESS RELEASE &#8212; PQShield, a global leader in post-quantum cryptography (PQC), is strengthening its leadership team with two major hires, as demand for quantum-safe security accelerates across governments, critical infrastructure and major technology providers. Hal Conklin, joins…"
+    },
+    {
+      "title": "VTT Appoints Jani Kivioja to Lead Quantum Technologies Research",
+      "link": "https://thequantuminsider.com/2026/10/06/vtt-jani-kivioja-quantum-technologies-research/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 09:28:45 +0000",
+      "published_ts": 1791278925,
+      "summary": "Insider Brief PRESS RELEASE &#8212; “Finland already has strong scientific expertise in quantum technologies. What is still needed is determined R&#38;D, piloting and innovation to accelerate commercialisation,” says Jani Kivioja, who has been appointed Vice President of VTT’s Quantum Technologies r…"
+    },
+    {
+      "title": "QuantWare Appoints Bart Filius as Chief Financial Officer",
+      "link": "https://thequantuminsider.com/2026/10/06/quantware-bart-filius-chief-financial-officer/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 09:16:30 +0000",
+      "published_ts": 1791278190,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuantWare, the industrial quantum processor company, today announced that Bart Filius will join the company as Chief Financial Officer (CFO), effective 12 October 2026. Filius will also join the Board of Directors of QuantWare, as the company scales the industrial…"
+    },
+    {
+      "title": "Netherlands’s Quantum Strategy Sets 2035 Goals, Links Industry Growth to Cybersecurity",
+      "link": "https://thequantuminsider.com/2026/10/06/netherlandss-quantum-strategy-sets-2035-goals-links-industry-growth-to-cybersecurity/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 08:25:00 +0000",
+      "published_ts": 1791275100,
+      "summary": "Insider Brief The Netherlands plans to turn its quantum research strengths into commercial products while preparing government systems for computers that could defeat widely used encryption. A new governmentwide quantum strategy sets a 2035 goal for technological leadership, greater independence fro…"
+    },
+    {
+      "title": "University of Illinois Researchers Store Quantum Information on a Chip for Over a Microsecond",
+      "link": "https://thequantuminsider.com/2026/10/06/university-of-illinois-researchers-store-quantum-information-on-a-chip-for-over-a-microsecond/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 07:51:09 +0000",
+      "published_ts": 1791273069,
+      "summary": "Insider Brief PRESS RELEASE &#8212; For highly fragile quantum information systems, the ability to store quantum information is vital — but also challenging. Quantum information is transported in particles of light called photons, which often must be temporarily paused (or “stored”) while other, slo…"
+    },
+    {
+      "title": "Quantum Systems Never Quite Forget Where They Came From",
+      "link": "https://thequantuminsider.com/2026/10/06/quantum-systems-never-quite-forget-where-they-came-from/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 07:06:57 +0000",
+      "published_ts": 1791270417,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Even the most chaotic quantum systems keep a permanent mark of their own past – a &#8220;quantum birthmark&#8221; – that never fades. Researchers from Tampere University, Harvard University, and TU Dresden discovered the feature in their recent study. Their findin…"
+    },
     {
       "title": "Quantum systems never quite forget where they came from",
       "link": "https://phys.org/news/2026-10-quantum.html",
@@ -18,84 +90,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; planqc and the LOGIQC consortium have been selected as one of six consortia to compete in Germany’s Quantum Computing Competition (QCC). The QCC is a major initiative of the Federal Ministry of Research, Technology and Space (BMFTR) to advance error-corrected quan…"
     },
     {
-      "title": "The AI Lab Launches Post-Quantum TIP Protocol for Content Verification",
-      "link": "https://thequantuminsider.com/2026/10/05/ai-lab-post-quantum-tip-content-verification/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 05 Oct 2026 15:35:03 +0000",
-      "published_ts": 1791214503,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Journalists, authors, filmmakers, and other creators can now prove that their work is theirs, and that it has not been changed, with a tag built for the post-quantum era and recorded on an immutable, decentralized distributed ledger. The AI Lab (theailab.org) toda…"
-    },
-    {
-      "title": "AIDAQ 2026: AI is Now a staple of The Quantum story",
-      "link": "https://thequantuminsider.com/2026/10/05/ai-part-quantum-story/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 05 Oct 2026 13:01:22 +0000",
-      "published_ts": 1791205282,
-      "summary": "The Quantum Insider joined more than 2,500 participants in Berlin for Bitkom&#8217;s AI, Data &#38; Quantum Summit, where AI kept turning up inside quantum. Berlin became the meeting point for Europe&#8217;s AI and quantum communities on 22 and 23 September, when Bitkom&#8217;s AI, Data &#38; Quantu…"
-    },
-    {
-      "title": "D-Wave and University of Arkansas Launch Quantum Supply Chain Initiative",
-      "link": "https://thequantuminsider.com/2026/10/05/d-wave-university-arkansas-quantum-supply-chain-initiative/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 05 Oct 2026 12:53:43 +0000",
-      "published_ts": 1791204823,
-      "summary": "Insider Brief PRESS RELEASE &#8212; D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave”), the only dual-platform quantum computing company providing annealing and gate-model systems, software and services, and the Supply Chain Management Research Center in the Sam M. Walton College of Business at the Unive…"
-    },
-    {
-      "title": "Quantum Renaissance to Convene Global Quantum Leaders in Florence in April 2027",
-      "link": "https://thequantuminsider.com/2026/10/05/quantum-renaissance-to-convene-global-quantum-leaders-in-florence-in-april-2027/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 05 Oct 2026 12:53:24 +0000",
-      "published_ts": 1791204804,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum technology leaders from research, industry, government and finance will gather at Palazzo Vecchio in Florence on April 1-2, 2027, for Quantum Renaissance, a two-day event examining the development and wider implications of quantum technology. The event is…"
-    },
-    {
-      "title": "DecaQ Launches Cloud Beta 2 With Six Quantum Algorithm Families",
-      "link": "https://thequantuminsider.com/2026/10/05/decaq-launches-cloud-beta-2-with-six-quantum-algorithm-families/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 05 Oct 2026 12:50:48 +0000",
-      "published_ts": 1791204648,
-      "summary": "Insider Brief PRESS RELEASE &#8212; DecaQ today announced the availability of DecaQ Cloud Beta 2, bringing 400 logical digital qubits, six quantum algorithm families, and up to 200,000 digital oracle gates to its cloud platform. DecaQ is deterministic digital quantum computation powered by a Digital…"
-    },
-    {
-      "title": "Quantinuum and The University of Western Australia Partner to Advance Australia’s Quantum Capability",
-      "link": "https://thequantuminsider.com/2026/10/05/quantinuum-uwa-advance-australia-quantum-capability/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 05 Oct 2026 12:46:57 +0000",
-      "published_ts": 1791204417,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum (NASDAQ: QNT), a leading quantum computing company, today announced the signing of a Memorandum of Understanding (MOU) with The University of Western Australia (UWA) to advance Australia&#8217;s quantum capability by expanding access to advanced quantum…"
-    },
-    {
       "title": "Scientists uncover recurrent patterns within chaotic quantum behavior",
       "link": "https://phys.org/news/2026-09-scientists-uncover-recurrent-patterns-chaotic.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 05 Oct 2026 08:00:04 EDT",
       "published_ts": 1791201604,
       "summary": "Many complex quantum systems rapidly lose the recognizable patterns of their initial states as their components interact. To describe patterns of regular and chaotic motion in specific systems, physicists can construct a mathematical map called an effective phase space."
-    },
-    {
-      "title": "Second QDA Forum Focuses on Real-World Deployments And Progress of Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/10/05/second-qda-forum-focuses-on-real-world-deployments-and-progress-of-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 05 Oct 2026 11:08:57 +0000",
-      "published_ts": 1791198537,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The second international Quantum Datacenter Alliance (QDA) Forum highlighted the progress towards commercial deployments and acceleration of distributed quantum computing architectures, while also outlining the next critical areas of focus for progress. At the ico…"
-    },
-    {
-      "title": "WISeSat.Space Completes Business Combination and Begins Nasdaq Trading",
-      "link": "https://thequantuminsider.com/2026/10/05/wisesat-space-business-combination-nasdaq-trading/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 05 Oct 2026 10:56:46 +0000",
-      "published_ts": 1791197806,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that its sister company, WISeSat.Space Hol…"
-    },
-    {
-      "title": "SQMS Study Links Qubit Performance to Material and Fabrication Features",
-      "link": "https://thequantuminsider.com/2026/10/05/sqms-qubit-performance-material-fabrication-features/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 05 Oct 2026 08:20:58 +0000",
-      "published_ts": 1791188458,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Understanding why some superconducting qubits outperform others remains one of the most important challenges in quantum computing. As long as the quantum state in a qubit maintains its coherence and does not decay, information can be held and potentially processed…"
     },
     {
       "title": "Reading hidden topology in light, even when energy leaks away",
