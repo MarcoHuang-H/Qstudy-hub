@@ -1,6 +1,86 @@
 {
-  "generated_ts": 1791290328,
+  "generated_ts": 1791324779,
   "items": [
+    {
+      "title": "X-ray technique reveals how quantum materials respond to laser pulses in real time",
+      "link": "https://phys.org/news/2026-10-ray-technique-reveals-quantum-materials.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 06 Oct 2026 17:20:08 EDT",
+      "published_ts": 1791321608,
+      "summary": "Creating a quantum device often begins by intentionally damaging a crystal. Scientists fire an ultrafast laser pulse into a material, knocking atoms out of place and leaving behind tiny imperfections called vacancies. Far from being flaws, these vacancies can behave as qubits—the fundamental buildin…"
+    },
+    {
+      "title": "New chip-based frequency combs demonstrate potential for portable atomic clocks",
+      "link": "https://phys.org/news/2026-10-chip-based-frequency-potential-portable.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 06 Oct 2026 15:00:10 EDT",
+      "published_ts": 1791313210,
+      "summary": "The world would look radically different without rulers and measuring tapes that fit into a pocket. Carpenters, fashion designers and engineers rely on these trusty tools to check the size of everything from a wooden board to a fabric swatch. But physicists who work with light lack that same conveni…"
+    },
+    {
+      "title": "Zapata Quantum Joins IBM Quantum Network for Application Development",
+      "link": "https://thequantuminsider.com/2026/10/06/zapata-ibm-quantum-network-application-development/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 17:04:10 +0000",
+      "published_ts": 1791306250,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Zapata Quantum (OTCQB: ZPTA) (“Zapata” or the “Company”) today announced it has joined the IBM Quantum Network with plans to use IBM’s world-class quantum computers with Zapata’s deep expertise in use-case discovery and application development. The Company’s effor…"
+    },
+    {
+      "title": "SEALSQ Leads $10 Million PIPE Investment in WISeSat.Space",
+      "link": "https://thequantuminsider.com/2026/10/06/sealsq-10-million-pipe-wisesat-space-cybersecurity/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 16:51:51 +0000",
+      "published_ts": 1791305511,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that it led a $10 million private investme…"
+    },
+    {
+      "title": "FAU Receives $200,000 NIST Award for Quantum Cybersecurity Workforce",
+      "link": "https://thequantuminsider.com/2026/10/06/fau-nist-grant-quantum-cybersecurity-workforce/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 16:43:46 +0000",
+      "published_ts": 1791305026,
+      "summary": "Insider Brief PRESS RELEASE &#8212; As quantum computing advances, it is creating new cybersecurity challenges that will require a workforce trained to protect critical systems and infrastructure. Yet few workforce development programs provide hands-on training that integrates quantum computing, cyb…"
+    },
+    {
+      "title": "Pasqal Leads €50 Million Q-PLANET Project for Neutral-Atom Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/10/06/pasqal-50-million-q-planet-neutral-atom-quantum/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 16:26:26 +0000",
+      "published_ts": 1791303986,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal (NASDAQ: PSQL), a global leader in neutral-atom quantum computing, is coordinating the implementation of Q-PLANET (Quantum Pilot Line for production of Advanced chips for Neutral atom European Technologies), co-funded by the EU Chips Joint Undertaking (Chip…"
+    },
+    {
+      "title": "Infleqtion, Honeywell and UCSB Develop Chip-Scale Optical Cavity",
+      "link": "https://thequantuminsider.com/2026/10/06/infleqtion-honeywell-ucsb-quantum-hardware-miniaturization/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 16:18:51 +0000",
+      "published_ts": 1791303531,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral atom technology, in collaboration with Honeywell Aerospace and Distinguished Professor Daniel J. Blumenthal of UC Santa Barbara (UCSB), announced development of a…"
+    },
+    {
+      "title": "Heavy fermions emerge at an atomic-layer interface, unlocking new ways to design quantum materials",
+      "link": "https://phys.org/news/2026-10-heavy-fermions-emerge-atomic-layer.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 06 Oct 2026 11:00:24 EDT",
+      "published_ts": 1791298824,
+      "summary": "A research team led by the University of Osaka has directly observed, for the first time, an unusual heavy-fermion state forming at the boundary between a one-atom-thick material and a metal. Such states are closely linked to exotic quantum phenomena, including unconventional superconductivity, and…"
+    },
+    {
+      "title": "Can a passing black hole disturbance leave a trace in Hawking radiation?",
+      "link": "https://phys.org/news/2026-10-black-hole-disturbance-hawking.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 06 Oct 2026 10:00:01 EDT",
+      "published_ts": 1791295201,
+      "summary": "Black holes, despite their extreme nature, are described by surprisingly few basic parameters: their mass, charge and spin. Two black holes may have formed for completely different reasons and passed through very different histories, yet still end up in the same final state. John Wheeler summarized…"
+    },
+    {
+      "title": "KIST Connects Four Korean Quantum Startups With U.S. Partners",
+      "link": "https://thequantuminsider.com/2026/10/06/kist-four-korean-quantum-startups-us-partners/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 06 Oct 2026 13:42:43 +0000",
+      "published_ts": 1791294163,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Following Quantum World Congress (QWC) 2026 in Maryland, four Korean quantum startups have expanded their U.S. market engagement through the Global Bridge Program, spanning Wisconsin and Chicago. Spearheaded by the Korea Institute of Science and Technology (KIST),…"
+    },
     {
       "title": "India’s Startup Policy Forum Launches DeepVerse,  Lists Quantum as a Priority",
       "link": "https://thequantuminsider.com/2026/10/06/indias-startup-policy-forum-launches-deepverse-lists-quantum-as-a-priority/",
@@ -34,60 +114,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; PQShield, a global leader in post-quantum cryptography (PQC), is strengthening its leadership team with two major hires, as demand for quantum-safe security accelerates across governments, critical infrastructure and major technology providers. Hal Conklin, joins…"
     },
     {
-      "title": "VTT Appoints Jani Kivioja to Lead Quantum Technologies Research",
-      "link": "https://thequantuminsider.com/2026/10/06/vtt-jani-kivioja-quantum-technologies-research/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 09:28:45 +0000",
-      "published_ts": 1791278925,
-      "summary": "Insider Brief PRESS RELEASE &#8212; “Finland already has strong scientific expertise in quantum technologies. What is still needed is determined R&#38;D, piloting and innovation to accelerate commercialisation,” says Jani Kivioja, who has been appointed Vice President of VTT’s Quantum Technologies r…"
-    },
-    {
-      "title": "QuantWare Appoints Bart Filius as Chief Financial Officer",
-      "link": "https://thequantuminsider.com/2026/10/06/quantware-bart-filius-chief-financial-officer/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 09:16:30 +0000",
-      "published_ts": 1791278190,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuantWare, the industrial quantum processor company, today announced that Bart Filius will join the company as Chief Financial Officer (CFO), effective 12 October 2026. Filius will also join the Board of Directors of QuantWare, as the company scales the industrial…"
-    },
-    {
-      "title": "Netherlands’s Quantum Strategy Sets 2035 Goals, Links Industry Growth to Cybersecurity",
-      "link": "https://thequantuminsider.com/2026/10/06/netherlandss-quantum-strategy-sets-2035-goals-links-industry-growth-to-cybersecurity/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 08:25:00 +0000",
-      "published_ts": 1791275100,
-      "summary": "Insider Brief The Netherlands plans to turn its quantum research strengths into commercial products while preparing government systems for computers that could defeat widely used encryption. A new governmentwide quantum strategy sets a 2035 goal for technological leadership, greater independence fro…"
-    },
-    {
-      "title": "University of Illinois Researchers Store Quantum Information on a Chip for Over a Microsecond",
-      "link": "https://thequantuminsider.com/2026/10/06/university-of-illinois-researchers-store-quantum-information-on-a-chip-for-over-a-microsecond/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 07:51:09 +0000",
-      "published_ts": 1791273069,
-      "summary": "Insider Brief PRESS RELEASE &#8212; For highly fragile quantum information systems, the ability to store quantum information is vital — but also challenging. Quantum information is transported in particles of light called photons, which often must be temporarily paused (or “stored”) while other, slo…"
-    },
-    {
-      "title": "Quantum Systems Never Quite Forget Where They Came From",
-      "link": "https://thequantuminsider.com/2026/10/06/quantum-systems-never-quite-forget-where-they-came-from/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 07:06:57 +0000",
-      "published_ts": 1791270417,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Even the most chaotic quantum systems keep a permanent mark of their own past – a &#8220;quantum birthmark&#8221; – that never fades. Researchers from Tampere University, Harvard University, and TU Dresden discovered the feature in their recent study. Their findin…"
-    },
-    {
       "title": "Quantum systems never quite forget where they came from",
       "link": "https://phys.org/news/2026-10-quantum.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 05 Oct 2026 16:00:13 EDT",
       "published_ts": 1791230413,
       "summary": "Even the most chaotic quantum systems keep a permanent mark of their own past—a \"quantum birthmark\"—that never fades. Researchers from Tampere University, Harvard University and TU Dresden discovered the feature in their recent study. Their findings shed new light on the elusive relationship between…"
-    },
-    {
-      "title": "planqc and LOGIQC Selected for Germany’s Quantum Computing Competition",
-      "link": "https://thequantuminsider.com/2026/10/05/planqc-logiqc-germany-quantum-computing-competition/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 05 Oct 2026 19:11:24 +0000",
-      "published_ts": 1791227484,
-      "summary": "Insider Brief PRESS RELEASE &#8212; planqc and the LOGIQC consortium have been selected as one of six consortia to compete in Germany’s Quantum Computing Competition (QCC). The QCC is a major initiative of the Federal Ministry of Research, Technology and Space (BMFTR) to advance error-corrected quan…"
     },
     {
       "title": "Scientists uncover recurrent patterns within chaotic quantum behavior",
@@ -192,38 +224,6 @@
       "published": "Tue, 29 Sep 2026 08:02:30 EDT",
       "published_ts": 1790683350,
       "summary": "Scientists have developed and experimentally demonstrated a long-sought method for identifying W states, an important form of multi-photon quantum entanglement. The technique could make complex entangled systems much easier to measure, opening new possibilities for quantum teleportation, communicati…"
-    },
-    {
-      "title": "Experimental evidence of altermagnetism in a layered material opens a promising path toward future spintronics",
-      "link": "https://phys.org/news/2026-09-experimental-evidence-altermagnetism-layered-material.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 28 Sep 2026 18:10:01 EDT",
-      "published_ts": 1790633401,
-      "summary": "To build the ultrafast computers of the future, scientists are looking beyond the electrical charge of electrons to another property: their spin. While conventional hardware relies on the movement of charge to process data, tapping into this intrinsic quantum property could enable researchers to rei…"
-    },
-    {
-      "title": "How to balance quantum batteries' high power with stable energy delivery",
-      "link": "https://phys.org/news/2026-09-quantum-batteries-high-power-stable.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 28 Sep 2026 15:20:10 EDT",
-      "published_ts": 1790623210,
-      "summary": "Quantum batteries are an emerging area of research, with progress coming from theoretical studies and proof-of-principle experiments in small quantum systems. Unlike conventional chemical batteries used in everyday life, they use quantum systems to store and transfer energy. Researchers are explorin…"
-    },
-    {
-      "title": "Quantum computer boldly goes where no quantum computer has gone before: Space",
-      "link": "https://phys.org/news/2026-09-quantum-boldly-space.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 28 Sep 2026 14:40:01 EDT",
-      "published_ts": 1790620801,
-      "summary": "There's big news from the quantum world. A quantum computer has been used in space for the first time. The device was aboard a spacecraft in low Earth orbit and demonstrated technology that could eventually help solve a problem that has been bugging satellites for years."
-    },
-    {
-      "title": "Mapping one atom's interaction with light uncovers an unbounded network of quantum states",
-      "link": "https://phys.org/news/2026-09-atom-interaction-uncovers-unbounded-network.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 28 Sep 2026 09:40:10 EDT",
-      "published_ts": 1790602810,
-      "summary": "A new graph-theoretic framework provides a unified description of atom-light interactions across regimes ranging from weak to deep-strong coupling."
     },
     {
       "title": "Quantum computing’s “dark horse” just proved it can go universal",
