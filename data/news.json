@@ -1,6 +1,94 @@
 {
-  "generated_ts": 1791376327,
+  "generated_ts": 1791412476,
   "items": [
+    {
+      "title": "Acoustic experiments confirm topology can persist at gapless critical points",
+      "link": "https://phys.org/news/2026-10-acoustic-topology-persist-gapless-critical.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 07 Oct 2026 16:40:20 EDT",
+      "published_ts": 1791405620,
+      "summary": "Two studies on critical topology have recently been published in the journal Nature. These studies were led by the teams of Prof. Baile Zhang at Nanyang Technological University, Singapore, and Prof. Jianhua Jiang at the University of Science and Technology of China, respectively. Prof. Xue-Jia Yu f…"
+    },
+    {
+      "title": "First observation of quantum spins shifting a centimeter-scale object in the lab",
+      "link": "https://phys.org/news/2026-10-quantum-shifting-centimeter-scale-lab.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 07 Oct 2026 14:00:50 EDT",
+      "published_ts": 1791396050,
+      "summary": "Modern technological breakthroughs like lasers, MRI scanners, semiconductors and quantum computers rest on the study of quantum mechanics. However, the field has predominantly focused on (sub)atomic phenomena far removed from our human senses."
+    },
+    {
+      "title": "Levitating glass sphere becomes entangled with light at room temperature",
+      "link": "https://phys.org/news/2026-10-levitating-glass-sphere-entangled-room.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 07 Oct 2026 12:40:13 EDT",
+      "published_ts": 1791391213,
+      "summary": "Today, many physicists are actively exploring how light could be used to link objects through quantum entanglement. By fully harnessing the effect, they hope to unlock a wide array of applications, from secure communication networks spanning vast distances to sensitive new tests of the fundamental l…"
+    },
+    {
+      "title": "KQC Quantum and Charlton Aria Agree on Nasdaq Business Combination",
+      "link": "https://thequantuminsider.com/2026/10/07/kqc-quantum-nasdaq-charlton-aria-merger/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 16:22:35 +0000",
+      "published_ts": 1791390155,
+      "summary": "Insider Brief PRESS RELEASE &#8212; KQC Quantum, Inc. (“KQC Parent”), the Delaware parent company of Korea Quantum Computing Co., Ltd. (“KQC” or the “Company”), which helps enterprises adopt quantum computing and quantum-safe security, and Charlton Aria Acquisition Corporation (Nasdaq: CHAR) (“Charl…"
+    },
+    {
+      "title": "Haiqu Releases AgenticOS to Plan and Check Quantum Research",
+      "link": "https://thequantuminsider.com/2026/10/07/haiqu-releases-agenticos-to-plan-and-check-quantum-research/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 15:42:10 +0000",
+      "published_ts": 1791387730,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Existing AI models have advanced to the point that they can contribute to real science, but they have their limits. An AI agent can produce convincing math and working code, but it might alter the underlying science while doing so, leaving researchers with results…"
+    },
+    {
+      "title": "Federal Quantum Readiness Falls Short as Agencies Face Cryptography Skills Gaps",
+      "link": "https://thequantuminsider.com/2026/10/07/federal-quantum-readiness-falls-short-as-agencies-face-cryptography-skills-gaps/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 13:54:46 +0000",
+      "published_ts": 1791381286,
+      "summary": "Insider Brief None of the 24 major federal agencies reviewed by the Government Accountability Office fully completed the preparation practices it assessed for protecting government systems against future quantum computing attacks. That&#8217;s according to the GAO&#8217;s recently released 2026 repo…"
+    },
+    {
+      "title": "Infineon and ZuriQ Deepen Partnership to Advance Scalable Quantum Chips",
+      "link": "https://thequantuminsider.com/2026/10/07/infineon-zuriq-scalable-quantum-chips/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 13:50:00 +0000",
+      "published_ts": 1791381000,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) and ZuriQ AG, a Swiss quantum computing company spun out of ETH Zurich, today announced the expansion of their collaboration to advance scalable quantum computing hardware. The partnership combines ZuriQ’s pioneer…"
+    },
+    {
+      "title": "Eclipse Qrisp Wins Quantum Effects Award 2026 for Quantum Software",
+      "link": "https://thequantuminsider.com/2026/10/07/eclipse-qrisp-quantum-effects-award-2026/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 13:30:00 +0000",
+      "published_ts": 1791379800,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Eclipse Foundation, one of the world’s largest open source software foundations, today announced that Eclipse Qrisp, an open source framework for high-level quantum programming initiated by Fraunhofer FOKUS, has won the Quantum Effects Award 2026 in the Quantu…"
+    },
+    {
+      "title": "Zumo and Quantum Chain Partner on Quantum-Secure Financial Infrastructure",
+      "link": "https://thequantuminsider.com/2026/10/07/zumo-quantum-chain-quantum-secure-financial-infrastructure/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 12:53:46 +0000",
+      "published_ts": 1791377626,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Zumo and Quantum Chain have teamed up to explore opportunities for quantum-secure financial infrastructure in the United Kingdom. The collaboration brings together Quantum Chain’s quantum-secure blockchain infrastructure with Zumo’s digital asset infrastructure an…"
+    },
+    {
+      "title": "Quanfluence Raises $10 Million to Build Photonic Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/10/07/quanfluence-10-million-photonic-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 12:41:29 +0000",
+      "published_ts": 1791376889,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quanfluence, a Bengaluru-based deep technology company building photonic quantum computers, has raised USD 10 million in a funding round led by Chiratae Ventures. Pi Ventures, which led Quanfluence’s seed round in 2024, returned as co-investor. Rainmatter by Zerod…"
+    },
+    {
+      "title": "Quantum City Relaunches With Focus on Quantum Training and Careers",
+      "link": "https://thequantuminsider.com/2026/10/07/quantum-city-relaunch-website-career-resources/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 12:30:00 +0000",
+      "published_ts": 1791376200,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum City, the public engagement initiative representing the UK National Quantum Technologies Programme, has relaunched today with a redeveloped website, updated resources and a new strategy aimed at highlighting training opportunities and career pathways for t…"
+    },
     {
       "title": "Quantum computing shortcut makes particle collisions easier to simulate",
       "link": "https://phys.org/news/2026-10-quantum-shortcut-particle-collisions-easier.html",
@@ -24,54 +112,6 @@
       "published": "Wed, 07 Oct 2026 10:54:20 +0000",
       "published_ts": 1791370460,
       "summary": "Insider Brief PRESS RELEASE &#8212; Chandigarh University&#8217;s CUBIC, India&#8217;s first university-led quantum incubator for deep-tech startups became an academic and incubation partner for PRAGATI Q-Foundry 2026, a national initiative of the Ministry of Science and Technology, aimed at acceler…"
-    },
-    {
-      "title": "Kai Voges Leads €5.8 Million Research Project on Hybrid Quantum Systems",
-      "link": "https://thequantuminsider.com/2026/10/07/kai-voges-hybrid-quantum-systems-research-group/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 10:47:15 +0000",
-      "published_ts": 1791370035,
-      "summary": "Insider Brief PRESS RELEASE &#8212; When the scientific community discusses quantum computers, it is usually the question of the underlying system that causes division. Ion traps, Rydberg atoms, or perhaps superconducting circuits? At Leibniz University Hannover, Dr Kai Voges has launched a new rese…"
-    },
-    {
-      "title": "RapidFort and SpaceWERX Sign Agreement on Space Cybersecurity",
-      "link": "https://thequantuminsider.com/2026/10/07/rapidfort-spacewerx-space-cybersecurity-agreement/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 10:41:44 +0000",
-      "published_ts": 1791369704,
-      "summary": "Insider Brief PRESS RELEASE &#8212; RapidFort, the leader in Software Supply Chain Security (SSCS) with the largest distribution of curated truly open-source software, today announced it has signed a Cooperative Research and Development Agreement (CRADA) with SpaceWERX, the innovation arm of the Uni…"
-    },
-    {
-      "title": "New X-ray Technique Helps Scientists Watch Quantum Materials Respond to Laser Pulses",
-      "link": "https://thequantuminsider.com/2026/10/07/new-x-ray-technique-helps-scientists-watch-quantum-materials-respond-to-laser-pulses/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 10:28:09 +0000",
-      "published_ts": 1791368889,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Creating a quantum device often begins by intentionally damaging a crystal. Scientists fire an ultrafast laser pulse into a material, knocking atoms out of place and leaving behind tiny imperfections called vacancies. Far from being flaws, these vacancies can beha…"
-    },
-    {
-      "title": "Cisco Introduces Software to Coordinate Larger Quantum Networks",
-      "link": "https://thequantuminsider.com/2026/10/07/cisco-introduces-software-to-coordinate-larger-quantum-networks/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 08:12:11 +0000",
-      "published_ts": 1791360731,
-      "summary": "Insider Brief Cisco has introduced two research prototypes designed to coordinate quantum networks, aiming to make connected quantum machines easier to operate and use. The company’s Quantum Network Controller and updated Network-Aware Quantum Compiler address different parts of that task. The contr…"
-    },
-    {
-      "title": "Quantus Launches Post-Quantum Asset QTC on near.com",
-      "link": "https://thequantuminsider.com/2026/10/07/quantus-launches-post-quantum-asset-qtc-on-near-com/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 07:35:52 +0000",
-      "published_ts": 1791358552,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantus, the proof-of-work blockchain built for quantum-safe money, today opened trading for its native token QTC, with near.com as its launch venue. Holders of BTC, ETH, USDC, ZEC, and 180+ other assets across 30+ chains can buy QTC confidentially from a near.com…"
-    },
-    {
-      "title": "QuantumCT Opens New Haven Innovation Hub to Build Connecticut’s Quantum Technology Ecosystem",
-      "link": "https://thequantuminsider.com/2026/10/07/quantumct-opens-new-haven-innovation-hub-to-build-connecticuts-quantum-technology-ecosystem/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 07:24:35 +0000",
-      "published_ts": 1791357875,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuantumCT celebrated the opening of its new home at 101 College Street, establishing a central hub for building Connecticut’s quantum technology ecosystem and moving scientific discoveries from the laboratory into practical applications. By bringing together resea…"
     },
     {
       "title": "Neural Correlation Learning for Quantum-Enhanced Sensing with Time-Independently Driven Rydberg Atom Arrays",
@@ -210,22 +250,6 @@
       "summary": "The world would look radically different without rulers and measuring tapes that fit into a pocket. Carpenters, fashion designers and engineers rely on these trusty tools to check the size of everything from a wooden board to a fabric swatch. But physicists who work with light lack that same conveni…"
     },
     {
-      "title": "Zapata Quantum Joins IBM Quantum Network for Application Development",
-      "link": "https://thequantuminsider.com/2026/10/06/zapata-ibm-quantum-network-application-development/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 17:04:10 +0000",
-      "published_ts": 1791306250,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Zapata Quantum (OTCQB: ZPTA) (“Zapata” or the “Company”) today announced it has joined the IBM Quantum Network with plans to use IBM’s world-class quantum computers with Zapata’s deep expertise in use-case discovery and application development. The Company’s effor…"
-    },
-    {
-      "title": "SEALSQ Leads $10 Million PIPE Investment in WISeSat.Space",
-      "link": "https://thequantuminsider.com/2026/10/06/sealsq-10-million-pipe-wisesat-space-cybersecurity/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 16:51:51 +0000",
-      "published_ts": 1791305511,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that it led a $10 million private investme…"
-    },
-    {
       "title": "Heavy fermions emerge at an atomic-layer interface, unlocking new ways to design quantum materials",
       "link": "https://phys.org/news/2026-10-heavy-fermions-emerge-atomic-layer.html",
       "source": "Phys.org — Quantum Physics",
@@ -312,30 +336,6 @@
       "published": "Wed, 30 Sep 2026 13:40:26 EDT",
       "published_ts": 1790790026,
       "summary": "By superimposing two ultrashort laser pulses that converge from different directions, a team of physicists at the University of Oldenburg has succeeded in generating three-dimensional light fields."
-    },
-    {
-      "title": "Zinc oxide quantum dots enable faster charge detection, laying groundwork for spin qubits",
-      "link": "https://phys.org/news/2026-09-zinc-oxide-quantum-dots-enable.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 30 Sep 2026 13:20:11 EDT",
-      "published_ts": 1790788811,
-      "summary": "Researchers at Tohoku University, in collaboration with the National Institute for Materials Science (NIMS) and the University of Tokyo, have taken an important step toward semiconductor quantum computing using zinc oxide (ZnO)."
-    },
-    {
-      "title": "Physicists identify 'octupolar' magnetism, with implications for quantum technologies",
-      "link": "https://phys.org/news/2026-09-physicists-octupolar-magnetism-implications-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 30 Sep 2026 10:40:25 EDT",
-      "published_ts": 1790779225,
-      "summary": "Most magnets have two poles: north and south, or positive and negative, in a familiar arrangement called a \"dipole.\" But researchers are increasingly uncovering more complex forms of magnetism."
-    },
-    {
-      "title": "Crystal spacing predicts magnetic states in complex alloys better than electron count",
-      "link": "https://phys.org/news/2026-09-crystal-spacing-magnetic-states-complex.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 30 Sep 2026 00:00:02 EDT",
-      "published_ts": 1790740802,
-      "summary": "In materials chemistry, identifying common parameters that can organize magnetic ground states across complex intermetallic compounds remains a central challenge. Researchers have long used chemically tunable parameters to control magnetic properties. One is valence-electron concentration, commonly…"
     },
     {
       "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
