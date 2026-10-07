@@ -1,6 +1,198 @@
 {
-  "generated_ts": 1791345510,
+  "generated_ts": 1791376327,
   "items": [
+    {
+      "title": "Quantum computing shortcut makes particle collisions easier to simulate",
+      "link": "https://phys.org/news/2026-10-quantum-shortcut-particle-collisions-easier.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 07 Oct 2026 08:00:01 EDT",
+      "published_ts": 1791374401,
+      "summary": "Collisions between particles at high energies can sometimes produce new particles and shed light on interactions between the fundamental constituents of matter. Simulating these collisions and their underlying processes could yield valuable insights into how matter behaves at extremely small scales."
+    },
+    {
+      "title": "Project Eleven Launches Strongpoint for Post-Quantum Digital Asset Custody",
+      "link": "https://thequantuminsider.com/2026/10/07/project-eleven-strongpoint-post-quantum-digital-asset-custody/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 11:02:30 +0000",
+      "published_ts": 1791370950,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Project Eleven, the post-quantum security company for digital assets, today introduced Strongpoint, its flagship custody platform built for navigating the transition to post-quantum cryptography. Zcash Foundation joins Project Eleven as an initial development part…"
+    },
+    {
+      "title": "Chandigarh University and 247VC Partner on Quantum Startup Investment",
+      "link": "https://thequantuminsider.com/2026/10/07/chandigarh-university-247vc-quantum-deep-tech-startups/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 10:54:20 +0000",
+      "published_ts": 1791370460,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Chandigarh University&#8217;s CUBIC, India&#8217;s first university-led quantum incubator for deep-tech startups became an academic and incubation partner for PRAGATI Q-Foundry 2026, a national initiative of the Ministry of Science and Technology, aimed at acceler…"
+    },
+    {
+      "title": "Kai Voges Leads €5.8 Million Research Project on Hybrid Quantum Systems",
+      "link": "https://thequantuminsider.com/2026/10/07/kai-voges-hybrid-quantum-systems-research-group/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 10:47:15 +0000",
+      "published_ts": 1791370035,
+      "summary": "Insider Brief PRESS RELEASE &#8212; When the scientific community discusses quantum computers, it is usually the question of the underlying system that causes division. Ion traps, Rydberg atoms, or perhaps superconducting circuits? At Leibniz University Hannover, Dr Kai Voges has launched a new rese…"
+    },
+    {
+      "title": "RapidFort and SpaceWERX Sign Agreement on Space Cybersecurity",
+      "link": "https://thequantuminsider.com/2026/10/07/rapidfort-spacewerx-space-cybersecurity-agreement/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 10:41:44 +0000",
+      "published_ts": 1791369704,
+      "summary": "Insider Brief PRESS RELEASE &#8212; RapidFort, the leader in Software Supply Chain Security (SSCS) with the largest distribution of curated truly open-source software, today announced it has signed a Cooperative Research and Development Agreement (CRADA) with SpaceWERX, the innovation arm of the Uni…"
+    },
+    {
+      "title": "New X-ray Technique Helps Scientists Watch Quantum Materials Respond to Laser Pulses",
+      "link": "https://thequantuminsider.com/2026/10/07/new-x-ray-technique-helps-scientists-watch-quantum-materials-respond-to-laser-pulses/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 10:28:09 +0000",
+      "published_ts": 1791368889,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Creating a quantum device often begins by intentionally damaging a crystal. Scientists fire an ultrafast laser pulse into a material, knocking atoms out of place and leaving behind tiny imperfections called vacancies. Far from being flaws, these vacancies can beha…"
+    },
+    {
+      "title": "Cisco Introduces Software to Coordinate Larger Quantum Networks",
+      "link": "https://thequantuminsider.com/2026/10/07/cisco-introduces-software-to-coordinate-larger-quantum-networks/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 08:12:11 +0000",
+      "published_ts": 1791360731,
+      "summary": "Insider Brief Cisco has introduced two research prototypes designed to coordinate quantum networks, aiming to make connected quantum machines easier to operate and use. The company’s Quantum Network Controller and updated Network-Aware Quantum Compiler address different parts of that task. The contr…"
+    },
+    {
+      "title": "Quantus Launches Post-Quantum Asset QTC on near.com",
+      "link": "https://thequantuminsider.com/2026/10/07/quantus-launches-post-quantum-asset-qtc-on-near-com/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 07:35:52 +0000",
+      "published_ts": 1791358552,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantus, the proof-of-work blockchain built for quantum-safe money, today opened trading for its native token QTC, with near.com as its launch venue. Holders of BTC, ETH, USDC, ZEC, and 180+ other assets across 30+ chains can buy QTC confidentially from a near.com…"
+    },
+    {
+      "title": "QuantumCT Opens New Haven Innovation Hub to Build Connecticut’s Quantum Technology Ecosystem",
+      "link": "https://thequantuminsider.com/2026/10/07/quantumct-opens-new-haven-innovation-hub-to-build-connecticuts-quantum-technology-ecosystem/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 07 Oct 2026 07:24:35 +0000",
+      "published_ts": 1791357875,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuantumCT celebrated the opening of its new home at 101 College Street, establishing a central hub for building Connecticut’s quantum technology ecosystem and moving scientific discoveries from the laboratory into practical applications. By bringing together resea…"
+    },
+    {
+      "title": "Neural Correlation Learning for Quantum-Enhanced Sensing with Time-Independently Driven Rydberg Atom Arrays",
+      "link": "https://arxiv.org/abs/2610.06961",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.06961v1 Announce Type: new  Abstract: Quantum-enhanced sensing typically relies on preparing specific entangled states. However, engineering these states in scalable many-body systems remains challenging due to the difficulty of designing robust preparation protocols and accounting for re…"
+    },
+    {
+      "title": "Simultaneous Circuit Tests for Finite Reversible Models of Quantum Control",
+      "link": "https://arxiv.org/abs/2610.06984",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.06984v1 Announce Type: new  Abstract: A finite reversible model can approximate individual quantum gates while retaining freedom in its transition tables and preparation contexts. We formulate the simultaneous certification problem in which one stationary controller and one preparation la…"
+    },
+    {
+      "title": "Exact Unitary Synthesis: Simultaneously Optimal in Size and Depth-Ancilla Tradeoff",
+      "link": "https://arxiv.org/abs/2610.07010",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07010v1 Announce Type: new  Abstract: Unitary synthesis underlies universal quantum computation by translating unitary transformations into circuits of elementary gates. We show that for any budget $m\\geq 0$ of ancilla, every $n$-qubit unitary can be exactly implemented using a quantum ci…"
+    },
+    {
+      "title": "Black Hole Radiation Decoding in the Haar Random Oracle Model",
+      "link": "https://arxiv.org/abs/2610.07124",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07124v1 Announce Type: new  Abstract: We prove optimal query bounds for recovering a single qubit from black-hole radiation in the Haar random oracle model, when the remaining black hole contains at most one sixteenth of the system's qubits. Recovery with any constant Haar-averaged advant…"
+    },
+    {
+      "title": "Protecting bosonic codes from ancilla-induced errors with continuous-variable flags",
+      "link": "https://arxiv.org/abs/2610.07139",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07139v1 Announce Type: new  Abstract: Bosonic quantum error correction represents a route towards significant hardware overhead reduction for fault-tolerant quantum computation. However, controlling quantum harmonic oscillators that encode the quantum information comes with its own challe…"
+    },
+    {
+      "title": "Kardar-Parisi-Zhang superdiffusion in chaotic quantum circuits",
+      "link": "https://arxiv.org/abs/2610.07143",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07143v1 Announce Type: new  Abstract: We construct a family of chaotic brickwork quantum circuits exhibiting superdiffusive transport with dynamical exponent $z=3/2$ in the full Kardar--Parisi--Zhang (KPZ) universality class. This is enabled by the equilibrium current associated with a in…"
+    },
+    {
+      "title": "Decoupling Spectral Gaps from Entanglement Complexity in Quantum Annealing",
+      "link": "https://arxiv.org/abs/2610.07144",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07144v1 Announce Type: new  Abstract: Exponentially small spectral gaps are the central obstacle to adiabatic quantum annealing, yet whether such bottlenecks demand correspondingly complex entanglement remains unclear. We show that gap scaling and entanglement complexity need not be linke…"
+    },
+    {
+      "title": "Pauli Flat Quantum States Mimicking Maximal Magic",
+      "link": "https://arxiv.org/abs/2610.07172",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07172v1 Announce Type: new  Abstract: Quantum magic is a necessary resource for fault-tolerant quantum computing, capturing the departure of quantum states from the classically simulable stabiliser set. Motivated by its role in quantum information processing, we investigate the correlatio…"
+    },
+    {
+      "title": "Connectivity Controls Variational Accessibility in Symmetry-Preserving Quantum Circuits",
+      "link": "https://arxiv.org/abs/2610.07173",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07173v1 Announce Type: new  Abstract: Designing expressive quantum circuits for the variational quantum eigensolver (VQE) is a central challenge in simulating interacting many-body systems. Even symmetry-preserving (SP) circuits need not access the full many-body symmetry sector. We demon…"
+    },
+    {
+      "title": "Learning Disentangled Representations with Quantum Variational Autoencoders",
+      "link": "https://arxiv.org/abs/2610.07196",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07196v1 Announce Type: new  Abstract: Variational autoencoders are powerful representation learning models that map complex data into low-dimensional latent spaces, enabling the discovery of interpretable and disentangled factors. Such representations can facilitate the interpretation and…"
+    },
+    {
+      "title": "Open-System Probe Selection and Optimal Measurements for Dispersive Coupling Metrology",
+      "link": "https://arxiv.org/abs/2610.07221",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07221v1 Announce Type: new  Abstract: We investigate how photon loss and environmental memory affect probe selection and measurement sensitivity for estimating the dispersive coupling strength in a cavity qubit system. Using density operator and quantum state diffusion approaches, we exam…"
+    },
+    {
+      "title": "Quantum Machine Learning for Few-Shot Impersonation Detection in Digital Account Opening",
+      "link": "https://arxiv.org/abs/2610.07242",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07242v1 Announce Type: new  Abstract: Identity impersonation fraud may emerge only after digital account opening, requiring an early post-onboarding approach based on behavioral and transactional signals observed shortly after activation. Confirmed cases remain rare, creating extreme clas…"
+    },
+    {
+      "title": "Pauli Error Composition Determines the Multipartite Advantage in Conference Key Agreement",
+      "link": "https://arxiv.org/abs/2610.07251",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07251v1 Announce Type: new  Abstract: GHZ-based conference key agreement distributes a shared key to $N$ parties in one network use, whereas pairwise BB84 needs $N-1$. The survival of that advantage has been studied against party number, loss, and topology, but almost always with the chan…"
+    },
+    {
+      "title": "Resource-Aware Grover Search for Minimum Vertex Cover",
+      "link": "https://arxiv.org/abs/2610.07252",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07252v1 Announce Type: new  Abstract: The Minimum Vertex Cover (MVC) problem is a fundamental NP-hard combinatorial optimization problem with applications in network analysis and resource allocation. Grover's algorithm provides a quadratic reduction in query complexity for unstructured se…"
+    },
+    {
+      "title": "The parliament of observers - Against the observable axiom of quantum mechanics",
+      "link": "https://arxiv.org/abs/2610.07254",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791345600,
+      "summary": "arXiv:2610.07254v1 Announce Type: new  Abstract: The 'unreasonable effectiveness of mathematics in the natural sciences' may at times give the impression that natural science, especially modern theoretical physics, is all but a formal apparatus. However, a key challenge of physics remains to align e…"
+    },
     {
       "title": "X-ray technique reveals how quantum materials respond to laser pulses in real time",
       "link": "https://phys.org/news/2026-10-ray-technique-reveals-quantum-materials.html",
@@ -34,30 +226,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that it led a $10 million private investme…"
     },
     {
-      "title": "FAU Receives $200,000 NIST Award for Quantum Cybersecurity Workforce",
-      "link": "https://thequantuminsider.com/2026/10/06/fau-nist-grant-quantum-cybersecurity-workforce/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 16:43:46 +0000",
-      "published_ts": 1791305026,
-      "summary": "Insider Brief PRESS RELEASE &#8212; As quantum computing advances, it is creating new cybersecurity challenges that will require a workforce trained to protect critical systems and infrastructure. Yet few workforce development programs provide hands-on training that integrates quantum computing, cyb…"
-    },
-    {
-      "title": "Pasqal Leads €50 Million Q-PLANET Project for Neutral-Atom Quantum Technology",
-      "link": "https://thequantuminsider.com/2026/10/06/pasqal-50-million-q-planet-neutral-atom-quantum/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 16:26:26 +0000",
-      "published_ts": 1791303986,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal (NASDAQ: PSQL), a global leader in neutral-atom quantum computing, is coordinating the implementation of Q-PLANET (Quantum Pilot Line for production of Advanced chips for Neutral atom European Technologies), co-funded by the EU Chips Joint Undertaking (Chip…"
-    },
-    {
-      "title": "Infleqtion, Honeywell and UCSB Develop Chip-Scale Optical Cavity",
-      "link": "https://thequantuminsider.com/2026/10/06/infleqtion-honeywell-ucsb-quantum-hardware-miniaturization/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 16:18:51 +0000",
-      "published_ts": 1791303531,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral atom technology, in collaboration with Honeywell Aerospace and Distinguished Professor Daniel J. Blumenthal of UC Santa Barbara (UCSB), announced development of a…"
-    },
-    {
       "title": "Heavy fermions emerge at an atomic-layer interface, unlocking new ways to design quantum materials",
       "link": "https://phys.org/news/2026-10-heavy-fermions-emerge-atomic-layer.html",
       "source": "Phys.org — Quantum Physics",
@@ -72,46 +240,6 @@
       "published": "Tue, 06 Oct 2026 10:00:01 EDT",
       "published_ts": 1791295201,
       "summary": "Black holes, despite their extreme nature, are described by surprisingly few basic parameters: their mass, charge and spin. Two black holes may have formed for completely different reasons and passed through very different histories, yet still end up in the same final state. John Wheeler summarized…"
-    },
-    {
-      "title": "KIST Connects Four Korean Quantum Startups With U.S. Partners",
-      "link": "https://thequantuminsider.com/2026/10/06/kist-four-korean-quantum-startups-us-partners/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 13:42:43 +0000",
-      "published_ts": 1791294163,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Following Quantum World Congress (QWC) 2026 in Maryland, four Korean quantum startups have expanded their U.S. market engagement through the Global Bridge Program, spanning Wisconsin and Chicago. Spearheaded by the Korea Institute of Science and Technology (KIST),…"
-    },
-    {
-      "title": "India’s Startup Policy Forum Launches DeepVerse,  Lists Quantum as a Priority",
-      "link": "https://thequantuminsider.com/2026/10/06/indias-startup-policy-forum-launches-deepverse-lists-quantum-as-a-priority/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 11:57:40 +0000",
-      "published_ts": 1791287860,
-      "summary": "Insider Brief India’s Startup Policy Forum launched a center to give deep-technology companies, including quantum startups, a sustained role in shaping national policy, according to a news release. The industry alliance said its Centre for DeepTech Innovation, called DeepVerse, will bring together i…"
-    },
-    {
-      "title": "QuantumGate and NEC GCC Partner on Post-Quantum Security in the UAE",
-      "link": "https://thequantuminsider.com/2026/10/06/quantumgate-nec-gcc-post-quantum-security-cyber-resilience/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 11:56:22 +0000",
-      "published_ts": 1791287782,
-      "summary": "Insider Brief QuantumGate, a quantum-safe cybersecurity firm based in Abu Dhabi and a subsidiary of VentureOne, has entered a strategic collaboration with NEC Corporation&#8217;s GCC branch, the companies announced. The partnership is focused on accelerating the rollout of post-quantum security, sov…"
-    },
-    {
-      "title": "Xanadu and GlobalFoundries Partner on Photonic Quantum Manufacturing",
-      "link": "https://thequantuminsider.com/2026/10/06/xanadu-globalfoundries-photonic-quantum-manufacturing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 11:40:47 +0000",
-      "published_ts": 1791286847,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Xanadu Quantum Technologies Limited (&#8220;Xanadu&#8220;; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, today announced a strategic multi-year partnership with GlobalFoundries (GF), a leading semiconductor manufacturer, to address the high-volu…"
-    },
-    {
-      "title": "PQShield Appoints New Commercial and Sovereign Security Leaders",
-      "link": "https://thequantuminsider.com/2026/10/06/pqshield-commercial-sovereign-security-leaders/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 06 Oct 2026 09:40:12 +0000",
-      "published_ts": 1791279612,
-      "summary": "Insider Brief PRESS RELEASE &#8212; PQShield, a global leader in post-quantum cryptography (PQC), is strengthening its leadership team with two major hires, as demand for quantum-safe security accelerates across governments, critical infrastructure and major technology providers. Hal Conklin, joins…"
     },
     {
       "title": "Quantum systems never quite forget where they came from",
@@ -208,14 +336,6 @@
       "published": "Wed, 30 Sep 2026 00:00:02 EDT",
       "published_ts": 1790740802,
       "summary": "In materials chemistry, identifying common parameters that can organize magnetic ground states across complex intermetallic compounds remains a central challenge. Researchers have long used chemically tunable parameters to control magnetic properties. One is valence-electron concentration, commonly…"
-    },
-    {
-      "title": "Rotating light pattern reveals laser frequency in a single image",
-      "link": "https://phys.org/news/2026-09-rotating-pattern-reveals-laser-frequency.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 29 Sep 2026 11:40:10 EDT",
-      "published_ts": 1790696410,
-      "summary": "An international team of physicists has developed a new method for determining the precise color of laser light using an image that rotates as the laser's frequency shifts."
     },
     {
       "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
