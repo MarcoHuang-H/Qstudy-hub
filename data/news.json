@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1791432679,
+  "generated_ts": 1791463310,
   "items": [
+    {
+      "title": "Diraq Advances to Stage C of DARPA Quantum Benchmarking Initiative",
+      "link": "https://thequantuminsider.com/2026/10/08/diraq-advances-to-final-stage-of-darpa-quantum-benchmarking-initiative/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 08 Oct 2026 11:40:25 +0000",
+      "published_ts": 1791459625,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Diraq today announced it has been selected by the U.S. Defense Advanced Research Projects Agency (DARPA) to advance to Stage C of the agency’s Quantum Benchmarking Initiative (QBI), the final stage of the world’s most rigorous program evaluating whether any quantu…"
+    },
+    {
+      "title": "IonQ Advances to Stage C of DARPA Quantum Benchmarking Initiative",
+      "link": "https://thequantuminsider.com/2026/10/08/ionq-advances-to-final-stage-of-darpa-quantum-benchmarking-initiative/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 08 Oct 2026 11:07:54 +0000",
+      "published_ts": 1791457674,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, has advanced to Stage C of the Defense Advanced Research Projects Agency’s Quantum Benchmarking Initiative (QBI). IonQ and DARPA have signed a Stage C agreement with a potential value…"
+    },
+    {
+      "title": "Atom Computing Advances to Final Stage of DARPA Quantum Program",
+      "link": "https://thequantuminsider.com/2026/10/08/atom-computing-advances-to-final-stage-of-darpa-quantum-program/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 08 Oct 2026 10:54:36 +0000",
+      "published_ts": 1791456876,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Atom Computing today announced it has been selected by the Defense Advanced Research Projects Agency (DARPA) to advance to the final stage of the Quantum Benchmarking Initiative (QBI), a landmark program assessing the feasibility of building utility-scale quantum…"
+    },
+    {
+      "title": "Crystal Material’s Spiral Structure Could Lead to New Electronics And Computer Memory",
+      "link": "https://thequantuminsider.com/2026/10/08/crystal-materials-spiral-structure-could-lead-to-new-electronics-and-computer-memory/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 08 Oct 2026 07:52:15 +0000",
+      "published_ts": 1791445935,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A University of Texas at Dallas scientist and her colleagues have discovered an unusual atomic pattern in a uranium-based material that gives it a rare combination of magnetic properties, a finding that could open new pathways for designing advanced electronic and…"
+    },
+    {
+      "title": "Universal Quantum Raises Over $100 Million Series A",
+      "link": "https://thequantuminsider.com/2026/10/08/universal-quantum-raises-over-100-million-series-a/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 08 Oct 2026 07:37:31 +0000",
+      "published_ts": 1791445051,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Universal Quantum, the company building large-scale quantum computing systems for real-world use, today announced it has secured over $100 million in Series A funding &#8211; marking the largest Series A ever raised by a quantum firm headquartered in the UK. The f…"
+    },
     {
       "title": "Quantum Readout Complexity for Normalized Linear Functionals",
       "link": "https://arxiv.org/abs/2610.08890",
@@ -186,52 +226,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) and ZuriQ AG, a Swiss quantum computing company spun out of ETH Zurich, today announced the expansion of their collaboration to advance scalable quantum computing hardware. The partnership combines ZuriQ’s pioneer…"
     },
     {
-      "title": "Eclipse Qrisp Wins Quantum Effects Award 2026 for Quantum Software",
-      "link": "https://thequantuminsider.com/2026/10/07/eclipse-qrisp-quantum-effects-award-2026/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 13:30:00 +0000",
-      "published_ts": 1791379800,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Eclipse Foundation, one of the world’s largest open source software foundations, today announced that Eclipse Qrisp, an open source framework for high-level quantum programming initiated by Fraunhofer FOKUS, has won the Quantum Effects Award 2026 in the Quantu…"
-    },
-    {
-      "title": "Zumo and Quantum Chain Partner on Quantum-Secure Financial Infrastructure",
-      "link": "https://thequantuminsider.com/2026/10/07/zumo-quantum-chain-quantum-secure-financial-infrastructure/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 12:53:46 +0000",
-      "published_ts": 1791377626,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Zumo and Quantum Chain have teamed up to explore opportunities for quantum-secure financial infrastructure in the United Kingdom. The collaboration brings together Quantum Chain’s quantum-secure blockchain infrastructure with Zumo’s digital asset infrastructure an…"
-    },
-    {
-      "title": "Quanfluence Raises $10 Million to Build Photonic Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/10/07/quanfluence-10-million-photonic-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 12:41:29 +0000",
-      "published_ts": 1791376889,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quanfluence, a Bengaluru-based deep technology company building photonic quantum computers, has raised USD 10 million in a funding round led by Chiratae Ventures. Pi Ventures, which led Quanfluence’s seed round in 2024, returned as co-investor. Rainmatter by Zerod…"
-    },
-    {
-      "title": "Quantum City Relaunches With Focus on Quantum Training and Careers",
-      "link": "https://thequantuminsider.com/2026/10/07/quantum-city-relaunch-website-career-resources/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 12:30:00 +0000",
-      "published_ts": 1791376200,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum City, the public engagement initiative representing the UK National Quantum Technologies Programme, has relaunched today with a redeveloped website, updated resources and a new strategy aimed at highlighting training opportunities and career pathways for t…"
-    },
-    {
       "title": "Quantum computing shortcut makes particle collisions easier to simulate",
       "link": "https://phys.org/news/2026-10-quantum-shortcut-particle-collisions-easier.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 07 Oct 2026 08:00:01 EDT",
       "published_ts": 1791374401,
       "summary": "Collisions between particles at high energies can sometimes produce new particles and shed light on interactions between the fundamental constituents of matter. Simulating these collisions and their underlying processes could yield valuable insights into how matter behaves at extremely small scales."
-    },
-    {
-      "title": "Project Eleven Launches Strongpoint for Post-Quantum Digital Asset Custody",
-      "link": "https://thequantuminsider.com/2026/10/07/project-eleven-strongpoint-post-quantum-digital-asset-custody/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 11:02:30 +0000",
-      "published_ts": 1791370950,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Project Eleven, the post-quantum security company for digital assets, today introduced Strongpoint, its flagship custody platform built for navigating the transition to post-quantum cryptography. Zcash Foundation joins Project Eleven as an initial development part…"
     },
     {
       "title": "X-ray technique reveals how quantum materials respond to laser pulses in real time",
