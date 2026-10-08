@@ -1,45 +1,109 @@
 {
-  "generated_ts": 1791463310,
+  "generated_ts": 1791499598,
   "items": [
     {
-      "title": "Diraq Advances to Stage C of DARPA Quantum Benchmarking Initiative",
-      "link": "https://thequantuminsider.com/2026/10/08/diraq-advances-to-final-stage-of-darpa-quantum-benchmarking-initiative/",
+      "title": "NSF Names Founding Partners for X-Labs Consortium, With Occam Foundry and Florida Quantum Center Among Them",
+      "link": "https://thequantuminsider.com/2026/10/08/nsf-names-founding-partners-for-x-labs-consortium-with-occam-foundry-and-florida-quantum-center-among-them/",
       "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 11:40:25 +0000",
-      "published_ts": 1791459625,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Diraq today announced it has been selected by the U.S. Defense Advanced Research Projects Agency (DARPA) to advance to Stage C of the agency’s Quantum Benchmarking Initiative (QBI), the final stage of the world’s most rigorous program evaluating whether any quantu…"
+      "published": "Thu, 08 Oct 2026 21:21:56 +0000",
+      "published_ts": 1791494516,
+      "summary": "Insider Brief The U.S. National Science Foundation has put names to the founding partners of its new NSF X-Labs Consortium, the private-sector and philanthropic backbone for the agency&#8217;s $1.5 billion X-Labs initiative. In a post on X, NSF thanked the Astera Institute, Ginkgo Bioworks, Tom Secu…"
     },
     {
-      "title": "IonQ Advances to Stage C of DARPA Quantum Benchmarking Initiative",
-      "link": "https://thequantuminsider.com/2026/10/08/ionq-advances-to-final-stage-of-darpa-quantum-benchmarking-initiative/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 11:07:54 +0000",
-      "published_ts": 1791457674,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, has advanced to Stage C of the Defense Advanced Research Projects Agency’s Quantum Benchmarking Initiative (QBI). IonQ and DARPA have signed a Stage C agreement with a potential value…"
+      "title": "How researchers tell different quantum excitations apart in individual molecules",
+      "link": "https://phys.org/news/2026-10-quantum-individual-molecules.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 08 Oct 2026 16:50:02 EDT",
+      "published_ts": 1791492602,
+      "summary": "Molecules can be placed in a wide variety of quantum states. How can these states be distinguished in measurements when theoretical models are unreliable? Which excitation process lies behind which measurement signal?"
     },
     {
-      "title": "Atom Computing Advances to Final Stage of DARPA Quantum Program",
-      "link": "https://thequantuminsider.com/2026/10/08/atom-computing-advances-to-final-stage-of-darpa-quantum-program/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 10:54:36 +0000",
-      "published_ts": 1791456876,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Atom Computing today announced it has been selected by the Defense Advanced Research Projects Agency (DARPA) to advance to the final stage of the Quantum Benchmarking Initiative (QBI), a landmark program assessing the feasibility of building utility-scale quantum…"
+      "title": "Layered semiconductor unlocks magnetic control of light emitted by quantum condensates",
+      "link": "https://phys.org/news/2026-10-layered-semiconductor-magnetic-emitted-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 08 Oct 2026 16:00:11 EDT",
+      "published_ts": 1791489611,
+      "summary": "Quantum technologies are considered key technologies of the future. However, research in this field requires not only scientific expertise but sometimes also highly specialized laboratory conditions. Bose–Einstein condensates are a remarkable example, in which atoms move in lockstep, making quantum-…"
     },
     {
-      "title": "Crystal Material’s Spiral Structure Could Lead to New Electronics And Computer Memory",
-      "link": "https://thequantuminsider.com/2026/10/08/crystal-materials-spiral-structure-could-lead-to-new-electronics-and-computer-memory/",
+      "title": "DOE Announces Science Applications For Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/10/08/doe-announces-science-applications-for-quantum-computing/",
       "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 07:52:15 +0000",
-      "published_ts": 1791445935,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A University of Texas at Dallas scientist and her colleagues have discovered an unusual atomic pattern in a uranium-based material that gives it a rare combination of magnetic properties, a finding that could open new pathways for designing advanced electronic and…"
+      "published": "Thu, 08 Oct 2026 19:24:58 +0000",
+      "published_ts": 1791487498,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of Energy (DOE) today announced the release of Quantum Genesis Priority Applications (QGPAs), a set of eight key scientific utility problems that will guide the Quantum Genesis’s goal of developing fault-tolerant scientifically relevant quantum…"
     },
     {
-      "title": "Universal Quantum Raises Over $100 Million Series A",
-      "link": "https://thequantuminsider.com/2026/10/08/universal-quantum-raises-over-100-million-series-a/",
+      "title": "Liquid-crystal-like magnetism explains puzzling properties in a rare-earth compound",
+      "link": "https://phys.org/news/2026-10-liquid-crystal-magnetism-puzzling-properties.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 08 Oct 2026 15:20:15 EDT",
+      "published_ts": 1791487215,
+      "summary": "In some materials, physical properties don't emerge from their individual particles, but from the collective behavior of their quantum spins. Now, researchers led by Pengcheng Dai at Rice University in the U.S. have discovered that in one compound containing the rare-earth element ytterbium, these s…"
+    },
+    {
+      "title": "Oratomic Raises $775 Million to Develop Fault-Tolerant Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/10/08/oratomic-secures-775-million-fault-tolerant-quantum-computers/",
       "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 07:37:31 +0000",
-      "published_ts": 1791445051,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Universal Quantum, the company building large-scale quantum computing systems for real-world use, today announced it has secured over $100 million in Series A funding &#8211; marking the largest Series A ever raised by a quantum firm headquartered in the UK. The f…"
+      "published": "Thu, 08 Oct 2026 17:45:00 +0000",
+      "published_ts": 1791481500,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Oratomic, whose mission is to build the first fault-tolerant quantum computers, announced today that it has raised a total of $775 million since its launch in March 2026. The company will use the funds to accelerate the development of utility-scale, fault-tolerant…"
+    },
+    {
+      "title": "NTT DOCOMO BUSINESS and Classiq Partner on Enterprise Quantum Computing in Japan",
+      "link": "https://thequantuminsider.com/2026/10/08/ntt-docomo-business-classiq-quantum-computing-japan/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 08 Oct 2026 17:15:00 +0000",
+      "published_ts": 1791479700,
+      "summary": "Insider Brief PRESS RELEASE &#8212; NTT DOCOMO BUSINESS, Inc. (formerly NTT Communications Corporation) and Classiq Technologies G.K., the Japanese subsidiary of Classiq Technologies Ltd., today announced a memorandum of understanding establishing a strategic business partnership aimed at accelerati…"
+    },
+    {
+      "title": "NVIDIA Commits $1 Billion to U.S. Science and Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/10/08/nvidia-commits-1-billion-advance-us-science-next-five-years/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 08 Oct 2026 16:33:17 +0000",
+      "published_ts": 1791477197,
+      "summary": "Insider Brief PRESS RELEASE &#8212; NVIDIA today announced commitments valued at $1 billion to build out the United States’ capacity for super intelligence research and development in fields critical for U.S. leadership, including quantum computing, healthcare and energy security. The announcement w…"
+    },
+    {
+      "title": "PsiQuantum Receives Conditional $150M Loan Commitment From U.S. Department of War",
+      "link": "https://thequantuminsider.com/2026/10/08/psiquantum-conditional-150m-loan-california-quantum-facility/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 08 Oct 2026 15:14:31 +0000",
+      "published_ts": 1791472471,
+      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum announced today that the company has received a conditional commitment for a loan of up to $150 million from the U.S. Department of War’s Office of Strategic Capital (OSC), which would expand the company’s advanced manufacturing and prototyping capabili…"
+    },
+    {
+      "title": "NSF Launches New Programs for Quantum Innovation and STEM Research",
+      "link": "https://thequantuminsider.com/2026/10/08/nsf-new-quantum-research-stem-workforce-programs/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 08 Oct 2026 15:10:03 +0000",
+      "published_ts": 1791472203,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. National Science Foundation today announced plans to launch a series of programs and initiatives to support the ambitious vision articulated in the White House report Science: A New Golden Age, the first comprehensive rethinking of the U.S. science and te…"
+    },
+    {
+      "title": "Quantum Source’s QS-LINK Uses a Single Atom to Help Quantum Processors Connect",
+      "link": "https://thequantuminsider.com/2026/10/08/quantum-sources-qs-link-uses-a-single-atom-to-help-quantum-processors-connect/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 08 Oct 2026 14:26:44 +0000",
+      "published_ts": 1791469604,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Source, developer of compound photon-atom technology that makes photonic quantum computers practical, published the first technical details of its proprietary&#160;QS-LINK, an interconnect built to break the bottleneck that keeps quantum computers from sca…"
+    },
+    {
+      "title": "Energy Department Announces New Genesis Mission Awards to Accelerate Scientific Capability",
+      "link": "https://thequantuminsider.com/2026/10/08/energy-department-announces-new-genesis-mission-awards-to-accelerate-scientific-capability/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 08 Oct 2026 14:16:47 +0000",
+      "published_ts": 1791469007,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of Energy (DOE) today announced 12 Phase II project awards for President Trump’s historic Genesis Mission, totaling $159 million, that will expand efforts to harness artificial intelligence (AI), advanced computing, and the nation’s world-class…"
+    },
+    {
+      "title": "Surfshark Adds ML-DSA Authentication to Post-Quantum WireGuard",
+      "link": "https://thequantuminsider.com/2026/10/08/surfshark-achieves-full-post-quantum-wireguard-implementation/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 08 Oct 2026 14:03:16 +0000",
+      "published_ts": 1791468196,
+      "summary": "Insider Brief PRESS RELEASE &#8212; This major security development milestone follows the initial launch of Dausos, Surfshark’s proprietary VPN protocol engineered with complete post-quantum security from the ground up. By pairing encryption with ML-KEM (key encapsulation mechanism) and certificates…"
     },
     {
       "title": "Quantum Readout Complexity for Normalized Linear Functionals",
@@ -162,14 +226,6 @@
       "summary": "arXiv:2610.09373v1 Announce Type: new  Abstract: We develop an end-to-end framework for estimating canonical thermal properties of particle-number-conserving second-quantized Hamiltonians using quantum simulations. The framework integrates initial state preparation with mixed Dicke states, particle-…"
     },
     {
-      "title": "IBM Advances to Stage C of DARPA Quantum Benchmarking Initiative",
-      "link": "https://thequantuminsider.com/2026/10/07/ibm-advances-to-stage-c-of-darpa-quantum-benchmarking-initiative/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 22:00:00 +0000",
-      "published_ts": 1791410400,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IBM (NYSE: IBM) today announced it has been selected for Stage C, the third phase of the Quantum Benchmarking Initiative (QBI) led by DARPA, the United States Defense Advanced Research Projects Agency. This phase will advance IBM through DARPA&#8217;s verification…"
-    },
-    {
       "title": "Acoustic experiments confirm topology can persist at gapless critical points",
       "link": "https://phys.org/news/2026-10-acoustic-topology-persist-gapless-critical.html",
       "source": "Phys.org — Quantum Physics",
@@ -192,38 +248,6 @@
       "published": "Wed, 07 Oct 2026 12:40:13 EDT",
       "published_ts": 1791391213,
       "summary": "Today, many physicists are actively exploring how light could be used to link objects through quantum entanglement. By fully harnessing the effect, they hope to unlock a wide array of applications, from secure communication networks spanning vast distances to sensitive new tests of the fundamental l…"
-    },
-    {
-      "title": "KQC Quantum and Charlton Aria Agree on Nasdaq Business Combination",
-      "link": "https://thequantuminsider.com/2026/10/07/kqc-quantum-nasdaq-charlton-aria-merger/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 16:22:35 +0000",
-      "published_ts": 1791390155,
-      "summary": "Insider Brief PRESS RELEASE &#8212; KQC Quantum, Inc. (“KQC Parent”), the Delaware parent company of Korea Quantum Computing Co., Ltd. (“KQC” or the “Company”), which helps enterprises adopt quantum computing and quantum-safe security, and Charlton Aria Acquisition Corporation (Nasdaq: CHAR) (“Charl…"
-    },
-    {
-      "title": "Haiqu Releases AgenticOS to Plan and Check Quantum Research",
-      "link": "https://thequantuminsider.com/2026/10/07/haiqu-releases-agenticos-to-plan-and-check-quantum-research/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 15:42:10 +0000",
-      "published_ts": 1791387730,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Existing AI models have advanced to the point that they can contribute to real science, but they have their limits. An AI agent can produce convincing math and working code, but it might alter the underlying science while doing so, leaving researchers with results…"
-    },
-    {
-      "title": "Federal Quantum Readiness Falls Short as Agencies Face Cryptography Skills Gaps",
-      "link": "https://thequantuminsider.com/2026/10/07/federal-quantum-readiness-falls-short-as-agencies-face-cryptography-skills-gaps/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 13:54:46 +0000",
-      "published_ts": 1791381286,
-      "summary": "Insider Brief None of the 24 major federal agencies reviewed by the Government Accountability Office fully completed the preparation practices it assessed for protecting government systems against future quantum computing attacks. That&#8217;s according to the GAO&#8217;s recently released 2026 repo…"
-    },
-    {
-      "title": "Infineon and ZuriQ Deepen Partnership to Advance Scalable Quantum Chips",
-      "link": "https://thequantuminsider.com/2026/10/07/infineon-zuriq-scalable-quantum-chips/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 07 Oct 2026 13:50:00 +0000",
-      "published_ts": 1791381000,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) and ZuriQ AG, a Swiss quantum computing company spun out of ETH Zurich, today announced the expansion of their collaboration to advance scalable quantum computing hardware. The partnership combines ZuriQ’s pioneer…"
     },
     {
       "title": "Quantum computing shortcut makes particle collisions easier to simulate",
@@ -298,14 +322,6 @@
       "summary": "Once called a \"pipe dream,\" quantum computers are now approaching practical use. Companies and research institutes around the world are in fierce competition to develop this technology, which has the potential to rapidly perform some calculations that are extremely difficult even for conventional su…"
     },
     {
-      "title": "New method generates nearly indistinguishable photons for quantum communication",
-      "link": "https://phys.org/news/2026-10-method-generates-indistinguishable-photons-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 01 Oct 2026 17:40:10 EDT",
-      "published_ts": 1790890810,
-      "summary": "Working in close collaboration, researchers from Paderborn University, the University of Basel and Ruhr University Bochum have made a breakthrough in quantum communication. In their recently published paper in the journal Physical Review Letters, they demonstrate how special semiconductor nanostruct…"
-    },
-    {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
       "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -314,28 +330,12 @@
       "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s superconducting qubits…"
     },
     {
-      "title": "New parallel gate entangles diamond qubits 10 times faster at room temperature",
-      "link": "https://phys.org/news/2026-09-parallel-gate-entangles-diamond-qubits.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 01 Oct 2026 08:40:16 EDT",
-      "published_ts": 1790858416,
-      "summary": "Quantum technologies rely on qubits, units of information that can exist in combinations of the states 0 and 1 instead of being limited to one or the other like conventional bits. Qubits can become entangled, which means their states become linked in ways that cannot be explained by considering each…"
-    },
-    {
       "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
       "link": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Wed, 30 Sep 2026 23:06:56 EDT",
       "published_ts": 1790824016,
       "summary": "Researchers have experimentally observed energy patterns that physicists have predicted for about 40 years. By arranging laser-trapped atoms into a quantum simulator, they recreated two different quantum tipping points and watched the atoms fall into the exact energy ratios predicted by theory. The…"
-    },
-    {
-      "title": "3D light fields push electrons into quantum states previously beyond experimental reach",
-      "link": "https://phys.org/news/2026-09-3d-fields-electrons-quantum-states.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 30 Sep 2026 13:40:26 EDT",
-      "published_ts": 1790790026,
-      "summary": "By superimposing two ultrashort laser pulses that converge from different directions, a team of physicists at the University of Oldenburg has succeeded in generating three-dimensional light fields."
     },
     {
       "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
