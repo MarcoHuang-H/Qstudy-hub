@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1791519416,
+  "generated_ts": 1791548923,
   "items": [
+    {
+      "title": "izmo Microsystems and IIT Madras Advance ₹99.94 Crore Silicon Photonics Program",
+      "link": "https://thequantuminsider.com/2026/10/09/izmo-microsystems-iit-madras-phase-ii-99-94-crore-silicon-photonics-program/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 09 Oct 2026 12:17:11 +0000",
+      "published_ts": 1791548231,
+      "summary": "Insider Brief PRESS RELEASE &#8212; izmo Limited (NSE: IZMO) (BSE: 532341) today announced that its semiconductor subsidiary, izmo Microsystems Pvt. Ltd., has entered into a Memorandum of Understanding with the Indian Institute of Technology Madras (IIT Madras) for Phase II of the Centre for Program…"
+    },
+    {
+      "title": "Chattanooga Quantum Collaborative Graduates First Quantum Ready Cohort",
+      "link": "https://thequantuminsider.com/2026/10/09/chattanooga-quantum-collaborative-graduates-first-quantum-ready-cohort/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 09 Oct 2026 12:09:09 +0000",
+      "published_ts": 1791547749,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Chattanooga Quantum Collaborative announces seventeen professionals from sixteen Tennessee employers completed the Quantum Ready Pre-Apprenticeship, a 12-week program created by the Chattanooga Quantum Collaborative (CQC) to help companies understand emerging quan…"
+    },
+    {
+      "title": "Superconducting circuit links smaller photon groups into larger entangled states",
+      "link": "https://phys.org/news/2026-10-superconducting-circuit-links-smaller-photon.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 09 Oct 2026 08:00:06 EDT",
+      "published_ts": 1791547206,
+      "summary": "Quantum computers, computer systems that leverage the laws of quantum mechanics, store and process information using qubits (i.e., quantum bits). In many quantum computers, qubits are linked via entanglement, a quantum mechanical effect that connects particles in such a way that their shared state c…"
+    },
+    {
+      "title": "Quobly and SiPearl Partner to Explore European CPU-QPU Integration For Sovereign Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/10/09/quobly-and-sipearl-partner-to-explore-european-cpu-qpu-integration-for-sovereign-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 09 Oct 2026 10:56:18 +0000",
+      "published_ts": 1791543378,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quobly, a French quantum computing company developing industrially scalable quantum computers based on silicon spin qubits, and SiPearl, the designer of European high-performance energy-efficient CPUs for sovereign supercomputing, AI and data centre, have signed a…"
+    },
+    {
+      "title": "Technology Used by Optical Atomic Clocks May Jump From Lab to Consumer",
+      "link": "https://thequantuminsider.com/2026/10/09/technology-used-by-optical-atomic-clocks-may-jump-from-lab-to-consumer/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 09 Oct 2026 10:00:00 +0000",
+      "published_ts": 1791540000,
+      "summary": "Insider Brief PRESS RELEASE &#8212; University of Auckland research may help the world to miniaturize the laser tools used for ultraprecise measurements such as atomic clocks and quantum computing. There are big scientific and commercial implications. So far, the laser tools called optical frequency…"
+    },
+    {
+      "title": "Quantum Elements’ Constellation Wins TMCnet 2026 Quantum Computing Product Award",
+      "link": "https://thequantuminsider.com/2026/10/09/quantum-elements-tmcnet-2026-quantum-computing-product-of-the-year-award/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 09 Oct 2026 08:00:00 +0000",
+      "published_ts": 1791532800,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Elements, developers of software shortening the path to fault-tolerant quantum computing, today announced that its Constellation platform has been named a winner of TMCnet&#8217;z inaugural 2026 Quantum Computing Product of the Year Awards. Constellation g…"
+    },
+    {
+      "title": "Fujitsu Launches Collaboration With State of New Mexico to Establish Quantum Computing Research Center",
+      "link": "https://thequantuminsider.com/2026/10/09/fujitsu-launches-collaboration-with-state-of-new-mexico-to-establish-quantum-computing-research-center/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 09 Oct 2026 07:15:34 +0000",
+      "published_ts": 1791530134,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Fujitsu announced a collaboration with New Mexico to establish a quantum computing research center in New Mexico. The center will conduct advanced research spanning quantum computing hardware, software, algorithms, and theory, while supporting education and workfo…"
+    },
+    {
+      "title": "Arqit Announces Preliminary Fiscal 2026 Financial Results",
+      "link": "https://thequantuminsider.com/2026/10/09/arqit-preliminary-fiscal-2026-revenue-1-million/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 09 Oct 2026 07:00:00 +0000",
+      "published_ts": 1791529200,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Arqit Quantum Inc. (Nasdaq: ARQQ) (“Arqit”), a global leader in quantum-safe encryption, announces select preliminary financial results for the second half and full fiscal year 2026. Based on preliminary unaudited results, management expects revenue for the second…"
+    },
     {
       "title": "Quantum non-Markovian response spectra",
       "link": "https://arxiv.org/abs/2610.10684",
@@ -170,62 +234,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Oratomic, whose mission is to build the first fault-tolerant quantum computers, announced today that it has raised a total of $775 million since its launch in March 2026. The company will use the funds to accelerate the development of utility-scale, fault-tolerant…"
     },
     {
-      "title": "NTT DOCOMO BUSINESS and Classiq Partner on Enterprise Quantum Computing in Japan",
-      "link": "https://thequantuminsider.com/2026/10/08/ntt-docomo-business-classiq-quantum-computing-japan/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 17:15:00 +0000",
-      "published_ts": 1791479700,
-      "summary": "Insider Brief PRESS RELEASE &#8212; NTT DOCOMO BUSINESS, Inc. (formerly NTT Communications Corporation) and Classiq Technologies G.K., the Japanese subsidiary of Classiq Technologies Ltd., today announced a memorandum of understanding establishing a strategic business partnership aimed at accelerati…"
-    },
-    {
-      "title": "NVIDIA Commits $1 Billion to U.S. Science and Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/10/08/nvidia-commits-1-billion-advance-us-science-next-five-years/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 16:33:17 +0000",
-      "published_ts": 1791477197,
-      "summary": "Insider Brief PRESS RELEASE &#8212; NVIDIA today announced commitments valued at $1 billion to build out the United States’ capacity for super intelligence research and development in fields critical for U.S. leadership, including quantum computing, healthcare and energy security. The announcement w…"
-    },
-    {
-      "title": "PsiQuantum Receives Conditional $150M Loan Commitment From U.S. Department of War",
-      "link": "https://thequantuminsider.com/2026/10/08/psiquantum-conditional-150m-loan-california-quantum-facility/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 15:14:31 +0000",
-      "published_ts": 1791472471,
-      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum announced today that the company has received a conditional commitment for a loan of up to $150 million from the U.S. Department of War’s Office of Strategic Capital (OSC), which would expand the company’s advanced manufacturing and prototyping capabili…"
-    },
-    {
-      "title": "NSF Launches New Programs for Quantum Innovation and STEM Research",
-      "link": "https://thequantuminsider.com/2026/10/08/nsf-new-quantum-research-stem-workforce-programs/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 15:10:03 +0000",
-      "published_ts": 1791472203,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. National Science Foundation today announced plans to launch a series of programs and initiatives to support the ambitious vision articulated in the White House report Science: A New Golden Age, the first comprehensive rethinking of the U.S. science and te…"
-    },
-    {
-      "title": "Quantum Source’s QS-LINK Uses a Single Atom to Help Quantum Processors Connect",
-      "link": "https://thequantuminsider.com/2026/10/08/quantum-sources-qs-link-uses-a-single-atom-to-help-quantum-processors-connect/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 14:26:44 +0000",
-      "published_ts": 1791469604,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Source, developer of compound photon-atom technology that makes photonic quantum computers practical, published the first technical details of its proprietary&#160;QS-LINK, an interconnect built to break the bottleneck that keeps quantum computers from sca…"
-    },
-    {
-      "title": "Energy Department Announces New Genesis Mission Awards to Accelerate Scientific Capability",
-      "link": "https://thequantuminsider.com/2026/10/08/energy-department-announces-new-genesis-mission-awards-to-accelerate-scientific-capability/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 14:16:47 +0000",
-      "published_ts": 1791469007,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of Energy (DOE) today announced 12 Phase II project awards for President Trump’s historic Genesis Mission, totaling $159 million, that will expand efforts to harness artificial intelligence (AI), advanced computing, and the nation’s world-class…"
-    },
-    {
-      "title": "Surfshark Adds ML-DSA Authentication to Post-Quantum WireGuard",
-      "link": "https://thequantuminsider.com/2026/10/08/surfshark-achieves-full-post-quantum-wireguard-implementation/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 14:03:16 +0000",
-      "published_ts": 1791468196,
-      "summary": "Insider Brief PRESS RELEASE &#8212; This major security development milestone follows the initial launch of Dausos, Surfshark’s proprietary VPN protocol engineered with complete post-quantum security from the ground up. By pairing encryption with ML-KEM (key encapsulation mechanism) and certificates…"
-    },
-    {
       "title": "Acoustic experiments confirm topology can persist at gapless critical points",
       "link": "https://phys.org/news/2026-10-acoustic-topology-persist-gapless-critical.html",
       "source": "Phys.org — Quantum Physics",
@@ -312,14 +320,6 @@
       "published": "Sat, 03 Oct 2026 13:40:01 EDT",
       "published_ts": 1791049201,
       "summary": "When I explain topology to students, I start with a knot in a rope. You can stretch it, twist it or shake it, but the knot stays until you cut the rope. Physicists have found that some materials and devices carry similar \"knots\" in how waves move through them. These are topological properties, label…"
-    },
-    {
-      "title": "Q&A: How will quantum computers change society?",
-      "link": "https://phys.org/news/2026-10-qa-quantum-society.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 02 Oct 2026 14:20:08 EDT",
-      "published_ts": 1790965208,
-      "summary": "Once called a \"pipe dream,\" quantum computers are now approaching practical use. Companies and research institutes around the world are in fierce competition to develop this technology, which has the potential to rapidly perform some calculations that are extremely difficult even for conventional su…"
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
