@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1791548923,
+  "generated_ts": 1791583778,
   "items": [
+    {
+      "title": "Three quantum-inspired cores leave opposite fingerprints on the ringing of black holes",
+      "link": "https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 09 Oct 2026 17:40:01 EDT",
+      "published_ts": 1791582001,
+      "summary": "Every black hole hides a question at its center. Einstein's theory predicts that whatever falls in is crushed into a singularity, a point of infinite density where the theory itself breaks down. Most physicists expect quantum gravity to replace that point with something finite. But the center lies h…"
+    },
+    {
+      "title": "Tuning a quantum computer: what a violin teaches us about qubit calibration",
+      "link": "https://thequantuminsider.com/2026/10/09/tuning-a-quantum-computer-what-a-violin-teaches-us-about-qubit-calibration/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 09 Oct 2026 18:46:22 +0000",
+      "published_ts": 1791571582,
+      "summary": "Insider brief Before a violinist plays a note, they tune. Each string is tightened or loosened until it sounds exactly right, and even then, temperature and humidity will pull it out of tune again before long. Quantum computers have the same problem, only far more acute. That was the starting point…"
+    },
+    {
+      "title": "Quantum chip holds multiple photons at once, opening path to scalable memory",
+      "link": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 09 Oct 2026 13:00:10 EDT",
+      "published_ts": 1791565210,
+      "summary": "For highly fragile quantum information systems, the ability to store quantum information is vital—but also challenging. Quantum information is transported in particles of light called photons, which often must be temporarily paused (or \"stored\") while other, slower quantum operations catch up. This…"
+    },
+    {
+      "title": "Guest Post: Quantum Computing’s Transistor Moment",
+      "link": "https://thequantuminsider.com/2026/10/09/guest-post-quantum-computings-transistor-moment/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 09 Oct 2026 14:45:33 +0000",
+      "published_ts": 1791557133,
+      "summary": "A new paper demonstrating Grover&#8217;s search on a room-temperature diamond processor may echo the transistor&#8217;s takeover from vacuum tubes – and raises questions about how much vacuum-dependent quantum hardware survives the same transition. Guest Post By Prof. Dr. Marius Grundmann, CEO, SAXO…"
+    },
+    {
+      "title": "Light reads electron spins inside porous crystals, opening path to quantum chemical sensors",
+      "link": "https://phys.org/news/2026-10-electron-porous-crystals-path-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 09 Oct 2026 10:40:09 EDT",
+      "published_ts": 1791556809,
+      "summary": "University of Glasgow researchers are part of an international collaboration that could lead to a new generation of quantum sensors. The team, which included researchers from the University of Tokyo, University of Glasgow, University of Sheffield and Kobe University, has for the first time used ligh…"
+    },
+    {
+      "title": "Ultrafast core-level spectroscopy reveals elusive precursors of exciton condensation in quantum materials",
+      "link": "https://phys.org/news/2026-08-ultrafast-core-spectroscopy-reveals-elusive.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 09 Oct 2026 10:14:28 EDT",
+      "published_ts": 1791555268,
+      "summary": "Many fascinating phases in quantum materials emerge when electrons, atoms and other microscopic components begin to act collectively. But these phases do not necessarily appear out of nowhere when a material crosses a transition temperature. Before long-range order develops, microscopic fluctuations…"
+    },
+    {
+      "title": "IonQ Demonstrates 1,000 Entanglement Events per Second in Quantum Interconnect",
+      "link": "https://thequantuminsider.com/2026/10/09/ionq-1000-entanglement-events-per-second-quantum-interconnect/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 09 Oct 2026 13:20:20 +0000",
+      "published_ts": 1791552020,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced the achievement of entanglement rates above 1,000 per second (1 kHz) between a trapped ion qubit and a solid-state memory, through a photonic interconnect. Entanglement…"
+    },
+    {
+      "title": "Quantum X Labs Seeks Patent for Structured-Beam Atom Cooling System",
+      "link": "https://thequantuminsider.com/2026/10/09/quantum-x-labs-us-patent-application-cold-atom-technology/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 09 Oct 2026 13:05:36 +0000",
+      "published_ts": 1791551136,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum X Labs Inc. (NASDAQ: QXL) (“Quantum X Labs” or the “Company”) today announced that its subsidiary, Quantum X Labs Ltd., a developer of technologies across quantum computing, quantum sensing, quantum software and quantum security, has filed a patent applica…"
+    },
+    {
+      "title": "BTQ and MoonPay Korea Partner on Post-Quantum Stablecoin Security",
+      "link": "https://thequantuminsider.com/2026/10/09/btq-technologies-secure-moonpay-korea-stablecoin-infrastructure/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 09 Oct 2026 12:56:38 +0000",
+      "published_ts": 1791550598,
+      "summary": "Insider Brief PRESS RELEASE &#8212; BTQ Technologies Corp. (&#8220;BTQ&#8220; or the &#8220;Company&#8221;) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, has announced a strategic partnership with MoonPay Korea, part of MoonPay Inc.…"
+    },
     {
       "title": "izmo Microsystems and IIT Madras Advance ₹99.94 Crore Silicon Photonics Program",
       "link": "https://thequantuminsider.com/2026/10/09/izmo-microsystems-iit-madras-phase-ii-99-94-crore-silicon-photonics-program/",
@@ -48,22 +120,6 @@
       "published": "Fri, 09 Oct 2026 08:00:00 +0000",
       "published_ts": 1791532800,
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Elements, developers of software shortening the path to fault-tolerant quantum computing, today announced that its Constellation platform has been named a winner of TMCnet&#8217;z inaugural 2026 Quantum Computing Product of the Year Awards. Constellation g…"
-    },
-    {
-      "title": "Fujitsu Launches Collaboration With State of New Mexico to Establish Quantum Computing Research Center",
-      "link": "https://thequantuminsider.com/2026/10/09/fujitsu-launches-collaboration-with-state-of-new-mexico-to-establish-quantum-computing-research-center/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 09 Oct 2026 07:15:34 +0000",
-      "published_ts": 1791530134,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Fujitsu announced a collaboration with New Mexico to establish a quantum computing research center in New Mexico. The center will conduct advanced research spanning quantum computing hardware, software, algorithms, and theory, while supporting education and workfo…"
-    },
-    {
-      "title": "Arqit Announces Preliminary Fiscal 2026 Financial Results",
-      "link": "https://thequantuminsider.com/2026/10/09/arqit-preliminary-fiscal-2026-revenue-1-million/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 09 Oct 2026 07:00:00 +0000",
-      "published_ts": 1791529200,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Arqit Quantum Inc. (Nasdaq: ARQQ) (“Arqit”), a global leader in quantum-safe encryption, announces select preliminary financial results for the second half and full fiscal year 2026. Based on preliminary unaudited results, management expects revenue for the second…"
     },
     {
       "title": "Quantum non-Markovian response spectra",
@@ -186,14 +242,6 @@
       "summary": "arXiv:2610.10948v1 Announce Type: new  Abstract: Quantum fault tolerance is a prerequisite to harness the full potential of quantum computers. However, achieving fault tolerance remains a major challenge since it requires optimizing tradeoffs between several intertwined theoretical and experimental…"
     },
     {
-      "title": "NSF Names Founding Partners for X-Labs Consortium, With Occam Foundry and Florida Quantum Center Among Them",
-      "link": "https://thequantuminsider.com/2026/10/08/nsf-names-founding-partners-for-x-labs-consortium-with-occam-foundry-and-florida-quantum-center-among-them/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 21:21:56 +0000",
-      "published_ts": 1791494516,
-      "summary": "Insider Brief The U.S. National Science Foundation has put names to the founding partners of its new NSF X-Labs Consortium, the private-sector and philanthropic backbone for the agency&#8217;s $1.5 billion X-Labs initiative. In a post on X, NSF thanked the Astera Institute, Ginkgo Bioworks, Tom Secu…"
-    },
-    {
       "title": "How researchers tell different quantum excitations apart in individual molecules",
       "link": "https://phys.org/news/2026-10-quantum-individual-molecules.html",
       "source": "Phys.org — Quantum Physics",
@@ -210,28 +258,12 @@
       "summary": "Quantum technologies are considered key technologies of the future. However, research in this field requires not only scientific expertise but sometimes also highly specialized laboratory conditions. Bose–Einstein condensates are a remarkable example, in which atoms move in lockstep, making quantum-…"
     },
     {
-      "title": "DOE Announces Science Applications For Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/10/08/doe-announces-science-applications-for-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 19:24:58 +0000",
-      "published_ts": 1791487498,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The U.S. Department of Energy (DOE) today announced the release of Quantum Genesis Priority Applications (QGPAs), a set of eight key scientific utility problems that will guide the Quantum Genesis’s goal of developing fault-tolerant scientifically relevant quantum…"
-    },
-    {
       "title": "Liquid-crystal-like magnetism explains puzzling properties in a rare-earth compound",
       "link": "https://phys.org/news/2026-10-liquid-crystal-magnetism-puzzling-properties.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 08 Oct 2026 15:20:15 EDT",
       "published_ts": 1791487215,
       "summary": "In some materials, physical properties don't emerge from their individual particles, but from the collective behavior of their quantum spins. Now, researchers led by Pengcheng Dai at Rice University in the U.S. have discovered that in one compound containing the rare-earth element ytterbium, these s…"
-    },
-    {
-      "title": "Oratomic Raises $775 Million to Develop Fault-Tolerant Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/10/08/oratomic-secures-775-million-fault-tolerant-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 08 Oct 2026 17:45:00 +0000",
-      "published_ts": 1791481500,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Oratomic, whose mission is to build the first fault-tolerant quantum computers, announced today that it has raised a total of $775 million since its launch in March 2026. The company will use the funds to accelerate the development of utility-scale, fault-tolerant…"
     },
     {
       "title": "Acoustic experiments confirm topology can persist at gapless critical points",
@@ -288,38 +320,6 @@
       "published": "Tue, 06 Oct 2026 11:00:24 EDT",
       "published_ts": 1791298824,
       "summary": "A research team led by the University of Osaka has directly observed, for the first time, an unusual heavy-fermion state forming at the boundary between a one-atom-thick material and a metal. Such states are closely linked to exotic quantum phenomena, including unconventional superconductivity, and…"
-    },
-    {
-      "title": "Can a passing black hole disturbance leave a trace in Hawking radiation?",
-      "link": "https://phys.org/news/2026-10-black-hole-disturbance-hawking.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 06 Oct 2026 10:00:01 EDT",
-      "published_ts": 1791295201,
-      "summary": "Black holes, despite their extreme nature, are described by surprisingly few basic parameters: their mass, charge and spin. Two black holes may have formed for completely different reasons and passed through very different histories, yet still end up in the same final state. John Wheeler summarized…"
-    },
-    {
-      "title": "Quantum systems never quite forget where they came from",
-      "link": "https://phys.org/news/2026-10-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 05 Oct 2026 16:00:13 EDT",
-      "published_ts": 1791230413,
-      "summary": "Even the most chaotic quantum systems keep a permanent mark of their own past—a \"quantum birthmark\"—that never fades. Researchers from Tampere University, Harvard University and TU Dresden discovered the feature in their recent study. Their findings shed new light on the elusive relationship between…"
-    },
-    {
-      "title": "Scientists uncover recurrent patterns within chaotic quantum behavior",
-      "link": "https://phys.org/news/2026-09-scientists-uncover-recurrent-patterns-chaotic.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 05 Oct 2026 08:00:04 EDT",
-      "published_ts": 1791201604,
-      "summary": "Many complex quantum systems rapidly lose the recognizable patterns of their initial states as their components interact. To describe patterns of regular and chaotic motion in specific systems, physicists can construct a mathematical map called an effective phase space."
-    },
-    {
-      "title": "Reading hidden topology in light, even when energy leaks away",
-      "link": "https://phys.org/news/2026-10-hidden-topology-energy-leaks.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 03 Oct 2026 13:40:01 EDT",
-      "published_ts": 1791049201,
-      "summary": "When I explain topology to students, I start with a knot in a rope. You can stretch it, twist it or shake it, but the knot stays until you cut the rope. Physicists have found that some materials and devices carry similar \"knots\" in how waves move through them. These are topological properties, label…"
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
