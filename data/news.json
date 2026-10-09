@@ -1,6 +1,126 @@
 {
-  "generated_ts": 1791499598,
+  "generated_ts": 1791519416,
   "items": [
+    {
+      "title": "Quantum non-Markovian response spectra",
+      "link": "https://arxiv.org/abs/2610.10684",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10684v1 Announce Type: new  Abstract: Quantum systems are rarely isolated from their surroundings. These hidden environments can retain information and return it later, producing correlated errors in quantum computers and complicating the interpretation of experiments.On a quantum process…"
+    },
+    {
+      "title": "On linearity or non-linearity in machine learning for quantum chaotic dynamics",
+      "link": "https://arxiv.org/abs/2610.10697",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10697v1 Announce Type: new  Abstract: Accurately simulating chaotic quantum many-body dynamics remains a major computational challenge for classical methods, due to the rapid buildup and spatial spreading of entanglement during the evolution. This raises the question of whether machine le…"
+    },
+    {
+      "title": "Combining Error Verification and Privacy Amplification in Quantum Key Distribution",
+      "link": "https://arxiv.org/abs/2610.10702",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10702v1 Announce Type: new  Abstract: Quantum Key Distribution (QKD) protocols typically involve two separate steps of error-verification and privacy amplification. Both steps involve the application of a hash function sampled from a suitable hash family to classical data. A potentially s…"
+    },
+    {
+      "title": "Quantum Networking at the Speed of Quantum Computation: Kilohertz Entanglement in a Heterogeneous Quantum System",
+      "link": "https://arxiv.org/abs/2610.10705",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10705v1 Announce Type: new  Abstract: Distributed quantum computing requires rapid, high-fidelity entanglement between qubits in separate processor modules. Photonic links between single-atom qubits provide switchable, long-range connections, but photon loss limits their entanglement rate…"
+    },
+    {
+      "title": "Quantum jumps of sound",
+      "link": "https://arxiv.org/abs/2610.10714",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10714v1 Announce Type: new  Abstract: Quantum mechanics predicts that a vibrating object's energy comes in discrete packets, yet no measurement of its position reveals this discreteness. Resolving individual energy levels requires a qualitatively different measurement, one coupling to the…"
+    },
+    {
+      "title": "Nonlinear Feedback in Josephson Circuit Optimization: Application to a Kerr-Reversal JTWPA",
+      "link": "https://arxiv.org/abs/2610.10715",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10715v1 Announce Type: new  Abstract: Optimizing Josephson-based nonlinear microwave devices is computationally demanding because the straightforward approach requires exploring broad circuit parameter spaces through expensive nonlinear simulations. Josephson Circuits Optimizer addresses…"
+    },
+    {
+      "title": "Single-shot magic state factories for quantum LDPC codes",
+      "link": "https://arxiv.org/abs/2610.10731",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10731v1 Announce Type: new  Abstract: Quantum low-density parity-check (qLDPC) codes can substantially reduce the qubit overhead of fault-tolerant quantum computation, but any useful architecture based on such codes also requires an efficient mechanism to implement non-Clifford gates in a…"
+    },
+    {
+      "title": "Quantum-Enhanced Inference of Conditional Future Probabilities with Reduced Memory Cost",
+      "link": "https://arxiv.org/abs/2610.10756",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10756v1 Announce Type: new  Abstract: Many potential future events have devastating consequences, from the onset of earthquakes to financial black swan events. Accurate predictions of their probability of occurrence are vital. Yet as the stochastic systems underlying such events become in…"
+    },
+    {
+      "title": "Engineering Quantum Interactions: From Effective Models to Validated Physical Predictions",
+      "link": "https://arxiv.org/abs/2610.10763",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10763v1 Announce Type: new  Abstract: Effective models make complex quantum dynamics tractable by retaining only the states, processes, and timescales relevant to a given physical question. Their predictive power, however, depends on treating the retained manifold, initial state, observab…"
+    },
+    {
+      "title": "Scaling Quantum Optimization to the Thousand-Qubit Scale with Distributed Quantum Sampling",
+      "link": "https://arxiv.org/abs/2610.10772",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10772v1 Announce Type: new  Abstract: The Minimum Birkhoff Decomposition (MBD) seeks a sparse weighted sum of matchings and is a challenging optimization problem with applications in network scheduling and energy trading. We scale a quantum-assisted decomposition method by combining singl…"
+    },
+    {
+      "title": "Coherence-assisted quantum state preparation and thermal control through repeated interactions",
+      "link": "https://arxiv.org/abs/2610.10794",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10794v1 Announce Type: new  Abstract: We investigate the relaxation dynamics and steady state of a qubit interacting with a coherent environment through an energy-conserving flip-flop interaction within the Markovian repeated-interaction framework. We derive an exact analytical solution f…"
+    },
+    {
+      "title": "Susceptibility of qudit-qudit entanglement to quantum noise: insights from the negativity rank",
+      "link": "https://arxiv.org/abs/2610.10820",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10820v1 Announce Type: new  Abstract: One aspect of complexity for quantum many-body systems resides in their ability to exhibit entanglement, uniquely quantum correlations central to quantum computation. To quantitatively explore the diminishing effect that quantum noise has on entanglem…"
+    },
+    {
+      "title": "Uncertainty Quantification for Quantum Fidelity Estimation",
+      "link": "https://arxiv.org/abs/2610.10885",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10885v1 Announce Type: new  Abstract: Quantum fidelity estimation is a fundamental task in quantum information and computing to benchmark the quality of quantum states, and hence of quantum processes, on noisy quantum hardware. Point estimates of fidelity by existing methods generally lac…"
+    },
+    {
+      "title": "Helicity decoupling ultrastrong Rabi splitting from quantum vacuum dressing",
+      "link": "https://arxiv.org/abs/2610.10944",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10944v1 Announce Type: new  Abstract: Polaritons and quantum vacuum dressing are usually regarded as intertwined consequences of ultrastrong light-matter coupling. Here we show that they can be controlled independently through helicity. We consider cyclotron resonance coupled to a chiral…"
+    },
+    {
+      "title": "Geometry-optimized hyperbolic codes for modular fault-tolerant quantum architectures",
+      "link": "https://arxiv.org/abs/2610.10948",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791518400,
+      "summary": "arXiv:2610.10948v1 Announce Type: new  Abstract: Quantum fault tolerance is a prerequisite to harness the full potential of quantum computers. However, achieving fault tolerance remains a major challenge since it requires optimizing tradeoffs between several intertwined theoretical and experimental…"
+    },
     {
       "title": "NSF Names Founding Partners for X-Labs Consortium, With Occam Foundry and Florida Quantum Center Among Them",
       "link": "https://thequantuminsider.com/2026/10/08/nsf-names-founding-partners-for-x-labs-consortium-with-occam-foundry-and-florida-quantum-center-among-them/",
@@ -104,126 +224,6 @@
       "published": "Thu, 08 Oct 2026 14:03:16 +0000",
       "published_ts": 1791468196,
       "summary": "Insider Brief PRESS RELEASE &#8212; This major security development milestone follows the initial launch of Dausos, Surfshark’s proprietary VPN protocol engineered with complete post-quantum security from the ground up. By pairing encryption with ML-KEM (key encapsulation mechanism) and certificates…"
-    },
-    {
-      "title": "Quantum Readout Complexity for Normalized Linear Functionals",
-      "link": "https://arxiv.org/abs/2610.08890",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.08890v1 Announce Type: new  Abstract: Quantum numerical algorithms often encode a positive solution $q$ in the amplitudes of a quantum state, while the required scientific output is a normalized linear functional of $q$. Basis measurements produce probabilities determined by squared solut…"
-    },
-    {
-      "title": "Visualizing two qubits",
-      "link": "https://arxiv.org/abs/2610.08897",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.08897v1 Announce Type: new  Abstract: I propose a simple visualization for pure two-qubit states, constructed from three components: two Bloch balls for the marginal qubits (the mixed states obtained by ignoring the other qubit, respectively) and an entanglement component consisting of a…"
-    },
-    {
-      "title": "High-Fidelity Inter-Species Rydberg Gates with Two-Photon Driving",
-      "link": "https://arxiv.org/abs/2610.08926",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.08926v1 Announce Type: new  Abstract: Recently, neutral atom arrays have become known for their promising potential in quantum information processing. High-fidelity entangling operations are typically achieved by exciting atoms to high-lying Rydberg states through two-photon processes. To…"
-    },
-    {
-      "title": "Efficiently computable bounds on the energy-constrained quantum reading capacity",
-      "link": "https://arxiv.org/abs/2610.08945",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.08945v1 Announce Type: new  Abstract: In quantum reading, classical messages are encoded in sequences of quantum channels and recovered by probing the channels and processing their outputs. We study the reading capacity of a finite family of finite-dimensional channels under an average co…"
-    },
-    {
-      "title": "An efficient variational polaron master equation for non-Markovian spin-boson dynamics: Transformed initial states and general observables",
-      "link": "https://arxiv.org/abs/2610.08953",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.08953v1 Announce Type: new  Abstract: We investigate the effects of initial states on the dynamics of a quantum spin-boson model using an efficient variational polaron master equation approach. The transformation of a factorized system-environment initial state into the variational polaro…"
-    },
-    {
-      "title": "Teleportation of a programmable gate",
-      "link": "https://arxiv.org/abs/2610.09022",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.09022v1 Announce Type: new  Abstract: Alice and Bob each have a qubit, and they would like to perform a two-qubit gate on them with the assistance of Charlie. The action of this gate depends on a parameter, which either Charlie knows, will receive later as classical information, or is enc…"
-    },
-    {
-      "title": "Heating and Escape of Confined Atoms Subject to Colored Noise",
-      "link": "https://arxiv.org/abs/2610.09047",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.09047v1 Announce Type: new  Abstract: The motion of a particle in a finite-depth confining potential, such as that of an electromagnetically trapped atom or ion, is approximately harmonic at low energy and softens as the escape energy is approached. When the particle is driven by a stocha…"
-    },
-    {
-      "title": "Geometric heat pumping on a quantum processor",
-      "link": "https://arxiv.org/abs/2610.09062",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.09062v1 Announce Type: new  Abstract: Geometric heat pumping is the transfer of energy between reservoirs at equal temperature where the heat exchanged in an adiabatic cycle depends only on the driving contour in parameter space. We implement this mechanism on a superconducting quantum pr…"
-    },
-    {
-      "title": "Interaction-Assisted Spin Coherence in a Multimode Trapped Atomic Ensemble",
-      "link": "https://arxiv.org/abs/2610.09073",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.09073v1 Announce Type: new  Abstract: In a thermally occupied multimode trapped ensemble, mode-dependent detunings can strongly suppress Ramsey contrast even when the underlying dynamics remains coherent. We develop a weak-axis-resolved Hamiltonian theory in which collective mode spins ex…"
-    },
-    {
-      "title": "When the coupler is the channel: an AND condition on cavity photon-number means",
-      "link": "https://arxiv.org/abs/2610.09103",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.09103v1 Announce Type: new  Abstract: Can two cavities have equal mean photon numbers whenever at least one of two binary controls is off, and unequal means only when both controls are on? We give an elementary construction using a two-pump beam-splitter interaction whose strength is prop…"
-    },
-    {
-      "title": "Witnessing Quantum Bayesian Inference beyond Classical Learning",
-      "link": "https://arxiv.org/abs/2610.09293",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.09293v1 Announce Type: new  Abstract: Can an agent's predictions reveal whether its reasoning is based on a classical or a quantum model? Using known results on matrix factorizations, here we show that quantum Bayesian retrodiction can produce one-step-ahead forecasts incompatible with ev…"
-    },
-    {
-      "title": "Cross-Validation of Open-Source Quantum Network Simulators",
-      "link": "https://arxiv.org/abs/2610.09322",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.09322v1 Announce Type: new  Abstract: We present a comparative analysis of two open-source quantum network simulators, QuISP and SeQUeNCe, focusing on cross-validation of basic networking tasks to ensure consistency and accuracy in simulation outputs. Although both simulators are designed…"
-    },
-    {
-      "title": "Building codes with transversal CCZ using projective geometry and SAT solvers",
-      "link": "https://arxiv.org/abs/2610.09341",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.09341v1 Announce Type: new  Abstract: We construct CSS codes with three logical qubits whose logical CCZ gate is implemented by transversal physical $T/T^{\\dagger}$ gates and whose distance is at least $3$. These codes start with $8$-divisible $X$-stabilizers defined by projective geometr…"
-    },
-    {
-      "title": "Non-Orthogonal Amplitude Amplification for Hybrid CV-DV Quantum Processors",
-      "link": "https://arxiv.org/abs/2610.09353",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.09353v1 Announce Type: new  Abstract: We introduce a non-orthogonal amplitude amplification (NOAA) method for hybrid continuous-variable- discrete-variable (CV-DV) quantum processors, where the available CV-assisted projector is not perfectly se- lective for the target state. We establish…"
-    },
-    {
-      "title": "Particle-Number-Preserving Quantum Signal Processing for Thermal Properties: Canonical-Ensemble Estimation and Grand-Canonical Reconstruction",
-      "link": "https://arxiv.org/abs/2610.09373",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791432000,
-      "summary": "arXiv:2610.09373v1 Announce Type: new  Abstract: We develop an end-to-end framework for estimating canonical thermal properties of particle-number-conserving second-quantized Hamiltonians using quantum simulations. The framework integrates initial state preparation with mixed Dicke states, particle-…"
     },
     {
       "title": "Acoustic experiments confirm topology can persist at gapless critical points",
