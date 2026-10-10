@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1791651057,
+  "generated_ts": 1791666222,
   "items": [
+    {
+      "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
+      "link": "https://phys.org/news/2026-10-stability-distinguish-quantum-phases-older.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 10 Oct 2026 13:00:02 EDT",
+      "published_ts": 1791651602,
+      "summary": "Most of us recognize basic phases of matter and their properties: solids maintain their shape, liquids flow freely with constant volume, and gases expand to fill their container. Quantum phases, on the other hand, are much harder to categorize, overturning traditional notions of what a phase even is…"
+    },
     {
       "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
       "link": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
@@ -192,14 +200,6 @@
       "published": "Tue, 06 Oct 2026 17:20:08 EDT",
       "published_ts": 1791321608,
       "summary": "Creating a quantum device often begins by intentionally damaging a crystal. Scientists fire an ultrafast laser pulse into a material, knocking atoms out of place and leaving behind tiny imperfections called vacancies. Far from being flaws, these vacancies can behave as qubits—the fundamental buildin…"
-    },
-    {
-      "title": "New chip-based frequency combs demonstrate potential for portable atomic clocks",
-      "link": "https://phys.org/news/2026-10-chip-based-frequency-potential-portable.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 06 Oct 2026 15:00:10 EDT",
-      "published_ts": 1791313210,
-      "summary": "The world would look radically different without rulers and measuring tapes that fit into a pocket. Carpenters, fashion designers and engineers rely on these trusty tools to check the size of everything from a wooden board to a fabric swatch. But physicists who work with light lack that same conveni…"
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
