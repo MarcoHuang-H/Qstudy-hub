@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1791604910,
+  "generated_ts": 1791632868,
   "items": [
+    {
+      "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
+      "link": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 10 Oct 2026 06:57:07 EDT",
+      "published_ts": 1791629827,
+      "summary": "Physicists in the Department of Physics at the University of Oxford have used a hybrid quantum computer, made up of qubits and quantum oscillators, to observe the Aharonov–Bohm effect in a quantum simulation. The effect is a quantum phenomenon in which a particle can acquire a measurable phase by tr…"
+    },
+    {
+      "title": "Corey O’Meara (E.ON): Finding Real Quantum Advantage in Grid Optimization",
+      "link": "https://thequantuminsider.com/2026/10/10/corey-omeara-e-on-finding-real-quantum-advantage-in-grid-optimization/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 10 Oct 2026 07:00:00 +0000",
+      "published_ts": 1791615600,
+      "summary": "Yuval Boger interviews Corey O&#8217;Meara, Chief Quantum Scientist at E.ON Digital Technology. They discuss how E.ON’s five-person quantum team works with business units to find high-value use cases, especially where classical methods may hit bottlenecks in optimization and machine learning. Corey…"
+    },
     {
       "title": "Three quantum-inspired cores leave opposite fingerprints on the ringing of black holes",
       "link": "https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html",
@@ -114,14 +130,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; University of Auckland research may help the world to miniaturize the laser tools used for ultraprecise measurements such as atomic clocks and quantum computing. There are big scientific and commercial implications. So far, the laser tools called optical frequency…"
     },
     {
-      "title": "Quantum Elements’ Constellation Wins TMCnet 2026 Quantum Computing Product Award",
-      "link": "https://thequantuminsider.com/2026/10/09/quantum-elements-tmcnet-2026-quantum-computing-product-of-the-year-award/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 09 Oct 2026 08:00:00 +0000",
-      "published_ts": 1791532800,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Elements, developers of software shortening the path to fault-tolerant quantum computing, today announced that its Constellation platform has been named a winner of TMCnet&#8217;z inaugural 2026 Quantum Computing Product of the Year Awards. Constellation g…"
-    },
-    {
       "title": "How researchers tell different quantum excitations apart in individual molecules",
       "link": "https://phys.org/news/2026-10-quantum-individual-molecules.html",
       "source": "Phys.org — Quantum Physics",
@@ -192,14 +200,6 @@
       "published": "Tue, 06 Oct 2026 15:00:10 EDT",
       "published_ts": 1791313210,
       "summary": "The world would look radically different without rulers and measuring tapes that fit into a pocket. Carpenters, fashion designers and engineers rely on these trusty tools to check the size of everything from a wooden board to a fabric swatch. But physicists who work with light lack that same conveni…"
-    },
-    {
-      "title": "Heavy fermions emerge at an atomic-layer interface, unlocking new ways to design quantum materials",
-      "link": "https://phys.org/news/2026-10-heavy-fermions-emerge-atomic-layer.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 06 Oct 2026 11:00:24 EDT",
-      "published_ts": 1791298824,
-      "summary": "A research team led by the University of Osaka has directly observed, for the first time, an unusual heavy-fermion state forming at the boundary between a one-atom-thick material and a metal. Such states are closely linked to exotic quantum phenomena, including unconventional superconductivity, and…"
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
