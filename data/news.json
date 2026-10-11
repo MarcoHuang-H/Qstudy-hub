@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1791666222,
+  "generated_ts": 1791689833,
   "items": [
+    {
+      "title": "Ultraviolet laser pulses engineer diamond defects selectively, leaving quantum qubits intact",
+      "link": "https://phys.org/news/2026-10-ultraviolet-laser-pulses-diamond-defects.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 10 Oct 2026 17:20:01 EDT",
+      "published_ts": 1791667201,
+      "summary": "When we think about a diamond, we often think about a material whose value comes from its perfection. In my research, however, I am interested in something almost opposite: the tiny imperfections inside diamonds. These atomic-scale defects can give diamonds new optical and electronic properties, and…"
+    },
     {
       "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
       "link": "https://phys.org/news/2026-10-stability-distinguish-quantum-phases-older.html",
@@ -192,14 +200,6 @@
       "published": "Wed, 07 Oct 2026 08:00:01 EDT",
       "published_ts": 1791374401,
       "summary": "Collisions between particles at high energies can sometimes produce new particles and shed light on interactions between the fundamental constituents of matter. Simulating these collisions and their underlying processes could yield valuable insights into how matter behaves at extremely small scales."
-    },
-    {
-      "title": "X-ray technique reveals how quantum materials respond to laser pulses in real time",
-      "link": "https://phys.org/news/2026-10-ray-technique-reveals-quantum-materials.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 06 Oct 2026 17:20:08 EDT",
-      "published_ts": 1791321608,
-      "summary": "Creating a quantum device often begins by intentionally damaging a crystal. Scientists fire an ultrafast laser pulse into a material, knocking atoms out of place and leaving behind tiny imperfections called vacancies. Far from being flaws, these vacancies can behave as qubits—the fundamental buildin…"
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
