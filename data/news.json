@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1791740314,
+  "generated_ts": 1791753844,
   "items": [
+    {
+      "title": "Quantum 'birthmarks' hold lasting traces of a system's past",
+      "link": "https://phys.org/news/2026-10-quantum-birthmarks.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 11 Oct 2026 14:20:01 EDT",
+      "published_ts": 1791742801,
+      "summary": "Some classical physical systems can explore many configurations over time until their long-term behavior no longer reveals their starting conditions. The sampling of available configurations according to the appropriate statistical distribution is a property called ergodicity."
+    },
     {
       "title": "Ultraviolet laser pulses engineer diamond defects selectively, leaving quantum qubits intact",
       "link": "https://phys.org/news/2026-10-ultraviolet-laser-pulses-diamond-defects.html",
@@ -192,14 +200,6 @@
       "published": "Wed, 07 Oct 2026 12:40:13 EDT",
       "published_ts": 1791391213,
       "summary": "Today, many physicists are actively exploring how light could be used to link objects through quantum entanglement. By fully harnessing the effect, they hope to unlock a wide array of applications, from secure communication networks spanning vast distances to sensitive new tests of the fundamental l…"
-    },
-    {
-      "title": "Quantum computing shortcut makes particle collisions easier to simulate",
-      "link": "https://phys.org/news/2026-10-quantum-shortcut-particle-collisions-easier.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 07 Oct 2026 08:00:01 EDT",
-      "published_ts": 1791374401,
-      "summary": "Collisions between particles at high energies can sometimes produce new particles and shed light on interactions between the fundamental constituents of matter. Simulating these collisions and their underlying processes could yield valuable insights into how matter behaves at extremely small scales."
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
