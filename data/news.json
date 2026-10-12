@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1791777672,
+  "generated_ts": 1791814509,
   "items": [
+    {
+      "title": "IonQ Agrees to Buy Elisity in Cybersecurity Deal Worth Up to $1.3 Billion",
+      "link": "https://thequantuminsider.com/2026/10/12/ionq-agrees-to-buy-elisity-in-cybersecurity-deal-worth-up-to-1-3-billion/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 12 Oct 2026 13:16:01 +0000",
+      "published_ts": 1791810961,
+      "summary": "Insider Brief IonQ has agreed to buy cybersecurity company Elisity in an all-stock deal worth up to $1.3 billion, expanding its security business as advances in quantum computing and artificial intelligence raise concerns about cyberattacks. The transaction includes up to $150 million in additional…"
+    },
+    {
+      "title": "Rensselaer Polytechnic Institute Names James Misewich Quantum Computing Constellation Chair",
+      "link": "https://thequantuminsider.com/2026/10/12/james-misewich-rpi-quantum-computing-chair/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 12 Oct 2026 12:36:09 +0000",
+      "published_ts": 1791808569,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Rensselaer Polytechnic Institute (RPI) today announced the appointment of James Misewich, Ph.D., as the Curtis R. Priem Quantum Computing Constellation Chair, effective January 1, 2027. A nationally recognized leader in energy, materials, and quantum science, Mise…"
+    },
+    {
+      "title": "Hybrid quantum computers could finally get to grips with light and matter",
+      "link": "https://phys.org/news/2026-10-hybrid-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 12 Oct 2026 06:40:01 EDT",
+      "published_ts": 1791801601,
+      "summary": "Many of nature's most important processes depend on how particles of matter interact with light and other force-carrying particles. So far, however, it has proven difficult for conventional computers to determine how individual particles behave in these interactions."
+    },
+    {
+      "title": "Quantum Meet Quantum: Hybrid Quantum Computer Lets Scientists Peak in on Foundational Quantum Effect",
+      "link": "https://thequantuminsider.com/2026/10/12/quantum-meet-quantum-hybrid-quantum-computer-lets-scientists-peak-in-on-foundational-quantum-effect/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 12 Oct 2026 07:07:37 +0000",
+      "published_ts": 1791788857,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Physicists in the Department of Physics, University of Oxford, have used a hybrid quantum computer, formed by qubits and quantum oscillators, to observe the Aharonov-Bohm effect in a quantum simulation. The effect is a quantum phenomenon in which a particle can ac…"
+    },
     {
       "title": "Warm-Start Quantum Computation for Energy Readout and State Preparation",
       "link": "https://arxiv.org/abs/2610.12485",
@@ -170,7 +202,7 @@
       "summary": "Every black hole hides a question at its center. Einstein's theory predicts that whatever falls in is crushed into a singularity, a point of infinite density where the theory itself breaks down. Most physicists expect quantum gravity to replace that point with something finite. But the center lies h…"
     },
     {
-      "title": "Tuning a quantum computer: what a violin teaches us about qubit calibration",
+      "title": "Tuning a Quantum Computer: What a Violin Teaches us About Qubit Calibration",
       "link": "https://thequantuminsider.com/2026/10/09/tuning-a-quantum-computer-what-a-violin-teaches-us-about-qubit-calibration/",
       "source": "The Quantum Insider",
       "published": "Fri, 09 Oct 2026 18:46:22 +0000",
@@ -242,36 +274,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; izmo Limited (NSE: IZMO) (BSE: 532341) today announced that its semiconductor subsidiary, izmo Microsystems Pvt. Ltd., has entered into a Memorandum of Understanding with the Indian Institute of Technology Madras (IIT Madras) for Phase II of the Centre for Program…"
     },
     {
-      "title": "Chattanooga Quantum Collaborative Graduates First Quantum Ready Cohort",
-      "link": "https://thequantuminsider.com/2026/10/09/chattanooga-quantum-collaborative-graduates-first-quantum-ready-cohort/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 09 Oct 2026 12:09:09 +0000",
-      "published_ts": 1791547749,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Chattanooga Quantum Collaborative announces seventeen professionals from sixteen Tennessee employers completed the Quantum Ready Pre-Apprenticeship, a 12-week program created by the Chattanooga Quantum Collaborative (CQC) to help companies understand emerging quan…"
-    },
-    {
       "title": "Superconducting circuit links smaller photon groups into larger entangled states",
       "link": "https://phys.org/news/2026-10-superconducting-circuit-links-smaller-photon.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 09 Oct 2026 08:00:06 EDT",
       "published_ts": 1791547206,
       "summary": "Quantum computers, computer systems that leverage the laws of quantum mechanics, store and process information using qubits (i.e., quantum bits). In many quantum computers, qubits are linked via entanglement, a quantum mechanical effect that connects particles in such a way that their shared state c…"
-    },
-    {
-      "title": "Quobly and SiPearl Partner to Explore European CPU-QPU Integration For Sovereign Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/10/09/quobly-and-sipearl-partner-to-explore-european-cpu-qpu-integration-for-sovereign-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 09 Oct 2026 10:56:18 +0000",
-      "published_ts": 1791543378,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quobly, a French quantum computing company developing industrially scalable quantum computers based on silicon spin qubits, and SiPearl, the designer of European high-performance energy-efficient CPUs for sovereign supercomputing, AI and data centre, have signed a…"
-    },
-    {
-      "title": "Technology Used by Optical Atomic Clocks May Jump From Lab to Consumer",
-      "link": "https://thequantuminsider.com/2026/10/09/technology-used-by-optical-atomic-clocks-may-jump-from-lab-to-consumer/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 09 Oct 2026 10:00:00 +0000",
-      "published_ts": 1791540000,
-      "summary": "Insider Brief PRESS RELEASE &#8212; University of Auckland research may help the world to miniaturize the laser tools used for ultraprecise measurements such as atomic clocks and quantum computing. There are big scientific and commercial implications. So far, the laser tools called optical frequency…"
     },
     {
       "title": "How researchers tell different quantum excitations apart in individual molecules",
@@ -312,14 +320,6 @@
       "published": "Wed, 07 Oct 2026 14:00:50 EDT",
       "published_ts": 1791396050,
       "summary": "Modern technological breakthroughs like lasers, MRI scanners, semiconductors and quantum computers rest on the study of quantum mechanics. However, the field has predominantly focused on (sub)atomic phenomena far removed from our human senses."
-    },
-    {
-      "title": "Levitating glass sphere becomes entangled with light at room temperature",
-      "link": "https://phys.org/news/2026-10-levitating-glass-sphere-entangled-room.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 07 Oct 2026 12:40:13 EDT",
-      "published_ts": 1791391213,
-      "summary": "Today, many physicists are actively exploring how light could be used to link objects through quantum entanglement. By fully harnessing the effect, they hope to unlock a wide array of applications, from secure communication networks spanning vast distances to sensitive new tests of the fundamental l…"
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
