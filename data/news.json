@@ -1,6 +1,126 @@
 {
-  "generated_ts": 1791753844,
+  "generated_ts": 1791777672,
   "items": [
+    {
+      "title": "Warm-Start Quantum Computation for Energy Readout and State Preparation",
+      "link": "https://arxiv.org/abs/2610.12485",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12485v1 Announce Type: new  Abstract: Estimating a ground-state energy and preparing a ground state both split into a front-end that supplies an approximate state $|\\chi\\rangle$ and a back-end that reads or refines it. We argue, and measure at every step, that the only thing crossing that…"
+    },
+    {
+      "title": "Exact solutions of non-Markovian dissipative Ising models",
+      "link": "https://arxiv.org/abs/2610.12546",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12546v1 Announce Type: new  Abstract: Applications of quantum devices and simulators require an accurate understanding of their dynamics as well as the effects of environmental noise. While some sources of noise can be modeled as Markovian dissipation, coupling to resonators or vibrationa…"
+    },
+    {
+      "title": "Engineering Ergodicity-Breaking and Stable Emergent Conservation Laws in a Generic Quantum Many-body System Under Strong Periodic Drive",
+      "link": "https://arxiv.org/abs/2610.12551",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12551v1 Announce Type: new  Abstract: A periodically driven quantum many-body system is believed to approach a locally infinite-temperature-like state as dictated by the ergodicity hypothesis, when all the couplings/parameters are of the same order. When the drive is stronger than a thres…"
+    },
+    {
+      "title": "TLS loss in superconducting resonators on epitaxial hBN thin films",
+      "link": "https://arxiv.org/abs/2610.12556",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12556v1 Announce Type: new  Abstract: The integration of low-loss dielectrics into superconducting circuits is of importance to the functionality of quantum computers and sensors. In this work, we fabricate and measure niobium resonators atop few-layer, epitaxial hexagonal boron nitride (…"
+    },
+    {
+      "title": "Correlated Pair Creation with Positive- and Negative-Frequency Oscillators in a Trapped-Ion Quantum Simulator",
+      "link": "https://arxiv.org/abs/2610.12579",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12579v1 Announce Type: new  Abstract: Spin-dependent forces enable independent control over the effective frequencies of bosonic motional modes and their coupling strengths to spins in trapped-ion spin-boson quantum simulators. We show that the relative signs of these effective frequencie…"
+    },
+    {
+      "title": "Error correction and quantum information spreading on sparse random graphs",
+      "link": "https://arxiv.org/abs/2610.12597",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12597v1 Announce Type: new  Abstract: Quantum error-correcting codes on graph geometries beyond regular euclidean lattices have emerged as a promising route toward robust quantum information processing. A major challenge in quantum error correction is the trade-off between favorable prope…"
+    },
+    {
+      "title": "Dissipative Majorana Chain---Anomalies and Non-Invertible Symmetries",
+      "link": "https://arxiv.org/abs/2610.12607",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12607v1 Announce Type: new  Abstract: We study symmetries and anomalies of dissipative Majorana chains described by Lindblad dynamics. Using the operator-state mapping, we represent the Lindbladian as a non-Hermitian operator on a doubled Hilbert space. In this formulation, the ket and br…"
+    },
+    {
+      "title": "Optimal linear-optical interferometers for unitary t-designs in a multi-photon Fock space",
+      "link": "https://arxiv.org/abs/2610.12646",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12646v1 Announce Type: new  Abstract: We investigate the construction of unitary $t$-designs in a multi-photon Fock space on programmable linear-optical interferometers. Using the frame potential as the optimization objective, we identify architectures that realize approximate unitary 1-…"
+    },
+    {
+      "title": "Latent Symmetry in Quantum Zeno Dynamics",
+      "link": "https://arxiv.org/abs/2610.12647",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12647v1 Announce Type: new  Abstract: Quantum Zeno dynamics constrains a continuously monitored system to measurement-selected subspaces. Here we show that the structure of such Zeno subspaces can be governed by a \\emph{latent symmetry}, namely a symmetry that is absent from the geometry…"
+    },
+    {
+      "title": "A Catalytic Algorithm for Transposing Unknown Qutrit Unitaries with Tight Query Bounds",
+      "link": "https://arxiv.org/abs/2610.12664",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12664v1 Announce Type: new  Abstract: We construct exact deterministic circuits for transposing and inverting an unknown qutrit unitary $U\\in\\mathrm{SU}(3)$ using only forward queries. Three queries prepare a catalyst independently of the input state. Four further queries implement transp…"
+    },
+    {
+      "title": "Fast computational primitives for La-cross qLDPC codes",
+      "link": "https://arxiv.org/abs/2610.12685",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12685v1 Announce Type: new  Abstract: Quantum LDPC codes promise to reduce the overhead of fault-tolerant quantum computation, but their practical use requires efficient logical gates, measurements, and access to non-Clifford resources. Here, we develop a complete set of computational pri…"
+    },
+    {
+      "title": "Coset Lifted Product Codes: Constructing Quantum LDPC Codes from Non-Normal Subgroup Actions",
+      "link": "https://arxiv.org/abs/2610.12782",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12782v1 Announce Type: new  Abstract: We introduce coset lifted product (CLP) codes, a family of quantum LDPC codes that combine the protograph structure of lifted product codes with the coset action of Aydin, Tamo, and Barg \\cite{AydinTamoBarg2026}. Given a finite group $G$, a subgroup $…"
+    },
+    {
+      "title": "Analog quantum simulation of Shastry-Sutherland Ising materials",
+      "link": "https://arxiv.org/abs/2610.12800",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12800v1 Announce Type: new  Abstract: Frustrated magnets host rich emergent behavior because competing interactions generate dense manifolds of low-energy states. The Ising Shastry-Sutherland model is a paradigmatic setting, motivated experimentally by Ising-like rare-earth tetraborides s…"
+    },
+    {
+      "title": "Trainable Quantum-Native Language Models: Dissipative Memory, Capacity Limits, and Hardware Validation",
+      "link": "https://arxiv.org/abs/2610.12806",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12806v1 Announce Type: new  Abstract: We study byte-level autoregressive language models whose hidden state is a small quantum register, whose transitions are learned token-conditioned quantum channels, and whose next-byte probabilities come directly from Born-rule measurements without a…"
+    },
+    {
+      "title": "Improved classical optimization of fermionic Hamiltonians beyond Gaussian states",
+      "link": "https://arxiv.org/abs/2610.12844",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "published_ts": 1791777600,
+      "summary": "arXiv:2610.12844v1 Announce Type: new  Abstract: We give a polynomial-time randomized classical algorithm that approximates the largest eigenvalue $\\lambda_{\\max}$ of a traceless quartic fermionic Hamiltonian $H$ on $n$ modes. The algorithm achieves energy at least $\\lambda_{\\max}/O(\\sqrt n)$ and ou…"
+    },
     {
       "title": "Quantum 'birthmarks' hold lasting traces of a system's past",
       "link": "https://phys.org/news/2026-10-quantum-birthmarks.html",
