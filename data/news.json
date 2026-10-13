@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1791897894,
+  "generated_ts": 1791929619,
   "items": [
+    {
+      "title": "'Carpet' growth method yields long-sought 2D quantum material",
+      "link": "https://phys.org/news/2026-10-carpet-growth-method-yields-sought.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 13 Oct 2026 17:30:02 EDT",
+      "published_ts": 1791927002,
+      "summary": "For decades, physicists have sought a practical two-dimensional topological insulator: an ultrathin material whose interior blocks electricity but whose edges conduct it. In ordinary wires, electrons constantly bounce off imperfections, losing energy. But along the edges of a 2D topological insulato…"
+    },
+    {
+      "title": "Faster molecular simulations identify promising diamond defects for quantum computers and sensors",
+      "link": "https://phys.org/news/2026-10-faster-molecular-simulations-diamond-defects.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 13 Oct 2026 17:20:01 EDT",
+      "published_ts": 1791926401,
+      "summary": "A faster way of finding the best diamond-based materials for quantum computers has been developed by a researcher at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL). The new approach has already identified promising materials for practical quantum sensors and compute…"
+    },
+    {
+      "title": "New topological microscope tip reveals evidence of 2D altermagnetism",
+      "link": "https://phys.org/news/2026-10-topological-microscope-reveals-evidence-2d.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 13 Oct 2026 17:10:01 EDT",
+      "published_ts": 1791925801,
+      "summary": "Researchers have fashioned a layered topological material into a scanning tunneling microscope (STM) tip that senses spin-related electronic states at atomic resolution."
+    },
+    {
+      "title": "Quantum physicists trace a century of controlling spin",
+      "link": "https://phys.org/news/2026-10-quantum-physicists-century.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 13 Oct 2026 16:30:01 EDT",
+      "published_ts": 1791923401,
+      "summary": "A concept from the field of quantum mechanics, spin is a property of particles that has no direct counterpart in everyday experience. Since the early 20th century, researchers have learned to manipulate it deliberately by means of precisely shaped electromagnetic pulses. This has resulted in two tec…"
+    },
+    {
+      "title": "Coinbase Urges Early Work on Bitcoin’s Post-Quantum Transition",
+      "link": "https://thequantuminsider.com/2026/10/13/coinbase-urges-early-work-on-bitcoins-post-quantum-transition/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 13 Oct 2026 16:12:19 +0000",
+      "published_ts": 1791907939,
+      "summary": "Insider Brief Coinbase says Bitcoin should begin preparing for quantum computing threats before a machine capable of breaking its cryptography is announced. In a blog post outlining its technical priorities, the cryptocurrency exchange and custodian said protecting Bitcoin will require more than sel…"
+    },
+    {
+      "title": "Quantum Firms Backed to Keep UK Railways Running And Cut Waiting Lists",
+      "link": "https://thequantuminsider.com/2026/10/13/quantum-firms-backed-to-keep-uk-railways-running-and-cut-waiting-lists/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 13 Oct 2026 14:50:53 +0000",
+      "published_ts": 1791903053,
+      "summary": "Insider Brief PRESS RELEASE &#8212; British businesses developing quantum technologies are being backed to keep our railways running, reduce eye scan waits, and keep our military connected – improving lives for people across the country. Quantum technologies use the behaviour of tiny particles inclu…"
+    },
+    {
+      "title": "Infleqtion Receives £9 Million to Develop Quantum RF Sensing System",
+      "link": "https://thequantuminsider.com/2026/10/13/infleqtion-9-million-quantum-rf-sensing-system/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 13 Oct 2026 14:43:50 +0000",
+      "published_ts": 1791902630,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, has been awarded £9 million (~$12M) by Innovate UK, part of UK Research and Innovation (UKRI), to continue development of a deployable quantum rad…"
+    },
+    {
+      "title": "Google Researchers Propose Using Error Records to Improve Quantum Results After Computation",
+      "link": "https://thequantuminsider.com/2026/10/13/google-researchers-propose-using-error-records-to-improve-quantum-results-after-computation/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 13 Oct 2026 13:05:47 +0000",
+      "published_ts": 1791896747,
+      "summary": "Insider Brief Errors can survive even a quantum computer’s built-in correction system, leaving researchers with results that look reliable but remain slightly off. Now, Google Quantum AI researchers report on a &#8220;measure now, mitigate later&#8221; approach in a preprint study on arXiv that uses…"
+    },
     {
       "title": "Quantum XChange CEO to Lead Post-Quantum Cryptography Panel at ACT-IAC 2026 Cyber Summit",
       "link": "https://thequantuminsider.com/2026/10/13/quantum-xchange-pqc-panel-act-iac-2026-cyber-summit/",
@@ -58,14 +122,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; QuDef, a Netherlands-based leader in quantum technology security, and The Thought Projects (TTP), a Singapore-based innovation leader in future-proof data security and Quantum Key Distribution (QKD) security evaluation, today announced a strategic collaboration. T…"
     },
     {
-      "title": "Alice & Bob Decodes LDPC-Cat Codes on GPUs With NVIDIA NVQLink",
-      "link": "https://thequantuminsider.com/2026/10/13/alice-bob-decodes-ldpc-cat-codes-on-gpus-with-nvidia-nvqlink/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 13 Oct 2026 07:18:49 +0000",
-      "published_ts": 1791875929,
-      "summary": "Insider Link PRESS RELEASE &#8212; Alice &#38; Bob, a leader in fault-tolerant quantum computing, today shared results from implementing GPUs to decode its LDPC-cat architecture using NVIDIA NVQLink. The proof of concept using synthetic data is the first time LDPC-cat codes have been decoded on GPUs…"
-    },
-    {
       "title": "Gravity and quantum information linked through a derivation of Einstein's equations",
       "link": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html",
       "source": "Phys.org — Quantum Physics",
@@ -82,36 +138,12 @@
       "summary": "Magnetic fields are invisible yet essential components in technologies ranging from MRI scanners and particle accelerators to atomic clocks and future quantum computers. Each of these applications requires magnetic fields with specific shapes and properties. Today, creating such tailored magnetic fi…"
     },
     {
-      "title": "WISeSat.Space Develops Post-Quantum Security for Satellite Communications",
-      "link": "https://thequantuminsider.com/2026/10/12/wisesat-space-post-quantum-security-satellite-communications/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 12 Oct 2026 17:50:35 +0000",
-      "published_ts": 1791827435,
-      "summary": "Insider Brief PRESS RELEASE &#8212; WISeSat.Space (Nasdaq: SAIQ) (“WISeSat.Space” or the “Company”) today outlined its strategy to integrate post-quantum cryptography (“PQC”) into its next-generation satellite communications and Internet of Things (“IoT”) architecture, supporting the migration objec…"
-    },
-    {
-      "title": "SEALSQ Unveils VaultIC409 Secure Element for Post-Quantum Cryptography",
-      "link": "https://thequantuminsider.com/2026/10/12/sealsq-vaultic409-secure-element-post-quantum-cryptography/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 12 Oct 2026 17:05:50 +0000",
-      "published_ts": 1791824750,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today unveils VaultIC409, a next-generation secure element…"
-    },
-    {
       "title": "One step closer to quantum computers that can correct their own mistakes",
       "link": "https://phys.org/news/2026-10-closer-quantum.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 12 Oct 2026 11:20:22 EDT",
       "published_ts": 1791818422,
       "summary": "Researchers from Rutgers, IBM and collaborating institutions have shown that a quantum computer can check what is happening inside it and respond while it is running, repeatedly resetting parts of the system to bring chaotic behavior under control."
-    },
-    {
-      "title": "In Step Toward Quantum Networking, Penn Study Finds Quantum Light Pattern Can Survive Loss of Entanglement",
-      "link": "https://thequantuminsider.com/2026/10/12/in-step-toward-quantum-networking-penn-study-finds-quantum-light-pattern-can-survive-loss-of-entanglement/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 12 Oct 2026 15:01:15 +0000",
-      "published_ts": 1791817275,
-      "summary": "Insider Brief University of Pennsylvania researchers have used a photonic chip to transfer a winding pattern in quantum light that survived noise even after entanglement disappeared, which they say could help develop quantum networks. Currently, scientists and engineers are exploring ways to create…"
     },
     {
       "title": "Hybrid quantum computers could finally get to grips with light and matter",
@@ -176,38 +208,6 @@
       "published": "Fri, 09 Oct 2026 10:40:09 EDT",
       "published_ts": 1791556809,
       "summary": "University of Glasgow researchers are part of an international collaboration that could lead to a new generation of quantum sensors. The team, which included researchers from the University of Tokyo, University of Glasgow, University of Sheffield and Kobe University, has for the first time used ligh…"
-    },
-    {
-      "title": "Ultrafast core-level spectroscopy reveals elusive precursors of exciton condensation in quantum materials",
-      "link": "https://phys.org/news/2026-08-ultrafast-core-spectroscopy-reveals-elusive.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 09 Oct 2026 10:14:28 EDT",
-      "published_ts": 1791555268,
-      "summary": "Many fascinating phases in quantum materials emerge when electrons, atoms and other microscopic components begin to act collectively. But these phases do not necessarily appear out of nowhere when a material crosses a transition temperature. Before long-range order develops, microscopic fluctuations…"
-    },
-    {
-      "title": "Superconducting circuit links smaller photon groups into larger entangled states",
-      "link": "https://phys.org/news/2026-10-superconducting-circuit-links-smaller-photon.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 09 Oct 2026 08:00:06 EDT",
-      "published_ts": 1791547206,
-      "summary": "Quantum computers, computer systems that leverage the laws of quantum mechanics, store and process information using qubits (i.e., quantum bits). In many quantum computers, qubits are linked via entanglement, a quantum mechanical effect that connects particles in such a way that their shared state c…"
-    },
-    {
-      "title": "How researchers tell different quantum excitations apart in individual molecules",
-      "link": "https://phys.org/news/2026-10-quantum-individual-molecules.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 08 Oct 2026 16:50:02 EDT",
-      "published_ts": 1791492602,
-      "summary": "Molecules can be placed in a wide variety of quantum states. How can these states be distinguished in measurements when theoretical models are unreliable? Which excitation process lies behind which measurement signal?"
-    },
-    {
-      "title": "Layered semiconductor unlocks magnetic control of light emitted by quantum condensates",
-      "link": "https://phys.org/news/2026-10-layered-semiconductor-magnetic-emitted-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 08 Oct 2026 16:00:11 EDT",
-      "published_ts": 1791489611,
-      "summary": "Quantum technologies are considered key technologies of the future. However, research in this field requires not only scientific expertise but sometimes also highly specialized laboratory conditions. Bose–Einstein condensates are a remarkable example, in which atoms move in lockstep, making quantum-…"
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
