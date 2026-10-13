@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1791849858,
+  "generated_ts": 1791897894,
   "items": [
+    {
+      "title": "Quantum XChange CEO to Lead Post-Quantum Cryptography Panel at ACT-IAC 2026 Cyber Summit",
+      "link": "https://thequantuminsider.com/2026/10/13/quantum-xchange-pqc-panel-act-iac-2026-cyber-summit/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 13 Oct 2026 11:58:22 +0000",
+      "published_ts": 1791892702,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum XChange®, a leader in quantum-safe network security, today announced that CEO Eddy Zervigon will moderate a panel discussion on post-quantum cryptography at the ACT-IAC 2026 Cyber Summit on October 14 in Reston, Virginia. The discussion will focus on the p…"
+    },
+    {
+      "title": "SkyWater and D-Wave Sign Multi-Year Quantum Manufacturing Agreement",
+      "link": "https://thequantuminsider.com/2026/10/13/skywater-d-wave-manufacturing-agreement/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 13 Oct 2026 11:51:25 +0000",
+      "published_ts": 1791892285,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SkyWater Technology (“SkyWater”), the first quantum foundry in the U.S., and D-Wave Quantum Inc. (Nasdaq: QBTS) (&#8220;D-Wave&#8221;), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today a…"
+    },
+    {
+      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Tue, 13 Oct 2026 05:47:22 EDT",
+      "published_ts": 1791884842,
+      "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement through quantum inter…"
+    },
+    {
+      "title": "Swinburne and IQM Partner on Quantum Research and Workforce Development",
+      "link": "https://thequantuminsider.com/2026/10/13/swinburne-iqm-advance-quantum-ecosystem-australia/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 13 Oct 2026 09:45:03 +0000",
+      "published_ts": 1791884703,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Swinburne University of Technology and IQM Quantum Computers, the global leader in superconducting quantum computers, are partnering to advance quantum science, technology, innovation and workforce development capability.  This new partnership will include collabo…"
+    },
+    {
+      "title": "Bloq Quantum Launches Bloq Maya AI Agent for Enterprise Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/10/13/bloq-quantum-ai-agent-quantum-algorithms/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 13 Oct 2026 09:37:13 +0000",
+      "published_ts": 1791884233,
+      "summary": "Insider Brief PRESS RELEASE &#8212;  Bloq Quantum today announced the launch of Bloq Maya, its flagship AI Agent designed to simplify and accelerate quantum computing for enterprises. It’s built to solve a very specific problem: making quantum computing actually usable for enterprise quantum teams.…"
+    },
+    {
+      "title": "Quantum Design Oxford Announces Winner of the 2026 Nicholas Kurti Science Prize",
+      "link": "https://thequantuminsider.com/2026/10/13/quantum-design-oxford-nicholas-kurti-prize-chunyu-guo-2026/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 13 Oct 2026 09:29:03 +0000",
+      "published_ts": 1791883743,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Design Oxford today announces that Dr Chunyu Guo, W2 Research Group Leader at the Max Planck Institute for the Structure and Dynamics of Matter, Hamburg, Germany has been awarded the 2026 Nicholas Kurti Science Prize. The Award recognises Dr Guo&#8217;s co…"
+    },
+    {
+      "title": "QuDef And The Thought Projects Partner to Bring Quantum Security Platform to Asia-Pacific",
+      "link": "https://thequantuminsider.com/2026/10/13/qudef-and-the-thought-projects-partner-to-bring-quantum-security-platform-to-asia-pacific/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 13 Oct 2026 07:56:00 +0000",
+      "published_ts": 1791878160,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuDef, a Netherlands-based leader in quantum technology security, and The Thought Projects (TTP), a Singapore-based innovation leader in future-proof data security and Quantum Key Distribution (QKD) security evaluation, today announced a strategic collaboration. T…"
+    },
+    {
+      "title": "Alice & Bob Decodes LDPC-Cat Codes on GPUs With NVIDIA NVQLink",
+      "link": "https://thequantuminsider.com/2026/10/13/alice-bob-decodes-ldpc-cat-codes-on-gpus-with-nvidia-nvqlink/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 13 Oct 2026 07:18:49 +0000",
+      "published_ts": 1791875929,
+      "summary": "Insider Link PRESS RELEASE &#8212; Alice &#38; Bob, a leader in fault-tolerant quantum computing, today shared results from implementing GPUs to decode its LDPC-cat architecture using NVIDIA NVQLink. The proof of concept using synthetic data is the first time LDPC-cat codes have been decoded on GPUs…"
+    },
     {
       "title": "Gravity and quantum information linked through a derivation of Einstein's equations",
       "link": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html",
@@ -50,156 +114,12 @@
       "summary": "Insider Brief University of Pennsylvania researchers have used a photonic chip to transfer a winding pattern in quantum light that survived noise even after entanglement disappeared, which they say could help develop quantum networks. Currently, scientists and engineers are exploring ways to create…"
     },
     {
-      "title": "IonQ Agrees to Buy Elisity in Cybersecurity Deal Worth Up to $1.3 Billion",
-      "link": "https://thequantuminsider.com/2026/10/12/ionq-agrees-to-buy-elisity-in-cybersecurity-deal-worth-up-to-1-3-billion/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 12 Oct 2026 13:16:01 +0000",
-      "published_ts": 1791810961,
-      "summary": "Insider Brief IonQ has agreed to buy cybersecurity company Elisity in an all-stock deal worth up to $1.3 billion, expanding its security business as advances in quantum computing and artificial intelligence raise concerns about cyberattacks. The transaction includes up to $150 million in additional…"
-    },
-    {
-      "title": "Rensselaer Polytechnic Institute Names James Misewich Quantum Computing Constellation Chair",
-      "link": "https://thequantuminsider.com/2026/10/12/james-misewich-rpi-quantum-computing-chair/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 12 Oct 2026 12:36:09 +0000",
-      "published_ts": 1791808569,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Rensselaer Polytechnic Institute (RPI) today announced the appointment of James Misewich, Ph.D., as the Curtis R. Priem Quantum Computing Constellation Chair, effective January 1, 2027. A nationally recognized leader in energy, materials, and quantum science, Mise…"
-    },
-    {
       "title": "Hybrid quantum computers could finally get to grips with light and matter",
       "link": "https://phys.org/news/2026-10-hybrid-quantum.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 12 Oct 2026 06:40:01 EDT",
       "published_ts": 1791801601,
       "summary": "Many of nature's most important processes depend on how particles of matter interact with light and other force-carrying particles. So far, however, it has proven difficult for conventional computers to determine how individual particles behave in these interactions."
-    },
-    {
-      "title": "Quantum Meet Quantum: Hybrid Quantum Computer Lets Scientists Peak in on Foundational Quantum Effect",
-      "link": "https://thequantuminsider.com/2026/10/12/quantum-meet-quantum-hybrid-quantum-computer-lets-scientists-peak-in-on-foundational-quantum-effect/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 12 Oct 2026 07:07:37 +0000",
-      "published_ts": 1791788857,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Physicists in the Department of Physics, University of Oxford, have used a hybrid quantum computer, formed by qubits and quantum oscillators, to observe the Aharonov-Bohm effect in a quantum simulation. The effect is a quantum phenomenon in which a particle can ac…"
-    },
-    {
-      "title": "Warm-Start Quantum Computation for Energy Readout and State Preparation",
-      "link": "https://arxiv.org/abs/2610.12485",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12485v1 Announce Type: new  Abstract: Estimating a ground-state energy and preparing a ground state both split into a front-end that supplies an approximate state $|\\chi\\rangle$ and a back-end that reads or refines it. We argue, and measure at every step, that the only thing crossing that…"
-    },
-    {
-      "title": "Exact solutions of non-Markovian dissipative Ising models",
-      "link": "https://arxiv.org/abs/2610.12546",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12546v1 Announce Type: new  Abstract: Applications of quantum devices and simulators require an accurate understanding of their dynamics as well as the effects of environmental noise. While some sources of noise can be modeled as Markovian dissipation, coupling to resonators or vibrationa…"
-    },
-    {
-      "title": "Engineering Ergodicity-Breaking and Stable Emergent Conservation Laws in a Generic Quantum Many-body System Under Strong Periodic Drive",
-      "link": "https://arxiv.org/abs/2610.12551",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12551v1 Announce Type: new  Abstract: A periodically driven quantum many-body system is believed to approach a locally infinite-temperature-like state as dictated by the ergodicity hypothesis, when all the couplings/parameters are of the same order. When the drive is stronger than a thres…"
-    },
-    {
-      "title": "TLS loss in superconducting resonators on epitaxial hBN thin films",
-      "link": "https://arxiv.org/abs/2610.12556",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12556v1 Announce Type: new  Abstract: The integration of low-loss dielectrics into superconducting circuits is of importance to the functionality of quantum computers and sensors. In this work, we fabricate and measure niobium resonators atop few-layer, epitaxial hexagonal boron nitride (…"
-    },
-    {
-      "title": "Correlated Pair Creation with Positive- and Negative-Frequency Oscillators in a Trapped-Ion Quantum Simulator",
-      "link": "https://arxiv.org/abs/2610.12579",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12579v1 Announce Type: new  Abstract: Spin-dependent forces enable independent control over the effective frequencies of bosonic motional modes and their coupling strengths to spins in trapped-ion spin-boson quantum simulators. We show that the relative signs of these effective frequencie…"
-    },
-    {
-      "title": "Error correction and quantum information spreading on sparse random graphs",
-      "link": "https://arxiv.org/abs/2610.12597",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12597v1 Announce Type: new  Abstract: Quantum error-correcting codes on graph geometries beyond regular euclidean lattices have emerged as a promising route toward robust quantum information processing. A major challenge in quantum error correction is the trade-off between favorable prope…"
-    },
-    {
-      "title": "Dissipative Majorana Chain---Anomalies and Non-Invertible Symmetries",
-      "link": "https://arxiv.org/abs/2610.12607",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12607v1 Announce Type: new  Abstract: We study symmetries and anomalies of dissipative Majorana chains described by Lindblad dynamics. Using the operator-state mapping, we represent the Lindbladian as a non-Hermitian operator on a doubled Hilbert space. In this formulation, the ket and br…"
-    },
-    {
-      "title": "Optimal linear-optical interferometers for unitary t-designs in a multi-photon Fock space",
-      "link": "https://arxiv.org/abs/2610.12646",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12646v1 Announce Type: new  Abstract: We investigate the construction of unitary $t$-designs in a multi-photon Fock space on programmable linear-optical interferometers. Using the frame potential as the optimization objective, we identify architectures that realize approximate unitary 1-…"
-    },
-    {
-      "title": "Latent Symmetry in Quantum Zeno Dynamics",
-      "link": "https://arxiv.org/abs/2610.12647",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12647v1 Announce Type: new  Abstract: Quantum Zeno dynamics constrains a continuously monitored system to measurement-selected subspaces. Here we show that the structure of such Zeno subspaces can be governed by a \\emph{latent symmetry}, namely a symmetry that is absent from the geometry…"
-    },
-    {
-      "title": "A Catalytic Algorithm for Transposing Unknown Qutrit Unitaries with Tight Query Bounds",
-      "link": "https://arxiv.org/abs/2610.12664",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12664v1 Announce Type: new  Abstract: We construct exact deterministic circuits for transposing and inverting an unknown qutrit unitary $U\\in\\mathrm{SU}(3)$ using only forward queries. Three queries prepare a catalyst independently of the input state. Four further queries implement transp…"
-    },
-    {
-      "title": "Fast computational primitives for La-cross qLDPC codes",
-      "link": "https://arxiv.org/abs/2610.12685",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12685v1 Announce Type: new  Abstract: Quantum LDPC codes promise to reduce the overhead of fault-tolerant quantum computation, but their practical use requires efficient logical gates, measurements, and access to non-Clifford resources. Here, we develop a complete set of computational pri…"
-    },
-    {
-      "title": "Coset Lifted Product Codes: Constructing Quantum LDPC Codes from Non-Normal Subgroup Actions",
-      "link": "https://arxiv.org/abs/2610.12782",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12782v1 Announce Type: new  Abstract: We introduce coset lifted product (CLP) codes, a family of quantum LDPC codes that combine the protograph structure of lifted product codes with the coset action of Aydin, Tamo, and Barg \\cite{AydinTamoBarg2026}. Given a finite group $G$, a subgroup $…"
-    },
-    {
-      "title": "Analog quantum simulation of Shastry-Sutherland Ising materials",
-      "link": "https://arxiv.org/abs/2610.12800",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12800v1 Announce Type: new  Abstract: Frustrated magnets host rich emergent behavior because competing interactions generate dense manifolds of low-energy states. The Ising Shastry-Sutherland model is a paradigmatic setting, motivated experimentally by Ising-like rare-earth tetraborides s…"
-    },
-    {
-      "title": "Trainable Quantum-Native Language Models: Dissipative Memory, Capacity Limits, and Hardware Validation",
-      "link": "https://arxiv.org/abs/2610.12806",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12806v1 Announce Type: new  Abstract: We study byte-level autoregressive language models whose hidden state is a small quantum register, whose transitions are learned token-conditioned quantum channels, and whose next-byte probabilities come directly from Born-rule measurements without a…"
-    },
-    {
-      "title": "Improved classical optimization of fermionic Hamiltonians beyond Gaussian states",
-      "link": "https://arxiv.org/abs/2610.12844",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 12 Oct 2026 00:00:00 -0400",
-      "published_ts": 1791777600,
-      "summary": "arXiv:2610.12844v1 Announce Type: new  Abstract: We give a polynomial-time randomized classical algorithm that approximates the largest eigenvalue $\\lambda_{\\max}$ of a traceless quartic fermionic Hamiltonian $H$ on $n$ modes. The algorithm achieves energy at least $\\lambda_{\\max}/O(\\sqrt n)$ and ou…"
     },
     {
       "title": "Quantum 'birthmarks' hold lasting traces of a system's past",
@@ -234,14 +154,6 @@
       "summary": "Physicists in the Department of Physics at the University of Oxford have used a hybrid quantum computer, made up of qubits and quantum oscillators, to observe the Aharonov–Bohm effect in a quantum simulation. The effect is a quantum phenomenon in which a particle can acquire a measurable phase by tr…"
     },
     {
-      "title": "Corey O’Meara (E.ON): Finding Real Quantum Advantage in Grid Optimization",
-      "link": "https://thequantuminsider.com/2026/10/10/corey-omeara-e-on-finding-real-quantum-advantage-in-grid-optimization/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 10 Oct 2026 07:00:00 +0000",
-      "published_ts": 1791615600,
-      "summary": "Yuval Boger interviews Corey O&#8217;Meara, Chief Quantum Scientist at E.ON Digital Technology. They discuss how E.ON’s five-person quantum team works with business units to find high-value use cases, especially where classical methods may hit bottlenecks in optimization and machine learning. Corey…"
-    },
-    {
       "title": "Three quantum-inspired cores leave opposite fingerprints on the ringing of black holes",
       "link": "https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html",
       "source": "Phys.org — Quantum Physics",
@@ -250,28 +162,12 @@
       "summary": "Every black hole hides a question at its center. Einstein's theory predicts that whatever falls in is crushed into a singularity, a point of infinite density where the theory itself breaks down. Most physicists expect quantum gravity to replace that point with something finite. But the center lies h…"
     },
     {
-      "title": "Tuning a Quantum Computer: What a Violin Teaches us About Qubit Calibration",
-      "link": "https://thequantuminsider.com/2026/10/09/tuning-a-quantum-computer-what-a-violin-teaches-us-about-qubit-calibration/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 09 Oct 2026 18:46:22 +0000",
-      "published_ts": 1791571582,
-      "summary": "Insider brief Before a violinist plays a note, they tune. Each string is tightened or loosened until it sounds exactly right, and even then, temperature and humidity will pull it out of tune again before long. Quantum computers have the same problem, only far more acute. That was the starting point…"
-    },
-    {
       "title": "Quantum chip holds multiple photons at once, opening path to scalable memory",
       "link": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 09 Oct 2026 13:00:10 EDT",
       "published_ts": 1791565210,
       "summary": "For highly fragile quantum information systems, the ability to store quantum information is vital—but also challenging. Quantum information is transported in particles of light called photons, which often must be temporarily paused (or \"stored\") while other, slower quantum operations catch up. This…"
-    },
-    {
-      "title": "Guest Post: Quantum Computing’s Transistor Moment",
-      "link": "https://thequantuminsider.com/2026/10/09/guest-post-quantum-computings-transistor-moment/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 09 Oct 2026 14:45:33 +0000",
-      "published_ts": 1791557133,
-      "summary": "A new paper demonstrating Grover&#8217;s search on a room-temperature diamond processor may echo the transistor&#8217;s takeover from vacuum tubes – and raises questions about how much vacuum-dependent quantum hardware survives the same transition. Guest Post By Prof. Dr. Marius Grundmann, CEO, SAXO…"
     },
     {
       "title": "Light reads electron spins inside porous crystals, opening path to quantum chemical sensors",
@@ -288,14 +184,6 @@
       "published": "Fri, 09 Oct 2026 10:14:28 EDT",
       "published_ts": 1791555268,
       "summary": "Many fascinating phases in quantum materials emerge when electrons, atoms and other microscopic components begin to act collectively. But these phases do not necessarily appear out of nowhere when a material crosses a transition temperature. Before long-range order develops, microscopic fluctuations…"
-    },
-    {
-      "title": "IonQ Demonstrates 1,000 Entanglement Events per Second in Quantum Interconnect",
-      "link": "https://thequantuminsider.com/2026/10/09/ionq-1000-entanglement-events-per-second-quantum-interconnect/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 09 Oct 2026 13:20:20 +0000",
-      "published_ts": 1791552020,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced the achievement of entanglement rates above 1,000 per second (1 kHz) between a trapped ion qubit and a solid-state memory, through a photonic interconnect. Entanglement…"
     },
     {
       "title": "Superconducting circuit links smaller photon groups into larger entangled states",
@@ -488,14 +376,6 @@
       "published": "Thu, 23 Jul 2026 08:00:00 -0400",
       "published_ts": 1784808000,
       "summary": "Initial research projects advance national priorities across natural resources, manufacturing, nuclear physics, and more."
-    },
-    {
-      "title": "New programmable photonic chip can control how fast light moves",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Tue, 21 Jul 2026 22:43:34 EDT",
-      "published_ts": 1784688214,
-      "summary": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more pr…"
     },
     {
       "title": "An ordinary laptop solved a problem thought to require a quantum computer",
