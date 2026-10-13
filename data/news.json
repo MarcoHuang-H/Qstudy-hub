@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1791814509,
+  "generated_ts": 1791849858,
   "items": [
+    {
+      "title": "Gravity and quantum information linked through a derivation of Einstein's equations",
+      "link": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 12 Oct 2026 19:20:01 EDT",
+      "published_ts": 1791847201,
+      "summary": "Recent research shows that gravity and quantum information are deeply connected and that the shape of spacetime can be traced back to the way information is stored in quantum fields."
+    },
+    {
+      "title": "Magnetic sculpting transforms single-source fields into predetermined shapes with mathematical precision",
+      "link": "https://phys.org/news/2026-10-magnetic-sculpting-source-fields-predetermined.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 12 Oct 2026 18:40:01 EDT",
+      "published_ts": 1791844801,
+      "summary": "Magnetic fields are invisible yet essential components in technologies ranging from MRI scanners and particle accelerators to atomic clocks and future quantum computers. Each of these applications requires magnetic fields with specific shapes and properties. Today, creating such tailored magnetic fi…"
+    },
+    {
+      "title": "WISeSat.Space Develops Post-Quantum Security for Satellite Communications",
+      "link": "https://thequantuminsider.com/2026/10/12/wisesat-space-post-quantum-security-satellite-communications/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 12 Oct 2026 17:50:35 +0000",
+      "published_ts": 1791827435,
+      "summary": "Insider Brief PRESS RELEASE &#8212; WISeSat.Space (Nasdaq: SAIQ) (“WISeSat.Space” or the “Company”) today outlined its strategy to integrate post-quantum cryptography (“PQC”) into its next-generation satellite communications and Internet of Things (“IoT”) architecture, supporting the migration objec…"
+    },
+    {
+      "title": "SEALSQ Unveils VaultIC409 Secure Element for Post-Quantum Cryptography",
+      "link": "https://thequantuminsider.com/2026/10/12/sealsq-vaultic409-secure-element-post-quantum-cryptography/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 12 Oct 2026 17:05:50 +0000",
+      "published_ts": 1791824750,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today unveils VaultIC409, a next-generation secure element…"
+    },
+    {
+      "title": "One step closer to quantum computers that can correct their own mistakes",
+      "link": "https://phys.org/news/2026-10-closer-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 12 Oct 2026 11:20:22 EDT",
+      "published_ts": 1791818422,
+      "summary": "Researchers from Rutgers, IBM and collaborating institutions have shown that a quantum computer can check what is happening inside it and respond while it is running, repeatedly resetting parts of the system to bring chaotic behavior under control."
+    },
+    {
+      "title": "In Step Toward Quantum Networking, Penn Study Finds Quantum Light Pattern Can Survive Loss of Entanglement",
+      "link": "https://thequantuminsider.com/2026/10/12/in-step-toward-quantum-networking-penn-study-finds-quantum-light-pattern-can-survive-loss-of-entanglement/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 12 Oct 2026 15:01:15 +0000",
+      "published_ts": 1791817275,
+      "summary": "Insider Brief University of Pennsylvania researchers have used a photonic chip to transfer a winding pattern in quantum light that survived noise even after entanglement disappeared, which they say could help develop quantum networks. Currently, scientists and engineers are exploring ways to create…"
+    },
     {
       "title": "IonQ Agrees to Buy Elisity in Cybersecurity Deal Worth Up to $1.3 Billion",
       "link": "https://thequantuminsider.com/2026/10/12/ionq-agrees-to-buy-elisity-in-cybersecurity-deal-worth-up-to-1-3-billion/",
@@ -250,30 +298,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced the achievement of entanglement rates above 1,000 per second (1 kHz) between a trapped ion qubit and a solid-state memory, through a photonic interconnect. Entanglement…"
     },
     {
-      "title": "Quantum X Labs Seeks Patent for Structured-Beam Atom Cooling System",
-      "link": "https://thequantuminsider.com/2026/10/09/quantum-x-labs-us-patent-application-cold-atom-technology/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 09 Oct 2026 13:05:36 +0000",
-      "published_ts": 1791551136,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum X Labs Inc. (NASDAQ: QXL) (“Quantum X Labs” or the “Company”) today announced that its subsidiary, Quantum X Labs Ltd., a developer of technologies across quantum computing, quantum sensing, quantum software and quantum security, has filed a patent applica…"
-    },
-    {
-      "title": "BTQ and MoonPay Korea Partner on Post-Quantum Stablecoin Security",
-      "link": "https://thequantuminsider.com/2026/10/09/btq-technologies-secure-moonpay-korea-stablecoin-infrastructure/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 09 Oct 2026 12:56:38 +0000",
-      "published_ts": 1791550598,
-      "summary": "Insider Brief PRESS RELEASE &#8212; BTQ Technologies Corp. (&#8220;BTQ&#8220; or the &#8220;Company&#8221;) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, has announced a strategic partnership with MoonPay Korea, part of MoonPay Inc.…"
-    },
-    {
-      "title": "izmo Microsystems and IIT Madras Advance ₹99.94 Crore Silicon Photonics Program",
-      "link": "https://thequantuminsider.com/2026/10/09/izmo-microsystems-iit-madras-phase-ii-99-94-crore-silicon-photonics-program/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 09 Oct 2026 12:17:11 +0000",
-      "published_ts": 1791548231,
-      "summary": "Insider Brief PRESS RELEASE &#8212; izmo Limited (NSE: IZMO) (BSE: 532341) today announced that its semiconductor subsidiary, izmo Microsystems Pvt. Ltd., has entered into a Memorandum of Understanding with the Indian Institute of Technology Madras (IIT Madras) for Phase II of the Centre for Program…"
-    },
-    {
       "title": "Superconducting circuit links smaller photon groups into larger entangled states",
       "link": "https://phys.org/news/2026-10-superconducting-circuit-links-smaller-photon.html",
       "source": "Phys.org — Quantum Physics",
@@ -296,30 +320,6 @@
       "published": "Thu, 08 Oct 2026 16:00:11 EDT",
       "published_ts": 1791489611,
       "summary": "Quantum technologies are considered key technologies of the future. However, research in this field requires not only scientific expertise but sometimes also highly specialized laboratory conditions. Bose–Einstein condensates are a remarkable example, in which atoms move in lockstep, making quantum-…"
-    },
-    {
-      "title": "Liquid-crystal-like magnetism explains puzzling properties in a rare-earth compound",
-      "link": "https://phys.org/news/2026-10-liquid-crystal-magnetism-puzzling-properties.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 08 Oct 2026 15:20:15 EDT",
-      "published_ts": 1791487215,
-      "summary": "In some materials, physical properties don't emerge from their individual particles, but from the collective behavior of their quantum spins. Now, researchers led by Pengcheng Dai at Rice University in the U.S. have discovered that in one compound containing the rare-earth element ytterbium, these s…"
-    },
-    {
-      "title": "Acoustic experiments confirm topology can persist at gapless critical points",
-      "link": "https://phys.org/news/2026-10-acoustic-topology-persist-gapless-critical.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 07 Oct 2026 16:40:20 EDT",
-      "published_ts": 1791405620,
-      "summary": "Two studies on critical topology have recently been published in the journal Nature. These studies were led by the teams of Prof. Baile Zhang at Nanyang Technological University, Singapore, and Prof. Jianhua Jiang at the University of Science and Technology of China, respectively. Prof. Xue-Jia Yu f…"
-    },
-    {
-      "title": "First observation of quantum spins shifting a centimeter-scale object in the lab",
-      "link": "https://phys.org/news/2026-10-quantum-shifting-centimeter-scale-lab.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 07 Oct 2026 14:00:50 EDT",
-      "published_ts": 1791396050,
-      "summary": "Modern technological breakthroughs like lasers, MRI scanners, semiconductors and quantum computers rest on the study of quantum mechanics. However, the field has predominantly focused on (sub)atomic phenomena far removed from our human senses."
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
