@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1791975768,
+  "generated_ts": 1791994988,
   "items": [
+    {
+      "title": "From spin wave to superconducting circuit: A one-way street for quantum information",
+      "link": "https://phys.org/news/2026-10-superconducting-circuit-street-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 14 Oct 2026 12:20:02 EDT",
+      "published_ts": 1791994802,
+      "summary": "Quantum information systems could one day shape everyday life through faster computing, sharper sensing and more secure communication. A new result from the U.S. Department of Energy's (DOE) Argonne National Laboratory and the University of Illinois Urbana-Champaign (U. of I.) marks an important ste…"
+    },
+    {
+      "title": "Jamming the flow to enable memory in quantum materials",
+      "link": "https://phys.org/news/2026-10-enable-memory-quantum-materials.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 14 Oct 2026 10:00:26 EDT",
+      "published_ts": 1791986426,
+      "summary": "Understanding and controlling phase transitions are fundamental to physics and central to many technological revolutions. There is currently strong interest in materials with coupled structural and electronic phase transitions, where controlling the transition plasticity naturally yields built-in me…"
+    },
     {
       "title": "Quantum network test checks entanglement without having to trust detectors",
       "link": "https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html",
@@ -8,38 +24,6 @@
       "published": "Wed, 14 Oct 2026 07:00:01 EDT",
       "published_ts": 1791975601,
       "summary": "Quantum networks are systems that connect different users or devices using principles of quantum mechanics. In the future, these networks could help improve the security of communications."
-    },
-    {
-      "title": "QFX Wins £6.8 Million Innovate UK Contract for Quantum Timing Hardware",
-      "link": "https://thequantuminsider.com/2026/10/14/qfx-wins-6-8-million-innovate-uk-contract-for-quantum-timing-hardware/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 14 Oct 2026 09:31:53 +0000",
-      "published_ts": 1791970313,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QFX (Quantum Fabrix Ltd), an Oxford University spinout developing hardware infrastructure for distributed quantum computing and quantum networking, has been awarded a £6.8 million contract by Innovate UK to deliver Phase II of its SrROCK development programme. Bui…"
-    },
-    {
-      "title": "Qilimanjaro Quantum Tech Announces Nearly €20 Million First Close of Series A Led by Indra Group",
-      "link": "https://thequantuminsider.com/2026/10/14/qilimanjaro-quantum-tech-announces-nearly-e20-million-first-close-of-series-a-led-by-indra-group/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 14 Oct 2026 08:17:03 +0000",
-      "published_ts": 1791965823,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qilimanjaro Quantum Tech has completed a €19.6 million &#8212; about $22 million USD &#8212; first close of its Series A funding round, led by Indra Group through IndraMind with a €10 million investment. The Spanish Society for Technological Transformation (SETT),…"
-    },
-    {
-      "title": "TAIYI Quantum Surpasses RMB 1 Billion in Funding to Advance Fault-Tolerant Neutral-Atom Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/10/14/taiyi-quantum-surpasses-rmb-1-billion-in-funding-to-advance-fault-tolerant-neutral-atom-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 14 Oct 2026 07:43:39 +0000",
-      "published_ts": 1791963819,
-      "summary": "Insider Brief PRESS RELEASE &#8212; TAIYI Quantum, a quantum computing company developing ytterbium (Yb) neutral-atom technology, announced that its cumulative funding has exceeded RMB 1 billion (approximately US$140 million) following its latest financing round, less than a year after its founding…"
-    },
-    {
-      "title": "SEALSQ Presents Research on Side-Channel Attacks Against ML-KEM",
-      "link": "https://thequantuminsider.com/2026/10/14/sealsq-research-side-channel-attacks-ml-kem/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 14 Oct 2026 07:00:00 +0000",
-      "published_ts": 1791961200,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that its research team presented a peer-re…"
     },
     {
       "title": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry",
@@ -80,54 +64,6 @@
       "published": "Tue, 13 Oct 2026 16:30:01 EDT",
       "published_ts": 1791923401,
       "summary": "A concept from the field of quantum mechanics, spin is a property of particles that has no direct counterpart in everyday experience. Since the early 20th century, researchers have learned to manipulate it deliberately by means of precisely shaped electromagnetic pulses. This has resulted in two tec…"
-    },
-    {
-      "title": "Coinbase Urges Early Work on Bitcoin’s Post-Quantum Transition",
-      "link": "https://thequantuminsider.com/2026/10/13/coinbase-urges-early-work-on-bitcoins-post-quantum-transition/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 13 Oct 2026 16:12:19 +0000",
-      "published_ts": 1791907939,
-      "summary": "Insider Brief Coinbase says Bitcoin should begin preparing for quantum computing threats before a machine capable of breaking its cryptography is announced. In a blog post outlining its technical priorities, the cryptocurrency exchange and custodian said protecting Bitcoin will require more than sel…"
-    },
-    {
-      "title": "Quantum Firms Backed to Keep UK Railways Running And Cut Waiting Lists",
-      "link": "https://thequantuminsider.com/2026/10/13/quantum-firms-backed-to-keep-uk-railways-running-and-cut-waiting-lists/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 13 Oct 2026 14:50:53 +0000",
-      "published_ts": 1791903053,
-      "summary": "Insider Brief PRESS RELEASE &#8212; British businesses developing quantum technologies are being backed to keep our railways running, reduce eye scan waits, and keep our military connected – improving lives for people across the country. Quantum technologies use the behaviour of tiny particles inclu…"
-    },
-    {
-      "title": "Infleqtion Receives £9 Million to Develop Quantum RF Sensing System",
-      "link": "https://thequantuminsider.com/2026/10/13/infleqtion-9-million-quantum-rf-sensing-system/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 13 Oct 2026 14:43:50 +0000",
-      "published_ts": 1791902630,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, has been awarded £9 million (~$12M) by Innovate UK, part of UK Research and Innovation (UKRI), to continue development of a deployable quantum rad…"
-    },
-    {
-      "title": "Google Researchers Propose Using Error Records to Improve Quantum Results After Computation",
-      "link": "https://thequantuminsider.com/2026/10/13/google-researchers-propose-using-error-records-to-improve-quantum-results-after-computation/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 13 Oct 2026 13:05:47 +0000",
-      "published_ts": 1791896747,
-      "summary": "Insider Brief Errors can survive even a quantum computer’s built-in correction system, leaving researchers with results that look reliable but remain slightly off. Now, Google Quantum AI researchers report on a &#8220;measure now, mitigate later&#8221; approach in a preprint study on arXiv that uses…"
-    },
-    {
-      "title": "Quantum XChange CEO to Lead Post-Quantum Cryptography Panel at ACT-IAC 2026 Cyber Summit",
-      "link": "https://thequantuminsider.com/2026/10/13/quantum-xchange-pqc-panel-act-iac-2026-cyber-summit/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 13 Oct 2026 11:58:22 +0000",
-      "published_ts": 1791892702,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum XChange®, a leader in quantum-safe network security, today announced that CEO Eddy Zervigon will moderate a panel discussion on post-quantum cryptography at the ACT-IAC 2026 Cyber Summit on October 14 in Reston, Virginia. The discussion will focus on the p…"
-    },
-    {
-      "title": "SkyWater and D-Wave Sign Multi-Year Quantum Manufacturing Agreement",
-      "link": "https://thequantuminsider.com/2026/10/13/skywater-d-wave-manufacturing-agreement/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 13 Oct 2026 11:51:25 +0000",
-      "published_ts": 1791892285,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SkyWater Technology (“SkyWater”), the first quantum foundry in the U.S., and D-Wave Quantum Inc. (Nasdaq: QBTS) (&#8220;D-Wave&#8221;), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today a…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
@@ -192,22 +128,6 @@
       "published": "Sat, 10 Oct 2026 13:00:02 EDT",
       "published_ts": 1791651602,
       "summary": "Most of us recognize basic phases of matter and their properties: solids maintain their shape, liquids flow freely with constant volume, and gases expand to fill their container. Quantum phases, on the other hand, are much harder to categorize, overturning traditional notions of what a phase even is…"
-    },
-    {
-      "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
-      "link": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 10 Oct 2026 06:57:07 EDT",
-      "published_ts": 1791629827,
-      "summary": "Physicists in the Department of Physics at the University of Oxford have used a hybrid quantum computer, made up of qubits and quantum oscillators, to observe the Aharonov–Bohm effect in a quantum simulation. The effect is a quantum phenomenon in which a particle can acquire a measurable phase by tr…"
-    },
-    {
-      "title": "Three quantum-inspired cores leave opposite fingerprints on the ringing of black holes",
-      "link": "https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 09 Oct 2026 17:40:01 EDT",
-      "published_ts": 1791582001,
-      "summary": "Every black hole hides a question at its center. Einstein's theory predicts that whatever falls in is crushed into a singularity, a point of infinite density where the theory itself breaks down. Most physicists expect quantum gravity to replace that point with something finite. But the center lies h…"
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
