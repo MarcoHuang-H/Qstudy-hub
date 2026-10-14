@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1791994988,
+  "generated_ts": 1792012438,
   "items": [
+    {
+      "title": "IBM executive warns of risk of quantum computing hacks",
+      "link": "https://phys.org/news/2026-10-ibm-quantum-hacks.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 14 Oct 2026 14:50:01 EDT",
+      "published_ts": 1792003801,
+      "summary": "Organizations are unprepared for the risks posed by quantum computing, IBM's Europe and Africa vice president Alessandro Curioni told AFP Wednesday, referring to the high-speed technology that could crack security encryptions and enable large-scale cyberattacks."
+    },
+    {
+      "title": "Software advance brings complex quantum simulations to standard computers",
+      "link": "https://phys.org/news/2026-10-software-advance-complex-quantum-simulations.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 14 Oct 2026 14:01:09 EDT",
+      "published_ts": 1792000869,
+      "summary": "A major software advance could aid the creation of bigger, more reliable quantum computers, a study suggests. Researchers have developed an algorithm that enables off-the-shelf computers to run quantum simulations previously only possible using the world's most powerful supercomputers."
+    },
+    {
+      "title": "A tiny magnetic whirlpool could point to a new kind of ultra-efficient memory",
+      "link": "https://phys.org/news/2026-10-tiny-magnetic-whirlpool-kind-ultra.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 14 Oct 2026 12:40:08 EDT",
+      "published_ts": 1791996008,
+      "summary": "Every time a computer stores or erases information, it uses energy. The amount is tiny for a single operation, but those operations happen billions of times every second. For decades, scientists have wondered just how little energy a memory device could use before reaching the fundamental theoretica…"
+    },
     {
       "title": "From spin wave to superconducting circuit: A one-way street for quantum information",
       "link": "https://phys.org/news/2026-10-superconducting-circuit-street-quantum.html",
@@ -8,6 +32,46 @@
       "published": "Wed, 14 Oct 2026 12:20:02 EDT",
       "published_ts": 1791994802,
       "summary": "Quantum information systems could one day shape everyday life through faster computing, sharper sensing and more secure communication. A new result from the U.S. Department of Energy's (DOE) Argonne National Laboratory and the University of Illinois Urbana-Champaign (U. of I.) marks an important ste…"
+    },
+    {
+      "title": "SAXON Q Reports That Room-Temperature Quantum Computers Can Rival the Performance of Superconducting Processors",
+      "link": "https://thequantuminsider.com/2026/10/14/saxon-q-reports-that-room-temperature-quantum-computers-can-rival-the-performance-of-superconducting-processors/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 14 Oct 2026 16:06:37 +0000",
+      "published_ts": 1791993997,
+      "summary": "Insider Brief PRESS RELEASE &#8212; — SAXON Q, a leader in NV-center quantum computing, today released a paper showing that its room-temperature diamond-based system can perform on par with superconducting quantum computers cooled to near absolute zero. Running Grover’s search algorithm, a standard…"
+    },
+    {
+      "title": "EigenOrbit Releases Open-Source eigenkit Quantum Computing Library",
+      "link": "https://thequantuminsider.com/2026/10/14/eigenorbit-releases-open-source-eigenkit-quantum-computing-library/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 14 Oct 2026 15:55:54 +0000",
+      "published_ts": 1791993354,
+      "summary": "Insider Brief PRESS RELEASE &#8212; EigenOrbit has released eigenkit, a free open-source Python library for quantum computing. With eigenkit, a quantum algorithm is written once and runs on a simulator on an ordinary laptop or on real quantum computers from IBM, IQM and the vendors available through…"
+    },
+    {
+      "title": "IonQ Announces Pricing of $2.0 Billion Equity Offering",
+      "link": "https://thequantuminsider.com/2026/10/14/ionq-announces-pricing-2-billion-equity-offering/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 14 Oct 2026 15:44:21 +0000",
+      "published_ts": 1791992661,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), a leading full-stack quantum platform and foundry, today announced the pricing of a $2.0 billion equity offering. “This investment will accelerate the commercialization of our full-stack quantum platform and is a tremendous vote of confidence in…"
+    },
+    {
+      "title": "INmune Bio and QCi Apply Quantum Optimization to XPro Research",
+      "link": "https://thequantuminsider.com/2026/10/14/inmune-bio-qci-quantum-computing-drug-research/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 14 Oct 2026 15:38:28 +0000",
+      "published_ts": 1791992308,
+      "summary": "Insider Brief PRESS RELEASE &#8212; INmune Bio Inc.&#160;(Nasdaq: INMB) and Quantum Computing Inc.&#160;(Nasdaq: QUBT) today announced a collaboration to apply quantum computing, artificial intelligence (AI) and data analytics to identify new potential applications for XPro (XPro1595), INmune Bio&#8…"
+    },
+    {
+      "title": "IBM and Siemens Collaborate to Advance 3D Nanostack Transistors",
+      "link": "https://thequantuminsider.com/2026/10/14/ibm-siemens-advance-3d-nanostack-transistors/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 14 Oct 2026 15:31:42 +0000",
+      "published_ts": 1791991902,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Today, IBM (NYSE: IBM), in collaboration with Siemens, announced new research aimed at advancing IBM&#8217;s nanostack architecture, a new transistor architecture unveiled by IBM earlier this year. The collaboration will bring together IBM&#8217;s leadership in se…"
     },
     {
       "title": "Jamming the flow to enable memory in quantum materials",
@@ -18,12 +82,52 @@
       "summary": "Understanding and controlling phase transitions are fundamental to physics and central to many technological revolutions. There is currently strong interest in materials with coupled structural and electronic phase transitions, where controlling the transition plasticity naturally yields built-in me…"
     },
     {
+      "title": "Siloton Wins £8.4 Million Innovate UK Contract for Quantum Eye Imaging",
+      "link": "https://thequantuminsider.com/2026/10/14/siloton-8-4-million-innovate-uk-quantum-eye-imaging/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 14 Oct 2026 11:49:59 +0000",
+      "published_ts": 1791978599,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Bristol-based Siloton has been awarded a major contract to accelerate the development of its groundbreaking handheld eye imaging system, which makes the detection and monitoring of retinal diseases more accessible to patients. The med-tech start-up has secured £8.…"
+    },
+    {
+      "title": "MIT Bengaluru Launches Quantum-Hub@MAHE With 25-Qubit System",
+      "link": "https://thequantuminsider.com/2026/10/14/mit-bengaluru-launches-quantum-hub-mahe-25-qubit-system/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 14 Oct 2026 11:35:50 +0000",
+      "published_ts": 1791977750,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Manipal Institute of Technology, Bengaluru (MIT Bengaluru) on Tuesday launched Manipal House of Quantum, Quantum-Hub@MAHE. Established by Manipal Academy of Higher Education (MAHE), an Institution of Eminence Deemed to be University, the initiative will advance qu…"
+    },
+    {
+      "title": "Classiq and FreeYa Mind Campus Partner on Quantum Computing in Romania",
+      "link": "https://thequantuminsider.com/2026/10/14/classiq-freeya-mind-campus-quantum-applications-hub-romania/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 14 Oct 2026 11:23:38 +0000",
+      "published_ts": 1791977018,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq, a leading quantum computing software company, and FreeYa Mind Campus by S.C. Extensive Network SRL today announced a strategic commercial agreement to build quantum application development, education, enterprise and national capabilities at the campus’s h…"
+    },
+    {
+      "title": "Quminex Raises CAD $1.5 Million to Advance Mineral Exploration Platform",
+      "link": "https://thequantuminsider.com/2026/10/14/quminex-raises-cad-1-5-million-to-advance-mineral-exploration-platform/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 14 Oct 2026 11:05:00 +0000",
+      "published_ts": 1791975900,
+      "summary": "Insider Brief PRESS RELEASE &#8212; &#8211; Quminex, an early-stage Canadian mineral exploration technology company focused on discovering Canada’s next major critical mineral deposits, today announces that it has secured $1.5 Million CAD of venture capital financing. The investment was led by Quant…"
+    },
+    {
       "title": "Quantum network test checks entanglement without having to trust detectors",
       "link": "https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 14 Oct 2026 07:00:01 EDT",
       "published_ts": 1791975601,
       "summary": "Quantum networks are systems that connect different users or devices using principles of quantum mechanics. In the future, these networks could help improve the security of communications."
+    },
+    {
+      "title": "QFX Wins £6.8 Million Innovate UK Contract for Quantum Timing Hardware",
+      "link": "https://thequantuminsider.com/2026/10/14/qfx-wins-6-8-million-innovate-uk-contract-for-quantum-timing-hardware/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 14 Oct 2026 09:31:53 +0000",
+      "published_ts": 1791970313,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QFX (Quantum Fabrix Ltd), an Oxford University spinout developing hardware infrastructure for distributed quantum computing and quantum networking, has been awarded a £6.8 million contract by Innovate UK to deliver Phase II of its SrROCK development programme. Bui…"
     },
     {
       "title": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry",
@@ -104,30 +208,6 @@
       "published": "Mon, 12 Oct 2026 06:40:01 EDT",
       "published_ts": 1791801601,
       "summary": "Many of nature's most important processes depend on how particles of matter interact with light and other force-carrying particles. So far, however, it has proven difficult for conventional computers to determine how individual particles behave in these interactions."
-    },
-    {
-      "title": "Quantum 'birthmarks' hold lasting traces of a system's past",
-      "link": "https://phys.org/news/2026-10-quantum-birthmarks.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sun, 11 Oct 2026 14:20:01 EDT",
-      "published_ts": 1791742801,
-      "summary": "Some classical physical systems can explore many configurations over time until their long-term behavior no longer reveals their starting conditions. The sampling of available configurations according to the appropriate statistical distribution is a property called ergodicity."
-    },
-    {
-      "title": "Ultraviolet laser pulses engineer diamond defects selectively, leaving quantum qubits intact",
-      "link": "https://phys.org/news/2026-10-ultraviolet-laser-pulses-diamond-defects.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 10 Oct 2026 17:20:01 EDT",
-      "published_ts": 1791667201,
-      "summary": "When we think about a diamond, we often think about a material whose value comes from its perfection. In my research, however, I am interested in something almost opposite: the tiny imperfections inside diamonds. These atomic-scale defects can give diamonds new optical and electronic properties, and…"
-    },
-    {
-      "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
-      "link": "https://phys.org/news/2026-10-stability-distinguish-quantum-phases-older.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 10 Oct 2026 13:00:02 EDT",
-      "published_ts": 1791651602,
-      "summary": "Most of us recognize basic phases of matter and their properties: solids maintain their shape, liquids flow freely with constant volume, and gases expand to fill their container. Quantum phases, on the other hand, are much harder to categorize, overturning traditional notions of what a phase even is…"
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
