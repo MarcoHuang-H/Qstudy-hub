@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1791929619,
+  "generated_ts": 1791947803,
   "items": [
+    {
+      "title": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry",
+      "link": "https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 13 Oct 2026 19:40:02 EDT",
+      "published_ts": 1791934802,
+      "summary": "Researchers at Friedrich Schiller University Jena and the University of Regensburg have developed a method for determining, using light, a quantum property of electrons that has hitherto been difficult to access. The focus is on what is known as Berry curvature—a quantity that describes certain geom…"
+    },
     {
       "title": "'Carpet' growth method yields long-sought 2D quantum material",
       "link": "https://phys.org/news/2026-10-carpet-growth-method-yields-sought.html",
@@ -200,14 +208,6 @@
       "published": "Fri, 09 Oct 2026 13:00:10 EDT",
       "published_ts": 1791565210,
       "summary": "For highly fragile quantum information systems, the ability to store quantum information is vital—but also challenging. Quantum information is transported in particles of light called photons, which often must be temporarily paused (or \"stored\") while other, slower quantum operations catch up. This…"
-    },
-    {
-      "title": "Light reads electron spins inside porous crystals, opening path to quantum chemical sensors",
-      "link": "https://phys.org/news/2026-10-electron-porous-crystals-path-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 09 Oct 2026 10:40:09 EDT",
-      "published_ts": 1791556809,
-      "summary": "University of Glasgow researchers are part of an international collaboration that could lead to a new generation of quantum sensors. The team, which included researchers from the University of Tokyo, University of Glasgow, University of Sheffield and Kobe University, has for the first time used ligh…"
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
