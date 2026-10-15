@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1792080667,
+  "generated_ts": 1792097531,
   "items": [
+    {
+      "title": "Stony Brook Quantum Memory Named to TIME’s Best Inventions of 2026",
+      "link": "https://thequantuminsider.com/2026/10/15/stony-brook-patented-quantum-memory-time-best-inventions/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 15 Oct 2026 19:50:58 +0000",
+      "published_ts": 1792093858,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A quantum technology invented at the State University of New York (SUNY) at Stony Brook (Stony Brook University) is earning international recognition. Qunnect’s Qu-MEM, a commercial room-temperature quantum memory device developed from Stony Brook-patented technol…"
+    },
     {
       "title": "Quantum calculations reveal how spin defects lose energy",
       "link": "https://phys.org/news/2026-10-quantum-reveal-defects-energy.html",
@@ -88,14 +96,6 @@
       "published": "Thu, 15 Oct 2026 09:30:59 +0000",
       "published_ts": 1792056659,
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computing has the potential to solve problems beyond the reach of today&#8217;s computers, from drug discovery to materials science and optimisation. But before that can happen, the industry must first overcome the errors that are created by quantum comput…"
-    },
-    {
-      "title": "FirstQFM Model Cuts Single-Qubit Gate Times by 33% on QuantWare Processor",
-      "link": "https://thequantuminsider.com/2026/10/15/firstqfm-model-cuts-single-qubit-gate-times-33-percent-quantware/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 09:21:07 +0000",
-      "published_ts": 1792056067,
-      "summary": "Insider Brief PRESS RELEASE &#8212; FirstQFM today announced results from applying FirstQFM’s quantum foundation model to a QuantWare superconducting quantum processor at the Israeli Quantum Computing Center (IQCC). FirstQFM’s foundation model builds on top of Quantum Machines’ native calibration st…"
     },
     {
       "title": "Invertible subalgebras for chiral semion topological order",
