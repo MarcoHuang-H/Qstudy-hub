@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1792061142,
+  "generated_ts": 1792080667,
   "items": [
+    {
+      "title": "Quantum calculations reveal how spin defects lose energy",
+      "link": "https://phys.org/news/2026-10-quantum-reveal-defects-energy.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 15 Oct 2026 11:40:09 EDT",
+      "published_ts": 1792078809,
+      "summary": "When light hits a tiny defect embedded in a solid material like diamond or silicon carbide, it can kick the defect's electrons into an excited state. These spin defects have the potential to be used as stable, readable qubits for quantum technologies, for example, quantum sensing. But modeling the f…"
+    },
+    {
+      "title": "Sweden Joins European Quantum and AI Skills Academies",
+      "link": "https://thequantuminsider.com/2026/10/15/sweden-european-skills-academies-quantum-ai/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 15 Oct 2026 15:00:56 +0000",
+      "published_ts": 1792076456,
+      "summary": "Insider Brief PRESS RELEASE &#8212; As quantum technologies transition from the laboratory to the market, the demand for a highly skilled workforce has never been greater. To meet this challenge, EQA has officially launched to establish a comprehensive, pan-European ecosystem for quantum education a…"
+    },
+    {
+      "title": "IonQ and University of Cambridge Open Quantum Innovation Centre",
+      "link": "https://thequantuminsider.com/2026/10/15/ionq-cambridge-quantum-innovation-centre-2/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 15 Oct 2026 14:53:41 +0000",
+      "published_ts": 1792076021,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world&#8217;s leading full-stack quantum platform and foundry, and the University of Cambridge have announced the opening of the first-ever university-based IonQ Quantum Innovation Centre. The Centre is located at the Ray Dolby Centre, the n…"
+    },
+    {
+      "title": "SEALSQ Reports 65% Revenue Growth in First Nine Months of 2026",
+      "link": "https://thequantuminsider.com/2026/10/15/sealsq-revenue-growth-nine-months-2026/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 15 Oct 2026 13:24:29 +0000",
+      "published_ts": 1792070669,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced its preliminary unaudited financial metric…"
+    },
+    {
+      "title": "Quantum Alliance Launches to Set Post-Quantum Standards for Blockchains",
+      "link": "https://thequantuminsider.com/2026/10/15/quantum-alliance-post-quantum-standards-blockchains/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 15 Oct 2026 13:12:16 +0000",
+      "published_ts": 1792069936,
+      "summary": "Insider Brief PRESS RELEASE &#8212; CEOs, CTOs, and founders from nine blockchain organizations today launched the Quantum Alliance, an open standards body that will set the criteria for judging quantum-resistance claims in blockchain and create standards for compatibility between the networks as th…"
+    },
+    {
+      "title": "D-Wave Delivers Advantage2 Annealing Quantum Computer to Italy",
+      "link": "https://thequantuminsider.com/2026/10/15/dwave-delivers-italy-first-annealing-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 15 Oct 2026 12:58:14 +0000",
+      "published_ts": 1792069094,
+      "summary": "Insider Brief PRESS RELEASE &#8212; D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing annealing and gate-model systems, software and services, today announced at Digital Innovation Forum 2026 that its Advantage2TM annealing qua…"
+    },
+    {
+      "title": "Photonics Simulation Software Startup EMode Photonix Raises $1 Million Pre-Seed",
+      "link": "https://thequantuminsider.com/2026/10/15/photonics-simulation-software-startup-emode-photonix-raises-1-million-pre-seed/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 15 Oct 2026 12:06:00 +0000",
+      "published_ts": 1792065960,
+      "summary": "Insider Brief PRESS RELEASE &#8212; EMode Photonix (EMode, Inc.), a startup delivering powerful simulation tools to allow novel photonics technologies for quantum computers to be developed faster, has raised a $1 million pre-seed round. The round was led by Ground State Ventures, with participation…"
+    },
+    {
+      "title": "Dirac Labs joins Wisconsin Security Research Consortium",
+      "link": "https://thequantuminsider.com/2026/10/15/dirac-labs-joins-wisconsin-security-research-consortium/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 15 Oct 2026 12:05:00 +0000",
+      "published_ts": 1792065900,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Dirac Labs, a Madison-based quantum-enabled navigation company, today announced that it has joined the Wisconsin Security Research Consortium (WSRC) as an industry affiliate, providing resilient navigation alternatives to enable autonomous maritime missions.&#160;…"
+    },
+    {
+      "title": "Argonne Researchers Couple Spin Waves With Superconducting Circuits",
+      "link": "https://thequantuminsider.com/2026/10/15/argonne-spin-waves-superconducting-circuits/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 15 Oct 2026 11:05:55 +0000",
+      "published_ts": 1792062355,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum information systems could one day shape everyday life through faster computing and more secure communication. A new result from the U.S. Department of Energy’s Argonne National Laboratory and the University of Illinois Urbana-Champaign marks an important s…"
+    },
     {
       "title": "Quantum sensor could measure how Earth drags spacetime",
       "link": "https://phys.org/news/2026-10-quantum-sensor-earth-spacetime.html",
@@ -24,38 +96,6 @@
       "published": "Thu, 15 Oct 2026 09:21:07 +0000",
       "published_ts": 1792056067,
       "summary": "Insider Brief PRESS RELEASE &#8212; FirstQFM today announced results from applying FirstQFM’s quantum foundation model to a QuantWare superconducting quantum processor at the Israeli Quantum Computing Center (IQCC). FirstQFM’s foundation model builds on top of Quantum Machines’ native calibration st…"
-    },
-    {
-      "title": "SEALSQ to Showcase Post-Quantum Security Products at electronica 2026",
-      "link": "https://thequantuminsider.com/2026/10/15/sealsq-post-quantum-security-products-electronica-2026/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 09:05:34 +0000",
-      "published_ts": 1792055134,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced its participation in electronica 2026, Nov…"
-    },
-    {
-      "title": "ZeroTier Releases RC3 of Quantum-Secure Networking Platform",
-      "link": "https://thequantuminsider.com/2026/10/15/zerotier-rc3-quantum-secure-networking-platform/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 09:01:18 +0000",
-      "published_ts": 1792054878,
-      "summary": "Insider Brief PRESS RELEASE &#8212; ZeroTier, one of the world’s top software-defined networking companies, today announced Release Candidate 3 (RC3) of ZeroTier Quantum, the world’s only software-defined end-to-end quantum-secure networking platform. The release marks the final production step towa…"
-    },
-    {
-      "title": "Guest Post — Seeing Underground: Quantum Sensing in Mineral Exploration",
-      "link": "https://thequantuminsider.com/2026/10/15/guest-post-seeing-underground-quantum-sensing-in-mineral-exploration/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 07:39:00 +0000",
-      "published_ts": 1792049940,
-      "summary": "By Zeynep Koruturk, Dr. Kris Naudts, and Donald Harmitt @ Firgun Ventures. Firgun Ventures is a VC firm investing in Series A/B quantum scale-ups globally. Demand for critical minerals is rising just as copper exploration is becoming harder. The IEA projects copper supply to fall around 25% short of…"
-    },
-    {
-      "title": "ORCA Computing Launches PT-3, The Latest Generation of Its Photonic Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/10/15/orca-computing-launches-pt-3-the-latest-generation-of-its-photonic-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 07:30:19 +0000",
-      "published_ts": 1792049419,
-      "summary": "Insider Brief PRESS RELEASE &#8212; ORCA Computing, the company pioneering quantum-accelerated AI for science, today launches the PT-3, the newest generation of its photonic quantum computers, and the first built to deliver commercial quantum advantage. The first system is live in the Digital Realty…"
     },
     {
       "title": "Invertible subalgebras for chiral semion topological order",
@@ -178,14 +218,6 @@
       "summary": "arXiv:2610.19272v1 Announce Type: new  Abstract: Choosing which information to use as the context changes is a basic cognitive operation. We introduce a new task of this kind for quantum reservoir computing (QRC): a binary cue indicates which of two simultaneous input streams the reservoir must repr…"
     },
     {
-      "title": "NYC Awards $29.2 million to New York University to Establish a Cutting-edge Quantum Fabrication Facility",
-      "link": "https://thequantuminsider.com/2026/10/14/nyc-awards-29-2-million-to-new-york-university-to-establish-a-cutting-edge-quantum-fabrication-facility/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 14 Oct 2026 22:01:08 +0000",
-      "published_ts": 1792015268,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Mayor Zohran Kwame Mamdani, Deputy Mayor for Economic Justice Julie Su and New York City Economic Development Corporation (NYCEDC) President and CEO Anthony Shorris announced the city will award $29.2 million to New York University to establish a cutting-edge Quan…"
-    },
-    {
       "title": "IBM executive warns of risk of quantum computing hacks",
       "link": "https://phys.org/news/2026-10-ibm-quantum-hacks.html",
       "source": "Phys.org — Quantum Physics",
@@ -216,30 +248,6 @@
       "published": "Wed, 14 Oct 2026 12:20:02 EDT",
       "published_ts": 1791994802,
       "summary": "Quantum information systems could one day shape everyday life through faster computing, sharper sensing and more secure communication. A new result from the U.S. Department of Energy's (DOE) Argonne National Laboratory and the University of Illinois Urbana-Champaign (U. of I.) marks an important ste…"
-    },
-    {
-      "title": "SAXON Q Reports That Room-Temperature Quantum Computers Can Rival the Performance of Superconducting Processors",
-      "link": "https://thequantuminsider.com/2026/10/14/saxon-q-reports-that-room-temperature-quantum-computers-can-rival-the-performance-of-superconducting-processors/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 14 Oct 2026 16:06:37 +0000",
-      "published_ts": 1791993997,
-      "summary": "Insider Brief PRESS RELEASE &#8212; — SAXON Q, a leader in NV-center quantum computing, today released a paper showing that its room-temperature diamond-based system can perform on par with superconducting quantum computers cooled to near absolute zero. Running Grover’s search algorithm, a standard…"
-    },
-    {
-      "title": "EigenOrbit Releases Open-Source eigenkit Quantum Computing Library",
-      "link": "https://thequantuminsider.com/2026/10/14/eigenorbit-releases-open-source-eigenkit-quantum-computing-library/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 14 Oct 2026 15:55:54 +0000",
-      "published_ts": 1791993354,
-      "summary": "Insider Brief PRESS RELEASE &#8212; EigenOrbit has released eigenkit, a free open-source Python library for quantum computing. With eigenkit, a quantum algorithm is written once and runs on a simulator on an ordinary laptop or on real quantum computers from IBM, IQM and the vendors available through…"
-    },
-    {
-      "title": "IonQ Announces Pricing of $2.0 Billion Equity Offering",
-      "link": "https://thequantuminsider.com/2026/10/14/ionq-announces-pricing-2-billion-equity-offering/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 14 Oct 2026 15:44:21 +0000",
-      "published_ts": 1791992661,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), a leading full-stack quantum platform and foundry, today announced the pricing of a $2.0 billion equity offering. “This investment will accelerate the commercialization of our full-stack quantum platform and is a tremendous vote of confidence in…"
     },
     {
       "title": "Jamming the flow to enable memory in quantum materials",
@@ -320,14 +328,6 @@
       "published": "Mon, 12 Oct 2026 18:40:01 EDT",
       "published_ts": 1791844801,
       "summary": "Magnetic fields are invisible yet essential components in technologies ranging from MRI scanners and particle accelerators to atomic clocks and future quantum computers. Each of these applications requires magnetic fields with specific shapes and properties. Today, creating such tailored magnetic fi…"
-    },
-    {
-      "title": "One step closer to quantum computers that can correct their own mistakes",
-      "link": "https://phys.org/news/2026-10-closer-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 12 Oct 2026 11:20:22 EDT",
-      "published_ts": 1791818422,
-      "summary": "Researchers from Rutgers, IBM and collaborating institutions have shown that a quantum computer can check what is happening inside it and respond while it is running, repeatedly resetting parts of the system to bring chaotic behavior under control."
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
