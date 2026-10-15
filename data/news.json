@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1792012438,
+  "generated_ts": 1792032907,
   "items": [
+    {
+      "title": "NYC Awards $29.2 million to New York University to Establish a Cutting-edge Quantum Fabrication Facility",
+      "link": "https://thequantuminsider.com/2026/10/14/nyc-awards-29-2-million-to-new-york-university-to-establish-a-cutting-edge-quantum-fabrication-facility/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 14 Oct 2026 22:01:08 +0000",
+      "published_ts": 1792015268,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Mayor Zohran Kwame Mamdani, Deputy Mayor for Economic Justice Julie Su and New York City Economic Development Corporation (NYCEDC) President and CEO Anthony Shorris announced the city will award $29.2 million to New York University to establish a cutting-edge Quan…"
+    },
     {
       "title": "IBM executive warns of risk of quantum computing hacks",
       "link": "https://phys.org/news/2026-10-ibm-quantum-hacks.html",
@@ -120,14 +128,6 @@
       "published": "Wed, 14 Oct 2026 07:00:01 EDT",
       "published_ts": 1791975601,
       "summary": "Quantum networks are systems that connect different users or devices using principles of quantum mechanics. In the future, these networks could help improve the security of communications."
-    },
-    {
-      "title": "QFX Wins £6.8 Million Innovate UK Contract for Quantum Timing Hardware",
-      "link": "https://thequantuminsider.com/2026/10/14/qfx-wins-6-8-million-innovate-uk-contract-for-quantum-timing-hardware/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 14 Oct 2026 09:31:53 +0000",
-      "published_ts": 1791970313,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QFX (Quantum Fabrix Ltd), an Oxford University spinout developing hardware infrastructure for distributed quantum computing and quantum networking, has been awarded a £6.8 million contract by Innovate UK to deliver Phase II of its SrROCK development programme. Bui…"
     },
     {
       "title": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry",
