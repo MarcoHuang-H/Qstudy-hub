@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1792146811,
+  "generated_ts": 1792166302,
   "items": [
+    {
+      "title": "Even or odd numbers: A single molecule makes all the difference in the quantum world",
+      "link": "https://phys.org/news/2026-10-odd-molecule-difference-quantum-world.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 16 Oct 2026 10:20:06 EDT",
+      "published_ts": 1792160406,
+      "summary": "The researchers in the Quantum Detection Microscopy group at CIC nanoGUNE, in collaboration with chemists at CiQUS of the University of Santiago de Compostela, have demonstrated that adding or removing a single molecule from a quantum chain can fundamentally change its interaction with a superconduc…"
+    },
+    {
+      "title": "Anderon Releases First Superconducting Quantum PDK",
+      "link": "https://thequantuminsider.com/2026/10/16/anderon-superconducting-quantum-pdk/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 16 Oct 2026 13:15:52 +0000",
+      "published_ts": 1792156552,
+      "summary": "Insider Brief Anderon has released its first Superconducting Quantum Process Design Kit (PDK), the company said in a blog post. According to Anderon, the kit is meant to give quantum device and circuit developers a more efficient, standardized way to work. The company said it supplies designers with…"
+    },
+    {
+      "title": "Germany Publishes National Post-Quantum Cryptography Migration Guideline",
+      "link": "https://thequantuminsider.com/2026/10/16/transition-post-quantum-cryptography-national-eu-roadmap-guideline/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 16 Oct 2026 12:43:02 +0000",
+      "published_ts": 1792154582,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computers pose an increasingly real threat to the security of cryptographic methods and thus to cybersecurity itself. The Federal Ministry of the Interior (BMI), the Federal Ministry for Digital Affairs and State Modernization (BMDS) and the Federal Office…"
+    },
+    {
+      "title": "QuEra Scientists Named Co-Principal Investigators on Three of Nine Teams in DOE’s Quantum Chemistry Program",
+      "link": "https://thequantuminsider.com/2026/10/16/quera-three-teams-doe-quantum-chemistry-program/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 16 Oct 2026 12:23:53 +0000",
+      "published_ts": 1792153433,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the leader in quantum computing, today announced that its scientists will work with three of the nine teams selected for the Quantum Computing for Computational Chemistry (QC3) program at the Advanced Research Projects Agency for Energy (ARPA-E) t…"
+    },
+    {
+      "title": "In ‘Quantum 101’ Session, WTO Trade Officials Hear Quantum Encryption Window May Close Within Five Years",
+      "link": "https://thequantuminsider.com/2026/10/16/in-quantum-101-session-wto-trade-officials-hear-quantum-encryption-window-may-close-within-five-years/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 16 Oct 2026 11:51:18 +0000",
+      "published_ts": 1792151478,
+      "summary": "Insider Brief The World Trade Organization&#8217;s (WTO) member delegations were told this week that the encryption underpinning international trade could be broken by quantum computers within roughly five years, and that the trading system has no shared definition yet of what it means to be &#8220;…"
+    },
+    {
+      "title": "Terra Quantum Joins QuEra Quantum Alliance",
+      "link": "https://thequantuminsider.com/2026/10/16/terra-quantum-quera-quantum-alliance/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 16 Oct 2026 10:36:51 +0000",
+      "published_ts": 1792147011,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Terra Quantum, a global leader in the development of quantum technologies and their industrial application, the leader in neutral-atom quantum computing, today announced that Terra Quantum has joined the QuEra Quantum Alliance, a global partner program dedicated t…"
+    },
     {
       "title": "Google Demonstrates Method to Cut Errors in Quantum Computing’s ‘Magic States’",
       "link": "https://thequantuminsider.com/2026/10/16/google-demonstrates-method-to-cut-errors-in-quantum-computings-magic-states/",
@@ -178,46 +226,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced its preliminary unaudited financial metric…"
     },
     {
-      "title": "Quantum Alliance Launches to Set Post-Quantum Standards for Blockchains",
-      "link": "https://thequantuminsider.com/2026/10/15/quantum-alliance-post-quantum-standards-blockchains/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 13:12:16 +0000",
-      "published_ts": 1792069936,
-      "summary": "Insider Brief PRESS RELEASE &#8212; CEOs, CTOs, and founders from nine blockchain organizations today launched the Quantum Alliance, an open standards body that will set the criteria for judging quantum-resistance claims in blockchain and create standards for compatibility between the networks as th…"
-    },
-    {
-      "title": "D-Wave Delivers Advantage2 Annealing Quantum Computer to Italy",
-      "link": "https://thequantuminsider.com/2026/10/15/dwave-delivers-italy-first-annealing-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 12:58:14 +0000",
-      "published_ts": 1792069094,
-      "summary": "Insider Brief PRESS RELEASE &#8212; D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing annealing and gate-model systems, software and services, today announced at Digital Innovation Forum 2026 that its Advantage2TM annealing qua…"
-    },
-    {
-      "title": "Photonics Simulation Software Startup EMode Photonix Raises $1 Million Pre-Seed",
-      "link": "https://thequantuminsider.com/2026/10/15/photonics-simulation-software-startup-emode-photonix-raises-1-million-pre-seed/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 12:06:00 +0000",
-      "published_ts": 1792065960,
-      "summary": "Insider Brief PRESS RELEASE &#8212; EMode Photonix (EMode, Inc.), a startup delivering powerful simulation tools to allow novel photonics technologies for quantum computers to be developed faster, has raised a $1 million pre-seed round. The round was led by Ground State Ventures, with participation…"
-    },
-    {
-      "title": "Dirac Labs joins Wisconsin Security Research Consortium",
-      "link": "https://thequantuminsider.com/2026/10/15/dirac-labs-joins-wisconsin-security-research-consortium/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 12:05:00 +0000",
-      "published_ts": 1792065900,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Dirac Labs, a Madison-based quantum-enabled navigation company, today announced that it has joined the Wisconsin Security Research Consortium (WSRC) as an industry affiliate, providing resilient navigation alternatives to enable autonomous maritime missions.&#160;…"
-    },
-    {
-      "title": "Argonne Researchers Couple Spin Waves With Superconducting Circuits",
-      "link": "https://thequantuminsider.com/2026/10/15/argonne-spin-waves-superconducting-circuits/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 11:05:55 +0000",
-      "published_ts": 1792062355,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum information systems could one day shape everyday life through faster computing and more secure communication. A new result from the U.S. Department of Energy’s Argonne National Laboratory and the University of Illinois Urbana-Champaign marks an important s…"
-    },
-    {
       "title": "Quantum sensor could measure how Earth drags spacetime",
       "link": "https://phys.org/news/2026-10-quantum-sensor-earth-spacetime.html",
       "source": "Phys.org — Quantum Physics",
@@ -320,14 +328,6 @@
       "published": "Tue, 13 Oct 2026 05:47:22 EDT",
       "published_ts": 1791884842,
       "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement through quantum inter…"
-    },
-    {
-      "title": "Gravity and quantum information linked through a derivation of Einstein's equations",
-      "link": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 12 Oct 2026 19:20:01 EDT",
-      "published_ts": 1791847201,
-      "summary": "Recent research shows that gravity and quantum information are deeply connected and that the shape of spacetime can be traced back to the way information is stored in quantum fields."
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
