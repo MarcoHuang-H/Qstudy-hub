@@ -1,6 +1,134 @@
 {
-  "generated_ts": 1792119159,
+  "generated_ts": 1792146811,
   "items": [
+    {
+      "title": "Google Demonstrates Method to Cut Errors in Quantum Computing’s ‘Magic States’",
+      "link": "https://thequantuminsider.com/2026/10/16/google-demonstrates-method-to-cut-errors-in-quantum-computings-magic-states/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 16 Oct 2026 07:55:57 +0000",
+      "published_ts": 1792137357,
+      "summary": "Insider Brief Google researchers reduced errors in a crucial quantum computing resource about 40-fold, demonstrating a method that could lower the hardware demands of useful, error-corrected machines. The experiment, published in Science, showed that a technique called magic-state cultivation works…"
+    },
+    {
+      "title": "The noise cost of reservoir locality in broadband quantum amplifier chains",
+      "link": "https://arxiv.org/abs/2610.20654",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20654v1 Announce Type: new  Abstract: Directional quantum amplifiers enable weak-signal readout while protecting the source, but reservoir noise limits sensitivity. Finite-band suppression must reconcile frequency-dependent responses with fixed local couplings and finite rates. We constru…"
+    },
+    {
+      "title": "Mechanical trisqueezing in circuit quantum acoustodynamics with SNAIL devices",
+      "link": "https://arxiv.org/abs/2610.20670",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20670v1 Announce Type: new  Abstract: Continuous-variable quantum information processing with mechanical oscillators requires a uni- versal gate set, including a genuine non-Gaussian evolution. While circuit quantum acoustodynamics (cQAD) experiments have realized bilinear and quartic (fo…"
+    },
+    {
+      "title": "Quantum Partial Information Decompositions, an Operational Order on Ensembles, and Direct Quantifications of Objective Information",
+      "link": "https://arxiv.org/abs/2610.20694",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20694v1 Announce Type: new  Abstract: The partial information decomposition (PID) framework is an extension of classical information theory that enables a systematic analysis of the structure of information in multipartite systems. We advance a simple extension of this framework enabling…"
+    },
+    {
+      "title": "Surviving readout errors and incomplete postselection in monitored quantum circuits",
+      "link": "https://arxiv.org/abs/2610.20712",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20712v1 Announce Type: new  Abstract: We study how readout errors affect dynamics in monitored quantum circuits. Such errors make postselection effectively incomplete, conditioning trajectories on imperfect rather than true records. Focusing on U(1)-symmetric circuits, we find that the ch…"
+    },
+    {
+      "title": "Quantum prepare-and-measure scenarios: concepts and methods",
+      "link": "https://arxiv.org/abs/2610.20725",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20725v1 Announce Type: new  Abstract: Prepare-and-measure scenarios are among the simplest and most widely used settings for quantum communication. A sender prepares a physical system in one of several possible states, which a receiver then measures. Despite this simple structure, these s…"
+    },
+    {
+      "title": "Alternating Squeezing and Photon Subtraction for Optical Cat-State Generation",
+      "link": "https://arxiv.org/abs/2610.20728",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20728v1 Announce Type: new  Abstract: Schr\\\"{o}dinger cat states are important non-Gaussian resources for quantum information processing and quantum-enhanced metrology. Although photon subtraction from squeezed vacuum states has proven useful for generating such states in the optical doma…"
+    },
+    {
+      "title": "A constructive solution to the $n$-representability problem",
+      "link": "https://arxiv.org/abs/2610.20737",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20737v1 Announce Type: new  Abstract: We present a solution to the fermionic quantum marginal problem by constructing the complete family of two-body witnesses at each level of a weighted sum-of-squares hierarchy. Our construction combines positive-semidefinite Gram matrices with explicit…"
+    },
+    {
+      "title": "Standard and Bipolar Rectification in Tilted Periodically-Driven Quantum Systems",
+      "link": "https://arxiv.org/abs/2610.20765",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20765v1 Announce Type: new  Abstract: Developing mechanisms to control transport in correlated quantum systems is essential for advancing quantum circuit technologies. In this work, we establish a rectification mechanism for both particle and energy flow in a fermionic system coupled to e…"
+    },
+    {
+      "title": "The Lov\\'asz number is not alone: a continuum of R\\'enyi points in the entanglement-assisted spectrum of graphs",
+      "link": "https://arxiv.org/abs/2610.20775",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20775v1 Announce Type: new  Abstract: Li and Zuiddam's entanglement-assisted asymptotic spectrum of graphs consists of the normalized graph parameters that are additive under disjoint unions, multiplicative under strong products and monotone under entanglement-assisted cohomomorphisms; th…"
+    },
+    {
+      "title": "Infinite magic and the emergence of the continuum",
+      "link": "https://arxiv.org/abs/2610.20790",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20790v1 Announce Type: new  Abstract: Which features of a quantum state are needed for a relativistic quantum field theory to emerge from a lattice system? We address this question by establishing a quantitative relationship between the type classification of hyperfinite von Neumann algeb…"
+    },
+    {
+      "title": "Sparse-QITE: Discovering Compact Generators for Quantum Imaginary-Time Evolution via Regularization Methods",
+      "link": "https://arxiv.org/abs/2610.20791",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20791v1 Announce Type: new  Abstract: Quantum imaginary-time evolution (QITE) provides a systematic route to ground-state preparation, but its cost grows rapidly with the locality $D$ of the unitary approximation, for which the local Pauli basis scales as $4^D$. We introduce Sparse-QITE,…"
+    },
+    {
+      "title": "Syndrome-Resolved Decoding of Qubit Readout Errors",
+      "link": "https://arxiv.org/abs/2610.20810",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20810v1 Announce Type: new  Abstract: Readout errors in superconducting qubits include incorrect state assignment, bit flips within the computational subspace, and leakage to non-computational states. These errors require different mitigation strategies, yet conventional measurement fidel…"
+    },
+    {
+      "title": "Entanglement of superpositions in zero-energy subspace: insights from stabilizer theory",
+      "link": "https://arxiv.org/abs/2610.20846",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20846v1 Announce Type: new  Abstract: Exact zero-energy eigenstates built from entangled dimers have recently been found in a large class of spin Hamiltonians. While the individual states have a simple structure, their superpositions can have very different entanglement properties. In thi…"
+    },
+    {
+      "title": "Perfect and peak state transfer on IBM quantum hardware",
+      "link": "https://arxiv.org/abs/2610.20855",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20855v1 Announce Type: new  Abstract: We run continuous-time quantum walks with perfect and peak state transfer on a present-day superconducting quantum processor, IBM Quantum's $156$-qubit Heron device ibm_kingston, deliberately without error correction or error mitigation. Perfect state…"
+    },
+    {
+      "title": "A tutorial on quantum scattering theory and coupled-channel calculations of bimolecular collisions",
+      "link": "https://arxiv.org/abs/2610.20882",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792123200,
+      "summary": "arXiv:2610.20882v1 Announce Type: new  Abstract: Collisions between atoms and molecules govern how energy is exchanged and redistributed in the gas phase, underpinning phenomena from spectral line broadening and interstellar molecular excitation to the cooling and trapping of molecules. A quantitati…"
+    },
     {
       "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
       "link": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
@@ -96,134 +224,6 @@
       "published": "Thu, 15 Oct 2026 06:40:01 EDT",
       "published_ts": 1792060801,
       "summary": "Einstein's theory of general relativity describes gravity as the bending of spacetime, a mathematical model that combines three-dimensional space and time into a single, four-dimensional continuum. The theory also predicts that a rotating object, such as Earth, slightly drags the surrounding spaceti…"
-    },
-    {
-      "title": "Riverlane and NVIDIA Use AI to Speed Up Quantum Decoder Calibration",
-      "link": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 09:30:59 +0000",
-      "published_ts": 1792056659,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computing has the potential to solve problems beyond the reach of today&#8217;s computers, from drug discovery to materials science and optimisation. But before that can happen, the industry must first overcome the errors that are created by quantum comput…"
-    },
-    {
-      "title": "Invertible subalgebras for chiral semion topological order",
-      "link": "https://arxiv.org/abs/2610.18953",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.18953v1 Announce Type: new  Abstract: Chiral topological order is incompatible with strictly two-dimensional local commuting-projector Hamiltonians on finite-dimensional tensor-product Hilbert spaces. Invertible subalgebras (ISAs) provide an alternative framework. We construct an ISA supp…"
-    },
-    {
-      "title": "Optimal Disorder Strength for Approximate Unitary $k$-Designs in Spin Chains",
-      "link": "https://arxiv.org/abs/2610.18954",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.18954v1 Announce Type: new  Abstract: Quantum simulators with disordered spin Hamiltonians offer a natural route to Haar-like unitary ensembles, but face a competition. Disorder enhances randomness, yet strong disorder suppresses dynamics and localizes the system in the computational basi…"
-    },
-    {
-      "title": "Stabilizer R\\'enyi Entropy Without a Phase Reference",
-      "link": "https://arxiv.org/abs/2610.18955",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.18955v1 Announce Type: new  Abstract: Stabilizer R\\'enyi entropy quantifies magic relative to a complete Pauli frame. In settings such as helicity states of massless particles, unsynchronized qubit registers, energy eigenbases, and systems under superselection rules, the computational bas…"
-    },
-    {
-      "title": "Programmable Polaron Models and Tomography in Trapped-Ion Quantum Simulators",
-      "link": "https://arxiv.org/abs/2610.18970",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.18970v1 Announce Type: new  Abstract: Strong coupling between mobile charge carriers or excitons and lattice vibrations gives rise to polarons: quasiparticles formed by charge carriers dressed by a cloud of phonon excitations. Polaron formation determines transport properties of systems r…"
-    },
-    {
-      "title": "Instability of Markov chains under infinitesimal coherent dissipation",
-      "link": "https://arxiv.org/abs/2610.18983",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.18983v1 Announce Type: new  Abstract: Under local Lindbladian evolution, the growth of conditional mutual information and its associated Markov length scale is not limited by Lieb-Robinson bounds, yet it has been unclear how quickly the Markov length can increase. We show that an arbitrar…"
-    },
-    {
-      "title": "Logical gate set tomography",
-      "link": "https://arxiv.org/abs/2610.19034",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.19034v1 Announce Type: new  Abstract: Quantum error correction (QEC) can strongly suppress noise, but predicting whether a computation succeeds requires understanding not only how much effective noise persists after QEC, but what form that noise takes. To thoroughly characterize this nois…"
-    },
-    {
-      "title": "The Generalized BEADS Representation: An Informationally Complete Visualization of Mixed Quantum States",
-      "link": "https://arxiv.org/abs/2610.19054",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.19054v1 Announce Type: new  Abstract: A deep understanding of quantum information theory is essential for quantum science and technology. However, quantum mechanics and particularly quantum information theory suffer from a lack of intuitive images. Visualization tools offer novel perspect…"
-    },
-    {
-      "title": "The cost of classically simulating quantum communication is as high as it could be",
-      "link": "https://arxiv.org/abs/2610.19060",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.19060v1 Announce Type: new  Abstract: A long-standing open question is to characterize the classical communication cost of simulating the correlations arising from measurements on finite-dimensional quantum systems. We consider this question in the prepare-and-measure scenario. First we c…"
-    },
-    {
-      "title": "A modular quantum computer based on Cornucopia codes",
-      "link": "https://arxiv.org/abs/2610.19073",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.19073v1 Announce Type: new  Abstract: Ultra-high-rate quantum error correction codes can store many logical qubits in a single code block with few physical qubits. A fault-tolerant quantum computer, however, also requires a universal set of logical operations on individually addressable l…"
-    },
-    {
-      "title": "Federated Unlearning of Quantum Data via Classical Shadows",
-      "link": "https://arxiv.org/abs/2610.19077",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.19077v1 Announce Type: new  Abstract: Quantum federated learning trains a quantum neural network (QNN) across nodes that hold quantum data, such as the states of quantum sensors. To forget data, unlearning methods for quantum models replay them, and federated unlearning from stored update…"
-    },
-    {
-      "title": "Post-Optimization Subspace Corrections to Quantum Ans\\\"atze",
-      "link": "https://arxiv.org/abs/2610.19109",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.19109v1 Announce Type: new  Abstract: Circuit depth and measurement count are the main limitations for chemical applications of the leading variational quantum algorithms on quantum computers. We show that both resource requirements can be reduced by augmenting adaptive variational quantu…"
-    },
-    {
-      "title": "Cavity-assisted dynamic nuclear polarisation",
-      "link": "https://arxiv.org/abs/2610.19180",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.19180v1 Announce Type: new  Abstract: Dynamic nuclear polarisation transfers polarisation from electron to nuclear spins by relying on a dissipative channel. Here we introduce a cavity-based DNP mechanism which uses the radiative relaxation of the electronic spin through the Purcell effec…"
-    },
-    {
-      "title": "Selective Control and Imaging of Higgs and Goldstone Modes with a Quantum Simulator",
-      "link": "https://arxiv.org/abs/2610.19219",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.19219v1 Announce Type: new  Abstract: We realize the mesoscopic Bose-Hubbard model at unit-filling on a two-dimensional array of transmon qubits and selectively excite collective modes associated with amplitude or phase fluctuations of the superfluid order parameter. We identify these mod…"
-    },
-    {
-      "title": "Quantum-classical algorithm interpolation for spatial search",
-      "link": "https://arxiv.org/abs/2610.19255",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.19255v1 Announce Type: new  Abstract: Quantum-walk algorithms can quadratically reduce the dependence of spatial search on the classical hitting time $\\mathrm{HT}$. Realising this speedup using standard quantum-walk algorithms, however, requires deep coherent circuits, limiting their appl…"
-    },
-    {
-      "title": "Quantum Reservoir Computing for Attention-like Selective Reproduction",
-      "link": "https://arxiv.org/abs/2610.19272",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792036800,
-      "summary": "arXiv:2610.19272v1 Announce Type: new  Abstract: Choosing which information to use as the context changes is a basic cognitive operation. We introduce a new task of this kind for quantum reservoir computing (QRC): a binary cue indicates which of two simultaneous input streams the reservoir must repr…"
     },
     {
       "title": "IBM executive warns of risk of quantum computing hacks",
