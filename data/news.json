@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1792097531,
+  "generated_ts": 1792119159,
   "items": [
+    {
+      "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
+      "link": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 15 Oct 2026 17:20:05 EDT",
+      "published_ts": 1792099205,
+      "summary": "Silicon spin qubits are a promising platform for building scalable quantum computers as they are compatible with the semiconductor manufacturing technologies used to produce today's computer chips. However, they have an important weakness: silicon spin qubits typically lose accuracy when several qub…"
+    },
     {
       "title": "Stony Brook Quantum Memory Named to TIME’s Best Inventions of 2026",
       "link": "https://thequantuminsider.com/2026/10/15/stony-brook-patented-quantum-memory-time-best-inventions/",
@@ -320,14 +328,6 @@
       "published": "Mon, 12 Oct 2026 19:20:01 EDT",
       "published_ts": 1791847201,
       "summary": "Recent research shows that gravity and quantum information are deeply connected and that the shape of spacetime can be traced back to the way information is stored in quantum fields."
-    },
-    {
-      "title": "Magnetic sculpting transforms single-source fields into predetermined shapes with mathematical precision",
-      "link": "https://phys.org/news/2026-10-magnetic-sculpting-source-fields-predetermined.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 12 Oct 2026 18:40:01 EDT",
-      "published_ts": 1791844801,
-      "summary": "Magnetic fields are invisible yet essential components in technologies ranging from MRI scanners and particle accelerators to atomic clocks and future quantum computers. Each of these applications requires magnetic fields with specific shapes and properties. Today, creating such tailored magnetic fi…"
     },
     {
       "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
