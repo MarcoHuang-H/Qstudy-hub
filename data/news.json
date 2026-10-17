@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1792248688,
+  "generated_ts": 1792267210,
   "items": [
+    {
+      "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
+      "link": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 17 Oct 2026 14:00:02 EDT",
+      "published_ts": 1792260002,
+      "summary": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive."
+    },
     {
       "title": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
       "link": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
@@ -192,14 +200,6 @@
       "published": "Tue, 13 Oct 2026 17:30:02 EDT",
       "published_ts": 1791927002,
       "summary": "For decades, physicists have sought a practical two-dimensional topological insulator: an ultrathin material whose interior blocks electricity but whose edges conduct it. In ordinary wires, electrons constantly bounce off imperfections, losing energy. But along the edges of a 2D topological insulato…"
-    },
-    {
-      "title": "Faster molecular simulations identify promising diamond defects for quantum computers and sensors",
-      "link": "https://phys.org/news/2026-10-faster-molecular-simulations-diamond-defects.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 13 Oct 2026 17:20:01 EDT",
-      "published_ts": 1791926401,
-      "summary": "A faster way of finding the best diamond-based materials for quantum computers has been developed by a researcher at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL). The new approach has already identified promising materials for practical quantum sensors and compute…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
