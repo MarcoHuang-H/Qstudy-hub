@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1792205050,
+  "generated_ts": 1792231368,
   "items": [
+    {
+      "title": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+      "link": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 17 Oct 2026 08:11:10 +0000",
+      "published_ts": 1792224670,
+      "summary": "Insider Brief A team of researchers from Anthropic and Harvard used an artificial intelligence (AI) system to design quantum circuits that require fewer operations and qubits, potentially lowering the hardware demands of useful quantum computing. The researchers, who posted their work on the preprin…"
+    },
+    {
+      "title": "Robert Wille (Munich Quantum Software Company): Quantum software needs design automation, not just algorithms",
+      "link": "https://thequantuminsider.com/2026/10/17/robert-wille-munich-quantum-software-company-quantum-software-needs-design-automation-not-just-algorithms/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 17 Oct 2026 07:40:00 +0000",
+      "published_ts": 1792222800,
+      "summary": "Yuval interviews Robert Wille, a computer scientist and co-founder focused on quantum computing software. They discuss the field’s transition from research to practical deployment, the need for heterogeneous and hardware-agnostic software stacks, and the integration of quantum into HPC environments.…"
+    },
+    {
+      "title": "Guest Post: AI Infrastructure Investment and the Future of Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/10/17/ai-infrastructure-investment-future-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 17 Oct 2026 07:00:00 +0000",
+      "published_ts": 1792220400,
+      "summary": "Guest Post By George Varghese, Head of Investment, 0G Labs We&#8217;re witnessing one of the largest infrastructure investment cycles in modern technology, and I believe we&#8217;re still early in understanding its economic potential. AI has already changed how companies think about computing, with…"
+    },
     {
       "title": "New high-frequency method boosts 2D material readout for next-gen quantum computers",
       "link": "https://phys.org/news/2026-10-high-frequency-method-boosts-2d.html",
@@ -74,126 +98,6 @@
       "summary": "Insider Brief Google researchers reduced errors in a crucial quantum computing resource about 40-fold, demonstrating a method that could lower the hardware demands of useful, error-corrected machines. The experiment, published in Science, showed that a technique called magic-state cultivation works…"
     },
     {
-      "title": "The noise cost of reservoir locality in broadband quantum amplifier chains",
-      "link": "https://arxiv.org/abs/2610.20654",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20654v1 Announce Type: new  Abstract: Directional quantum amplifiers enable weak-signal readout while protecting the source, but reservoir noise limits sensitivity. Finite-band suppression must reconcile frequency-dependent responses with fixed local couplings and finite rates. We constru…"
-    },
-    {
-      "title": "Mechanical trisqueezing in circuit quantum acoustodynamics with SNAIL devices",
-      "link": "https://arxiv.org/abs/2610.20670",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20670v1 Announce Type: new  Abstract: Continuous-variable quantum information processing with mechanical oscillators requires a uni- versal gate set, including a genuine non-Gaussian evolution. While circuit quantum acoustodynamics (cQAD) experiments have realized bilinear and quartic (fo…"
-    },
-    {
-      "title": "Quantum Partial Information Decompositions, an Operational Order on Ensembles, and Direct Quantifications of Objective Information",
-      "link": "https://arxiv.org/abs/2610.20694",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20694v1 Announce Type: new  Abstract: The partial information decomposition (PID) framework is an extension of classical information theory that enables a systematic analysis of the structure of information in multipartite systems. We advance a simple extension of this framework enabling…"
-    },
-    {
-      "title": "Surviving readout errors and incomplete postselection in monitored quantum circuits",
-      "link": "https://arxiv.org/abs/2610.20712",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20712v1 Announce Type: new  Abstract: We study how readout errors affect dynamics in monitored quantum circuits. Such errors make postselection effectively incomplete, conditioning trajectories on imperfect rather than true records. Focusing on U(1)-symmetric circuits, we find that the ch…"
-    },
-    {
-      "title": "Quantum prepare-and-measure scenarios: concepts and methods",
-      "link": "https://arxiv.org/abs/2610.20725",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20725v1 Announce Type: new  Abstract: Prepare-and-measure scenarios are among the simplest and most widely used settings for quantum communication. A sender prepares a physical system in one of several possible states, which a receiver then measures. Despite this simple structure, these s…"
-    },
-    {
-      "title": "Alternating Squeezing and Photon Subtraction for Optical Cat-State Generation",
-      "link": "https://arxiv.org/abs/2610.20728",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20728v1 Announce Type: new  Abstract: Schr\\\"{o}dinger cat states are important non-Gaussian resources for quantum information processing and quantum-enhanced metrology. Although photon subtraction from squeezed vacuum states has proven useful for generating such states in the optical doma…"
-    },
-    {
-      "title": "A constructive solution to the $n$-representability problem",
-      "link": "https://arxiv.org/abs/2610.20737",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20737v1 Announce Type: new  Abstract: We present a solution to the fermionic quantum marginal problem by constructing the complete family of two-body witnesses at each level of a weighted sum-of-squares hierarchy. Our construction combines positive-semidefinite Gram matrices with explicit…"
-    },
-    {
-      "title": "Standard and Bipolar Rectification in Tilted Periodically-Driven Quantum Systems",
-      "link": "https://arxiv.org/abs/2610.20765",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20765v1 Announce Type: new  Abstract: Developing mechanisms to control transport in correlated quantum systems is essential for advancing quantum circuit technologies. In this work, we establish a rectification mechanism for both particle and energy flow in a fermionic system coupled to e…"
-    },
-    {
-      "title": "The Lov\\'asz number is not alone: a continuum of R\\'enyi points in the entanglement-assisted spectrum of graphs",
-      "link": "https://arxiv.org/abs/2610.20775",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20775v1 Announce Type: new  Abstract: Li and Zuiddam's entanglement-assisted asymptotic spectrum of graphs consists of the normalized graph parameters that are additive under disjoint unions, multiplicative under strong products and monotone under entanglement-assisted cohomomorphisms; th…"
-    },
-    {
-      "title": "Infinite magic and the emergence of the continuum",
-      "link": "https://arxiv.org/abs/2610.20790",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20790v1 Announce Type: new  Abstract: Which features of a quantum state are needed for a relativistic quantum field theory to emerge from a lattice system? We address this question by establishing a quantitative relationship between the type classification of hyperfinite von Neumann algeb…"
-    },
-    {
-      "title": "Sparse-QITE: Discovering Compact Generators for Quantum Imaginary-Time Evolution via Regularization Methods",
-      "link": "https://arxiv.org/abs/2610.20791",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20791v1 Announce Type: new  Abstract: Quantum imaginary-time evolution (QITE) provides a systematic route to ground-state preparation, but its cost grows rapidly with the locality $D$ of the unitary approximation, for which the local Pauli basis scales as $4^D$. We introduce Sparse-QITE,…"
-    },
-    {
-      "title": "Syndrome-Resolved Decoding of Qubit Readout Errors",
-      "link": "https://arxiv.org/abs/2610.20810",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20810v1 Announce Type: new  Abstract: Readout errors in superconducting qubits include incorrect state assignment, bit flips within the computational subspace, and leakage to non-computational states. These errors require different mitigation strategies, yet conventional measurement fidel…"
-    },
-    {
-      "title": "Entanglement of superpositions in zero-energy subspace: insights from stabilizer theory",
-      "link": "https://arxiv.org/abs/2610.20846",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20846v1 Announce Type: new  Abstract: Exact zero-energy eigenstates built from entangled dimers have recently been found in a large class of spin Hamiltonians. While the individual states have a simple structure, their superpositions can have very different entanglement properties. In thi…"
-    },
-    {
-      "title": "Perfect and peak state transfer on IBM quantum hardware",
-      "link": "https://arxiv.org/abs/2610.20855",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20855v1 Announce Type: new  Abstract: We run continuous-time quantum walks with perfect and peak state transfer on a present-day superconducting quantum processor, IBM Quantum's $156$-qubit Heron device ibm_kingston, deliberately without error correction or error mitigation. Perfect state…"
-    },
-    {
-      "title": "A tutorial on quantum scattering theory and coupled-channel calculations of bimolecular collisions",
-      "link": "https://arxiv.org/abs/2610.20882",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792123200,
-      "summary": "arXiv:2610.20882v1 Announce Type: new  Abstract: Collisions between atoms and molecules govern how energy is exchanged and redistributed in the gas phase, underpinning phenomena from spectral line broadening and interstellar molecular excitation to the cooling and trapping of molecules. A quantitati…"
-    },
-    {
       "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
       "link": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
       "source": "Phys.org — Quantum Physics",
@@ -216,30 +120,6 @@
       "published": "Thu, 15 Oct 2026 11:40:09 EDT",
       "published_ts": 1792078809,
       "summary": "When light hits a tiny defect embedded in a solid material like diamond or silicon carbide, it can kick the defect's electrons into an excited state. These spin defects have the potential to be used as stable, readable qubits for quantum technologies, for example, quantum sensing. But modeling the f…"
-    },
-    {
-      "title": "Sweden Joins European Quantum and AI Skills Academies",
-      "link": "https://thequantuminsider.com/2026/10/15/sweden-european-skills-academies-quantum-ai/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 15:00:56 +0000",
-      "published_ts": 1792076456,
-      "summary": "Insider Brief PRESS RELEASE &#8212; As quantum technologies transition from the laboratory to the market, the demand for a highly skilled workforce has never been greater. To meet this challenge, EQA has officially launched to establish a comprehensive, pan-European ecosystem for quantum education a…"
-    },
-    {
-      "title": "IonQ and University of Cambridge Open Quantum Innovation Centre",
-      "link": "https://thequantuminsider.com/2026/10/15/ionq-cambridge-quantum-innovation-centre-2/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 14:53:41 +0000",
-      "published_ts": 1792076021,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world&#8217;s leading full-stack quantum platform and foundry, and the University of Cambridge have announced the opening of the first-ever university-based IonQ Quantum Innovation Centre. The Centre is located at the Ray Dolby Centre, the n…"
-    },
-    {
-      "title": "SEALSQ Reports 65% Revenue Growth in First Nine Months of 2026",
-      "link": "https://thequantuminsider.com/2026/10/15/sealsq-revenue-growth-nine-months-2026/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 13:24:29 +0000",
-      "published_ts": 1792070669,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced its preliminary unaudited financial metric…"
     },
     {
       "title": "Quantum sensor could measure how Earth drags spacetime",
