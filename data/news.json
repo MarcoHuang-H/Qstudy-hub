@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1792182362,
+  "generated_ts": 1792205050,
   "items": [
+    {
+      "title": "New high-frequency method boosts 2D material readout for next-gen quantum computers",
+      "link": "https://phys.org/news/2026-10-high-frequency-method-boosts-2d.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 16 Oct 2026 18:00:01 EDT",
+      "published_ts": 1792188001,
+      "summary": "Quantum computers represent a next step in the fast-paced evolution of technology. Using quantum bits (qubits), they have the potential to run certain calculations exponentially faster than conventional computers. However, developing and fine-tuning quantum computers requires an enormous number of r…"
+    },
+    {
+      "title": "A highway instead of a racetrack: Strong coupling of light and sound in an optical fiber",
+      "link": "https://phys.org/news/2026-10-highway-racetrack-strong-coupling-optical.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 16 Oct 2026 17:20:01 EDT",
+      "published_ts": 1792185601,
+      "summary": "For the first time, scientists have achieved strong coupling between light and long-lived acoustic vibrations in an optical fiber. Optical fibers are used in both classical telecommunications and quantum communication and could serve not only as connections between computing nodes but also as quantu…"
+    },
     {
       "title": "Even or odd numbers: A single molecule makes all the difference in the quantum world",
       "link": "https://phys.org/news/2026-10-odd-molecule-difference-quantum-world.html",
@@ -304,22 +320,6 @@
       "published": "Tue, 13 Oct 2026 17:20:01 EDT",
       "published_ts": 1791926401,
       "summary": "A faster way of finding the best diamond-based materials for quantum computers has been developed by a researcher at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL). The new approach has already identified promising materials for practical quantum sensors and compute…"
-    },
-    {
-      "title": "New topological microscope tip reveals evidence of 2D altermagnetism",
-      "link": "https://phys.org/news/2026-10-topological-microscope-reveals-evidence-2d.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 13 Oct 2026 17:10:01 EDT",
-      "published_ts": 1791925801,
-      "summary": "Researchers have fashioned a layered topological material into a scanning tunneling microscope (STM) tip that senses spin-related electronic states at atomic resolution."
-    },
-    {
-      "title": "Quantum physicists trace a century of controlling spin",
-      "link": "https://phys.org/news/2026-10-quantum-physicists-century.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 13 Oct 2026 16:30:01 EDT",
-      "published_ts": 1791923401,
-      "summary": "A concept from the field of quantum mechanics, spin is a property of particles that has no direct counterpart in everyday experience. Since the early 20th century, researchers have learned to manipulate it deliberately by means of precisely shaped electromagnetic pulses. This has resulted in two tec…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
