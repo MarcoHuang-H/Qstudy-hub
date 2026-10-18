@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1792336651,
+  "generated_ts": 1792353562,
   "items": [
+    {
+      "title": "New monolithic ion trap opens quantum simulations to more researchers",
+      "link": "https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 18 Oct 2026 14:00:06 EDT",
+      "published_ts": 1792346406,
+      "summary": "Some quantum systems are so complex that even the most powerful supercomputers struggle to simulate their behavior. One solution is quantum simulation: building a controllable quantum system in the lab and tuning it to mimic the one researchers want to understand."
+    },
+    {
+      "title": "A new way to detect stabilizing properties of optical devices",
+      "link": "https://phys.org/news/2026-10-stabilizing-properties-optical-devices.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 18 Oct 2026 14:00:01 EDT",
+      "published_ts": 1792346401,
+      "summary": "In optical fibers, chips and other light-guiding devices, minor defects can scatter photons and disrupt their path. A new study demonstrates a way to reveal properties which, in certain systems, help light wave behavior withstand such flaws. The method could help speed up the search for new kinds of…"
+    },
+    {
+      "title": "Physicists prove a long-suspected quantum speed limit for thermalization",
+      "link": "https://phys.org/news/2026-10-physicists-quantum-limit-thermalization.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 18 Oct 2026 13:20:01 EDT",
+      "published_ts": 1792344001,
+      "summary": "Whether we are waiting for a car windshield to defrost in winter or a warm drink to cool down, how long it takes for an object to settle into a stable, even temperature within its environment (thermal equilibrium) depends on numerous factors. These can include surface area, the material properties o…"
+    },
     {
       "title": "Hybrid diamond chip strengthens interactions between light and quantum bits",
       "link": "https://phys.org/news/2026-10-hybrid-diamond-chip-interactions-quantum.html",
@@ -176,30 +200,6 @@
       "published": "Wed, 14 Oct 2026 12:20:02 EDT",
       "published_ts": 1791994802,
       "summary": "Quantum information systems could one day shape everyday life through faster computing, sharper sensing and more secure communication. A new result from the U.S. Department of Energy's (DOE) Argonne National Laboratory and the University of Illinois Urbana-Champaign (U. of I.) marks an important ste…"
-    },
-    {
-      "title": "Jamming the flow to enable memory in quantum materials",
-      "link": "https://phys.org/news/2026-10-enable-memory-quantum-materials.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 14 Oct 2026 10:00:26 EDT",
-      "published_ts": 1791986426,
-      "summary": "Understanding and controlling phase transitions are fundamental to physics and central to many technological revolutions. There is currently strong interest in materials with coupled structural and electronic phase transitions, where controlling the transition plasticity naturally yields built-in me…"
-    },
-    {
-      "title": "Quantum network test checks entanglement without having to trust detectors",
-      "link": "https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 14 Oct 2026 07:00:01 EDT",
-      "published_ts": 1791975601,
-      "summary": "Quantum networks are systems that connect different users or devices using principles of quantum mechanics. In the future, these networks could help improve the security of communications."
-    },
-    {
-      "title": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry",
-      "link": "https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 13 Oct 2026 19:40:02 EDT",
-      "published_ts": 1791934802,
-      "summary": "Researchers at Friedrich Schiller University Jena and the University of Regensburg have developed a method for determining, using light, a quantum property of electrons that has hitherto been difficult to access. The focus is on what is known as Berry curvature—a quantity that describes certain geom…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
