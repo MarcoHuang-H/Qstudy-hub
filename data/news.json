@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1792318585,
+  "generated_ts": 1792336651,
   "items": [
+    {
+      "title": "Hybrid diamond chip strengthens interactions between light and quantum bits",
+      "link": "https://phys.org/news/2026-10-hybrid-diamond-chip-interactions-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 18 Oct 2026 09:00:05 EDT",
+      "published_ts": 1792328405,
+      "summary": "Researchers have developed and demonstrated a new hybrid photonic platform that integrates quantum emitters with photonic devices, providing a way to reliably control the interaction between photons and quantum information carriers. The chip-based platform, which combines gallium phosphide (GaP) wit…"
+    },
     {
       "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
       "link": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
@@ -192,14 +200,6 @@
       "published": "Tue, 13 Oct 2026 19:40:02 EDT",
       "published_ts": 1791934802,
       "summary": "Researchers at Friedrich Schiller University Jena and the University of Regensburg have developed a method for determining, using light, a quantum property of electrons that has hitherto been difficult to access. The focus is on what is known as Berry curvature—a quantity that describes certain geom…"
-    },
-    {
-      "title": "'Carpet' growth method yields long-sought 2D quantum material",
-      "link": "https://phys.org/news/2026-10-carpet-growth-method-yields-sought.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 13 Oct 2026 17:30:02 EDT",
-      "published_ts": 1791927002,
-      "summary": "For decades, physicists have sought a practical two-dimensional topological insulator: an ultrathin material whose interior blocks electricity but whose edges conduct it. In ordinary wires, electrons constantly bounce off imperfections, losing energy. But along the edges of a 2D topological insulato…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
