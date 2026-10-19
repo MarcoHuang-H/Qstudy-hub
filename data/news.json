@@ -1,6 +1,150 @@
 {
-  "generated_ts": 1792378727,
+  "generated_ts": 1792410953,
   "items": [
+    {
+      "title": "Advance Could Lead to Bigger, More Reliable Quantum Computers, University of Edinburgh Scientists Say",
+      "link": "https://thequantuminsider.com/2026/10/19/advance-could-lead-to-bigger-more-reliable-quantum-computers-university-of-edinburgh-scientists-say/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 19 Oct 2026 08:12:39 +0000",
+      "published_ts": 1792397559,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers have developed an algorithm that enables off-the-shelf computers to run quantum simulations previously only possible using the world’s most powerful supercomputers. It means the simulations can be run using around five percent of the computing power pr…"
+    },
+    {
+      "title": "RIKEN Team Improves Parallel Control of Silicon Spin Qubits",
+      "link": "https://thequantuminsider.com/2026/10/19/riken-team-improves-parallel-control-of-silicon-spin-qubits/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 19 Oct 2026 07:52:31 +0000",
+      "published_ts": 1792396351,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Silicon spin qubits are a promising platform for building scalable quantum computers as they are compatible with the semiconductor manufacturing technologies used to produce today&#8217;s computer chips. However, they have an important weakness: silicon spin qubit…"
+    },
+    {
+      "title": "UKRI Backs UK Quantum Businesses With Share of £50 Million",
+      "link": "https://thequantuminsider.com/2026/10/19/ukri-backs-uk-quantum-businesses-with-share-of-50-million/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 19 Oct 2026 07:00:00 +0000",
+      "published_ts": 1792393200,
+      "summary": "Insider Brief A share of £50 million is going to British businesses developing quantum technologies for uses that include keeping railways running, shortening eye scan waits and maintaining military connectivity, UKRI said. The money forms part of a new government package. According to UKRI, the pac…"
+    },
+    {
+      "title": "Typical Superpositions are Magical",
+      "link": "https://arxiv.org/abs/2610.22476",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22476v1 Announce Type: new  Abstract: The non-stabilizerness, or \"magic\", of a quantum state is a common metric for the hardness of simulation on a classical computer, and is often quantified by the stabilizer R\\'enyi entropy (SRE). We show how random superpositions of classically simulab…"
+    },
+    {
+      "title": "Exploring Quantum Phase Transitions Beyond Landau Theory on a Quantum Processor",
+      "link": "https://arxiv.org/abs/2610.22482",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22482v1 Announce Type: new  Abstract: Direct continuous quantum phase transitions between phases that break distinct symmetries challenge the conventional Landau-Ginzburg-Wilson paradigm and provide a framework for deconfined quantum criticality. Here, we investigate a Landau-forbidden fe…"
+    },
+    {
+      "title": "Multi-Time States in Quantum and Operational Probabilistic Theories: An Axiomatic Framework",
+      "link": "https://arxiv.org/abs/2610.22489",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22489v1 Announce Type: new  Abstract: Quantum states over time were introduced, in part, to extend Bayesian probability to quantum theory and have since found applications across diverse areas, ranging from quantum causality and open-system dynamics to tests of macroscopic realism. While…"
+    },
+    {
+      "title": "Resonant pair production and flat band melting in a driven Rydberg chain",
+      "link": "https://arxiv.org/abs/2610.22532",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22532v1 Announce Type: new  Abstract: We study a Rydberg chain subjected to a two-tone periodic drive of the detuning $\\Delta(t)$ and Rabi frequency $\\Omega(t)$ at frequencies $\\omega_1$ and $\\omega_2=\\nu \\omega_1$ respectively with $\\nu \\in \\mathbf{Z}$. In the strong Rydberg blockade lim…"
+    },
+    {
+      "title": "A thermally and perturbatively stable classical spin model in two dimensions",
+      "link": "https://arxiv.org/abs/2610.22548",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22548v1 Announce Type: new  Abstract: We show that the 2D classical spin model constructed in arXiv:2605.10943 hosts many metastable states at non-zero temperature which are stable to arbitrary Hamiltonian perturbations, providing the first such example. Our proof relies on a recursive ap…"
+    },
+    {
+      "title": "Circuit Synthesis for Variational Quantum Algorithms: The Depth of Algebra and Geometry",
+      "link": "https://arxiv.org/abs/2610.22689",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22689v1 Announce Type: new  Abstract: The analysis of Hamiltonian Variational Ans\\\"atze centers on three fundamental questions: which states are exactly reachable from a given initial state, what native control depth suffices for local and global synthesis, and whether a bounded circuit e…"
+    },
+    {
+      "title": "Quantum-Classical Neural Networks for Solving Lindblad Master Equations",
+      "link": "https://arxiv.org/abs/2610.22691",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22691v1 Announce Type: new  Abstract: Variational quantum algorithms have emerged as a promising approach for simulating open quantum systems, yet their expressive power and trainability remain poorly understood. We propose a variational framework for solving Lindblad master equations by…"
+    },
+    {
+      "title": "Metric and Dispersive Dynamics of Phase Perturbations in Bohmian Quantum Mechanics",
+      "link": "https://arxiv.org/abs/2610.22737",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22737v1 Announce Type: new  Abstract: By linearizing the hydrodynamic equations associated with the Madelung transformation in the context of Bohmian dynamics, we derive an effective metric for the phase perturbation around a background state. We show that the metric previously obtained p…"
+    },
+    {
+      "title": "Programmable Preparation of Topological Entangled States",
+      "link": "https://arxiv.org/abs/2610.22738",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22738v1 Announce Type: new  Abstract: Programmable preparation of entangled quantum states is a central requirement for scalable quantum information processing, quantum networking and photonic quantum computing. Topological photonic platforms offer an attractive route towards robust quant…"
+    },
+    {
+      "title": "The Classical Boundary of Quantum Computation: History-Resolved Causal Stochastic Machines and the Cost of Classicalization",
+      "link": "https://arxiv.org/abs/2610.22750",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22750v1 Announce Type: new  Abstract: What separates quantum computation from classical computation when a classical model may retain every branch history and arbitrary causal memory? We study this question using history-resolved causal stochastic machines (HCSMs), which describe positive…"
+    },
+    {
+      "title": "Quantumness of Entanglement in Schwarzschild de Sitter Spacetime",
+      "link": "https://arxiv.org/abs/2610.22761",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22761v1 Announce Type: new  Abstract: We investigate genuine multipartite entanglement and genuine tripartite nonlocality of a noisy generalized GHZ state in Schwarzschild-de Sitter spacetime. The genuine multipartite concurrence and optimized Svetlichny parameter are employed to characte…"
+    },
+    {
+      "title": "On the relationship between the POVM framework and the no-signaling hypothesis",
+      "link": "https://arxiv.org/abs/2610.22823",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22823v1 Announce Type: new  Abstract: The quantum foundations literature contains dozens of \"no-signaling\" arguments that rely on the Born rule or, more generally, the positive operator-valued measure (POVM) framework to show that the resources of non-relativistic quantum mechanics (NRQM)…"
+    },
+    {
+      "title": "Quantum approximate stochastic combinatorial optimisation",
+      "link": "https://arxiv.org/abs/2610.22876",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22876v1 Announce Type: new  Abstract: Two-stage stochastic combinatorial optimisation concerns discrete decisions made before all relevant information is known. An initial decision is made; once uncertainty is resolved, it can be adapted to the realised scenario, at a cost. The aim is to…"
+    },
+    {
+      "title": "Quantum-Assisted Unambiguous Discrimination of Pure States with Robustness Bounds",
+      "link": "https://arxiv.org/abs/2610.22954",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22954v1 Announce Type: new  Abstract: We propose a hybrid quantum-classical framework for the unambiguous discrimination of pure states by combining the noisy intermediate-scale quantum semidefinite program solver (NSS) with the reciprocal-state representation. In NSS, a given semidefinit…"
+    },
+    {
+      "title": "Encodings and Node Architecture: Lessons from the Fault-Tolerant Distributed Transversal Fanout",
+      "link": "https://arxiv.org/abs/2610.22966",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792382400,
+      "summary": "arXiv:2610.22966v1 Announce Type: new  Abstract: An encoding choice specifies the quantum error-correcting code used to encode logical qubits at a given node. Different encoding choices may differ in the number of physical qubits, the number of encoded logical qubits, the code distance, and the avai…"
+    },
     {
       "title": "New monolithic ion trap opens quantum simulations to more researchers",
       "link": "https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html",
@@ -122,36 +266,12 @@
       "summary": "Insider Brief The World Trade Organization&#8217;s (WTO) member delegations were told this week that the encryption underpinning international trade could be broken by quantum computers within roughly five years, and that the trading system has no shared definition yet of what it means to be &#8220;…"
     },
     {
-      "title": "Terra Quantum Joins QuEra Quantum Alliance",
-      "link": "https://thequantuminsider.com/2026/10/16/terra-quantum-quera-quantum-alliance/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 16 Oct 2026 10:36:51 +0000",
-      "published_ts": 1792147011,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Terra Quantum, a global leader in the development of quantum technologies and their industrial application, the leader in neutral-atom quantum computing, today announced that Terra Quantum has joined the QuEra Quantum Alliance, a global partner program dedicated t…"
-    },
-    {
-      "title": "Google Demonstrates Method to Cut Errors in Quantum Computing’s ‘Magic States’",
-      "link": "https://thequantuminsider.com/2026/10/16/google-demonstrates-method-to-cut-errors-in-quantum-computings-magic-states/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 16 Oct 2026 07:55:57 +0000",
-      "published_ts": 1792137357,
-      "summary": "Insider Brief Google researchers reduced errors in a crucial quantum computing resource about 40-fold, demonstrating a method that could lower the hardware demands of useful, error-corrected machines. The experiment, published in Science, showed that a technique called magic-state cultivation works…"
-    },
-    {
       "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
       "link": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 15 Oct 2026 17:20:05 EDT",
       "published_ts": 1792099205,
       "summary": "Silicon spin qubits are a promising platform for building scalable quantum computers as they are compatible with the semiconductor manufacturing technologies used to produce today's computer chips. However, they have an important weakness: silicon spin qubits typically lose accuracy when several qub…"
-    },
-    {
-      "title": "Stony Brook Quantum Memory Named to TIME’s Best Inventions of 2026",
-      "link": "https://thequantuminsider.com/2026/10/15/stony-brook-patented-quantum-memory-time-best-inventions/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 15 Oct 2026 19:50:58 +0000",
-      "published_ts": 1792093858,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A quantum technology invented at the State University of New York (SUNY) at Stony Brook (Stony Brook University) is earning international recognition. Qunnect’s Qu-MEM, a commercial room-temperature quantum memory device developed from Stony Brook-patented technol…"
     },
     {
       "title": "Quantum calculations reveal how spin defects lose energy",
