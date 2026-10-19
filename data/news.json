@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1792410953,
+  "generated_ts": 1792433930,
   "items": [
+    {
+      "title": "Normally forbidden emissions from graphene could expose quantum fluctuations in incoming light",
+      "link": "https://phys.org/news/2026-10-forbidden-emissions-graphene-expose-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 19 Oct 2026 13:40:04 EDT",
+      "published_ts": 1792431604,
+      "summary": "Voltage fluctuations, light fluctuations, temperature fluctuations—any fluctuations are troublesome and thus undesirable. They don't just cause discomfort; in engineering and medical applications, they affect the accuracy of measurements or introduce errors in controls. Even at the minute level of q…"
+    },
+    {
+      "title": "Scientists redetermine a key strontium frequency with 50 times better precision for quantum technologies",
+      "link": "https://phys.org/news/2026-10-scientists-redetermine-key-strontium-frequency.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 19 Oct 2026 13:20:18 EDT",
+      "published_ts": 1792430418,
+      "summary": "The Korea Research Institute of Standards and Science (KRISS) has remeasured a key transition frequency of the strontium (Sr) atom for the first time in 88 years, since 1938, using a photonic grating chip. It has established a new absolute frequency value with a measurement uncertainty reduced by mo…"
+    },
+    {
+      "title": "X-rays reveal surprisingly long-lived spin waves in copper oxide",
+      "link": "https://phys.org/news/2026-10-rays-reveal-copper-oxide.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 19 Oct 2026 11:40:06 EDT",
+      "published_ts": 1792424406,
+      "summary": "Today's computer technology, based on silicon chips, is slowly reaching its physical limits. Components cannot be miniaturized indefinitely, and clock speeds cannot be increased indefinitely. At the same time, huge AI data centers are being built in many places, and these consume an immense amount o…"
+    },
+    {
+      "title": "Quantinuum Reports a 10x Reduction in Logical Error Rate on Helios",
+      "link": "https://thequantuminsider.com/2026/10/19/quantinuum-reports-a-10x-reduction-in-logical-error-rate-on-helios/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 19 Oct 2026 13:02:10 +0000",
+      "published_ts": 1792414930,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum (NASDAQ: QNT), a leading full-stack quantum computing company, today announced a world-record quantum error-correction result, achieving a logical fidelity of 99.9995% on its Helios commercial computer using the company’s error-correction architecture.…"
+    },
+    {
+      "title": "China’s Tuoyuan Targets Neutral-Atom Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/10/19/chinas-tuoyuan-targets-neutral-atom-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 19 Oct 2026 11:00:57 +0000",
+      "published_ts": 1792407657,
+      "summary": "Insider Brief A new Chinese startup led by quantum researcher Mu Qiao is pursuing neutral-atom quantum computing, with a reported development goal of building a system with 100 logical qubits. The company, identified as FlipFlop Tuoyuan in a QbitAI report republished by 36Kr, brings together Qiao’s…"
+    },
     {
       "title": "Advance Could Lead to Bigger, More Reliable Quantum Computers, University of Edinburgh Scientists Say",
       "link": "https://thequantuminsider.com/2026/10/19/advance-could-lead-to-bigger-more-reliable-quantum-computers-university-of-edinburgh-scientists-say/",
@@ -250,22 +290,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computers pose an increasingly real threat to the security of cryptographic methods and thus to cybersecurity itself. The Federal Ministry of the Interior (BMI), the Federal Ministry for Digital Affairs and State Modernization (BMDS) and the Federal Office…"
     },
     {
-      "title": "QuEra Scientists Named Co-Principal Investigators on Three of Nine Teams in DOE’s Quantum Chemistry Program",
-      "link": "https://thequantuminsider.com/2026/10/16/quera-three-teams-doe-quantum-chemistry-program/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 16 Oct 2026 12:23:53 +0000",
-      "published_ts": 1792153433,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the leader in quantum computing, today announced that its scientists will work with three of the nine teams selected for the Quantum Computing for Computational Chemistry (QC3) program at the Advanced Research Projects Agency for Energy (ARPA-E) t…"
-    },
-    {
-      "title": "In ‘Quantum 101’ Session, WTO Trade Officials Hear Quantum Encryption Window May Close Within Five Years",
-      "link": "https://thequantuminsider.com/2026/10/16/in-quantum-101-session-wto-trade-officials-hear-quantum-encryption-window-may-close-within-five-years/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 16 Oct 2026 11:51:18 +0000",
-      "published_ts": 1792151478,
-      "summary": "Insider Brief The World Trade Organization&#8217;s (WTO) member delegations were told this week that the encryption underpinning international trade could be broken by quantum computers within roughly five years, and that the trading system has no shared definition yet of what it means to be &#8220;…"
-    },
-    {
       "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
       "link": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
       "source": "Phys.org — Quantum Physics",
@@ -296,30 +320,6 @@
       "published": "Wed, 14 Oct 2026 14:50:01 EDT",
       "published_ts": 1792003801,
       "summary": "Organizations are unprepared for the risks posed by quantum computing, IBM's Europe and Africa vice president Alessandro Curioni told AFP Wednesday, referring to the high-speed technology that could crack security encryptions and enable large-scale cyberattacks."
-    },
-    {
-      "title": "Software advance brings complex quantum simulations to standard computers",
-      "link": "https://phys.org/news/2026-10-software-advance-complex-quantum-simulations.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 14 Oct 2026 14:01:09 EDT",
-      "published_ts": 1792000869,
-      "summary": "A major software advance could aid the creation of bigger, more reliable quantum computers, a study suggests. Researchers have developed an algorithm that enables off-the-shelf computers to run quantum simulations previously only possible using the world's most powerful supercomputers."
-    },
-    {
-      "title": "A tiny magnetic whirlpool could point to a new kind of ultra-efficient memory",
-      "link": "https://phys.org/news/2026-10-tiny-magnetic-whirlpool-kind-ultra.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 14 Oct 2026 12:40:08 EDT",
-      "published_ts": 1791996008,
-      "summary": "Every time a computer stores or erases information, it uses energy. The amount is tiny for a single operation, but those operations happen billions of times every second. For decades, scientists have wondered just how little energy a memory device could use before reaching the fundamental theoretica…"
-    },
-    {
-      "title": "From spin wave to superconducting circuit: A one-way street for quantum information",
-      "link": "https://phys.org/news/2026-10-superconducting-circuit-street-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 14 Oct 2026 12:20:02 EDT",
-      "published_ts": 1791994802,
-      "summary": "Quantum information systems could one day shape everyday life through faster computing, sharper sensing and more secure communication. A new result from the U.S. Department of Energy's (DOE) Argonne National Laboratory and the University of Illinois Urbana-Champaign (U. of I.) marks an important ste…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
