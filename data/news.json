@@ -1,6 +1,94 @@
 {
-  "generated_ts": 1792493439,
+  "generated_ts": 1792512896,
   "items": [
+    {
+      "title": "Quantum probability can't be derived without assuming it first",
+      "link": "https://phys.org/news/2026-10-quantum-probability-derived-assuming.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 20 Oct 2026 11:50:01 EDT",
+      "published_ts": 1792511401,
+      "summary": "For nearly a century, physicists have relied on the Born rule to calculate the chances of different outcomes when they measure a quantum system. Yet despite decades of effort, nobody has managed to derive the rule from more basic mathematical principles without making assumptions about probability a…"
+    },
+    {
+      "title": "A quantum pathway to entropy-free energy transfer",
+      "link": "https://phys.org/news/2026-10-quantum-pathway-entropy-free-energy.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 20 Oct 2026 11:00:01 EDT",
+      "published_ts": 1792508401,
+      "summary": "For scientists, breakthroughs often stem from unexpected turns. A research team led by Oscar Dahlsten, an associate professor in the Department of Physics at City University of Hong Kong (CityUHK), set out to prove a theoretical limitation, only to discover a quantum solution. The finding breaks tra…"
+    },
+    {
+      "title": "Vietnam Quantum Expert Urges Closer EU Ties to Build National Capabilities",
+      "link": "https://thequantuminsider.com/2026/10/20/vietnam-quantum-expert-urges-closer-eu-ties-to-build-national-capabilities/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 20 Oct 2026 14:23:40 +0000",
+      "published_ts": 1792506220,
+      "summary": "Insider Brief Vietnam should make European partnerships a central part of its quantum technology development, using joint research, specialist training and access to computing infrastructure to build domestic capabilities, a Vietnamese expert has proposed. Nguyen Luong Quang, a member of the Vietnam…"
+    },
+    {
+      "title": "Project Eleven and Relm Explore Post-Quantum Risk in Digital Asset Insurance",
+      "link": "https://thequantuminsider.com/2026/10/20/project-eleven-relm-post-quantum-risk-digital-asset-insurance/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 20 Oct 2026 14:13:26 +0000",
+      "published_ts": 1792505606,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Project Eleven, the post-quantum security company for digital assets, today announced Relm Insurance&#160;as a development partner for Strongpoint, its flagship institutional custody product. The collaboration will explore how an institution&#8217;s post-quantum s…"
+    },
+    {
+      "title": "Monarch Quantum Supplies Photonics Hardware for NASA Gravity Sensor Mission",
+      "link": "https://thequantuminsider.com/2026/10/20/monarch-quantum-photonics-hardware-nasa-gravity-sensor/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 20 Oct 2026 14:02:17 +0000",
+      "published_ts": 1792504937,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Monarch Quantum extends congratulations to Infleqtion on receiving the $20 million NASA follow-on contract supporting the Quantum Gravity Gradiometer Pathfinder (QGGPf). Led by NASA&#8217;s Jet Propulsion Laboratory in Southern California, the mission is anticipat…"
+    },
+    {
+      "title": "Arqit Invests in Sirius to Develop Quantum-Safe Defence Communications",
+      "link": "https://thequantuminsider.com/2026/10/20/arqit-invests-sirius-quantum-safe-defence-communications/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 20 Oct 2026 13:56:19 +0000",
+      "published_ts": 1792504579,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Arqit Quantum Inc. (NASDAQ: ARQQ), a global leader in quantum-safe encryption helping safeguard sensitive information from current and future cyber threats, today announced a strategic investment in Sirius Computer, Inc., a technology provider of secure computing…"
+    },
+    {
+      "title": "NowSecure Finds No Detectable PQC Code in 97% of Mobile Apps",
+      "link": "https://thequantuminsider.com/2026/10/20/nowsecure-97-percent-mobile-apps-no-pqc-code/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 20 Oct 2026 13:25:26 +0000",
+      "published_ts": 1792502726,
+      "summary": "Insider Brief PRESS RELEASE &#8212; NowSecure today released an analysis, conducted with NowSecure Platform, of 136,711 iOS and Android apps. It found that 97% contain no detectable post-quantum cryptography (PQC), the new generation of encryption standards designed to withstand attacks from quantum…"
+    },
+    {
+      "title": "BIRD Foundation Approves $7.4 Million for Seven U.S.-Israel R&D Projects",
+      "link": "https://thequantuminsider.com/2026/10/20/bird-foundation-7-4-million-us-israel-rd-projects/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 20 Oct 2026 13:11:17 +0000",
+      "published_ts": 1792501877,
+      "summary": "Insider Brief PRESS RELEASE &#8212; In September 2026, the Board of Governors of the Israel-U.S. Binational Industrial Research and Development (BIRD) Foundation approved $7.4 million in conditional grants for seven joint R&#38;D projects between U.S. and Israeli companies. Including private-sector…"
+    },
+    {
+      "title": "Guest Post: Why Tokenised Assets Need Quantum-Ready Security",
+      "link": "https://thequantuminsider.com/2026/10/20/tokenised-finance-quantum-security/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 20 Oct 2026 12:44:01 +0000",
+      "published_ts": 1792500241,
+      "summary": "Guest Post by Ludovico Rossi, Co-Founder and CRO at Brickken The conversation on Wall Street has moved from whether to tokenise to how and banks, asset managers and financial institutions are testing tokenisation to improve settlement, simplify asset administration and make capital markets more effi…"
+    },
+    {
+      "title": "Zapata Quantum Adds Peter Shor and Three Scientists to Advisory Board",
+      "link": "https://thequantuminsider.com/2026/10/20/zapata-quantum-peter-shor-scientific-advisory-board/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 20 Oct 2026 12:31:33 +0000",
+      "published_ts": 1792499493,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Zapata Quantum (OTCQB: ZPTA) (“Zapata”, “Zapata Quantum” or the “Company”), a pioneer in quantum computing application and algorithm development, today announced the appointment of Dr. Peter Shor and other notable scientists to its Scientific Advisory Board (SAB).…"
+    },
+    {
+      "title": "Xanadu Receives Provisional Approval for Up to $10M in DARPA Funding",
+      "link": "https://thequantuminsider.com/2026/10/20/darpa-10-million-xanadu-quantum-research/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 20 Oct 2026 12:20:38 +0000",
+      "published_ts": 1792498838,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Xanadu Quantum Technologies Limited (&#8220;Xanadu&#8220;; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, today announced that it has received provisional approval for project funding worth up to USD $10 million under DARPA’s Quantum Benchmarking…"
+    },
     {
       "title": "Bechtle Expands DLR Quantum Computing Resources With IQM Technology",
       "link": "https://thequantuminsider.com/2026/10/20/bechtle-expands-dlr-quantum-computing-resources-with-iqm-technology/",
@@ -10,28 +98,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Under a new framework agreement, Bechtle is providing German Aerospace Center’s Quantum Computing Initiative (DLR QCI) with cloud-based computing time on quantum systems from IQM Quantum Computers. This expands the DLR QCI’s quantum computing resources for its app…"
     },
     {
-      "title": "Alice & Bob Reports Cat-Qubit Progress in French Quantum Computing Program",
-      "link": "https://thequantuminsider.com/2026/10/20/alice-bob-reports-cat-qubit-progress-in-french-quantum-computing-program/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 20 Oct 2026 07:36:44 +0000",
-      "published_ts": 1792481804,
-      "summary": "Insider Brief PRESS RELEASE &#8212; – Alice &#38; Bob, a leader in fault-tolerant quantum computing, today shares a summary of results from Phase 1 of PROQCIMA, the French government’s quantum computing programme.  Led by the French Defense Innovation Agency (AID) and the Direction générale de l&#82…"
-    },
-    {
-      "title": "Coherence Quantum Raises €2.78 Million in Seed Round",
-      "link": "https://thequantuminsider.com/2026/10/20/coherence-quantum-raises-e2-78-million-in-seed-round/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 20 Oct 2026 07:14:03 +0000",
-      "published_ts": 1792480443,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Coherence Quantum, a Finnish quantum hardware company originating from Aalto University’s Quantum Computing and Devices (QCD) group, has raised €2.78 million in seed funding to develop a new approach to the cryogenic infrastructure surrounding solid-state quantum…"
-    },
-    {
-      "title": "NVIDIA Runs Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
-      "link": "https://thequantuminsider.com/2026/10/19/nvidia-runs-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 19 Oct 2026 19:02:39 +0000",
-      "published_ts": 1792436559,
-      "summary": "Insider Brief PRESS RELEASE &#8212; NVIDIA today announced a record-breaking quantum computing simulation on JUPITER, Europe’s first exascale supercomputer, allowing researchers to fully explore and validate magic state cultivation — a leading approach to fault-tolerant quantum computing that requir…"
+      "title": "Scientists reach the ultimate quantum limit on a surface",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Mon, 19 Oct 2026 23:02:41 EDT",
+      "published_ts": 1792465361,
+      "summary": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over molecules and help drive the next generation of quantum technol…"
     },
     {
       "title": "Normally forbidden emissions from graphene could expose quantum fluctuations in incoming light",
@@ -56,46 +128,6 @@
       "published": "Mon, 19 Oct 2026 11:40:06 EDT",
       "published_ts": 1792424406,
       "summary": "Today's computer technology, based on silicon chips, is slowly reaching its physical limits. Components cannot be miniaturized indefinitely, and clock speeds cannot be increased indefinitely. At the same time, huge AI data centers are being built in many places, and these consume an immense amount o…"
-    },
-    {
-      "title": "Quantinuum Reports a 10x Reduction in Logical Error Rate on Helios",
-      "link": "https://thequantuminsider.com/2026/10/19/quantinuum-reports-a-10x-reduction-in-logical-error-rate-on-helios/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 19 Oct 2026 13:02:10 +0000",
-      "published_ts": 1792414930,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum (NASDAQ: QNT), a leading full-stack quantum computing company, today announced a world-record quantum error-correction result, achieving a logical fidelity of 99.9995% on its Helios commercial computer using the company’s error-correction architecture.…"
-    },
-    {
-      "title": "China’s Tuoyuan Targets Neutral-Atom Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/10/19/chinas-tuoyuan-targets-neutral-atom-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 19 Oct 2026 11:00:57 +0000",
-      "published_ts": 1792407657,
-      "summary": "Insider Brief A new Chinese startup led by quantum researcher Mu Qiao is pursuing neutral-atom quantum computing, with a reported development goal of building a system with 100 logical qubits. The company, identified as FlipFlop Tuoyuan in a QbitAI report republished by 36Kr, brings together Qiao’s…"
-    },
-    {
-      "title": "Advance Could Lead to Bigger, More Reliable Quantum Computers, University of Edinburgh Scientists Say",
-      "link": "https://thequantuminsider.com/2026/10/19/advance-could-lead-to-bigger-more-reliable-quantum-computers-university-of-edinburgh-scientists-say/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 19 Oct 2026 08:12:39 +0000",
-      "published_ts": 1792397559,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers have developed an algorithm that enables off-the-shelf computers to run quantum simulations previously only possible using the world’s most powerful supercomputers. It means the simulations can be run using around five percent of the computing power pr…"
-    },
-    {
-      "title": "RIKEN Team Improves Parallel Control of Silicon Spin Qubits",
-      "link": "https://thequantuminsider.com/2026/10/19/riken-team-improves-parallel-control-of-silicon-spin-qubits/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 19 Oct 2026 07:52:31 +0000",
-      "published_ts": 1792396351,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Silicon spin qubits are a promising platform for building scalable quantum computers as they are compatible with the semiconductor manufacturing technologies used to produce today&#8217;s computer chips. However, they have an important weakness: silicon spin qubit…"
-    },
-    {
-      "title": "UKRI Backs UK Quantum Businesses With Share of £50 Million",
-      "link": "https://thequantuminsider.com/2026/10/19/ukri-backs-uk-quantum-businesses-with-share-of-50-million/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 19 Oct 2026 07:00:00 +0000",
-      "published_ts": 1792393200,
-      "summary": "Insider Brief A share of £50 million is going to British businesses developing quantum technologies for uses that include keeping railways running, shortening eye scan waits and maintaining military connectivity, UKRI said. The money forms part of a new government package. According to UKRI, the pac…"
     },
     {
       "title": "New monolithic ion trap opens quantum simulations to more researchers",
@@ -138,14 +170,6 @@
       "summary": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive."
     },
     {
-      "title": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
-      "link": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 17 Oct 2026 08:11:10 +0000",
-      "published_ts": 1792224670,
-      "summary": "Insider Brief A team of researchers from Anthropic and Harvard used an artificial intelligence (AI) system to design quantum circuits that require fewer operations and qubits, potentially lowering the hardware demands of useful quantum computing. The researchers, who posted their work on the preprin…"
-    },
-    {
       "title": "New high-frequency method boosts 2D material readout for next-gen quantum computers",
       "link": "https://phys.org/news/2026-10-high-frequency-method-boosts-2d.html",
       "source": "Phys.org — Quantum Physics",
@@ -184,22 +208,6 @@
       "published": "Thu, 15 Oct 2026 11:40:09 EDT",
       "published_ts": 1792078809,
       "summary": "When light hits a tiny defect embedded in a solid material like diamond or silicon carbide, it can kick the defect's electrons into an excited state. These spin defects have the potential to be used as stable, readable qubits for quantum technologies, for example, quantum sensing. But modeling the f…"
-    },
-    {
-      "title": "Quantum sensor could measure how Earth drags spacetime",
-      "link": "https://phys.org/news/2026-10-quantum-sensor-earth-spacetime.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 15 Oct 2026 06:40:01 EDT",
-      "published_ts": 1792060801,
-      "summary": "Einstein's theory of general relativity describes gravity as the bending of spacetime, a mathematical model that combines three-dimensional space and time into a single, four-dimensional continuum. The theory also predicts that a rotating object, such as Earth, slightly drags the surrounding spaceti…"
-    },
-    {
-      "title": "IBM executive warns of risk of quantum computing hacks",
-      "link": "https://phys.org/news/2026-10-ibm-quantum-hacks.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 14 Oct 2026 14:50:01 EDT",
-      "published_ts": 1792003801,
-      "summary": "Organizations are unprepared for the risks posed by quantum computing, IBM's Europe and Africa vice president Alessandro Curioni told AFP Wednesday, referring to the high-speed technology that could crack security encryptions and enable large-scale cyberattacks."
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
@@ -376,14 +384,6 @@
       "published": "Thu, 23 Jul 2026 08:00:00 -0400",
       "published_ts": 1784808000,
       "summary": "Initial research projects advance national priorities across natural resources, manufacturing, nuclear physics, and more."
-    },
-    {
-      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Mon, 20 Jul 2026 03:40:09 EDT",
-      "published_ts": 1784533209,
-      "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their resul…"
     },
     {
       "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
