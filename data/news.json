@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1792433930,
+  "generated_ts": 1792465710,
   "items": [
+    {
+      "title": "NVIDIA Runs Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
+      "link": "https://thequantuminsider.com/2026/10/19/nvidia-runs-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 19 Oct 2026 19:02:39 +0000",
+      "published_ts": 1792436559,
+      "summary": "Insider Brief PRESS RELEASE &#8212; NVIDIA today announced a record-breaking quantum computing simulation on JUPITER, Europe’s first exascale supercomputer, allowing researchers to fully explore and validate magic state cultivation — a leading approach to fault-tolerant quantum computing that requir…"
+    },
     {
       "title": "Normally forbidden emissions from graphene could expose quantum fluctuations in incoming light",
       "link": "https://phys.org/news/2026-10-forbidden-emissions-graphene-expose-quantum.html",
@@ -280,14 +288,6 @@
       "published": "Fri, 16 Oct 2026 13:15:52 +0000",
       "published_ts": 1792156552,
       "summary": "Insider Brief Anderon has released its first Superconducting Quantum Process Design Kit (PDK), the company said in a blog post. According to Anderon, the kit is meant to give quantum device and circuit developers a more efficient, standardized way to work. The company said it supplies designers with…"
-    },
-    {
-      "title": "Germany Publishes National Post-Quantum Cryptography Migration Guideline",
-      "link": "https://thequantuminsider.com/2026/10/16/transition-post-quantum-cryptography-national-eu-roadmap-guideline/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 16 Oct 2026 12:43:02 +0000",
-      "published_ts": 1792154582,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computers pose an increasingly real threat to the security of cryptographic methods and thus to cybersecurity itself. The Federal Ministry of the Interior (BMI), the Federal Ministry for Digital Affairs and State Modernization (BMDS) and the Federal Office…"
     },
     {
       "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
