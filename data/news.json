@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1792512896,
+  "generated_ts": 1792530614,
   "items": [
+    {
+      "title": "Steering electrons with extreme ultraviolet light—team achieves quantum coherent control",
+      "link": "https://phys.org/news/2026-10-electrons-extreme-ultraviolet-team-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 20 Oct 2026 14:00:31 EDT",
+      "published_ts": 1792519231,
+      "summary": "Light is one of the most powerful tools scientists have for probing matter. By interacting with electrons, light reveals how atoms, molecules and materials are structured and how they evolve in time. Highly energetic ultraviolet and X-ray photons are particularly attractive because they can access e…"
+    },
+    {
+      "title": "Postquant Labs Launches Quip Virtual Machine for Quantum and Classical Computing",
+      "link": "https://thequantuminsider.com/2026/10/20/postquant-labs-quip-virtual-machine-quantum-classical-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 20 Oct 2026 17:55:00 +0000",
+      "published_ts": 1792518900,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Postquant Labs, developer of the quantum computing marketplace quip.network, has launched its Quip Virtual Machine (QVM) and first quantum smart contracts. The QVM is live today on the Aglais testnet at aglais.quip.network&#160;and provides a shared programming an…"
+    },
+    {
+      "title": "Individual atomic collisions can now be detected in the lab, potentially opening up pathways to new physics",
+      "link": "https://phys.org/news/2026-10-individual-atomic-collisions-lab-potentially.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 20 Oct 2026 13:10:01 EDT",
+      "published_ts": 1792516201,
+      "summary": "Tiny atoms and molecules are constantly bombarding each other all around us. While we regularly measure the large-scale effects of these interactions, measuring the effect of each individual collision is far more difficult. But now, researchers have managed to measure how tiny gas particles affect a…"
+    },
     {
       "title": "Quantum probability can't be derived without assuming it first",
       "link": "https://phys.org/news/2026-10-quantum-probability-derived-assuming.html",
@@ -88,14 +112,6 @@
       "published": "Tue, 20 Oct 2026 12:20:38 +0000",
       "published_ts": 1792498838,
       "summary": "Insider Brief PRESS RELEASE &#8212; Xanadu Quantum Technologies Limited (&#8220;Xanadu&#8220;; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, today announced that it has received provisional approval for project funding worth up to USD $10 million under DARPA’s Quantum Benchmarking…"
-    },
-    {
-      "title": "Bechtle Expands DLR Quantum Computing Resources With IQM Technology",
-      "link": "https://thequantuminsider.com/2026/10/20/bechtle-expands-dlr-quantum-computing-resources-with-iqm-technology/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 20 Oct 2026 08:18:24 +0000",
-      "published_ts": 1792484304,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Under a new framework agreement, Bechtle is providing German Aerospace Center’s Quantum Computing Initiative (DLR QCI) with cloud-based computing time on quantum systems from IQM Quantum Computers. This expands the DLR QCI’s quantum computing resources for its app…"
     },
     {
       "title": "Scientists reach the ultimate quantum limit on a surface",
@@ -192,22 +208,6 @@
       "published": "Fri, 16 Oct 2026 10:20:06 EDT",
       "published_ts": 1792160406,
       "summary": "The researchers in the Quantum Detection Microscopy group at CIC nanoGUNE, in collaboration with chemists at CiQUS of the University of Santiago de Compostela, have demonstrated that adding or removing a single molecule from a quantum chain can fundamentally change its interaction with a superconduc…"
-    },
-    {
-      "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
-      "link": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 15 Oct 2026 17:20:05 EDT",
-      "published_ts": 1792099205,
-      "summary": "Silicon spin qubits are a promising platform for building scalable quantum computers as they are compatible with the semiconductor manufacturing technologies used to produce today's computer chips. However, they have an important weakness: silicon spin qubits typically lose accuracy when several qub…"
-    },
-    {
-      "title": "Quantum calculations reveal how spin defects lose energy",
-      "link": "https://phys.org/news/2026-10-quantum-reveal-defects-energy.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 15 Oct 2026 11:40:09 EDT",
-      "published_ts": 1792078809,
-      "summary": "When light hits a tiny defect embedded in a solid material like diamond or silicon carbide, it can kick the defect's electrons into an excited state. These spin defects have the potential to be used as stable, readable qubits for quantum technologies, for example, quantum sensing. But modeling the f…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
