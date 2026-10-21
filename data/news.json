@@ -1,6 +1,86 @@
 {
-  "generated_ts": 1792580573,
+  "generated_ts": 1792600198,
   "items": [
+    {
+      "title": "Plurilock Sets Vote on Quantum eMotion Acquisition",
+      "link": "https://thequantuminsider.com/2026/10/21/plurilock-sets-vote-on-quantum-emotion-acquisition/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 21 Oct 2026 15:36:52 +0000",
+      "published_ts": 1792597012,
+      "summary": "Insider Brief Plurilock Security shareholders will vote Nov. 18 on a proposed acquisition by Quantum eMotion, a deal intended to pair quantum-based security technology with an established cybersecurity business and its customer network. Plurilock said in a news release that it has filed and mailed d…"
+    },
+    {
+      "title": "GOTT Funds NPL Project to Scale Trapped-Ion Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/10/21/gott-funds-npl-project-to-scale-trapped-ion-quantum-technology/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 21 Oct 2026 15:16:16 +0000",
+      "published_ts": 1792595776,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The National Physical Laboratory (NPL) has secured funding through the Government Office for Technology Transfer (GOTT) to accelerate the development of next-generation trapped-ion quantum computing technologies, helping address one of the sector&#8217;s most sign…"
+    },
+    {
+      "title": "Before the Qubit",
+      "link": "https://thequantuminsider.com/2026/10/21/before-the-qubit/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 21 Oct 2026 15:13:24 +0000",
+      "published_ts": 1792595604,
+      "summary": "How hybrid infrastructure is making quantum commercially actionable today – and why the organizations building that infrastructure now will be the ones ready when the hardware arrives. Insider Brief The Era Between Eras The prevailing assumption about quantum computing is that fault-tolerant hardwar…"
+    },
+    {
+      "title": "Physicists trap and tame single particle of antimatter for months",
+      "link": "https://phys.org/news/2026-10-physicists-particle-antimatter-months.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 21 Oct 2026 11:00:10 EDT",
+      "published_ts": 1792594810,
+      "summary": "For the first time, Northwestern University physicists have coaxed a single positron—the antimatter counterpart of an electron—into an exquisitely controlled quantum state."
+    },
+    {
+      "title": "qBraid Announces qBraid OS For Operating Quantum Computing Services",
+      "link": "https://thequantuminsider.com/2026/10/21/qbraid-announces-qbraid-os-for-operating-quantum-computing-services/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 21 Oct 2026 13:02:32 +0000",
+      "published_ts": 1792587752,
+      "summary": "Insider Brief PRESS RELEASE &#8212; qBraid today introduced qBraid OS, software that quantum hardware providers and system operators can use to run their systems and make them available to users, whether as a commercial service or for internal use. qBraid OS manages access, scheduling and billing fo…"
+    },
+    {
+      "title": "South Korea Expands Quantum Communications Testbeds Through 2028",
+      "link": "https://thequantuminsider.com/2026/10/21/korea-expands-quantum-communications-testbeds-three-hubs/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 21 Oct 2026 12:54:30 +0000",
+      "published_ts": 1792587270,
+      "summary": "Insider Brief South Korea’s government and private companies plan to widen quantum communications testing at home and abroad through commercial, overseas and future hubs, Seoul Economic Daily reported. The three-year effort runs from this year through 2028, with the aim of commercializing domestical…"
+    },
+    {
+      "title": "URI Students Teach Quantum Computing at Brookhaven National Laboratory",
+      "link": "https://thequantuminsider.com/2026/10/21/uri-students-teach-quantum-computing-brookhaven-national-laboratory/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 21 Oct 2026 12:21:40 +0000",
+      "published_ts": 1792585300,
+      "summary": "Insider Brief PRESS RELEASE &#8212; As a sophomore at the University of Rhode Island three years ago, Morgan Beck ’26 began diving deep into the world of quantum physics, wanting to learn more about the branch of science that studies matter and energy at the most fundamental level. At that time, Bec…"
+    },
+    {
+      "title": "Study: AI Could Speed Quantum Threats — And Help Build Defenses",
+      "link": "https://thequantuminsider.com/2026/10/21/study-ai-could-speed-quantum-threats-and-help-build-defenses/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 21 Oct 2026 12:04:23 +0000",
+      "published_ts": 1792584263,
+      "summary": "Insider Brief Artificial intelligence could hasten quantum attacks on encryption while helping organizations prepare for them, according to a new analysis that calls for treating the technologies as a single cybersecurity challenge. The paper, published in the Journal of Quantum Information Science…"
+    },
+    {
+      "title": "FPT and Niels Bohr Institute Sign Quantum Research Partnership",
+      "link": "https://thequantuminsider.com/2026/10/21/fpt-niels-bohr-institute-quantum-research-partnership/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 21 Oct 2026 11:50:24 +0000",
+      "published_ts": 1792583424,
+      "summary": "Insider Brief PRESS RELEASE &#8212; In the presence of H.E. Tô Lâm, General Secretary of the Communist Party of Vietnam and President of Vietnam, and His Majesty King Frederik X of Denmark, FPT Corporation, Vietnam&#8217;s leading technology corporation operating in 31 countries and territories, and…"
+    },
+    {
+      "title": "Atomic memory keeps distant ions entangled for about 10 seconds",
+      "link": "https://phys.org/news/2026-10-atomic-memory-distant-ions-entangled.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 21 Oct 2026 07:40:12 EDT",
+      "published_ts": 1792582812,
+      "summary": "Quantum networks, systems that connect devices and allow them to exchange information encoded in the quantum states of particles, could enable more secure communications. To build these networks, physicists need to devise strategies that allow distant particles to share quantum states, preserving th…"
+    },
     {
       "title": "Rutgers And IBM Demonstrate Real-Time Control Across 100 Qubits",
       "link": "https://thequantuminsider.com/2026/10/21/rutgers-and-ibm-demonstrate-real-time-control-across-100-qubits/",
@@ -16,14 +96,6 @@
       "published": "Wed, 21 Oct 2026 08:08:21 +0000",
       "published_ts": 1792570101,
       "summary": "Insider Brief Vulcan Elements, an American rare earth magnet manufacturer, today announced a partnership with the North Carolina Collaboratory to advance the development of high-performance rare earth magnets for critical defense and commercial technology applications.&#160; The collaboration brings…"
-    },
-    {
-      "title": "Toshiba Launches Quantum-Safe Network Platform",
-      "link": "https://thequantuminsider.com/2026/10/21/toshiba-launches-quantum-safe-network-platform/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 21 Oct 2026 07:53:26 +0000",
-      "published_ts": 1792569206,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Toshiba Corporation today announced the launch of its Quantum-Safe Networking (QSN) Platform, marking a major step towards delivering true scalability, flexibility and greater efficiency in the deployment of quantum-safe networks. The Toshiba QSN Platform brings t…"
     },
     {
       "title": "Concurrent Entanglement Purification Scheduling in Dynamic Quantum Networks",
@@ -162,14 +234,6 @@
       "summary": "Light is one of the most powerful tools scientists have for probing matter. By interacting with electrons, light reveals how atoms, molecules and materials are structured and how they evolve in time. Highly energetic ultraviolet and X-ray photons are particularly attractive because they can access e…"
     },
     {
-      "title": "Postquant Labs Launches Quip Virtual Machine for Quantum and Classical Computing",
-      "link": "https://thequantuminsider.com/2026/10/20/postquant-labs-quip-virtual-machine-quantum-classical-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 20 Oct 2026 17:55:00 +0000",
-      "published_ts": 1792518900,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Postquant Labs, developer of the quantum computing marketplace quip.network, has launched its Quip Virtual Machine (QVM) and first quantum smart contracts. The QVM is live today on the Aglais testnet at aglais.quip.network&#160;and provides a shared programming an…"
-    },
-    {
       "title": "Individual atomic collisions can now be detected in the lab, potentially opening up pathways to new physics",
       "link": "https://phys.org/news/2026-10-individual-atomic-collisions-lab-potentially.html",
       "source": "Phys.org — Quantum Physics",
@@ -192,54 +256,6 @@
       "published": "Tue, 20 Oct 2026 11:00:01 EDT",
       "published_ts": 1792508401,
       "summary": "For scientists, breakthroughs often stem from unexpected turns. A research team led by Oscar Dahlsten, an associate professor in the Department of Physics at City University of Hong Kong (CityUHK), set out to prove a theoretical limitation, only to discover a quantum solution. The finding breaks tra…"
-    },
-    {
-      "title": "Vietnam Quantum Expert Urges Closer EU Ties to Build National Capabilities",
-      "link": "https://thequantuminsider.com/2026/10/20/vietnam-quantum-expert-urges-closer-eu-ties-to-build-national-capabilities/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 20 Oct 2026 14:23:40 +0000",
-      "published_ts": 1792506220,
-      "summary": "Insider Brief Vietnam should make European partnerships a central part of its quantum technology development, using joint research, specialist training and access to computing infrastructure to build domestic capabilities, a Vietnamese expert has proposed. Nguyen Luong Quang, a member of the Vietnam…"
-    },
-    {
-      "title": "Project Eleven and Relm Explore Post-Quantum Risk in Digital Asset Insurance",
-      "link": "https://thequantuminsider.com/2026/10/20/project-eleven-relm-post-quantum-risk-digital-asset-insurance/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 20 Oct 2026 14:13:26 +0000",
-      "published_ts": 1792505606,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Project Eleven, the post-quantum security company for digital assets, today announced Relm Insurance&#160;as a development partner for Strongpoint, its flagship institutional custody product. The collaboration will explore how an institution&#8217;s post-quantum s…"
-    },
-    {
-      "title": "Monarch Quantum Supplies Photonics Hardware for NASA Gravity Sensor Mission",
-      "link": "https://thequantuminsider.com/2026/10/20/monarch-quantum-photonics-hardware-nasa-gravity-sensor/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 20 Oct 2026 14:02:17 +0000",
-      "published_ts": 1792504937,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Monarch Quantum extends congratulations to Infleqtion on receiving the $20 million NASA follow-on contract supporting the Quantum Gravity Gradiometer Pathfinder (QGGPf). Led by NASA&#8217;s Jet Propulsion Laboratory in Southern California, the mission is anticipat…"
-    },
-    {
-      "title": "Arqit Invests in Sirius to Develop Quantum-Safe Defence Communications",
-      "link": "https://thequantuminsider.com/2026/10/20/arqit-invests-sirius-quantum-safe-defence-communications/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 20 Oct 2026 13:56:19 +0000",
-      "published_ts": 1792504579,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Arqit Quantum Inc. (NASDAQ: ARQQ), a global leader in quantum-safe encryption helping safeguard sensitive information from current and future cyber threats, today announced a strategic investment in Sirius Computer, Inc., a technology provider of secure computing…"
-    },
-    {
-      "title": "NowSecure Finds No Detectable PQC Code in 97% of Mobile Apps",
-      "link": "https://thequantuminsider.com/2026/10/20/nowsecure-97-percent-mobile-apps-no-pqc-code/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 20 Oct 2026 13:25:26 +0000",
-      "published_ts": 1792502726,
-      "summary": "Insider Brief PRESS RELEASE &#8212; NowSecure today released an analysis, conducted with NowSecure Platform, of 136,711 iOS and Android apps. It found that 97% contain no detectable post-quantum cryptography (PQC), the new generation of encryption standards designed to withstand attacks from quantum…"
-    },
-    {
-      "title": "BIRD Foundation Approves $7.4 Million for Seven U.S.-Israel R&D Projects",
-      "link": "https://thequantuminsider.com/2026/10/20/bird-foundation-7-4-million-us-israel-rd-projects/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 20 Oct 2026 13:11:17 +0000",
-      "published_ts": 1792501877,
-      "summary": "Insider Brief PRESS RELEASE &#8212; In September 2026, the Board of Governors of the Israel-U.S. Binational Industrial Research and Development (BIRD) Foundation approved $7.4 million in conditional grants for seven joint R&#38;D projects between U.S. and Israeli companies. Including private-sector…"
     },
     {
       "title": "Scientists reach the ultimate quantum limit on a surface",
@@ -312,22 +328,6 @@
       "published": "Sat, 17 Oct 2026 14:00:02 EDT",
       "published_ts": 1792260002,
       "summary": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive."
-    },
-    {
-      "title": "New high-frequency method boosts 2D material readout for next-gen quantum computers",
-      "link": "https://phys.org/news/2026-10-high-frequency-method-boosts-2d.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 16 Oct 2026 18:00:01 EDT",
-      "published_ts": 1792188001,
-      "summary": "Quantum computers represent a next step in the fast-paced evolution of technology. Using quantum bits (qubits), they have the potential to run certain calculations exponentially faster than conventional computers. However, developing and fine-tuning quantum computers requires an enormous number of r…"
-    },
-    {
-      "title": "A highway instead of a racetrack: Strong coupling of light and sound in an optical fiber",
-      "link": "https://phys.org/news/2026-10-highway-racetrack-strong-coupling-optical.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 16 Oct 2026 17:20:01 EDT",
-      "published_ts": 1792185601,
-      "summary": "For the first time, scientists have achieved strong coupling between light and long-lived acoustic vibrations in an optical fiber. Optical fibers are used in both classical telecommunications and quantum communication and could serve not only as connections between computing nodes but also as quantu…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
