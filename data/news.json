@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1792530614,
+  "generated_ts": 1792551769,
   "items": [
+    {
+      "title": "A hidden rivalry between two quantum states at the heart of superconductors",
+      "link": "https://phys.org/news/2026-10-hidden-rivalry-quantum-states-heart.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 20 Oct 2026 18:00:07 EDT",
+      "published_ts": 1792533607,
+      "summary": "Transmitting electricity without losing any energy may sound impossible, yet this is precisely the promise of superconductivity. For nearly 40 years, scientists have been working to understand materials that exhibit this remarkable property at relatively high temperatures. Unlocking their secrets co…"
+    },
     {
       "title": "Steering electrons with extreme ultraviolet light—team achieves quantum coherent control",
       "link": "https://phys.org/news/2026-10-electrons-extreme-ultraviolet-team-quantum.html",
@@ -200,14 +208,6 @@
       "published": "Fri, 16 Oct 2026 17:20:01 EDT",
       "published_ts": 1792185601,
       "summary": "For the first time, scientists have achieved strong coupling between light and long-lived acoustic vibrations in an optical fiber. Optical fibers are used in both classical telecommunications and quantum communication and could serve not only as connections between computing nodes but also as quantu…"
-    },
-    {
-      "title": "Even or odd numbers: A single molecule makes all the difference in the quantum world",
-      "link": "https://phys.org/news/2026-10-odd-molecule-difference-quantum-world.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 16 Oct 2026 10:20:06 EDT",
-      "published_ts": 1792160406,
-      "summary": "The researchers in the Quantum Detection Microscopy group at CIC nanoGUNE, in collaboration with chemists at CiQUS of the University of Santiago de Compostela, have demonstrated that adding or removing a single molecule from a quantum chain can fundamentally change its interaction with a superconduc…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
