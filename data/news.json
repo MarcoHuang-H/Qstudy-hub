@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1792616969,
+  "generated_ts": 1792638090,
   "items": [
+    {
+      "title": "Laser-made lattice reveals discrete light solitons in tunable atomic vapor",
+      "link": "https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 21 Oct 2026 18:20:07 EDT",
+      "published_ts": 1792621207,
+      "summary": "Scientists from the Quantum Technologies Group at the Institute of Physics Zagreb, in collaboration with a colleague from the Physics Department at the Faculty of Science (PMF), have experimentally demonstrated for the first time the existence of discrete one-dimensional (1D) solitons in an opticall…"
+    },
     {
       "title": "Plurilock Sets Vote on Quantum eMotion Acquisition",
       "link": "https://thequantuminsider.com/2026/10/21/plurilock-sets-vote-on-quantum-emotion-acquisition/",
@@ -320,14 +328,6 @@
       "published": "Sun, 18 Oct 2026 09:00:05 EDT",
       "published_ts": 1792328405,
       "summary": "Researchers have developed and demonstrated a new hybrid photonic platform that integrates quantum emitters with photonic devices, providing a way to reliably control the interaction between photons and quantum information carriers. The chip-based platform, which combines gallium phosphide (GaP) wit…"
-    },
-    {
-      "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
-      "link": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 17 Oct 2026 14:00:02 EDT",
-      "published_ts": 1792260002,
-      "summary": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive."
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
