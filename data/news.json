@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1792666931,
+  "generated_ts": 1792686630,
   "items": [
+    {
+      "title": "Qblox Integrates NVIDIA DGX Spark With Quantum System Controller",
+      "link": "https://thequantuminsider.com/2026/10/22/qblox-hybrid-quantum-computing-nvidia-dgx-spark-nvqlink/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 22 Oct 2026 13:40:34 +0000",
+      "published_ts": 1792676434,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qblox, a leader in scalable quantum control architecture, today announced the integration of NVIDIA DGX Spark with a quantum system controller using NVIDIA NVQLink, achieving measured roundtrip latency below 4.0 µs on NVIDIA RTX PRO 6000 Blackwell and below 7.2 µs…"
+    },
+    {
+      "title": "ZuriQ and Rhonexum Partner on Cryogenic Electronics for Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/10/22/zuriq-rhonexum-cryogenic-electronics-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 22 Oct 2026 13:28:24 +0000",
+      "published_ts": 1792675704,
+      "summary": "Insider Brief PRESS RELEASE &#8212; ZuriQ and Rhonexum have announced a multi-year commercial framework agreement. Under the agreement, Rhonexum will supply cryogenic integrated-circuit technologies and customisation services to ZuriQ, which will evaluate the potential of each of these solutions to…"
+    },
+    {
+      "title": "Ericsson Canada and ÉTS Partner on Quantum Computing Research",
+      "link": "https://thequantuminsider.com/2026/10/22/ericsson-canada-ets-quantum-computing-research/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 22 Oct 2026 13:20:37 +0000",
+      "published_ts": 1792675237,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Ericsson Canada and École de technologie supérieure (ÉTS) have teamed up to further quantum computing research in Quebec, one of the country’s primary quantum computing centres. With support from the Mitacs Accelerate program, the project aims to develop better qu…"
+    },
+    {
+      "title": "Lost Schrödinger manuscript reveals his true view of quantum randomness",
+      "link": "https://phys.org/news/2026-10-lost-schrdinger-manuscript-reveals-true.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 22 Oct 2026 09:00:01 EDT",
+      "published_ts": 1792674001,
+      "summary": "Unlike classical physics, quantum mechanics generally cannot tell us exactly what will happen in an individual event. Instead, it predicts the probabilities of different outcomes. As one of the theory's early pioneers, Erwin Schrödinger played a key role in debates about what this randomness really…"
+    },
+    {
+      "title": "Quantum Beach 2026 — Official Livestream",
+      "link": "https://thequantuminsider.com/2026/10/22/quantum-beach-2026-official-livestream/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 22 Oct 2026 12:55:00 +0000",
+      "published_ts": 1792673700,
+      "summary": "Join us online on October 22 as Quantum Beach 2026 brings researchers, entrepreneurs, investors and industry leaders to the Palm Beach County Convention Center in West Palm Beach, Florida. Explore the ideas, investments and partnerships shaping the quantum economy, from advances in quantum computing…"
+    },
+    {
+      "title": "SEEQC Combines Chip-Based Processing With NVIDIA AI to Improve Quantum Error Correction",
+      "link": "https://thequantuminsider.com/2026/10/22/seeqc-combines-chip-based-processing-with-nvidia-ai-to-improve-quantum-error-correction/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 22 Oct 2026 12:05:00 +0000",
+      "published_ts": 1792670700,
+      "summary": "Insider Brief PRESS RELEASE &#8212; – &#160;SEEQC, Inc. (“SEEQC” or the “Company”),a chip-based quantum computing company, today announced results demonstrating significant performance improvements in quantum error correction decoding through a digital interface optimized multi-stage decoding archit…"
+    },
+    {
+      "title": "Palm Beach Colleges Connect as Florida Launches Quantum-Safe Network",
+      "link": "https://thequantuminsider.com/2026/10/22/palm-beach-colleges-connect-as-florida-launches-quantum-safe-network/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 22 Oct 2026 11:05:00 +0000",
+      "published_ts": 1792667100,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Palm Beach State College (PBSC) President Ava L. Parker, JD announced Wednesday night that the first segment of Florida&#8217;s statewide quantum-safe network is operational. The system links PBSC to Florida Atlantic University in Boca Raton over Palm Beach County…"
+    },
+    {
+      "title": "UK and Singapore Discuss Quantum Security and Post-Quantum Cryptography",
+      "link": "https://thequantuminsider.com/2026/10/22/11th-uk-singapore-financial-dialogue-october-2026-joint-statement/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 22 Oct 2026 11:00:34 +0000",
+      "published_ts": 1792666834,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The United Kingdom (UK) and Singapore held the 11th UK-Singapore Financial Dialogue in Singapore today. Reaffirming their strong and longstanding partnership, the discussions focused on advancing cooperation in digital finance and innovation, capital markets, sust…"
+    },
     {
       "title": "Black Kite Adds Quantum Readiness Checks for Third-Party Vendors",
       "link": "https://thequantuminsider.com/2026/10/22/black-kite-quantum-readiness-checks-third-party-vendors/",
@@ -24,22 +88,6 @@
       "published": "Thu, 22 Oct 2026 08:37:24 +0000",
       "published_ts": 1792658244,
       "summary": "Insider Brief PRESS RELEASE &#8212; An unpublished manuscript by Erwin Schrödinger shows how apparently random quantum results could follow definite rules, challenging an argument that such explanations were impossible. The handwritten draft, analyzed in a new historical study posted on arXiv, adds…"
-    },
-    {
-      "title": "RhymeQ Secures $2.2 Million to Simplify Quantum Software Development",
-      "link": "https://thequantuminsider.com/2026/10/22/rhymeq-secures-2-2-million-to-simplify-quantum-software-development/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 22 Oct 2026 08:05:00 +0000",
-      "published_ts": 1792656300,
-      "summary": "Insider Brief RhymeQ, a startup making quantum computers accessible to software developers across the world, has raised a $2.2 million pre-seed round led by Ground State Ventures, with participation from Vanagon Ventures, Plug and Play, and Freiraum Ventures. Quantum computers promise to solve signi…"
-    },
-    {
-      "title": "QCentroid Launches Missions for Enterprise Quantum Computing Evaluation",
-      "link": "https://thequantuminsider.com/2026/10/22/qcentroid-launches-missions-for-enterprise-quantum-computing-evaluation/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 22 Oct 2026 06:20:40 +0000",
-      "published_ts": 1792650040,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QCentroid today announced QCentroid Missions, a new goal-driven capability in its QuantumOps platform designed to take enterprise teams from a measurable business objective to validated evidence for deciding whether, and how, to evolve an existing computational so…"
     },
     {
       "title": "Separability does not certify zero-noise extrapolation: Factorial diagnostics in dynamic quantum circuits",
@@ -170,52 +218,12 @@
       "summary": "Scientists from the Quantum Technologies Group at the Institute of Physics Zagreb, in collaboration with a colleague from the Physics Department at the Faculty of Science (PMF), have experimentally demonstrated for the first time the existence of discrete one-dimensional (1D) solitons in an opticall…"
     },
     {
-      "title": "Plurilock Sets Vote on Quantum eMotion Acquisition",
-      "link": "https://thequantuminsider.com/2026/10/21/plurilock-sets-vote-on-quantum-emotion-acquisition/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 21 Oct 2026 15:36:52 +0000",
-      "published_ts": 1792597012,
-      "summary": "Insider Brief Plurilock Security shareholders will vote Nov. 18 on a proposed acquisition by Quantum eMotion, a deal intended to pair quantum-based security technology with an established cybersecurity business and its customer network. Plurilock said in a news release that it has filed and mailed d…"
-    },
-    {
-      "title": "GOTT Funds NPL Project to Scale Trapped-Ion Quantum Technology",
-      "link": "https://thequantuminsider.com/2026/10/21/gott-funds-npl-project-to-scale-trapped-ion-quantum-technology/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 21 Oct 2026 15:16:16 +0000",
-      "published_ts": 1792595776,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The National Physical Laboratory (NPL) has secured funding through the Government Office for Technology Transfer (GOTT) to accelerate the development of next-generation trapped-ion quantum computing technologies, helping address one of the sector&#8217;s most sign…"
-    },
-    {
-      "title": "Before the Qubit",
-      "link": "https://thequantuminsider.com/2026/10/21/before-the-qubit/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 21 Oct 2026 15:13:24 +0000",
-      "published_ts": 1792595604,
-      "summary": "How hybrid infrastructure is making quantum commercially actionable today – and why the organizations building that infrastructure now will be the ones ready when the hardware arrives. Insider Brief The Era Between Eras The prevailing assumption about quantum computing is that fault-tolerant hardwar…"
-    },
-    {
       "title": "Physicists trap and tame single particle of antimatter for months",
       "link": "https://phys.org/news/2026-10-physicists-particle-antimatter-months.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 21 Oct 2026 11:00:10 EDT",
       "published_ts": 1792594810,
       "summary": "For the first time, Northwestern University physicists have coaxed a single positron—the antimatter counterpart of an electron—into an exquisitely controlled quantum state."
-    },
-    {
-      "title": "qBraid Announces qBraid OS For Operating Quantum Computing Services",
-      "link": "https://thequantuminsider.com/2026/10/21/qbraid-announces-qbraid-os-for-operating-quantum-computing-services/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 21 Oct 2026 13:02:32 +0000",
-      "published_ts": 1792587752,
-      "summary": "Insider Brief PRESS RELEASE &#8212; qBraid today introduced qBraid OS, software that quantum hardware providers and system operators can use to run their systems and make them available to users, whether as a commercial service or for internal use. qBraid OS manages access, scheduling and billing fo…"
-    },
-    {
-      "title": "South Korea Expands Quantum Communications Testbeds Through 2028",
-      "link": "https://thequantuminsider.com/2026/10/21/korea-expands-quantum-communications-testbeds-three-hubs/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 21 Oct 2026 12:54:30 +0000",
-      "published_ts": 1792587270,
-      "summary": "Insider Brief South Korea’s government and private companies plan to widen quantum communications testing at home and abroad through commercial, overseas and future hubs, Seoul Economic Daily reported. The three-year effort runs from this year through 2028, with the aim of commercializing domestical…"
     },
     {
       "title": "Atomic memory keeps distant ions entangled for about 10 seconds",
@@ -320,14 +328,6 @@
       "published": "Sun, 18 Oct 2026 13:20:01 EDT",
       "published_ts": 1792344001,
       "summary": "Whether we are waiting for a car windshield to defrost in winter or a warm drink to cool down, how long it takes for an object to settle into a stable, even temperature within its environment (thermal equilibrium) depends on numerous factors. These can include surface area, the material properties o…"
-    },
-    {
-      "title": "Hybrid diamond chip strengthens interactions between light and quantum bits",
-      "link": "https://phys.org/news/2026-10-hybrid-diamond-chip-interactions-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sun, 18 Oct 2026 09:00:05 EDT",
-      "published_ts": 1792328405,
-      "summary": "Researchers have developed and demonstrated a new hybrid photonic platform that integrates quantum emitters with photonic devices, providing a way to reliably control the interaction between photons and quantum information carriers. The chip-based platform, which combines gallium phosphide (GaP) wit…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
