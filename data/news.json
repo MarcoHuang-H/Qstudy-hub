@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1792686630,
+  "generated_ts": 1792703267,
   "items": [
+    {
+      "title": "Diamond laser system achieves 100% optical contrast in magnetic-field readout",
+      "link": "https://phys.org/news/2026-10-diamond-laser-optical-contrast-magnetic.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 22 Oct 2026 14:20:08 EDT",
+      "published_ts": 1792693208,
+      "summary": "Researchers at Fraunhofer IAF have developed a laser-enhanced quantum sensor that combines high magnetic-field sensitivity with a large dynamic range. Using laser threshold magnetometry, they improved the ratio of sensitivity and dynamic range by a factor of up to 590 compared with state-of-the-art…"
+    },
+    {
+      "title": "Quantum interference traps electron waves in metal for first time",
+      "link": "https://phys.org/news/2026-10-quantum-electron-metal.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 22 Oct 2026 14:00:18 EDT",
+      "published_ts": 1792692018,
+      "summary": "Ever since quantum mechanics first described particles, like electrons, as rippling waves, researchers have wondered if those waves could be trapped in place. Writing today in Science a century later, a team of Columbia University researchers reports waves of electrons becoming trapped for the first…"
+    },
+    {
+      "title": "Symmatrics Appoints Andrew Hallman to Strategic Advisory Board",
+      "link": "https://thequantuminsider.com/2026/10/22/symmatrics-andrew-hallman-advisory-board/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 22 Oct 2026 17:26:39 +0000",
+      "published_ts": 1792689999,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Symmatrics, the cybersecurity company pioneering one-time pad encryption at internet scale and building the new trust layer for the AI and post-quantum era, today announced the appointment of Andrew Hallman to its Strategic Advisory Board. Hallman joins the compan…"
+    },
     {
       "title": "Qblox Integrates NVIDIA DGX Spark With Quantum System Controller",
       "link": "https://thequantuminsider.com/2026/10/22/qblox-hybrid-quantum-computing-nvidia-dgx-spark-nvqlink/",
@@ -80,14 +104,6 @@
       "published": "Thu, 22 Oct 2026 09:48:53 +0000",
       "published_ts": 1792662533,
       "summary": "Insider Brief PRESS RELEASE &#8212; Sparrow Quantum today announced that its founder and former Chief Quantum Officer, Professor Peter Lodahl, has been appointed Chief Executive Officer as part of a planned leadership transition. He succeeds Kurt Stokbro, an early investor who led the company’s deve…"
-    },
-    {
-      "title": "Unpublished Schrödinger Manuscript Reveals His Challenge to Quantum Randomness Claims",
-      "link": "https://thequantuminsider.com/2026/10/22/unpublished-schrodinger-manuscript-reveals-his-challenge-to-quantum-randomness-claims/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 22 Oct 2026 08:37:24 +0000",
-      "published_ts": 1792658244,
-      "summary": "Insider Brief PRESS RELEASE &#8212; An unpublished manuscript by Erwin Schrödinger shows how apparently random quantum results could follow definite rules, challenging an argument that such explanations were impossible. The handwritten draft, analyzed in a new historical study posted on arXiv, adds…"
     },
     {
       "title": "Separability does not certify zero-noise extrapolation: Factorial diagnostics in dynamic quantum circuits",
@@ -312,22 +328,6 @@
       "published": "Sun, 18 Oct 2026 14:00:06 EDT",
       "published_ts": 1792346406,
       "summary": "Some quantum systems are so complex that even the most powerful supercomputers struggle to simulate their behavior. One solution is quantum simulation: building a controllable quantum system in the lab and tuning it to mimic the one researchers want to understand."
-    },
-    {
-      "title": "A new way to detect stabilizing properties of optical devices",
-      "link": "https://phys.org/news/2026-10-stabilizing-properties-optical-devices.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sun, 18 Oct 2026 14:00:01 EDT",
-      "published_ts": 1792346401,
-      "summary": "In optical fibers, chips and other light-guiding devices, minor defects can scatter photons and disrupt their path. A new study demonstrates a way to reveal properties which, in certain systems, help light wave behavior withstand such flaws. The method could help speed up the search for new kinds of…"
-    },
-    {
-      "title": "Physicists prove a long-suspected quantum speed limit for thermalization",
-      "link": "https://phys.org/news/2026-10-physicists-quantum-limit-thermalization.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sun, 18 Oct 2026 13:20:01 EDT",
-      "published_ts": 1792344001,
-      "summary": "Whether we are waiting for a car windshield to defrost in winter or a warm drink to cool down, how long it takes for an object to settle into a stable, even temperature within its environment (thermal equilibrium) depends on numerous factors. These can include surface area, the material properties o…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
