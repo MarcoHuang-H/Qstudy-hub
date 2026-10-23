@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1792752911,
+  "generated_ts": 1792772439,
   "items": [
+    {
+      "title": "Governor Hochul Announces New Study Highlighting New York’s Position as a National Leader in Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/10/23/governor-hochul-announces-new-study-highlighting-new-yorks-position-as-a-national-leader-in-quantum-technology/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 23 Oct 2026 14:09:47 +0000",
+      "published_ts": 1792764587,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Governor Kathy Hochul today announced the release of a comprehensive study of New York State’s quantum technology landscape, finding that the Empire State ranks second nationally in quantum-related businesses, research groups and patents. Commissioned by Empire St…"
+    },
+    {
+      "title": "Experiment shows when quantum 'cat' states stop bouncing back",
+      "link": "https://phys.org/news/2026-10-quantum-cat-states.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 23 Oct 2026 08:40:02 EDT",
+      "published_ts": 1792759202,
+      "summary": "Quantum systems can occupy superpositions, quantum states that combine different possibilities. For instance, a microwave field can be prepared in a superposition of an empty state and a state that contains microwave light."
+    },
+    {
+      "title": "Guest Post: Quantum Computing’s Next Phase May Be Driven by Compounding Breakthroughs",
+      "link": "https://thequantuminsider.com/2026/10/23/quantum-computing-compounding-breakthroughs/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 23 Oct 2026 11:31:57 +0000",
+      "published_ts": 1792755117,
+      "summary": "Guest Post by Liam Wang COO, Logical Qubit Technology. The World Economic Forum&#8217;s Quantum Economy Day 2026 was held in Geneva, Switzerland, on October 13–14. Logical Qubit Technology attended as the only quantum computing company representing China. The company&#8217;s Chief Operating Officer,…"
+    },
+    {
+      "title": "IQM and Telefónica Plan Quantum Computer for Madrid University",
+      "link": "https://thequantuminsider.com/2026/10/23/madrid-first-quantum-computer-telefonica-iqm/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 23 Oct 2026 10:40:53 +0000",
+      "published_ts": 1792752053,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Telefónica and IQM Quantum Computers, a global leader in superconducting quantum computing, have joined forces to deploy the first quantum computer in the Community of Madrid. The initiative will strengthen the region’s scientific and technological capabilities, w…"
+    },
+    {
+      "title": "A tiny defect in a crystal reveals a big quantum surprise",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Fri, 23 Oct 2026 06:22:55 EDT",
+      "published_ts": 1792750975,
+      "summary": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light. Their new computational method revealed a surprisingly important energy-loss mechanism in silicon carbide that scientists had previously und…"
+    },
     {
       "title": "Quandela And Quanova Partner to Deploy Vietnam’s First Quantum Computer",
       "link": "https://thequantuminsider.com/2026/10/23/quandela-and-quanova-partner-to-deploy-vietnams-first-quantum-computer/",
@@ -210,30 +250,6 @@
       "summary": "Join us online on October 22 as Quantum Beach 2026 brings researchers, entrepreneurs, investors and industry leaders to the Palm Beach County Convention Center in West Palm Beach, Florida. Explore the ideas, investments and partnerships shaping the quantum economy, from advances in quantum computing…"
     },
     {
-      "title": "SEEQC Combines Chip-Based Processing With NVIDIA AI to Improve Quantum Error Correction",
-      "link": "https://thequantuminsider.com/2026/10/22/seeqc-combines-chip-based-processing-with-nvidia-ai-to-improve-quantum-error-correction/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 22 Oct 2026 12:05:00 +0000",
-      "published_ts": 1792670700,
-      "summary": "Insider Brief PRESS RELEASE &#8212; – &#160;SEEQC, Inc. (“SEEQC” or the “Company”),a chip-based quantum computing company, today announced results demonstrating significant performance improvements in quantum error correction decoding through a digital interface optimized multi-stage decoding archit…"
-    },
-    {
-      "title": "Palm Beach Colleges Connect as Florida Launches Quantum-Safe Network",
-      "link": "https://thequantuminsider.com/2026/10/22/palm-beach-colleges-connect-as-florida-launches-quantum-safe-network/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 22 Oct 2026 11:05:00 +0000",
-      "published_ts": 1792667100,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Palm Beach State College (PBSC) President Ava L. Parker, JD announced Wednesday night that the first segment of Florida&#8217;s statewide quantum-safe network is operational. The system links PBSC to Florida Atlantic University in Boca Raton over Palm Beach County…"
-    },
-    {
-      "title": "UK and Singapore Discuss Quantum Security and Post-Quantum Cryptography",
-      "link": "https://thequantuminsider.com/2026/10/22/11th-uk-singapore-financial-dialogue-october-2026-joint-statement/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 22 Oct 2026 11:00:34 +0000",
-      "published_ts": 1792666834,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The United Kingdom (UK) and Singapore held the 11th UK-Singapore Financial Dialogue in Singapore today. Reaffirming their strong and longstanding partnership, the discussions focused on advancing cooperation in digital finance and innovation, capital markets, sust…"
-    },
-    {
       "title": "Laser-made lattice reveals discrete light solitons in tunable atomic vapor",
       "link": "https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html",
       "source": "Phys.org — Quantum Physics",
@@ -320,14 +336,6 @@
       "published": "Mon, 19 Oct 2026 13:20:18 EDT",
       "published_ts": 1792430418,
       "summary": "The Korea Research Institute of Standards and Science (KRISS) has remeasured a key transition frequency of the strontium (Sr) atom for the first time in 88 years, since 1938, using a photonic grating chip. It has established a new absolute frequency value with a measurement uncertainty reduced by mo…"
-    },
-    {
-      "title": "X-rays reveal surprisingly long-lived spin waves in copper oxide",
-      "link": "https://phys.org/news/2026-10-rays-reveal-copper-oxide.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 19 Oct 2026 11:40:06 EDT",
-      "published_ts": 1792424406,
-      "summary": "Today's computer technology, based on silicon chips, is slowly reaching its physical limits. Components cannot be miniaturized indefinitely, and clock speeds cannot be increased indefinitely. At the same time, huge AI data centers are being built in many places, and these consume an immense amount o…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
@@ -464,14 +472,6 @@
       "published": "Wed, 19 Aug 2026 05:00:00 -0400",
       "published_ts": 1787130000,
       "summary": "A new, scalable technique could enable powerful radars and sensors based on quantum technology that works at room temperature."
-    },
-    {
-      "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Fri, 14 Aug 2026 08:56:01 EDT",
-      "published_ts": 1786712161,
-      "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing micr…"
     },
     {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
