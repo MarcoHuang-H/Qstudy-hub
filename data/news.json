@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1792788871,
+  "generated_ts": 1792810898,
   "items": [
+    {
+      "title": "Counting magnetic flux quanta offers new way to measure photon numbers",
+      "link": "https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 23 Oct 2026 17:20:02 EDT",
+      "published_ts": 1792790402,
+      "summary": "Researchers at AIST have directly observed magnetic flux quanta generated in a superconductor by photon absorption and demonstrated a new principle of photon detection that identifies the number of photons based on the number of these flux quanta."
+    },
     {
       "title": "Governor Hochul Announces New Study Highlighting New York’s Position as a National Leader in Quantum Technology",
       "link": "https://thequantuminsider.com/2026/10/23/governor-hochul-announces-new-study-highlighting-new-yorks-position-as-a-national-leader-in-quantum-technology/",
@@ -328,14 +336,6 @@
       "published": "Mon, 19 Oct 2026 13:40:04 EDT",
       "published_ts": 1792431604,
       "summary": "Voltage fluctuations, light fluctuations, temperature fluctuations—any fluctuations are troublesome and thus undesirable. They don't just cause discomfort; in engineering and medical applications, they affect the accuracy of measurements or introduce errors in controls. Even at the minute level of q…"
-    },
-    {
-      "title": "Scientists redetermine a key strontium frequency with 50 times better precision for quantum technologies",
-      "link": "https://phys.org/news/2026-10-scientists-redetermine-key-strontium-frequency.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 19 Oct 2026 13:20:18 EDT",
-      "published_ts": 1792430418,
-      "summary": "The Korea Research Institute of Standards and Science (KRISS) has remeasured a key transition frequency of the strontium (Sr) atom for the first time in 88 years, since 1938, using a photonic grating chip. It has established a new absolute frequency value with a measurement uncertainty reduced by mo…"
     },
     {
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
