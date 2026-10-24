@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1792810898,
+  "generated_ts": 1792836597,
   "items": [
+    {
+      "title": "Mehmet Sanliol (Evercore): Why quantum valuations hinge on 2030 revenue multiples and consolidation",
+      "link": "https://thequantuminsider.com/2026/10/24/mehmet-sanliol-evercore-why-quantum-valuations-hinge-on-2030-revenue-multiples-and-consolidation/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 24 Oct 2026 07:00:00 +0000",
+      "published_ts": 1792825200,
+      "summary": "Yuval Boger interviews Mehmet Sanliol, managing director at Evercore covering quantum technologies and semiconductors. They discuss how investors value public quantum companies, when private companies should consider IPOs or SPACs, and why consolidation may shape the next phase of the industry. Mehm…"
+    },
     {
       "title": "Counting magnetic flux quanta offers new way to measure photon numbers",
       "link": "https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html",
@@ -74,126 +82,6 @@
       "summary": "What would it take to watch an electron move through a material? Researchers would need to see individual atoms and capture an electron's motion at incredibly short timescales. A Technion-led team has brought those two capabilities together in a scanning tunneling microscope, using carefully shaped…"
     },
     {
-      "title": "Lean-QuantumAlg: A Framework for AI Agents to Produce Quantum Algorithms that Humans Can Trust",
-      "link": "https://arxiv.org/abs/2610.30216",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30216v1 Announce Type: new  Abstract: AI agents are increasingly capable of constructing quantum algorithms and proofs, yet machine-checked proofs alone cannot guarantee that the intended problem is solved or that resource claims match the verified computation.Here we introduce Lean-Quant…"
-    },
-    {
-      "title": "Scalable Neural Wave Functions via Information Mixing and Hierarchical Network Architectures",
-      "link": "https://arxiv.org/abs/2610.30257",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30257v1 Announce Type: new  Abstract: Numerically simulating quantum many-body systems is one of the central challenges in modern physics, as the exponential growth of the Hilbert space with system size renders large-scale exact solutions intractable. Over the past decade, generative arti…"
-    },
-    {
-      "title": "Transversal syndrome extraction: A unifying construction for measuring the error syndromes of any stabilizer code",
-      "link": "https://arxiv.org/abs/2610.30279",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30279v1 Announce Type: new  Abstract: Fault-tolerant syndrome extraction is fundamental to stabilizer-code-based quantum error correction, yet existing general protocols incur substantial costs in either circuit depth or width. In this work, we design ancilla stabilizer states for a gener…"
-    },
-    {
-      "title": "Pure states are optimal for total energy-constrained quantum channel discrimination",
-      "link": "https://arxiv.org/abs/2610.30295",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30295v1 Announce Type: new  Abstract: We consider the discrimination of two quantum channels acting on bosonic modes, with a probe state of fixed mean photon number and no ancilla. We prove that pure probes are optimal: for every mixed probe there is a pure probe with exactly the same mea…"
-    },
-    {
-      "title": "Dealing with low-weight errors that lead BP OSD to fail",
-      "link": "https://arxiv.org/abs/2610.30305",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30305v1 Announce Type: new  Abstract: Belief Propagation combined with Ordered Statistics Decoding (BP OSD) is an open-source decoding tool used widely within the community due to its versatility and ease of application to Quantum Low Density Parity Check (QLDPC) codes. However, the degen…"
-    },
-    {
-      "title": "Normal-Form Characterization of Adaptivity and Entanglement in Pauli-Based Computation",
-      "link": "https://arxiv.org/abs/2610.30315",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30315v1 Announce Type: new  Abstract: Pauli-based computation (PBC) is a measurement-based model of quantum computation that samples from output distributions of universal Clifford+$T$ circuits. Here, we provide a normal form (NF) that completely characterizes its adaptive and entanglemen…"
-    },
-    {
-      "title": "Delta-Doped GeV$^-$ in diamond with isotope resolvable optical spectra",
-      "link": "https://arxiv.org/abs/2610.30375",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30375v1 Announce Type: new  Abstract: Group IV color centers in diamond -- silicon, germanium, tin, and lead-vacancy centers -- are a promising platform for quantum networking. Typical Group-IV creation utilizes ion implantation during diamond growth that leaves the color centers with a b…"
-    },
-    {
-      "title": "Memory--Transport Competition in Physical Two-Bath Quantum Reset Dynamics",
-      "link": "https://arxiv.org/abs/2610.30457",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30457v1 Announce Type: new  Abstract: Coherence preservation and environmental renewal offer competing ways of controlling quantum memory and transport. We show that a seemingly natural protocol which exactly replaces the bath occupations while preserving arbitrary system--bath coherences…"
-    },
-    {
-      "title": "Distributed dual-comb spectroscopy",
-      "link": "https://arxiv.org/abs/2610.30462",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30462v1 Announce Type: new  Abstract: We propose distributed dual-comb spectroscopy, a quantum-enhanced sensing architecture that simultaneously exploits spatial- and spectral-domain entanglement to improve the extraction of global spectroscopic information across broadband frequency rang…"
-    },
-    {
-      "title": "Photon localization: Local measurements, localized states, and causality",
-      "link": "https://arxiv.org/abs/2610.30473",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30473v1 Announce Type: new  Abstract: We review what it means for a relativistic particle to be localized and argue that the most useful approach is through local measurement. This perspective ties localization directly to relativistic causality and measurable outcomes in spacetime. Stric…"
-    },
-    {
-      "title": "On the Role of Problem Structure in Single-Layer QAOA",
-      "link": "https://arxiv.org/abs/2610.30511",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30511v1 Announce Type: new  Abstract: Problem structure is regarded as a key factor influencing the performance of the Quantum Approximate Optimization Algorithm (QAOA), yet it remains an informal notion without a precise mathematical characterization. In this work, we address this issue…"
-    },
-    {
-      "title": "Probing quasiperiodic spectral accessibility with a finite-rate quantum Otto cycle",
-      "link": "https://arxiv.org/abs/2610.30555",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30555v1 Announce Type: new  Abstract: Quasiperiodic systems combine sharply different spectral and localisation regimes with a dense hierarchy of dynamical time scales. We show that a finite-rate quantum Otto cycle can use this structure as a thermodynamic probe, revealing which parts of…"
-    },
-    {
-      "title": "Mode-Selective Micromotion Compensation via Coherent Excitation of a Ground-State-Cooled Motional Mode",
-      "link": "https://arxiv.org/abs/2610.30614",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30614v1 Announce Type: new  Abstract: Excess micromotion induced by stray DC electric fields limits the control fidelity of trapped-ion experiments. Various techniques have been developed to detect and compensate ion displacements from the RF null by monitoring modulated fluorescence, ion…"
-    },
-    {
-      "title": "On the Structure of Quantum Finite-Level Systems: Decoherence-Free Subsystems, Quantum Nondemolition Variables, and Back-Action-Evading Measurements",
-      "link": "https://arxiv.org/abs/2610.30616",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30616v1 Announce Type: new  Abstract: The purpose of this paper is to conduct a comprehensive structural analysis of quantum finite-level systems in the Heisenberg picture, where the evolution of system observables is modeled by bilinear quantum stochastic differential equations (QSDEs).…"
-    },
-    {
-      "title": "Coherence and imaginarity of qubit states under vanishing Bargmann invariants",
-      "link": "https://arxiv.org/abs/2610.30618",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0400",
-      "published_ts": 1792728000,
-      "summary": "arXiv:2610.30618v1 Announce Type: new  Abstract: Set coherence and set imaginarity are two important quantum resources defined by sets of states. We investigate tuples of qubit states under vanishing higher-order Bargmann invariants and show that their set coherence and set imaginarity are each rela…"
-    },
-    {
       "title": "Diamond laser system achieves 100% optical contrast in magnetic-field readout",
       "link": "https://phys.org/news/2026-10-diamond-laser-optical-contrast-magnetic.html",
       "source": "Phys.org — Quantum Physics",
@@ -248,14 +136,6 @@
       "published": "Thu, 22 Oct 2026 09:00:01 EDT",
       "published_ts": 1792674001,
       "summary": "Unlike classical physics, quantum mechanics generally cannot tell us exactly what will happen in an individual event. Instead, it predicts the probabilities of different outcomes. As one of the theory's early pioneers, Erwin Schrödinger played a key role in debates about what this randomness really…"
-    },
-    {
-      "title": "Quantum Beach 2026 — Official Livestream",
-      "link": "https://thequantuminsider.com/2026/10/22/quantum-beach-2026-official-livestream/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 22 Oct 2026 12:55:00 +0000",
-      "published_ts": 1792673700,
-      "summary": "Join us online on October 22 as Quantum Beach 2026 brings researchers, entrepreneurs, investors and industry leaders to the Palm Beach County Convention Center in West Palm Beach, Florida. Explore the ideas, investments and partnerships shaping the quantum economy, from advances in quantum computing…"
     },
     {
       "title": "Laser-made lattice reveals discrete light solitons in tunable atomic vapor",
