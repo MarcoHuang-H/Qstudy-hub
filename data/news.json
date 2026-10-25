@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1792942024,
+  "generated_ts": 1792959508,
   "items": [
+    {
+      "title": "Supercurrent enables the reading of quantum information without destroying it",
+      "link": "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 25 Oct 2026 15:00:20 EDT",
+      "published_ts": 1792954820,
+      "summary": "One of the fundamental challenges of quantum computing is obtaining information from a quantum bit, or qubit. Unlike a conventional bit, which can be read repeatedly without altering its content, direct measurement of a quantum system typically causes the state to collapse before it can be determine…"
+    },
     {
       "title": "'One-positron cyclotron' could test a key prediction of the Standard Model",
       "link": "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html",
@@ -200,14 +208,6 @@
       "published": "Tue, 20 Oct 2026 11:50:01 EDT",
       "published_ts": 1792511401,
       "summary": "For nearly a century, physicists have relied on the Born rule to calculate the chances of different outcomes when they measure a quantum system. Yet despite decades of effort, nobody has managed to derive the rule from more basic mathematical principles without making assumptions about probability a…"
-    },
-    {
-      "title": "A quantum pathway to entropy-free energy transfer",
-      "link": "https://phys.org/news/2026-10-quantum-pathway-entropy-free-energy.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 20 Oct 2026 11:00:01 EDT",
-      "published_ts": 1792508401,
-      "summary": "For scientists, breakthroughs often stem from unexpected turns. A research team led by Oscar Dahlsten, an associate professor in the Department of Physics at City University of Hong Kong (CityUHK), set out to prove a theoretical limitation, only to discover a quantum solution. The finding breaks tra…"
     },
     {
       "title": "Scientists reach the ultimate quantum limit on a surface",
