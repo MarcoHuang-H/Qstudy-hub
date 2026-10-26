@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1793016508,
+  "generated_ts": 1793052793,
   "items": [
+    {
+      "title": "Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform",
+      "link": "https://thequantuminsider.com/2026/10/26/intel-to-acquire-classiq-to-create-a-full-stack-quantum-computing-platform/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 26 Oct 2026 20:55:35 +0000",
+      "published_ts": 1793048135,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Intel Corporation today announced that it has entered into a definitive agreement to acquire Classiq, a leading provider of quantum computing software. The combination of Classiq’s synthesis platform with Intel’s spin-qubit manufacturing and existing software woul…"
+    },
+    {
+      "title": "IDEMIA Secure Transactions Collaborates With KT in Advancing Post-Quantum Security For South Korea’s Defense Communications",
+      "link": "https://thequantuminsider.com/2026/10/26/idemia-secure-transactions-collaborates-with-kt-in-advancing-post-quantum-security-for-south-koreas-defense-communications/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 26 Oct 2026 16:38:00 +0000",
+      "published_ts": 1793032680,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IDEMIA Secure Transactions (IST), a global leader in payment, connectivity and cybersecurity, is collaborating with KT, a major South Korean mobile network operator, on South Korea’s 2026 Post-Quantum Cryptography (PQC) Pilot Conversion Project. The project is org…"
+    },
+    {
+      "title": "Diamond defects confirm 80-year-old theory of crystal stress",
+      "link": "https://phys.org/news/2026-10-diamond-defects-year-theory-crystal.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 26 Oct 2026 10:30:01 EDT",
+      "published_ts": 1793025001,
+      "summary": "For the first time, researchers in Japan have directly mapped several components of the stress field surrounding an atomic-scale flaw in the crystal structure of diamond. Led by Tokuyuki Teraji at Japan's National Institute for Materials Science, the team achieved its result using nitrogen-vacancy (…"
+    },
+    {
+      "title": "Israel Ranks Fourth in Private Quantum Investment as Sector Expands, According to Report",
+      "link": "https://thequantuminsider.com/2026/10/26/israel-ranks-fourth-in-private-quantum-investment-as-sector-expands-according-to-report/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 26 Oct 2026 13:49:02 +0000",
+      "published_ts": 1793022542,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A new report by the Israel Innovation Authority and C4IR Israel (which operates within the Israel Innovation Authority and is part of the World Economic Forum’s global C4IR Network), was released today, titled “Israel’s Quantum Ecosystem: Making Quantum Leaps Thro…"
+    },
+    {
+      "title": "One extra quantum dot helps balance speed and stability in spin qubits",
+      "link": "https://phys.org/news/2026-10-extra-quantum-dot-stability-qubits.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 26 Oct 2026 09:40:06 EDT",
+      "published_ts": 1793022006,
+      "summary": "Quantum computers need qubits that can be controlled both quickly and reliably. Yet making semiconductor spin qubits faster often makes them more sensitive to electrical noise, creating a difficult trade-off."
+    },
+    {
+      "title": "Quantum Art Research Outlines More Efficient Quantum Approach to Wave Modeling",
+      "link": "https://thequantuminsider.com/2026/10/26/quantum-art-research-outlines-more-efficient-quantum-approach-to-wave-modeling/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 26 Oct 2026 13:07:01 +0000",
+      "published_ts": 1793020021,
+      "summary": "Insider Brief PRESS RELEASE &#8212; – Quantum Art, a developer of full-stack, fault tolerant quantum computers based on trapped-ion qubits and a proprietary, dynamically reconfigurable multi-core architecture, recently presented new research, detailed in this paper, that solves wave-propagation prob…"
+    },
+    {
+      "title": "Report: UK’s £30 Million Quantum Testbed Program Helps Suppliers Advance Toward Commercial Deployment",
+      "link": "https://thequantuminsider.com/2026/10/26/report-uks-30-million-quantum-testbed-program-helps-suppliers-advance-toward-commercial-deployment/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 26 Oct 2026 12:57:54 +0000",
+      "published_ts": 1793019474,
+      "summary": "Insider Brief Britain’s £30 million quantum computing testbed program helped seven hardware suppliers develop systems for use outside their own laboratories, offering lessons in installation, reliability and customer support as the country begins a broader evaluation of the machines, according to a…"
+    },
     {
       "title": "Ramdeobaba University and QClairvoyance Quantum Labs to Set Up Quantum Software and Quantum Communication Labs in Nagpur",
       "link": "https://thequantuminsider.com/2026/10/26/ramdeobaba-university-and-qclairvoyance-quantum-labs-to-set-up-quantum-software-and-quantum-communication-labs-in-nagpur/",
@@ -210,36 +266,12 @@
       "summary": "Guest Post by Liam Wang COO, Logical Qubit Technology. The World Economic Forum&#8217;s Quantum Economy Day 2026 was held in Geneva, Switzerland, on October 13–14. Logical Qubit Technology attended as the only quantum computing company representing China. The company&#8217;s Chief Operating Officer,…"
     },
     {
-      "title": "IQM and Telefónica Plan Quantum Computer for Madrid University",
-      "link": "https://thequantuminsider.com/2026/10/23/madrid-first-quantum-computer-telefonica-iqm/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 23 Oct 2026 10:40:53 +0000",
-      "published_ts": 1792752053,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Telefónica and IQM Quantum Computers, a global leader in superconducting quantum computing, have joined forces to deploy the first quantum computer in the Community of Madrid. The initiative will strengthen the region’s scientific and technological capabilities, w…"
-    },
-    {
       "title": "A tiny defect in a crystal reveals a big quantum surprise",
       "link": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Fri, 23 Oct 2026 06:22:55 EDT",
       "published_ts": 1792750975,
       "summary": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light. Their new computational method revealed a surprisingly important energy-loss mechanism in silicon carbide that scientists had previously und…"
-    },
-    {
-      "title": "Quandela And Quanova Partner to Deploy Vietnam’s First Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/10/23/quandela-and-quanova-partner-to-deploy-vietnams-first-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 23 Oct 2026 08:30:23 +0000",
-      "published_ts": 1792744223,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quandela, a European leader in photonic quantum computing, announces a major milestone in its expansion in Southeast Asia. Quanova, a Vietnamese quantum company, has selected Quandela’s MosaiQ solution as the foundation of a new quantum research, innovation, servi…"
-    },
-    {
-      "title": "Google Launches $150,000 AI Competition to Reduce Quantum Computing Demands",
-      "link": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 23 Oct 2026 08:12:25 +0000",
-      "published_ts": 1792743145,
-      "summary": "Insider Brief Google Quantum AI is launching a competition to use artificial intelligence to shrink the circuits needed for useful quantum computing. The competition offers a total prize pool of $150,000, organizers said. The competition, hosted on Kaggle, challenges participants to reduce the numbe…"
     },
     {
       "title": "Light-based method enables precise control of ultrafast electron flow in a scanning tunneling microscope",
@@ -264,22 +296,6 @@
       "published": "Thu, 22 Oct 2026 14:00:18 EDT",
       "published_ts": 1792692018,
       "summary": "Ever since quantum mechanics first described particles, like electrons, as rippling waves, researchers have wondered if those waves could be trapped in place. Writing today in Science a century later, a team of Columbia University researchers reports waves of electrons becoming trapped for the first…"
-    },
-    {
-      "title": "Symmatrics Appoints Andrew Hallman to Strategic Advisory Board",
-      "link": "https://thequantuminsider.com/2026/10/22/symmatrics-andrew-hallman-advisory-board/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 22 Oct 2026 17:26:39 +0000",
-      "published_ts": 1792689999,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Symmatrics, the cybersecurity company pioneering one-time pad encryption at internet scale and building the new trust layer for the AI and post-quantum era, today announced the appointment of Andrew Hallman to its Strategic Advisory Board. Hallman joins the compan…"
-    },
-    {
-      "title": "Qblox Integrates NVIDIA DGX Spark With Quantum System Controller",
-      "link": "https://thequantuminsider.com/2026/10/22/qblox-hybrid-quantum-computing-nvidia-dgx-spark-nvqlink/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 22 Oct 2026 13:40:34 +0000",
-      "published_ts": 1792676434,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qblox, a leader in scalable quantum control architecture, today announced the integration of NVIDIA DGX Spark with a quantum system controller using NVIDIA NVQLink, achieving measured roundtrip latency below 4.0 µs on NVIDIA RTX PRO 6000 Blackwell and below 7.2 µs…"
     },
     {
       "title": "Lost Schrödinger manuscript reveals his true view of quantum randomness",
@@ -328,22 +344,6 @@
       "published": "Tue, 20 Oct 2026 14:00:31 EDT",
       "published_ts": 1792519231,
       "summary": "Light is one of the most powerful tools scientists have for probing matter. By interacting with electrons, light reveals how atoms, molecules and materials are structured and how they evolve in time. Highly energetic ultraviolet and X-ray photons are particularly attractive because they can access e…"
-    },
-    {
-      "title": "Individual atomic collisions can now be detected in the lab, potentially opening up pathways to new physics",
-      "link": "https://phys.org/news/2026-10-individual-atomic-collisions-lab-potentially.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 20 Oct 2026 13:10:01 EDT",
-      "published_ts": 1792516201,
-      "summary": "Tiny atoms and molecules are constantly bombarding each other all around us. While we regularly measure the large-scale effects of these interactions, measuring the effect of each individual collision is far more difficult. But now, researchers have managed to measure how tiny gas particles affect a…"
-    },
-    {
-      "title": "Quantum probability can't be derived without assuming it first",
-      "link": "https://phys.org/news/2026-10-quantum-probability-derived-assuming.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 20 Oct 2026 11:50:01 EDT",
-      "published_ts": 1792511401,
-      "summary": "For nearly a century, physicists have relied on the Born rule to calculate the chances of different outcomes when they measure a quantum system. Yet despite decades of effort, nobody has managed to derive the rule from more basic mathematical principles without making assumptions about probability a…"
     },
     {
       "title": "Scientists reach the ultimate quantum limit on a surface",
