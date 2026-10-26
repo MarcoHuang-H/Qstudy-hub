@@ -1,6 +1,158 @@
 {
-  "generated_ts": 1792983259,
+  "generated_ts": 1793016508,
   "items": [
+    {
+      "title": "Ramdeobaba University and QClairvoyance Quantum Labs to Set Up Quantum Software and Quantum Communication Labs in Nagpur",
+      "link": "https://thequantuminsider.com/2026/10/26/ramdeobaba-university-and-qclairvoyance-quantum-labs-to-set-up-quantum-software-and-quantum-communication-labs-in-nagpur/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 26 Oct 2026 10:56:01 +0000",
+      "published_ts": 1793012161,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Ramdeobaba University (RBU), Nagpur, and QClairvoyance Quantum Labs Pvt. Ltd., a deep-tech startup based in Secunderabad, have signed a Memorandum of Understanding (MoU) to establish two specialised laboratories on the RBU campus: a quantum software lab and a quan…"
+    },
+    {
+      "title": "Tiny magnetic vortices could help computers work more like your brain",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Mon, 26 Oct 2026 06:06:16 EDT",
+      "published_ts": 1793009176,
+      "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy…"
+    },
+    {
+      "title": "Qubit’s Own Electric Current Could Offer a Simpler Readout Method",
+      "link": "https://thequantuminsider.com/2026/10/26/qubits-own-electric-current-could-offer-a-simpler-readout-method/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 26 Oct 2026 07:12:01 +0000",
+      "published_ts": 1792998721,
+      "summary": "Insider Brief PRESS RELEASE &#8212; One of the fundamental challenges of quantum computing is obtaining information from a quantum bit, or qubit. Unlike a conventional bit, which can be read repeatedly without altering its content, direct measurement of a quantum system typically causes the state to…"
+    },
+    {
+      "title": "Verified Pauli-Product Measurement Compilation for Fault-Tolerant Quantum Computation",
+      "link": "https://arxiv.org/abs/2610.31694",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.31694v1 Announce Type: new  Abstract: Fault-tolerant quantum compilers implement gates through Pauli-product measurements and classical feedback. Verifying such a compiler requires reasoning about the quantum state and the recorded outcomes together: a correction reads an outcome, a gate'…"
+    },
+    {
+      "title": "Mutual Information Across Quantum Reference Frame Perspectives",
+      "link": "https://arxiv.org/abs/2610.31729",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.31729v1 Announce Type: new  Abstract: In quantum information theory, standard notions typically presuppose a fixed partition of the world into subsystems, encoded in a tensor product structure of the Hilbert space. Yet, in some scenarios, the subsystem structure is not uniquely fixed. A c…"
+    },
+    {
+      "title": "The Entire Quantum Computer on a Classical Leash",
+      "link": "https://arxiv.org/abs/2610.31775",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.31775v1 Announce Type: new  Abstract: We show that a classical client with no quantum hardware can use a single untrusted and potentially malicious quantum server as if it were its own trusted quantum computer. Through the server, the client can privately choose and run quantum computatio…"
+    },
+    {
+      "title": "Quantum Complexity and Stabilizer-State Expansions: From Pairing to Deformation in Fermionic Systems",
+      "link": "https://arxiv.org/abs/2610.31792",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.31792v1 Announce Type: new  Abstract: Understanding how collective phenomena such as pairing and deformation emerge in interacting fermionic systems, and how the correlations underlying them shape the resources required for their simulation, is a central challenge in many-body physics. We…"
+    },
+    {
+      "title": "Temporal Degeneracy Limits Message Passing Decoding of QLDPC Codes Under Repeated Noisy Syndrome Measurements",
+      "link": "https://arxiv.org/abs/2610.31877",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.31877v1 Announce Type: new  Abstract: Practical quantum computations can require logical error rates of $10^{-12}$ or lower. Quantum low-density parity-check (QLDPC) codes are promising candidates for reaching such rates with low qubit overhead, provided that their syndromes can be decode…"
+    },
+    {
+      "title": "Optimal Control of a Fluxonium Circuit with the Q-PRONTO Numerical Method",
+      "link": "https://arxiv.org/abs/2610.31885",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.31885v1 Announce Type: new  Abstract: Optimizing the control of large quantum systems is a resource-intensive task, where the convergence rate of the underlying iterative schemes is crucial. The recently developed Quantum Projection Operator-Based Newton Method for Trajectory Optimization…"
+    },
+    {
+      "title": "Graphical Rigidity of Continuous Variable Graph States under Gaussian Local Transformations",
+      "link": "https://arxiv.org/abs/2610.31933",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.31933v1 Announce Type: new  Abstract: Multimode entangled pure Gaussian states are an essential resource for continuous variable (CV) quantum information processing. Menicucci et al. [2011] have shown how to describe them as graphs with complex adjacency matrices. Among such complex graph…"
+    },
+    {
+      "title": "Fidelity Dynamics of a Jaynes--Cummings Qubit under Markovian and Non-Markovian Coupling Noise",
+      "link": "https://arxiv.org/abs/2610.31938",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.31938v1 Announce Type: new  Abstract: We analytically investigate the fidelity dynamics of a Jaynes--Cummings qubit coupled to a single-mode cavity in the presence of stochastic fluctuations of the qubit--cavity coupling. Such fluctuations naturally arise in cavity- and circuit-QED platfo…"
+    },
+    {
+      "title": "Noise-Assisted Quantum Entanglement: Memory-Enhanced Coherence in Stochastic Jaynes-Cummings Dynamics",
+      "link": "https://arxiv.org/abs/2610.31947",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.31947v1 Announce Type: new  Abstract: We investigate qubit entanglement dynamics in a two-qubit cavity system with stochastically fluctuating coupling strength, comparing white noise (Markovian) and Ornstein-Uhlenbeck noise (non-Markovian) processes. We analytically solve the system dynam…"
+    },
+    {
+      "title": "Demonstrating RFSoC-based Control of a Fully Connected Exchange-Only Qubit",
+      "link": "https://arxiv.org/abs/2610.31998",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.31998v1 Announce Type: new  Abstract: Semiconductor triple-quantum dots (TQDs) are a promising platform for scalable quantum information processing, but the community has so far lacked access to affordable and flexible high-speed control electronics. SpinQICK, an open-source spin qubit-co…"
+    },
+    {
+      "title": "QuantumMatterExplorer: An Autonomous Agent for the Discovery of Quantum Many-Body Phases of Matter",
+      "link": "https://arxiv.org/abs/2610.32001",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.32001v1 Announce Type: new  Abstract: Mapping the phase diagram of a new quantum Hamiltonian demands expert judgement at every step: which observables to measure, where in parameter space to compute, or how to separate genuine order from finite-size artefacts. We introduce QuantumMatterEx…"
+    },
+    {
+      "title": "Additive uncertainty relations via pseudospectral methods",
+      "link": "https://arxiv.org/abs/2610.32014",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.32014v1 Announce Type: new  Abstract: Given Hermitian observable $A$, the variance of $A$ is given by the difference of expectations $\\langle A^2\\rangle - \\langle A\\rangle^2$, where the expectation of an observable implicitly assumes a choice of state for the underlying system. As a sub-c…"
+    },
+    {
+      "title": "Asymptotic scars arising from the remnants of quantum phase transitions",
+      "link": "https://arxiv.org/abs/2610.32037",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.32037v1 Announce Type: new  Abstract: Many-body localisation, Hilbert space fragmentation and quantum many-body scars (QMBS) are well-established mechanisms of ergodicity breaking in quantum systems. Recently, asymptotic quantum many-body scars (AQMBS), non-thermal states whose stability…"
+    },
+    {
+      "title": "Robustness of Quantum Correlations and Controlled Teleportation Fidelity under Noisy Channels",
+      "link": "https://arxiv.org/abs/2610.32049",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.32049v1 Announce Type: new  Abstract: In distributed quantum computing, quantum networks provide a potential infrastructure for long-range quantum information processing. Controlled quantum teleportation (CQT) is a key practically relevant protocol that can connect two parties on a networ…"
+    },
+    {
+      "title": "Real-space construction and selection rules of center-of-mass momentum eigenstates in two-dimensional many-body lattices",
+      "link": "https://arxiv.org/abs/2610.32054",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "published_ts": 1792987200,
+      "summary": "arXiv:2610.32054v1 Announce Type: new  Abstract: We present a comprehensive framework for the real-space construction of center-of-mass (c.m.) momentum eigenstates in two-dimensional (2D) quantum many-body systems. Unlike standard momentum-space approaches, our real-space formalism explicitly captur…"
+    },
+    {
+      "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Sun, 25 Oct 2026 21:42:48 EDT",
+      "published_ts": 1792978968,
+      "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door t…"
+    },
     {
       "title": "Supercurrent enables the reading of quantum information without destroying it",
       "link": "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html",
@@ -128,22 +280,6 @@
       "published": "Thu, 22 Oct 2026 13:40:34 +0000",
       "published_ts": 1792676434,
       "summary": "Insider Brief PRESS RELEASE &#8212; Qblox, a leader in scalable quantum control architecture, today announced the integration of NVIDIA DGX Spark with a quantum system controller using NVIDIA NVQLink, achieving measured roundtrip latency below 4.0 µs on NVIDIA RTX PRO 6000 Blackwell and below 7.2 µs…"
-    },
-    {
-      "title": "ZuriQ and Rhonexum Partner on Cryogenic Electronics for Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/10/22/zuriq-rhonexum-cryogenic-electronics-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 22 Oct 2026 13:28:24 +0000",
-      "published_ts": 1792675704,
-      "summary": "Insider Brief PRESS RELEASE &#8212; ZuriQ and Rhonexum have announced a multi-year commercial framework agreement. Under the agreement, Rhonexum will supply cryogenic integrated-circuit technologies and customisation services to ZuriQ, which will evaluate the potential of each of these solutions to…"
-    },
-    {
-      "title": "Ericsson Canada and ÉTS Partner on Quantum Computing Research",
-      "link": "https://thequantuminsider.com/2026/10/22/ericsson-canada-ets-quantum-computing-research/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 22 Oct 2026 13:20:37 +0000",
-      "published_ts": 1792675237,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Ericsson Canada and École de technologie supérieure (ÉTS) have teamed up to further quantum computing research in Quebec, one of the country’s primary quantum computing centres. With support from the Mitacs Accelerate program, the project aims to develop better qu…"
     },
     {
       "title": "Lost Schrödinger manuscript reveals his true view of quantum randomness",
@@ -328,22 +464,6 @@
       "published": "Mon, 31 Aug 2026 15:30:00 -0400",
       "published_ts": 1788204600,
       "summary": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research."
-    },
-    {
-      "title": "A “quantum bath” puts quantum entanglement on autopilot",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Mon, 31 Aug 2026 09:08:37 EDT",
-      "published_ts": 1788181717,
-      "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a “quantum bath,” a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangle…"
-    },
-    {
-      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Sun, 30 Aug 2026 10:08:13 EDT",
-      "published_ts": 1788098893,
-      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was r…"
     },
     {
       "title": "Securing wireless communication in next-generation devices",
