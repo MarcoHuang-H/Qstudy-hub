@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1793121581,
+  "generated_ts": 1793137477,
   "items": [
+    {
+      "title": "Quantum gates set speed record at 6.8 nanoseconds with over 99.98% accuracy",
+      "link": "https://phys.org/news/2026-10-quantum-gates-nanoseconds-accuracy.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 27 Oct 2026 14:40:12 EDT",
+      "published_ts": 1793126412,
+      "summary": "Researchers from Jülich, Aachen and Cologne have performed a quantum operation on a qubit in just 6.8 nanoseconds—with more than 99.98% accuracy. Such operations typically take several tens of nanoseconds in superconducting quantum computers. The paper was published in Nature Communications."
+    },
+    {
+      "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+      "link": "https://thequantuminsider.com/2026/10/27/nist-report-provides-guidelines-for-transition-to-post-quantum-cryptography-standards/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 27 Oct 2026 18:24:05 +0000",
+      "published_ts": 1793125445,
+      "summary": "Insider Brief PRESS RELEASE &#8212; In August 2024, the National Institute of Standards and Technology (NIST) released post-quantum cryptography (PQC) standards made to withstand the assault of a future quantum computer. Now, the agency has released its high-level road map to help organizations swit…"
+    },
+    {
+      "title": "Quantum sensor loop design could improve magnetic measurements for medicine and communications",
+      "link": "https://phys.org/news/2026-10-quantum-sensor-loop-magnetic-medicine.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 27 Oct 2026 13:40:06 EDT",
+      "published_ts": 1793122806,
+      "summary": "Adelaide University quantum engineers have found a new way to improve some of the world's most sensitive sensors of electromagnetic fields, a breakthrough that could help advance brain imaging, medical diagnostics, communications technology and next-generation quantum devices."
+    },
+    {
+      "title": "QuantrolOx Raises €12 Million in Series A2",
+      "link": "https://thequantuminsider.com/2026/10/27/quantrolox-raises-e12-million-in-series-a2/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 27 Oct 2026 16:57:14 +0000",
+      "published_ts": 1793120234,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuantrolOx, University of Oxford spinout headquartered in Finland with offices in the UK, Netherlands, US and India, has raised €12 million in a Series A2 funding round led by IW Capital, with co-investment from the European Innovation Council (EIC) Fund. The roun…"
+    },
     {
       "title": "Guest Post: The Next Threat to Encryption May Not Need a Quantum Computer",
       "link": "https://thequantuminsider.com/2026/10/27/guest-post-the-next-threat-to-encryption-may-not-need-a-quantum-computer/",
@@ -88,22 +120,6 @@
       "published": "Mon, 26 Oct 2026 09:40:06 EDT",
       "published_ts": 1793022006,
       "summary": "Quantum computers need qubits that can be controlled both quickly and reliably. Yet making semiconductor spin qubits faster often makes them more sensitive to electrical noise, creating a difficult trade-off."
-    },
-    {
-      "title": "Quantum Art Research Outlines More Efficient Quantum Approach to Wave Modeling",
-      "link": "https://thequantuminsider.com/2026/10/26/quantum-art-research-outlines-more-efficient-quantum-approach-to-wave-modeling/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 26 Oct 2026 13:07:01 +0000",
-      "published_ts": 1793020021,
-      "summary": "Insider Brief PRESS RELEASE &#8212; – Quantum Art, a developer of full-stack, fault tolerant quantum computers based on trapped-ion qubits and a proprietary, dynamically reconfigurable multi-core architecture, recently presented new research, detailed in this paper, that solves wave-propagation prob…"
-    },
-    {
-      "title": "Report: UK’s £30 Million Quantum Testbed Program Helps Suppliers Advance Toward Commercial Deployment",
-      "link": "https://thequantuminsider.com/2026/10/26/report-uks-30-million-quantum-testbed-program-helps-suppliers-advance-toward-commercial-deployment/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 26 Oct 2026 12:57:54 +0000",
-      "published_ts": 1793019474,
-      "summary": "Insider Brief Britain’s £30 million quantum computing testbed program helped seven hardware suppliers develop systems for use outside their own laboratories, offering lessons in installation, reliability and customer support as the country begins a broader evaluation of the machines, according to a…"
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
@@ -328,22 +344,6 @@
       "published": "Wed, 21 Oct 2026 11:00:10 EDT",
       "published_ts": 1792594810,
       "summary": "For the first time, Northwestern University physicists have coaxed a single positron—the antimatter counterpart of an electron—into an exquisitely controlled quantum state."
-    },
-    {
-      "title": "Atomic memory keeps distant ions entangled for about 10 seconds",
-      "link": "https://phys.org/news/2026-10-atomic-memory-distant-ions-entangled.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 21 Oct 2026 07:40:12 EDT",
-      "published_ts": 1792582812,
-      "summary": "Quantum networks, systems that connect devices and allow them to exchange information encoded in the quantum states of particles, could enable more secure communications. To build these networks, physicists need to devise strategies that allow distant particles to share quantum states, preserving th…"
-    },
-    {
-      "title": "A hidden rivalry between two quantum states at the heart of superconductors",
-      "link": "https://phys.org/news/2026-10-hidden-rivalry-quantum-states-heart.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 20 Oct 2026 18:00:07 EDT",
-      "published_ts": 1792533607,
-      "summary": "Transmitting electricity without losing any energy may sound impossible, yet this is precisely the promise of superconductivity. For nearly 40 years, scientists have been working to understand materials that exhibit this remarkable property at relatively high temperatures. Unlocking their secrets co…"
     },
     {
       "title": "Scientists reach the ultimate quantum limit on a surface",
