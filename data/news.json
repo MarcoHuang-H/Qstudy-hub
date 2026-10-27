@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1793071636,
+  "generated_ts": 1793100601,
   "items": [
+    {
+      "title": "OpenAI Computing Claim Faces Review, Raising Questions About Quantum Advantage",
+      "link": "https://thequantuminsider.com/2026/10/27/openai-computing-claim-faces-review-raising-questions-about-quantum-advantage/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 27 Oct 2026 08:55:21 +0000",
+      "published_ts": 1793091321,
+      "summary": "Insider Brief OpenAI has enlisted outside researchers to examine an AI-generated proof that it says overturns a longstanding assumption about computing’s limits, according to a company news release that identifies three scientific advances under scrutiny. The claim concerns the Exponential Time Hypo…"
+    },
+    {
+      "title": "IBM Connects Two 120-Qubit Processors With 99% State-Transfer Fidelity",
+      "link": "https://thequantuminsider.com/2026/10/27/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 27 Oct 2026 08:01:04 +0000",
+      "published_ts": 1793088064,
+      "summary": "Insider Brief IBM researchers connected two quantum processors through four superconducting cables, demonstrating a way to build larger quantum computers from separate chips. The links transferred quantum states with an average fidelity of 99% and supported operations between computing elements on d…"
+    },
     {
       "title": "Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform",
       "link": "https://thequantuminsider.com/2026/10/26/intel-to-acquire-classiq-to-create-a-full-stack-quantum-computing-platform/",
@@ -242,28 +258,12 @@
       "summary": "Researchers at AIST have directly observed magnetic flux quanta generated in a superconductor by photon absorption and demonstrated a new principle of photon detection that identifies the number of photons based on the number of these flux quanta."
     },
     {
-      "title": "Governor Hochul Announces New Study Highlighting New York’s Position as a National Leader in Quantum Technology",
-      "link": "https://thequantuminsider.com/2026/10/23/governor-hochul-announces-new-study-highlighting-new-yorks-position-as-a-national-leader-in-quantum-technology/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 23 Oct 2026 14:09:47 +0000",
-      "published_ts": 1792764587,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Governor Kathy Hochul today announced the release of a comprehensive study of New York State’s quantum technology landscape, finding that the Empire State ranks second nationally in quantum-related businesses, research groups and patents. Commissioned by Empire St…"
-    },
-    {
       "title": "Experiment shows when quantum 'cat' states stop bouncing back",
       "link": "https://phys.org/news/2026-10-quantum-cat-states.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 23 Oct 2026 08:40:02 EDT",
       "published_ts": 1792759202,
       "summary": "Quantum systems can occupy superpositions, quantum states that combine different possibilities. For instance, a microwave field can be prepared in a superposition of an empty state and a state that contains microwave light."
-    },
-    {
-      "title": "Guest Post: Quantum Computing’s Next Phase May Be Driven by Compounding Breakthroughs",
-      "link": "https://thequantuminsider.com/2026/10/23/quantum-computing-compounding-breakthroughs/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 23 Oct 2026 11:31:57 +0000",
-      "published_ts": 1792755117,
-      "summary": "Guest Post by Liam Wang COO, Logical Qubit Technology. The World Economic Forum&#8217;s Quantum Economy Day 2026 was held in Geneva, Switzerland, on October 13–14. Logical Qubit Technology attended as the only quantum computing company representing China. The company&#8217;s Chief Operating Officer,…"
     },
     {
       "title": "A tiny defect in a crystal reveals a big quantum surprise",
