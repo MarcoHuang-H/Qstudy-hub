@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1793100601,
+  "generated_ts": 1793121581,
   "items": [
+    {
+      "title": "Guest Post: The Next Threat to Encryption May Not Need a Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/10/27/guest-post-the-next-threat-to-encryption-may-not-need-a-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 27 Oct 2026 16:37:43 +0000",
+      "published_ts": 1793119063,
+      "summary": "Guest Post by Ofir Joseph, Quantum Communication Researcher, University of Haifa, and Head of the Cybersecurity Program, Academic College of Tel Aviv–Yaffo, Prof. Irit Hadar, Dean, Faculty of Computer and Information Science &#38; Director, Center for Cyber, Law and Policy, University of Haifa; Sean…"
+    },
+    {
+      "title": "Quantinuum and GE Vernova Collaborate to Advance High-Temperature Superconductivity Research",
+      "link": "https://thequantuminsider.com/2026/10/27/quantinuum-and-ge-vernova-collaborate-to-advance-high-temperature-superconductivity-research/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 27 Oct 2026 12:50:33 +0000",
+      "published_ts": 1793105433,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum and GE Vernova’s Advanced Research Center are launching a collaboration to apply quantum computing to one of the research community’s most consequential challenges: understanding the behavior behind high-temperature superconductivity. Advances in this f…"
+    },
+    {
+      "title": "New converter could bridge light wavelength gap in quantum communications",
+      "link": "https://phys.org/news/2026-10-bridge-wavelength-gap-quantum-communications.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 27 Oct 2026 08:40:01 EDT",
+      "published_ts": 1793104801,
+      "summary": "Quantum networks, systems that connect devices using quantum mechanical effects, could potentially allow users to share information more securely and efficiently. Building these networks typically entails linking stationary qubits, units of quantum information encoded in trapped ions or other physic…"
+    },
+    {
+      "title": "Beyond Binary Quantum Computing: Exploring Higher-Dimensional Qudits",
+      "link": "https://thequantuminsider.com/2026/10/27/beyond-binary-quantum-computing-exploring-higher-dimensional-qudits/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 27 Oct 2026 11:59:51 +0000",
+      "published_ts": 1793102391,
+      "summary": "Quantum computing is often talked about in terms of qubits, the quantum equivalent of a classical binary bit. But what if the most efficient way to process quantum information is not always binary? At the University of Rochester, Associate Professor of Physics Machiel Blok and his research group are…"
+    },
     {
       "title": "OpenAI Computing Claim Faces Review, Raising Questions About Quantum Advantage",
       "link": "https://thequantuminsider.com/2026/10/27/openai-computing-claim-faces-review-raising-questions-about-quantum-advantage/",
@@ -74,28 +106,12 @@
       "summary": "Insider Brief Britain’s £30 million quantum computing testbed program helped seven hardware suppliers develop systems for use outside their own laboratories, offering lessons in installation, reliability and customer support as the country begins a broader evaluation of the machines, according to a…"
     },
     {
-      "title": "Ramdeobaba University and QClairvoyance Quantum Labs to Set Up Quantum Software and Quantum Communication Labs in Nagpur",
-      "link": "https://thequantuminsider.com/2026/10/26/ramdeobaba-university-and-qclairvoyance-quantum-labs-to-set-up-quantum-software-and-quantum-communication-labs-in-nagpur/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 26 Oct 2026 10:56:01 +0000",
-      "published_ts": 1793012161,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Ramdeobaba University (RBU), Nagpur, and QClairvoyance Quantum Labs Pvt. Ltd., a deep-tech startup based in Secunderabad, have signed a Memorandum of Understanding (MoU) to establish two specialised laboratories on the RBU campus: a quantum software lab and a quan…"
-    },
-    {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
       "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Mon, 26 Oct 2026 06:06:16 EDT",
       "published_ts": 1793009176,
       "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy…"
-    },
-    {
-      "title": "Qubit’s Own Electric Current Could Offer a Simpler Readout Method",
-      "link": "https://thequantuminsider.com/2026/10/26/qubits-own-electric-current-could-offer-a-simpler-readout-method/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 26 Oct 2026 07:12:01 +0000",
-      "published_ts": 1792998721,
-      "summary": "Insider Brief PRESS RELEASE &#8212; One of the fundamental challenges of quantum computing is obtaining information from a quantum bit, or qubit. Unlike a conventional bit, which can be read repeatedly without altering its content, direct measurement of a quantum system typically causes the state to…"
     },
     {
       "title": "Verified Pauli-Product Measurement Compilation for Fault-Tolerant Quantum Computation",
@@ -242,14 +258,6 @@
       "summary": "The positron is the antimatter counterpart of the electron, identical in mass but carrying an equal and opposite electric charge. Like the electron, it also behaves like a tiny bar magnet, and according to a key prediction of the Standard Model of particle physics, its magnetic moment should be exac…"
     },
     {
-      "title": "Mehmet Sanliol (Evercore): Why quantum valuations hinge on 2030 revenue multiples and consolidation",
-      "link": "https://thequantuminsider.com/2026/10/24/mehmet-sanliol-evercore-why-quantum-valuations-hinge-on-2030-revenue-multiples-and-consolidation/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 24 Oct 2026 07:00:00 +0000",
-      "published_ts": 1792825200,
-      "summary": "Yuval Boger interviews Mehmet Sanliol, managing director at Evercore covering quantum technologies and semiconductors. They discuss how investors value public quantum companies, when private companies should consider IPOs or SPACs, and why consolidation may shape the next phase of the industry. Mehm…"
-    },
-    {
       "title": "Counting magnetic flux quanta offers new way to measure photon numbers",
       "link": "https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html",
       "source": "Phys.org — Quantum Physics",
@@ -336,14 +344,6 @@
       "published": "Tue, 20 Oct 2026 18:00:07 EDT",
       "published_ts": 1792533607,
       "summary": "Transmitting electricity without losing any energy may sound impossible, yet this is precisely the promise of superconductivity. For nearly 40 years, scientists have been working to understand materials that exhibit this remarkable property at relatively high temperatures. Unlocking their secrets co…"
-    },
-    {
-      "title": "Steering electrons with extreme ultraviolet light—team achieves quantum coherent control",
-      "link": "https://phys.org/news/2026-10-electrons-extreme-ultraviolet-team-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 20 Oct 2026 14:00:31 EDT",
-      "published_ts": 1792519231,
-      "summary": "Light is one of the most powerful tools scientists have for probing matter. By interacting with electrons, light reveals how atoms, molecules and materials are structured and how they evolve in time. Highly energetic ultraviolet and X-ray photons are particularly attractive because they can access e…"
     },
     {
       "title": "Scientists reach the ultimate quantum limit on a surface",
