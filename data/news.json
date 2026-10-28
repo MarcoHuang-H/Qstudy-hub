@@ -1,13 +1,109 @@
 {
-  "generated_ts": 1793188777,
+  "generated_ts": 1793211388,
   "items": [
     {
-      "title": "Intel’s Classiq Deal May Signal a Pivot From Quiet Quantum Effort To Active Commercialization",
-      "link": "https://thequantuminsider.com/2026/10/28/intels-classiq-deal-may-signal-a-pivot-from-quiet-quantum-effort-to-active-commercialization/",
+      "title": "Hogan Lovells Cadwalader Advises Intel in Pending Acquisition of Classiq Technologies",
+      "link": "https://thequantuminsider.com/2026/10/28/hogan-lovells-cadwalader-advises-intel-in-pending-acquisition-of-classiq-technologies/",
       "source": "The Quantum Insider",
-      "published": "Wed, 28 Oct 2026 08:06:07 +0000",
-      "published_ts": 1793174767,
-      "summary": "Insider Brief Intel, a pioneer in quantum computing, has been relatively quiet about its technology and nearly silent about how it is pursing commercialization. That silence has been shattered. Intel executives said during a media briefing Tuesday that it is moving to turn more than a decade of quan…"
+      "published": "Wed, 28 Oct 2026 16:48:49 +0000",
+      "published_ts": 1793206129,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Global law firm Hogan Lovells Cadwalader advised Intel Corporation (Nasdaq: INTC) as it entered into a definitive agreement to acquire Classiq Technologies Ltd, a leading provider of quantum computing software. The combination of Classiq’s synthesis platform with…"
+    },
+    {
+      "title": "When simulations fall short, this spectrometer learns for itself",
+      "link": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 28 Oct 2026 12:40:08 EDT",
+      "published_ts": 1793205608,
+      "summary": "An NMR spectrometer can reveal molecular structure down to the atomic level, but weak signals limit what it can see. Now, Aarhus University researchers have used AI to let the spectrometer learn the best pulse sequence directly from the sample."
+    },
+    {
+      "title": "PsiQuantum Unveils Optical Circuit Switch for AI Data Centers",
+      "link": "https://thequantuminsider.com/2026/10/28/psiquantum-optical-circuit-switch-ai-data-centers/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 28 Oct 2026 16:26:36 +0000",
+      "published_ts": 1793204796,
+      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum today unveiled its Optical Circuit Switching (OCS) technology, demonstrating how the company’s advanced, low-loss silicon photonics platform can be applied to some of the most significant scaling challenges facing AI infrastructure. AI systems are scali…"
+    },
+    {
+      "title": "NVision and HyperLight Partner to Develop Photonic Quantum Chips",
+      "link": "https://thequantuminsider.com/2026/10/28/nvision-nature-molecular-qubits-hyperlight/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 28 Oct 2026 16:05:00 +0000",
+      "published_ts": 1793203500,
+      "summary": "Insider Brief PRESS RELEASE &#8212; NVision, a quantum technology company, announced the publication of landmark peer-reviewed research in Nature and a strategic partnership with HyperLight Corporation (“HyperLight”), an industry leader in thin-film lithium niobate (TFLN) photonics. The companies wi…"
+    },
+    {
+      "title": "Slow-motion electron camera reveals light-driven quantum jumps in graphene",
+      "link": "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 28 Oct 2026 12:00:28 EDT",
+      "published_ts": 1793203228,
+      "summary": "Using a new slow-motion electron camera, physicists from Regensburg, Marburg and Jülich revealed how intense electric fields drive electrons in graphene, causing them to jump across energy gaps in a seemingly paradoxical manner. This was made possible by a novel combination of laser technology and e…"
+    },
+    {
+      "title": "Against all expectations, researchers control the magnetic core of a single atom",
+      "link": "https://phys.org/news/2026-10-magnetic-core-atom.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 28 Oct 2026 10:20:08 EDT",
+      "published_ts": 1793197208,
+      "summary": "Researchers at Delft University of Technology (the Netherlands) have succeeded in controlling the magnetism in the nucleus of a single atom with radio waves. This came as a surprise: until now, physicists believed that this nuclear spin could not be manipulated directly. The discovery could open up…"
+    },
+    {
+      "title": "UbiQD Wins New Mexico Grant for Quantum Light Source Development",
+      "link": "https://thequantuminsider.com/2026/10/28/ubiqd-new-mexico-quantum-light-source-grant/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 28 Oct 2026 14:10:10 +0000",
+      "published_ts": 1793196610,
+      "summary": "Insider Brief PRESS RELEASE &#8212; UbiQD, Inc., a global leader in quantum dot technology and manufacturing, has received a $200,000 grant through New Mexico&#8217;s Quantum Technologies Award from the Economic Development New Mexico (EDNM) Department through its Technology and Innovation Office (T…"
+    },
+    {
+      "title": "DataBrushing.AI Launches UEChain for Data Verification and Trust",
+      "link": "https://thequantuminsider.com/2026/10/28/databrushing-ai-uechain-data-verification/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 28 Oct 2026 14:03:16 +0000",
+      "published_ts": 1793196196,
+      "summary": "Insider Brief PRESS RELEASE &#8212; AI DataBrushing Technology Co., Ltd. (DataBrushing.AI) launched S.A.F.E.-AI Trusted Platform – UEChain on October 16, a solution built on Public Key Infrastructure (PKI), a Certificate Authority (CA), and digital evidence chain technologies. UEChain is designed to…"
+    },
+    {
+      "title": "D-Wave and LG CNS Partner on Quantum Optimization in South Korea",
+      "link": "https://thequantuminsider.com/2026/10/28/dwave-lg-cns-quantum-optimization-south-korea/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 28 Oct 2026 13:21:39 +0000",
+      "published_ts": 1793193699,
+      "summary": "Insider Brief PRESS RELEASE &#8212; D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, and LG CNS Co., Ltd. (“LG CNS”), a leading AI transformation company in South K…"
+    },
+    {
+      "title": "Qarakal Quantum And Quantum Elements Receive BIRD Foundation Grant For Quantum Computing Innovation With a $2.4 Million Budget",
+      "link": "https://thequantuminsider.com/2026/10/28/qarakal-quantum-and-quantum-elements-receive-bird-foundation-grant-for-quantum-computing-innovation-with-a-2-4-million-budget/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 28 Oct 2026 13:09:30 +0000",
+      "published_ts": 1793192970,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Elements and Qarakal Quantum today announced they have been selected by the Israel-U.S. Binational Industrial Research and Development (BIRD) Foundation to jointly develop a quantum simulation platform for understanding and designing the chemical reactions…"
+    },
+    {
+      "title": "Guest Post: Why Dedicated Compute Matters for AI and Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/10/28/dedicated-compute-ai-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 28 Oct 2026 13:08:26 +0000",
+      "published_ts": 1793192906,
+      "summary": "Guest Post By Christopher Miglino, CEO, Axe Compute Every dollar going into AI infrastructure today is also a bet on what comes after it. Compute has become a strategic resource. Companies are spending billions to secure the processing power to build, train and run AI, and we&#8217;re still early: m…"
+    },
+    {
+      "title": "IonQ Receives $7.5 Million from AFRL for Quantum Networking",
+      "link": "https://thequantuminsider.com/2026/10/28/ionq-7-5-million-afrl-full-stack-quantum-networking/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 28 Oct 2026 13:00:28 +0000",
+      "published_ts": 1793192428,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced it has received $7.5 million in follow-on funding from the Air Force Research Laboratory (AFRL). The Phase 2 contract expands upon the first-generation quantum network…"
+    },
+    {
+      "title": "Zumo and Quantum Chain Partner on Quantum-Resilient Finance",
+      "link": "https://thequantuminsider.com/2026/10/28/zumo-quantum-chain-quantum-resilient-finance/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 28 Oct 2026 12:35:42 +0000",
+      "published_ts": 1793190942,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Crypto-as-a-service platform Zumo has signed a Memorandum of Understanding (MoU) with Quantum Chain, a quantum-resilient blockchain and infrastructure platform, with the companies uniting to help safeguard the UK’s developing digital assets sector against the spec…"
     },
     {
       "title": "Symmetry-resolved fermionic correlations in iron-oxide ground spaces",
@@ -138,14 +234,6 @@
       "summary": "Researchers from Jülich, Aachen and Cologne have performed a quantum operation on a qubit in just 6.8 nanoseconds—with more than 99.98% accuracy. Such operations typically take several tens of nanoseconds in superconducting quantum computers. The paper was published in Nature Communications."
     },
     {
-      "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
-      "link": "https://thequantuminsider.com/2026/10/27/nist-report-provides-guidelines-for-transition-to-post-quantum-cryptography-standards/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 27 Oct 2026 18:24:05 +0000",
-      "published_ts": 1793125445,
-      "summary": "Insider Brief PRESS RELEASE &#8212; In August 2024, the National Institute of Standards and Technology (NIST) released post-quantum cryptography (PQC) standards made to withstand the assault of a future quantum computer. Now, the agency has released its high-level road map to help organizations swit…"
-    },
-    {
       "title": "Quantum sensor loop design could improve magnetic measurements for medicine and communications",
       "link": "https://phys.org/news/2026-10-quantum-sensor-loop-magnetic-medicine.html",
       "source": "Phys.org — Quantum Physics",
@@ -154,76 +242,12 @@
       "summary": "Adelaide University quantum engineers have found a new way to improve some of the world's most sensitive sensors of electromagnetic fields, a breakthrough that could help advance brain imaging, medical diagnostics, communications technology and next-generation quantum devices."
     },
     {
-      "title": "QuantrolOx Raises €12 Million in Series A2",
-      "link": "https://thequantuminsider.com/2026/10/27/quantrolox-raises-e12-million-in-series-a2/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 27 Oct 2026 16:57:14 +0000",
-      "published_ts": 1793120234,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuantrolOx, University of Oxford spinout headquartered in Finland with offices in the UK, Netherlands, US and India, has raised €12 million in a Series A2 funding round led by IW Capital, with co-investment from the European Innovation Council (EIC) Fund. The roun…"
-    },
-    {
-      "title": "Guest Post: The Next Threat to Encryption May Not Need a Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/10/27/guest-post-the-next-threat-to-encryption-may-not-need-a-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 27 Oct 2026 16:37:43 +0000",
-      "published_ts": 1793119063,
-      "summary": "Guest Post by Ofir Joseph, Quantum Communication Researcher, University of Haifa, and Head of the Cybersecurity Program, Academic College of Tel Aviv–Yaffo, Prof. Irit Hadar, Dean, Faculty of Computer and Information Science &#38; Director, Center for Cyber, Law and Policy, University of Haifa; Sean…"
-    },
-    {
-      "title": "Quantinuum and GE Vernova Collaborate to Advance High-Temperature Superconductivity Research",
-      "link": "https://thequantuminsider.com/2026/10/27/quantinuum-and-ge-vernova-collaborate-to-advance-high-temperature-superconductivity-research/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 27 Oct 2026 12:50:33 +0000",
-      "published_ts": 1793105433,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum and GE Vernova’s Advanced Research Center are launching a collaboration to apply quantum computing to one of the research community’s most consequential challenges: understanding the behavior behind high-temperature superconductivity. Advances in this f…"
-    },
-    {
       "title": "New converter could bridge light wavelength gap in quantum communications",
       "link": "https://phys.org/news/2026-10-bridge-wavelength-gap-quantum-communications.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 27 Oct 2026 08:40:01 EDT",
       "published_ts": 1793104801,
       "summary": "Quantum networks, systems that connect devices using quantum mechanical effects, could potentially allow users to share information more securely and efficiently. Building these networks typically entails linking stationary qubits, units of quantum information encoded in trapped ions or other physic…"
-    },
-    {
-      "title": "Beyond Binary Quantum Computing: Exploring Higher-Dimensional Qudits",
-      "link": "https://thequantuminsider.com/2026/10/27/beyond-binary-quantum-computing-exploring-higher-dimensional-qudits/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 27 Oct 2026 11:59:51 +0000",
-      "published_ts": 1793102391,
-      "summary": "Quantum computing is often talked about in terms of qubits, the quantum equivalent of a classical binary bit. But what if the most efficient way to process quantum information is not always binary? At the University of Rochester, Associate Professor of Physics Machiel Blok and his research group are…"
-    },
-    {
-      "title": "OpenAI Computing Claim Faces Review, Raising Questions About Quantum Advantage",
-      "link": "https://thequantuminsider.com/2026/10/27/openai-computing-claim-faces-review-raising-questions-about-quantum-advantage/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 27 Oct 2026 08:55:21 +0000",
-      "published_ts": 1793091321,
-      "summary": "Insider Brief OpenAI has enlisted outside researchers to examine an AI-generated proof that it says overturns a longstanding assumption about computing’s limits, according to a company news release that identifies three scientific advances under scrutiny. The claim concerns the Exponential Time Hypo…"
-    },
-    {
-      "title": "IBM Connects Two 120-Qubit Processors With 99% State-Transfer Fidelity",
-      "link": "https://thequantuminsider.com/2026/10/27/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 27 Oct 2026 08:01:04 +0000",
-      "published_ts": 1793088064,
-      "summary": "Insider Brief IBM researchers connected two quantum processors through four superconducting cables, demonstrating a way to build larger quantum computers from separate chips. The links transferred quantum states with an average fidelity of 99% and supported operations between computing elements on d…"
-    },
-    {
-      "title": "Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform",
-      "link": "https://thequantuminsider.com/2026/10/26/intel-to-acquire-classiq-to-create-a-full-stack-quantum-computing-platform/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 26 Oct 2026 20:55:35 +0000",
-      "published_ts": 1793048135,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Intel Corporation today announced that it has entered into a definitive agreement to acquire Classiq, a leading provider of quantum computing software. The combination of Classiq’s synthesis platform with Intel’s spin-qubit manufacturing and existing software woul…"
-    },
-    {
-      "title": "IDEMIA Secure Transactions Collaborates With KT in Advancing Post-Quantum Security For South Korea’s Defense Communications",
-      "link": "https://thequantuminsider.com/2026/10/26/idemia-secure-transactions-collaborates-with-kt-in-advancing-post-quantum-security-for-south-koreas-defense-communications/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 26 Oct 2026 16:38:00 +0000",
-      "published_ts": 1793032680,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IDEMIA Secure Transactions (IST), a global leader in payment, connectivity and cybersecurity, is collaborating with KT, a major South Korean mobile network operator, on South Korea’s 2026 Post-Quantum Cryptography (PQC) Pilot Conversion Project. The project is org…"
     },
     {
       "title": "Diamond defects confirm 80-year-old theory of crystal stress",
@@ -320,30 +344,6 @@
       "published": "Thu, 22 Oct 2026 14:00:18 EDT",
       "published_ts": 1792692018,
       "summary": "Ever since quantum mechanics first described particles, like electrons, as rippling waves, researchers have wondered if those waves could be trapped in place. Writing today in Science a century later, a team of Columbia University researchers reports waves of electrons becoming trapped for the first…"
-    },
-    {
-      "title": "Lost Schrödinger manuscript reveals his true view of quantum randomness",
-      "link": "https://phys.org/news/2026-10-lost-schrdinger-manuscript-reveals-true.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 22 Oct 2026 09:00:01 EDT",
-      "published_ts": 1792674001,
-      "summary": "Unlike classical physics, quantum mechanics generally cannot tell us exactly what will happen in an individual event. Instead, it predicts the probabilities of different outcomes. As one of the theory's early pioneers, Erwin Schrödinger played a key role in debates about what this randomness really…"
-    },
-    {
-      "title": "Laser-made lattice reveals discrete light solitons in tunable atomic vapor",
-      "link": "https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 21 Oct 2026 18:20:07 EDT",
-      "published_ts": 1792621207,
-      "summary": "Scientists from the Quantum Technologies Group at the Institute of Physics Zagreb, in collaboration with a colleague from the Physics Department at the Faculty of Science (PMF), have experimentally demonstrated for the first time the existence of discrete one-dimensional (1D) solitons in an opticall…"
-    },
-    {
-      "title": "Physicists trap and tame single particle of antimatter for months",
-      "link": "https://phys.org/news/2026-10-physicists-particle-antimatter-months.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 21 Oct 2026 11:00:10 EDT",
-      "published_ts": 1792594810,
-      "summary": "For the first time, Northwestern University physicists have coaxed a single positron—the antimatter counterpart of an electron—into an exquisitely controlled quantum state."
     },
     {
       "title": "Scientists reach the ultimate quantum limit on a surface",
