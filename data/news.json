@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1793275832,
+  "generated_ts": 1793312502,
   "items": [
+    {
+      "title": "How the quantum vacuum perturbs atoms, could shrink black holes and may have helped form galaxies",
+      "link": "https://phys.org/news/2026-10-quantum-vacuum-perturbs-atoms-black.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 29 Oct 2026 17:30:05 EDT",
+      "published_ts": 1793309405,
+      "summary": "The word \"vacuum\" may conjure the image of empty space. Maybe you think of a region far outside the solar system without planets, debris, gas clouds or light. According to quantum theory, however, a vacuum is never truly empty. Quantum mechanics extends the Heisenberg uncertainty principle—which sta…"
+    },
+    {
+      "title": "A blue laser for underwater communication and sensing",
+      "link": "https://phys.org/news/2026-10-blue-laser-underwater-communication.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 29 Oct 2026 14:40:08 EDT",
+      "published_ts": 1793299208,
+      "summary": "Researchers at EPFL have developed a chip-scale blue laser that combines stable light emission with rapid frequency control, opening possibilities for underwater communication, environmental sensing and quantum technologies."
+    },
+    {
+      "title": "Lumen Announces AI Networking, Quantum Research and PQC Plans",
+      "link": "https://thequantuminsider.com/2026/10/29/lumen-ai-networking-quantum-research-pqc/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 29 Oct 2026 14:55:42 +0000",
+      "published_ts": 1793285742,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Lumen Technologies (Nasdaq: LUMN) today announced three new initiatives using intelligent networking to address AI energy challenges, future quantum connectivity, and emerging security threats. As enterprises’ AI and quantum ambition begin to outgrow traditional n…"
+    },
+    {
+      "title": "Theoretical method uses light to locate anyons, potential quantum computing building blocks",
+      "link": "https://phys.org/news/2026-10-theoretical-method-anyons-potential-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 29 Oct 2026 10:40:01 EDT",
+      "published_ts": 1793284801,
+      "summary": "Theoretical physicists at Emory University have discovered a way to use light to detect the \"spectral fingerprints\" of anyons—exotic quasiparticles that emerge from the collective behavior of many electrons. Their findings are published in Physical Review Letters. The work offers a new tool for the…"
+    },
+    {
+      "title": "Alice & Bob Estimates 22,593 Qubits to Break RSA-2048",
+      "link": "https://thequantuminsider.com/2026/10/29/alice-bob-22593-qubits-break-rsa-2048/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "published_ts": 1793282400,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Alice &#38; Bob, a leader in fault-tolerant quantum computing, sets a record low for the total quantum resources (qubits multiplied by runtime) required to run Shor’s algorithm on today’s encryption. Its cat-qubit architecture needs 40 times fewer physical qubits…"
+    },
     {
       "title": "E.ON and Qoro Test Hybrid Quantum Computing for Energy Scheduling",
       "link": "https://thequantuminsider.com/2026/10/29/eon-qoro-hybrid-quantum-energy-scheduling/",
@@ -66,28 +106,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Researchers from Jülich, Aachen and Cologne have performed a quantum operation on a qubit in just 6.8 nanoseconds – with more than 99.98 percent accuracy. Such operations typically take several tens of nanoseconds in superconducting quantum computers. The paper wa…"
     },
     {
-      "title": "Hogan Lovells Cadwalader Advises Intel in Pending Acquisition of Classiq Technologies",
-      "link": "https://thequantuminsider.com/2026/10/28/hogan-lovells-cadwalader-advises-intel-in-pending-acquisition-of-classiq-technologies/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 28 Oct 2026 16:48:49 +0000",
-      "published_ts": 1793206129,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Global law firm Hogan Lovells Cadwalader advised Intel Corporation (Nasdaq: INTC) as it entered into a definitive agreement to acquire Classiq Technologies Ltd, a leading provider of quantum computing software. The combination of Classiq’s synthesis platform with…"
-    },
-    {
       "title": "When simulations fall short, this spectrometer learns for itself",
       "link": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 28 Oct 2026 12:40:08 EDT",
       "published_ts": 1793205608,
       "summary": "An NMR spectrometer can reveal molecular structure down to the atomic level, but weak signals limit what it can see. Now, Aarhus University researchers have used AI to let the spectrometer learn the best pulse sequence directly from the sample."
-    },
-    {
-      "title": "PsiQuantum Unveils Optical Circuit Switch for AI Data Centers",
-      "link": "https://thequantuminsider.com/2026/10/28/psiquantum-optical-circuit-switch-ai-data-centers/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 28 Oct 2026 16:26:36 +0000",
-      "published_ts": 1793204796,
-      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum today unveiled its Optical Circuit Switching (OCS) technology, demonstrating how the company’s advanced, low-loss silicon photonics platform can be applied to some of the most significant scaling challenges facing AI infrastructure. AI systems are scali…"
     },
     {
       "title": "Slow-motion electron camera reveals light-driven quantum jumps in graphene",
@@ -200,30 +224,6 @@
       "published": "Fri, 23 Oct 2026 06:22:55 EDT",
       "published_ts": 1792750975,
       "summary": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light. Their new computational method revealed a surprisingly important energy-loss mechanism in silicon carbide that scientists had previously und…"
-    },
-    {
-      "title": "Light-based method enables precise control of ultrafast electron flow in a scanning tunneling microscope",
-      "link": "https://phys.org/news/2026-10-based-method-enables-precise-ultrafast.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 23 Oct 2026 04:10:01 EDT",
-      "published_ts": 1792743001,
-      "summary": "What would it take to watch an electron move through a material? Researchers would need to see individual atoms and capture an electron's motion at incredibly short timescales. A Technion-led team has brought those two capabilities together in a scanning tunneling microscope, using carefully shaped…"
-    },
-    {
-      "title": "Diamond laser system achieves 100% optical contrast in magnetic-field readout",
-      "link": "https://phys.org/news/2026-10-diamond-laser-optical-contrast-magnetic.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 22 Oct 2026 14:20:08 EDT",
-      "published_ts": 1792693208,
-      "summary": "Researchers at Fraunhofer IAF have developed a laser-enhanced quantum sensor that combines high magnetic-field sensitivity with a large dynamic range. Using laser threshold magnetometry, they improved the ratio of sensitivity and dynamic range by a factor of up to 590 compared with state-of-the-art…"
-    },
-    {
-      "title": "Quantum interference traps electron waves in metal for first time",
-      "link": "https://phys.org/news/2026-10-quantum-electron-metal.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 22 Oct 2026 14:00:18 EDT",
-      "published_ts": 1792692018,
-      "summary": "Ever since quantum mechanics first described particles, like electrons, as rippling waves, researchers have wondered if those waves could be trapped in place. Writing today in Science a century later, a team of Columbia University researchers reports waves of electrons becoming trapped for the first…"
     },
     {
       "title": "Scientists reach the ultimate quantum limit on a surface",
