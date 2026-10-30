@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1793361661,
+  "generated_ts": 1793397198,
   "items": [
+    {
+      "title": "How a 'tropical' shortcut could help particle collider experiments",
+      "link": "https://phys.org/news/2026-10-tropical-shortcut-particle-collider.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 30 Oct 2026 15:40:01 EDT",
+      "published_ts": 1793389201,
+      "summary": "Particle accelerators are expensive. Not just to build or to run, but also to predict the outcome of measurements obtained from them."
+    },
+    {
+      "title": "Quantum Industry Coalition Highlights Funding Priorities For The National Quantum Initiative Reauthorization Act",
+      "link": "https://thequantuminsider.com/2026/10/30/quantum-industry-coalition-highlights-funding-priorities-for-the-national-quantum-initiative-reauthorization-act/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 30 Oct 2026 19:37:04 +0000",
+      "published_ts": 1793389024,
+      "summary": "By Alexandra Kelley Insider Brief The Quantum Industry Coalition sent a letter to Congressional leadership on Friday urging the passage of the National Quantum Initiative Reauthorization Act, along with a list of funding priorities the industry group wants to see included in the pending bill. The le…"
+    },
+    {
+      "title": "UTe₂ reveals two flavors of superconductivity under extreme pressure",
+      "link": "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 30 Oct 2026 15:00:09 EDT",
+      "published_ts": 1793386809,
+      "summary": "Quantum researchers are searching for a topological superconductor—a material that, if discovered, would allow major advances in quantum computing by combining two distinct \"flavors\" of superconductivity."
+    },
+    {
+      "title": "Quantum skyrmions outlast entanglement, hinting at more resilient networks",
+      "link": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 30 Oct 2026 11:40:01 EDT",
+      "published_ts": 1793374801,
+      "summary": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is extraordinarily fragile, and the entanglement between particles of light on which such networks would…"
+    },
+    {
+      "title": "Infleqtion Tests Optical Atomic Clock During US Navy Exercise",
+      "link": "https://thequantuminsider.com/2026/10/30/infleqtion-optical-atomic-clock-navy-exercise/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 30 Oct 2026 13:50:41 +0000",
+      "published_ts": 1793368241,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral atom technology, demonstrated quantum timing capabilities to support navigation using the company’s Tiqker optical atomic clock. The demonstration took place durin…"
+    },
+    {
+      "title": "Netpoleon India Partners With QNu Labs on Quantum-Safe Security",
+      "link": "https://thequantuminsider.com/2026/10/30/netpoleon-qnu-labs-quantum-safe-security/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 30 Oct 2026 13:42:42 +0000",
+      "published_ts": 1793367762,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Netpoleon India, a value-added cybersecurity distributor, has onboarded QNu Labs, an India-born deep-tech cybersecurity company, in a strategic collaboration aimed at accelerating quantum-safe cybersecurity readiness and strengthening long-term digital resilience…"
+    },
+    {
+      "title": "SUNY Chancellor Highlights Quantum and Energy Research at Stony Brook",
+      "link": "https://thequantuminsider.com/2026/10/30/suny-chancellor-stony-brook-research-visit/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 30 Oct 2026 13:36:10 +0000",
+      "published_ts": 1793367370,
+      "summary": "Insider Brief PRESS RELEASE &#8212; State University of New York Chancellor John B. King Jr. today highlighted the State University of New York at Stony Brook’s groundbreaking research with a tour of research facilities and campus laboratories. During his visit, Chancellor King was joined by SUNY Tr…"
+    },
+    {
+      "title": "Speakers Point to Risk Appetite And Capital as UK Deep-Tech Bottlenecks at City Quantum & AI Summit",
+      "link": "https://thequantuminsider.com/2026/10/30/speakers-point-to-risk-appetite-and-capital-as-uk-deep-tech-bottlenecks-at-city-quantum-ai-summit/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 30 Oct 2026 13:10:19 +0000",
+      "published_ts": 1793365819,
+      "summary": "Insider Brief Speakers at the City Quantum &#38; AI Summit in London said the UK has much of what it needs to put quantum and AI technology into the hands of its armed forces and to grow the companies that build it, but that the institutions buying the technology and holding the capital are moving […"
+    },
+    {
+      "title": "France National Quantum Update: October 2026",
+      "link": "https://thequantuminsider.com/2026/10/30/france-national-quantum-update-october-2026/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 30 Oct 2026 11:54:29 +0000",
+      "published_ts": 1793361269,
+      "summary": "EXECUTIVE SUMMARY France expanded its quantum technology ties with Vietnam in October, combining a business delegation with agreements covering computing infrastructure, research and workforce development. The activity highlighted international expansion alongside efforts at home to integrate quantu…"
+    },
     {
       "title": "Unusual quantum states in six-layer graphene offer clues to superconductivity",
       "link": "https://phys.org/news/2026-10-unusual-quantum-states-layer-graphene.html",
@@ -8,6 +80,14 @@
       "published": "Fri, 30 Oct 2026 07:40:06 EDT",
       "published_ts": 1793360406,
       "summary": "Graphene, a material consisting of a sheet of carbon atoms arranged in a honeycomb pattern, has proved promising for various technological applications. Materials in which several layers of graphene are stacked together can exhibit different advantageous properties."
+    },
+    {
+      "title": "Foxconn Aims to Become World’s Largest Quantum Computer Manufacturer",
+      "link": "https://thequantuminsider.com/2026/10/30/foxconn-aims-to-become-worlds-largest-quantum-computer-manufacturer/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 30 Oct 2026 11:39:35 +0000",
+      "published_ts": 1793360375,
+      "summary": "Insider Brief Foxconn wants to become the world’s largest quantum computer manufacturer, betting on machines its chairman says will accelerate specialized calculations while taking at least another two years to become commercially viable. Chairman Young Liu told CNBC that the company sees an opportu…"
     },
     {
       "title": "Wolfspeed Introduces Optical-Grade Silicon Carbide for Augmented Reality and Quantum Computing",
@@ -34,14 +114,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; pQCee Pte Ltd, a provider of post-quantum cryptography and quantum-safe cybersecurity solutions, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a strategic partnership to expand the availability of pQCee’s products a…"
     },
     {
-      "title": "Guest Post: What Makes The Next Breakthrough Possible? Lessons From The ‘Fosbury Flop’ For AI and Quantum in Biotech",
-      "link": "https://thequantuminsider.com/2026/10/30/guest-post-what-makes-the-next-breakthrough-possible-lessons-from-the-fosbury-flop-for-ai-and-quantum-in-biotech/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 30 Oct 2026 07:36:51 +0000",
-      "published_ts": 1793345811,
-      "summary": "By Kamran Tavangar, Head of Science Strategy and Partnerships at LabCentralImage: LabCentral When 21-year-old Dick Fosbury went over the high-jump bar backwards at the 1968 Mexico City Olympics, he used a radically different technique, cleared an Olympic record 2.24 meters, and won gold. This feat w…"
-    },
-    {
       "title": "Small molecular twists may strengthen nature's magnetic compass",
       "link": "https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html",
       "source": "Phys.org — Quantum Physics",
@@ -66,60 +138,12 @@
       "summary": "Researchers at EPFL have developed a chip-scale blue laser that combines stable light emission with rapid frequency control, opening possibilities for underwater communication, environmental sensing and quantum technologies."
     },
     {
-      "title": "Lumen Announces AI Networking, Quantum Research and PQC Plans",
-      "link": "https://thequantuminsider.com/2026/10/29/lumen-ai-networking-quantum-research-pqc/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 29 Oct 2026 14:55:42 +0000",
-      "published_ts": 1793285742,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Lumen Technologies (Nasdaq: LUMN) today announced three new initiatives using intelligent networking to address AI energy challenges, future quantum connectivity, and emerging security threats. As enterprises’ AI and quantum ambition begin to outgrow traditional n…"
-    },
-    {
       "title": "Theoretical method uses light to locate anyons, potential quantum computing building blocks",
       "link": "https://phys.org/news/2026-10-theoretical-method-anyons-potential-quantum.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 29 Oct 2026 10:40:01 EDT",
       "published_ts": 1793284801,
       "summary": "Theoretical physicists at Emory University have discovered a way to use light to detect the \"spectral fingerprints\" of anyons—exotic quasiparticles that emerge from the collective behavior of many electrons. Their findings are published in Physical Review Letters. The work offers a new tool for the…"
-    },
-    {
-      "title": "Alice & Bob Estimates 22,593 Qubits to Break RSA-2048",
-      "link": "https://thequantuminsider.com/2026/10/29/alice-bob-22593-qubits-break-rsa-2048/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
-      "published_ts": 1793282400,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Alice &#38; Bob, a leader in fault-tolerant quantum computing, sets a record low for the total quantum resources (qubits multiplied by runtime) required to run Shor’s algorithm on today’s encryption. Its cat-qubit architecture needs 40 times fewer physical qubits…"
-    },
-    {
-      "title": "E.ON and Qoro Test Hybrid Quantum Computing for Energy Scheduling",
-      "link": "https://thequantuminsider.com/2026/10/29/eon-qoro-hybrid-quantum-energy-scheduling/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 29 Oct 2026 10:54:53 +0000",
-      "published_ts": 1793271293,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qoro, E.ON, and the UK National Quantum Computing Centre (NQCC) have successfully developed a proof-of-concept, exploring future applications of hybrid quantum-classical computing in peer-to-peer energy trading. With SparQ grant funding, the team developed a new d…"
-    },
-    {
-      "title": "Niels Bohr Institute Spinout Pelagic Systems Targets Quantum Hardware Control",
-      "link": "https://thequantuminsider.com/2026/10/29/pelagic-systems-quantum-control-software/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 29 Oct 2026 10:39:36 +0000",
-      "published_ts": 1793270376,
-      "summary": "Insider Brief Pelagic Systems, a new spinout from the Novo Nordisk Foundation Quantum Computing Programme (NQCP) at the Niels Bohr Institute, was announced on October 27, 2026, according to a company press release. The company is developing the software layer for operating quantum hardware at the fr…"
-    },
-    {
-      "title": "IQM Demonstrates Entanglement Across a Complete 54-Qubit Processor",
-      "link": "https://thequantuminsider.com/2026/10/29/iqm-full-chip-entanglement-54-qubit-processor/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 29 Oct 2026 09:58:29 +0000",
-      "published_ts": 1793267909,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, today announced that its cloud-accessible IQM Emerald system has fully entangled all 54 qubits on the chip simultaneously, a result that shows the system’s computational qu…"
-    },
-    {
-      "title": "Pasqal’s 256-Qubit Processor Finds Unexpected Quantum Magnet Behavior",
-      "link": "https://thequantuminsider.com/2026/10/29/pasqal-processor-unexpected-quantum-magnet-behavior/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 29 Oct 2026 09:51:12 +0000",
-      "published_ts": 1793267472,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced that its 256-qubit quantum processor has revealed an unexpected behavior in a two-dimensional quantum magnet: under certain conditions, the system takes far longer to settle…"
     },
     {
       "title": "When simulations fall short, this spectrometer learns for itself",
@@ -178,14 +202,6 @@
       "summary": "For the first time, researchers in Japan have directly mapped several components of the stress field surrounding an atomic-scale flaw in the crystal structure of diamond. Led by Tokuyuki Teraji at Japan's National Institute for Materials Science, the team achieved its result using nitrogen-vacancy (…"
     },
     {
-      "title": "One extra quantum dot helps balance speed and stability in spin qubits",
-      "link": "https://phys.org/news/2026-10-extra-quantum-dot-stability-qubits.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 26 Oct 2026 09:40:06 EDT",
-      "published_ts": 1793022006,
-      "summary": "Quantum computers need qubits that can be controlled both quickly and reliably. Yet making semiconductor spin qubits faster often makes them more sensitive to electrical noise, creating a difficult trade-off."
-    },
-    {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
       "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -200,22 +216,6 @@
       "published": "Sun, 25 Oct 2026 21:42:48 EDT",
       "published_ts": 1792978968,
       "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door t…"
-    },
-    {
-      "title": "Supercurrent enables the reading of quantum information without destroying it",
-      "link": "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sun, 25 Oct 2026 15:00:20 EDT",
-      "published_ts": 1792954820,
-      "summary": "One of the fundamental challenges of quantum computing is obtaining information from a quantum bit, or qubit. Unlike a conventional bit, which can be read repeatedly without altering its content, direct measurement of a quantum system typically causes the state to collapse before it can be determine…"
-    },
-    {
-      "title": "'One-positron cyclotron' could test a key prediction of the Standard Model",
-      "link": "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 24 Oct 2026 13:20:02 EDT",
-      "published_ts": 1792862402,
-      "summary": "The positron is the antimatter counterpart of the electron, identical in mass but carrying an equal and opposite electric charge. Like the electron, it also behaves like a tiny bar magnet, and according to a key prediction of the Standard Model of particle physics, its magnetic moment should be exac…"
     },
     {
       "title": "A tiny defect in a crystal reveals a big quantum surprise",
