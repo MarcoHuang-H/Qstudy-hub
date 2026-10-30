@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1793333116,
+  "generated_ts": 1793361661,
   "items": [
+    {
+      "title": "Unusual quantum states in six-layer graphene offer clues to superconductivity",
+      "link": "https://phys.org/news/2026-10-unusual-quantum-states-layer-graphene.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 30 Oct 2026 07:40:06 EDT",
+      "published_ts": 1793360406,
+      "summary": "Graphene, a material consisting of a sheet of carbon atoms arranged in a honeycomb pattern, has proved promising for various technological applications. Materials in which several layers of graphene are stacked together can exhibit different advantageous properties."
+    },
+    {
+      "title": "Wolfspeed Introduces Optical-Grade Silicon Carbide for Augmented Reality and Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/10/30/wolfspeed-transparent-silicon-carbide-technology/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 30 Oct 2026 09:55:39 +0000",
+      "published_ts": 1793354139,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Wolfspeed, Inc. (NYSE: WOLF), a global leader in silicon carbide (SiC) technology, today announced the commercial introduction of its proprietary transparent silicon carbide (TSiC™) technology expanding the potential of silicon carbide to enable next-generation au…"
+    },
+    {
+      "title": "MBHB Launches Quantum and Semiconductor IP Practice",
+      "link": "https://thequantuminsider.com/2026/10/30/mbhb-quantum-semiconductor-ip-practice/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 30 Oct 2026 09:48:54 +0000",
+      "published_ts": 1793353734,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Full-service intellectual property law firm McDonnell Boehnen Hulbert &#38; Berghoff LLP (MBHB) has launched a Quantum, Optics, and Semiconductors Practice Group. The team of attorneys and patent agents, which includes former nanotechnology, electromagnetics, and…"
+    },
+    {
+      "title": "pQCee and Carahsoft Partner on Post-Quantum Security for Government",
+      "link": "https://thequantuminsider.com/2026/10/30/pqcee-carahsoft-post-quantum-security-government/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 30 Oct 2026 09:38:52 +0000",
+      "published_ts": 1793353132,
+      "summary": "Insider Brief PRESS RELEASE &#8212; pQCee Pte Ltd, a provider of post-quantum cryptography and quantum-safe cybersecurity solutions, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a strategic partnership to expand the availability of pQCee’s products a…"
+    },
+    {
+      "title": "Guest Post: What Makes The Next Breakthrough Possible? Lessons From The ‘Fosbury Flop’ For AI and Quantum in Biotech",
+      "link": "https://thequantuminsider.com/2026/10/30/guest-post-what-makes-the-next-breakthrough-possible-lessons-from-the-fosbury-flop-for-ai-and-quantum-in-biotech/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 30 Oct 2026 07:36:51 +0000",
+      "published_ts": 1793345811,
+      "summary": "By Kamran Tavangar, Head of Science Strategy and Partnerships at LabCentralImage: LabCentral When 21-year-old Dick Fosbury went over the high-jump bar backwards at the 1968 Mexico City Olympics, he used a radically different technique, cleared an Olympic record 2.24 meters, and won gold. This feat w…"
+    },
+    {
+      "title": "Small molecular twists may strengthen nature's magnetic compass",
+      "link": "https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 30 Oct 2026 01:00:01 EDT",
+      "published_ts": 1793336401,
+      "summary": "A collaborative research team led by Yasuhiro Kobori at Kobe University, together with researchers from Toho University, Saitama University, Nagoya Institute of Technology and the University of Freiburg, has identified a potential molecular mechanism that could enhance magnetic compass responses in…"
+    },
     {
       "title": "How the quantum vacuum perturbs atoms, could shrink black holes and may have helped form galaxies",
       "link": "https://phys.org/news/2026-10-quantum-vacuum-perturbs-atoms-black.html",
@@ -72,38 +120,6 @@
       "published": "Thu, 29 Oct 2026 09:51:12 +0000",
       "published_ts": 1793267472,
       "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced that its 256-qubit quantum processor has revealed an unexpected behavior in a two-dimensional quantum magnet: under certain conditions, the system takes far longer to settle…"
-    },
-    {
-      "title": "Nord Quantique Secures $10 Million DARPA Funding Extension",
-      "link": "https://thequantuminsider.com/2026/10/29/nord-quantique-10-million-darpa-funding-extension/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 29 Oct 2026 09:45:00 +0000",
-      "published_ts": 1793267100,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Nord Quantique, a Canadian quantum computing company pioneering hardware-efficient quantum error correction, today announced a US$10 million extension of its Defense Advanced Research Projects Agency’s (DARPA) Quantum Benchmarking Initiative (QBI) Stage B agreemen…"
-    },
-    {
-      "title": "Shionogi Wins NEDO Award for Quantum-Assisted Drug Discovery",
-      "link": "https://thequantuminsider.com/2026/10/29/shionogi-nedo-quantum-drug-discovery/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 29 Oct 2026 09:22:24 +0000",
-      "published_ts": 1793265744,
-      "summary": "Insider Brief PRESS RELEASE &#8212; D-Wave Quantum Inc. (NASDAQ: QBTS) (&#8220;D-Wave&#8220;), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced that its customer Shionogi &#38; Co., Ltd. (“Shionogi”) has won firs…"
-    },
-    {
-      "title": "Delft Researchers Control The Magnetic Core of a Single Atom",
-      "link": "https://thequantuminsider.com/2026/10/29/delft-researchers-control-the-magnetic-core-of-a-single-atom/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 29 Oct 2026 08:19:14 +0000",
-      "published_ts": 1793261954,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at Delft University of Technology (The Netherlands) have succeeded in controlling the magnetism in the nucleus of a single atom with radio waves. This came as a surprise: until now, physicists believed that this nuclear spin could not be manipulated di…"
-    },
-    {
-      "title": "Researchers Curb Unwanted Transitions in Ultrafast Quantum Gates",
-      "link": "https://thequantuminsider.com/2026/10/29/researchers-curb-unwanted-transitions-in-ultrafast-quantum-gates/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 29 Oct 2026 08:09:03 +0000",
-      "published_ts": 1793261343,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers from Jülich, Aachen and Cologne have performed a quantum operation on a qubit in just 6.8 nanoseconds – with more than 99.98 percent accuracy. Such operations typically take several tens of nanoseconds in superconducting quantum computers. The paper wa…"
     },
     {
       "title": "When simulations fall short, this spectrometer learns for itself",
@@ -200,22 +216,6 @@
       "published": "Sat, 24 Oct 2026 13:20:02 EDT",
       "published_ts": 1792862402,
       "summary": "The positron is the antimatter counterpart of the electron, identical in mass but carrying an equal and opposite electric charge. Like the electron, it also behaves like a tiny bar magnet, and according to a key prediction of the Standard Model of particle physics, its magnetic moment should be exac…"
-    },
-    {
-      "title": "Counting magnetic flux quanta offers new way to measure photon numbers",
-      "link": "https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 23 Oct 2026 17:20:02 EDT",
-      "published_ts": 1792790402,
-      "summary": "Researchers at AIST have directly observed magnetic flux quanta generated in a superconductor by photon absorption and demonstrated a new principle of photon detection that identifies the number of photons based on the number of these flux quanta."
-    },
-    {
-      "title": "Experiment shows when quantum 'cat' states stop bouncing back",
-      "link": "https://phys.org/news/2026-10-quantum-cat-states.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 23 Oct 2026 08:40:02 EDT",
-      "published_ts": 1792759202,
-      "summary": "Quantum systems can occupy superpositions, quantum states that combine different possibilities. For instance, a microwave field can be prepared in a superposition of an empty state and a state that contains microwave light."
     },
     {
       "title": "A tiny defect in a crystal reveals a big quantum surprise",
