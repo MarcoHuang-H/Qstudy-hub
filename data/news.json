@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1793446575,
+  "generated_ts": 1793465002,
   "items": [
+    {
+      "title": "Four superconducting cables link two large quantum processors into one",
+      "link": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 31 Oct 2026 12:00:02 EDT",
+      "published_ts": 1793462402,
+      "summary": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can work together as one larger machine. For this to happen, however, connections must c…"
+    },
     {
       "title": "Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit",
       "link": "https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/",
@@ -192,14 +200,6 @@
       "published": "Tue, 27 Oct 2026 08:40:01 EDT",
       "published_ts": 1793104801,
       "summary": "Quantum networks, systems that connect devices using quantum mechanical effects, could potentially allow users to share information more securely and efficiently. Building these networks typically entails linking stationary qubits, units of quantum information encoded in trapped ions or other physic…"
-    },
-    {
-      "title": "Diamond defects confirm 80-year-old theory of crystal stress",
-      "link": "https://phys.org/news/2026-10-diamond-defects-year-theory-crystal.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 26 Oct 2026 10:30:01 EDT",
-      "published_ts": 1793025001,
-      "summary": "For the first time, researchers in Japan have directly mapped several components of the stress field surrounding an atomic-scale flaw in the crystal structure of diamond. Led by Tokuyuki Teraji at Japan's National Institute for Materials Science, the team achieved its result using nitrogen-vacancy (…"
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
