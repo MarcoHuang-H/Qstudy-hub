@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1793465002,
+  "generated_ts": 1793480072,
   "items": [
+    {
+      "title": "Ultracold atoms simulate hard-to-observe matter-antimatter pair production",
+      "link": "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 31 Oct 2026 13:00:01 EDT",
+      "published_ts": 1793466001,
+      "summary": "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in principle, convert some of its energy into particles and their antimatter partners. A particle's antimatter partner has the same mas…"
+    },
     {
       "title": "Four superconducting cables link two large quantum processors into one",
       "link": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
@@ -192,14 +200,6 @@
       "published": "Tue, 27 Oct 2026 13:40:06 EDT",
       "published_ts": 1793122806,
       "summary": "Adelaide University quantum engineers have found a new way to improve some of the world's most sensitive sensors of electromagnetic fields, a breakthrough that could help advance brain imaging, medical diagnostics, communications technology and next-generation quantum devices."
-    },
-    {
-      "title": "New converter could bridge light wavelength gap in quantum communications",
-      "link": "https://phys.org/news/2026-10-bridge-wavelength-gap-quantum-communications.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 27 Oct 2026 08:40:01 EDT",
-      "published_ts": 1793104801,
-      "summary": "Quantum networks, systems that connect devices using quantum mechanical effects, could potentially allow users to share information more securely and efficiently. Building these networks typically entails linking stationary qubits, units of quantum information encoded in trapped ions or other physic…"
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
