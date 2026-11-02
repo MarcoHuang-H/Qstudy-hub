@@ -1,6 +1,206 @@
 {
-  "generated_ts": 1793592110,
+  "generated_ts": 1793630210,
   "items": [
+    {
+      "title": "South Korea Launches Hangang Supercomputer, Plans Quantum Integration",
+      "link": "https://thequantuminsider.com/2026/11/02/south-korea-hangang-supercomputer-quantum-integration/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 13:24:22 +0000",
+      "published_ts": 1793625862,
+      "summary": "Insider Brief South Korea’s sixth national supercomputer, Hangang, is now fully operational, Seoul Economic Daily reported. The government expects the system to place among the world’s top 10 machines. It also intends to pair Hangang with a quantum computer in the first half of next year, forming a…"
+    },
+    {
+      "title": "Scottish Widows Targets Quantum Computing With UK Venture Growth Investments",
+      "link": "https://thequantuminsider.com/2026/11/02/scottish-widows-targets-quantum-computing-with-uk-venture-growth-investments/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 13:05:38 +0000",
+      "published_ts": 1793624738,
+      "summary": "Insider Brief Scottish Widows is directing workplace pension savings into British technology businesses, with two quantum computing companies among its expected initial investments. The pension provider has announced its first investments in U.K. venture growth companies through a portfolio overseen…"
+    },
+    {
+      "title": "Ultrathin kagome material opens a route to study unusual quantum states",
+      "link": "https://phys.org/news/2026-10-ultrathin-kagome-material-route-unusual.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 02 Nov 2026 08:00:01 EST",
+      "published_ts": 1793624401,
+      "summary": "How atoms are arranged inside materials can influence the behavior of electrons and the resulting electronic states. Kagome lattices, repeating arrangements of atoms forming triangles that share corners (with hexagonal spaces between them), have been linked with the emergence of unusual electronic s…"
+    },
+    {
+      "title": "Nobel Laureate John Martinis to Deliver Quantum Computing Lecture at UWA",
+      "link": "https://thequantuminsider.com/2026/11/02/john-martinis-quantum-computing-lecture-uwa/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 12:42:49 +0000",
+      "published_ts": 1793623369,
+      "summary": "Insider Brief PRESS RELEASE &#8212; How quantum computing has evolved during the past 40 years from an intellectual curiosity to a potentially realisable technology will be the subject of a free public talk at The University of Western Australia next month by US Nobel Laureate Professor John Martini…"
+    },
+    {
+      "title": "Quantcore Welcomes Innovation Minister to Showcase Manufacturing Ambitions",
+      "link": "https://thequantuminsider.com/2026/11/02/quantcore-welcomes-innovation-minister-to-showcase-manufacturing-ambitions/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 12:38:55 +0000",
+      "published_ts": 1793623135,
+      "summary": "Insider Brief PRESS RELEASE &#8212;  Alyn Smith, Minister for Innovation, Technology and Tertiary Education, recently visited Quantcore to explore how the Scottish Government can support the growth of Scotland’s quantum manufacturing sector. Hosted by CEO Dr Jack Brennan, the visit included a tour o…"
+    },
+    {
+      "title": "Equal1 Appoints Andrew Flynn as Chief Operating Officer",
+      "link": "https://thequantuminsider.com/2026/11/02/andrew-flynn-joins-equal1-chief-operating-officer/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 11:34:39 +0000",
+      "published_ts": 1793619279,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Equal1 has today announced the appointment of Andrew Flynn as Chief Operating Officer to lead operations, as the quantum computing firm scales global commercialisation of RacQ, its rack-mounted quantum computer.&#160; Andrew brings more than twenty years of experi…"
+    },
+    {
+      "title": "Chattanooga Accelerator Selects Four Quantum Startups For Commercialization Program",
+      "link": "https://thequantuminsider.com/2026/11/02/chattanooga-accelerator-selects-four-quantum-startups-for-commercialization-program/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 09:29:12 +0000",
+      "published_ts": 1793611752,
+      "summary": "Insider Brief Chattanooga’s CO.LAB has selected four quantum startups for a yearlong program aimed at turning their technologies into commercial products. The inaugural CO.LAB Q cohort includes Ridge Quantum, which is commercializing encryption technology licensed from Oak Ridge National Laboratory,…"
+    },
+    {
+      "title": "BTQ Technologies Brings MIMIQ Quantum Emulator to qBraid",
+      "link": "https://thequantuminsider.com/2026/11/02/mimiq-quantum-emulator-available-qbraid/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 09:07:06 +0000",
+      "published_ts": 1793610426,
+      "summary": "Insider Brief PRESS RELEASE &#8212; BTQ Technologies Corp. (the &#8220;Company&#8221; or &#8220;BTQ&#8220;) (Nasdaq: BTQ) (Cboe CA: BTQ), a quantum technology company focused on accelerating the transition from classical networks to the quantum internet, today announced that MIMIQ™, its large-scale…"
+    },
+    {
+      "title": "IDEMIA Secure Transactions Receives EMVCo Certification for PQC Payment Cards",
+      "link": "https://thequantuminsider.com/2026/11/02/idemia-payment-cards-post-quantum-transition/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 09:01:00 +0000",
+      "published_ts": 1793610060,
+      "summary": "Insider Brief PRESS RELEASE &#8212; As quantum computing advances, industries are preparing for a future in which today’s cryptographic methods may no longer provide the same level of protection. For banks and issuers, the challenge is clear: ensuring that the payment cards issued today can continue…"
+    },
+    {
+      "title": "Adelaide Researchers Develop Simpler Design for Highly Sensitive Quantum Sensors",
+      "link": "https://thequantuminsider.com/2026/11/02/adelaide-researchers-develop-simpler-design-for-highly-sensitive-quantum-sensors/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 08:50:32 +0000",
+      "published_ts": 1793609432,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Adelaide University quantum engineers have found a new way to improve some of the world&#8217;s most sensitive sensors of electromagnetic fields, a breakthrough that could help advance brain imaging, medical diagnostics, communications technology and next-generati…"
+    },
+    {
+      "title": "Finite-Element Electromagnetic Analysis and Evaluation of Antenna Performance Metrics Using a Quantum Linear System Solver",
+      "link": "https://arxiv.org/abs/2610.40693",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40693v1 Announce Type: new  Abstract: Electromagnetic analysis based on the finite element method is widely used in antenna design. At higher frequencies, however, the required mesh refinement makes solving large sparse linear systems the main contributor to computational cost. Quantum li…"
+    },
+    {
+      "title": "Finite-resource cooling of qudits beyond thermodynamic length",
+      "link": "https://arxiv.org/abs/2610.40709",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40709v1 Announce Type: new  Abstract: Cooling a quantum system with $N$ thermal machines costs more than Landauer's bound. For swap-based collision models the excess is set by thermodynamic length, which is optimal for qubits and was suggested by numerics to be optimal in general. We show…"
+    },
+    {
+      "title": "Quantum manifestations of converse symmetry breaking",
+      "link": "https://arxiv.org/abs/2610.40762",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40762v1 Announce Type: new  Abstract: Quantum synchronization holds promise in advancing quantum technologies such as sensing, communication, and computation. A key challenge in this rapidly developing field is to identify mechanisms that can promote the emergence of synchronous dynamics.…"
+    },
+    {
+      "title": "A Universal Approach to Hydrodynamics in Higher Dimensions via Tensor Networks",
+      "link": "https://arxiv.org/abs/2610.40776",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40776v1 Announce Type: new  Abstract: Extracting late-time hydrodynamic transport properties directly from microscopic quantum models, especially in dimensions beyond one, is believed to be classically intractable. This owes, in part, to the extensive growth of entanglement in higher dime…"
+    },
+    {
+      "title": "Fock-space delocalization and its control in scarred-vs-ergodic dynamics",
+      "link": "https://arxiv.org/abs/2610.40805",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40805v1 Announce Type: new  Abstract: Quantum many-body scarred dynamics in Rydberg-atom arrays is characterized by revivals, in which the system repeatedly returns to its initial state despite its many-body complexity. But how extensively does the wave function explore the space of allow…"
+    },
+    {
+      "title": "Liouvillian spectral snapshots: A reduced-subspace approach for time-dependent and noisy open quantum systems",
+      "link": "https://arxiv.org/abs/2610.40808",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40808v1 Announce Type: new  Abstract: Driven-dissipative quantum devices are routinely operated with time-dependent drives and exposed to temporally correlated classical noise. When these perturbations vary on timescales comparable to the system's intrinsic dynamics, rotating-wave and Mar…"
+    },
+    {
+      "title": "Beyond the Kubo formula: unification of adiabatic and isothermal response in quantum systems",
+      "link": "https://arxiv.org/abs/2610.40810",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40810v1 Announce Type: new  Abstract: The static limit of the Kubo susceptibility describes the adiabatic response of an isolated quantum system, in which energy-level occupations remain unchanged, and generally differs from the isothermal susceptibility, where these occupations readjust…"
+    },
+    {
+      "title": "Witnessing and quantifying stellar rank with the Wigner function",
+      "link": "https://arxiv.org/abs/2610.40827",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40827v1 Announce Type: new  Abstract: Quantifying non-Gaussianity is essential for assessing the computational power of bosonic quantum systems. We introduce a framework to witness and quantify non-Gaussianity from displaced parity measurements, and we directly apply it to experimental da…"
+    },
+    {
+      "title": "Electronic-Structure-Informed Many-Body Encoding for Quantum Machine Learning",
+      "link": "https://arxiv.org/abs/2610.40840",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40840v1 Announce Type: new  Abstract: Data encoding is a central challenge in quantum machine learning (QML), as it determines how classical information is mapped onto quantum states and influences the expressive power and efficiency of parameterized quantum circuits. Here, we introduce a…"
+    },
+    {
+      "title": "Predictive Maintenance at the Edge: An Embedded Anomaly Detection Pipeline Trained with Quantum Optimization",
+      "link": "https://arxiv.org/abs/2610.40848",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40848v1 Announce Type: new  Abstract: This article presents a predictive-maintenance pipeline that detects anomalies in bearings from vibration signals, adapted for deployment at the edge on low-cost microcontrollers, and that uses quantum optimization in two steps of its training. The pi…"
+    },
+    {
+      "title": "Colloquium: Quantum information processing with ensembles of identical particles",
+      "link": "https://arxiv.org/abs/2610.40852",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40852v1 Announce Type: new  Abstract: Identical particles underpin most quantum technologies, but the role of indistinguishability in these processes extends far beyond the symmetrization of many-particle states. This Colloquium presents a unified operational perspective on how particle i…"
+    },
+    {
+      "title": "Clifford synthesis is NP-complete",
+      "link": "https://arxiv.org/abs/2610.40886",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40886v1 Announce Type: new  Abstract: We show that the problem of synthesizing a quantum circuit for a given Clifford operator using at most a specified amount of resources is NP-complete for several resource models of practical interest.   Specifically, we study synthesis of a given Clif…"
+    },
+    {
+      "title": "Optical Quantum Memory Processing for Quantum Hashing",
+      "link": "https://arxiv.org/abs/2610.40904",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40904v1 Announce Type: new  Abstract: Sender authentication is an important requirement for secure quantum communication networks. We propose programmable photon-echo quantum memory processing of a multi-time-bin photonic qudit for implementing a quantum-hash-based verification protocol.…"
+    },
+    {
+      "title": "Hypergraph cycle enumeration for efficient inference of planted k-XOR with smooth trade-off",
+      "link": "https://arxiv.org/abs/2610.40941",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40941v1 Announce Type: new  Abstract: We introduce hypergraph cycle enumeration (HCE), a simple spectral framework for detecting and recovering planted signals in noisy hypergraph inference problems. We study HCE on one representative problem from this class, namely planted noisy k-XOR, a…"
+    },
+    {
+      "title": "Variational Programs with Open Clocks",
+      "link": "https://arxiv.org/abs/2610.40988",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793595600,
+      "summary": "arXiv:2610.40988v1 Announce Type: new  Abstract: Variational quantum algorithms leave the durations of Hamiltonian evolutions open for a classical optimizer to set. We present VHamilton, a minimal extension of the Hamilton quantum programming language in which such durations are open clocks: one pro…"
+    },
     {
       "title": "Ultracold atoms simulate hard-to-observe matter-antimatter pair production",
       "link": "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html",
@@ -34,14 +234,6 @@
       "summary": "Particle accelerators are expensive. Not just to build or to run, but also to predict the outcome of measurements obtained from them."
     },
     {
-      "title": "Quantum Industry Coalition Highlights Funding Priorities For The National Quantum Initiative Reauthorization Act",
-      "link": "https://thequantuminsider.com/2026/10/30/quantum-industry-coalition-highlights-funding-priorities-for-the-national-quantum-initiative-reauthorization-act/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 30 Oct 2026 19:37:04 +0000",
-      "published_ts": 1793389024,
-      "summary": "By Alexandra Kelley Insider Brief The Quantum Industry Coalition sent a letter to Congressional leadership on Friday urging the passage of the National Quantum Initiative Reauthorization Act, along with a list of funding priorities the industry group wants to see included in the pending bill. The le…"
-    },
-    {
       "title": "UTe₂ reveals two flavors of superconductivity under extreme pressure",
       "link": "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html",
       "source": "Phys.org — Quantum Physics",
@@ -58,76 +250,12 @@
       "summary": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is extraordinarily fragile, and the entanglement between particles of light on which such networks would…"
     },
     {
-      "title": "Infleqtion Tests Optical Atomic Clock During US Navy Exercise",
-      "link": "https://thequantuminsider.com/2026/10/30/infleqtion-optical-atomic-clock-navy-exercise/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 30 Oct 2026 13:50:41 +0000",
-      "published_ts": 1793368241,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral atom technology, demonstrated quantum timing capabilities to support navigation using the company’s Tiqker optical atomic clock. The demonstration took place durin…"
-    },
-    {
-      "title": "Netpoleon India Partners With QNu Labs on Quantum-Safe Security",
-      "link": "https://thequantuminsider.com/2026/10/30/netpoleon-qnu-labs-quantum-safe-security/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 30 Oct 2026 13:42:42 +0000",
-      "published_ts": 1793367762,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Netpoleon India, a value-added cybersecurity distributor, has onboarded QNu Labs, an India-born deep-tech cybersecurity company, in a strategic collaboration aimed at accelerating quantum-safe cybersecurity readiness and strengthening long-term digital resilience…"
-    },
-    {
-      "title": "SUNY Chancellor Highlights Quantum and Energy Research at Stony Brook",
-      "link": "https://thequantuminsider.com/2026/10/30/suny-chancellor-stony-brook-research-visit/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 30 Oct 2026 13:36:10 +0000",
-      "published_ts": 1793367370,
-      "summary": "Insider Brief PRESS RELEASE &#8212; State University of New York Chancellor John B. King Jr. today highlighted the State University of New York at Stony Brook’s groundbreaking research with a tour of research facilities and campus laboratories. During his visit, Chancellor King was joined by SUNY Tr…"
-    },
-    {
-      "title": "Speakers Point to Risk Appetite And Capital as UK Deep-Tech Bottlenecks at City Quantum & AI Summit",
-      "link": "https://thequantuminsider.com/2026/10/30/speakers-point-to-risk-appetite-and-capital-as-uk-deep-tech-bottlenecks-at-city-quantum-ai-summit/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 30 Oct 2026 13:10:19 +0000",
-      "published_ts": 1793365819,
-      "summary": "Insider Brief Speakers at the City Quantum &#38; AI Summit in London said the UK has much of what it needs to put quantum and AI technology into the hands of its armed forces and to grow the companies that build it, but that the institutions buying the technology and holding the capital are moving […"
-    },
-    {
-      "title": "France National Quantum Update: October 2026",
-      "link": "https://thequantuminsider.com/2026/10/30/france-national-quantum-update-october-2026/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 30 Oct 2026 11:54:29 +0000",
-      "published_ts": 1793361269,
-      "summary": "EXECUTIVE SUMMARY France expanded its quantum technology ties with Vietnam in October, combining a business delegation with agreements covering computing infrastructure, research and workforce development. The activity highlighted international expansion alongside efforts at home to integrate quantu…"
-    },
-    {
       "title": "Unusual quantum states in six-layer graphene offer clues to superconductivity",
       "link": "https://phys.org/news/2026-10-unusual-quantum-states-layer-graphene.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 30 Oct 2026 07:40:06 EDT",
       "published_ts": 1793360406,
       "summary": "Graphene, a material consisting of a sheet of carbon atoms arranged in a honeycomb pattern, has proved promising for various technological applications. Materials in which several layers of graphene are stacked together can exhibit different advantageous properties."
-    },
-    {
-      "title": "Foxconn Aims to Become World’s Largest Quantum Computer Manufacturer",
-      "link": "https://thequantuminsider.com/2026/10/30/foxconn-aims-to-become-worlds-largest-quantum-computer-manufacturer/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 30 Oct 2026 11:39:35 +0000",
-      "published_ts": 1793360375,
-      "summary": "Insider Brief Foxconn wants to become the world’s largest quantum computer manufacturer, betting on machines its chairman says will accelerate specialized calculations while taking at least another two years to become commercially viable. Chairman Young Liu told CNBC that the company sees an opportu…"
-    },
-    {
-      "title": "Wolfspeed Introduces Optical-Grade Silicon Carbide for Augmented Reality and Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/10/30/wolfspeed-transparent-silicon-carbide-technology/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 30 Oct 2026 09:55:39 +0000",
-      "published_ts": 1793354139,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Wolfspeed, Inc. (NYSE: WOLF), a global leader in silicon carbide (SiC) technology, today announced the commercial introduction of its proprietary transparent silicon carbide (TSiC™) technology expanding the potential of silicon carbide to enable next-generation au…"
-    },
-    {
-      "title": "MBHB Launches Quantum and Semiconductor IP Practice",
-      "link": "https://thequantuminsider.com/2026/10/30/mbhb-quantum-semiconductor-ip-practice/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 30 Oct 2026 09:48:54 +0000",
-      "published_ts": 1793353734,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Full-service intellectual property law firm McDonnell Boehnen Hulbert &#38; Berghoff LLP (MBHB) has launched a Quantum, Optics, and Semiconductors Practice Group. The team of attorneys and patent agents, which includes former nanotechnology, electromagnetics, and…"
     },
     {
       "title": "Small molecular twists may strengthen nature's magnetic compass",
@@ -192,14 +320,6 @@
       "published": "Tue, 27 Oct 2026 14:40:12 EDT",
       "published_ts": 1793126412,
       "summary": "Researchers from Jülich, Aachen and Cologne have performed a quantum operation on a qubit in just 6.8 nanoseconds—with more than 99.98% accuracy. Such operations typically take several tens of nanoseconds in superconducting quantum computers. The paper was published in Nature Communications."
-    },
-    {
-      "title": "Quantum sensor loop design could improve magnetic measurements for medicine and communications",
-      "link": "https://phys.org/news/2026-10-quantum-sensor-loop-magnetic-medicine.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 27 Oct 2026 13:40:06 EDT",
-      "published_ts": 1793122806,
-      "summary": "Adelaide University quantum engineers have found a new way to improve some of the world's most sensitive sensors of electromagnetic fields, a breakthrough that could help advance brain imaging, medical diagnostics, communications technology and next-generation quantum devices."
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
