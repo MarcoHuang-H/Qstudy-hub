@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1793712609,
+  "generated_ts": 1793746136,
   "items": [
+    {
+      "title": "Light-matter hybrids form supersolid quantum state at room temperature",
+      "link": "https://phys.org/news/2026-11-hybrids-supersolid-quantum-state-room.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 03 Nov 2026 17:20:11 EST",
+      "published_ts": 1793744411,
+      "summary": "Researchers from the Faculty of Physics at the University of Warsaw, the Military University of Technology (Poland), IBM Research Zurich and the French National Centre for Scientific Research (CNRS) have observed a new quantum state of matter known as a supersolid in an exciton-polariton Bose-Einste…"
+    },
+    {
+      "title": "A single measurement makes quantum bits more reliable",
+      "link": "https://phys.org/news/2026-11-quantum-bits-reliable.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 03 Nov 2026 15:40:06 EST",
+      "published_ts": 1793738406,
+      "summary": "Researchers at the University of Regensburg and their international partners have found a way to significantly reduce errors in quantum bits. In an experiment, they demonstrated that a single additional measurement before a series of quantum operations can cut the error rate by more than half. The r…"
+    },
+    {
+      "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search",
+      "link": "https://phys.org/news/2026-11-physicists-closer-zeptoverse-year-particle.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 03 Nov 2026 10:40:30 EST",
+      "published_ts": 1793720430,
+      "summary": "Physicists have found evidence of a particle decay so rare that it is expected to occur only around once in every 10 billion \"beauty\" particles. The result, from the upgraded LHCb experiment at CERN's Large Hadron Collider (LHC), follows a search spanning more than 40 years and brings physicists clo…"
+    },
+    {
+      "title": "University of Chicago and Toyota Partner on Quantum Research for Future Mobility",
+      "link": "https://thequantuminsider.com/2026/11/03/university-chicago-toyota-quantum-research-future-mobility/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 03 Nov 2026 14:38:04 +0000",
+      "published_ts": 1793716684,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The University of Chicago (UChicago) and Toyota have entered into a multi-year collaborative research agreement to accelerate the development of quantum technologies for future mobility, sustainable transportation and secure vehicle systems. The collaboration brid…"
+    },
+    {
+      "title": "EigenOrbit Study Compares 12 Quantum Computing Backends",
+      "link": "https://thequantuminsider.com/2026/11/03/eigenorbit-study-compares-12-quantum-computing-backends/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 03 Nov 2026 14:33:10 +0000",
+      "published_ts": 1793716390,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A new study from the EigenOrbit research team examines a growing challenge in quantum computing: how to run and compare the same quantum algorithm across different simulators and hardware platforms without rebuilding the software workflow for each provider. The pa…"
+    },
+    {
+      "title": "FirstQFM Says Quantum System Beats Classical Forecasting Benchmarks",
+      "link": "https://thequantuminsider.com/2026/11/03/firstqfm-says-quantum-system-beats-classical-forecasting-benchmarks/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 03 Nov 2026 14:01:10 +0000",
+      "published_ts": 1793714470,
+      "summary": "Insider Brief PRESS RELEASE &#8212; FirstQFM today announced results from a financial forecasting evaluation in which its proprietary foundation-model-based quantum reservoir computing (QRC) system, running on Rigetti Computing’s Cepheus™-1-108Q system using data supplied by SW7 Group, outperformed…"
+    },
     {
       "title": "Chicago Quantum Exchange Appoints Aaron Fluitt as CEO",
       "link": "https://thequantuminsider.com/2026/11/03/aaron-fluitt-ceo-chicago-quantum-exchange/",
@@ -82,30 +130,6 @@
       "summary": "Quantum computers rely on qubits as their units of information. To connect them into a larger network across long distances, they need to transmit quantum information using light."
     },
     {
-      "title": "Qtonic Quantum Appoints Former NATO Commander as Head of Operations",
-      "link": "https://thequantuminsider.com/2026/11/02/former-nato-allied-land-command-chief-qtonic-quantum-coo/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 02 Nov 2026 15:51:08 +0000",
-      "published_ts": 1793634668,
-      "summary": "Insider Brief PRESS RELEASE &#8212; LTG (Ret.) Roger L. Cloutier Jr., U.S. Army, former commander of NATO Allied Land Command, now leads operations at Qtonic Quantum Corp, the company announced today. He has chaired the company&#8217;s Allied Defense Council since May 2026 and continues in that role…"
-    },
-    {
-      "title": "FAU Researchers Test Quantum Machine Learning for Lung Cancer Prediction",
-      "link": "https://thequantuminsider.com/2026/11/02/fau-study-quantum-methods-lung-cancer-prediction/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 02 Nov 2026 15:41:47 +0000",
-      "published_ts": 1793634107,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Developing reliable machine learning models for healthcare can be challenging when only small datasets are available. This challenge motivates research into whether quantum computing approaches can learn useful patterns from limited symptom and risk-factor data. A…"
-    },
-    {
-      "title": "How Many Qubits Would it Take to Simulate a Holographic Universe?",
-      "link": "https://thequantuminsider.com/2026/11/02/how-many-qubits-would-it-take-to-simulate-a-holographic-universe/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 02 Nov 2026 14:23:25 +0000",
-      "published_ts": 1793629405,
-      "summary": "Insider brief Quantum computing roadmaps usually talk about drug discovery, materials and optimisation. One of the most influential theoretical physicists alive has a different application in mind: simulating a universe. In the latest episode of The Quantum Kid, Prof. Juan Maldacena of the Institute…"
-    },
-    {
       "title": "Ultrathin kagome material opens a route to study unusual quantum states",
       "link": "https://phys.org/news/2026-10-ultrathin-kagome-material-route-unusual.html",
       "source": "Phys.org — Quantum Physics",
@@ -184,30 +208,6 @@
       "published": "Thu, 29 Oct 2026 14:40:08 EDT",
       "published_ts": 1793299208,
       "summary": "Researchers at EPFL have developed a chip-scale blue laser that combines stable light emission with rapid frequency control, opening possibilities for underwater communication, environmental sensing and quantum technologies."
-    },
-    {
-      "title": "Theoretical method uses light to locate anyons, potential quantum computing building blocks",
-      "link": "https://phys.org/news/2026-10-theoretical-method-anyons-potential-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 29 Oct 2026 10:40:01 EDT",
-      "published_ts": 1793284801,
-      "summary": "Theoretical physicists at Emory University have discovered a way to use light to detect the \"spectral fingerprints\" of anyons—exotic quasiparticles that emerge from the collective behavior of many electrons. Their findings are published in Physical Review Letters. The work offers a new tool for the…"
-    },
-    {
-      "title": "When simulations fall short, this spectrometer learns for itself",
-      "link": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 28 Oct 2026 12:40:08 EDT",
-      "published_ts": 1793205608,
-      "summary": "An NMR spectrometer can reveal molecular structure down to the atomic level, but weak signals limit what it can see. Now, Aarhus University researchers have used AI to let the spectrometer learn the best pulse sequence directly from the sample."
-    },
-    {
-      "title": "Slow-motion electron camera reveals light-driven quantum jumps in graphene",
-      "link": "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 28 Oct 2026 12:00:28 EDT",
-      "published_ts": 1793203228,
-      "summary": "Using a new slow-motion electron camera, physicists from Regensburg, Marburg and Jülich revealed how intense electric fields drive electrons in graphene, causing them to jump across energy gaps in a seemingly paradoxical manner. This was made possible by a novel combination of laser technology and e…"
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
