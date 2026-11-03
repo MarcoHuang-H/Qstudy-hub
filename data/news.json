@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1793630210,
+  "generated_ts": 1793665442,
   "items": [
+    {
+      "title": "Powering up for a pivotal moment",
+      "link": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
+      "source": "MIT News — Quantum Computing",
+      "published": "Mon, 02 Nov 2026 14:55:00 -0500",
+      "published_ts": 1793649300,
+      "summary": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs."
+    },
+    {
+      "title": "Experiment supports theoretical foundation for potentially more error-resistant quantum computing",
+      "link": "https://phys.org/news/2026-11-theoretical-foundation-potentially-error-resistant.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 02 Nov 2026 13:30:01 EST",
+      "published_ts": 1793644201,
+      "summary": "One approach to making information storage in quantum computing less prone to errors is known as topological quantum computing. It relies on special quantum states that are expected to be more resistant to local disturbances."
+    },
+    {
+      "title": "Single molecules could provide the building blocks for future quantum networks",
+      "link": "https://phys.org/news/2026-11-molecules-blocks-future-quantum-networks.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 02 Nov 2026 12:00:05 EST",
+      "published_ts": 1793638805,
+      "summary": "Quantum computers rely on qubits as their units of information. To connect them into a larger network across long distances, they need to transmit quantum information using light."
+    },
+    {
+      "title": "Qtonic Quantum Appoints Former NATO Commander as Head of Operations",
+      "link": "https://thequantuminsider.com/2026/11/02/former-nato-allied-land-command-chief-qtonic-quantum-coo/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 15:51:08 +0000",
+      "published_ts": 1793634668,
+      "summary": "Insider Brief PRESS RELEASE &#8212; LTG (Ret.) Roger L. Cloutier Jr., U.S. Army, former commander of NATO Allied Land Command, now leads operations at Qtonic Quantum Corp, the company announced today. He has chaired the company&#8217;s Allied Defense Council since May 2026 and continues in that role…"
+    },
+    {
+      "title": "FAU Researchers Test Quantum Machine Learning for Lung Cancer Prediction",
+      "link": "https://thequantuminsider.com/2026/11/02/fau-study-quantum-methods-lung-cancer-prediction/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 15:41:47 +0000",
+      "published_ts": 1793634107,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Developing reliable machine learning models for healthcare can be challenging when only small datasets are available. This challenge motivates research into whether quantum computing approaches can learn useful patterns from limited symptom and risk-factor data. A…"
+    },
+    {
+      "title": "How Many Qubits Would it Take to Simulate a Holographic Universe?",
+      "link": "https://thequantuminsider.com/2026/11/02/how-many-qubits-would-it-take-to-simulate-a-holographic-universe/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 14:23:25 +0000",
+      "published_ts": 1793629405,
+      "summary": "Insider brief Quantum computing roadmaps usually talk about drug discovery, materials and optimisation. One of the most influential theoretical physicists alive has a different application in mind: simulating a universe. In the latest episode of The Quantum Kid, Prof. Juan Maldacena of the Institute…"
+    },
+    {
+      "title": "HKUST and HKMA Launch PQC Toolkit for Banks",
+      "link": "https://thequantuminsider.com/2026/11/02/hkust-hkma-launch-pqc-toolkit-banks/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 02 Nov 2026 13:55:24 +0000",
+      "published_ts": 1793627724,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Hong Kong University of Science and Technology (HKUST) and The Hong Kong Monetary Authority (HKMA) today (2 November) launched the Post-Quantum Cryptography (PQC) Toolkit (Toolkit), with support from industry participants. The Toolkit sets out a structured and…"
+    },
     {
       "title": "South Korea Launches Hangang Supercomputer, Plans Quantum Integration",
       "link": "https://thequantuminsider.com/2026/11/02/south-korea-hangang-supercomputer-quantum-integration/",
@@ -56,30 +112,6 @@
       "published": "Mon, 02 Nov 2026 09:29:12 +0000",
       "published_ts": 1793611752,
       "summary": "Insider Brief Chattanooga’s CO.LAB has selected four quantum startups for a yearlong program aimed at turning their technologies into commercial products. The inaugural CO.LAB Q cohort includes Ridge Quantum, which is commercializing encryption technology licensed from Oak Ridge National Laboratory,…"
-    },
-    {
-      "title": "BTQ Technologies Brings MIMIQ Quantum Emulator to qBraid",
-      "link": "https://thequantuminsider.com/2026/11/02/mimiq-quantum-emulator-available-qbraid/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 02 Nov 2026 09:07:06 +0000",
-      "published_ts": 1793610426,
-      "summary": "Insider Brief PRESS RELEASE &#8212; BTQ Technologies Corp. (the &#8220;Company&#8221; or &#8220;BTQ&#8220;) (Nasdaq: BTQ) (Cboe CA: BTQ), a quantum technology company focused on accelerating the transition from classical networks to the quantum internet, today announced that MIMIQ™, its large-scale…"
-    },
-    {
-      "title": "IDEMIA Secure Transactions Receives EMVCo Certification for PQC Payment Cards",
-      "link": "https://thequantuminsider.com/2026/11/02/idemia-payment-cards-post-quantum-transition/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 02 Nov 2026 09:01:00 +0000",
-      "published_ts": 1793610060,
-      "summary": "Insider Brief PRESS RELEASE &#8212; As quantum computing advances, industries are preparing for a future in which today’s cryptographic methods may no longer provide the same level of protection. For banks and issuers, the challenge is clear: ensuring that the payment cards issued today can continue…"
-    },
-    {
-      "title": "Adelaide Researchers Develop Simpler Design for Highly Sensitive Quantum Sensors",
-      "link": "https://thequantuminsider.com/2026/11/02/adelaide-researchers-develop-simpler-design-for-highly-sensitive-quantum-sensors/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 02 Nov 2026 08:50:32 +0000",
-      "published_ts": 1793609432,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Adelaide University quantum engineers have found a new way to improve some of the world&#8217;s most sensitive sensors of electromagnetic fields, a breakthrough that could help advance brain imaging, medical diagnostics, communications technology and next-generati…"
     },
     {
       "title": "Finite-Element Electromagnetic Analysis and Evaluation of Antenna Performance Metrics Using a Quantum Linear System Solver",
@@ -218,14 +250,6 @@
       "summary": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can work together as one larger machine. For this to happen, however, connections must c…"
     },
     {
-      "title": "Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit",
-      "link": "https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/",
-      "source": "The Quantum Insider",
-      "published": "Sat, 31 Oct 2026 08:00:00 +0000",
-      "published_ts": 1793433600,
-      "summary": "Julien Camirand Lemire, co-founder and CEO of Nord Quantique, is interviewed by Yuval Boger. Julien discusses Nord Quantique&#8216;s bosonic code approach, which uses microwave photons in superconducting cavities to achieve quantum error correction without large qubit overhead, including their GKP a…"
-    },
-    {
       "title": "How a 'tropical' shortcut could help particle collider experiments",
       "link": "https://phys.org/news/2026-10-tropical-shortcut-particle-collider.html",
       "source": "Phys.org — Quantum Physics",
@@ -304,22 +328,6 @@
       "published": "Wed, 28 Oct 2026 12:00:28 EDT",
       "published_ts": 1793203228,
       "summary": "Using a new slow-motion electron camera, physicists from Regensburg, Marburg and Jülich revealed how intense electric fields drive electrons in graphene, causing them to jump across energy gaps in a seemingly paradoxical manner. This was made possible by a novel combination of laser technology and e…"
-    },
-    {
-      "title": "Against all expectations, researchers control the magnetic core of a single atom",
-      "link": "https://phys.org/news/2026-10-magnetic-core-atom.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 28 Oct 2026 10:20:08 EDT",
-      "published_ts": 1793197208,
-      "summary": "Researchers at Delft University of Technology (the Netherlands) have succeeded in controlling the magnetism in the nucleus of a single atom with radio waves. This came as a surprise: until now, physicists believed that this nuclear spin could not be manipulated directly. The discovery could open up…"
-    },
-    {
-      "title": "Quantum gates set speed record at 6.8 nanoseconds with over 99.98% accuracy",
-      "link": "https://phys.org/news/2026-10-quantum-gates-nanoseconds-accuracy.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 27 Oct 2026 14:40:12 EDT",
-      "published_ts": 1793126412,
-      "summary": "Researchers from Jülich, Aachen and Cologne have performed a quantum operation on a qubit in just 6.8 nanoseconds—with more than 99.98% accuracy. Such operations typically take several tens of nanoseconds in superconducting quantum computers. The paper was published in Nature Communications."
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
@@ -552,14 +560,6 @@
       "published": "Thu, 28 May 2026 12:00:00 -0400",
       "published_ts": 1779984000,
       "summary": "With $25 million investment from the Commonwealth of Massachusetts, MIT to build a new shared-use facility to serve as a statewide quantum toolbox."
-    },
-    {
-      "title": "Researchers “reprogram” materials by quickly rearranging their atoms",
-      "link": "https://news.mit.edu/2026/researchers-reprogram-materials-quickly-rearranging-their-atoms-0513",
-      "source": "MIT News — Quantum Computing",
-      "published": "Wed, 13 May 2026 11:00:00 -0400",
-      "published_ts": 1778684400,
-      "summary": "A new method for precisely moving columns of individual atoms within a material could give rise to exotic quantum properties."
     }
   ]
 }
