@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1793746136,
+  "generated_ts": 1793766967,
   "items": [
+    {
+      "title": "Finding the fingerprints of noisy distributions in random quantum systems",
+      "link": "https://phys.org/news/2026-11-fingerprints-noisy-random-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 03 Nov 2026 18:40:01 EST",
+      "published_ts": 1793749201,
+      "summary": "Imagine shuffling a deck of cards where some of the cards are fading just because of the way they interact with the external environment as you shuffle them. Your job is to figure out the interplay between the shuffling, or \"imposed randomness,\" due to the way you shuffle your cards and how that rel…"
+    },
     {
       "title": "Light-matter hybrids form supersolid quantum state at room temperature",
       "link": "https://phys.org/news/2026-11-hybrids-supersolid-quantum-state-room.html",
@@ -200,14 +208,6 @@
       "published": "Thu, 29 Oct 2026 17:30:05 EDT",
       "published_ts": 1793309405,
       "summary": "The word \"vacuum\" may conjure the image of empty space. Maybe you think of a region far outside the solar system without planets, debris, gas clouds or light. According to quantum theory, however, a vacuum is never truly empty. Quantum mechanics extends the Heisenberg uncertainty principle—which sta…"
-    },
-    {
-      "title": "A blue laser for underwater communication and sensing",
-      "link": "https://phys.org/news/2026-10-blue-laser-underwater-communication.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 29 Oct 2026 14:40:08 EDT",
-      "published_ts": 1793299208,
-      "summary": "Researchers at EPFL have developed a chip-scale blue laser that combines stable light emission with rapid frequency control, opening possibilities for underwater communication, environmental sensing and quantum technologies."
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
