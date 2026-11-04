@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1793799665,
+  "generated_ts": 1793833630,
   "items": [
+    {
+      "title": "A new superinductor created within a silicon integrated circuit",
+      "link": "https://phys.org/news/2026-11-superinductor-silicon-circuit.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 04 Nov 2026 17:40:08 EST",
+      "published_ts": 1793832008,
+      "summary": "A recent study published in Nature Electronics and carried out by researchers from nanoGUNE's Quantum Hardware research group, Quantum Motion, London Center for Nanotechnology, Imperial College London and the University of Cambridge introduces a new superinductor created within a silicon integrated…"
+    },
+    {
+      "title": "SuperMatics Uses AI to Turn Superconductor Discoveries Into Usable Wire",
+      "link": "https://thequantuminsider.com/2026/11/04/supermatics-uses-ai-to-turn-superconductor-discoveries-into-usable-wire/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 04 Nov 2026 21:44:26 +0000",
+      "published_ts": 1793828666,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Since 1911, scientists have discovered thousands of superconductors, materials that carry electricity with zero resistance. Only a handful have ever been made into commercial wire. SuperMatics, a Berkeley company building AI exclusively for superconductors, is tar…"
+    },
+    {
+      "title": "New research uncovers chiral topological phases in metals without structural order",
+      "link": "https://phys.org/news/2026-11-uncovers-chiral-topological-phases-metals.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 04 Nov 2026 16:20:21 EST",
+      "published_ts": 1793827221,
+      "summary": "Fermions are among the most important particles in physics and include both everyday electrons and more exotic variants. Chiral fermions, like gloves, come in left- and right-handed versions and were proposed over a century ago. While high-energy neutrinos—the leading candidates for massless chiral…"
+    },
+    {
+      "title": "Five things to know about guiding sound for better communication",
+      "link": "https://phys.org/news/2026-11-communication.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 04 Nov 2026 13:40:16 EST",
+      "published_ts": 1793817616,
+      "summary": "Every time someone picks up a call, the phone does a quiet bit of translation. Incoming radio signals are converted into tiny sound waves that ripple across chips before being turned back into data."
+    },
+    {
+      "title": "IonQ Partners With QuantumCT to Expand Quantum Computing Access in Connecticut",
+      "link": "https://thequantuminsider.com/2026/11/04/ionq-quantumct-quantum-computing-access-connecticut/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 04 Nov 2026 18:25:54 +0000",
+      "published_ts": 1793816754,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world&#8217;s leading full-stack quantum platform and foundry, today announced a partnership with QuantumCT, Connecticut&#8217;s statewide initiative to accelerate quantum innovation and economic development. QuantumCT will purchase access t…"
+    },
+    {
+      "title": "IonQ Completes Acquisition of Zero Trust Security Company Elisity",
+      "link": "https://thequantuminsider.com/2026/11/04/ionq-completes-acquisition-zero-trust-security-company-elisity/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 04 Nov 2026 18:20:27 +0000",
+      "published_ts": 1793816427,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world&#8217;s leading full-stack quantum platform and foundry, today completed its acquisition of Elisity, Inc., a Zero Trust security company, in an all-stock transaction. The combination extends IonQ’s quantum security strategy, adding Zer…"
+    },
+    {
+      "title": "EIC Scaling Club Reports €4 Billion Raised, Including Major Quantum and AI Round",
+      "link": "https://thequantuminsider.com/2026/11/04/eic-scaling-club-reports-e4-billion-raised-including-major-quantum-and-ai-round/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 04 Nov 2026 15:09:53 +0000",
+      "published_ts": 1793804993,
+      "summary": "Insider Brief PRESS RELEASE &#8212; European deep tech scale-ups have raised more than €4 billion since joining the EIC Scaling Club, an EIC-funded initiative for promising European deep tech scale-ups, growing their funding 2.3 times faster than comparable businesses relative to their pre-joining f…"
+    },
     {
       "title": "Quantum Base Secures £700,000 UKRI Research Fellowship",
       "link": "https://thequantuminsider.com/2026/11/04/quantum-base-secures-ukri-research-fellowship/",
@@ -48,14 +104,6 @@
       "published": "Wed, 04 Nov 2026 08:50:37 +0000",
       "published_ts": 1793782237,
       "summary": "Guest Post by Andrew Gault, CEO, ZeroTier. The financial services industry depends on cryptography to move money, protect customer and transaction data, verify digital identities, and connect banks with processors, cloud providers, and other third parties. This protection, Quantum computing puts tha…"
-    },
-    {
-      "title": "One Broken Symmetry Opens a Path to Universal Quantum Control",
-      "link": "https://thequantuminsider.com/2026/11/04/one-broken-symmetry-opens-a-path-to-universal-quantum-control/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 04 Nov 2026 08:29:50 +0000",
-      "published_ts": 1793780990,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A new theory identifies what globally driven quantum systems need to become fully controllable. In a Rydberg-atom experiment, optimized pulses also create an interaction involving three atoms at once. The study by Hong-Ye Hu and colleagues is forthcoming in Nature…"
     },
     {
       "title": "Testing Einstein's laws from the bottom of the Mediterranean Sea",
@@ -112,30 +160,6 @@
       "published": "Tue, 03 Nov 2026 10:40:30 EST",
       "published_ts": 1793720430,
       "summary": "Physicists have found evidence of a particle decay so rare that it is expected to occur only around once in every 10 billion \"beauty\" particles. The result, from the upgraded LHCb experiment at CERN's Large Hadron Collider (LHC), follows a search spanning more than 40 years and brings physicists clo…"
-    },
-    {
-      "title": "University of Chicago and Toyota Partner on Quantum Research for Future Mobility",
-      "link": "https://thequantuminsider.com/2026/11/03/university-chicago-toyota-quantum-research-future-mobility/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 03 Nov 2026 14:38:04 +0000",
-      "published_ts": 1793716684,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The University of Chicago (UChicago) and Toyota have entered into a multi-year collaborative research agreement to accelerate the development of quantum technologies for future mobility, sustainable transportation and secure vehicle systems. The collaboration brid…"
-    },
-    {
-      "title": "EigenOrbit Study Compares 12 Quantum Computing Backends",
-      "link": "https://thequantuminsider.com/2026/11/03/eigenorbit-study-compares-12-quantum-computing-backends/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 03 Nov 2026 14:33:10 +0000",
-      "published_ts": 1793716390,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A new study from the EigenOrbit research team examines a growing challenge in quantum computing: how to run and compare the same quantum algorithm across different simulators and hardware platforms without rebuilding the software workflow for each provider. The pa…"
-    },
-    {
-      "title": "FirstQFM Says Quantum System Beats Classical Forecasting Benchmarks",
-      "link": "https://thequantuminsider.com/2026/11/03/firstqfm-says-quantum-system-beats-classical-forecasting-benchmarks/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 03 Nov 2026 14:01:10 +0000",
-      "published_ts": 1793714470,
-      "summary": "Insider Brief PRESS RELEASE &#8212; FirstQFM today announced results from a financial forecasting evaluation in which its proprietary foundation-model-based quantum reservoir computing (QRC) system, running on Rigetti Computing’s Cepheus™-1-108Q system using data supplied by SW7 Group, outperformed…"
     },
     {
       "title": "Powering up for a pivotal moment",
@@ -200,30 +224,6 @@
       "published": "Fri, 30 Oct 2026 15:00:09 EDT",
       "published_ts": 1793386809,
       "summary": "Quantum researchers are searching for a topological superconductor—a material that, if discovered, would allow major advances in quantum computing by combining two distinct \"flavors\" of superconductivity."
-    },
-    {
-      "title": "Quantum skyrmions outlast entanglement, hinting at more resilient networks",
-      "link": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 30 Oct 2026 11:40:01 EDT",
-      "published_ts": 1793374801,
-      "summary": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is extraordinarily fragile, and the entanglement between particles of light on which such networks would…"
-    },
-    {
-      "title": "Unusual quantum states in six-layer graphene offer clues to superconductivity",
-      "link": "https://phys.org/news/2026-10-unusual-quantum-states-layer-graphene.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 30 Oct 2026 07:40:06 EDT",
-      "published_ts": 1793360406,
-      "summary": "Graphene, a material consisting of a sheet of carbon atoms arranged in a honeycomb pattern, has proved promising for various technological applications. Materials in which several layers of graphene are stacked together can exhibit different advantageous properties."
-    },
-    {
-      "title": "Small molecular twists may strengthen nature's magnetic compass",
-      "link": "https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 30 Oct 2026 01:00:01 EDT",
-      "published_ts": 1793336401,
-      "summary": "A collaborative research team led by Yasuhiro Kobori at Kobe University, together with researchers from Toho University, Saitama University, Nagoya Institute of Technology and the University of Freiburg, has identified a potential molecular mechanism that could enhance magnetic compass responses in…"
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
