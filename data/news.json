@@ -1,6 +1,86 @@
 {
-  "generated_ts": 1793766967,
+  "generated_ts": 1793799665,
   "items": [
+    {
+      "title": "Quantum Base Secures £700,000 UKRI Research Fellowship",
+      "link": "https://thequantuminsider.com/2026/11/04/quantum-base-secures-ukri-research-fellowship/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 04 Nov 2026 13:17:20 +0000",
+      "published_ts": 1793798240,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Base (AIM: QUBE), the quantum science company focused on creating a new global standard in authentication, is pleased to announce that it has been awarded a UK Research and Innovation (“UKRI”) Future Leaders Fellowship Grant (the “Grant”), with Dr William…"
+    },
+    {
+      "title": "D-Wave Updates Stride Hybrid Solver With Faster Optimization Performance",
+      "link": "https://thequantuminsider.com/2026/11/04/d-wave-stride-hybrid-solver-optimization-performance/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 04 Nov 2026 13:09:51 +0000",
+      "published_ts": 1793797791,
+      "summary": "Insider Brief PRESS RELEASE &#8212; D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced powerful performance enhancements to its Stride™ hybrid solver.…"
+    },
+    {
+      "title": "CQMTEK Raises More Than $15 Million For Quantum Measurement Expansion",
+      "link": "https://thequantuminsider.com/2026/11/04/cqmtek-raises-more-than-15-million-for-quantum-measurement-expansion/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 04 Nov 2026 12:37:13 +0000",
+      "published_ts": 1793795833,
+      "summary": "Insider Brief CQMTEK &#8212; Guoce Quantum Technology (Zhejiang) Co., Ltd &#8212; has raised more than 100 million yuan &#8212; or about US$15 million &#8212; to expand manufacturing and commercial applications of its quantum precision measurement products, the company said in a statement that was c…"
+    },
+    {
+      "title": "China’s Photonic Quantum Computer Among WIC Award Winners",
+      "link": "https://thequantuminsider.com/2026/11/04/chinas-photonic-quantum-computer-among-wic-award-winners/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 04 Nov 2026 12:06:23 +0000",
+      "published_ts": 1793793983,
+      "summary": "Insider Brief China’s Jiuzhang 4.0 photonic quantum computer has won one of the World Internet Conference’s top science prizes. The prototype, built by researchers at the University of Science and Technology of China, or USTC, was among 20 projects honored with the 2026 WIC Leading Science and Techn…"
+    },
+    {
+      "title": "Cannes to Host First World Quantum Cannes Festival on November 17-18",
+      "link": "https://thequantuminsider.com/2026/11/04/cannes-world-quantum-festival-november-17-18/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 04 Nov 2026 11:41:31 +0000",
+      "published_ts": 1793792491,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Local governments and academic researchers are the driving force behind the World Quantum Cannes Festival, a pioneering event dedicated to quantum technology, taking place on November 17 and 18 at the renowned Palais des Festivals et des Congrès in Cannes. Running…"
+    },
+    {
+      "title": "Guest Post: Why Crypto-Agility Matters for Financial Institutions Preparing for PQC",
+      "link": "https://thequantuminsider.com/2026/11/04/crypto-agility-post-quantum-security-banks/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 04 Nov 2026 08:50:37 +0000",
+      "published_ts": 1793782237,
+      "summary": "Guest Post by Andrew Gault, CEO, ZeroTier. The financial services industry depends on cryptography to move money, protect customer and transaction data, verify digital identities, and connect banks with processors, cloud providers, and other third parties. This protection, Quantum computing puts tha…"
+    },
+    {
+      "title": "One Broken Symmetry Opens a Path to Universal Quantum Control",
+      "link": "https://thequantuminsider.com/2026/11/04/one-broken-symmetry-opens-a-path-to-universal-quantum-control/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 04 Nov 2026 08:29:50 +0000",
+      "published_ts": 1793780990,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A new theory identifies what globally driven quantum systems need to become fully controllable. In a Rydberg-atom experiment, optimized pulses also create an interaction involving three atoms at once. The study by Hong-Ye Hu and colleagues is forthcoming in Nature…"
+    },
+    {
+      "title": "Testing Einstein's laws from the bottom of the Mediterranean Sea",
+      "link": "https://phys.org/news/2026-11-einstein-laws-bottom-mediterranean-sea.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 04 Nov 2026 00:00:08 EST",
+      "published_ts": 1793768408,
+      "summary": "Are the laws of physics truly the same everywhere in the universe? This fundamental principle, known as Lorentz invariance, lies at the heart of Einstein's theory of relativity. Yet some theories that seek to reconcile gravity with quantum physics suggest that it might not always hold. To investigat…"
+    },
+    {
+      "title": "Everlasting secure key agreement from a quantum computational hybrid security model",
+      "link": "https://arxiv.org/abs/2004.10173",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 04 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793768400,
+      "summary": "arXiv:2004.10173v2 Announce Type: replace  Abstract: We introduce the Quantum Computational Timelock (QCT) model, combining time-lock encryption with a quantitative noisy-quantum-storage assumption. Time-lock encryption gives Bob immediate access to the encoding seed and gives Eve the same final inf…"
+    },
+    {
+      "title": "Perturbation-based Non-perturbative Method",
+      "link": "https://arxiv.org/abs/2308.10996",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 04 Nov 2026 00:00:00 -0500",
+      "published_ts": 1793768400,
+      "summary": "arXiv:2308.10996v3 Announce Type: replace  Abstract: This paper presents a nonperturbative method for solving eigenproblems. This method applies to almost all potentials and provides nonperturbative approximations for any energy level. The method converts an eigenproblem into a perturbation problem,…"
+    },
     {
       "title": "Finding the fingerprints of noisy distributions in random quantum systems",
       "link": "https://phys.org/news/2026-11-fingerprints-noisy-random-quantum.html",
@@ -56,62 +136,6 @@
       "published": "Tue, 03 Nov 2026 14:01:10 +0000",
       "published_ts": 1793714470,
       "summary": "Insider Brief PRESS RELEASE &#8212; FirstQFM today announced results from a financial forecasting evaluation in which its proprietary foundation-model-based quantum reservoir computing (QRC) system, running on Rigetti Computing’s Cepheus™-1-108Q system using data supplied by SW7 Group, outperformed…"
-    },
-    {
-      "title": "Chicago Quantum Exchange Appoints Aaron Fluitt as CEO",
-      "link": "https://thequantuminsider.com/2026/11/03/aaron-fluitt-ceo-chicago-quantum-exchange/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 03 Nov 2026 13:26:47 +0000",
-      "published_ts": 1793712407,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Aaron Fluitt, a science and technology leader who helped drive Argonne National Laboratory’s successful effort to secure a $115 million award from the U.S. Department of Energy (DOE) to launch the Q-NEXT quantum research center, joined the Chicago Quantum Exchange…"
-    },
-    {
-      "title": "Experiment Supports Theoretical Path to Topological Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/11/03/experiment-supports-theoretical-path-to-topological-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 03 Nov 2026 12:49:26 +0000",
-      "published_ts": 1793710166,
-      "summary": "Insider Brief PRESS RELEASE &#8212; One approach to making information storage in quantum computing less prone to errors is known as topological quantum computing. It relies on special quantum states that are expected to be more resistant to local disturbances. Physicists at the University of Cologn…"
-    },
-    {
-      "title": "Instanodes Develops Post-Quantum Account Solutions for Ethereum and Solana",
-      "link": "https://thequantuminsider.com/2026/11/03/instanodes-introduces-post-quantum-accounts-ethereum-solana/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 03 Nov 2026 12:38:14 +0000",
-      "published_ts": 1793709494,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Instanodes, a blockchain infrastructure provider offering RPC endpoints across more than 50 blockchain networks, dedicated nodes, validators and rollup infrastructure, today announced post-quantum account engineering for Ethereum Virtual Machine (EVM)-compatible n…"
-    },
-    {
-      "title": "When Not If: Coinbase Chief Sees Quantum, Not AI as The Biggest Threat to Crypto",
-      "link": "https://thequantuminsider.com/2026/11/03/when-not-if-coinbase-chief-sees-quantum-not-ai-as-the-biggest-threat-to-crypto/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 03 Nov 2026 12:34:09 +0000",
-      "published_ts": 1793709249,
-      "summary": "Insider Brief An argument is forming that artificial intelligence may be a bigger threat right now than the ominous introduction of future cryptographically relevant quantum computers. Coinbase Global Inc. CEO Brian Armstrong weighed in during an earnings call and add his own two cents. He said quan…"
-    },
-    {
-      "title": "Universal Quantum Combines Ion Trap, Controls and Modular Links in New Chip",
-      "link": "https://thequantuminsider.com/2026/11/03/universal-quantum-combines-ion-trap-controls-and-modular-links-in-new-chip/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 03 Nov 2026 12:17:43 +0000",
-      "published_ts": 1793708263,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Universal Quantum launches the iQPU, an integrated quantum processing unit designed to make quantum computers practical to manufacture, scale and deploy cost effectively. Combining the largest trapped-ion compute surface with built-in ultra-low noise control techn…"
-    },
-    {
-      "title": "SpecterAI and HPT Set Out PQC Migration Plans for Vietnam",
-      "link": "https://thequantuminsider.com/2026/11/03/specterai-hpt-pqc-migration-vietnam/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 03 Nov 2026 09:07:31 +0000",
-      "published_ts": 1793696851,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SpecterAI Quantum Security, a post-quantum cryptography (PQC) company, and HPT Vietnam Corporation signed the detailed schedules and action roadmap of their Strategic Partnership Agreement on October 28, 2026. The signing moves the partnership, first concluded in…"
-    },
-    {
-      "title": "Germany’s Quint Raises 9.1 Million Euros to Develop Quantum Chips With Fewer Errors",
-      "link": "https://thequantuminsider.com/2026/11/03/germanys-quint-raises-9-1-million-euros-to-develop-quantum-chips-with-fewer-errors/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 03 Nov 2026 09:00:34 +0000",
-      "published_ts": 1793696434,
-      "summary": "Insider Brief German quantum computing startup Quint has raised 9.1 million euros in its first funding round to develop chips designed to reduce errors and lower the cost of building reliable quantum computers, Handelsblatt reported. The financing, secured a little more than a year after the company…"
     },
     {
       "title": "Powering up for a pivotal moment",
@@ -200,14 +224,6 @@
       "published": "Fri, 30 Oct 2026 01:00:01 EDT",
       "published_ts": 1793336401,
       "summary": "A collaborative research team led by Yasuhiro Kobori at Kobe University, together with researchers from Toho University, Saitama University, Nagoya Institute of Technology and the University of Freiburg, has identified a potential molecular mechanism that could enhance magnetic compass responses in…"
-    },
-    {
-      "title": "How the quantum vacuum perturbs atoms, could shrink black holes and may have helped form galaxies",
-      "link": "https://phys.org/news/2026-10-quantum-vacuum-perturbs-atoms-black.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 29 Oct 2026 17:30:05 EDT",
-      "published_ts": 1793309405,
-      "summary": "The word \"vacuum\" may conjure the image of empty space. Maybe you think of a region far outside the solar system without planets, debris, gas clouds or light. According to quantum theory, however, a vacuum is never truly empty. Quantum mechanics extends the Heisenberg uncertainty principle—which sta…"
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
