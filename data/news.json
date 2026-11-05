@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1793886824,
+  "generated_ts": 1793920296,
   "items": [
+    {
+      "title": "Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement",
+      "link": "https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 05 Nov 2026 22:18:57 +0000",
+      "published_ts": 1793917137,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum secured its largest cloud agreement and raised its annual revenue forecast as customers committed to using future generations of its quantum computers, according to a statement from the company. The multiyear extension with a leading global financial in…"
+    },
+    {
+      "title": "IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million",
+      "link": "https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 05 Nov 2026 21:44:40 +0000",
+      "published_ts": 1793915080,
+      "summary": "Insider Brief IonQ raised its full-year revenue forecast as record quarterly sales and new computing, manufacturing and security agreements expanded its quantum technology business, according to a company statement. The company reported third-quarter revenue of $173.8 million, up 336% from a year ea…"
+    },
+    {
+      "title": "Electrical control of an unconventional quantum transport state demonstrated in a magnet for the first time",
+      "link": "https://phys.org/news/2026-11-electrical-unconventional-quantum-state-magnet.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 05 Nov 2026 16:40:09 EST",
+      "published_ts": 1793914809,
+      "summary": "Researchers at Tohoku University and the Japan Atomic Energy Agency (JAEA) have successfully controlled a unique quantum phenomenon—the quantum-geometric nonlinear Hall (QgNLH) state—using electric current for the first time. The breakthrough was achieved by revealing and exploiting the coupling bet…"
+    },
+    {
+      "title": "Physicist develops detector capable of counting photons for quantum computing",
+      "link": "https://phys.org/news/2026-11-physicist-detector-capable-photons-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 05 Nov 2026 16:20:09 EST",
+      "published_ts": 1793913609,
+      "summary": "Detecting a single photon is a challenge in itself. But what if you also want to know exactly how many photons arrive at a particular point at the same time? Physicist Erik Baalbergen is working on light detectors that can do just that. They form a key building block for the optical quantum computer…"
+    },
+    {
+      "title": "MTSU Hosts Interstate Hackathon to Expand Quantum Computing Education",
+      "link": "https://thequantuminsider.com/2026/11/05/mtsu-multistate-quantum-computing-hackathon-beginners/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 05 Nov 2026 17:04:38 +0000",
+      "published_ts": 1793898278,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Interstate Quantum Hackathon for Beginners was led by MTSU’s Quantum Research, Interdisciplinary Science and Education (QRISE) Center in collaboration with universities across Tennessee, Indiana, Missouri, Florida and Alabama. The three-day event brought toget…"
+    },
+    {
+      "title": "SEALSQ and Eco Wave Power Demonstrate Digital Energy Transactions for AI Data Centers",
+      "link": "https://thequantuminsider.com/2026/11/05/sealsq-eco-wave-power-digital-energy-transactions-ai-data-centers/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 05 Nov 2026 15:46:56 +0000",
+      "published_ts": 1793893616,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that together with its parent company, WIS…"
+    },
+    {
+      "title": "Majorana qubits explained: The Quantum Kid goes inside Microsoft’s quantum lab",
+      "link": "https://thequantuminsider.com/2026/11/05/majorana-qubits-explained-the-quantum-kid-goes-inside-microsofts-quantum-lab/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 05 Nov 2026 15:28:02 +0000",
+      "published_ts": 1793892482,
+      "summary": "Insider brief What happens when you zip a 10-year-old into a full clean room suit and walk him into one of the most advanced quantum labs in Europe? In the newest episode of The Quantum Kid, Kai gets to find out. He spent a day at Microsoft&#8217;s quantum lab in Lyngby, just outside Copenhagen. It&…"
+    },
+    {
+      "title": "Horizon Quantum Plans to Acquire Entropica Labs for $27 Million",
+      "link": "https://thequantuminsider.com/2026/11/05/horizon-quantum-acquire-entropica-labs-27-million/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 05 Nov 2026 13:52:43 +0000",
+      "published_ts": 1793886763,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum”), a pioneer of software infrastructure for quantum applications, today announced that they have signed a non-binding letter of intent to acquire Entropica Labs Pte. Ltd. (“Entropica Labs”), a Singapore-…"
+    },
     {
       "title": "Oak Ridge National Laboratory, IBM And AMD Launch New Co-Design Platform for Quantum Error Correction",
       "link": "https://thequantuminsider.com/2026/11/05/oak-ridge-national-laboratory-ibm-and-amd-launch-new-co-design-platform-for-quantum-error-correction/",
@@ -32,22 +96,6 @@
       "published": "Thu, 05 Nov 2026 10:39:58 +0000",
       "published_ts": 1793875198,
       "summary": "Insider Brief PRESS RELEASE &#8212; Orange, one of the world’s leading telecom operators, has joined the global quantum-safe In-Factory Profile Provisioning (IFPP) program, jointly launched by Acceleronix and IDEMIA Secure Transactions at MWC Barcelona in February. The program enables device makers…"
-    },
-    {
-      "title": "Bitcoin Cash Proposal Seeks Path to Quantum-Resistant Transactions",
-      "link": "https://thequantuminsider.com/2026/11/05/bitcoin-cash-proposal-seeks-path-to-quantum-resistant-transactions/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 05 Nov 2026 09:51:03 +0000",
-      "published_ts": 1793872263,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Bitcoin Cash (BCH) development community has formalized CHIP-2026-06, a Cash Improvement Proposal introducing the `OP_SIGHASH` opcode. The proposal is under active discussion and implementation review for potential lock-in on November 15, 2026, with mainnet ac…"
-    },
-    {
-      "title": "IQM Books €42.2 Million in Orders as Quarterly Revenue Rises 51% in Q3 2026",
-      "link": "https://thequantuminsider.com/2026/11/05/iqm-books-e42-2-million-in-orders-as-quarterly-revenue-rises-51-in-q3-2026/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 05 Nov 2026 08:58:35 +0000",
-      "published_ts": 1793869115,
-      "summary": "Insider Brief IQM Quantum Computers reported growing demand for its systems as it expanded into new markets and invested in technology designed to make quantum computing more reliable. The company said in a statement on its Q3 2026 report that it booked €42.2 million in new orders in the third quart…"
     },
     {
       "title": "Dynamically modulated light-matter interactions for ancilla-tolerant bosonic control",
@@ -170,6 +218,14 @@
       "summary": "arXiv:2611.05541v1 Announce Type: new  Abstract: Defining entropy of a quantum channel has become a challenge with potential candidates recently reported in literature. In this Article, it is taken under consideration the entropy of a quantum channel defined as the quantum entropy of its associated…"
     },
     {
+      "title": "A tiny supercurrent could unlock quantum information without destroying it",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Wed, 04 Nov 2026 22:47:09 EST",
+      "published_ts": 1793850429,
+      "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations and could make futur…"
+    },
+    {
       "title": "A carefully timed pair of light pulses can amplify the motion of atomic layers in a quantum material",
       "link": "https://phys.org/news/2026-11-pair-pulses-amplify-motion-atomic.html",
       "source": "Phys.org — Quantum Physics",
@@ -186,14 +242,6 @@
       "summary": "A recent study published in Nature Electronics and carried out by researchers from nanoGUNE's Quantum Hardware research group, Quantum Motion, London Center for Nanotechnology, Imperial College London and the University of Cambridge introduces a new superinductor created within a silicon integrated…"
     },
     {
-      "title": "SuperMatics Uses AI to Turn Superconductor Discoveries Into Usable Wire",
-      "link": "https://thequantuminsider.com/2026/11/04/supermatics-uses-ai-to-turn-superconductor-discoveries-into-usable-wire/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 04 Nov 2026 21:44:26 +0000",
-      "published_ts": 1793828666,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Since 1911, scientists have discovered thousands of superconductors, materials that carry electricity with zero resistance. Only a handful have ever been made into commercial wire. SuperMatics, a Berkeley company building AI exclusively for superconductors, is tar…"
-    },
-    {
       "title": "New research uncovers chiral topological phases in metals without structural order",
       "link": "https://phys.org/news/2026-11-uncovers-chiral-topological-phases-metals.html",
       "source": "Phys.org — Quantum Physics",
@@ -208,30 +256,6 @@
       "published": "Wed, 04 Nov 2026 13:40:16 EST",
       "published_ts": 1793817616,
       "summary": "Every time someone picks up a call, the phone does a quiet bit of translation. Incoming radio signals are converted into tiny sound waves that ripple across chips before being turned back into data."
-    },
-    {
-      "title": "IonQ Partners With QuantumCT to Expand Quantum Computing Access in Connecticut",
-      "link": "https://thequantuminsider.com/2026/11/04/ionq-quantumct-quantum-computing-access-connecticut/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 04 Nov 2026 18:25:54 +0000",
-      "published_ts": 1793816754,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world&#8217;s leading full-stack quantum platform and foundry, today announced a partnership with QuantumCT, Connecticut&#8217;s statewide initiative to accelerate quantum innovation and economic development. QuantumCT will purchase access t…"
-    },
-    {
-      "title": "IonQ Completes Acquisition of Zero Trust Security Company Elisity",
-      "link": "https://thequantuminsider.com/2026/11/04/ionq-completes-acquisition-zero-trust-security-company-elisity/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 04 Nov 2026 18:20:27 +0000",
-      "published_ts": 1793816427,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world&#8217;s leading full-stack quantum platform and foundry, today completed its acquisition of Elisity, Inc., a Zero Trust security company, in an all-stock transaction. The combination extends IonQ’s quantum security strategy, adding Zer…"
-    },
-    {
-      "title": "EIC Scaling Club Reports €4 Billion Raised, Including Major Quantum and AI Round",
-      "link": "https://thequantuminsider.com/2026/11/04/eic-scaling-club-reports-e4-billion-raised-including-major-quantum-and-ai-round/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 04 Nov 2026 15:09:53 +0000",
-      "published_ts": 1793804993,
-      "summary": "Insider Brief PRESS RELEASE &#8212; European deep tech scale-ups have raised more than €4 billion since joining the EIC Scaling Club, an EIC-funded initiative for promising European deep tech scale-ups, growing their funding 2.3 times faster than comparable businesses relative to their pre-joining f…"
     },
     {
       "title": "Testing Einstein's laws from the bottom of the Mediterranean Sea",
@@ -312,22 +336,6 @@
       "published": "Sat, 31 Oct 2026 13:00:01 EDT",
       "published_ts": 1793466001,
       "summary": "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in principle, convert some of its energy into particles and their antimatter partners. A particle's antimatter partner has the same mas…"
-    },
-    {
-      "title": "Four superconducting cables link two large quantum processors into one",
-      "link": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 31 Oct 2026 12:00:02 EDT",
-      "published_ts": 1793462402,
-      "summary": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can work together as one larger machine. For this to happen, however, connections must c…"
-    },
-    {
-      "title": "How a 'tropical' shortcut could help particle collider experiments",
-      "link": "https://phys.org/news/2026-10-tropical-shortcut-particle-collider.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 30 Oct 2026 15:40:01 EDT",
-      "published_ts": 1793389201,
-      "summary": "Particle accelerators are expensive. Not just to build or to run, but also to predict the outcome of measurements obtained from them."
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
@@ -440,14 +448,6 @@
       "published": "Fri, 11 Sep 2026 07:52:30 EDT",
       "published_ts": 1789127550,
       "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality."
-    },
-    {
-      "title": "MIT turns bacteria into living transistors",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Fri, 04 Sep 2026 07:52:39 EDT",
-      "published_ts": 1788522759,
-      "summary": "MIT researchers have created bacterial “transistors” that can be wired together into living circuits capable of performing calculations and directing chemical signals. One day, these biological computers could coat plant roots or leaves, detecting environmental threats and automatically triggering d…"
     },
     {
       "title": "New qubit architecture enables faster, more accurate operations",
