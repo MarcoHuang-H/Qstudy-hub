@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1793833630,
+  "generated_ts": 1793854272,
   "items": [
+    {
+      "title": "A carefully timed pair of light pulses can amplify the motion of atomic layers in a quantum material",
+      "link": "https://phys.org/news/2026-11-pair-pulses-amplify-motion-atomic.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 04 Nov 2026 18:20:09 EST",
+      "published_ts": 1793834409,
+      "summary": "The principle \"Work smarter, not harder!\" apparently also applies to controlling quantum materials with light. Many of their fascinating properties depend on how the atoms are arranged in the crystal. Ultrashort laser pulses can be used to alter these structures in a targeted way—the light first exc…"
+    },
     {
       "title": "A new superinductor created within a silicon integrated circuit",
       "link": "https://phys.org/news/2026-11-superinductor-silicon-circuit.html",
@@ -216,14 +224,6 @@
       "published": "Fri, 30 Oct 2026 15:40:01 EDT",
       "published_ts": 1793389201,
       "summary": "Particle accelerators are expensive. Not just to build or to run, but also to predict the outcome of measurements obtained from them."
-    },
-    {
-      "title": "UTe₂ reveals two flavors of superconductivity under extreme pressure",
-      "link": "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 30 Oct 2026 15:00:09 EDT",
-      "published_ts": 1793386809,
-      "summary": "Quantum researchers are searching for a topological superconductor—a material that, if discovered, would allow major advances in quantum computing by combining two distinct \"flavors\" of superconductivity."
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
