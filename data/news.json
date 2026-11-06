@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1793972361,
+  "generated_ts": 1794004720,
   "items": [
+    {
+      "title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
+      "link": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 06 Nov 2026 21:28:02 +0000",
+      "published_ts": 1794000482,
+      "summary": "Insider Brief A mathematical proof has resolved a conjecture open since 2008 about when quantum computers can achieve enormous advantages over conventional machines, establishing a limit on their ability to outperform classical algorithms on unstructured inputs. The result proves the Aaronson-Ambain…"
+    },
+    {
+      "title": "Quantum gas microscope reveals individual atoms in first tunable three-component Hubbard system",
+      "link": "https://phys.org/news/2026-11-quantum-gas-microscope-reveals-individual.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 06 Nov 2026 15:20:01 EST",
+      "published_ts": 1793996401,
+      "summary": "For the first time, an international team of researchers from Germany, Thailand, India, China and the United States has created a three-component Hubbard system with tunable interactions in the laboratory. In doing so, the team used a quantum gas microscope to make the individual atoms visible. The…"
+    },
+    {
+      "title": "University of Cambridge Joins UK Quantum Commercialisation Initiative",
+      "link": "https://thequantuminsider.com/2026/11/06/cambridge-uk-quantum-superconnector-commercialisation/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 06 Nov 2026 18:53:02 +0000",
+      "published_ts": 1793991182,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A consortium of five of the UK’s top universities, including the University of Cambridge, has announced the launch of the UK Quantum SuperConnector, an initiative designed to bridge the gap between quantum research and commercial success. The initiative will creat…"
+    },
+    {
+      "title": "Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows",
+      "link": "https://thequantuminsider.com/2026/11/06/pasqal-q3-revenue-decline-services-growth/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 06 Nov 2026 18:36:58 +0000",
+      "published_ts": 1793990218,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal Holding SA (Nasdaq: PSQL), a global leader in neutral-atom based quantum computing, today provided a third quarter 2026 business update, including key financial and operational metrics. Third Quarter 2026 Metrics “In the third quarter, we have been focused…"
+    },
+    {
+      "title": "ITIC Develops Taiwan-UK Partnership to Support Deep Tech Businesses",
+      "link": "https://thequantuminsider.com/2026/11/06/itic-taiwan-uk-deep-tech-investment-commercialisation/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 06 Nov 2026 18:26:33 +0000",
+      "published_ts": 1793989593,
+      "summary": "Insider Brief PRESS RELEASE &#8212; According to a report published by The Icons, Industrial Technology Investment Corporation (ITIC), led by President Karen Yu, is advancing a Taiwan–UK deep tech innovation corridor to connect British research with Taiwan’s engineering, manufacturing and investment…"
+    },
+    {
+      "title": "Scientists achieve record-breaking low temperature on China's space station, paving the way for new physics experiments",
+      "link": "https://phys.org/news/2026-11-scientists-temperature-china-space-station.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 06 Nov 2026 12:00:17 EST",
+      "published_ts": 1793984417,
+      "summary": "Matter starts to behave differently at extremely low temperatures, creating conditions ideal for studying quantum physics and new states of matter. Now, researchers from China have achieved a new low-temperature record aboard their Tiangong space station. Their research, recently published in Scienc…"
+    },
+    {
+      "title": "Quantum SuperConnector to Accelerate Commercial Success of UK quantum Research",
+      "link": "https://thequantuminsider.com/2026/11/06/uk-universities-quantum-commercialisation-programme/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 06 Nov 2026 16:52:13 +0000",
+      "published_ts": 1793983933,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The UK-wide programme will equip quantum innovators with the entrepreneurial skills, networks and support needed to turn world-leading quantum research into high-growth businesses. &#160; A consortium of five of the UK’s top universities has announced the launch o…"
+    },
+    {
+      "title": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
+      "link": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 06 Nov 2026 15:23:58 +0000",
+      "published_ts": 1793978638,
+      "summary": "Insider Brief Quantum computers could deliver substantial speedups on 24 computational problems, but a new study also reveals the challenging conditions that would make those gains useful. Researchers affiliated with the Open Quantum Institute, hosted at CERN, Google Quantum AI, Microsoft, Oratomic,…"
+    },
     {
       "title": "UK Announces New Funding to Support Quantum Technology Commercialisation",
       "link": "https://thequantuminsider.com/2026/11/06/uk-announces-new-funding-to-support-quantum-technology-commercialisation/",
@@ -32,22 +96,6 @@
       "published": "Fri, 06 Nov 2026 08:51:43 +0000",
       "published_ts": 1793955103,
       "summary": "Insider Brief PRESS RELEASE &#8212; QNu Labs (www.qnulabs.com), a global leader in end-to-end hybrid quantum cybersecurity solutions, has introduced a specialised corporate training programme in quantum cryptography and security under QNu Academy, its educational arm focused on advancing knowledge o…"
-    },
-    {
-      "title": "Guest Post — Commercial Diplomacy: Building The Quantum Ecosystem",
-      "link": "https://thequantuminsider.com/2026/11/06/guest-post-commercial-diplomacy-building-the-quantum-ecosystem/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 06 Nov 2026 08:10:00 +0000",
-      "published_ts": 1793952600,
-      "summary": "Guest Post by by Charlene B. Flick, Esq. “Demonstrating that logical qubits can maintain coherence, we are paving the way toward fault-tolerant systems that can eventually scale to millions of qubits!” The CEO paused, seemingly absorbing this revelation. &#160; “Congratulations, Professor. Forgive m…"
-    },
-    {
-      "title": "ZeroTier Partners With Redapt to Deliver Post-Quantum Networking",
-      "link": "https://thequantuminsider.com/2026/11/06/zerotier-redapt-post-quantum-networking-partnership/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 06 Nov 2026 08:02:45 +0000",
-      "published_ts": 1793952165,
-      "summary": "Insider Brief PRESS RELEASE &#8212; ZeroTier, one of the world’s top software-defined networking companies, today announced a partnership with Redapt, an end-to-end technology solutions and systems integration provider specializing in data center infrastructure, cloud, AI, and managed services. Thro…"
     },
     {
       "title": "Physical regimes of quartic quantum advantage in elastic media simulation",
@@ -170,22 +218,6 @@
       "summary": "arXiv:2611.07271v1 Announce Type: new  Abstract: Chen, Mele, Mele and Preskill proved a crossover for bosonic Gaussian tomography: cold states need $\\Theta(m^3/\\epsilon^2)$ copies under single-copy or few-copy measurements, warm ones $\\Theta(m^2/\\epsilon^2)$. The author proved $\\Omega(m^3/\\epsilon^2…"
     },
     {
-      "title": "Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement",
-      "link": "https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 05 Nov 2026 22:18:57 +0000",
-      "published_ts": 1793917137,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantinuum secured its largest cloud agreement and raised its annual revenue forecast as customers committed to using future generations of its quantum computers, according to a statement from the company. The multiyear extension with a leading global financial in…"
-    },
-    {
-      "title": "IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million",
-      "link": "https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 05 Nov 2026 21:44:40 +0000",
-      "published_ts": 1793915080,
-      "summary": "Insider Brief IonQ raised its full-year revenue forecast as record quarterly sales and new computing, manufacturing and security agreements expanded its quantum technology business, according to a company statement. The company reported third-quarter revenue of $173.8 million, up 336% from a year ea…"
-    },
-    {
       "title": "Electrical control of an unconventional quantum transport state demonstrated in a magnet for the first time",
       "link": "https://phys.org/news/2026-11-electrical-unconventional-quantum-state-magnet.html",
       "source": "Phys.org — Quantum Physics",
@@ -200,22 +232,6 @@
       "published": "Thu, 05 Nov 2026 16:20:09 EST",
       "published_ts": 1793913609,
       "summary": "Detecting a single photon is a challenge in itself. But what if you also want to know exactly how many photons arrive at a particular point at the same time? Physicist Erik Baalbergen is working on light detectors that can do just that. They form a key building block for the optical quantum computer…"
-    },
-    {
-      "title": "MTSU Hosts Interstate Hackathon to Expand Quantum Computing Education",
-      "link": "https://thequantuminsider.com/2026/11/05/mtsu-multistate-quantum-computing-hackathon-beginners/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 05 Nov 2026 17:04:38 +0000",
-      "published_ts": 1793898278,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Interstate Quantum Hackathon for Beginners was led by MTSU’s Quantum Research, Interdisciplinary Science and Education (QRISE) Center in collaboration with universities across Tennessee, Indiana, Missouri, Florida and Alabama. The three-day event brought toget…"
-    },
-    {
-      "title": "SEALSQ and Eco Wave Power Demonstrate Digital Energy Transactions for AI Data Centers",
-      "link": "https://thequantuminsider.com/2026/11/05/sealsq-eco-wave-power-digital-energy-transactions-ai-data-centers/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 05 Nov 2026 15:46:56 +0000",
-      "published_ts": 1793893616,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that together with its parent company, WIS…"
     },
     {
       "title": "A tiny supercurrent could unlock quantum information without destroying it",
@@ -320,22 +336,6 @@
       "published": "Mon, 02 Nov 2026 12:00:05 EST",
       "published_ts": 1793638805,
       "summary": "Quantum computers rely on qubits as their units of information. To connect them into a larger network across long distances, they need to transmit quantum information using light."
-    },
-    {
-      "title": "Ultrathin kagome material opens a route to study unusual quantum states",
-      "link": "https://phys.org/news/2026-10-ultrathin-kagome-material-route-unusual.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 02 Nov 2026 08:00:01 EST",
-      "published_ts": 1793624401,
-      "summary": "How atoms are arranged inside materials can influence the behavior of electrons and the resulting electronic states. Kagome lattices, repeating arrangements of atoms forming triangles that share corners (with hexagonal spaces between them), have been linked with the emergence of unusual electronic s…"
-    },
-    {
-      "title": "Ultracold atoms simulate hard-to-observe matter-antimatter pair production",
-      "link": "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 31 Oct 2026 13:00:01 EDT",
-      "published_ts": 1793466001,
-      "summary": "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in principle, convert some of its energy into particles and their antimatter partners. A particle's antimatter partner has the same mas…"
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
