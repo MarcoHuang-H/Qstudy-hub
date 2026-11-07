@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1794053993,
+  "generated_ts": 1794086530,
   "items": [
+    {
+      "title": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
+      "link": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sat, 07 Nov 2026 13:00:02 EST",
+      "published_ts": 1794074402,
+      "summary": "In a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer."
+    },
     {
       "title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
       "link": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
@@ -208,14 +216,6 @@
       "published": "Mon, 02 Nov 2026 13:30:01 EST",
       "published_ts": 1793644201,
       "summary": "One approach to making information storage in quantum computing less prone to errors is known as topological quantum computing. It relies on special quantum states that are expected to be more resistant to local disturbances."
-    },
-    {
-      "title": "Single molecules could provide the building blocks for future quantum networks",
-      "link": "https://phys.org/news/2026-11-molecules-blocks-future-quantum-networks.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 02 Nov 2026 12:00:05 EST",
-      "published_ts": 1793638805,
-      "summary": "Quantum computers rely on qubits as their units of information. To connect them into a larger network across long distances, they need to transmit quantum information using light."
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
