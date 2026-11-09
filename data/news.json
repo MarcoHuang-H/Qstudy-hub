@@ -1,6 +1,198 @@
 {
-  "generated_ts": 1794197974,
+  "generated_ts": 1794236324,
   "items": [
+    {
+      "title": "Horizon Quantum Integrates OQC’s 32-Qubit Processor with Triple Alpha",
+      "link": "https://thequantuminsider.com/2026/11/09/horizon-quantum-oqc-pulse-level-integration-triple-alpha/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 14:37:31 +0000",
+      "published_ts": 1794235051,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Horizon Quantum Computing Pte. Ltd., the wholly-owned subsidiary of Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum”), a pioneer of software infrastructure for quantum applications, and OQC, a global leader in quantum computing, today announced the su…"
+    },
+    {
+      "title": "The Quantum Utility Goes Live: SQS Nodes Now Operational inAlbuquerque, New Mexico",
+      "link": "https://thequantuminsider.com/2026/11/09/the-quantum-utility-goes-live-sqs-nodes-now-operational-inalbuquerque-new-mexico/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 13:05:00 +0000",
+      "published_ts": 1794229500,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Secured Quantum Services (SQS), the quantum utility, today announced that its first deployed nodes are live and operational in Albuquerque, New Mexico. The deployment marks the arrival of a new delivery model for quantum technology: capabilities consumed as a serv…"
+    },
+    {
+      "title": "Malaysia Considers Faster Transition to Quantum-Resistant Security",
+      "link": "https://thequantuminsider.com/2026/11/09/malaysia-quantum-resistant-security-transition/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 12:24:36 +0000",
+      "published_ts": 1794227076,
+      "summary": "Insider Brief Malaysia is considering speeding up its shift to quantum-resistant security to strengthen national data protection, Free Malaysia Today reported. The move comes as advances in quantum computing are expected to create new challenges for cybersecurity systems. Communications minister Fah…"
+    },
+    {
+      "title": "Thierry Botter joins SemiQon as Chief Commercial Officer",
+      "link": "https://thequantuminsider.com/2026/11/09/semiqon-thierry-botter-chief-commercial-officer/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 12:11:14 +0000",
+      "published_ts": 1794226274,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SemiQon, a global leader in scalable quantum hardware and cryo-optimized CMOS solutions, announces the appointment of Dr. Thierry Botter as Chief Commercial Officer (CCO). Dr. Botter brings extensive experience at the intersection of technology, business, and poli…"
+    },
+    {
+      "title": "Abu Dhabi Maritime Academy Partners with Quincus and Quantinuum on Quantum Research",
+      "link": "https://thequantuminsider.com/2026/11/09/abu-dhabi-maritime-academy-quincus-quantinuum-quantum-research/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 11:46:24 +0000",
+      "published_ts": 1794224784,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Abu Dhabi Maritime Academy (ADMA), part of AD Ports Group, announced a strategic research partnership with Quincus and Quantinuum at Quantum Innovation Summit 2026, held at Grand Hyatt Dubai. The collaboration will explore how quantum computing, artificial intelli…"
+    },
+    {
+      "title": "Optical experiment demonstrates the strong Mpemba effect in a single qubit",
+      "link": "https://phys.org/news/2026-11-optical-strong-mpemba-effect-qubit.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 09 Nov 2026 06:40:01 EST",
+      "published_ts": 1794224401,
+      "summary": "Typically, after a physical system is disturbed, it can gradually return toward a state of thermal equilibrium by exchanging heat with its surroundings. Thermal equilibrium is a state in which there is no net transfer of heat between the system and its surroundings."
+    },
+    {
+      "title": "Busan Science Museum Opens Quantum Education Exhibition with KRISS",
+      "link": "https://thequantuminsider.com/2026/11/09/busan-science-museum-quantum-exhibition-kriss/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 10:02:26 +0000",
+      "published_ts": 1794218546,
+      "summary": "Insider Brief The National Science Museum in Busan has partnered with KRISS on a special program linked to its “Quantum Magic School” exhibition, Seoul Economic Daily reported. The program is meant to let anyone learn about and experience quantum science, which the outlet described as a future strat…"
+    },
+    {
+      "title": "IBM Deploys First Quantum Computer in Illinois with Quantum System Two",
+      "link": "https://thequantuminsider.com/2026/11/09/ibm-first-quantum-computer-illinois-chicago/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 08:54:19 +0000",
+      "published_ts": 1794214459,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IBM (NYSE: IBM), the University of Chicago, the State of Illinois, and Illinois Quantum and Microelectronics Park (IQMP) today unveiled an IBM Quantum System Two in Chicago, IBM&#8217;s first quantum computer in Illinois and the company&#8217;s most advanced syste…"
+    },
+    {
+      "title": "IBM Patent Application Targets More Efficient Sharing of Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/11/09/ibm-patent-application-targets-more-efficient-sharing-of-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 08:34:35 +0000",
+      "published_ts": 1794213275,
+      "summary": "Insider Brief IBM is seeking patent protection for a method that would let multiple users share a quantum processor while reducing some of the work needed to compensate for errors, potentially allowing providers to get more useful computation from their hardware, according to a newly published paten…"
+    },
+    {
+      "title": "Integral zeros of Krawtchouk polynomials and quantum entanglements",
+      "link": "https://arxiv.org/abs/2611.08518",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08518v1 Announce Type: new  Abstract: In Heo and Kiem (2019), the authors raised a problem relating integral zeros of binary Krawtchouk polynomials, parametrized by quadruples $(m,n,k,\\ell)$ with $m\\le n$ and $k\\le \\ell$, to the existence of pairs of subspaces satisfying the range criteri…"
+    },
+    {
+      "title": "Thermodynamics of Speed and Efficiency with Quantum Feedback",
+      "link": "https://arxiv.org/abs/2611.08564",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08564v1 Announce Type: new  Abstract: Rapid thermodynamic operations generally entail irreversible dissipation, giving rise to trade-offs between operating speed and thermodynamic cost. Yet, how quantum feedback fundamentally reshapes these trade-offs remains elusive. Here, we derive a fi…"
+    },
+    {
+      "title": "Magic Is in the Eye of the Measure",
+      "link": "https://arxiv.org/abs/2611.08586",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08586v1 Announce Type: new  Abstract: Magic, or nonstabilizerness, is the quantum resource behind universal quantum computation. Its applications in high-energy and nuclear physics rely almost exclusively on the stabilizer R\\'enyi entropy (SRE), although magic has no unique measure. For t…"
+    },
+    {
+      "title": "Universality in Quantum Many-Body Spin Ratchets",
+      "link": "https://arxiv.org/abs/2611.08590",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08590v1 Announce Type: new  Abstract: We consider a class of quantum circuits, known as quantum many-body spin ratchets, which act on alternating spin chains with two distinct spin types on even and odd sites. This setup breaks parity symmetry and exhibits chiral transport. It has been sh…"
+    },
+    {
+      "title": "Exploring topological signatures of quantum Fisher information scaling in graph states",
+      "link": "https://arxiv.org/abs/2611.08593",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08593v1 Announce Type: new  Abstract: Graph states are a versatile resource for quantum metrology, and their quantum Fisher information (QFI) has a closed-form expression in terms of the underlying graph: it counts pairs of vertices with identical neighborhoods. It remains unclear, howeve…"
+    },
+    {
+      "title": "Harnessing dimensional leakage for continuous-variable randomness certification",
+      "link": "https://arxiv.org/abs/2611.08607",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08607v1 Announce Type: new  Abstract: Semi-device-independent quantum protocols often rely on strict Hilbert-space dimension assumptions that are difficult to satisfy in realistic implementations, particularly with infinite-dimensional optical fields. The almost-qudit framework addresses…"
+    },
+    {
+      "title": "Quantum-enabled measurement of gravitational forces at the milligram scale",
+      "link": "https://arxiv.org/abs/2611.08619",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08619v1 Announce Type: new  Abstract: Gravity is by far the weakest among all known interactions. While it dominates the large-scale structure of the universe, gravitational interactions between small masses in the microscopic range remain underexplored because they are too weak to be exp…"
+    },
+    {
+      "title": "What are local complementations, really?",
+      "link": "https://arxiv.org/abs/2611.08620",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08620v1 Announce Type: new  Abstract: A local complementation at a vertex $v$ of a graph $G$ replaces the induced neighborhood of $v$ with its complement. Local complementations are, at face value, peculiar operations. Yet they famously show up when describing the local Clifford equivalen…"
+    },
+    {
+      "title": "How Many Shots Does a Quantum Reservoir Need? Measurement Cost and Its Scaling in Buffered Quantum Reservoir Computing",
+      "link": "https://arxiv.org/abs/2611.08632",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08632v1 Announce Type: new  Abstract: Quantum reservoir computing (QRC) inherits from classical reservoir computing the property that only a linear readout is trained, but unlike a classical reservoir its state is never directly observable: every feature is an expectation value estimated…"
+    },
+    {
+      "title": "Sign-hedged Beam QAOA:Scaling Quantum Optimization Algorithms",
+      "link": "https://arxiv.org/abs/2611.08646",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08646v1 Announce Type: new  Abstract: Quantum Approximate Optimization Algorithm (QAOA) encodes a combinatorial objective as an Ising Hamiltonian and alternates cost and mixer operations for p rounds. Recursive QAOA (RQAOA) scales further by using the resulting correlations, whether varia…"
+    },
+    {
+      "title": "Random encoders and expurgation improve 1,873 entries of the Grassl qubit code tables",
+      "link": "https://arxiv.org/abs/2611.08744",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08744v1 Announce Type: new  Abstract: I report 192 explicit binary stabilizer codes $[[n,k,d]]$ with $53\\le n\\le 254$ and $5\\le d\\le 13$ whose minimum distance exceeds the lower bound listed in Grassl's code tables at the same $(n,k)$: 161 codes by one and 31 by two. Through the standard…"
+    },
+    {
+      "title": "Neutral-atom quantum features as complementary structural encodings for graph learning",
+      "link": "https://arxiv.org/abs/2611.08821",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08821v1 Announce Type: new  Abstract: Structural descriptors provide graph neural networks (GNNs) with positional and topological inductive biases. However, widely used classical encodings based on random walks or Laplacian spectra emphasize specific structural statistics of a graph, leav…"
+    },
+    {
+      "title": "Kinetic Cluster Embedding for Qubit Decoherence in Dissipative Spin Baths",
+      "link": "https://arxiv.org/abs/2611.08830",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08830v1 Announce Type: new  Abstract: Interpreting the decoherence of a spin qubit requires knowing how the surrounding bath spins behave: whether they fluctuate independently, exchange polarization incoherently, or evolve as coherent groups. These processes can yield the same Hahn-echo c…"
+    },
+    {
+      "title": "From spectroscopy to quantum dynamics: assessing reduced models of a NaCs molecular gate",
+      "link": "https://arxiv.org/abs/2611.08844",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08844v1 Announce Type: new  Abstract: We investigate how spectroscopic calibration and basis selection affect predictions for a dipolar-exchange gate between two optically trapped $^{23}$Na$^{133}$Cs molecules. We construct a 128-state molecular Hamiltonian restricted to the $N=0,1$ rotat…"
+    },
+    {
+      "title": "Quantum Fluctuations in Noether's Theorem",
+      "link": "https://arxiv.org/abs/2611.08906",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794200400,
+      "summary": "arXiv:2611.08906v1 Announce Type: new  Abstract: When deriving the expression for the Noether's current one obtains a term that is an integral over the Euler-Lagrange equation. This term vanishes along the classical path and so does not contribute to the current. However, quantum particles do not ne…"
+    },
     {
       "title": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
       "link": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
@@ -34,76 +226,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; A consortium of five of the UK’s top universities, including the University of Cambridge, has announced the launch of the UK Quantum SuperConnector, an initiative designed to bridge the gap between quantum research and commercial success. The initiative will creat…"
     },
     {
-      "title": "Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows",
-      "link": "https://thequantuminsider.com/2026/11/06/pasqal-q3-revenue-decline-services-growth/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 06 Nov 2026 18:36:58 +0000",
-      "published_ts": 1793990218,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal Holding SA (Nasdaq: PSQL), a global leader in neutral-atom based quantum computing, today provided a third quarter 2026 business update, including key financial and operational metrics. Third Quarter 2026 Metrics “In the third quarter, we have been focused…"
-    },
-    {
-      "title": "ITIC Develops Taiwan-UK Partnership to Support Deep Tech Businesses",
-      "link": "https://thequantuminsider.com/2026/11/06/itic-taiwan-uk-deep-tech-investment-commercialisation/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 06 Nov 2026 18:26:33 +0000",
-      "published_ts": 1793989593,
-      "summary": "Insider Brief PRESS RELEASE &#8212; According to a report published by The Icons, Industrial Technology Investment Corporation (ITIC), led by President Karen Yu, is advancing a Taiwan–UK deep tech innovation corridor to connect British research with Taiwan’s engineering, manufacturing and investment…"
-    },
-    {
       "title": "Scientists achieve record-breaking low temperature on China's space station, paving the way for new physics experiments",
       "link": "https://phys.org/news/2026-11-scientists-temperature-china-space-station.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 06 Nov 2026 12:00:17 EST",
       "published_ts": 1793984417,
       "summary": "Matter starts to behave differently at extremely low temperatures, creating conditions ideal for studying quantum physics and new states of matter. Now, researchers from China have achieved a new low-temperature record aboard their Tiangong space station. Their research, recently published in Scienc…"
-    },
-    {
-      "title": "Quantum SuperConnector to Accelerate Commercial Success of UK quantum Research",
-      "link": "https://thequantuminsider.com/2026/11/06/uk-universities-quantum-commercialisation-programme/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 06 Nov 2026 16:52:13 +0000",
-      "published_ts": 1793983933,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The UK-wide programme will equip quantum innovators with the entrepreneurial skills, networks and support needed to turn world-leading quantum research into high-growth businesses. &#160; A consortium of five of the UK’s top universities has announced the launch o…"
-    },
-    {
-      "title": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
-      "link": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 06 Nov 2026 15:23:58 +0000",
-      "published_ts": 1793978638,
-      "summary": "Insider Brief Quantum computers could deliver substantial speedups on 24 computational problems, but a new study also reveals the challenging conditions that would make those gains useful. Researchers affiliated with the Open Quantum Institute, hosted at CERN, Google Quantum AI, Microsoft, Oratomic,…"
-    },
-    {
-      "title": "UK Announces New Funding to Support Quantum Technology Commercialisation",
-      "link": "https://thequantuminsider.com/2026/11/06/uk-announces-new-funding-to-support-quantum-technology-commercialisation/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 06 Nov 2026 11:30:00 +0000",
-      "published_ts": 1793964600,
-      "summary": "Insider Brief PRESS RELEASE &#8212; New steps to help accelerate the adoption, commercialisation, and talent pipeline for UK Quantum will kickstart a major event demonstrating Britain’s global leadership in the technology being held in London today (Friday 6th November). Run by Innovate UK, part of…"
-    },
-    {
-      "title": "Toshiba Secures UK Contract to Develop Quantum Networking Technologies",
-      "link": "https://thequantuminsider.com/2026/11/06/toshiba-uk-contract-quantum-networking-technologies/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 06 Nov 2026 09:50:17 +0000",
-      "published_ts": 1793958617,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Toshiba Europe has been awarded a contract by Innovate UK, part of UK Research and Innovation (UKRI), to develop technologies that can help unlock the commercial potential of quantum networks. The project will develop technology for long-distance quantum links and…"
-    },
-    {
-      "title": "UK NQCC Partners With Phasecraft to Expand Access to Quantum Software",
-      "link": "https://thequantuminsider.com/2026/11/06/uk-nqcc-phasecraft-quantum-software-access/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 06 Nov 2026 09:39:30 +0000",
-      "published_ts": 1793957970,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The UK’s National Quantum Computing Centre (NQCC) has signed an enterprise licence agreement with Phasecraft, the quantum algorithms company, to give UK organisations access to Phasecraft’s quantum software with the aim of accelerating the use of quantum computing…"
-    },
-    {
-      "title": "QNu Labs Launches Corporate Training Programme on Quantum-Safe Security",
-      "link": "https://thequantuminsider.com/2026/11/06/qnu-labs-corporate-training-quantum-safe-security/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 06 Nov 2026 08:51:43 +0000",
-      "published_ts": 1793955103,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QNu Labs (www.qnulabs.com), a global leader in end-to-end hybrid quantum cybersecurity solutions, has introduced a specialised corporate training programme in quantum cryptography and security under QNu Academy, its educational arm focused on advancing knowledge o…"
     },
     {
       "title": "Electrical control of an unconventional quantum transport state demonstrated in a magnet for the first time",
@@ -208,14 +336,6 @@
       "published": "Mon, 02 Nov 2026 14:55:00 -0500",
       "published_ts": 1793649300,
       "summary": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs."
-    },
-    {
-      "title": "Experiment supports theoretical foundation for potentially more error-resistant quantum computing",
-      "link": "https://phys.org/news/2026-11-theoretical-foundation-potentially-error-resistant.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 02 Nov 2026 13:30:01 EST",
-      "published_ts": 1793644201,
-      "summary": "One approach to making information storage in quantum computing less prone to errors is known as topological quantum computing. It relies on special quantum states that are expected to be more resistant to local disturbances."
     },
     {
       "title": "Tiny magnetic vortices could help computers work more like your brain",
