@@ -1,6 +1,94 @@
 {
-  "generated_ts": 1794319926,
+  "generated_ts": 1794350724,
   "items": [
+    {
+      "title": "Scientists discover new way to control magnetic waves for future quantum technologies",
+      "link": "https://phys.org/news/2026-11-scientists-magnetic-future-quantum-technologies.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 10 Nov 2026 16:40:02 EST",
+      "published_ts": 1794346802,
+      "summary": "Researchers at the U.S. Department of Energy's (DOE) Ames National Laboratory have discovered a way to control the handedness of magnons, tiny magnetic waves that can carry information through materials. By changing the material's magnetic state with an external magnetic field, they were able to swi…"
+    },
+    {
+      "title": "Classical–quantum light interactions could make complex quantum behavior easier to simulate",
+      "link": "https://phys.org/news/2026-11-classicalquantum-interactions-complex-quantum-behavior.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 10 Nov 2026 16:30:01 EST",
+      "published_ts": 1794346201,
+      "summary": "An international collaboration demonstrates that classical nonlinear dynamics can drive single- and two-photon states to thermalize, opening new avenues for simulating complex quantum many-body systems within accessible optical architectures."
+    },
+    {
+      "title": "Repeatable laser measurements reveal 'forbidden' vibrations in single molecules without destroying them",
+      "link": "https://phys.org/news/2026-11-laser-reveal-forbidden-vibrations-molecules.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 10 Nov 2026 15:00:01 EST",
+      "published_ts": 1794340801,
+      "summary": "The possibility of controlling \"forbidden\" excitations of vibrations in molecules could form the basis of extremely accurate clocks, quantum bits and precise tests of the fundamental laws of physics. Researchers at the University of Basel have now identified and controlled such \"forbidden\" transitio…"
+    },
+    {
+      "title": "Fermilab and CERN Begin Installation Work on DUNE Neutrino Experiment",
+      "link": "https://thequantuminsider.com/2026/11/10/construction-begins-dune-underground-neutrino-detector-cryostats/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 18:31:40 +0000",
+      "published_ts": 1794335500,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Installation crews with the U.S. Department of Energy’s (DOE) Fermi National Accelerator Laboratory (Fermilab) and CERN, the European Organization for Particle Physics, are working alongside the Sanford Underground Research Facility (SURF) to begin building massiv…"
+    },
+    {
+      "title": "QuiX Quantum Leads National Mission to Develop 100+ Qubit Photonic Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/11/10/quix-quantum-leads-national-mission-100-qubit-photonic-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 18:23:52 +0000",
+      "published_ts": 1794335032,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum, a Dutch-German developer of universal photonic quantum computers, has been the Photonic Quantum Computing Mission awarded funding under Phase II of the PhotonDelta National Growth Fund (NGF) Integrated Photonics Programme. QuiX Quantum and seven part…"
+    },
+    {
+      "title": "QuEra, Harvard and Anthropic Use AI to Reduce Quantum Circuit Resource Requirements",
+      "link": "https://thequantuminsider.com/2026/11/10/quera-harvard-anthropic-ai-quantum-circuit-resource-requirements/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 18:10:47 +0000",
+      "published_ts": 1794334247,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the leader in fault-tolerant quantum computing, today highlighted research with Harvard University and Anthropic showing that AI can design quantum circuits that require fewer computational resources. The findings show how advances in algorithm de…"
+    },
+    {
+      "title": "Draft EU Quantum Act Would Favor European Suppliers, Set Computing and Security Targets",
+      "link": "https://thequantuminsider.com/2026/11/10/draft-eu-quantum-act-would-favor-european-suppliers-set-computing-and-security-targets/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 17:32:31 +0000",
+      "published_ts": 1794331951,
+      "summary": "Insider Brief If Winston Churchill were here today, he might say an “ion curtain” is descending across the Continent. Europe’s proposed Quantum Act would generally reserve public purchases of quantum technology and participation in strategic projects for EU-controlled companies, while leaving a door…"
+    },
+    {
+      "title": "Laser-driven magnetic state defies equilibrium rules",
+      "link": "https://phys.org/news/2026-11-laser-driven-magnetic-state-defies.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 10 Nov 2026 12:00:10 EST",
+      "published_ts": 1794330010,
+      "summary": "Researchers at the Department of Energy's (DOE's) Oak Ridge National Laboratory (ORNL) and their collaborators used lasers and neutrons to observe a long-lived quantum state in a magnetic material, opening a new way to study materials systems driven far from their equilibrium. Manipulation of quantu…"
+    },
+    {
+      "title": "Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93",
+      "link": "https://news.mit.edu/2026/physicist-jeffrey-goldstone-dies-1110",
+      "source": "MIT News — Quantum Computing",
+      "published": "Tue, 10 Nov 2026 11:10:00 -0500",
+      "published_ts": 1794327000,
+      "summary": "An MIT faculty member for nearly half a century, Goldstone was a “theoretical physicist of rare talent and impact” who made fundamental contributions to multiple disciplines."
+    },
+    {
+      "title": "Changing magnetic dimensionality boosts spin-wave frequency in Cr₂₋δTe₂",
+      "link": "https://phys.org/news/2026-11-magnetic-dimensionality-boosts-frequency-crte.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 10 Nov 2026 11:00:05 EST",
+      "published_ts": 1794326405,
+      "summary": "Magnons are quasiparticles that represent quantized spin waves in magnetic materials. They can carry information without moving electric charge, making them promising for future information technologies that could use less energy than conventional electronics. The frequency, stability and propagatio…"
+    },
+    {
+      "title": "Commission on U.S. Quantum Primacy Urges Sustained Investment to Turn Quantum Discovery Into American Advantage",
+      "link": "https://thequantuminsider.com/2026/11/10/commission-on-u-s-quantum-primacy-urges-sustained-investment-to-turn-quantum-discovery-into-american-advantage/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 15:26:59 +0000",
+      "published_ts": 1794324419,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Commission on U.S. Quantum Primacy (CUSP), convened by the Special Competitive Studies Project (SCSP), released today its preliminary report, Defining the American Quantum Era, a strategy argument for why the United States must move beyond scientific leadershi…"
+    },
     {
       "title": "Xanadu and HyperLight Reduce Photonic Switch Loss to 7 mdB",
       "link": "https://thequantuminsider.com/2026/11/10/xanadu-hyperlight-photonic-switch-loss-7-mdb/",
@@ -42,52 +130,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; IBM (NYSE: IBM) today announced four organizations selected for the new education and workforce development cohort of the IBM Impact Accelerator, a pro bono social innovation program that provides grants of IBM technology and expertise to help nonprofit and govern…"
     },
     {
-      "title": "Q-Block Computing Establishes Headquarters in Ottawa",
-      "link": "https://thequantuminsider.com/2026/11/10/q-block-computing-headquarters-ottawa/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 11:44:06 +0000",
-      "published_ts": 1794311046,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Q-Block Computing is establishing its headquarters in Ottawa, marking the next chapter in the company’s growth and reinforcing its long-term commitment to developing quantum technologies in Canada. Q-Block is a Canadian quantum research and engineering company tha…"
-    },
-    {
       "title": "Quantum could solve AI energy drain, says tech founder",
       "link": "https://phys.org/news/2026-11-quantum-ai-energy-tech-founder.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 10 Nov 2026 06:12:30 EST",
       "published_ts": 1794309150,
       "summary": "Quantum computers could curb the vast energy demands of artificial intelligence data centers with their ability to run complex calculations, one of the tech's pioneers told AFP."
-    },
-    {
-      "title": "Google Researchers Use AI And Mathematical Proofs to Cut Quantum Computing Requirements",
-      "link": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 09:40:02 +0000",
-      "published_ts": 1794303602,
-      "summary": "Insider Brief Quantum computing could one day help artificial intelligence tackle more demanding calculations. Now, Google researchers have shown how AI can return the favor, using teams of agents to design quantum programs that need fewer computing resources. In a study, Google researchers used art…"
-    },
-    {
-      "title": "QCi Reports $9.5 Million in Quarterly Revenue as Acquisitions Expand Commercial Business",
-      "link": "https://thequantuminsider.com/2026/11/10/qci-reports-9-5-million-in-quarterly-revenue-as-acquisitions-expand-commercial-business/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 09:04:07 +0000",
-      "published_ts": 1794301447,
-      "summary": "Insider Brief Quantum Computing Inc. reported third-quarter revenue of $9.5 million as acquisitions expanded its photonics and semiconductor manufacturing business, while new agreements extended the company&#8217;s quantum technology into pharmaceutical research and education. Revenue exceeded the $…"
-    },
-    {
-      "title": "Adelaide Researchers Develop Optical Spectrometer with Six-Femtometre Resolution",
-      "link": "https://thequantuminsider.com/2026/11/10/adelaide-optical-spectrometer-six-femtometre-resolution/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 08:40:32 +0000",
-      "published_ts": 1794300032,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The international research team, led by Adelaide University, exploited an integrating sphere, a highly reflective hollow cavity that causes light to bounce around inside many times before exiting &#8211; to demonstrate a device which can measure the colour (wavele…"
-    },
-    {
-      "title": "University of Chicago and Tohoku University Establish Quantum Research Partnership",
-      "link": "https://thequantuminsider.com/2026/11/10/uchicago-tohoku-university-quantum-research-education/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 08:33:30 +0000",
-      "published_ts": 1794299610,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The University of Chicago and Tohoku University in Japan have formed a collaboration, beginning with an initial five-year term, to bolster quantum technology, drive innovation, support faculty and student research, and help train the next generation of the quantum…"
     },
     {
       "title": "Upgraded microscope can now watch individual quantum particles in motion",
@@ -162,52 +210,12 @@
       "summary": "Matter starts to behave differently at extremely low temperatures, creating conditions ideal for studying quantum physics and new states of matter. Now, researchers from China have achieved a new low-temperature record aboard their Tiangong space station. Their research, recently published in Scienc…"
     },
     {
-      "title": "Electrical control of an unconventional quantum transport state demonstrated in a magnet for the first time",
-      "link": "https://phys.org/news/2026-11-electrical-unconventional-quantum-state-magnet.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 05 Nov 2026 16:40:09 EST",
-      "published_ts": 1793914809,
-      "summary": "Researchers at Tohoku University and the Japan Atomic Energy Agency (JAEA) have successfully controlled a unique quantum phenomenon—the quantum-geometric nonlinear Hall (QgNLH) state—using electric current for the first time. The breakthrough was achieved by revealing and exploiting the coupling bet…"
-    },
-    {
-      "title": "Physicist develops detector capable of counting photons for quantum computing",
-      "link": "https://phys.org/news/2026-11-physicist-detector-capable-photons-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 05 Nov 2026 16:20:09 EST",
-      "published_ts": 1793913609,
-      "summary": "Detecting a single photon is a challenge in itself. But what if you also want to know exactly how many photons arrive at a particular point at the same time? Physicist Erik Baalbergen is working on light detectors that can do just that. They form a key building block for the optical quantum computer…"
-    },
-    {
       "title": "A tiny supercurrent could unlock quantum information without destroying it",
       "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Wed, 04 Nov 2026 22:47:09 EST",
       "published_ts": 1793850429,
       "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations and could make futur…"
-    },
-    {
-      "title": "A carefully timed pair of light pulses can amplify the motion of atomic layers in a quantum material",
-      "link": "https://phys.org/news/2026-11-pair-pulses-amplify-motion-atomic.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 04 Nov 2026 18:20:09 EST",
-      "published_ts": 1793834409,
-      "summary": "The principle \"Work smarter, not harder!\" apparently also applies to controlling quantum materials with light. Many of their fascinating properties depend on how the atoms are arranged in the crystal. Ultrashort laser pulses can be used to alter these structures in a targeted way—the light first exc…"
-    },
-    {
-      "title": "A new superinductor created within a silicon integrated circuit",
-      "link": "https://phys.org/news/2026-11-superinductor-silicon-circuit.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 04 Nov 2026 17:40:08 EST",
-      "published_ts": 1793832008,
-      "summary": "A recent study published in Nature Electronics and carried out by researchers from nanoGUNE's Quantum Hardware research group, Quantum Motion, London Center for Nanotechnology, Imperial College London and the University of Cambridge introduces a new superinductor created within a silicon integrated…"
-    },
-    {
-      "title": "New research uncovers chiral topological phases in metals without structural order",
-      "link": "https://phys.org/news/2026-11-uncovers-chiral-topological-phases-metals.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 04 Nov 2026 16:20:21 EST",
-      "published_ts": 1793827221,
-      "summary": "Fermions are among the most important particles in physics and include both everyday electrons and more exotic variants. Chiral fermions, like gloves, come in left- and right-handed versions and were proposed over a century ago. While high-energy neutrinos—the leading candidates for massless chiral…"
     },
     {
       "title": "Powering up for a pivotal moment",
@@ -432,14 +440,6 @@
       "published": "Thu, 28 May 2026 17:20:00 -0400",
       "published_ts": 1780003200,
       "summary": "The Quantum Systems Laboratory will catalyze quantum innovation and be open to government, academic, and industry researchers."
-    },
-    {
-      "title": "Media Advisory: MIT to establish regional quantum hub",
-      "link": "https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub",
-      "source": "MIT News — Quantum Computing",
-      "published": "Thu, 28 May 2026 12:00:00 -0400",
-      "published_ts": 1779984000,
-      "summary": "With $25 million investment from the Commonwealth of Massachusetts, MIT to build a new shared-use facility to serve as a statewide quantum toolbox."
     }
   ]
 }
