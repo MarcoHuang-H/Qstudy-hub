@@ -1,6 +1,94 @@
 {
-  "generated_ts": 1794272752,
+  "generated_ts": 1794319926,
   "items": [
+    {
+      "title": "Xanadu and HyperLight Reduce Photonic Switch Loss to 7 mdB",
+      "link": "https://thequantuminsider.com/2026/11/10/xanadu-hyperlight-photonic-switch-loss-7-mdb/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 13:09:20 +0000",
+      "published_ts": 1794316160,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, in collaboration with HyperLight Corporation, a leading thin-film lithium niobate (TFLN) photonics company, today announced a significant hardware perfo…"
+    },
+    {
+      "title": "Gartner Names IonQ a Market Shaper in Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/11/10/gartner-ionq-market-shaper-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 13:01:26 +0000",
+      "published_ts": 1794315686,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world&#8217;s leading full-stack quantum platform and foundry, today announced it has been positioned as a Market Shaper in the inaugural Gartner® Emerging Market Quadrant™ for Quantum Computing. IonQ appears in the Market Shapers quadrant o…"
+    },
+    {
+      "title": "D-Wave Revenue Rises 21% as Customer Deployments Expand And CHIPS Agreement Advances",
+      "link": "https://thequantuminsider.com/2026/11/10/d-wave-revenue-rises-21-as-customer-deployments-expand-and-chips-agreement-advances/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 12:54:04 +0000",
+      "published_ts": 1794315244,
+      "summary": "Insider Brief D-Wave Quantum reported a 21% increase in third-quarter revenue as professional services and cloud access sales grew, alongside customer deployments and a federal agreement supporting development of its next quantum computers. Revenue reached $4.5 million for the quarter ended Sept. 30…"
+    },
+    {
+      "title": "Horizon Quantum Reports Q3 2026 Financial Results",
+      "link": "https://thequantuminsider.com/2026/11/10/horizon-quantum-third-quarter-2026-financial-results/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 12:51:41 +0000",
+      "published_ts": 1794315101,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum,” “Horizon,” or “the Company”), a pioneer of software infrastructure for quantum applications, today reported financial results for the fiscal third quarter ended September 30, 2026 (“Q3 2026”). Third Qu…"
+    },
+    {
+      "title": "IBM Selects Four Organisations for AI and Quantum Workforce Programme",
+      "link": "https://thequantuminsider.com/2026/11/10/ibm-education-workforce-development-cohort/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 12:45:38 +0000",
+      "published_ts": 1794314738,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IBM (NYSE: IBM) today announced four organizations selected for the new education and workforce development cohort of the IBM Impact Accelerator, a pro bono social innovation program that provides grants of IBM technology and expertise to help nonprofit and govern…"
+    },
+    {
+      "title": "Q-Block Computing Establishes Headquarters in Ottawa",
+      "link": "https://thequantuminsider.com/2026/11/10/q-block-computing-headquarters-ottawa/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 11:44:06 +0000",
+      "published_ts": 1794311046,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Q-Block Computing is establishing its headquarters in Ottawa, marking the next chapter in the company’s growth and reinforcing its long-term commitment to developing quantum technologies in Canada. Q-Block is a Canadian quantum research and engineering company tha…"
+    },
+    {
+      "title": "Quantum could solve AI energy drain, says tech founder",
+      "link": "https://phys.org/news/2026-11-quantum-ai-energy-tech-founder.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 10 Nov 2026 06:12:30 EST",
+      "published_ts": 1794309150,
+      "summary": "Quantum computers could curb the vast energy demands of artificial intelligence data centers with their ability to run complex calculations, one of the tech's pioneers told AFP."
+    },
+    {
+      "title": "Google Researchers Use AI And Mathematical Proofs to Cut Quantum Computing Requirements",
+      "link": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 09:40:02 +0000",
+      "published_ts": 1794303602,
+      "summary": "Insider Brief Quantum computing could one day help artificial intelligence tackle more demanding calculations. Now, Google researchers have shown how AI can return the favor, using teams of agents to design quantum programs that need fewer computing resources. In a study, Google researchers used art…"
+    },
+    {
+      "title": "QCi Reports $9.5 Million in Quarterly Revenue as Acquisitions Expand Commercial Business",
+      "link": "https://thequantuminsider.com/2026/11/10/qci-reports-9-5-million-in-quarterly-revenue-as-acquisitions-expand-commercial-business/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 09:04:07 +0000",
+      "published_ts": 1794301447,
+      "summary": "Insider Brief Quantum Computing Inc. reported third-quarter revenue of $9.5 million as acquisitions expanded its photonics and semiconductor manufacturing business, while new agreements extended the company&#8217;s quantum technology into pharmaceutical research and education. Revenue exceeded the $…"
+    },
+    {
+      "title": "Adelaide Researchers Develop Optical Spectrometer with Six-Femtometre Resolution",
+      "link": "https://thequantuminsider.com/2026/11/10/adelaide-optical-spectrometer-six-femtometre-resolution/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 08:40:32 +0000",
+      "published_ts": 1794300032,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The international research team, led by Adelaide University, exploited an integrating sphere, a highly reflective hollow cavity that causes light to bounce around inside many times before exiting &#8211; to demonstrate a device which can measure the colour (wavele…"
+    },
+    {
+      "title": "University of Chicago and Tohoku University Establish Quantum Research Partnership",
+      "link": "https://thequantuminsider.com/2026/11/10/uchicago-tohoku-university-quantum-research-education/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 08:33:30 +0000",
+      "published_ts": 1794299610,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The University of Chicago and Tohoku University in Japan have formed a collaboration, beginning with an initial five-year term, to bolster quantum technology, drive innovation, support faculty and student research, and help train the next generation of the quantum…"
+    },
     {
       "title": "Upgraded microscope can now watch individual quantum particles in motion",
       "link": "https://phys.org/news/2026-11-microscope-individual-quantum-particles-motion.html",
@@ -8,14 +96,6 @@
       "published": "Mon, 09 Nov 2026 17:30:05 EST",
       "published_ts": 1794263405,
       "summary": "Energy can be carried in a number of ways: by electrons, the particles that underpin all modern electronics, as well as by quasiparticles, the results of different particles interacting with one another at the quantum level. Columbia chemist Milan Delor has been watching these different forms of ene…"
-    },
-    {
-      "title": "Diraq Deploys Silicon Spin Quantum Computer Inside a Commercial Data Center",
-      "link": "https://thequantuminsider.com/2026/11/09/diraq-deploys-silicon-spin-quantum-computer-inside-a-commercial-data-center/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 19:52:56 +0000",
-      "published_ts": 1794253976,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computing pioneer&#160;Diraq has installed the world&#8217;s first silicon spin quantum computer inside a commercial data center, now live at Equinix (Nasdaq: EQIX) in Sydney, Australia. As quantum computing moves into the everyday infrastructure that busi…"
     },
     {
       "title": "Atomic defects leave telltale optical fingerprints in quantum material",
@@ -34,44 +114,12 @@
       "summary": "How can something remain intact when it should naturally break apart? This question has been addressed by researchers at RPTU. Their work has led to the experimental observation of an unusual quantum state in which two atoms remain bound together even though they possess enough energy to separate. T…"
     },
     {
-      "title": "IonQ and Carahsoft Partner to Bring Quantum Solutions to the Public Sector",
-      "link": "https://thequantuminsider.com/2026/11/09/ionq-carahsoft-quantum-technologies-government/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 17:46:06 +0000",
-      "published_ts": 1794246366,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), a leading full-stack quantum platform and foundry, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a strategic partnership. The collaboration intends to drive quantum computing, networking, sensing…"
-    },
-    {
       "title": "The fastest levitated spinning magnet ever made might help physicists search for dark matter",
       "link": "https://phys.org/news/2026-11-fastest-levitated-magnet-physicists-dark.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 09 Nov 2026 12:30:01 EST",
       "published_ts": 1794245401,
       "summary": "Tiny levitated magnets are able to avoid contact friction, making them useful for detecting extremely weak forces and magnetic fields and acting as ultralow-noise quantum sensors and precision measurement tools. Combining levitation with extreme cold further reduces unwanted motion that can make fai…"
-    },
-    {
-      "title": "PQSecure Technologies Partners with Carahsoft to Distribute PQC Solutions",
-      "link": "https://thequantuminsider.com/2026/11/09/pqsecure-technologies-carahsoft-pqc-partnership/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 16:25:39 +0000",
-      "published_ts": 1794241539,
-      "summary": "Insider Brief PRESS RELEASE &#8212; PQSecure Technologies, a U.S.-based provider of advanced post-quantum cryptography (PQC) hardware, software and cryptographic security solutions, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a partnership. Under th…"
-    },
-    {
-      "title": "Q.ANT and IONOS Launch Pilot for Photonic Computing",
-      "link": "https://thequantuminsider.com/2026/11/09/qant-photonic-processors-ionos-cloud-infrastructure/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 16:19:31 +0000",
-      "published_ts": 1794241171,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Q.ANT, a pioneer in commercial photonic computing, today announced the launch of a joint pilot program with IONOS, the leading digitalization partner and trusted cloud enabler for small and medium-sized businesses, to bring photonic computing to commercial bare me…"
-    },
-    {
-      "title": "UKRI: How the UK built a quantum technology nation",
-      "link": "https://thequantuminsider.com/2026/11/09/ukri-how-the-uk-built-a-quantum-technology-nation/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 15:46:52 +0000",
-      "published_ts": 1794239212,
-      "summary": "Insider Brief PRESS RELEASE &#8212; At the National Quantum Technologies Showcase, UK Research and Innovation (UKRI) published an evaluation of a decade of UK quantum investment. UKRI’s evaluation finds that a long-term, coordinated approach to investing in quantum research, skills and commercialisa…"
     },
     {
       "title": "Chirality of 'trions' illuminates new paths for quantum optics",
@@ -82,172 +130,12 @@
       "summary": "Scientists from Tokyo Metropolitan University have discovered that charged states made of two electrons and a positively charged hole (or vice versa) on atomically thin rolls of carbon atoms have a structure-derived \"handedness\" in how they interact with light. While electron-hole pairs, or \"exciton…"
     },
     {
-      "title": "hzero Emerges From Stealth to Coordinate Quantum and Classical Computing",
-      "link": "https://thequantuminsider.com/2026/11/09/hzero-emerges-from-stealth-to-coordinate-quantum-and-classical-computing/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 15:36:19 +0000",
-      "published_ts": 1794238579,
-      "summary": "Insider Brief hzero has emerged from stealth with software designed to help quantum computers and classical computing systems work together, backed by investors including LEA Ventures, FORWARD.one and Leo Capital. The Munich, Germany-based company is developing a software layer that coordinates comp…"
-    },
-    {
-      "title": "Quantum Biology Review Suggests Protein Networks And Quantum Sensing Open New Paths For Biology",
-      "link": "https://thequantuminsider.com/2026/11/09/quantum-biology-review-suggests-protein-networks-and-quantum-sensing-open-new-paths-for-biology/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 15:09:41 +0000",
-      "published_ts": 1794236981,
-      "summary": "Insider Brief One of the hot-button topics in quantum science &#8212; and I have the emails to prove it &#8212; is whether quantum effects exist in the body, which traditionally has been thought to be too warm and too wet to nurture notoriously sensitive quantum phenomena. Now, a new review led by H…"
-    },
-    {
-      "title": "EV Group Helps Accelerate Qubit Scaling for Quantum Computing Through Advanced Packaging Expertise",
-      "link": "https://thequantuminsider.com/2026/11/09/ev-group-manufacturing-support-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 14:52:08 +0000",
-      "published_ts": 1794235928,
-      "summary": "Insider Brief PRESS RELEASE &#8212; EV Group (EVG), a leading provider of innovative process solutions and expertise serving leading-edge and future semiconductor designs and chip integration schemes, today announced that it is supporting quantum chip developers and manufacturers in addressing the c…"
-    },
-    {
-      "title": "Quanome Agrees to Invest in AI Drug Discovery Company QAI Labs",
-      "link": "https://thequantuminsider.com/2026/11/09/quanome-acquire-5-percent-stake-qai-labs/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 14:42:43 +0000",
-      "published_ts": 1794235363,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quanome Technologies, Inc. (Nasdaq: QNME) (&#8220;Quanome&#8221; or the &#8220;Company&#8221;) today announced that it has entered into a definitive agreement, dated November 4, 2026, for its strategic investment in QAI Labs Ltd. (&#8220;QAI Labs&#8221; or &#8220;…"
-    },
-    {
-      "title": "Horizon Quantum Integrates OQC’s 32-Qubit Processor with Triple Alpha",
-      "link": "https://thequantuminsider.com/2026/11/09/horizon-quantum-oqc-pulse-level-integration-triple-alpha/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 14:37:31 +0000",
-      "published_ts": 1794235051,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Horizon Quantum Computing Pte. Ltd., the wholly-owned subsidiary of Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum”), a pioneer of software infrastructure for quantum applications, and OQC, a global leader in quantum computing, today announced the su…"
-    },
-    {
       "title": "Optical experiment demonstrates the strong Mpemba effect in a single qubit",
       "link": "https://phys.org/news/2026-11-optical-strong-mpemba-effect-qubit.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 09 Nov 2026 06:40:01 EST",
       "published_ts": 1794224401,
       "summary": "Typically, after a physical system is disturbed, it can gradually return toward a state of thermal equilibrium by exchanging heat with its surroundings. Thermal equilibrium is a state in which there is no net transfer of heat between the system and its surroundings."
-    },
-    {
-      "title": "Integral zeros of Krawtchouk polynomials and quantum entanglements",
-      "link": "https://arxiv.org/abs/2611.08518",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08518v1 Announce Type: new  Abstract: In Heo and Kiem (2019), the authors raised a problem relating integral zeros of binary Krawtchouk polynomials, parametrized by quadruples $(m,n,k,\\ell)$ with $m\\le n$ and $k\\le \\ell$, to the existence of pairs of subspaces satisfying the range criteri…"
-    },
-    {
-      "title": "Thermodynamics of Speed and Efficiency with Quantum Feedback",
-      "link": "https://arxiv.org/abs/2611.08564",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08564v1 Announce Type: new  Abstract: Rapid thermodynamic operations generally entail irreversible dissipation, giving rise to trade-offs between operating speed and thermodynamic cost. Yet, how quantum feedback fundamentally reshapes these trade-offs remains elusive. Here, we derive a fi…"
-    },
-    {
-      "title": "Magic Is in the Eye of the Measure",
-      "link": "https://arxiv.org/abs/2611.08586",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08586v1 Announce Type: new  Abstract: Magic, or nonstabilizerness, is the quantum resource behind universal quantum computation. Its applications in high-energy and nuclear physics rely almost exclusively on the stabilizer R\\'enyi entropy (SRE), although magic has no unique measure. For t…"
-    },
-    {
-      "title": "Universality in Quantum Many-Body Spin Ratchets",
-      "link": "https://arxiv.org/abs/2611.08590",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08590v1 Announce Type: new  Abstract: We consider a class of quantum circuits, known as quantum many-body spin ratchets, which act on alternating spin chains with two distinct spin types on even and odd sites. This setup breaks parity symmetry and exhibits chiral transport. It has been sh…"
-    },
-    {
-      "title": "Exploring topological signatures of quantum Fisher information scaling in graph states",
-      "link": "https://arxiv.org/abs/2611.08593",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08593v1 Announce Type: new  Abstract: Graph states are a versatile resource for quantum metrology, and their quantum Fisher information (QFI) has a closed-form expression in terms of the underlying graph: it counts pairs of vertices with identical neighborhoods. It remains unclear, howeve…"
-    },
-    {
-      "title": "Harnessing dimensional leakage for continuous-variable randomness certification",
-      "link": "https://arxiv.org/abs/2611.08607",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08607v1 Announce Type: new  Abstract: Semi-device-independent quantum protocols often rely on strict Hilbert-space dimension assumptions that are difficult to satisfy in realistic implementations, particularly with infinite-dimensional optical fields. The almost-qudit framework addresses…"
-    },
-    {
-      "title": "Quantum-enabled measurement of gravitational forces at the milligram scale",
-      "link": "https://arxiv.org/abs/2611.08619",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08619v1 Announce Type: new  Abstract: Gravity is by far the weakest among all known interactions. While it dominates the large-scale structure of the universe, gravitational interactions between small masses in the microscopic range remain underexplored because they are too weak to be exp…"
-    },
-    {
-      "title": "What are local complementations, really?",
-      "link": "https://arxiv.org/abs/2611.08620",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08620v1 Announce Type: new  Abstract: A local complementation at a vertex $v$ of a graph $G$ replaces the induced neighborhood of $v$ with its complement. Local complementations are, at face value, peculiar operations. Yet they famously show up when describing the local Clifford equivalen…"
-    },
-    {
-      "title": "How Many Shots Does a Quantum Reservoir Need? Measurement Cost and Its Scaling in Buffered Quantum Reservoir Computing",
-      "link": "https://arxiv.org/abs/2611.08632",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08632v1 Announce Type: new  Abstract: Quantum reservoir computing (QRC) inherits from classical reservoir computing the property that only a linear readout is trained, but unlike a classical reservoir its state is never directly observable: every feature is an expectation value estimated…"
-    },
-    {
-      "title": "Sign-hedged Beam QAOA:Scaling Quantum Optimization Algorithms",
-      "link": "https://arxiv.org/abs/2611.08646",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08646v1 Announce Type: new  Abstract: Quantum Approximate Optimization Algorithm (QAOA) encodes a combinatorial objective as an Ising Hamiltonian and alternates cost and mixer operations for p rounds. Recursive QAOA (RQAOA) scales further by using the resulting correlations, whether varia…"
-    },
-    {
-      "title": "Random encoders and expurgation improve 1,873 entries of the Grassl qubit code tables",
-      "link": "https://arxiv.org/abs/2611.08744",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08744v1 Announce Type: new  Abstract: I report 192 explicit binary stabilizer codes $[[n,k,d]]$ with $53\\le n\\le 254$ and $5\\le d\\le 13$ whose minimum distance exceeds the lower bound listed in Grassl's code tables at the same $(n,k)$: 161 codes by one and 31 by two. Through the standard…"
-    },
-    {
-      "title": "Neutral-atom quantum features as complementary structural encodings for graph learning",
-      "link": "https://arxiv.org/abs/2611.08821",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08821v1 Announce Type: new  Abstract: Structural descriptors provide graph neural networks (GNNs) with positional and topological inductive biases. However, widely used classical encodings based on random walks or Laplacian spectra emphasize specific structural statistics of a graph, leav…"
-    },
-    {
-      "title": "Kinetic Cluster Embedding for Qubit Decoherence in Dissipative Spin Baths",
-      "link": "https://arxiv.org/abs/2611.08830",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08830v1 Announce Type: new  Abstract: Interpreting the decoherence of a spin qubit requires knowing how the surrounding bath spins behave: whether they fluctuate independently, exchange polarization incoherently, or evolve as coherent groups. These processes can yield the same Hahn-echo c…"
-    },
-    {
-      "title": "From spectroscopy to quantum dynamics: assessing reduced models of a NaCs molecular gate",
-      "link": "https://arxiv.org/abs/2611.08844",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08844v1 Announce Type: new  Abstract: We investigate how spectroscopic calibration and basis selection affect predictions for a dipolar-exchange gate between two optically trapped $^{23}$Na$^{133}$Cs molecules. We construct a 128-state molecular Hamiltonian restricted to the $N=0,1$ rotat…"
-    },
-    {
-      "title": "Quantum Fluctuations in Noether's Theorem",
-      "link": "https://arxiv.org/abs/2611.08906",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794200400,
-      "summary": "arXiv:2611.08906v1 Announce Type: new  Abstract: When deriving the expression for the Noether's current one obtains a term that is an integral over the Euler-Lagrange equation. This term vanishes along the classical path and so does not contribute to the current. However, quantum particles do not ne…"
     },
     {
       "title": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
@@ -320,14 +208,6 @@
       "published": "Wed, 04 Nov 2026 16:20:21 EST",
       "published_ts": 1793827221,
       "summary": "Fermions are among the most important particles in physics and include both everyday electrons and more exotic variants. Chiral fermions, like gloves, come in left- and right-handed versions and were proposed over a century ago. While high-energy neutrinos—the leading candidates for massless chiral…"
-    },
-    {
-      "title": "Five things to know about guiding sound for better communication",
-      "link": "https://phys.org/news/2026-11-communication.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 04 Nov 2026 13:40:16 EST",
-      "published_ts": 1793817616,
-      "summary": "Every time someone picks up a call, the phone does a quiet bit of translation. Incoming radio signals are converted into tiny sound waves that ripple across chips before being turned back into data."
     },
     {
       "title": "Powering up for a pivotal moment",
