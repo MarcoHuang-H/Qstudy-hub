@@ -1,6 +1,118 @@
 {
-  "generated_ts": 1794236324,
+  "generated_ts": 1794272752,
   "items": [
+    {
+      "title": "Upgraded microscope can now watch individual quantum particles in motion",
+      "link": "https://phys.org/news/2026-11-microscope-individual-quantum-particles-motion.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 09 Nov 2026 17:30:05 EST",
+      "published_ts": 1794263405,
+      "summary": "Energy can be carried in a number of ways: by electrons, the particles that underpin all modern electronics, as well as by quasiparticles, the results of different particles interacting with one another at the quantum level. Columbia chemist Milan Delor has been watching these different forms of ene…"
+    },
+    {
+      "title": "Diraq Deploys Silicon Spin Quantum Computer Inside a Commercial Data Center",
+      "link": "https://thequantuminsider.com/2026/11/09/diraq-deploys-silicon-spin-quantum-computer-inside-a-commercial-data-center/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 19:52:56 +0000",
+      "published_ts": 1794253976,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computing pioneer&#160;Diraq has installed the world&#8217;s first silicon spin quantum computer inside a commercial data center, now live at Equinix (Nasdaq: EQIX) in Sydney, Australia. As quantum computing moves into the everyday infrastructure that busi…"
+    },
+    {
+      "title": "Atomic defects leave telltale optical fingerprints in quantum material",
+      "link": "https://phys.org/news/2026-11-atomic-defects-telltale-optical-fingerprints.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 09 Nov 2026 14:40:09 EST",
+      "published_ts": 1794253209,
+      "summary": "The tiny atomic defects so important for future quantum technologies can be difficult to spot. Fortunately, they leave behind some clues. The defects can alter how a material responds to light, producing a distinctive optical fingerprint that scientists can measure. The challenge is figuring out whi…"
+    },
+    {
+      "title": "Quantum interference keeps two atoms bound despite enough energy to break apart",
+      "link": "https://phys.org/news/2026-11-quantum-atoms-bound-energy.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 09 Nov 2026 13:00:16 EST",
+      "published_ts": 1794247216,
+      "summary": "How can something remain intact when it should naturally break apart? This question has been addressed by researchers at RPTU. Their work has led to the experimental observation of an unusual quantum state in which two atoms remain bound together even though they possess enough energy to separate. T…"
+    },
+    {
+      "title": "IonQ and Carahsoft Partner to Bring Quantum Solutions to the Public Sector",
+      "link": "https://thequantuminsider.com/2026/11/09/ionq-carahsoft-quantum-technologies-government/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 17:46:06 +0000",
+      "published_ts": 1794246366,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), a leading full-stack quantum platform and foundry, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a strategic partnership. The collaboration intends to drive quantum computing, networking, sensing…"
+    },
+    {
+      "title": "The fastest levitated spinning magnet ever made might help physicists search for dark matter",
+      "link": "https://phys.org/news/2026-11-fastest-levitated-magnet-physicists-dark.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 09 Nov 2026 12:30:01 EST",
+      "published_ts": 1794245401,
+      "summary": "Tiny levitated magnets are able to avoid contact friction, making them useful for detecting extremely weak forces and magnetic fields and acting as ultralow-noise quantum sensors and precision measurement tools. Combining levitation with extreme cold further reduces unwanted motion that can make fai…"
+    },
+    {
+      "title": "PQSecure Technologies Partners with Carahsoft to Distribute PQC Solutions",
+      "link": "https://thequantuminsider.com/2026/11/09/pqsecure-technologies-carahsoft-pqc-partnership/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 16:25:39 +0000",
+      "published_ts": 1794241539,
+      "summary": "Insider Brief PRESS RELEASE &#8212; PQSecure Technologies, a U.S.-based provider of advanced post-quantum cryptography (PQC) hardware, software and cryptographic security solutions, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a partnership. Under th…"
+    },
+    {
+      "title": "Q.ANT and IONOS Launch Pilot for Photonic Computing",
+      "link": "https://thequantuminsider.com/2026/11/09/qant-photonic-processors-ionos-cloud-infrastructure/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 16:19:31 +0000",
+      "published_ts": 1794241171,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Q.ANT, a pioneer in commercial photonic computing, today announced the launch of a joint pilot program with IONOS, the leading digitalization partner and trusted cloud enabler for small and medium-sized businesses, to bring photonic computing to commercial bare me…"
+    },
+    {
+      "title": "UKRI: How the UK built a quantum technology nation",
+      "link": "https://thequantuminsider.com/2026/11/09/ukri-how-the-uk-built-a-quantum-technology-nation/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 15:46:52 +0000",
+      "published_ts": 1794239212,
+      "summary": "Insider Brief PRESS RELEASE &#8212; At the National Quantum Technologies Showcase, UK Research and Innovation (UKRI) published an evaluation of a decade of UK quantum investment. UKRI’s evaluation finds that a long-term, coordinated approach to investing in quantum research, skills and commercialisa…"
+    },
+    {
+      "title": "Chirality of 'trions' illuminates new paths for quantum optics",
+      "link": "https://phys.org/news/2026-11-chirality-trions-illuminates-paths-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 09 Nov 2026 10:40:01 EST",
+      "published_ts": 1794238801,
+      "summary": "Scientists from Tokyo Metropolitan University have discovered that charged states made of two electrons and a positively charged hole (or vice versa) on atomically thin rolls of carbon atoms have a structure-derived \"handedness\" in how they interact with light. While electron-hole pairs, or \"exciton…"
+    },
+    {
+      "title": "hzero Emerges From Stealth to Coordinate Quantum and Classical Computing",
+      "link": "https://thequantuminsider.com/2026/11/09/hzero-emerges-from-stealth-to-coordinate-quantum-and-classical-computing/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 15:36:19 +0000",
+      "published_ts": 1794238579,
+      "summary": "Insider Brief hzero has emerged from stealth with software designed to help quantum computers and classical computing systems work together, backed by investors including LEA Ventures, FORWARD.one and Leo Capital. The Munich, Germany-based company is developing a software layer that coordinates comp…"
+    },
+    {
+      "title": "Quantum Biology Review Suggests Protein Networks And Quantum Sensing Open New Paths For Biology",
+      "link": "https://thequantuminsider.com/2026/11/09/quantum-biology-review-suggests-protein-networks-and-quantum-sensing-open-new-paths-for-biology/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 15:09:41 +0000",
+      "published_ts": 1794236981,
+      "summary": "Insider Brief One of the hot-button topics in quantum science &#8212; and I have the emails to prove it &#8212; is whether quantum effects exist in the body, which traditionally has been thought to be too warm and too wet to nurture notoriously sensitive quantum phenomena. Now, a new review led by H…"
+    },
+    {
+      "title": "EV Group Helps Accelerate Qubit Scaling for Quantum Computing Through Advanced Packaging Expertise",
+      "link": "https://thequantuminsider.com/2026/11/09/ev-group-manufacturing-support-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 14:52:08 +0000",
+      "published_ts": 1794235928,
+      "summary": "Insider Brief PRESS RELEASE &#8212; EV Group (EVG), a leading provider of innovative process solutions and expertise serving leading-edge and future semiconductor designs and chip integration schemes, today announced that it is supporting quantum chip developers and manufacturers in addressing the c…"
+    },
+    {
+      "title": "Quanome Agrees to Invest in AI Drug Discovery Company QAI Labs",
+      "link": "https://thequantuminsider.com/2026/11/09/quanome-acquire-5-percent-stake-qai-labs/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 09 Nov 2026 14:42:43 +0000",
+      "published_ts": 1794235363,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quanome Technologies, Inc. (Nasdaq: QNME) (&#8220;Quanome&#8221; or the &#8220;Company&#8221;) today announced that it has entered into a definitive agreement, dated November 4, 2026, for its strategic investment in QAI Labs Ltd. (&#8220;QAI Labs&#8221; or &#8220;…"
+    },
     {
       "title": "Horizon Quantum Integrates OQC’s 32-Qubit Processor with Triple Alpha",
       "link": "https://thequantuminsider.com/2026/11/09/horizon-quantum-oqc-pulse-level-integration-triple-alpha/",
@@ -10,68 +122,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Horizon Quantum Computing Pte. Ltd., the wholly-owned subsidiary of Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum”), a pioneer of software infrastructure for quantum applications, and OQC, a global leader in quantum computing, today announced the su…"
     },
     {
-      "title": "The Quantum Utility Goes Live: SQS Nodes Now Operational inAlbuquerque, New Mexico",
-      "link": "https://thequantuminsider.com/2026/11/09/the-quantum-utility-goes-live-sqs-nodes-now-operational-inalbuquerque-new-mexico/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 13:05:00 +0000",
-      "published_ts": 1794229500,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Secured Quantum Services (SQS), the quantum utility, today announced that its first deployed nodes are live and operational in Albuquerque, New Mexico. The deployment marks the arrival of a new delivery model for quantum technology: capabilities consumed as a serv…"
-    },
-    {
-      "title": "Malaysia Considers Faster Transition to Quantum-Resistant Security",
-      "link": "https://thequantuminsider.com/2026/11/09/malaysia-quantum-resistant-security-transition/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 12:24:36 +0000",
-      "published_ts": 1794227076,
-      "summary": "Insider Brief Malaysia is considering speeding up its shift to quantum-resistant security to strengthen national data protection, Free Malaysia Today reported. The move comes as advances in quantum computing are expected to create new challenges for cybersecurity systems. Communications minister Fah…"
-    },
-    {
-      "title": "Thierry Botter joins SemiQon as Chief Commercial Officer",
-      "link": "https://thequantuminsider.com/2026/11/09/semiqon-thierry-botter-chief-commercial-officer/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 12:11:14 +0000",
-      "published_ts": 1794226274,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SemiQon, a global leader in scalable quantum hardware and cryo-optimized CMOS solutions, announces the appointment of Dr. Thierry Botter as Chief Commercial Officer (CCO). Dr. Botter brings extensive experience at the intersection of technology, business, and poli…"
-    },
-    {
-      "title": "Abu Dhabi Maritime Academy Partners with Quincus and Quantinuum on Quantum Research",
-      "link": "https://thequantuminsider.com/2026/11/09/abu-dhabi-maritime-academy-quincus-quantinuum-quantum-research/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 11:46:24 +0000",
-      "published_ts": 1794224784,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Abu Dhabi Maritime Academy (ADMA), part of AD Ports Group, announced a strategic research partnership with Quincus and Quantinuum at Quantum Innovation Summit 2026, held at Grand Hyatt Dubai. The collaboration will explore how quantum computing, artificial intelli…"
-    },
-    {
       "title": "Optical experiment demonstrates the strong Mpemba effect in a single qubit",
       "link": "https://phys.org/news/2026-11-optical-strong-mpemba-effect-qubit.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 09 Nov 2026 06:40:01 EST",
       "published_ts": 1794224401,
       "summary": "Typically, after a physical system is disturbed, it can gradually return toward a state of thermal equilibrium by exchanging heat with its surroundings. Thermal equilibrium is a state in which there is no net transfer of heat between the system and its surroundings."
-    },
-    {
-      "title": "Busan Science Museum Opens Quantum Education Exhibition with KRISS",
-      "link": "https://thequantuminsider.com/2026/11/09/busan-science-museum-quantum-exhibition-kriss/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 10:02:26 +0000",
-      "published_ts": 1794218546,
-      "summary": "Insider Brief The National Science Museum in Busan has partnered with KRISS on a special program linked to its “Quantum Magic School” exhibition, Seoul Economic Daily reported. The program is meant to let anyone learn about and experience quantum science, which the outlet described as a future strat…"
-    },
-    {
-      "title": "IBM Deploys First Quantum Computer in Illinois with Quantum System Two",
-      "link": "https://thequantuminsider.com/2026/11/09/ibm-first-quantum-computer-illinois-chicago/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 08:54:19 +0000",
-      "published_ts": 1794214459,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IBM (NYSE: IBM), the University of Chicago, the State of Illinois, and Illinois Quantum and Microelectronics Park (IQMP) today unveiled an IBM Quantum System Two in Chicago, IBM&#8217;s first quantum computer in Illinois and the company&#8217;s most advanced syste…"
-    },
-    {
-      "title": "IBM Patent Application Targets More Efficient Sharing of Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/11/09/ibm-patent-application-targets-more-efficient-sharing-of-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 09 Nov 2026 08:34:35 +0000",
-      "published_ts": 1794213275,
-      "summary": "Insider Brief IBM is seeking patent protection for a method that would let multiple users share a quantum processor while reducing some of the work needed to compensate for errors, potentially allowing providers to get more useful computation from their hardware, according to a newly published paten…"
     },
     {
       "title": "Integral zeros of Krawtchouk polynomials and quantum entanglements",
@@ -202,28 +258,12 @@
       "summary": "In a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer."
     },
     {
-      "title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
-      "link": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 06 Nov 2026 21:28:02 +0000",
-      "published_ts": 1794000482,
-      "summary": "Insider Brief A mathematical proof has resolved a conjecture open since 2008 about when quantum computers can achieve enormous advantages over conventional machines, establishing a limit on their ability to outperform classical algorithms on unstructured inputs. The result proves the Aaronson-Ambain…"
-    },
-    {
       "title": "Quantum gas microscope reveals individual atoms in first tunable three-component Hubbard system",
       "link": "https://phys.org/news/2026-11-quantum-gas-microscope-reveals-individual.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 06 Nov 2026 15:20:01 EST",
       "published_ts": 1793996401,
       "summary": "For the first time, an international team of researchers from Germany, Thailand, India, China and the United States has created a three-component Hubbard system with tunable interactions in the laboratory. In doing so, the team used a quantum gas microscope to make the individual atoms visible. The…"
-    },
-    {
-      "title": "University of Cambridge Joins UK Quantum Commercialisation Initiative",
-      "link": "https://thequantuminsider.com/2026/11/06/cambridge-uk-quantum-superconnector-commercialisation/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 06 Nov 2026 18:53:02 +0000",
-      "published_ts": 1793991182,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A consortium of five of the UK’s top universities, including the University of Cambridge, has announced the launch of the UK Quantum SuperConnector, an initiative designed to bridge the gap between quantum research and commercial success. The initiative will creat…"
     },
     {
       "title": "Scientists achieve record-breaking low temperature on China's space station, paving the way for new physics experiments",
@@ -288,46 +328,6 @@
       "published": "Wed, 04 Nov 2026 13:40:16 EST",
       "published_ts": 1793817616,
       "summary": "Every time someone picks up a call, the phone does a quiet bit of translation. Incoming radio signals are converted into tiny sound waves that ripple across chips before being turned back into data."
-    },
-    {
-      "title": "Testing Einstein's laws from the bottom of the Mediterranean Sea",
-      "link": "https://phys.org/news/2026-11-einstein-laws-bottom-mediterranean-sea.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 04 Nov 2026 00:00:08 EST",
-      "published_ts": 1793768408,
-      "summary": "Are the laws of physics truly the same everywhere in the universe? This fundamental principle, known as Lorentz invariance, lies at the heart of Einstein's theory of relativity. Yet some theories that seek to reconcile gravity with quantum physics suggest that it might not always hold. To investigat…"
-    },
-    {
-      "title": "Finding the fingerprints of noisy distributions in random quantum systems",
-      "link": "https://phys.org/news/2026-11-fingerprints-noisy-random-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 03 Nov 2026 18:40:01 EST",
-      "published_ts": 1793749201,
-      "summary": "Imagine shuffling a deck of cards where some of the cards are fading just because of the way they interact with the external environment as you shuffle them. Your job is to figure out the interplay between the shuffling, or \"imposed randomness,\" due to the way you shuffle your cards and how that rel…"
-    },
-    {
-      "title": "Light-matter hybrids form supersolid quantum state at room temperature",
-      "link": "https://phys.org/news/2026-11-hybrids-supersolid-quantum-state-room.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 03 Nov 2026 17:20:11 EST",
-      "published_ts": 1793744411,
-      "summary": "Researchers from the Faculty of Physics at the University of Warsaw, the Military University of Technology (Poland), IBM Research Zurich and the French National Centre for Scientific Research (CNRS) have observed a new quantum state of matter known as a supersolid in an exciton-polariton Bose-Einste…"
-    },
-    {
-      "title": "A single measurement makes quantum bits more reliable",
-      "link": "https://phys.org/news/2026-11-quantum-bits-reliable.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 03 Nov 2026 15:40:06 EST",
-      "published_ts": 1793738406,
-      "summary": "Researchers at the University of Regensburg and their international partners have found a way to significantly reduce errors in quantum bits. In an experiment, they demonstrated that a single additional measurement before a series of quantum operations can cut the error rate by more than half. The r…"
-    },
-    {
-      "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search",
-      "link": "https://phys.org/news/2026-11-physicists-closer-zeptoverse-year-particle.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 03 Nov 2026 10:40:30 EST",
-      "published_ts": 1793720430,
-      "summary": "Physicists have found evidence of a particle decay so rare that it is expected to occur only around once in every 10 billion \"beauty\" particles. The result, from the upgraded LHCb experiment at CERN's Large Hadron Collider (LHC), follows a search spanning more than 40 years and brings physicists clo…"
     },
     {
       "title": "Powering up for a pivotal moment",
