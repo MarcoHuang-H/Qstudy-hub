@@ -1,6 +1,174 @@
 {
-  "generated_ts": 1794371034,
+  "generated_ts": 1794403626,
   "items": [
+    {
+      "title": "SQC Appoints W.H. Teh as Chief Manufacturing Officer",
+      "link": "https://thequantuminsider.com/2026/11/11/sqc-appoints-wh-teh-chief-manufacturing-officer/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 11:56:33 +0000",
+      "published_ts": 1794398193,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Silicon Quantum Computing (SQC), a pioneer in quantum computing and atomic-precision manufacturing, today announced the appointment of W.H. Teh as Chief Manufacturing Officer, effective October 2026. Teh will oversee the scale-up of SQC’s atomic semiconductor manu…"
+    },
+    {
+      "title": "IHRD and Bloq Quantum Partner to Expand Quantum Computing Education in Kerala",
+      "link": "https://thequantuminsider.com/2026/11/11/ihrd-bloq-quantum-quantum-computing-education-kerala/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 11:51:36 +0000",
+      "published_ts": 1794397896,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Institute of Human Resources Development (IHRD), an autonomous educational institution established by the Government of Kerala, today signed a Memorandum of Understanding (MoU) with Bloq Quantum Private Limited, a Kerala-based quantum software company. The agr…"
+    },
+    {
+      "title": "Guest Post: Quantum-Resistant Wallets Could Support Institutional Blockchain Adoption",
+      "link": "https://thequantuminsider.com/2026/11/11/quantum-resistant-wallets-wall-street-capital-on-chain/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 09:36:40 +0000",
+      "published_ts": 1794389800,
+      "summary": "Guest Post by Seb Audy &#124; COO at AmericanFortress, COO at Moon Pursuit Capital Institutional finance has a problem with how it approaches blockchain security. We are spending billions building systems intended to hold and move assets for decades, while much of the cryptography protecting those a…"
+    },
+    {
+      "title": "Rigetti Reports Q3 2026 Results and Updates Quantum Computing Roadmap",
+      "link": "https://thequantuminsider.com/2026/11/11/rigetti-q3-2026-results-quantum-computing-roadmap/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 09:30:09 +0000",
+      "published_ts": 1794389409,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced financial results for the third quarter ended September 30, 2026 and provided an update on recent business and technology mile…"
+    },
+    {
+      "title": "SEAFOOD Puts OCTOPUS and Quantum Computers on the Same Menu",
+      "link": "https://thequantuminsider.com/2026/11/11/seafood-puts-octopus-and-quantum-computers-on-the-same-menu/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 09:25:24 +0000",
+      "published_ts": 1794389124,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at D3 Center and the Center for Quantum Information and Quantum Biology (QIQB), the University of Osaka, have created SEAFOOD, a platform that allows the university’s OCTOPUS supercomputer and superconducting quantum computers to work together in a sin…"
+    },
+    {
+      "title": "FBH Offers Diamond Processing For Quantum Technologies",
+      "link": "https://thequantuminsider.com/2026/11/11/fbh-offers-diamond-processing-for-quantum-technologies/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 08:39:26 +0000",
+      "published_ts": 1794386366,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Diamond is attracting growing interest for quantum technologies. Defects in its crystal lattice, known as color centers, can behave like individual atoms. Their discrete spin states can be addressed through optical transitions, making them promising building block…"
+    },
+    {
+      "title": "Time Running Backwards, and Where It Stops: Superoscillations of Proper Time and the Memory of the Environment",
+      "link": "https://arxiv.org/abs/2611.12971",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.12971v1 Announce Type: new  Abstract: A quantum system prepared in a superposition of proper times - a clock whose worldline is superposed, or a clock at rest in a superposed gravitational potential - evolves, in each branch, by the same dynamics for a different duration. Post-selecting t…"
+    },
+    {
+      "title": "Second-level termination of the PPT entanglement-cost hierarchy for two qutrits",
+      "link": "https://arxiv.org/abs/2611.12993",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.12993v1 Announce Type: new  Abstract: We prove that for arbitrary two-qutrit quantum states, the semidefinite programming lower-bound hierarchy for the PPT entanglement cost terminates at the second level. Therefore, under operations preserving positive partial transpose, its zero-error a…"
+    },
+    {
+      "title": "Quantum simulation of real-time bosonic dynamics with binary and unary position encodings on superconducting and trapped-ion processors",
+      "link": "https://arxiv.org/abs/2611.13079",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13079v1 Announce Type: new  Abstract: Simulating a bosonic degree of freedom on qubit hardware requires discretizing its position space, and the qubit encoding of the resulting lattice determines the circuits that realize its real-time dynamics. We compare binary and unary encodings of a…"
+    },
+    {
+      "title": "Field-induced phase-matching in Josephson traveling wave parametric amplifiers",
+      "link": "https://arxiv.org/abs/2611.13084",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13084v1 Announce Type: new  Abstract: Superconducting Josephson traveling wave parametric amplifiers (JTWPAs) enable broadband, quantum-limited amplification of weak microwave signals. JTWPAs are essential for the single-shot readout of superconducting qubits, broadband vacuum squeezing,…"
+    },
+    {
+      "title": "Time Direction Entanglement Entropy of Free Fermion Ground States",
+      "link": "https://arxiv.org/abs/2611.13085",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13085v1 Announce Type: new  Abstract: While the entanglement entropy of a spatial subregion has been extensively studied, a properly defined entanglement entropy of quantum states in a time direction interval remains underexplored. We investigate the scaling behaviors of the recently defi…"
+    },
+    {
+      "title": "Kinematic Quantum Geometry",
+      "link": "https://arxiv.org/abs/2611.13089",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13089v1 Announce Type: new  Abstract: Kinematic quantum geometry describes fast degrees of freedom (DOFs) that adiabatically follow states parametrized by both the coordinates and the velocities of slow DOFs. It extends Born-Oppenheimer geometry, which depends on coordinates alone, introd…"
+    },
+    {
+      "title": "Frustration-free control for quantum-state preparation: an exact first-passage theory",
+      "link": "https://arxiv.org/abs/2611.13094",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13094v1 Announce Type: new  Abstract: Quantum circuits based on local measurements and feedback can autonomously prepare and stabilize entangled many-body states. In frustration-free control, the target manifold is specified by local constraints, whose violations are detected by measureme…"
+    },
+    {
+      "title": "Surface codes with coherent errors: optimal decoding and finite-size crossovers",
+      "link": "https://arxiv.org/abs/2611.13098",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13098v1 Announce Type: new  Abstract: We study the surface code under uniform coherent $Z$ rotations $\\exp{(i\\theta Z)}$ followed by perfect syndrome measurements, a setting known to exhibit strong finite-size effects that complicate the extraction of the asymptotic decoding threshold. We…"
+    },
+    {
+      "title": "Third-Order Quantum Information from Distributed Randomized Measurements",
+      "link": "https://arxiv.org/abs/2611.13099",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13099v1 Announce Type: new  Abstract: Randomized measurements offer a way to probe nonlinear properties of quantum states without reconstructing their full density matrices. For states shared between distant laboratories, we study products of three outcome probabilities measured at the sa…"
+    },
+    {
+      "title": "Which data samples matter when training a quantum model?",
+      "link": "https://arxiv.org/abs/2611.13103",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13103v1 Announce Type: new  Abstract: The expressivity, loss landscapes, and generalization behavior of quantum machine learning models have been studied extensively, yet mainly from a model-centric point of view. Little is known about the compatibility of particular quantum models with s…"
+    },
+    {
+      "title": "Finite Measured Entropy Production Does Not Imply Finite Microscopic Irreversibility",
+      "link": "https://arxiv.org/abs/2611.13110",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13110v1 Announce Type: new  Abstract: Coarse-grained measurements provide a lower bound on entropy production, but how much microscopic irreversibility can they conceal? We construct a driven quantum system in which an imperfect counter registers a finite, strictly positive arrow of time…"
+    },
+    {
+      "title": "FusionQ: A Generic and Optimal Decoding Framework for Ultra-Low-Latency Quantum Error Correction",
+      "link": "https://arxiv.org/abs/2611.13111",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13111v1 Announce Type: new  Abstract: Quantum error correction (QEC) decoding has traditionally been organized around fixed decoding instances: a monolithic space-time detector error model (DEM), or a predetermined temporal window, is handed to a backend decoder after enough syndrome data…"
+    },
+    {
+      "title": "Rational quantum spectral filtering by repeat-until-success protocol",
+      "link": "https://arxiv.org/abs/2611.13154",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13154v1 Announce Type: new  Abstract: We introduce a finite-memory repeat-until-success (RUS) framework for implementing rational spectral filters on a quantum computer, extending spectral filtering beyond the polynomial transformations implemented by quantum signal processing (QSP) and q…"
+    },
+    {
+      "title": "Long-range correlated quantum errors from diffuson-correlated dephasing",
+      "link": "https://arxiv.org/abs/2611.13156",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13156v1 Announce Type: new  Abstract: Electrical solid-state qubits are generally initialized, manipulated and read out through diffusive conductors. We show that the disorder-induced low energy modes of such a conductor --- diffusons --- impose spatially correlated dephasing on any qubit…"
+    },
+    {
+      "title": "How wide must an eavesdropper be? Leakage of a toric-code logical bit to a strip and the Nishimori point",
+      "link": "https://arxiv.org/abs/2611.13174",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794373200,
+      "summary": "arXiv:2611.13174v1 Announce Type: new  Abstract: Fault-tolerant quantum computers hand pieces of each logical qubit to separate decoder modules and shared readout lines. How much does a piece reveal? We prove that for any region and any Pauli noise, including correlated noise, an observer's optimal…"
+    },
     {
       "title": "Scientists discover new way to control magnetic waves for future quantum technologies",
       "link": "https://phys.org/news/2026-11-scientists-magnetic-future-quantum-technologies.html",
@@ -80,54 +248,6 @@
       "published": "Tue, 10 Nov 2026 11:00:05 EST",
       "published_ts": 1794326405,
       "summary": "Magnons are quasiparticles that represent quantized spin waves in magnetic materials. They can carry information without moving electric charge, making them promising for future information technologies that could use less energy than conventional electronics. The frequency, stability and propagatio…"
-    },
-    {
-      "title": "Commission on U.S. Quantum Primacy Urges Sustained Investment to Turn Quantum Discovery Into American Advantage",
-      "link": "https://thequantuminsider.com/2026/11/10/commission-on-u-s-quantum-primacy-urges-sustained-investment-to-turn-quantum-discovery-into-american-advantage/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 15:26:59 +0000",
-      "published_ts": 1794324419,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Commission on U.S. Quantum Primacy (CUSP), convened by the Special Competitive Studies Project (SCSP), released today its preliminary report, Defining the American Quantum Era, a strategy argument for why the United States must move beyond scientific leadershi…"
-    },
-    {
-      "title": "Xanadu and HyperLight Reduce Photonic Switch Loss to 7 mdB",
-      "link": "https://thequantuminsider.com/2026/11/10/xanadu-hyperlight-photonic-switch-loss-7-mdb/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 13:09:20 +0000",
-      "published_ts": 1794316160,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, in collaboration with HyperLight Corporation, a leading thin-film lithium niobate (TFLN) photonics company, today announced a significant hardware perfo…"
-    },
-    {
-      "title": "Gartner Names IonQ a Market Shaper in Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/11/10/gartner-ionq-market-shaper-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 13:01:26 +0000",
-      "published_ts": 1794315686,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world&#8217;s leading full-stack quantum platform and foundry, today announced it has been positioned as a Market Shaper in the inaugural Gartner® Emerging Market Quadrant™ for Quantum Computing. IonQ appears in the Market Shapers quadrant o…"
-    },
-    {
-      "title": "D-Wave Revenue Rises 21% as Customer Deployments Expand And CHIPS Agreement Advances",
-      "link": "https://thequantuminsider.com/2026/11/10/d-wave-revenue-rises-21-as-customer-deployments-expand-and-chips-agreement-advances/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 12:54:04 +0000",
-      "published_ts": 1794315244,
-      "summary": "Insider Brief D-Wave Quantum reported a 21% increase in third-quarter revenue as professional services and cloud access sales grew, alongside customer deployments and a federal agreement supporting development of its next quantum computers. Revenue reached $4.5 million for the quarter ended Sept. 30…"
-    },
-    {
-      "title": "Horizon Quantum Reports Q3 2026 Financial Results",
-      "link": "https://thequantuminsider.com/2026/11/10/horizon-quantum-third-quarter-2026-financial-results/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 12:51:41 +0000",
-      "published_ts": 1794315101,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum,” “Horizon,” or “the Company”), a pioneer of software infrastructure for quantum applications, today reported financial results for the fiscal third quarter ended September 30, 2026 (“Q3 2026”). Third Qu…"
-    },
-    {
-      "title": "IBM Selects Four Organisations for AI and Quantum Workforce Programme",
-      "link": "https://thequantuminsider.com/2026/11/10/ibm-education-workforce-development-cohort/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 12:45:38 +0000",
-      "published_ts": 1794314738,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IBM (NYSE: IBM) today announced four organizations selected for the new education and workforce development cohort of the IBM Impact Accelerator, a pro bono social innovation program that provides grants of IBM technology and expertise to help nonprofit and govern…"
     },
     {
       "title": "Quantum could solve AI energy drain, says tech founder",
