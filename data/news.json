@@ -1,6 +1,54 @@
 {
-  "generated_ts": 1794403626,
+  "generated_ts": 1794441493,
   "items": [
+    {
+      "title": "NTHU Researchers Identify Quantum Critical Point in Cuprate Superconductors",
+      "link": "https://thequantuminsider.com/2026/11/11/nthu-researchers-identify-quantum-critical-point-cuprate-superconductors/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 18:15:51 +0000",
+      "published_ts": 1794420951,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Nearly 40 years after the discovery of cuprate high-temperature superconductors, the key mechanism behind their superconductivity at relatively high temperatures remains one of the most important unsolved problems in physics. An international research team includi…"
+    },
+    {
+      "title": "Patero and Horizen Labs Collaborate to Help Organizations Prepare for Post-Quantum Security",
+      "link": "https://thequantuminsider.com/2026/11/11/patero-horizen-labs-post-quantum-security-migration/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 17:01:18 +0000",
+      "published_ts": 1794416478,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Patero Inc. and Horizen Labs today announced a collaboration to help organizations identify where they rely on cryptography, decide what to migrate first, and test post-quantum protection for critical network connections. Most organizations have years of cryptogra…"
+    },
+    {
+      "title": "Researchers Explore Quantum Inspired AI Repair",
+      "link": "https://thequantuminsider.com/2026/11/11/researchers-explore-quantum-inspired-ai-repair/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 15:48:13 +0000",
+      "published_ts": 1794412093,
+      "summary": "Insider Brief Researchers have developed a method that repairs repetitive reasoning in small language models by changing selected internal weights, with a separate quantum hardware experiment testing a possible route for future work. The study, by Hadi Salloum of QDeep in Riyadh, Saudi Arabia, and A…"
+    },
+    {
+      "title": "Zhengyuan Quantum Raises Angel Funding For 1,000-Qubit Computer",
+      "link": "https://thequantuminsider.com/2026/11/11/zhengyuan-quantum-raises-angel-funding-for-1000-qubit-computer/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 15:23:36 +0000",
+      "published_ts": 1794410616,
+      "summary": "Insider Brief Chinese quantum computing startup Zhengyuan Quantum has completed an angel funding round to support development of a 1,000-qubit superconducting computer, according to media reports. The company announced the financing Nov. 10, according to a Jiemian News report republished by Sohu. In…"
+    },
+    {
+      "title": "Conductor and Elevate Quantum Partner on Training and Quantum Component Testing",
+      "link": "https://thequantuminsider.com/2026/11/11/conductor-elevate-quantum-training-component-testing/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 14:08:48 +0000",
+      "published_ts": 1794406128,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Conductor and Elevate Quantum today announced a collaboration to support workforce training and quantum component testing at the brand new Roadrunner Quantum Lab in Albuquerque, New Mexico. The collaboration brings together Elevate Quantum’s dilution refrigerator…"
+    },
+    {
+      "title": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
+      "link": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 14:03:23 +0000",
+      "published_ts": 1794405803,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IBM (NYSE: IBM) today announced IBM Quantum Nighthawk r3, its next-generation processor, will be built to accurately execute 10,000 quantum operations across 520 qubits to tackle larger, more complex problems while maintaining the speed and quality demonstrated by…"
+    },
     {
       "title": "SQC Appoints W.H. Teh as Chief Manufacturing Officer",
       "link": "https://thequantuminsider.com/2026/11/11/sqc-appoints-wh-teh-chief-manufacturing-officer/",
@@ -32,22 +80,6 @@
       "published": "Wed, 11 Nov 2026 09:30:09 +0000",
       "published_ts": 1794389409,
       "summary": "Insider Brief PRESS RELEASE &#8212; Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced financial results for the third quarter ended September 30, 2026 and provided an update on recent business and technology mile…"
-    },
-    {
-      "title": "SEAFOOD Puts OCTOPUS and Quantum Computers on the Same Menu",
-      "link": "https://thequantuminsider.com/2026/11/11/seafood-puts-octopus-and-quantum-computers-on-the-same-menu/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 11 Nov 2026 09:25:24 +0000",
-      "published_ts": 1794389124,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at D3 Center and the Center for Quantum Information and Quantum Biology (QIQB), the University of Osaka, have created SEAFOOD, a platform that allows the university’s OCTOPUS supercomputer and superconducting quantum computers to work together in a sin…"
-    },
-    {
-      "title": "FBH Offers Diamond Processing For Quantum Technologies",
-      "link": "https://thequantuminsider.com/2026/11/11/fbh-offers-diamond-processing-for-quantum-technologies/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 11 Nov 2026 08:39:26 +0000",
-      "published_ts": 1794386366,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Diamond is attracting growing interest for quantum technologies. Defects in its crystal lattice, known as color centers, can behave like individual atoms. Their discrete spin states can be addressed through optical transitions, making them promising building block…"
     },
     {
       "title": "Time Running Backwards, and Where It Stops: Superoscillations of Proper Time and the Memory of the Environment",
@@ -192,38 +224,6 @@
       "published": "Tue, 10 Nov 2026 15:00:01 EST",
       "published_ts": 1794340801,
       "summary": "The possibility of controlling \"forbidden\" excitations of vibrations in molecules could form the basis of extremely accurate clocks, quantum bits and precise tests of the fundamental laws of physics. Researchers at the University of Basel have now identified and controlled such \"forbidden\" transitio…"
-    },
-    {
-      "title": "Fermilab and CERN Begin Installation Work on DUNE Neutrino Experiment",
-      "link": "https://thequantuminsider.com/2026/11/10/construction-begins-dune-underground-neutrino-detector-cryostats/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 18:31:40 +0000",
-      "published_ts": 1794335500,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Installation crews with the U.S. Department of Energy’s (DOE) Fermi National Accelerator Laboratory (Fermilab) and CERN, the European Organization for Particle Physics, are working alongside the Sanford Underground Research Facility (SURF) to begin building massiv…"
-    },
-    {
-      "title": "QuiX Quantum Leads National Mission to Develop 100+ Qubit Photonic Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/11/10/quix-quantum-leads-national-mission-100-qubit-photonic-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 18:23:52 +0000",
-      "published_ts": 1794335032,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum, a Dutch-German developer of universal photonic quantum computers, has been the Photonic Quantum Computing Mission awarded funding under Phase II of the PhotonDelta National Growth Fund (NGF) Integrated Photonics Programme. QuiX Quantum and seven part…"
-    },
-    {
-      "title": "QuEra, Harvard and Anthropic Use AI to Reduce Quantum Circuit Resource Requirements",
-      "link": "https://thequantuminsider.com/2026/11/10/quera-harvard-anthropic-ai-quantum-circuit-resource-requirements/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 18:10:47 +0000",
-      "published_ts": 1794334247,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the leader in fault-tolerant quantum computing, today highlighted research with Harvard University and Anthropic showing that AI can design quantum circuits that require fewer computational resources. The findings show how advances in algorithm de…"
-    },
-    {
-      "title": "Draft EU Quantum Act Would Favor European Suppliers, Set Computing and Security Targets",
-      "link": "https://thequantuminsider.com/2026/11/10/draft-eu-quantum-act-would-favor-european-suppliers-set-computing-and-security-targets/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 10 Nov 2026 17:32:31 +0000",
-      "published_ts": 1794331951,
-      "summary": "Insider Brief If Winston Churchill were here today, he might say an “ion curtain” is descending across the Continent. Europe’s proposed Quantum Act would generally reserve public purchases of quantum technology and participation in strategic projects for EU-controlled companies, while leaving a door…"
     },
     {
       "title": "Laser-driven magnetic state defies equilibrium rules",
