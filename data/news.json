@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1794441493,
+  "generated_ts": 1794464875,
   "items": [
+    {
+      "title": "Inside this quantum computer, memory vibrates like a guitar string",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Wed, 11 Nov 2026 21:35:20 EST",
+      "published_ts": 1794450920,
+      "summary": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough successfully demonstrated advanced quantum calculations and could help overcome major barr…"
+    },
     {
       "title": "NTHU Researchers Identify Quantum Critical Point in Cuprate Superconductors",
       "link": "https://thequantuminsider.com/2026/11/11/nthu-researchers-identify-quantum-critical-point-cuprate-superconductors/",
@@ -80,126 +88,6 @@
       "published": "Wed, 11 Nov 2026 09:30:09 +0000",
       "published_ts": 1794389409,
       "summary": "Insider Brief PRESS RELEASE &#8212; Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced financial results for the third quarter ended September 30, 2026 and provided an update on recent business and technology mile…"
-    },
-    {
-      "title": "Time Running Backwards, and Where It Stops: Superoscillations of Proper Time and the Memory of the Environment",
-      "link": "https://arxiv.org/abs/2611.12971",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.12971v1 Announce Type: new  Abstract: A quantum system prepared in a superposition of proper times - a clock whose worldline is superposed, or a clock at rest in a superposed gravitational potential - evolves, in each branch, by the same dynamics for a different duration. Post-selecting t…"
-    },
-    {
-      "title": "Second-level termination of the PPT entanglement-cost hierarchy for two qutrits",
-      "link": "https://arxiv.org/abs/2611.12993",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.12993v1 Announce Type: new  Abstract: We prove that for arbitrary two-qutrit quantum states, the semidefinite programming lower-bound hierarchy for the PPT entanglement cost terminates at the second level. Therefore, under operations preserving positive partial transpose, its zero-error a…"
-    },
-    {
-      "title": "Quantum simulation of real-time bosonic dynamics with binary and unary position encodings on superconducting and trapped-ion processors",
-      "link": "https://arxiv.org/abs/2611.13079",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13079v1 Announce Type: new  Abstract: Simulating a bosonic degree of freedom on qubit hardware requires discretizing its position space, and the qubit encoding of the resulting lattice determines the circuits that realize its real-time dynamics. We compare binary and unary encodings of a…"
-    },
-    {
-      "title": "Field-induced phase-matching in Josephson traveling wave parametric amplifiers",
-      "link": "https://arxiv.org/abs/2611.13084",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13084v1 Announce Type: new  Abstract: Superconducting Josephson traveling wave parametric amplifiers (JTWPAs) enable broadband, quantum-limited amplification of weak microwave signals. JTWPAs are essential for the single-shot readout of superconducting qubits, broadband vacuum squeezing,…"
-    },
-    {
-      "title": "Time Direction Entanglement Entropy of Free Fermion Ground States",
-      "link": "https://arxiv.org/abs/2611.13085",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13085v1 Announce Type: new  Abstract: While the entanglement entropy of a spatial subregion has been extensively studied, a properly defined entanglement entropy of quantum states in a time direction interval remains underexplored. We investigate the scaling behaviors of the recently defi…"
-    },
-    {
-      "title": "Kinematic Quantum Geometry",
-      "link": "https://arxiv.org/abs/2611.13089",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13089v1 Announce Type: new  Abstract: Kinematic quantum geometry describes fast degrees of freedom (DOFs) that adiabatically follow states parametrized by both the coordinates and the velocities of slow DOFs. It extends Born-Oppenheimer geometry, which depends on coordinates alone, introd…"
-    },
-    {
-      "title": "Frustration-free control for quantum-state preparation: an exact first-passage theory",
-      "link": "https://arxiv.org/abs/2611.13094",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13094v1 Announce Type: new  Abstract: Quantum circuits based on local measurements and feedback can autonomously prepare and stabilize entangled many-body states. In frustration-free control, the target manifold is specified by local constraints, whose violations are detected by measureme…"
-    },
-    {
-      "title": "Surface codes with coherent errors: optimal decoding and finite-size crossovers",
-      "link": "https://arxiv.org/abs/2611.13098",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13098v1 Announce Type: new  Abstract: We study the surface code under uniform coherent $Z$ rotations $\\exp{(i\\theta Z)}$ followed by perfect syndrome measurements, a setting known to exhibit strong finite-size effects that complicate the extraction of the asymptotic decoding threshold. We…"
-    },
-    {
-      "title": "Third-Order Quantum Information from Distributed Randomized Measurements",
-      "link": "https://arxiv.org/abs/2611.13099",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13099v1 Announce Type: new  Abstract: Randomized measurements offer a way to probe nonlinear properties of quantum states without reconstructing their full density matrices. For states shared between distant laboratories, we study products of three outcome probabilities measured at the sa…"
-    },
-    {
-      "title": "Which data samples matter when training a quantum model?",
-      "link": "https://arxiv.org/abs/2611.13103",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13103v1 Announce Type: new  Abstract: The expressivity, loss landscapes, and generalization behavior of quantum machine learning models have been studied extensively, yet mainly from a model-centric point of view. Little is known about the compatibility of particular quantum models with s…"
-    },
-    {
-      "title": "Finite Measured Entropy Production Does Not Imply Finite Microscopic Irreversibility",
-      "link": "https://arxiv.org/abs/2611.13110",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13110v1 Announce Type: new  Abstract: Coarse-grained measurements provide a lower bound on entropy production, but how much microscopic irreversibility can they conceal? We construct a driven quantum system in which an imperfect counter registers a finite, strictly positive arrow of time…"
-    },
-    {
-      "title": "FusionQ: A Generic and Optimal Decoding Framework for Ultra-Low-Latency Quantum Error Correction",
-      "link": "https://arxiv.org/abs/2611.13111",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13111v1 Announce Type: new  Abstract: Quantum error correction (QEC) decoding has traditionally been organized around fixed decoding instances: a monolithic space-time detector error model (DEM), or a predetermined temporal window, is handed to a backend decoder after enough syndrome data…"
-    },
-    {
-      "title": "Rational quantum spectral filtering by repeat-until-success protocol",
-      "link": "https://arxiv.org/abs/2611.13154",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13154v1 Announce Type: new  Abstract: We introduce a finite-memory repeat-until-success (RUS) framework for implementing rational spectral filters on a quantum computer, extending spectral filtering beyond the polynomial transformations implemented by quantum signal processing (QSP) and q…"
-    },
-    {
-      "title": "Long-range correlated quantum errors from diffuson-correlated dephasing",
-      "link": "https://arxiv.org/abs/2611.13156",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13156v1 Announce Type: new  Abstract: Electrical solid-state qubits are generally initialized, manipulated and read out through diffusive conductors. We show that the disorder-induced low energy modes of such a conductor --- diffusons --- impose spatially correlated dephasing on any qubit…"
-    },
-    {
-      "title": "How wide must an eavesdropper be? Leakage of a toric-code logical bit to a strip and the Nishimori point",
-      "link": "https://arxiv.org/abs/2611.13174",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "published_ts": 1794373200,
-      "summary": "arXiv:2611.13174v1 Announce Type: new  Abstract: Fault-tolerant quantum computers hand pieces of each logical qubit to separate decoder modules and shared readout lines. How much does a piece reveal? We prove that for any region and any Pauli noise, including correlated noise, an observer's optimal…"
     },
     {
       "title": "Scientists discover new way to control magnetic waves for future quantum technologies",
@@ -448,14 +336,6 @@
       "published": "Sat, 12 Sep 2026 10:08:20 EDT",
       "published_ts": 1789222100,
       "summary": "Researchers at Harvard have demonstrated a way to protect quantum information using microscopic sound waves. By continuously surrounding a diamond-based qubit with mechanical vibrations, they extended its coherence time by roughly threefold. The same phonons could eventually both transmit and protec…"
-    },
-    {
-      "title": "Scientists just made quantum computer operations 1,000 times faster",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Fri, 11 Sep 2026 07:52:30 EDT",
-      "published_ts": 1789127550,
-      "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality."
     },
     {
       "title": "New qubit architecture enables faster, more accurate operations",
