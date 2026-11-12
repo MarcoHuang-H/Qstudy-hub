@@ -1,6 +1,94 @@
 {
-  "generated_ts": 1794464875,
+  "generated_ts": 1794511662,
   "items": [
+    {
+      "title": "Train the Trainer: Inside MAHE’s Hardware-First Bet on Quantum",
+      "link": "https://thequantuminsider.com/2026/11/12/train-the-trainer-inside-mahes-hardware-first-bet-on-quantum/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 17:51:35 +0000",
+      "published_ts": 1794505895,
+      "summary": "Through its partnership with QuantrolOx, Manipal Academy of Higher Education is preparing educators like Dr. Chandrakantha Bekal to run a live quantum facility. Insider Brief For Chandrakantha Bekal, teaching had never been a lifelong interest. After completing his master&#8217;s degree in product d…"
+    },
+    {
+      "title": "Haiqu Appoints Kortny Rolston-Duce to Lead Ecosystem Development and Marketing",
+      "link": "https://thequantuminsider.com/2026/11/12/haiqu-appoints-kortny-rolston-duce-ecosystem-development-marketing/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 16:19:28 +0000",
+      "published_ts": 1794500368,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum AI software developer Haiqu today announced the appointment of Kortny Rolston-Duce as head of ecosystem development and marketing. In her new role, she will build the Haiqu brand and work to put its software in the hands of researchers in academia, governm…"
+    },
+    {
+      "title": "Qedma Appoints Scott Aaronson to Its Scientific Advisory Board",
+      "link": "https://thequantuminsider.com/2026/11/12/qedma-appoints-scott-aaronson-scientific-advisory-board/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 16:04:33 +0000",
+      "published_ts": 1794499473,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qedma, a quantum computing software company specializing in quantum error suppression and mitigation, today announced that Professor Scott Aaronson, one of the world&#8217;s leading researchers in quantum computing and computational complexity theory, has joined i…"
+    },
+    {
+      "title": "Unified framework establishes rules for classifying unconventional magnets",
+      "link": "https://phys.org/news/2026-11-framework-unconventional-magnets.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 12 Nov 2026 11:00:49 EST",
+      "published_ts": 1794499249,
+      "summary": "Researchers from the Hefei Institutes of Physical Science (HFIPS) of the Chinese Academy of Sciences (CAS) have developed a unified framework for establishing symmetry criteria and classifying unconventional magnets."
+    },
+    {
+      "title": "PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure",
+      "link": "https://thequantuminsider.com/2026/11/12/psiquantum-amd-expand-quantum-computing-infrastructure-partnership/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 15:54:57 +0000",
+      "published_ts": 1794498897,
+      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum and AMD (NASDAQ: AMD) today announced an expanded strategic partnership to co-design the computing infrastructure required to operate utility-scale, fault-tolerant quantum computers and the hybrid applications that combine quantum, high-performance, and…"
+    },
+    {
+      "title": "FAU Receives $3 Million Award for Quantum Workforce Development",
+      "link": "https://thequantuminsider.com/2026/11/12/fau-3-million-award-quantum-workforce-development/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 15:49:35 +0000",
+      "published_ts": 1794498575,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Florida Atlantic University&#8216;s Center for Connected Autonomy and Artificial Intelligence (CA-AI), within the College of Engineering and Computer Science, received a $3 million award from the U.S. Department of Labor&#8217;s Strengthening Institutions Program…"
+    },
+    {
+      "title": "Quantum Elements Helps Rigetti Predict Quantum Hardware Behavior",
+      "link": "https://thequantuminsider.com/2026/11/12/quantum-elements-helps-rigetti-predict-quantum-hardware-behavior/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 14:12:15 +0000",
+      "published_ts": 1794492735,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Elements, developers of software that shortens the path to fault-tolerant quantum computing, announces that Rigetti Computing, a pioneer in full-stack quantum-classical computing, is leveraging Quantum Elements’ Constellation platform to model quantum devi…"
+    },
+    {
+      "title": "Q-CTRL Secures US$290 Million Series C Funding Led by Salesforce Ventures",
+      "link": "https://thequantuminsider.com/2026/11/12/q-ctrl-secures-us290-million-series-c-funding-led-by-salesforce-ventures/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 13:05:33 +0000",
+      "published_ts": 1794488733,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Q-CTRL, the global leader in quantum infrastructure software, today announced a landmark Series C private fundraise of US$290 million (A$415 million), led by Salesforce Ventures. The round is headlined by significant participation from Bullhound Capital and Affini…"
+    },
+    {
+      "title": "OrangeQS Appoints Raj Badoni as Chief Commercial Officer",
+      "link": "https://thequantuminsider.com/2026/11/12/orangeqs-raj-badoni-chief-commercial-officer/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 10:30:46 +0000",
+      "published_ts": 1794479446,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Orange Quantum Systems (OrangeQS) today announces the appointment of Raj Badoni as Chief Commercial Officer (CCO).  The appointment marks an important milestone in the company&#8217;s evolution as it strengthens its executive leadership and accelerates its commerc…"
+    },
+    {
+      "title": "Qunova’s Hybrid Computing Method Matches Classical Benchmark for Iron-Sulfur Cluster",
+      "link": "https://thequantuminsider.com/2026/11/12/qunovas-hybrid-computing-method-matches-classical-benchmark-for-iron-sulfur-cluster/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 10:02:05 +0000",
+      "published_ts": 1794477725,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Qunova Computing, a world leader in quantum computations for advanced chemistry, today announces that its HI-VQE algorithm has become the first quantum algorithm to reach chemical accuracy (a level of precision required for practical use) at 80 qubits. It did so w…"
+    },
+    {
+      "title": "CyberRisk Collaborative Announces Virtual Event on Post-Quantum Readiness",
+      "link": "https://thequantuminsider.com/2026/11/12/cyberrisk-collaborative-virtual-event-post-quantum-readiness/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 08:29:00 +0000",
+      "published_ts": 1794472140,
+      "summary": "Insider Brief PRESS RELEASE &#8212; CyberRisk Collaborative, a membership organization for senior cybersecurity leaders, today announced Post-Quantum Readiness: Preparing for Q-Day, a virtual event taking place Tuesday, Jan. 26, 2027, focused on the security, risk, and technology implications of adv…"
+    },
     {
       "title": "Inside this quantum computer, memory vibrates like a guitar string",
       "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
@@ -8,86 +96,6 @@
       "published": "Wed, 11 Nov 2026 21:35:20 EST",
       "published_ts": 1794450920,
       "summary": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough successfully demonstrated advanced quantum calculations and could help overcome major barr…"
-    },
-    {
-      "title": "NTHU Researchers Identify Quantum Critical Point in Cuprate Superconductors",
-      "link": "https://thequantuminsider.com/2026/11/11/nthu-researchers-identify-quantum-critical-point-cuprate-superconductors/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 11 Nov 2026 18:15:51 +0000",
-      "published_ts": 1794420951,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Nearly 40 years after the discovery of cuprate high-temperature superconductors, the key mechanism behind their superconductivity at relatively high temperatures remains one of the most important unsolved problems in physics. An international research team includi…"
-    },
-    {
-      "title": "Patero and Horizen Labs Collaborate to Help Organizations Prepare for Post-Quantum Security",
-      "link": "https://thequantuminsider.com/2026/11/11/patero-horizen-labs-post-quantum-security-migration/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 11 Nov 2026 17:01:18 +0000",
-      "published_ts": 1794416478,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Patero Inc. and Horizen Labs today announced a collaboration to help organizations identify where they rely on cryptography, decide what to migrate first, and test post-quantum protection for critical network connections. Most organizations have years of cryptogra…"
-    },
-    {
-      "title": "Researchers Explore Quantum Inspired AI Repair",
-      "link": "https://thequantuminsider.com/2026/11/11/researchers-explore-quantum-inspired-ai-repair/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 11 Nov 2026 15:48:13 +0000",
-      "published_ts": 1794412093,
-      "summary": "Insider Brief Researchers have developed a method that repairs repetitive reasoning in small language models by changing selected internal weights, with a separate quantum hardware experiment testing a possible route for future work. The study, by Hadi Salloum of QDeep in Riyadh, Saudi Arabia, and A…"
-    },
-    {
-      "title": "Zhengyuan Quantum Raises Angel Funding For 1,000-Qubit Computer",
-      "link": "https://thequantuminsider.com/2026/11/11/zhengyuan-quantum-raises-angel-funding-for-1000-qubit-computer/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 11 Nov 2026 15:23:36 +0000",
-      "published_ts": 1794410616,
-      "summary": "Insider Brief Chinese quantum computing startup Zhengyuan Quantum has completed an angel funding round to support development of a 1,000-qubit superconducting computer, according to media reports. The company announced the financing Nov. 10, according to a Jiemian News report republished by Sohu. In…"
-    },
-    {
-      "title": "Conductor and Elevate Quantum Partner on Training and Quantum Component Testing",
-      "link": "https://thequantuminsider.com/2026/11/11/conductor-elevate-quantum-training-component-testing/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 11 Nov 2026 14:08:48 +0000",
-      "published_ts": 1794406128,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Conductor and Elevate Quantum today announced a collaboration to support workforce training and quantum component testing at the brand new Roadrunner Quantum Lab in Albuquerque, New Mexico. The collaboration brings together Elevate Quantum’s dilution refrigerator…"
-    },
-    {
-      "title": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
-      "link": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 11 Nov 2026 14:03:23 +0000",
-      "published_ts": 1794405803,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IBM (NYSE: IBM) today announced IBM Quantum Nighthawk r3, its next-generation processor, will be built to accurately execute 10,000 quantum operations across 520 qubits to tackle larger, more complex problems while maintaining the speed and quality demonstrated by…"
-    },
-    {
-      "title": "SQC Appoints W.H. Teh as Chief Manufacturing Officer",
-      "link": "https://thequantuminsider.com/2026/11/11/sqc-appoints-wh-teh-chief-manufacturing-officer/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 11 Nov 2026 11:56:33 +0000",
-      "published_ts": 1794398193,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Silicon Quantum Computing (SQC), a pioneer in quantum computing and atomic-precision manufacturing, today announced the appointment of W.H. Teh as Chief Manufacturing Officer, effective October 2026. Teh will oversee the scale-up of SQC’s atomic semiconductor manu…"
-    },
-    {
-      "title": "IHRD and Bloq Quantum Partner to Expand Quantum Computing Education in Kerala",
-      "link": "https://thequantuminsider.com/2026/11/11/ihrd-bloq-quantum-quantum-computing-education-kerala/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 11 Nov 2026 11:51:36 +0000",
-      "published_ts": 1794397896,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Institute of Human Resources Development (IHRD), an autonomous educational institution established by the Government of Kerala, today signed a Memorandum of Understanding (MoU) with Bloq Quantum Private Limited, a Kerala-based quantum software company. The agr…"
-    },
-    {
-      "title": "Guest Post: Quantum-Resistant Wallets Could Support Institutional Blockchain Adoption",
-      "link": "https://thequantuminsider.com/2026/11/11/quantum-resistant-wallets-wall-street-capital-on-chain/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 11 Nov 2026 09:36:40 +0000",
-      "published_ts": 1794389800,
-      "summary": "Guest Post by Seb Audy &#124; COO at AmericanFortress, COO at Moon Pursuit Capital Institutional finance has a problem with how it approaches blockchain security. We are spending billions building systems intended to hold and move assets for decades, while much of the cryptography protecting those a…"
-    },
-    {
-      "title": "Rigetti Reports Q3 2026 Results and Updates Quantum Computing Roadmap",
-      "link": "https://thequantuminsider.com/2026/11/11/rigetti-q3-2026-results-quantum-computing-roadmap/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 11 Nov 2026 09:30:09 +0000",
-      "published_ts": 1794389409,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced financial results for the third quarter ended September 30, 2026 and provided an update on recent business and technology mile…"
     },
     {
       "title": "Scientists discover new way to control magnetic waves for future quantum technologies",
@@ -208,14 +216,6 @@
       "published": "Fri, 06 Nov 2026 15:20:01 EST",
       "published_ts": 1793996401,
       "summary": "For the first time, an international team of researchers from Germany, Thailand, India, China and the United States has created a three-component Hubbard system with tunable interactions in the laboratory. In doing so, the team used a quantum gas microscope to make the individual atoms visible. The…"
-    },
-    {
-      "title": "Scientists achieve record-breaking low temperature on China's space station, paving the way for new physics experiments",
-      "link": "https://phys.org/news/2026-11-scientists-temperature-china-space-station.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 06 Nov 2026 12:00:17 EST",
-      "published_ts": 1793984417,
-      "summary": "Matter starts to behave differently at extremely low temperatures, creating conditions ideal for studying quantum physics and new states of matter. Now, researchers from China have achieved a new low-temperature record aboard their Tiangong space station. Their research, recently published in Scienc…"
     },
     {
       "title": "A tiny supercurrent could unlock quantum information without destroying it",
