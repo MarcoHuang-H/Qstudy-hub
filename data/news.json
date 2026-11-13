@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1794545238,
+  "generated_ts": 1794577775,
   "items": [
+    {
+      "title": "Light-activated molecules in porous crystals show potential for quantum chemical sensing",
+      "link": "https://phys.org/news/2026-11-molecules-porous-crystals-potential-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 13 Nov 2026 05:00:01 EST",
+      "published_ts": 1794564001,
+      "summary": "An international research team led by Nobuhiro Yanai from the University of Tokyo and Michael R. Wasielewski from Northwestern University has created polarized radical pairs, molecules with unpaired electrons whose spins align, in metal–organic frameworks (MOFs), porous materials consisting of metal…"
+    },
+    {
+      "title": "Classical Light Dynamics Could Help Simulate Quantum Interactions",
+      "link": "https://thequantuminsider.com/2026/11/13/classical-light-dynamics-could-help-simulate-quantum-interactions/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 13 Nov 2026 09:01:36 +0000",
+      "published_ts": 1794560496,
+      "summary": "Insider Brief PRESS RELEASE &#8212; An international research team of scientist from Saint Louis University (SLU) and two institutions in Germany has shown that multimode nonlinear optical platforms can be harnessed to induce effective quantum interactions between photons, subsequently thermalizing…"
+    },
+    {
+      "title": "University at Buffalo Study Decodes Quantum Material’s ‘Optical Dingerprints’",
+      "link": "https://thequantuminsider.com/2026/11/13/university-at-buffalo-study-decodes-quantum-materials-optical-dingerprints/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 13 Nov 2026 08:48:53 +0000",
+      "published_ts": 1794559733,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The tiny atomic defects so important for future quantum technologies can be difficult to spot. Fortunately, they leave behind some clues The defects can alter how a material responds to light, producing a distinctive optical fingerprint that scientists can measure…"
+    },
+    {
+      "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Fri, 13 Nov 2026 00:26:41 EST",
+      "published_ts": 1794547601,
+      "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's superc…"
+    },
     {
       "title": "Research advances quantum computing that harnesses speed of light",
       "link": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
@@ -16,6 +48,14 @@
       "published": "Fri, 13 Nov 2026 02:40:00 +0000",
       "published_ts": 1794537600,
       "summary": "Insider Brief An ordinary qubit remembers too much and listens too well. Its delicate phase is the hidden part of a qubit’s state. It carries much of the qubit&#8217;s information and is very easy to disturb. The phase takes account of every stray field, lattice vibration, and fluctuating charge. In…"
+    },
+    {
+      "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Thu, 12 Nov 2026 20:40:17 EST",
+      "published_ts": 1794534017,
+      "summary": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI. Their breakthrough eliminates a long-standing \"dead layer\" problem that causes promising materials to stop working when made extremely thin. Remar…"
     },
     {
       "title": "Engineered atomic interactions help microwave sensor capture three times as much information",
@@ -122,22 +162,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Q-CTRL, the global leader in quantum infrastructure software, today announced a landmark Series C private fundraise of US$290 million (A$415 million), led by Salesforce Ventures. The round is headlined by significant participation from Bullhound Capital and Affini…"
     },
     {
-      "title": "OrangeQS Appoints Raj Badoni as Chief Commercial Officer",
-      "link": "https://thequantuminsider.com/2026/11/12/orangeqs-raj-badoni-chief-commercial-officer/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 12 Nov 2026 10:30:46 +0000",
-      "published_ts": 1794479446,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Orange Quantum Systems (OrangeQS) today announces the appointment of Raj Badoni as Chief Commercial Officer (CCO).  The appointment marks an important milestone in the company&#8217;s evolution as it strengthens its executive leadership and accelerates its commerc…"
-    },
-    {
-      "title": "Qunova’s Hybrid Computing Method Matches Classical Benchmark for Iron-Sulfur Cluster",
-      "link": "https://thequantuminsider.com/2026/11/12/qunovas-hybrid-computing-method-matches-classical-benchmark-for-iron-sulfur-cluster/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 12 Nov 2026 10:02:05 +0000",
-      "published_ts": 1794477725,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qunova Computing, a world leader in quantum computations for advanced chemistry, today announces that its HI-VQE algorithm has become the first quantum algorithm to reach chemical accuracy (a level of precision required for practical use) at 80 qubits. It did so w…"
-    },
-    {
       "title": "Inside this quantum computer, memory vibrates like a guitar string",
       "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -216,14 +240,6 @@
       "published": "Mon, 09 Nov 2026 14:40:09 EST",
       "published_ts": 1794253209,
       "summary": "The tiny atomic defects so important for future quantum technologies can be difficult to spot. Fortunately, they leave behind some clues. The defects can alter how a material responds to light, producing a distinctive optical fingerprint that scientists can measure. The challenge is figuring out whi…"
-    },
-    {
-      "title": "Quantum interference keeps two atoms bound despite enough energy to break apart",
-      "link": "https://phys.org/news/2026-11-quantum-atoms-bound-energy.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 09 Nov 2026 13:00:16 EST",
-      "published_ts": 1794247216,
-      "summary": "How can something remain intact when it should naturally break apart? This question has been addressed by researchers at RPTU. Their work has led to the experimental observation of an unusual quantum state in which two atoms remain bound together even though they possess enough energy to separate. T…"
     },
     {
       "title": "A tiny supercurrent could unlock quantum information without destroying it",
@@ -328,22 +344,6 @@
       "published": "Sun, 13 Sep 2026 08:03:59 EDT",
       "published_ts": 1789301039,
       "summary": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from each electron. The approach could reveal faint details with fewer electrons, helping protect fragile samples that conventional microscopy can damage."
-    },
-    {
-      "title": "Physicists discover a hidden “curveball” in quantum light",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Sun, 13 Sep 2026 07:22:01 EDT",
-      "published_ts": 1789298521,
-      "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a tightly focused laser interacts most strongly with an atom slightly away from the beam’s center. The unexpected shift is similar to the physics that makes a spinning table tennis ball curve th…"
-    },
-    {
-      "title": "Tiny sound waves could help solve a major quantum computing problem",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Sat, 12 Sep 2026 10:08:20 EDT",
-      "published_ts": 1789222100,
-      "summary": "Researchers at Harvard have demonstrated a way to protect quantum information using microscopic sound waves. By continuously surrounding a diamond-based qubit with mechanical vibrations, they extended its coherence time by roughly threefold. The same phonons could eventually both transmit and protec…"
     },
     {
       "title": "New qubit architecture enables faster, more accurate operations",
