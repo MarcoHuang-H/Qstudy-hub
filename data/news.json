@@ -1,6 +1,62 @@
 {
-  "generated_ts": 1794511662,
+  "generated_ts": 1794545238,
   "items": [
+    {
+      "title": "Research advances quantum computing that harnesses speed of light",
+      "link": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 12 Nov 2026 22:40:01 EST",
+      "published_ts": 1794541201,
+      "summary": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits."
+    },
+    {
+      "title": "The Geometry of Quantum Memory: How Anyons Rewrite the Rules of Remembering and Computation in the Quantum Realm",
+      "link": "https://thequantuminsider.com/2026/11/13/the-geometry-of-quantum-memory-how-anyons-rewrite-the-rules-of-remembering-and-computation-in-the-quantum-realm/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 13 Nov 2026 02:40:00 +0000",
+      "published_ts": 1794537600,
+      "summary": "Insider Brief An ordinary qubit remembers too much and listens too well. Its delicate phase is the hidden part of a qubit’s state. It carries much of the qubit&#8217;s information and is very easy to disturb. The phase takes account of every stray field, lattice vibration, and fluctuating charge. In…"
+    },
+    {
+      "title": "Engineered atomic interactions help microwave sensor capture three times as much information",
+      "link": "https://phys.org/news/2026-11-atomic-interactions-microwave-sensor-capture.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 12 Nov 2026 19:10:01 EST",
+      "published_ts": 1794528601,
+      "summary": "Researchers from the Faculty of Physics at the University of Warsaw (UW) and the Center for Optical Quantum Technologies at the University of Warsaw's Center for New Technologies (CeNT UW) have developed a method for ultrasensitive microwave sensing. Using cold, strongly interacting Rydberg atoms as…"
+    },
+    {
+      "title": "Multiplexed detector system precisely counts more than 9,000 photons",
+      "link": "https://phys.org/news/2026-11-multiplexed-detector-precisely-photons.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 12 Nov 2026 18:30:02 EST",
+      "published_ts": 1794526202,
+      "summary": "Researchers have developed a new approach that can precisely count from zero to more than 9,000 individual photons. The advance opens new possibilities for studying quantum light at large scales and making precise optical measurements."
+    },
+    {
+      "title": "Chip-based laser cooling could ease quantum computing bottleneck",
+      "link": "https://phys.org/news/2026-11-chip-based-laser-cooling-ease.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 12 Nov 2026 17:40:10 EST",
+      "published_ts": 1794523210,
+      "summary": "Researchers at Cornell have developed a laser-cooling technique that could potentially remove a significant bottleneck in the development of larger, faster quantum computers."
+    },
+    {
+      "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
+      "link": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
+      "source": "MIT News — Quantum Computing",
+      "published": "Thu, 12 Nov 2026 16:15:00 -0500",
+      "published_ts": 1794518100,
+      "summary": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations."
+    },
+    {
+      "title": "Imperfections reveal unexpected links between light and atomic vibrations in ultrathin boron nitride",
+      "link": "https://phys.org/news/2026-11-imperfections-reveal-unexpected-links-atomic.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 12 Nov 2026 14:40:16 EST",
+      "published_ts": 1794512416,
+      "summary": "First, one person stands up, followed by their neighbors, one after another, until a wave sweeps through the stadium. Atoms within a material move in a similar way: rather than remaining completely still in their positions, they vibrate together around their respective positions. In physics, these c…"
+    },
     {
       "title": "Train the Trainer: Inside MAHE’s Hardware-First Bet on Quantum",
       "link": "https://thequantuminsider.com/2026/11/12/train-the-trainer-inside-mahes-hardware-first-bet-on-quantum/",
@@ -80,14 +136,6 @@
       "published": "Thu, 12 Nov 2026 10:02:05 +0000",
       "published_ts": 1794477725,
       "summary": "Insider Brief PRESS RELEASE &#8212; Qunova Computing, a world leader in quantum computations for advanced chemistry, today announces that its HI-VQE algorithm has become the first quantum algorithm to reach chemical accuracy (a level of precision required for practical use) at 80 qubits. It did so w…"
-    },
-    {
-      "title": "CyberRisk Collaborative Announces Virtual Event on Post-Quantum Readiness",
-      "link": "https://thequantuminsider.com/2026/11/12/cyberrisk-collaborative-virtual-event-post-quantum-readiness/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 12 Nov 2026 08:29:00 +0000",
-      "published_ts": 1794472140,
-      "summary": "Insider Brief PRESS RELEASE &#8212; CyberRisk Collaborative, a membership organization for senior cybersecurity leaders, today announced Post-Quantum Readiness: Preparing for Q-Day, a virtual event taking place Tuesday, Jan. 26, 2027, focused on the security, risk, and technology implications of adv…"
     },
     {
       "title": "Inside this quantum computer, memory vibrates like a guitar string",
@@ -176,46 +224,6 @@
       "published": "Mon, 09 Nov 2026 13:00:16 EST",
       "published_ts": 1794247216,
       "summary": "How can something remain intact when it should naturally break apart? This question has been addressed by researchers at RPTU. Their work has led to the experimental observation of an unusual quantum state in which two atoms remain bound together even though they possess enough energy to separate. T…"
-    },
-    {
-      "title": "The fastest levitated spinning magnet ever made might help physicists search for dark matter",
-      "link": "https://phys.org/news/2026-11-fastest-levitated-magnet-physicists-dark.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 09 Nov 2026 12:30:01 EST",
-      "published_ts": 1794245401,
-      "summary": "Tiny levitated magnets are able to avoid contact friction, making them useful for detecting extremely weak forces and magnetic fields and acting as ultralow-noise quantum sensors and precision measurement tools. Combining levitation with extreme cold further reduces unwanted motion that can make fai…"
-    },
-    {
-      "title": "Chirality of 'trions' illuminates new paths for quantum optics",
-      "link": "https://phys.org/news/2026-11-chirality-trions-illuminates-paths-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 09 Nov 2026 10:40:01 EST",
-      "published_ts": 1794238801,
-      "summary": "Scientists from Tokyo Metropolitan University have discovered that charged states made of two electrons and a positively charged hole (or vice versa) on atomically thin rolls of carbon atoms have a structure-derived \"handedness\" in how they interact with light. While electron-hole pairs, or \"exciton…"
-    },
-    {
-      "title": "Optical experiment demonstrates the strong Mpemba effect in a single qubit",
-      "link": "https://phys.org/news/2026-11-optical-strong-mpemba-effect-qubit.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 09 Nov 2026 06:40:01 EST",
-      "published_ts": 1794224401,
-      "summary": "Typically, after a physical system is disturbed, it can gradually return toward a state of thermal equilibrium by exchanging heat with its surroundings. Thermal equilibrium is a state in which there is no net transfer of heat between the system and its surroundings."
-    },
-    {
-      "title": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
-      "link": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sat, 07 Nov 2026 13:00:02 EST",
-      "published_ts": 1794074402,
-      "summary": "In a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer."
-    },
-    {
-      "title": "Quantum gas microscope reveals individual atoms in first tunable three-component Hubbard system",
-      "link": "https://phys.org/news/2026-11-quantum-gas-microscope-reveals-individual.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 06 Nov 2026 15:20:01 EST",
-      "published_ts": 1793996401,
-      "summary": "For the first time, an international team of researchers from Germany, Thailand, India, China and the United States has created a three-component Hubbard system with tunable interactions in the laboratory. In doing so, the team used a quantum gas microscope to make the individual atoms visible. The…"
     },
     {
       "title": "A tiny supercurrent could unlock quantum information without destroying it",
@@ -432,14 +440,6 @@
       "published": "Mon, 15 Jun 2026 15:55:00 -0400",
       "published_ts": 1781553300,
       "summary": "Researchers establish key insights for reading and writing information for quantum sensing, communication, computing, and control."
-    },
-    {
-      "title": "New laboratory at MIT aims to advance quantum research for the nation",
-      "link": "https://news.mit.edu/2026/new-laboratory-aims-to-advance-quantum-research-nation-0528",
-      "source": "MIT News — Quantum Computing",
-      "published": "Thu, 28 May 2026 17:20:00 -0400",
-      "published_ts": 1780003200,
-      "summary": "The Quantum Systems Laboratory will catalyze quantum innovation and be open to government, academic, and industry researchers."
     }
   ]
 }
