@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1794577775,
+  "generated_ts": 1794611404,
   "items": [
+    {
+      "title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
+      "link": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 13 Nov 2026 18:36:11 +0000",
+      "published_ts": 1794594971,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Atom Computing, a leader in scalable neutral-atom quantum computing, today announced it has signed an agreement for up to $100 million with the U.S. Department of Commerce to accelerate research and development of fault-tolerant, utility-scale quantum computers. T…"
+    },
+    {
+      "title": "Heat drives electron orbital currents, revealing first experimental evidence of orbital Nernst effect",
+      "link": "https://phys.org/news/2026-11-electron-orbital-currents-revealing-experimental.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 13 Nov 2026 12:00:12 EST",
+      "published_ts": 1794589212,
+      "summary": "Researchers at National Taiwan University (NTU) have reported the first experimental evidence of heat-current-driven transverse accumulation of electrons' orbital angular momentum, a phenomenon known as the orbital Nernst effect. The study was recently published in Nature Communications."
+    },
+    {
+      "title": "U.S. Quantum Ambitions Face a Supply Chain Test, Policy Analysts Warn",
+      "link": "https://thequantuminsider.com/2026/11/13/u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 13 Nov 2026 16:17:23 +0000",
+      "published_ts": 1794586643,
+      "summary": "Insider Brief U.S. quantum ambitions could outpace the supply chains needed to turn laboratory advances into a commercial industry, four policy analysts warn. In a policy piece published by the Foundation for American Innovation, Joshua Levine, Prineha Narang, Jacqueline Tame and Alexandra Seymour G…"
+    },
     {
       "title": "Light-activated molecules in porous crystals show potential for quantum chemical sensing",
       "link": "https://phys.org/news/2026-11-molecules-porous-crystals-potential-quantum.html",
@@ -18,7 +42,7 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; An international research team of scientist from Saint Louis University (SLU) and two institutions in Germany has shown that multimode nonlinear optical platforms can be harnessed to induce effective quantum interactions between photons, subsequently thermalizing…"
     },
     {
-      "title": "University at Buffalo Study Decodes Quantum Material’s ‘Optical Dingerprints’",
+      "title": "University at Buffalo Study Decodes Quantum Material’s ‘Optical Fingerprints’",
       "link": "https://thequantuminsider.com/2026/11/13/university-at-buffalo-study-decodes-quantum-materials-optical-dingerprints/",
       "source": "The Quantum Insider",
       "published": "Fri, 13 Nov 2026 08:48:53 +0000",
@@ -146,22 +170,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Florida Atlantic University&#8216;s Center for Connected Autonomy and Artificial Intelligence (CA-AI), within the College of Engineering and Computer Science, received a $3 million award from the U.S. Department of Labor&#8217;s Strengthening Institutions Program…"
     },
     {
-      "title": "Quantum Elements Helps Rigetti Predict Quantum Hardware Behavior",
-      "link": "https://thequantuminsider.com/2026/11/12/quantum-elements-helps-rigetti-predict-quantum-hardware-behavior/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 12 Nov 2026 14:12:15 +0000",
-      "published_ts": 1794492735,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Elements, developers of software that shortens the path to fault-tolerant quantum computing, announces that Rigetti Computing, a pioneer in full-stack quantum-classical computing, is leveraging Quantum Elements’ Constellation platform to model quantum devi…"
-    },
-    {
-      "title": "Q-CTRL Secures US$290 Million Series C Funding Led by Salesforce Ventures",
-      "link": "https://thequantuminsider.com/2026/11/12/q-ctrl-secures-us290-million-series-c-funding-led-by-salesforce-ventures/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 12 Nov 2026 13:05:33 +0000",
-      "published_ts": 1794488733,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Q-CTRL, the global leader in quantum infrastructure software, today announced a landmark Series C private fundraise of US$290 million (A$415 million), led by Salesforce Ventures. The round is headlined by significant participation from Bullhound Capital and Affini…"
-    },
-    {
       "title": "Inside this quantum computer, memory vibrates like a guitar string",
       "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
       "source": "ScienceDaily — Quantum Computers",
@@ -232,14 +240,6 @@
       "published": "Mon, 09 Nov 2026 17:30:05 EST",
       "published_ts": 1794263405,
       "summary": "Energy can be carried in a number of ways: by electrons, the particles that underpin all modern electronics, as well as by quasiparticles, the results of different particles interacting with one another at the quantum level. Columbia chemist Milan Delor has been watching these different forms of ene…"
-    },
-    {
-      "title": "Atomic defects leave telltale optical fingerprints in quantum material",
-      "link": "https://phys.org/news/2026-11-atomic-defects-telltale-optical-fingerprints.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 09 Nov 2026 14:40:09 EST",
-      "published_ts": 1794253209,
-      "summary": "The tiny atomic defects so important for future quantum technologies can be difficult to spot. Fortunately, they leave behind some clues. The defects can alter how a material responds to light, producing a distinctive optical fingerprint that scientists can measure. The challenge is figuring out whi…"
     },
     {
       "title": "A tiny supercurrent could unlock quantum information without destroying it",
