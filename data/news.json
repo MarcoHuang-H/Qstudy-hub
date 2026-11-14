@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1794631292,
+  "generated_ts": 1794660807,
   "items": [
+    {
+      "title": "AI supercharges laser physics with a stunning 250x speed boost",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Fri, 13 Nov 2026 18:41:08 EST",
+      "published_ts": 1794613268,
+      "summary": "Researchers at Stanford, UCLA, and SLAC have developed an AI system that simulates complex laser interactions thousands of times faster than conventional methods. The breakthrough allows scientists to predict how laser pulses behave inside special crystals in just milliseconds, without sacrificing m…"
+    },
     {
       "title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
       "link": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
@@ -336,14 +344,6 @@
       "published": "Tue, 22 Sep 2026 09:17:20 EDT",
       "published_ts": 1790083040,
       "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation sound-based…"
-    },
-    {
-      "title": "Scientists are building a microscope powered by a quantum computer",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Sun, 13 Sep 2026 08:03:59 EDT",
-      "published_ts": 1789301039,
-      "summary": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from each electron. The approach could reveal faint details with fewer electrons, helping protect fragile samples that conventional microscopy can damage."
     },
     {
       "title": "New qubit architecture enables faster, more accurate operations",
