@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1794748841,
+  "generated_ts": 1794781489,
   "items": [
+    {
+      "title": "Tangled quantum whirlpools caught unraveling in an ultracold gas",
+      "link": "https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Sun, 15 Nov 2026 11:40:01 EST",
+      "published_ts": 1794760801,
+      "summary": "When a cloud of atoms is cooled close to absolute zero, its atoms can merge into a Bose–Einstein condensate (BEC): an exotic fluid in which atoms across the whole cloud share a single quantum state. Current theories predict that as a disordered quantum gas settles into this ordered state, a tangle o…"
+    },
     {
       "title": "AI supercharges laser physics with a stunning 250x speed boost",
       "link": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
@@ -240,14 +248,6 @@
       "published": "Tue, 10 Nov 2026 06:12:30 EST",
       "published_ts": 1794309150,
       "summary": "Quantum computers could curb the vast energy demands of artificial intelligence data centers with their ability to run complex calculations, one of the tech's pioneers told AFP."
-    },
-    {
-      "title": "Upgraded microscope can now watch individual quantum particles in motion",
-      "link": "https://phys.org/news/2026-11-microscope-individual-quantum-particles-motion.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 09 Nov 2026 17:30:05 EST",
-      "published_ts": 1794263405,
-      "summary": "Energy can be carried in a number of ways: by electrons, the particles that underpin all modern electronics, as well as by quasiparticles, the results of different particles interacting with one another at the quantum level. Columbia chemist Milan Delor has been watching these different forms of ene…"
     },
     {
       "title": "A tiny supercurrent could unlock quantum information without destroying it",
