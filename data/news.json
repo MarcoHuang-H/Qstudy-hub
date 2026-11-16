@@ -1,6 +1,222 @@
 {
-  "generated_ts": 1794803306,
+  "generated_ts": 1794839708,
   "items": [
+    {
+      "title": "Hidden defects return a qubit's lost energy",
+      "link": "https://phys.org/news/2026-11-hidden-defects-qubit-lost-energy.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 16 Nov 2026 09:20:08 EST",
+      "published_ts": 1794838808,
+      "summary": "Today, many leading quantum computers are built from superconducting circuits. However, the qubits in these circuits can easily lose energy to their surroundings, scrambling the fragile quantum information they hold."
+    },
+    {
+      "title": "Altera, OQC and NVIDIA Link Quantum Processor to GPU Computing",
+      "link": "https://thequantuminsider.com/2026/11/16/altera-oqc-and-nvidia-link-quantum-processor-to-gpu-computing/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 14:05:00 +0000",
+      "published_ts": 1794837900,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Altera Corporation, the largest pure-play FPGA provider with a full-spectrum portfolio, today announced the development of an end-to-end FPGA-based quantum system controller reference design in collaboration with Oxford Quantum Circuits (OQC) and NVIDIA. Built on…"
+    },
+    {
+      "title": "JPMorgan Chase Tops The 2026 Finance Quantum Index; HSBC, Wells Fargo Share Second Place",
+      "link": "https://thequantuminsider.com/2026/11/16/jpmorgan-chase-tops-the-2026-finance-quantum-index-hsbc-wells-fargo-share-second-place/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 14:00:28 +0000",
+      "published_ts": 1794837628,
+      "summary": "Insider Brief JPMorgan Chase ranks first of 64 financial institutions in the 2026 finance edition of The Quantum Index, published today, and leads all three pillars: workforce, R&#38;D and adoption. HSBC and Wells Fargo share second place. Mastercard is third. The index measures what financial insti…"
+    },
+    {
+      "title": "Liquid C2 and Graphiant Partner on Quantum-Secure Networking in Africa",
+      "link": "https://thequantuminsider.com/2026/11/16/liquid-c2-graphiant-quantum-secure-networking-africa/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 13:13:12 +0000",
+      "published_ts": 1794834792,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Liquid C2, a business of Cassava Technologies, a global technology leader, and Graphiant (https://www.Graphiant.com/), a US-based provider of networking infrastructure built for AI, partnered to strengthen network security offerings through a new Quantum Secure Ne…"
+    },
+    {
+      "title": "Classiq and Ventum Consulting Partner on Enterprise Quantum Computing in Germany",
+      "link": "https://thequantuminsider.com/2026/11/16/classiq-ventum-consulting-enterprise-quantum-computing-germany/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 12:44:27 +0000",
+      "published_ts": 1794833067,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq, a leading quantum computing software company, and Ventum Consulting, a digital transformation consultancy, today announced a partnership to help enterprises in Germany build quantum computing expertise, establish strategies and develop applications aligne…"
+    },
+    {
+      "title": "Quantum teleportation method uses weaker entanglement to transfer encoded information",
+      "link": "https://phys.org/news/2026-11-quantum-teleportation-method-weaker-entanglement.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 16 Nov 2026 07:40:01 EST",
+      "published_ts": 1794832801,
+      "summary": "Over the past several decades, researchers have demonstrated quantum teleportation, the transfer of one quantum system's state to another, in a range of systems. However, many quantum computers encode logical qubits (units of quantum information) across groups of physical qubits, which makes telepor…"
+    },
+    {
+      "title": "15 Finalists Named in Global Quantum + AI Challenge",
+      "link": "https://thequantuminsider.com/2026/11/16/15-finalists-named-in-global-quantum-ai-challenge/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 12:00:45 +0000",
+      "published_ts": 1794830445,
+      "summary": "Insider Brief Fifteen teams have been named finalists in the Global Quantum + AI Challenge, advancing to develop working proofs of concept for industry problems ranging from drug discovery to credit card fraud detection. The competition offers $200,000 in prizes across five challenges, with $40,000…"
+    },
+    {
+      "title": "Qatar’s MCIT Partners with SignQuantum on Post-Quantum Cybersecurity",
+      "link": "https://thequantuminsider.com/2026/11/16/qatar-mcit-signquantum-post-quantum-cybersecurity/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 10:13:21 +0000",
+      "published_ts": 1794824001,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Ministry of Communications and Information Technology of the State of Qatar (MCIT Qatar) signed a collaboration agreement with SignQuantum to strengthen cybersecurity readiness for quantum computing risks. The announcement was made at MWC26 Doha on November 10…"
+    },
+    {
+      "title": "JIJ and Mitsubishi Electric Selected for JHPC-quantum Program to Evaluate Hybrid Computing",
+      "link": "https://thequantuminsider.com/2026/11/16/jij-mitsubishi-electric-jhpc-quantum-thermal-fluid-analysis/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 10:01:37 +0000",
+      "published_ts": 1794823297,
+      "summary": "Insider Brief PRESS RELEASE &#8212; JIJ Inc. today announced that a joint proposal with Mitsubishi Electric Corporation, titled “Performance Evaluation of a Quantum-Classical Hybrid Linear Solver for Thermal-Fluid Analysis,” has been selected for the JHPC-quantum Test User Program. Mitsubishi Electr…"
+    },
+    {
+      "title": "IonQ Appoints Gary Merrill as CFO and Thomas Austin as Chief Accounting Officer",
+      "link": "https://thequantuminsider.com/2026/11/16/ionq-announces-executive-leadership-evolution/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 09:51:30 +0000",
+      "published_ts": 1794822690,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced executive leadership changes to position the company for continued growth and advance its path to profitability: In connection with these appointments, Inder M. Singh i…"
+    },
+    {
+      "title": "From Cat Pictures to DNA, Moth Quantum Reports Progress on Getting Everyday Data Into Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/11/16/from-cat-pictures-to-dna-moth-quantum-reports-progress-on-getting-everyday-data-into-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 09:35:53 +0000",
+      "published_ts": 1794821753,
+      "summary": "Insider Brief Moth Quantum says it has used an entire IBM quantum processor to load and recover data equivalent to two small grayscale images. That may not sound like much, but the company says the method, called Tessa, addresses getting conventional data onto the machines without adding excessive e…"
+    },
+    {
+      "title": "Quantum Physics Meet The Great Books at St. John’s College",
+      "link": "https://thequantuminsider.com/2026/11/16/quantum-physics-meet-the-great-books-at-st-johns-college/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 08:40:25 +0000",
+      "published_ts": 1794818425,
+      "summary": "Insider Brief PRESS RELEASE &#8212; In late July, while most of their classmates were on summer vacation, Henry Haggard (A27) and Albert Shapiro (A27) were in a hotel room in Hamilton, New York, studying physics. Alongside Eddie Schodowski (AGI28), director of the St. John’s College Laboratory Progr…"
+    },
+    {
+      "title": "Analytic spread complexity in three-level systems and the spacing-ratio distribution",
+      "link": "https://arxiv.org/abs/2611.17417",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17417v1 Announce Type: new  Abstract: The spread complexity characterizes the spreading of a quantum state over the Krylov basis and has been proposed to capture the correlations between energy levels. How such correlations manifest in the dynamics has been studied mainly numerically for…"
+    },
+    {
+      "title": "Quantum violation of Causal Friendliness in the instrumental scenario",
+      "link": "https://arxiv.org/abs/2611.17431",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17431v1 Announce Type: new  Abstract: How far can quantum theory depart from a classical worldview? Bell inequality violations show that no theory can simultaneously uphold absoluteness of observed events, freedom of choice, relativistic causality, and classical causal explanations. While…"
+    },
+    {
+      "title": "Fast mixing and thermal phases from strong decay of correlations",
+      "link": "https://arxiv.org/abs/2611.17433",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17433v1 Announce Type: new  Abstract: We show that a strong form of correlation decay in quantum Gibbs states has far-reaching dynamical consequences. For a smooth path of geometrically local commuting Hamiltonians whose Gibbs states satisfy strong decay of correlations, we construct $\\ma…"
+    },
+    {
+      "title": "Optically-induced electric Aharonov-Bohm effect",
+      "link": "https://arxiv.org/abs/2611.17435",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17435v1 Announce Type: new  Abstract: Although it was proposed almost 70 years ago, the electric version of the Aharonov-Bohm (AB) effect, where the interference pattern of quantum charged particles is affected by electric fields that do not interact locally with them, was never experimen…"
+    },
+    {
+      "title": "QuantumInputOutput.jl: A Julia framework for input-output theory with quantum pulses and the SLH formalism",
+      "link": "https://arxiv.org/abs/2611.17451",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17451v1 Announce Type: new  Abstract: The interaction of traveling photonic pulses with quantum systems is a fundamental process for many quantum technologies such as quantum communication, control, and measurement protocols. The so-called SLH formalism, named for the triple of operators…"
+    },
+    {
+      "title": "Efficient quantum-circuit simulation of classical control of computational order",
+      "link": "https://arxiv.org/abs/2611.17454",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17454v1 Announce Type: new  Abstract: We show that quantum circuits with classical control of computational order admit an efficient simulation by fixed-order quantum circuits: any such transformation acting on $N$ independent quantum channels can be deterministically, exactly, and univer…"
+    },
+    {
+      "title": "The radical pair mechanism can generate nuclear-spin entanglement",
+      "link": "https://arxiv.org/abs/2611.17497",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17497v1 Announce Type: new  Abstract: The radical pair mechanism is a quantum-mechanical process underlying weak magnetic field effects in chemical and biological systems. While nuclear polarization and electronic entanglement in this mechanism have been studied extensively, the possibili…"
+    },
+    {
+      "title": "Probing Spatiotemporal Quantum Correlations with Two-Qubit Relaxometry",
+      "link": "https://arxiv.org/abs/2611.17509",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17509v1 Announce Type: new  Abstract: Quantum impurities and spin qubits are powerful local probes of magnetic fluctuations, but conventional relaxometry reduces their information to a local relaxation rate at a single frequency. Building on advances in two-qubit sensing of spatial correl…"
+    },
+    {
+      "title": "Finite-time spectral enhancement of transient quantum thermometry",
+      "link": "https://arxiv.org/abs/2611.17522",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17522v1 Announce Type: new  Abstract: Transient quantum thermometry extracts temperature information before a probe reaches thermal equilibrium. We study how finite interaction times affect thermometric precision for a harmonic-oscillator probe prepared in a number state and weakly couple…"
+    },
+    {
+      "title": "Recursive Quantum Alternating Operator Ansatz",
+      "link": "https://arxiv.org/abs/2611.17537",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17537v1 Announce Type: new  Abstract: The recursive quantum approximate optimisation algorithm~(RQAOA) shrinks an unconstrained combinatorial optimisation problem by eliminating one variable at a time, guided by correlations measured in variational quantum states. We extend this recursion…"
+    },
+    {
+      "title": "DRAG-Inspired Single Flux Quantum Control of Superconducting Qubits",
+      "link": "https://arxiv.org/abs/2611.17562",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17562v1 Announce Type: new  Abstract: Scalable control remains a major challenge for superconducting quantum processors due to the wiring, thermal load, and hardware complexity associated with conventional microwave-based architectures. A framework for qubit control based on Single Flux Q…"
+    },
+    {
+      "title": "Magic of Dicke states: density, cost and yield",
+      "link": "https://arxiv.org/abs/2611.17623",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17623v1 Announce Type: new  Abstract: Dicke states are an elementary family of many-body quantum states, consisting of equal superpositions of all configurations of $L$ qubits with $n$ excitations. We show that their magic, as measured by the stabilizer R\\'enyi entropy (SRE), is extensive…"
+    },
+    {
+      "title": "Linear monitoring-feedback Model for Linearized gravity",
+      "link": "https://arxiv.org/abs/2611.17642",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17642v1 Announce Type: new  Abstract: Whether gravity has quantum degrees of freedom is a question of fundamental importance. We formulate a linear monitoring-feedback framework for gravitational interactions that includes local classical-record models of semiclassical gravity and, when q…"
+    },
+    {
+      "title": "Quantum Data Processing Unit for Neutral-Atom Quantum Computers",
+      "link": "https://arxiv.org/abs/2611.17652",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17652v1 Announce Type: new  Abstract: Quantum computers need real-time classical processing to convert measurement data into feedback within device-specific timing constraints. We introduce the quantum data processing unit (QDPU), an architecture between a quantum device and its controlle…"
+    },
+    {
+      "title": "Fast forward-and-backward creation of non-equilibrium Gibbs state in driven dissipative quantum systems",
+      "link": "https://arxiv.org/abs/2611.17738",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794805200,
+      "summary": "arXiv:2611.17738v1 Announce Type: new  Abstract: We present the fast-forward (FF) approach to adiabatic time evolution of an open dissipative quantum system within the framework of the Gorini-Kosaakowski-Sudarshan-Lindblad (GKSL) equation. Taking a harmonic oscillator (HO) and a quantum spin as prot…"
+    },
     {
       "title": "Tangled quantum whirlpools caught unraveling in an ultracold gas",
       "link": "https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html",
@@ -18,14 +234,6 @@
       "summary": "Researchers at Stanford, UCLA, and SLAC have developed an AI system that simulates complex laser interactions thousands of times faster than conventional methods. The breakthrough allows scientists to predict how laser pulses behave inside special crystals in just milliseconds, without sacrificing m…"
     },
     {
-      "title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
-      "link": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 13 Nov 2026 18:36:11 +0000",
-      "published_ts": 1794594971,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Atom Computing, a leader in scalable neutral-atom quantum computing, today announced it has signed an agreement for up to $100 million with the U.S. Department of Commerce to accelerate research and development of fault-tolerant, utility-scale quantum computers. T…"
-    },
-    {
       "title": "Heat drives electron orbital currents, revealing first experimental evidence of orbital Nernst effect",
       "link": "https://phys.org/news/2026-11-electron-orbital-currents-revealing-experimental.html",
       "source": "Phys.org — Quantum Physics",
@@ -34,36 +242,12 @@
       "summary": "Researchers at National Taiwan University (NTU) have reported the first experimental evidence of heat-current-driven transverse accumulation of electrons' orbital angular momentum, a phenomenon known as the orbital Nernst effect. The study was recently published in Nature Communications."
     },
     {
-      "title": "U.S. Quantum Ambitions Face a Supply Chain Test, Policy Analysts Warn",
-      "link": "https://thequantuminsider.com/2026/11/13/u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 13 Nov 2026 16:17:23 +0000",
-      "published_ts": 1794586643,
-      "summary": "Insider Brief U.S. quantum ambitions could outpace the supply chains needed to turn laboratory advances into a commercial industry, four policy analysts warn. In a policy piece published by the Foundation for American Innovation, Joshua Levine, Prineha Narang, Jacqueline Tame and Alexandra Seymour G…"
-    },
-    {
       "title": "Light-activated molecules in porous crystals show potential for quantum chemical sensing",
       "link": "https://phys.org/news/2026-11-molecules-porous-crystals-potential-quantum.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 13 Nov 2026 05:00:01 EST",
       "published_ts": 1794564001,
       "summary": "An international research team led by Nobuhiro Yanai from the University of Tokyo and Michael R. Wasielewski from Northwestern University has created polarized radical pairs, molecules with unpaired electrons whose spins align, in metal–organic frameworks (MOFs), porous materials consisting of metal…"
-    },
-    {
-      "title": "Classical Light Dynamics Could Help Simulate Quantum Interactions",
-      "link": "https://thequantuminsider.com/2026/11/13/classical-light-dynamics-could-help-simulate-quantum-interactions/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 13 Nov 2026 09:01:36 +0000",
-      "published_ts": 1794560496,
-      "summary": "Insider Brief PRESS RELEASE &#8212; An international research team of scientist from Saint Louis University (SLU) and two institutions in Germany has shown that multimode nonlinear optical platforms can be harnessed to induce effective quantum interactions between photons, subsequently thermalizing…"
-    },
-    {
-      "title": "University at Buffalo Study Decodes Quantum Material’s ‘Optical Fingerprints’",
-      "link": "https://thequantuminsider.com/2026/11/13/university-at-buffalo-study-decodes-quantum-materials-optical-dingerprints/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 13 Nov 2026 08:48:53 +0000",
-      "published_ts": 1794559733,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The tiny atomic defects so important for future quantum technologies can be difficult to spot. Fortunately, they leave behind some clues The defects can alter how a material responds to light, producing a distinctive optical fingerprint that scientists can measure…"
     },
     {
       "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
@@ -80,14 +264,6 @@
       "published": "Thu, 12 Nov 2026 22:40:01 EST",
       "published_ts": 1794541201,
       "summary": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits."
-    },
-    {
-      "title": "The Geometry of Quantum Memory: How Anyons Rewrite the Rules of Remembering and Computation in the Quantum Realm",
-      "link": "https://thequantuminsider.com/2026/11/13/the-geometry-of-quantum-memory-how-anyons-rewrite-the-rules-of-remembering-and-computation-in-the-quantum-realm/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 13 Nov 2026 02:40:00 +0000",
-      "published_ts": 1794537600,
-      "summary": "Insider Brief An ordinary qubit remembers too much and listens too well. Its delicate phase is the hidden part of a qubit’s state. It carries much of the qubit&#8217;s information and is very easy to disturb. The phase takes account of every stray field, lattice vibration, and fluctuating charge. In…"
     },
     {
       "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
@@ -138,52 +314,12 @@
       "summary": "First, one person stands up, followed by their neighbors, one after another, until a wave sweeps through the stadium. Atoms within a material move in a similar way: rather than remaining completely still in their positions, they vibrate together around their respective positions. In physics, these c…"
     },
     {
-      "title": "Train the Trainer: Inside MAHE’s Hardware-First Bet on Quantum",
-      "link": "https://thequantuminsider.com/2026/11/12/train-the-trainer-inside-mahes-hardware-first-bet-on-quantum/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 12 Nov 2026 17:51:35 +0000",
-      "published_ts": 1794505895,
-      "summary": "Through its partnership with QuantrolOx, Manipal Academy of Higher Education is preparing educators like Dr. Chandrakantha Bekal to run a live quantum facility. Insider Brief For Chandrakantha Bekal, teaching had never been a lifelong interest. After completing his master&#8217;s degree in product d…"
-    },
-    {
-      "title": "Haiqu Appoints Kortny Rolston-Duce to Lead Ecosystem Development and Marketing",
-      "link": "https://thequantuminsider.com/2026/11/12/haiqu-appoints-kortny-rolston-duce-ecosystem-development-marketing/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 12 Nov 2026 16:19:28 +0000",
-      "published_ts": 1794500368,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum AI software developer Haiqu today announced the appointment of Kortny Rolston-Duce as head of ecosystem development and marketing. In her new role, she will build the Haiqu brand and work to put its software in the hands of researchers in academia, governm…"
-    },
-    {
-      "title": "Qedma Appoints Scott Aaronson to Its Scientific Advisory Board",
-      "link": "https://thequantuminsider.com/2026/11/12/qedma-appoints-scott-aaronson-scientific-advisory-board/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 12 Nov 2026 16:04:33 +0000",
-      "published_ts": 1794499473,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qedma, a quantum computing software company specializing in quantum error suppression and mitigation, today announced that Professor Scott Aaronson, one of the world&#8217;s leading researchers in quantum computing and computational complexity theory, has joined i…"
-    },
-    {
       "title": "Unified framework establishes rules for classifying unconventional magnets",
       "link": "https://phys.org/news/2026-11-framework-unconventional-magnets.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 12 Nov 2026 11:00:49 EST",
       "published_ts": 1794499249,
       "summary": "Researchers from the Hefei Institutes of Physical Science (HFIPS) of the Chinese Academy of Sciences (CAS) have developed a unified framework for establishing symmetry criteria and classifying unconventional magnets."
-    },
-    {
-      "title": "PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure",
-      "link": "https://thequantuminsider.com/2026/11/12/psiquantum-amd-expand-quantum-computing-infrastructure-partnership/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 12 Nov 2026 15:54:57 +0000",
-      "published_ts": 1794498897,
-      "summary": "Insider Brief PRESS RELEASE &#8212; PsiQuantum and AMD (NASDAQ: AMD) today announced an expanded strategic partnership to co-design the computing infrastructure required to operate utility-scale, fault-tolerant quantum computers and the hybrid applications that combine quantum, high-performance, and…"
-    },
-    {
-      "title": "FAU Receives $3 Million Award for Quantum Workforce Development",
-      "link": "https://thequantuminsider.com/2026/11/12/fau-3-million-award-quantum-workforce-development/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 12 Nov 2026 15:49:35 +0000",
-      "published_ts": 1794498575,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Florida Atlantic University&#8216;s Center for Connected Autonomy and Artificial Intelligence (CA-AI), within the College of Engineering and Computer Science, received a $3 million award from the U.S. Department of Labor&#8217;s Strengthening Institutions Program…"
     },
     {
       "title": "Inside this quantum computer, memory vibrates like a guitar string",
@@ -232,22 +368,6 @@
       "published": "Tue, 10 Nov 2026 11:10:00 -0500",
       "published_ts": 1794327000,
       "summary": "An MIT faculty member for nearly half a century, Goldstone was a “theoretical physicist of rare talent and impact” who made fundamental contributions to multiple disciplines."
-    },
-    {
-      "title": "Changing magnetic dimensionality boosts spin-wave frequency in Cr₂₋δTe₂",
-      "link": "https://phys.org/news/2026-11-magnetic-dimensionality-boosts-frequency-crte.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 10 Nov 2026 11:00:05 EST",
-      "published_ts": 1794326405,
-      "summary": "Magnons are quasiparticles that represent quantized spin waves in magnetic materials. They can carry information without moving electric charge, making them promising for future information technologies that could use less energy than conventional electronics. The frequency, stability and propagatio…"
-    },
-    {
-      "title": "Quantum could solve AI energy drain, says tech founder",
-      "link": "https://phys.org/news/2026-11-quantum-ai-energy-tech-founder.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 10 Nov 2026 06:12:30 EST",
-      "published_ts": 1794309150,
-      "summary": "Quantum computers could curb the vast energy demands of artificial intelligence data centers with their ability to run complex calculations, one of the tech's pioneers told AFP."
     },
     {
       "title": "A tiny supercurrent could unlock quantum information without destroying it",
