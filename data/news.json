@@ -1,6 +1,86 @@
 {
-  "generated_ts": 1794839708,
+  "generated_ts": 1794878906,
   "items": [
+    {
+      "title": "Ultracold diamond microwave laser amplifies quantum signals 1,000-fold",
+      "link": "https://phys.org/news/2026-11-ultracold-diamond-microwave-laser-amplifies.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 16 Nov 2026 17:40:10 EST",
+      "published_ts": 1794868810,
+      "summary": "Researchers from the Okinawa Institute of Science and Technology (OIST) have created a spin-based microwave amplifier that operates near absolute zero, boosting signals by more than 1,000-fold while adding noise close to the bare minimum required by the laws of physics. As a more robust alternative…"
+    },
+    {
+      "title": "Measurements reveal link between quantum spin and sound-carrying vibrations in an ultrathin semiconductor",
+      "link": "https://phys.org/news/2026-11-reveal-link-quantum-vibrations-ultrathin.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 16 Nov 2026 16:40:01 EST",
+      "published_ts": 1794865201,
+      "summary": "Researchers at the UCLA Samueli School of Engineering and Auburn University have achieved a scientific first: They measured atomic vibrations that carry heat and sound waves, and connected them to a quantum property called spin, which is a way of characterizing a subatomic particle's built-in magnet…"
+    },
+    {
+      "title": "GenQ Emerges From Stealth to Commercialize Quantum Measurement Technology",
+      "link": "https://thequantuminsider.com/2026/11/16/genq-emerges-from-stealth-to-commercialize-quantum-measurement-technology/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 20:48:53 +0000",
+      "published_ts": 1794862133,
+      "summary": "Insider Brief PRESS RELEASE &#8212; &#8212; For decades, practical, scalable applications of quantum technology have been purely aspirational. Now, Generation Quantum (“GenQ”) is taking a different approach to create quantum capabilities that work today. “GenQ completely changed the way I think abou…"
+    },
+    {
+      "title": "From First-Timers to PhDs: 1,000+ Builders Take on Quantum at the Qollab × IonQ Hackathon",
+      "link": "https://thequantuminsider.com/2026/11/16/from-first-timers-to-phds-1000-builders-take-on-quantum-at-the-qollab-x-ionq-hackathon/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 18:21:45 +0000",
+      "published_ts": 1794853305,
+      "summary": "Insider Brief Last month, more than 1,000 students, researchers and professionals in 37 countries spent a weekend writing quantum software, competing at 22 university sites from Finland to Argentina. Some of the best work came from people who had never written a line of quantum code. An avionics eng…"
+    },
+    {
+      "title": "AQSolotl Reports 6.94-Microsecond Latency in NVIDIA NVQLink Integration Test",
+      "link": "https://thequantuminsider.com/2026/11/16/aqsolotl-6-94-microsecond-latency-nvidia-nvqlink-test/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 18:02:01 +0000",
+      "published_ts": 1794852121,
+      "summary": "Insider Brief PRESS RELEASE &#8212; AQSolotl, a developer of quantum control systems, today announced initial results from integrating NVIDIA NVQLink into its Chronos-Q platform. Tests connecting Chronos-Q with NVIDIA DGX Spark recorded a minimum round-trip latency of 6.94 microseconds across 1,000…"
+    },
+    {
+      "title": "Saltgrain and NTT Research Develop Large-Universe Post-Quantum Encryption",
+      "link": "https://thequantuminsider.com/2026/11/16/saltgrain-ntt-research-post-quantum-attribute-based-encryption/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 17:33:34 +0000",
+      "published_ts": 1794850414,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Saltgrain, the data-centric security platform for sovereign data, incubated in Scale Academy at NTT Research, the Silicon Valley research arm of NTT, Inc., and the NTT Research Cryptography and Information Security (CIS) Lab today announced that the first practica…"
+    },
+    {
+      "title": "Model of 'alpha-beta decay' could solve a decades-old nuclear mystery",
+      "link": "https://phys.org/news/2026-11-alpha-beta-decay-decades-nuclear.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 16 Nov 2026 11:40:01 EST",
+      "published_ts": 1794847201,
+      "summary": "A pair of researchers has created a new model for radioactive decay, which allows alpha and beta decay to happen simultaneously in a single transition. Testing their model's predictions against a full chart of known isotopes, Wenqiang Zhang at the Chinese Academy of Sciences, together with Chong Qi…"
+    },
+    {
+      "title": "IQM Supports NVIDIA’s Work to Make Quantum Computers Schedulable in Slurm",
+      "link": "https://thequantuminsider.com/2026/11/16/iqm-quantum-computers-slurm-integration/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 16:30:50 +0000",
+      "published_ts": 1794846650,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, today announced at SC26 in Chicago its support for NVIDIA’s investment in making quantum processing units (QPUs) a schedulable resource in the Slurm workload manager by int…"
+    },
+    {
+      "title": "IBM, NVIDIA and Fermilab Plan Modular Quantum Computing Platform",
+      "link": "https://thequantuminsider.com/2026/11/16/ibm-nvidia-fermilab-modular-quantum-computing-platform/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 16:24:01 +0000",
+      "published_ts": 1794846241,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IBM (NYSE: IBM) today announced plans to collaborate with NVIDIA and Fermi National Accelerator Laboratory (Fermilab) to advance the integration of quantum and classical computing and explore how these technologies can scale together in the modular architectures t…"
+    },
+    {
+      "title": "Reading superconducting qubits while suppressing unwanted state transitions",
+      "link": "https://phys.org/news/2026-11-superconducting-qubits-suppressing-unwanted-state.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 16 Nov 2026 11:20:42 EST",
+      "published_ts": 1794846042,
+      "summary": "Recently an artificial intelligence proved an 18-year-old conjecture in computer science, called the Aaronson–Ambainis conjecture. The proof settles a long-standing conjecture (educated guess) that eliminates one proposed route to enormous quantum computer speedups, ruling out one particular variant…"
+    },
     {
       "title": "Hidden defects return a qubit's lost energy",
       "link": "https://phys.org/news/2026-11-hidden-defects-qubit-lost-energy.html",
@@ -48,54 +128,6 @@
       "published": "Mon, 16 Nov 2026 07:40:01 EST",
       "published_ts": 1794832801,
       "summary": "Over the past several decades, researchers have demonstrated quantum teleportation, the transfer of one quantum system's state to another, in a range of systems. However, many quantum computers encode logical qubits (units of quantum information) across groups of physical qubits, which makes telepor…"
-    },
-    {
-      "title": "15 Finalists Named in Global Quantum + AI Challenge",
-      "link": "https://thequantuminsider.com/2026/11/16/15-finalists-named-in-global-quantum-ai-challenge/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 16 Nov 2026 12:00:45 +0000",
-      "published_ts": 1794830445,
-      "summary": "Insider Brief Fifteen teams have been named finalists in the Global Quantum + AI Challenge, advancing to develop working proofs of concept for industry problems ranging from drug discovery to credit card fraud detection. The competition offers $200,000 in prizes across five challenges, with $40,000…"
-    },
-    {
-      "title": "Qatar’s MCIT Partners with SignQuantum on Post-Quantum Cybersecurity",
-      "link": "https://thequantuminsider.com/2026/11/16/qatar-mcit-signquantum-post-quantum-cybersecurity/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 16 Nov 2026 10:13:21 +0000",
-      "published_ts": 1794824001,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Ministry of Communications and Information Technology of the State of Qatar (MCIT Qatar) signed a collaboration agreement with SignQuantum to strengthen cybersecurity readiness for quantum computing risks. The announcement was made at MWC26 Doha on November 10…"
-    },
-    {
-      "title": "JIJ and Mitsubishi Electric Selected for JHPC-quantum Program to Evaluate Hybrid Computing",
-      "link": "https://thequantuminsider.com/2026/11/16/jij-mitsubishi-electric-jhpc-quantum-thermal-fluid-analysis/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 16 Nov 2026 10:01:37 +0000",
-      "published_ts": 1794823297,
-      "summary": "Insider Brief PRESS RELEASE &#8212; JIJ Inc. today announced that a joint proposal with Mitsubishi Electric Corporation, titled “Performance Evaluation of a Quantum-Classical Hybrid Linear Solver for Thermal-Fluid Analysis,” has been selected for the JHPC-quantum Test User Program. Mitsubishi Electr…"
-    },
-    {
-      "title": "IonQ Appoints Gary Merrill as CFO and Thomas Austin as Chief Accounting Officer",
-      "link": "https://thequantuminsider.com/2026/11/16/ionq-announces-executive-leadership-evolution/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 16 Nov 2026 09:51:30 +0000",
-      "published_ts": 1794822690,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced executive leadership changes to position the company for continued growth and advance its path to profitability: In connection with these appointments, Inder M. Singh i…"
-    },
-    {
-      "title": "From Cat Pictures to DNA, Moth Quantum Reports Progress on Getting Everyday Data Into Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/11/16/from-cat-pictures-to-dna-moth-quantum-reports-progress-on-getting-everyday-data-into-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 16 Nov 2026 09:35:53 +0000",
-      "published_ts": 1794821753,
-      "summary": "Insider Brief Moth Quantum says it has used an entire IBM quantum processor to load and recover data equivalent to two small grayscale images. That may not sound like much, but the company says the method, called Tessa, addresses getting conventional data onto the machines without adding excessive e…"
-    },
-    {
-      "title": "Quantum Physics Meet The Great Books at St. John’s College",
-      "link": "https://thequantuminsider.com/2026/11/16/quantum-physics-meet-the-great-books-at-st-johns-college/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 16 Nov 2026 08:40:25 +0000",
-      "published_ts": 1794818425,
-      "summary": "Insider Brief PRESS RELEASE &#8212; In late July, while most of their classmates were on summer vacation, Henry Haggard (A27) and Albert Shapiro (A27) were in a hotel room in Hamilton, New York, studying physics. Alongside Eddie Schodowski (AGI28), director of the St. John’s College Laboratory Progr…"
     },
     {
       "title": "Analytic spread complexity in three-level systems and the spacing-ratio distribution",
@@ -328,38 +360,6 @@
       "published": "Wed, 11 Nov 2026 21:35:20 EST",
       "published_ts": 1794450920,
       "summary": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough successfully demonstrated advanced quantum calculations and could help overcome major barr…"
-    },
-    {
-      "title": "Scientists discover new way to control magnetic waves for future quantum technologies",
-      "link": "https://phys.org/news/2026-11-scientists-magnetic-future-quantum-technologies.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 10 Nov 2026 16:40:02 EST",
-      "published_ts": 1794346802,
-      "summary": "Researchers at the U.S. Department of Energy's (DOE) Ames National Laboratory have discovered a way to control the handedness of magnons, tiny magnetic waves that can carry information through materials. By changing the material's magnetic state with an external magnetic field, they were able to swi…"
-    },
-    {
-      "title": "Classical–quantum light interactions could make complex quantum behavior easier to simulate",
-      "link": "https://phys.org/news/2026-11-classicalquantum-interactions-complex-quantum-behavior.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 10 Nov 2026 16:30:01 EST",
-      "published_ts": 1794346201,
-      "summary": "An international collaboration demonstrates that classical nonlinear dynamics can drive single- and two-photon states to thermalize, opening new avenues for simulating complex quantum many-body systems within accessible optical architectures."
-    },
-    {
-      "title": "Repeatable laser measurements reveal 'forbidden' vibrations in single molecules without destroying them",
-      "link": "https://phys.org/news/2026-11-laser-reveal-forbidden-vibrations-molecules.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 10 Nov 2026 15:00:01 EST",
-      "published_ts": 1794340801,
-      "summary": "The possibility of controlling \"forbidden\" excitations of vibrations in molecules could form the basis of extremely accurate clocks, quantum bits and precise tests of the fundamental laws of physics. Researchers at the University of Basel have now identified and controlled such \"forbidden\" transitio…"
-    },
-    {
-      "title": "Laser-driven magnetic state defies equilibrium rules",
-      "link": "https://phys.org/news/2026-11-laser-driven-magnetic-state-defies.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 10 Nov 2026 12:00:10 EST",
-      "published_ts": 1794330010,
-      "summary": "Researchers at the Department of Energy's (DOE's) Oak Ridge National Laboratory (ORNL) and their collaborators used lasers and neutrons to observe a long-lived quantum state in a magnetic material, opening a new way to study materials systems driven far from their equilibrium. Manipulation of quantu…"
     },
     {
       "title": "Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93",
