@@ -1,6 +1,206 @@
 {
-  "generated_ts": 1794961533,
+  "generated_ts": 1795013938,
   "items": [
+    {
+      "title": "New OQI Impact Tool Supports The Responsible Design of Quantum Computing Applications",
+      "link": "https://thequantuminsider.com/2026/11/18/new-oqi-impact-tool-supports-the-responsible-design-of-quantum-computing-applications/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 13:05:00 +0000",
+      "published_ts": 1795007100,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Open Quantum Institute (OQI), in collaboration with GESDA and the UN Beyond Lab, has launched the OQI Impact Tool, an open, online tool for quantum computing applications developers. It supports responsible innovation by bringing consideration of societal bene…"
+    },
+    {
+      "title": "SEALSQ Signs Letter of Intent to Acquire QuintessenceLabs",
+      "link": "https://thequantuminsider.com/2026/11/18/sealsq-letter-of-intent-acquire-quintessencelabs/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 12:54:07 +0000",
+      "published_ts": 1795006447,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that it has signed a non-binding letter of…"
+    },
+    {
+      "title": "Hybrid QKD and PQC Network Connects Chicago and Europe Across 8,000 km",
+      "link": "https://thequantuminsider.com/2026/11/18/8000-km-quantum-safe-network-us-europe-demonstration/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 12:44:46 +0000",
+      "published_ts": 1795005886,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A group of International research, network and technology organizations has demonstrated hybrid quantum-safe networking between Chicago and Europe at SC26, the Supercomputing Conference 2026. The infrastructure that spans Bilbao, Amsterdam and Chicago extends acro…"
+    },
+    {
+      "title": "Zapata Quantum Launches Open Challenge to Verify AI-Generated Quantum Research",
+      "link": "https://thequantuminsider.com/2026/11/18/zapata-quantum-launches-open-challenge-to-verify-ai-generated-quantum-research/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 12:10:36 +0000",
+      "published_ts": 1795003836,
+      "summary": "Insider Brief PRESS RELEASE &#8212; As AI accelerates scientific discovery, it has become increasingly critical that new results be both provably correct and explainable to humans. Zapata Quantum (OTCQB: ZPTA) (“Zapata”, “Zapata Quantum” or the “Company”), a pioneer in quantum computing application…"
+    },
+    {
+      "title": "Alice & Bob’s Updated Roadmap Targets 200 Logical Qubits From 3,600 Physical Qubits by 2030",
+      "link": "https://thequantuminsider.com/2026/11/18/alice-bobs-updated-roadmap-targets-200-logical-qubits-from-3600-physical-qubits-by-2030/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 12:03:29 +0000",
+      "published_ts": 1795003409,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Alice &#38; Bob, a leader in fault-tolerant quantum computing, today unveiled an updated, modular roadmap. The company targets 200 logical qubits as soon as 2030, double its previous target, with Carbon, which will be built from just 3,600 physical cat qubits.  &#…"
+    },
+    {
+      "title": "Using a microwave link to transfer a three-level quantum state",
+      "link": "https://phys.org/news/2026-11-microwave-link-quantum-state.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 18 Nov 2026 07:00:13 EST",
+      "published_ts": 1795003213,
+      "summary": "Quantum technologies, devices and systems that process, store, transfer or collect information leveraging the laws of quantum mechanics, could outperform their classical counterparts on some real-world tasks. Many of these technologies encode quantum information in qubits, which can exist in either…"
+    },
+    {
+      "title": "How Electrons Find Their Way to Diamond’s Quantum Defects",
+      "link": "https://thequantuminsider.com/2026/11/18/how-electrons-find-their-way-to-diamonds-quantum-defects/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 08:59:29 +0000",
+      "published_ts": 1794992369,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A diamond&#8217;s most useful quantum properties come from defects, places where the regular arrangement of carbon atoms is broken. One of these, a nitrogen atom situated next to a vacancy caused by a missing carbon atom, has become a key component in quantum tech…"
+    },
+    {
+      "title": "QEncrypt Adds File Encryption to Its iPhone and Android Apps",
+      "link": "https://thequantuminsider.com/2026/11/18/qencrypt-file-encryption-iphone-android-apps/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 08:46:26 +0000",
+      "published_ts": 1794991586,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QEncrypt now offers Quantum Safe Encryption for phone users on iPhone and Android. The apps add File Encryption for photos, videos, documents, and IDs. A camera roll holds a child&#8217;s first steps, a grandmother&#8217;s handwriting, and the last picture from a…"
+    },
+    {
+      "title": "EigenOrbit Develops Quantum-Inspired Method for Robust Medical Image AI",
+      "link": "https://thequantuminsider.com/2026/11/18/eigenorbit-develops-quantum-inspired-method-for-robust-medical-image-ai/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 08:36:11 +0000",
+      "published_ts": 1794990971,
+      "summary": "Insider Brief PRESS RELEASE &#8212; EigenOrbit, together with dermatologists at the Hospital Maggiore of Trieste and the University of Trieste, has published a method for adapting medical image classifiers to new tasks while keeping a mathematical guarantee that small image changes cannot alter thei…"
+    },
+    {
+      "title": "Remark on internal relaxation in large number qubit systems",
+      "link": "https://arxiv.org/abs/2611.21681",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21681v1 Announce Type: new  Abstract: For a time $t_{c}$ of calculation in an $N$ qubit quantum computer that is much shorter than the intrinsic Heisenberg time $t_H$, $t_c\\ll t_H$, the dynamics of the system is effectively irreversible and the couplings between the qubits give rise to a…"
+    },
+    {
+      "title": "CSS circuits are ICM circuits without magic states",
+      "link": "https://arxiv.org/abs/2611.21685",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21685v1 Announce Type: new  Abstract: Gidney and Jones recently introduced ``CSS circuits'', generated by $X$, $Z$, $\\MX$, $\\MZ$ and CNOT, and showed that they can be sampled with $O(1)$ work per gate. They suspected that the class had been seen before. We point out that it is, up to a no…"
+    },
+    {
+      "title": "QEDist: Practical Exact Distance Certification for Stabilizer Codes",
+      "link": "https://arxiv.org/abs/2611.21709",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21709v1 Announce Type: new  Abstract: We present QEDist, a method and software package that certifies the distance of qubit stabilizer codes. Building on tree-search methods, QEDist constructs candidate logical operators one qubit at a time, using sparse parity checks, stabilizer equivale…"
+    },
+    {
+      "title": "Black holes as black boxes: a query lower bound on python's lunch decoding",
+      "link": "https://arxiv.org/abs/2611.21723",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21723v1 Announce Type: new  Abstract: The python's lunch conjecture relates the complexity of bulk reconstruction in holographic tensor networks to an exponential cost associated with post-selection. We establish a tight query lower bound for this decoding problem in a Haar random oracle…"
+    },
+    {
+      "title": "A Proposal for Quantum Reference Frames in Quantum Field Theory and their Experimental Exploration",
+      "link": "https://arxiv.org/abs/2611.21740",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21740v1 Announce Type: new  Abstract: We construct quantum reference frames (QRFs) in quantum field theory, using localized modes of a scalar field as frames for its shift symmetry. We import tools from relativistic quantum information to explicitly compute entropies and correlation measu…"
+    },
+    {
+      "title": "Restoring quantum neural network trainability through reusable calibration",
+      "link": "https://arxiv.org/abs/2611.21748",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21748v1 Announce Type: new  Abstract: Quantum neural networks (QNNs) rely on measured quantum observables to guide optimization, but hardware noise can suppress the parameter-dependent signals essential for learning. Here, we develop a structure-preserving error-mitigation framework that…"
+    },
+    {
+      "title": "Robust Passive Quantum Memory in Three Dimensions, Part I: Thermal and Zero-Temperature Perturbative Stability",
+      "link": "https://arxiv.org/abs/2611.21749",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21749v1 Announce Type: new  Abstract: Whether a three-dimensional quantum many-body system with geometrically local, bounded-degree interactions can passively protect encoded quantum information has remained a central open question since Kitaev introduced topological quantum computation.…"
+    },
+    {
+      "title": "Loss-Tolerant Quantum Correlations Between Atomic and Photonic Qubits",
+      "link": "https://arxiv.org/abs/2611.21753",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21753v1 Announce Type: new  Abstract: Quantum physics forbids cloning of a qubit. Therefore, a qubit is irreversibly lost upon loss of the information carrier. To mitigate this physical loss, it has been proposed to distribute the logical information across an entangled set of physical qu…"
+    },
+    {
+      "title": "Distrustful entanglement-based Quantum Key Distribution",
+      "link": "https://arxiv.org/abs/2611.21759",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21759v1 Announce Type: new  Abstract: Quantum key distribution (QKD) is the one of the most explored application of quantum information theory. While practical QKD systems are being deployed around the world, a major issue of these setups are that one has to trust the measurement devices…"
+    },
+    {
+      "title": "AI Scientist Discovered Robust Quantum Control",
+      "link": "https://arxiv.org/abs/2611.21765",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21765v1 Announce Type: new  Abstract: Protecting quantum coherence is a central theme of modern quantum technologies. Carefully designed control pulses can extend coherence by suppressing disorder and unwanted interactions. However, designing robust pulse sequences remains challenging in…"
+    },
+    {
+      "title": "Quantum Reference Frames, Locality, and Microcausality in Quantum Field Theory",
+      "link": "https://arxiv.org/abs/2611.21768",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21768v1 Announce Type: new  Abstract: As a consequence of the relativistic spectrum condition, quantum reference frames for translations on Minkowski space are never described by projection-valued measures, and in many cases fail a weaker spacetime localisation property known as the norm-…"
+    },
+    {
+      "title": "Transient State Preservation of a Dissipative Qubit via Lyapunov Control",
+      "link": "https://arxiv.org/abs/2611.21778",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21778v1 Announce Type: new  Abstract: Preserving quantum states in the presence of environmental decoherence remains a fundamental challenge for quantum information processing. This work investigates whether Hamiltonian Lyapunov feedback can transiently preserve the state of an open qubit…"
+    },
+    {
+      "title": "Microwave-optical quantum transduction with quantum-well exciton polaritons",
+      "link": "https://arxiv.org/abs/2611.21785",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21785v1 Announce Type: new  Abstract: Linking superconducting quantum processors over optical fiber requires microwave-optical quantum transducers that are efficient, high-bandwidth, and low-noise. This combination has been out of reach because of the weak nonlinearities of conventional e…"
+    },
+    {
+      "title": "Charge self-consistent DFT+QDMFT framework with a Krylov-based quantum impurity solver",
+      "link": "https://arxiv.org/abs/2611.21829",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21829v1 Announce Type: new  Abstract: We integrate a quantum impurity solver into a charge self-consistent density functional theory (DFT) plus quantum dynamical mean-field theory framework. The solver optimizes adaptive circuits to approximate the ground state of the impurity model and i…"
+    },
+    {
+      "title": "Infrared fluctuations and collective entanglement modes in harmonic lattices",
+      "link": "https://arxiv.org/abs/2611.21830",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_ts": 1794978000,
+      "summary": "arXiv:2611.21830v1 Announce Type: new  Abstract: We investigate how infrared fluctuations and spatial separation shape vacuum entanglement between two finite regions in the relativistic harmonic chain and its Lifshitz generalizations. At fixed lattice spacing and finite geometry, we establish that l…"
+    },
+    {
+      "title": "Photon fluctuations offer new way to probe electron dynamics in crystals",
+      "link": "https://phys.org/news/2026-11-photon-fluctuations-probe-electron-dynamics.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 17 Nov 2026 22:40:08 EST",
+      "published_ts": 1794973208,
+      "summary": "Intense laser light can make a crystal emit new colors at frequencies many times higher than that of the original beam. This process, known as high-harmonic generation, provides a powerful way to investigate the rapid motion of electrons in solids. Researchers usually study the brightness and spectr…"
+    },
     {
       "title": "Quantum-gas microscope resolves the 'color' of individual atoms in a single shot",
       "link": "https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html",
@@ -34,22 +234,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Q.ANT, the pioneer in commercial photonic computing, today unveiled the NPU Gen 2+, the latest generation of its Native Processing Unit (NPU) technology, at SC26 in Chicago. The NPU Gen 2+ adds optical Discrete Fourier Transforms (DFTs), which expands the set of m…"
     },
     {
-      "title": "SAXON Q Announces ‘Quantum Watchdog,’ to Detect When Quantum Computers Fail",
-      "link": "https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 15:40:15 +0000",
-      "published_ts": 1794930015,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SAXON Q, a leader in NV-center quantum computing, today announced the Quantum Watchdog, a patented safety system that monitors a quantum computer and puts it into a safe mode if it fails. The system is designed for quantum computers operating in research environme…"
-    },
-    {
-      "title": "QUDORA Integrates NVIDIA CUDA-Q into Its Quantum Software Development Kit",
-      "link": "https://thequantuminsider.com/2026/11/17/qudora-integrates-nvidia-cuda-q-quantum-software-development-kit/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 15:02:20 +0000",
-      "published_ts": 1794927740,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QUDORA Technologies, a German-based developer of ion-trap quantum computers, has integrated NVIDIA CUDA-Q into its software development kit, enabling developers to write hybrid quantum-classical programs and run them on Qamelion, QUDORA’s quantum emulator with ada…"
-    },
-    {
       "title": "Team extends a qubit's lifetime, correcting errors without measuring them",
       "link": "https://phys.org/news/2026-11-team-qubit-lifetime-errors.html",
       "source": "Phys.org — Quantum Physics",
@@ -64,54 +248,6 @@
       "published": "Tue, 17 Nov 2026 08:40:06 EST",
       "published_ts": 1794922806,
       "summary": "Elementary particles and the forces governing their interactions are described by relativistic quantum field theory, in which symmetry serves as a fundamental guiding principle. For more than half a century, the possible symmetries of such theories were believed to be restricted by the Coleman–Mandu…"
-    },
-    {
-      "title": "Classiq Powers Award-Winning Quantum Application Development at Japan’s NEDO Challenge",
-      "link": "https://thequantuminsider.com/2026/11/17/classiq-shionogi-kddi-softbank-research-projects-nedo-awards/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 13:04:49 +0000",
-      "published_ts": 1794920689,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Classiq, a quantum computing software company, today announced that its three separate research collaborations – with Shionogi, KDDI Research, Inc. (“KDDI Research”) and SoftBank Corp. – have each received an award in Japan’s NEDO quantum computing challenge, demo…"
-    },
-    {
-      "title": "Telia, Nokia And QMill Demonstrate Quantum-Powered Encryption in a 5G Network",
-      "link": "https://thequantuminsider.com/2026/11/17/telia-nokia-and-qmill-demonstrate-quantum-powered-encryption-in-a-5g-network/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 12:50:29 +0000",
-      "published_ts": 1794919829,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Telia Finland, Nokia and QMill have demonstrated the world&#8217;s first quantum-powered encryption in a 5G network using commercial equipment. In the proof of concept (PoC), QMill&#8217;s solution was integrated into Nokia&#8217;s 5G base station software and suc…"
-    },
-    {
-      "title": "Omniva Wins QEst Hack 2026 with Quantum Parcel Routing Project",
-      "link": "https://thequantuminsider.com/2026/11/17/omniva-wins-qest-hack-2026-quantum-parcel-routing-project/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 12:49:31 +0000",
-      "published_ts": 1794919771,
-      "summary": "Insider Brief PRESS RELEASE &#8212; At the hackathon, six Estonian companies explored solutions to a wide range of problems—from building investment portfolios and scheduling nurses’ shifts to forecasting electricity sales and readers’ interest in news. According to Deniss Kross, Omniva’s Engineerin…"
-    },
-    {
-      "title": "QuiX Quantum and Partners Develop Near-Room-Temperature Detectors for Photonic Quantum",
-      "link": "https://thequantuminsider.com/2026/11/17/quix-quantum-taiwanese-partners-photonic-detector-project/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 12:42:28 +0000",
-      "published_ts": 1794919348,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum, a Dutch-German developer of universal photonic quantum computers, together with Taiwanese partners Artilux Inc. and its affiliate Brillink Inc., has been awarded funding under the TechBridge Taiwan Call 2026 – Photonics Integrated Circuits, a joint p…"
-    },
-    {
-      "title": "Qluster Raises €4.7 Million to Develop a New Generation of Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/11/17/qluster-raises-e4-7-million-to-develop-a-new-generation-of-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 12:38:47 +0000",
-      "published_ts": 1794919127,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Qluster, a Paris-based startup specializing in quantum computing, announces its first funding round of €4.7 million led by Quantonation, an investment fund specializing in quantum technologies and disruptive physics-based innovations, with the support of Quantum L…"
-    },
-    {
-      "title": "Planckian Selected for €10 Million in EIC Support for Quantum Hardware",
-      "link": "https://thequantuminsider.com/2026/11/17/planckian-selected-for-e10-million-in-eic-support-for-quantum-hardware/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 12:31:04 +0000",
-      "published_ts": 1794918664,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Planckian, a quantum hardware company building superconducting quantum processors, has been selected by the European Innovation Council (EIC) for the EIC Accelerator. The award combines a €2.5 million grant with an equity investment of €7.5 million from the EIC Fu…"
     },
     {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
@@ -210,28 +346,12 @@
       "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's superc…"
     },
     {
-      "title": "Research advances quantum computing that harnesses speed of light",
-      "link": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 12 Nov 2026 22:40:01 EST",
-      "published_ts": 1794541201,
-      "summary": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits."
-    },
-    {
       "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
       "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Thu, 12 Nov 2026 20:40:17 EST",
       "published_ts": 1794534017,
       "summary": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI. Their breakthrough eliminates a long-standing \"dead layer\" problem that causes promising materials to stop working when made extremely thin. Remar…"
-    },
-    {
-      "title": "Engineered atomic interactions help microwave sensor capture three times as much information",
-      "link": "https://phys.org/news/2026-11-atomic-interactions-microwave-sensor-capture.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 12 Nov 2026 19:10:01 EST",
-      "published_ts": 1794528601,
-      "summary": "Researchers from the Faculty of Physics at the University of Warsaw (UW) and the Center for Optical Quantum Technologies at the University of Warsaw's Center for New Technologies (CeNT UW) have developed a method for ultrasensitive microwave sensing. Using cold, strongly interacting Rydberg atoms as…"
     },
     {
       "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
