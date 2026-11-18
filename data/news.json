@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1795013938,
+  "generated_ts": 1795045799,
   "items": [
+    {
+      "title": "Guest Post — The 2026 Finance Quantum Index: Recognizing the Leaders Advancing Quantum in Finance",
+      "link": "https://thequantuminsider.com/2026/11/18/guest-post-the-2026-finance-quantum-index-recognizing-the-leaders-advancing-quantum-in-finance/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 22:34:26 +0000",
+      "published_ts": 1795041266,
+      "summary": "Guest Post by Steve Suarez, Founder and CEO of HorizonX and Co-founder of The Quantum Index The 2026 Finance Quantum Index brings together 64 financial institutions across eight regions, more than doubling its coverage from 28 institutions in 2025. With 36 new additions, this year’s edition provides…"
+    },
+    {
+      "title": "Scalable photonic quantum computer provides new insights into the fundamentals that shape its performance",
+      "link": "https://phys.org/news/2026-11-scalable-photonic-quantum-insights-fundamentals.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 18 Nov 2026 17:10:12 EST",
+      "published_ts": 1795039812,
+      "summary": "Photonics-based quantum computers open up new possibilities for investigating highly complex problems in mathematics and have the potential to revolutionize fields ranging from energy and chemical research to secure communications. By utilizing the unusual properties of light particles, they can per…"
+    },
+    {
+      "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+      "link": "https://thequantuminsider.com/2026/11/18/quantum-physics-can-verify-a-persons-location-nist-researchers-show/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 18:06:57 +0000",
+      "published_ts": 1795025217,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Imagine a corporate treasurer directing her company’s financial network to make a $50 million wire transfer. How can the network be certain the command is coming from a secure terminal in the company’s headquarters, and not a hacker’s laptop across the globe? In a…"
+    },
+    {
+      "title": "QuEra Computing and Berkeley Lab Publish Nature Study of Quantum Dynamics on Up to 180 Qubits",
+      "link": "https://thequantuminsider.com/2026/11/18/quera-berkeley-lab-study-quantum-dynamics-aquila/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 17:03:12 +0000",
+      "published_ts": 1795021392,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The National Energy Research Scientific Computing Center (NERSC) at Lawrence Berkeley National Laboratory and QuEra Computing, the leader in neutral-atom quantum computing, today announced the publication of a new study in Nature. Using Aquila, QuEra&#8217;s analo…"
+    },
+    {
+      "title": "Bradesco and evolutionQ Begin Quantum Communication Tests to Assess New Data Protection Models",
+      "link": "https://thequantuminsider.com/2026/11/18/bradesco-and-evolutionq-begin-quantum-communication-tests-to-assess-new-data-protection-models/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 16:21:01 +0000",
+      "published_ts": 1795018861,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A pioneering initiative in Brazil’s financial sector seeks to study, in a controlled environment, the feasibility of the technology and its potential to strengthen the security of information exchange among companies, financial institutions and startups in the com…"
+    },
+    {
+      "title": "Quantum physics can verify a person's location, researchers show",
+      "link": "https://phys.org/news/2026-11-quantum-physics-person.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 18 Nov 2026 11:00:13 EST",
+      "published_ts": 1795017613,
+      "summary": "Imagine a corporate treasurer directing her company's financial network to make a $50 million wire transfer. How can the network be certain the command is coming from a secure terminal in the company's headquarters, and not a hacker's laptop across the globe?"
+    },
+    {
+      "title": "How electrons find their way to diamond's quantum defects",
+      "link": "https://phys.org/news/2026-11-electrons-diamond-quantum-defects.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 18 Nov 2026 10:20:05 EST",
+      "published_ts": 1795015205,
+      "summary": "A diamond's most useful quantum properties come from defects, places where the regular arrangement of carbon atoms is broken. One of these, a nitrogen atom situated next to a vacancy caused by a missing carbon atom, has become a key component in quantum technology."
+    },
+    {
+      "title": "Brazil Receives Parts for Two Quantum Computers in Partnership With China",
+      "link": "https://thequantuminsider.com/2026/11/18/brazil-receives-parts-for-two-quantum-computers-in-partnership-with-china/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 14:24:48 +0000",
+      "published_ts": 1795011888,
+      "summary": "Insider Brief Brazil received parts for two quantum computers under a deal with Chinese technology company China Electronics Technology Group Corporation, or CETC. The equipment arrived Nov. 16 in João Pessoa, the capital of the northeastern state of Paraíba, Brazil’s Ministry of Science, Technology…"
+    },
     {
       "title": "New OQI Impact Tool Supports The Responsible Design of Quantum Computing Applications",
       "link": "https://thequantuminsider.com/2026/11/18/new-oqi-impact-tool-supports-the-responsible-design-of-quantum-computing-applications/",
@@ -48,30 +112,6 @@
       "published": "Wed, 18 Nov 2026 07:00:13 EST",
       "published_ts": 1795003213,
       "summary": "Quantum technologies, devices and systems that process, store, transfer or collect information leveraging the laws of quantum mechanics, could outperform their classical counterparts on some real-world tasks. Many of these technologies encode quantum information in qubits, which can exist in either…"
-    },
-    {
-      "title": "How Electrons Find Their Way to Diamond’s Quantum Defects",
-      "link": "https://thequantuminsider.com/2026/11/18/how-electrons-find-their-way-to-diamonds-quantum-defects/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 08:59:29 +0000",
-      "published_ts": 1794992369,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A diamond&#8217;s most useful quantum properties come from defects, places where the regular arrangement of carbon atoms is broken. One of these, a nitrogen atom situated next to a vacancy caused by a missing carbon atom, has become a key component in quantum tech…"
-    },
-    {
-      "title": "QEncrypt Adds File Encryption to Its iPhone and Android Apps",
-      "link": "https://thequantuminsider.com/2026/11/18/qencrypt-file-encryption-iphone-android-apps/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 08:46:26 +0000",
-      "published_ts": 1794991586,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QEncrypt now offers Quantum Safe Encryption for phone users on iPhone and Android. The apps add File Encryption for photos, videos, documents, and IDs. A camera roll holds a child&#8217;s first steps, a grandmother&#8217;s handwriting, and the last picture from a…"
-    },
-    {
-      "title": "EigenOrbit Develops Quantum-Inspired Method for Robust Medical Image AI",
-      "link": "https://thequantuminsider.com/2026/11/18/eigenorbit-develops-quantum-inspired-method-for-robust-medical-image-ai/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 08:36:11 +0000",
-      "published_ts": 1794990971,
-      "summary": "Insider Brief PRESS RELEASE &#8212; EigenOrbit, together with dermatologists at the Hospital Maggiore of Trieste and the University of Trieste, has published a method for adapting medical image classifiers to new tasks while keeping a mathematical guarantee that small image changes cannot alter thei…"
     },
     {
       "title": "Remark on internal relaxation in large number qubit systems",
@@ -210,28 +250,12 @@
       "summary": "In 2024, researchers at the Ultracold Quantum Gases group at ICFO built a quantum-gas microscope capable of imaging individual atoms in strontium quantum gases for the first time, marking a key enabling step for quantum simulation. At that time, the researchers imaged strontium-84, a boson that has…"
     },
     {
-      "title": "IQM Introduces Upgrade Programme for Halocene Quantum Systems",
-      "link": "https://thequantuminsider.com/2026/11/17/iqm-halocene-quantum-systems-upgrade-programme/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 19:34:26 +0000",
-      "published_ts": 1794944066,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers (Nasdaq: IQMX), a global leader in integrated quantum computing, today announced an upgrade program for IQM Halocene, its error-correction product line, that gives customers a path from the 150-qubit system of today to the over 1,000-qubit sy…"
-    },
-    {
       "title": "Quantum observers can 'agree to disagree,' but within limits, new theorem shows",
       "link": "https://phys.org/news/2026-11-quantum-limits-theorem.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 17 Nov 2026 14:20:01 EST",
       "published_ts": 1794943201,
       "summary": "Two observers can start with the same description of a quantum system, follow the same probability rules and still disagree about the chance of the same outcome—even while being certain of each other's assessments."
-    },
-    {
-      "title": "Q.ANT Demonstrates Hybrid Photonic-GPU System for Language Models",
-      "link": "https://thequantuminsider.com/2026/11/17/q-ant-demonstrates-hybrid-photonic-gpu-system-for-language-models/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 17:47:39 +0000",
-      "published_ts": 1794937659,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Q.ANT, the pioneer in commercial photonic computing, today unveiled the NPU Gen 2+, the latest generation of its Native Processing Unit (NPU) technology, at SC26 in Chicago. The NPU Gen 2+ adds optical Discrete Fourier Transforms (DFTs), which expands the set of m…"
     },
     {
       "title": "Team extends a qubit's lifetime, correcting errors without measuring them",
@@ -306,36 +330,12 @@
       "summary": "Over the past several decades, researchers have demonstrated quantum teleportation, the transfer of one quantum system's state to another, in a range of systems. However, many quantum computers encode logical qubits (units of quantum information) across groups of physical qubits, which makes telepor…"
     },
     {
-      "title": "Tangled quantum whirlpools caught unraveling in an ultracold gas",
-      "link": "https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Sun, 15 Nov 2026 11:40:01 EST",
-      "published_ts": 1794760801,
-      "summary": "When a cloud of atoms is cooled close to absolute zero, its atoms can merge into a Bose–Einstein condensate (BEC): an exotic fluid in which atoms across the whole cloud share a single quantum state. Current theories predict that as a disordered quantum gas settles into this ordered state, a tangle o…"
-    },
-    {
       "title": "AI supercharges laser physics with a stunning 250x speed boost",
       "link": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
       "source": "ScienceDaily — Quantum Computers",
       "published": "Fri, 13 Nov 2026 18:41:08 EST",
       "published_ts": 1794613268,
       "summary": "Researchers at Stanford, UCLA, and SLAC have developed an AI system that simulates complex laser interactions thousands of times faster than conventional methods. The breakthrough allows scientists to predict how laser pulses behave inside special crystals in just milliseconds, without sacrificing m…"
-    },
-    {
-      "title": "Heat drives electron orbital currents, revealing first experimental evidence of orbital Nernst effect",
-      "link": "https://phys.org/news/2026-11-electron-orbital-currents-revealing-experimental.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 13 Nov 2026 12:00:12 EST",
-      "published_ts": 1794589212,
-      "summary": "Researchers at National Taiwan University (NTU) have reported the first experimental evidence of heat-current-driven transverse accumulation of electrons' orbital angular momentum, a phenomenon known as the orbital Nernst effect. The study was recently published in Nature Communications."
-    },
-    {
-      "title": "Light-activated molecules in porous crystals show potential for quantum chemical sensing",
-      "link": "https://phys.org/news/2026-11-molecules-porous-crystals-potential-quantum.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Fri, 13 Nov 2026 05:00:01 EST",
-      "published_ts": 1794564001,
-      "summary": "An international research team led by Nobuhiro Yanai from the University of Tokyo and Michael R. Wasielewski from Northwestern University has created polarized radical pairs, molecules with unpaired electrons whose spins align, in metal–organic frameworks (MOFs), porous materials consisting of metal…"
     },
     {
       "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
