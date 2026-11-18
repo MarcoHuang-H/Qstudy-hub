@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1794929093,
+  "generated_ts": 1794961533,
   "items": [
+    {
+      "title": "Quantum-gas microscope resolves the 'color' of individual atoms in a single shot",
+      "link": "https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 17 Nov 2026 19:00:01 EST",
+      "published_ts": 1794960001,
+      "summary": "In 2024, researchers at the Ultracold Quantum Gases group at ICFO built a quantum-gas microscope capable of imaging individual atoms in strontium quantum gases for the first time, marking a key enabling step for quantum simulation. At that time, the researchers imaged strontium-84, a boson that has…"
+    },
+    {
+      "title": "IQM Introduces Upgrade Programme for Halocene Quantum Systems",
+      "link": "https://thequantuminsider.com/2026/11/17/iqm-halocene-quantum-systems-upgrade-programme/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 19:34:26 +0000",
+      "published_ts": 1794944066,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers (Nasdaq: IQMX), a global leader in integrated quantum computing, today announced an upgrade program for IQM Halocene, its error-correction product line, that gives customers a path from the 150-qubit system of today to the over 1,000-qubit sy…"
+    },
+    {
+      "title": "Quantum observers can 'agree to disagree,' but within limits, new theorem shows",
+      "link": "https://phys.org/news/2026-11-quantum-limits-theorem.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 17 Nov 2026 14:20:01 EST",
+      "published_ts": 1794943201,
+      "summary": "Two observers can start with the same description of a quantum system, follow the same probability rules and still disagree about the chance of the same outcome—even while being certain of each other's assessments."
+    },
+    {
+      "title": "Q.ANT Demonstrates Hybrid Photonic-GPU System for Language Models",
+      "link": "https://thequantuminsider.com/2026/11/17/q-ant-demonstrates-hybrid-photonic-gpu-system-for-language-models/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 17:47:39 +0000",
+      "published_ts": 1794937659,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Q.ANT, the pioneer in commercial photonic computing, today unveiled the NPU Gen 2+, the latest generation of its Native Processing Unit (NPU) technology, at SC26 in Chicago. The NPU Gen 2+ adds optical Discrete Fourier Transforms (DFTs), which expands the set of m…"
+    },
+    {
+      "title": "SAXON Q Announces ‘Quantum Watchdog,’ to Detect When Quantum Computers Fail",
+      "link": "https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 15:40:15 +0000",
+      "published_ts": 1794930015,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SAXON Q, a leader in NV-center quantum computing, today announced the Quantum Watchdog, a patented safety system that monitors a quantum computer and puts it into a safe mode if it fails. The system is designed for quantum computers operating in research environme…"
+    },
     {
       "title": "QUDORA Integrates NVIDIA CUDA-Q into Its Quantum Software Development Kit",
       "link": "https://thequantuminsider.com/2026/11/17/qudora-integrates-nvidia-cuda-q-quantum-software-development-kit/",
@@ -72,30 +112,6 @@
       "published": "Tue, 17 Nov 2026 12:31:04 +0000",
       "published_ts": 1794918664,
       "summary": "Insider Brief PRESS RELEASE &#8212; Planckian, a quantum hardware company building superconducting quantum processors, has been selected by the European Innovation Council (EIC) for the EIC Accelerator. The award combines a €2.5 million grant with an equity investment of €7.5 million from the EIC Fu…"
-    },
-    {
-      "title": "IDEMIA and IonQ Validate QKD Interoperability for Enterprise Security",
-      "link": "https://thequantuminsider.com/2026/11/17/idemia-ionq-validate-qkd-interoperability-enterprise-security/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 10:18:05 +0000",
-      "published_ts": 1794910685,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IDEMIA Secure Transactions (IST), a global leader in payment, connectivity and cybersecurity solutions, and IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced a successful validation of interoperability between IonQ’s Q…"
-    },
-    {
-      "title": "Falcon Systems Launches Falcon 5000 Series for Quantum Secure Networks",
-      "link": "https://thequantuminsider.com/2026/11/17/falcon-systems-launches-falcon-5000-series-quantum-secure-networks/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 10:07:23 +0000",
-      "published_ts": 1794910043,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Falcon Systems, the Netherlands-based leader building the infrastructure for Quantum Secure Networks (QSN), announces the launch of the Falcon® 5000 Series, the next generation of its proven Measurement-Device-Independent Quantum Key Distribution (MDI-QKD) portfol…"
-    },
-    {
-      "title": "DOE Seeks Input on Cryogenic and Quantum Supercomputing Testbeds",
-      "link": "https://thequantuminsider.com/2026/11/17/doe-seeks-input-on-cryogenic-and-quantum-supercomputing-testbeds/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 17 Nov 2026 09:10:14 +0000",
-      "published_ts": 1794906614,
-      "summary": "Insider Brief Building a useful quantum computer will likely mean building systems around it &#8212; systems that rely on classical computing resources that help it operate and the connections that allow them to work together. The U.S. Department of Energy gets it. The department is seeking industry…"
     },
     {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
@@ -216,22 +232,6 @@
       "published": "Thu, 12 Nov 2026 19:10:01 EST",
       "published_ts": 1794528601,
       "summary": "Researchers from the Faculty of Physics at the University of Warsaw (UW) and the Center for Optical Quantum Technologies at the University of Warsaw's Center for New Technologies (CeNT UW) have developed a method for ultrasensitive microwave sensing. Using cold, strongly interacting Rydberg atoms as…"
-    },
-    {
-      "title": "Multiplexed detector system precisely counts more than 9,000 photons",
-      "link": "https://phys.org/news/2026-11-multiplexed-detector-precisely-photons.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 12 Nov 2026 18:30:02 EST",
-      "published_ts": 1794526202,
-      "summary": "Researchers have developed a new approach that can precisely count from zero to more than 9,000 individual photons. The advance opens new possibilities for studying quantum light at large scales and making precise optical measurements."
-    },
-    {
-      "title": "Chip-based laser cooling could ease quantum computing bottleneck",
-      "link": "https://phys.org/news/2026-11-chip-based-laser-cooling-ease.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 12 Nov 2026 17:40:10 EST",
-      "published_ts": 1794523210,
-      "summary": "Researchers at Cornell have developed a laser-cooling technique that could potentially remove a significant bottleneck in the development of larger, faster quantum computers."
     },
     {
       "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
