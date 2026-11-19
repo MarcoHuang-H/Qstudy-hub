@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1795066815,
+  "generated_ts": 1795100851,
   "items": [
+    {
+      "title": "Securities Regulators Warn That Slow Progress on Quantum Security is a Mistake",
+      "link": "https://thequantuminsider.com/2026/11/19/securities-regulators-warn-that-slow-progress-on-quantum-security-is-a-mistake/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 12:35:50 +0000",
+      "published_ts": 1795091750,
+      "summary": "Insider Brief Financial markets are still in the early stages of preparing for quantum computers that could break the security protecting trades, payments and confidential records, a global group of securities regulators said. And they might not be moving fast enough to manage the threat. The Intern…"
+    },
+    {
+      "title": "BMO Reports Quantum Utility in Machine Learning Application Using IBM Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/11/19/bmo-reports-quantum-utility-in-machine-learning-application-using-ibm-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 11:51:36 +0000",
+      "published_ts": 1795089096,
+      "summary": "Insider Brief PRESS RELEASE &#8212; BMO today announced it has demonstrated quantum utility in a machine learning application using IBM quantum computers, meaning the work was performed reliably at a scale beyond what exact traditional computing methods can practically reproduce. The work explores h…"
+    },
+    {
+      "title": "SK Broadband to Test Quantum Security on Korea-Singapore Subsea Cable",
+      "link": "https://thequantuminsider.com/2026/11/19/sk-broadband-quantum-security-testbed-korea-singapore-cable/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 11:25:52 +0000",
+      "published_ts": 1795087552,
+      "summary": "Insider Brief A quantum security test network spanning countries is to be built on the Busan-Singapore stretch of SJC2, a subsea cable that connects Asia, SK Broadband said on the 19th, according to Seoul Economic Daily. The company’s aim is to check how Korean quantum technology performs abroad and…"
+    },
+    {
+      "title": "Quandela and Hermes-Epitek Join Forces to Advance Photonic Quantum Technologies",
+      "link": "https://thequantuminsider.com/2026/11/19/quandela-hermes-epitek-mou-photonic-quantum-technology/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 10:26:06 +0000",
+      "published_ts": 1795083966,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quandela and Hermes-Epitek Corporation (“Hermes-Epitek “)  have signed a memorandum of understanding  (MoU) at Hermes-Epitek’s premises in Hsinchu Science Park. The MoU outlines two companies’ intention to develop and industrialize photonic quantum technologies, b…"
+    },
+    {
+      "title": "NPL and Sungkyunkwan University Sign Quantum Research Agreement",
+      "link": "https://thequantuminsider.com/2026/11/19/npl-signs-mou-south-korean-university/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 10:17:19 +0000",
+      "published_ts": 1795083439,
+      "summary": "Insider Brief PRESS RELEASE &#8212; NPL and Sungkyunkwan University (SKKU) have signed a Memorandum of Understanding (MoU) to expand collaboration in quantum technologies.  The agreement builds on an established relationship between NPL and SKKU, which has already included joint research projects, i…"
+    },
     {
       "title": "The Bapat-Sunder eigenvalue conjecture fails over the reals",
       "link": "https://arxiv.org/abs/2611.23269",
@@ -192,46 +232,6 @@
       "published": "Wed, 18 Nov 2026 14:24:48 +0000",
       "published_ts": 1795011888,
       "summary": "Insider Brief Brazil received parts for two quantum computers under a deal with Chinese technology company China Electronics Technology Group Corporation, or CETC. The equipment arrived Nov. 16 in João Pessoa, the capital of the northeastern state of Paraíba, Brazil’s Ministry of Science, Technology…"
-    },
-    {
-      "title": "New OQI Impact Tool Supports The Responsible Design of Quantum Computing Applications",
-      "link": "https://thequantuminsider.com/2026/11/18/new-oqi-impact-tool-supports-the-responsible-design-of-quantum-computing-applications/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 13:05:00 +0000",
-      "published_ts": 1795007100,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Open Quantum Institute (OQI), in collaboration with GESDA and the UN Beyond Lab, has launched the OQI Impact Tool, an open, online tool for quantum computing applications developers. It supports responsible innovation by bringing consideration of societal bene…"
-    },
-    {
-      "title": "SEALSQ Signs Letter of Intent to Acquire QuintessenceLabs",
-      "link": "https://thequantuminsider.com/2026/11/18/sealsq-letter-of-intent-acquire-quintessencelabs/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 12:54:07 +0000",
-      "published_ts": 1795006447,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that it has signed a non-binding letter of…"
-    },
-    {
-      "title": "Hybrid QKD and PQC Network Connects Chicago and Europe Across 8,000 km",
-      "link": "https://thequantuminsider.com/2026/11/18/8000-km-quantum-safe-network-us-europe-demonstration/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 12:44:46 +0000",
-      "published_ts": 1795005886,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A group of International research, network and technology organizations has demonstrated hybrid quantum-safe networking between Chicago and Europe at SC26, the Supercomputing Conference 2026. The infrastructure that spans Bilbao, Amsterdam and Chicago extends acro…"
-    },
-    {
-      "title": "Zapata Quantum Launches Open Challenge to Verify AI-Generated Quantum Research",
-      "link": "https://thequantuminsider.com/2026/11/18/zapata-quantum-launches-open-challenge-to-verify-ai-generated-quantum-research/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 12:10:36 +0000",
-      "published_ts": 1795003836,
-      "summary": "Insider Brief PRESS RELEASE &#8212; As AI accelerates scientific discovery, it has become increasingly critical that new results be both provably correct and explainable to humans. Zapata Quantum (OTCQB: ZPTA) (“Zapata”, “Zapata Quantum” or the “Company”), a pioneer in quantum computing application…"
-    },
-    {
-      "title": "Alice & Bob’s Updated Roadmap Targets 200 Logical Qubits From 3,600 Physical Qubits by 2030",
-      "link": "https://thequantuminsider.com/2026/11/18/alice-bobs-updated-roadmap-targets-200-logical-qubits-from-3600-physical-qubits-by-2030/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 12:03:29 +0000",
-      "published_ts": 1795003409,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Alice &#38; Bob, a leader in fault-tolerant quantum computing, today unveiled an updated, modular roadmap. The company targets 200 logical qubits as soon as 2030, double its previous target, with Carbon, which will be built from just 3,600 physical cat qubits.  &#…"
     },
     {
       "title": "Using a microwave link to transfer a three-level quantum state",
