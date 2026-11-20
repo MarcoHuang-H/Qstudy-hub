@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1795186081,
+  "generated_ts": 1795217802,
   "items": [
+    {
+      "title": "A tiny superconducting sandwich could help computers use less energy",
+      "link": "https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120",
+      "source": "MIT News — Quantum Computing",
+      "published": "Fri, 20 Nov 2026 16:00:00 -0500",
+      "published_ts": 1795208400,
+      "summary": "MIT researchers combined superconducting and magnetic layers in a tiny device offering persistent memory and signal control for more energy-efficient computing."
+    },
+    {
+      "title": "Excitons mimic light in atom-thin material, confirming decade-old quantum prediction",
+      "link": "https://phys.org/news/2026-11-excitons-mimic-atom-thin-material.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 20 Nov 2026 11:40:08 EST",
+      "published_ts": 1795192808,
+      "summary": "Combining their skills in theory and experiment, Yale researchers have observed for the first time a type of energy-carrying composite particle move in a highly unexpected way. It's a finding that could lead to advances in quantum technologies, solar energy, LEDs and other optoelectronic technologie…"
+    },
+    {
+      "title": "10-Member Team Drawn from Chinese Institutions Wins 2026 Gordon Bell Prize",
+      "link": "https://thequantuminsider.com/2026/11/20/10-member-team-drawn-from-chinese-institutions-wins-2026-gordon-bell-prize/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 20 Nov 2026 16:13:55 +0000",
+      "published_ts": 1795191235,
+      "summary": "Insider Brief PRESS RELEASE &#8212; ACM, the Association for Computing Machinery, named a ten-member team drawn from Chinese institutions as the winner of the 2026 ACM Gordon Bell Prize for their project “Closing the FeMo-Cofactor ‘Quantum-Advantage’ Gap with Exascale Supercomputers.” The ACM Gordon…"
+    },
+    {
+      "title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+      "link": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 20 Nov 2026 16:05:47 +0000",
+      "published_ts": 1795190747,
+      "summary": "Insider Brief The U.S. Department of Commerce’s quantum computing awards combine research funding with government ownership, giving companies access to capital for specific engineering projects in exchange for shares and commitments governing how the work is completed. Agreements disclosed in SEC fi…"
+    },
     {
       "title": "Spiraling spins bring coordinated quantum motion to diamond sensors",
       "link": "https://phys.org/news/2026-11-spiraling-quantum-motion-diamond-sensors.html",
@@ -210,22 +242,6 @@
       "summary": "With new equipment funding at Penn State and the University of Toronto, Delta Gold Technologies has launched a dedicated quantum sensing program, allowing its gold nanoclusters to get to work on navigation and magnetic sensing while the quantum computing effort continues. Insider Brief For most of u…"
     },
     {
-      "title": "Students Use Quantum Computing to Address Electric Grid Challenges at Tennessee Hackathon",
-      "link": "https://thequantuminsider.com/2026/11/19/students-new-to-quantum-real-technology-power-grid-tennessee-hackathon/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 19 Nov 2026 16:16:38 +0000",
-      "published_ts": 1795104998,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A team of students from Tennessee State University and Vanderbilt University took first place and a $2,500 prize at the Tennessee Quantum Hackathon, a 36-hour, in-person competition that challenged college students to use quantum technology to solve real problems…"
-    },
-    {
-      "title": "SEALSQ Signs LOI to Acquire QuintessenceLabs",
-      "link": "https://thequantuminsider.com/2026/11/19/sealsq-loi-acquire-quintessencelabs/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 19 Nov 2026 16:07:58 +0000",
-      "published_ts": 1795104478,
-      "summary": "Insider Brief PRESS RELEASE &#8212; WISeQey Corp. (formerly known as WISeKey International Holding AG, “WISeQey”) (Nasdaq/SIX: WQEY), a global quantum cybersecurity and space IoT company, today announced that its subsidiary, SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221;), a company that develops…"
-    },
-    {
       "title": "Atoms in sync: Superradiance offers a new kind of frequency comb",
       "link": "https://phys.org/news/2026-11-atoms-sync-superradiance-kind-frequency.html",
       "source": "Phys.org — Quantum Physics",
@@ -320,14 +336,6 @@
       "published": "Mon, 16 Nov 2026 17:40:10 EST",
       "published_ts": 1794868810,
       "summary": "Researchers from the Okinawa Institute of Science and Technology (OIST) have created a spin-based microwave amplifier that operates near absolute zero, boosting signals by more than 1,000-fold while adding noise close to the bare minimum required by the laws of physics. As a more robust alternative…"
-    },
-    {
-      "title": "Measurements reveal link between quantum spin and sound-carrying vibrations in an ultrathin semiconductor",
-      "link": "https://phys.org/news/2026-11-reveal-link-quantum-vibrations-ultrathin.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 16 Nov 2026 16:40:01 EST",
-      "published_ts": 1794865201,
-      "summary": "Researchers at the UCLA Samueli School of Engineering and Auburn University have achieved a scientific first: They measured atomic vibrations that carry heat and sound waves, and connected them to a quantum property called spin, which is a way of characterizing a subatomic particle's built-in magnet…"
     },
     {
       "title": "AI supercharges laser physics with a stunning 250x speed boost",
@@ -552,14 +560,6 @@
       "published": "Wed, 17 Jun 2026 14:35:00 -0400",
       "published_ts": 1781721300,
       "summary": "A prototype wiring system for dilution refrigerators could advance the realization of practical quantum computers."
-    },
-    {
-      "title": "How to create distinguishable states for quantum systems",
-      "link": "https://news.mit.edu/2026/how-to-create-distinguishable-states-for-quantum-systems-0615",
-      "source": "MIT News — Quantum Computing",
-      "published": "Mon, 15 Jun 2026 15:55:00 -0400",
-      "published_ts": 1781553300,
-      "summary": "Researchers establish key insights for reading and writing information for quantum sensing, communication, computing, and control."
     }
   ]
 }
