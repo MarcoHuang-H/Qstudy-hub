@@ -1,6 +1,78 @@
 {
-  "generated_ts": 1795100851,
+  "generated_ts": 1795133566,
   "items": [
+    {
+      "title": "The secret of 'strange metals' may lie in quantum statistics, not collisions",
+      "link": "https://phys.org/news/2026-11-secret-strange-metals-quantum-statistics.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 19 Nov 2026 18:20:11 EST",
+      "published_ts": 1795130411,
+      "summary": "In an ordinary metal, electrons behave like well-defined particles that occasionally bump into imperfections or vibrations of the crystal. Many materials with strong electron–electron interactions, including the copper-oxide (cuprate) superconductors, break these rules. In these \"strange metals,\" el…"
+    },
+    {
+      "title": "Google’s Quantum Chip Beats Classical Limits in Tests of Teamwork",
+      "link": "https://thequantuminsider.com/2026/11/19/googles-quantum-chip-beats-classical-limits-in-tests-of-teamwork/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 20:31:49 +0000",
+      "published_ts": 1795120309,
+      "summary": "Insider Brief It turns out teamwork can indeed make the dream work, even when the team isn’t allowed to talk. It helps to have a few entangled qubits, though. In a study, a Google-led team of researchers used a quantum chip to beat the best classical strategies in games that barred players from comm…"
+    },
+    {
+      "title": "Unusual magnetism revealed in a simple metal's electron spins",
+      "link": "https://phys.org/news/2026-11-unusual-magnetism-revealed-simple-metal.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Thu, 19 Nov 2026 15:00:04 EST",
+      "published_ts": 1795118404,
+      "summary": "Magnets are usually associated with a familiar property: they produce a magnetic field because the magnetic moments of their electrons align. But nature allows much more unusual forms of magnetic order. An international research team has now identified compelling experimental evidence for p-wave mag…"
+    },
+    {
+      "title": "Delta Gold Launches Dedicated Quantum Sensing Program",
+      "link": "https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 17:12:49 +0000",
+      "published_ts": 1795108369,
+      "summary": "With new equipment funding at Penn State and the University of Toronto, Delta Gold Technologies has launched a dedicated quantum sensing program, allowing its gold nanoclusters to get to work on navigation and magnetic sensing while the quantum computing effort continues. Insider Brief For most of u…"
+    },
+    {
+      "title": "Students Use Quantum Computing to Address Electric Grid Challenges at Tennessee Hackathon",
+      "link": "https://thequantuminsider.com/2026/11/19/students-new-to-quantum-real-technology-power-grid-tennessee-hackathon/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 16:16:38 +0000",
+      "published_ts": 1795104998,
+      "summary": "Insider Brief PRESS RELEASE &#8212; A team of students from Tennessee State University and Vanderbilt University took first place and a $2,500 prize at the Tennessee Quantum Hackathon, a 36-hour, in-person competition that challenged college students to use quantum technology to solve real problems…"
+    },
+    {
+      "title": "SEALSQ Signs LOI to Acquire QuintessenceLabs",
+      "link": "https://thequantuminsider.com/2026/11/19/sealsq-loi-acquire-quintessencelabs/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 16:07:58 +0000",
+      "published_ts": 1795104478,
+      "summary": "Insider Brief PRESS RELEASE &#8212; WISeQey Corp. (formerly known as WISeKey International Holding AG, “WISeQey”) (Nasdaq/SIX: WQEY), a global quantum cybersecurity and space IoT company, today announced that its subsidiary, SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221;), a company that develops…"
+    },
+    {
+      "title": "From Lab to Live: Inside the Practical Realities of Deploying Quantum Computing at Data Center Scale",
+      "link": "https://thequantuminsider.com/2026/11/19/from-lab-to-live-inside-the-practical-realities-of-deploying-quantum-computing-at-data-center-scale/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 16:07:22 +0000",
+      "published_ts": 1795104442,
+      "summary": "Behind Equinix and Diraq’s collaboration to bring a silicon spin quantum computer into a commercial data center … and what it actually takes to get there. Insider Brief The recent headlines around Diraq and Equinix&#8217;s collaboration have focused on a milestone: a silicon spin quantum computer, i…"
+    },
+    {
+      "title": "Pasqal Integrates Quantum Processors with Slurm HRES",
+      "link": "https://thequantuminsider.com/2026/11/19/pasqal-integrates-quantum-processors-slurm-hres/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 15:56:53 +0000",
+      "published_ts": 1795103813,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced an integration with the Hierarchical Resources (HRES) capability recently added to Slurm, the open-source workload manager widely used in supercomputing centers. In a latest…"
+    },
+    {
+      "title": "memQ and Infleqtion Sign MoU to Advance Networked Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/11/19/memq-infleqtion-mou-quantum-networking-interoperability/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 15:45:03 +0000",
+      "published_ts": 1795103103,
+      "summary": "Insider Brief PRESS RELEASE &#8212; memQ™, the industry leader in quantum networking solutions for distributed quantum computing, and Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, have announced a joint memorandum of understandi…"
+    },
     {
       "title": "Securities Regulators Warn That Slow Progress on Quantum Security is a Mistake",
       "link": "https://thequantuminsider.com/2026/11/19/securities-regulators-warn-that-slow-progress-on-quantum-security-is-a-mistake/",
@@ -24,22 +96,6 @@
       "published": "Thu, 19 Nov 2026 11:25:52 +0000",
       "published_ts": 1795087552,
       "summary": "Insider Brief A quantum security test network spanning countries is to be built on the Busan-Singapore stretch of SJC2, a subsea cable that connects Asia, SK Broadband said on the 19th, according to Seoul Economic Daily. The company’s aim is to check how Korean quantum technology performs abroad and…"
-    },
-    {
-      "title": "Quandela and Hermes-Epitek Join Forces to Advance Photonic Quantum Technologies",
-      "link": "https://thequantuminsider.com/2026/11/19/quandela-hermes-epitek-mou-photonic-quantum-technology/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 19 Nov 2026 10:26:06 +0000",
-      "published_ts": 1795083966,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quandela and Hermes-Epitek Corporation (“Hermes-Epitek “)  have signed a memorandum of understanding  (MoU) at Hermes-Epitek’s premises in Hsinchu Science Park. The MoU outlines two companies’ intention to develop and industrialize photonic quantum technologies, b…"
-    },
-    {
-      "title": "NPL and Sungkyunkwan University Sign Quantum Research Agreement",
-      "link": "https://thequantuminsider.com/2026/11/19/npl-signs-mou-south-korean-university/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 19 Nov 2026 10:17:19 +0000",
-      "published_ts": 1795083439,
-      "summary": "Insider Brief PRESS RELEASE &#8212; NPL and Sungkyunkwan University (SKKU) have signed a Memorandum of Understanding (MoU) to expand collaboration in quantum technologies.  The agreement builds on an established relationship between NPL and SKKU, which has already included joint research projects, i…"
     },
     {
       "title": "The Bapat-Sunder eigenvalue conjecture fails over the reals",
@@ -170,44 +226,12 @@
       "summary": "When scientists shine a laser beam into a crystal, they typically expect a steady glow as the crystal's atoms are energized and begin to emit light. But in early 2024, while searching for something else entirely, researchers in the lab of Caltech's Andrei Faraon saw a crystal flash in a regular rhyt…"
     },
     {
-      "title": "Guest Post — The 2026 Finance Quantum Index: Recognizing the Leaders Advancing Quantum in Finance",
-      "link": "https://thequantuminsider.com/2026/11/18/guest-post-the-2026-finance-quantum-index-recognizing-the-leaders-advancing-quantum-in-finance/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 22:34:26 +0000",
-      "published_ts": 1795041266,
-      "summary": "Guest Post by Steve Suarez, Founder and CEO of HorizonX and Co-founder of The Quantum Index The 2026 Finance Quantum Index brings together 64 financial institutions across eight regions, more than doubling its coverage from 28 institutions in 2025. With 36 new additions, this year’s edition provides…"
-    },
-    {
       "title": "Scalable photonic quantum computer provides new insights into the fundamentals that shape its performance",
       "link": "https://phys.org/news/2026-11-scalable-photonic-quantum-insights-fundamentals.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Wed, 18 Nov 2026 17:10:12 EST",
       "published_ts": 1795039812,
       "summary": "Photonics-based quantum computers open up new possibilities for investigating highly complex problems in mathematics and have the potential to revolutionize fields ranging from energy and chemical research to secure communications. By utilizing the unusual properties of light particles, they can per…"
-    },
-    {
-      "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
-      "link": "https://thequantuminsider.com/2026/11/18/quantum-physics-can-verify-a-persons-location-nist-researchers-show/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 18:06:57 +0000",
-      "published_ts": 1795025217,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Imagine a corporate treasurer directing her company’s financial network to make a $50 million wire transfer. How can the network be certain the command is coming from a secure terminal in the company’s headquarters, and not a hacker’s laptop across the globe? In a…"
-    },
-    {
-      "title": "QuEra Computing and Berkeley Lab Publish Nature Study of Quantum Dynamics on Up to 180 Qubits",
-      "link": "https://thequantuminsider.com/2026/11/18/quera-berkeley-lab-study-quantum-dynamics-aquila/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 17:03:12 +0000",
-      "published_ts": 1795021392,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The National Energy Research Scientific Computing Center (NERSC) at Lawrence Berkeley National Laboratory and QuEra Computing, the leader in neutral-atom quantum computing, today announced the publication of a new study in Nature. Using Aquila, QuEra&#8217;s analo…"
-    },
-    {
-      "title": "Bradesco and evolutionQ Begin Quantum Communication Tests to Assess New Data Protection Models",
-      "link": "https://thequantuminsider.com/2026/11/18/bradesco-and-evolutionq-begin-quantum-communication-tests-to-assess-new-data-protection-models/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 16:21:01 +0000",
-      "published_ts": 1795018861,
-      "summary": "Insider Brief PRESS RELEASE &#8212; A pioneering initiative in Brazil’s financial sector seeks to study, in a controlled environment, the feasibility of the technology and its potential to strengthen the security of information exchange among companies, financial institutions and startups in the com…"
     },
     {
       "title": "Quantum physics can verify a person's location, researchers show",
@@ -224,14 +248,6 @@
       "published": "Wed, 18 Nov 2026 10:20:05 EST",
       "published_ts": 1795015205,
       "summary": "A diamond's most useful quantum properties come from defects, places where the regular arrangement of carbon atoms is broken. One of these, a nitrogen atom situated next to a vacancy caused by a missing carbon atom, has become a key component in quantum technology."
-    },
-    {
-      "title": "Brazil Receives Parts for Two Quantum Computers in Partnership With China",
-      "link": "https://thequantuminsider.com/2026/11/18/brazil-receives-parts-for-two-quantum-computers-in-partnership-with-china/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 18 Nov 2026 14:24:48 +0000",
-      "published_ts": 1795011888,
-      "summary": "Insider Brief Brazil received parts for two quantum computers under a deal with Chinese technology company China Electronics Technology Group Corporation, or CETC. The equipment arrived Nov. 16 in João Pessoa, the capital of the northeastern state of Paraíba, Brazil’s Ministry of Science, Technology…"
     },
     {
       "title": "Using a microwave link to transfer a three-level quantum state",
@@ -312,22 +328,6 @@
       "published": "Mon, 16 Nov 2026 11:40:01 EST",
       "published_ts": 1794847201,
       "summary": "A pair of researchers has created a new model for radioactive decay, which allows alpha and beta decay to happen simultaneously in a single transition. Testing their model's predictions against a full chart of known isotopes, Wenqiang Zhang at the Chinese Academy of Sciences, together with Chong Qi…"
-    },
-    {
-      "title": "Reading superconducting qubits while suppressing unwanted state transitions",
-      "link": "https://phys.org/news/2026-11-superconducting-qubits-suppressing-unwanted-state.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 16 Nov 2026 11:20:42 EST",
-      "published_ts": 1794846042,
-      "summary": "Recently an artificial intelligence proved an 18-year-old conjecture in computer science, called the Aaronson–Ambainis conjecture. The proof settles a long-standing conjecture (educated guess) that eliminates one proposed route to enormous quantum computer speedups, ruling out one particular variant…"
-    },
-    {
-      "title": "Hidden defects return a qubit's lost energy",
-      "link": "https://phys.org/news/2026-11-hidden-defects-qubit-lost-energy.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Mon, 16 Nov 2026 09:20:08 EST",
-      "published_ts": 1794838808,
-      "summary": "Today, many leading quantum computers are built from superconducting circuits. However, the qubits in these circuits can easily lose energy to their surroundings, scrambling the fragile quantum information they hold."
     },
     {
       "title": "AI supercharges laser physics with a stunning 250x speed boost",
