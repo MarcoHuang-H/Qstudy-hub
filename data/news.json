@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1795300944,
+  "generated_ts": 1795322824,
   "items": [
+    {
+      "title": "TQI linking test v15 (delete me)",
+      "link": "https://thequantuminsider.com/2026/11/21/__trashed-5/",
+      "source": "The Quantum Insider",
+      "published": "Sat, 21 Nov 2026 21:45:27 +0000",
+      "published_ts": 1795297527,
+      "summary": "IonQ announced a deal with Mastercard today. Analysts said IonQ’s roadmap is ambitious. Mastercard also commented. D-Wave Quantum and D-Wave were mentioned. The city of Chattanooga hosted it. Over a long time horizon, Horizon Europe funds research. Horizon Quantum Computing is different from Horizon…"
+    },
     {
       "title": "Quantum software matches classical benchmark for a molecular interaction",
       "link": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
@@ -120,14 +128,6 @@
       "published": "Thu, 19 Nov 2026 15:00:04 EST",
       "published_ts": 1795118404,
       "summary": "Magnets are usually associated with a familiar property: they produce a magnetic field because the magnetic moments of their electrons align. But nature allows much more unusual forms of magnetic order. An international research team has now identified compelling experimental evidence for p-wave mag…"
-    },
-    {
-      "title": "Delta Gold Launches Dedicated Quantum Sensing Program",
-      "link": "https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 19 Nov 2026 17:12:49 +0000",
-      "published_ts": 1795108369,
-      "summary": "With new equipment funding at Penn State and the University of Toronto, Delta Gold Technologies has launched a dedicated quantum sensing program, allowing its gold nanoclusters to get to work on navigation and magnetic sensing while the quantum computing effort continues. Insider Brief For most of u…"
     },
     {
       "title": "Atoms in sync: Superradiance offers a new kind of frequency comb",
