@@ -1,6 +1,126 @@
 {
-  "generated_ts": 1795388899,
+  "generated_ts": 1795411544,
   "items": [
+    {
+      "title": "Thermalization and quantum chaos in a pure gauge discrete non-Abelian lattice gauge theory",
+      "link": "https://arxiv.org/abs/2611.26695",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.26695v1 Announce Type: new  Abstract: Gauge theories constitute the basis of our microscopic description of fundamental physical laws, and they are a cornerstone of contemporary scientific research. Yet, how such systems thermalize far from equilibrium remains a fundamental open question…"
+    },
+    {
+      "title": "Certification of non-stabilizerness in multi-qubit systems via worst-case random access codes",
+      "link": "https://arxiv.org/abs/2611.26705",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.26705v1 Announce Type: new  Abstract: Recent works have proposed semi-device-independent frameworks to certify non-stabilizerness, but the complexity of the stabilizer polytope makes these methods infeasible beyond a few qubits. In this work, we address this limitation by moving to partia…"
+    },
+    {
+      "title": "Improved Digitization Bounds for U(1) Lattice Gauge Theory via Semiclassical Analysis",
+      "link": "https://arxiv.org/abs/2611.26720",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.26720v1 Announce Type: new  Abstract: Simulating lattice gauge theories on a digital quantum computer or using tensor network methods requires a finite-dimensional approximation of the gauge field, a process often called digitization. Controlling the resulting error is essential for asses…"
+    },
+    {
+      "title": "Entropy production from crossing a quantum separatrix",
+      "link": "https://arxiv.org/abs/2611.26737",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.26737v1 Announce Type: new  Abstract: If the Hamiltonian of a large quantum system depends on a variable parameter, its parameter-dependent energy spectrum may often form a dense lattice of avoided crossings. If the parameter slowly changes, the system's time evolution through the avoided…"
+    },
+    {
+      "title": "Efficient Tensor Decomposition of the Coulomb and Coulomb-like Potentials and Its Application to Probing Molecular Geometries Using a Quantum Computer",
+      "link": "https://arxiv.org/abs/2611.26740",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.26740v1 Announce Type: new  Abstract: We present an efficient canonical polyadic decomposition of the Coulomb and Coulomb-like potentials in real-space grid representations suited to quantum computing applications. By decomposing the matrix elements of Coulomb-like potentials into low-ran…"
+    },
+    {
+      "title": "Gravity-induced entanglement assisted by an additional interaction using magic angle calibration",
+      "link": "https://arxiv.org/abs/2611.26755",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.26755v1 Announce Type: new  Abstract: Gravity-induced entanglement provides an operational test of whether gravitational dynamics are compatible with local operations and classical communication (LOCC), but the weakness of the gravitational interaction and the presence of force noise make…"
+    },
+    {
+      "title": "Harnessing Dephasing for Quantum Reservoir Computing with a Minimum Complexity Architecture: Applications to Nonlinear Time-Series Prediction",
+      "link": "https://arxiv.org/abs/2611.26762",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.26762v1 Announce Type: new  Abstract: Quantum reservoir computing (QRC) exploits quantum dynamics for temporal information processing. Quantum noise affects the reservoir dynamics and can either impair computational performance or serve as a computational resource. However, the role of pu…"
+    },
+    {
+      "title": "Frequency-bin-encoded quantum secret sharing with fast basis switching",
+      "link": "https://arxiv.org/abs/2611.26816",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.26816v1 Announce Type: new  Abstract: Frequency-bin encoding offers unique opportunities for fiber-native quantum information processing, yet its full potential has been hampered by challenges in rapid state control and protocol scaling. Leveraging high-speed microwave processing, we over…"
+    },
+    {
+      "title": "Scheduling the quantum implementation of the Trotter decomposition for Hamiltonian simulation",
+      "link": "https://arxiv.org/abs/2611.26884",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.26884v1 Announce Type: new  Abstract: For the quantum computational task for Hamiltonian simulation, the arrangement in which sub-Hamiltonians appear in the Trotter decomposition may have a large influence on the precision, under a given circuit complexity. In this paper, we design severa…"
+    },
+    {
+      "title": "Analog Explorations of Quantum State Measurement",
+      "link": "https://arxiv.org/abs/2611.26889",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.26889v1 Announce Type: new  Abstract: The awkward disconnect in the postulates of quantum mechanics between the continuous, deterministic, linear, and unitary evolution governed by Schr\\\"odinger's equation and the discontinuous, stochastic, nonlinear, and nonunitary measurement process ha…"
+    },
+    {
+      "title": "Benchmarking Quantum Key Distribution Hardware Across Operating Conditions",
+      "link": "https://arxiv.org/abs/2611.26925",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.26925v1 Announce Type: new  Abstract: Quantum key distribution (QKD) is entering national fibre networks, but published secret key rates (SKRs) are measured over different distances, wavelengths, classical traffic loads and clock rates, so systems are hard to compare. We write the SKR as…"
+    },
+    {
+      "title": "Resonance-controlled post-selected mode entanglement in one-dimensional quantum scattering",
+      "link": "https://arxiv.org/abs/2611.26960",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.26960v1 Announce Type: new  Abstract: We study resonance-controlled post-selected mode entanglement in a one-dimensional quantum-scattering model. Two incoming electrons scatter independently from a symmetric double-barrier structure and the sector with one reflected and one transmitted e…"
+    },
+    {
+      "title": "Augmenting Quantum Neural Networks with Contractive Layers",
+      "link": "https://arxiv.org/abs/2611.27019",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.27019v1 Announce Type: new  Abstract: Classical neural networks combine diverse layers with complementary roles to achieve rich expressive capabilities across complex learning tasks. Rapid advances in quantum science and technology have motivated growing interest in their quantum counterp…"
+    },
+    {
+      "title": "Generalized Wigner-Yanase Uncertainty Bounds for Multiple Quantum Channels",
+      "link": "https://arxiv.org/abs/2611.27034",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.27034v1 Announce Type: new  Abstract: We derive uncertainty relations for quantum channels based on the generalized Wigner-Yanase skew information. For three channels, we obtain a product lower bound by optimizing over permutations of commutator and anticommutator pairings. For an arbitra…"
+    },
+    {
+      "title": "Physical Learning for Autonomous Tuning of Spin Qubits in Electrostatically Defined Quantum Dots",
+      "link": "https://arxiv.org/abs/2611.27140",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795410000,
+      "summary": "arXiv:2611.27140v1 Announce Type: new  Abstract: Tuning electrostatically defined quantum dots remains a primary bottleneck in the scalability of semiconductor spin qubits. While existing solutions rely on machine learning algorithms, these approaches require global information, introduce latency bo…"
+    },
     {
       "title": "Quantum software matches classical benchmark for a molecular interaction",
       "link": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
