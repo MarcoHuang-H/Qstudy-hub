@@ -1,6 +1,86 @@
 {
-  "generated_ts": 1795411544,
+  "generated_ts": 1795453925,
   "items": [
+    {
+      "title": "Theoretical model describes a new type of atomic oscillation with cloverleaf symmetry in altermagnets",
+      "link": "https://phys.org/news/2026-11-theoretical-atomic-oscillation-cloverleaf-symmetry.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 23 Nov 2026 11:20:02 EST",
+      "published_ts": 1795450802,
+      "summary": "A team of researchers at Martin Luther University Halle-Wittenberg (MLU) and the University of Münster has discovered a new type of atomic oscillation in altermagnets, which exhibit a striking cloverleaf symmetry. The findings were published in the journal Physical Review Letters."
+    },
+    {
+      "title": "CyberRidge Selected for The Lucrative EIC Award For Innovation In Quantum Security",
+      "link": "https://thequantuminsider.com/2026/11/23/cyberridge-european-innovation-council-co-funding/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 16:13:07 +0000",
+      "published_ts": 1795450387,
+      "summary": "Insider Brief PRESS RELEASE &#8212; CyberRidge has been selected for co-funding by the European Innovation Council (EIC), Europe’s flagship program for breakthrough technologies. In this highly selective round, only 71 companies were chosen out of 1211 applicants. The European Commission set up the…"
+    },
+    {
+      "title": "Xairos Appoints Armen Minasian to Board of Advisors",
+      "link": "https://thequantuminsider.com/2026/11/23/xairos-appoints-armen-minasian-board-advisor/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 13:36:39 +0000",
+      "published_ts": 1795440999,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Xairos Systems, Inc. (Xairos), a quantum technology company developing resilient timing and networking solutions, today announced the appointment of Armen Minasian to its Board of Advisors to support investment and capital strategy as the company commercializes it…"
+    },
+    {
+      "title": "CQC, CO.LAB and Outset Ventures Partner to Accelerate Quantum Commercialization",
+      "link": "https://thequantuminsider.com/2026/11/23/cqc-colab-outset-ventures-quantum-commercialisation/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 13:24:31 +0000",
+      "published_ts": 1795440271,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The Chattanooga Quantum Collaborative (CQC), The Company Lab (CO.LAB), and New Zealand-based Outset Ventures are combining their strengths to accelerate quantum commercialization, moving quantum innovation from the lab into the hands of the people and industries t…"
+    },
+    {
+      "title": "Q.security Launches With $11.5 Million From Castle Island Ventures, New York Life Ventures and Coinbase Ventures",
+      "link": "https://thequantuminsider.com/2026/11/23/q-security-launches-with-11-5-million-from-castle-island-ventures-new-york-life-ventures-and-coinbase-ventures/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 13:01:54 +0000",
+      "published_ts": 1795438914,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Q.security, the provider of the business-first post-quantum cryptography (PQC) remediation platform, today announced its launch from stealth with $11.5 million in seed funding led by Castle Island Ventures, with investment from New York Life Ventures and Coinbase…"
+    },
+    {
+      "title": "planqc Expands Into the UK With New Cambridge Site",
+      "link": "https://thequantuminsider.com/2026/11/23/planqc-expands-into-the-uk-with-new-cambridge-site/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 12:36:39 +0000",
+      "published_ts": 1795437399,
+      "summary": "Insider Brief PRESS RELEASE &#8212; planqc, one of Europe’s leading developers of neutral-atom quantum computers, is expanding into the United Kingdom with the establishment of planqc UK Ltd and a new site in Cambridge. The company is investing in the double-digit millions in the UK. Cambridge will…"
+    },
+    {
+      "title": "Microsoft Builds Israeli Team to Help Companies Prepare for Quantum Threats",
+      "link": "https://thequantuminsider.com/2026/11/23/microsoft-builds-israeli-team-to-help-companies-prepare-for-quantum-threats/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 09:17:13 +0000",
+      "published_ts": 1795425433,
+      "summary": "Insider Brief Microsoft is forming a team in Israel to help companies identify encryption that future quantum computers could break, Calcalist reported. Led by Inbar Badian, the group will develop software that uses artificial intelligence to track where organizations use encryption and flag the wea…"
+    },
+    {
+      "title": "Rotonium Unveils a Quantum Computer That Operates at Room Temperature",
+      "link": "https://thequantuminsider.com/2026/11/23/rotonium-unveils-a-quantum-computer-that-operates-at-room-temperature/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 08:57:29 +0000",
+      "published_ts": 1795424249,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Rotonium has unveiled a quantum computer prototype that operates at room temperature, with no cryogenic cooling anywhere in the quantum chain: from the single-photon source to the processor and the detectors that read the results. The machine houses a photonic qua…"
+    },
+    {
+      "title": "Aalborg University Buys Quantum Computer to Train Engineers",
+      "link": "https://thequantuminsider.com/2026/11/23/aalborg-university-buys-quantum-computer-to-train-engineers/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 08:40:28 +0000",
+      "published_ts": 1795423228,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Aalborg University (AAU) is purchasing a quantum computer, which will be delivered and installed during 2027. But it has not been acquired to compete with the major pharmaceutical companies, tech giants and universities using quantum computing to develop new vacci…"
+    },
+    {
+      "title": "Portable Quantum Eye Scanner Could Expand Access to Care in Remote Australia",
+      "link": "https://thequantuminsider.com/2026/11/23/portable-quantum-eye-scanner-could-expand-access-to-care-in-remote-australia/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 08:24:12 +0000",
+      "published_ts": 1795422252,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers have taken a significant step towards better access to crucial eye care for Australia’s Indigenous population &#8211; potentially tackling the community’s most common cause of sight loss &#8211; after the successful trial of a pioneering remote quantum…"
+    },
     {
       "title": "Thermalization and quantum chaos in a pure gauge discrete non-Abelian lattice gauge theory",
       "link": "https://arxiv.org/abs/2611.26695",
@@ -154,68 +234,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; ACM, the Association for Computing Machinery, named a ten-member team drawn from Chinese institutions as the winner of the 2026 ACM Gordon Bell Prize for their project “Closing the FeMo-Cofactor ‘Quantum-Advantage’ Gap with Exascale Supercomputers.” The ACM Gordon…"
     },
     {
-      "title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
-      "link": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 20 Nov 2026 16:05:47 +0000",
-      "published_ts": 1795190747,
-      "summary": "Insider Brief The U.S. Department of Commerce’s quantum computing awards combine research funding with government ownership, giving companies access to capital for specific engineering projects in exchange for shares and commitments governing how the work is completed. Agreements disclosed in SEC fi…"
-    },
-    {
       "title": "Spiraling spins bring coordinated quantum motion to diamond sensors",
       "link": "https://phys.org/news/2026-11-spiraling-quantum-motion-diamond-sensors.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Fri, 20 Nov 2026 08:00:04 EST",
       "published_ts": 1795179604,
       "summary": "Trapped within diamond's crystal lattice are tiny defects called nitrogen-vacancy (NV) centers, where a nitrogen atom sits beside an empty gap where a carbon atom should be. Because of their quantum spins, electrons trapped at these defects behave like tiny magnets, turning diamond into a highly sen…"
-    },
-    {
-      "title": "Quantus Launches a Quantum-Secure Cold Wallet That Runs on Any Spare Phone",
-      "link": "https://thequantuminsider.com/2026/11/20/quantus-quantum-secure-cold-wallet-spare-phone/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 20 Nov 2026 12:58:37 +0000",
-      "published_ts": 1795179517,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantus has released the Quantus Cold Wallet, an open-source mobile app that converts any spare smartphone into an entirely air-gapped, offline crypto wallet. The launch aims to eliminate the hidden vulnerabilities of traditional hardware wallets, which frequently…"
-    },
-    {
-      "title": "KT and LG Electronics Demonstrate Quantum Secure Direct Communication",
-      "link": "https://thequantuminsider.com/2026/11/20/kt-lg-electronics-quantum-secure-direct-communication/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 20 Nov 2026 11:27:32 +0000",
-      "published_ts": 1795174052,
-      "summary": "Insider Brief Image and text data were sent and then recovered at the receiving end using a quantum secure direct communication (QSDC) system that KT developed jointly with LG Electronics, KT said on Thursday, according to Digital Today. Digital Today described QSDC as a next-generation quantum comm…"
-    },
-    {
-      "title": "Mastercard Launches Quantum Advisory Practice for Financial Services",
-      "link": "https://thequantuminsider.com/2026/11/20/mastercard-quantum-advisory-practice-financial-services/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 20 Nov 2026 09:51:04 +0000",
-      "published_ts": 1795168264,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum computing is not currently a mainstream technology, but cybersecurity experts and the financial services industry need to operate as if it’s here. Quantum computing has transformative potential, from strengthening fraud detection to optimizing financial op…"
-    },
-    {
-      "title": "CNM and Sandia National Labs Sign MoU to Expand Technical Workforce Training",
-      "link": "https://thequantuminsider.com/2026/11/20/cnm-sandia-mou-technical-workforce-training/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 20 Nov 2026 09:42:54 +0000",
-      "published_ts": 1795167774,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Leaders from Central New Mexico Community College and Sandia National Laboratories have signed a Memorandum of Understanding (MOU) to connect more New Mexicans to technical training and career pathways that address advanced manufacturing workforce needs in New Mex…"
-    },
-    {
-      "title": "Guest Post: Building the Conditions for a Quantum Breakthrough",
-      "link": "https://thequantuminsider.com/2026/11/20/guest-post-building-the-conditions-for-a-quantum-breakthrough/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 20 Nov 2026 09:09:29 +0000",
-      "published_ts": 1795165769,
-      "summary": "Guest Post by Dr. Juan Bernabé-Moreno and Ivan Houlihan There is a class of problems in materials science that classical computers cannot solve. The math involved grows exponentially more complex as the system being studied gets larger. Add more dimensions to a quantum system or introduce realistic…"
-    },
-    {
-      "title": "Guest Post: When Will Quantum Computing Become Useful for Insurance?",
-      "link": "https://thequantuminsider.com/2026/11/20/guest-post-when-will-quantum-computing-become-useful-for-insurance/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 20 Nov 2026 08:58:59 +0000",
-      "published_ts": 1795165139,
-      "summary": "Guest Post Dr. Kris Naudts, Zeynep Koruturk, and Donald Harmitt @ Firgun Ventures. Firgun Ventures is a VC firm investing in Series A/B quantum scale-ups globally. Insurance is, at its core, the business of putting a price on uncertainty, and computationally intensive simulations underpin much of ho…"
     },
     {
       "title": "The secret of 'strange metals' may lie in quantum statistics, not collisions",
@@ -226,28 +250,12 @@
       "summary": "In an ordinary metal, electrons behave like well-defined particles that occasionally bump into imperfections or vibrations of the crystal. Many materials with strong electron–electron interactions, including the copper-oxide (cuprate) superconductors, break these rules. In these \"strange metals,\" el…"
     },
     {
-      "title": "Google’s Quantum Chip Beats Classical Limits in Tests of Teamwork",
-      "link": "https://thequantuminsider.com/2026/11/19/googles-quantum-chip-beats-classical-limits-in-tests-of-teamwork/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 19 Nov 2026 20:31:49 +0000",
-      "published_ts": 1795120309,
-      "summary": "Insider Brief It turns out teamwork can indeed make the dream work, even when the team isn’t allowed to talk. It helps to have a few entangled qubits, though. In a study, a Google-led team of researchers used a quantum chip to beat the best classical strategies in games that barred players from comm…"
-    },
-    {
       "title": "Unusual magnetism revealed in a simple metal's electron spins",
       "link": "https://phys.org/news/2026-11-unusual-magnetism-revealed-simple-metal.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Thu, 19 Nov 2026 15:00:04 EST",
       "published_ts": 1795118404,
       "summary": "Magnets are usually associated with a familiar property: they produce a magnetic field because the magnetic moments of their electrons align. But nature allows much more unusual forms of magnetic order. An international research team has now identified compelling experimental evidence for p-wave mag…"
-    },
-    {
-      "title": "Delta Gold Launches Dedicated Quantum Sensing Program",
-      "link": "https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 19 Nov 2026 17:12:49 +0000",
-      "published_ts": 1795108369,
-      "summary": "With new equipment funding at Penn State and the University of Toronto, Delta Gold Technologies has launched a dedicated quantum sensing program, allowing its gold nanoclusters to get to work on navigation and magnetic sensing while the quantum computing effort continues. Insider Brief For most of u…"
     },
     {
       "title": "Atoms in sync: Superradiance offers a new kind of frequency comb",
@@ -320,14 +328,6 @@
       "published": "Tue, 17 Nov 2026 09:00:11 EST",
       "published_ts": 1794924011,
       "summary": "Quantum technologies, devices that can process, store or collect information leveraging the laws of quantum mechanics, could potentially outperform their classical counterparts on some tasks. Yet these devices are highly sensitive to changes or disturbances in their surrounding environment, which ca…"
-    },
-    {
-      "title": "New theoretical framework free of ghostlike instabilities expands the possibilities of symmetry in particle physics",
-      "link": "https://phys.org/news/2026-11-theoretical-framework-free-ghostlike-instabilities.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 17 Nov 2026 08:40:06 EST",
-      "published_ts": 1794922806,
-      "summary": "Elementary particles and the forces governing their interactions are described by relativistic quantum field theory, in which symmetry serves as a fundamental guiding principle. For more than half a century, the possible symmetries of such theories were believed to be restricted by the Coleman–Mandu…"
     },
     {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
