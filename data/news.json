@@ -1,6 +1,94 @@
 {
-  "generated_ts": 1795491844,
+  "generated_ts": 1795539200,
   "items": [
+    {
+      "title": "SEALSQ Expands Quantum Highway Network Across the U.S. and Europe",
+      "link": "https://thequantuminsider.com/2026/11/24/sealsq-expands-quantum-highway-network-across-the-u-s-and-europe/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 14:54:13 +0000",
+      "published_ts": 1795532053,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that it is working with data center provid…"
+    },
+    {
+      "title": "Quantum Art Appoints Mark Solomon and Tal Inbar to Business Development Roles",
+      "link": "https://thequantuminsider.com/2026/11/24/quantum-art-appoints-mark-solomon-tal-inbar-business-development/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 13:34:16 +0000",
+      "published_ts": 1795527256,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Art, a developer of full-stack, fault tolerant quantum computers based on trapped-ion qubits and a proprietary, dynamically reconfigurable multi-core architecture, today announced two additions to its leadership team: Mark Solomon has joined as Head of U.S…"
+    },
+    {
+      "title": "Pasqal Leads European Defence Fund Project on Fault-Tolerant Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/11/24/pasqal-leads-european-defence-fund-project-fault-tolerant-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 13:33:45 +0000",
+      "published_ts": 1795527225,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced the public launch of CoPaNA (Concatenated Parity codes on Neutral Atoms), a three-year research project selected under the European Defence Fund (EDF) 2025 call and coordinat…"
+    },
+    {
+      "title": "Diraq Finalizes $38 Million CHIPS R&D Award with U.S. Department of Commerce",
+      "link": "https://thequantuminsider.com/2026/11/24/diraq-finalizes-38-million-chips-rd-award-with-u-s-department-of-commerce/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 12:23:46 +0000",
+      "published_ts": 1795523026,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Diraq, the quantum computing pioneer, announced the finalization of an agreement with the United States Department of Commerce’s CHIPS Research and Development Office for up to $38million in federal funding under the CHIPS and Science Act, following a previously-a…"
+    },
+    {
+      "title": "Researchers Fit Quantum Circuits Into a 30 Billion-Parameter AI Model",
+      "link": "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 12:23:06 +0000",
+      "published_ts": 1795522986,
+      "summary": "Insider Brief A quantum computer may one day serve as a computational partner to help chatbots predict what comes next, although scientists caution a lot of work remains. In an experiment, a team of researchers replaced eight layers of a large language model with a compact module that can run on a q…"
+    },
+    {
+      "title": "Ultracold atoms reveal first direct view of bound-pair motion in a fracton system",
+      "link": "https://phys.org/news/2026-11-ultracold-atoms-reveal-view-bound.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 24 Nov 2026 06:20:01 EST",
+      "published_ts": 1795519201,
+      "summary": "Particles can generally move between neighboring sites in a crystal, a solid in which atoms are arranged in a regular, repeating pattern, or an optical lattice, an arrangement of laser-based traps that confines atoms. A strong potential gradient (i.e., a steep change in potential energy across a cry…"
+    },
+    {
+      "title": "Qtonic Quantum Appoints Former TRADOC Commander Gary Brito",
+      "link": "https://thequantuminsider.com/2026/11/24/gary-brito-joins-qtonic-quantum-senior-military-advisor/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 10:16:19 +0000",
+      "published_ts": 1795515379,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Gen. Gary M. Brito, U.S. Army (Ret.), the 18th and final commanding general of U.S. Army Training and Doctrine Command (TRADOC), has joined Qtonic Quantum to lead the Army Readiness Council and serve as Senior Military Advisor to the Founders. His appointment come…"
+    },
+    {
+      "title": "QNu Labs and NIELIT Partner on Quantum Technology Training in India",
+      "link": "https://thequantuminsider.com/2026/11/24/qnu-labs-nielit-quantum-technology-training-india/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 10:06:22 +0000",
+      "published_ts": 1795514782,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QNu Labs (www.qnulabs.com), a global leader in end-to-end hybrid quantum cybersecurity solutions, has signed a Memorandum of Understanding (MoU) with the National Institute of Electronics and Information Technology (NIELIT), an autonomous scientific society under…"
+    },
+    {
+      "title": "Accelerating Computing With Light",
+      "link": "https://thequantuminsider.com/2026/11/24/accelerating-computing-with-light/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 08:52:49 +0000",
+      "published_ts": 1795510369,
+      "summary": "Insider Brief PRESS RELEASE &#8212; For decades, computers have steadily grown faster and more powerful. Avik Dutt, an assistant professor of mechanical engineering at the University of Maryland, envisions another dramatic leap forward — one propelled by the quantum properties of light. “With light-…"
+    },
+    {
+      "title": "Canadian Researchers Piece Together a Million-Qubit Quantum Chip",
+      "link": "https://thequantuminsider.com/2026/11/24/canadian-researchers-piece-together-a-million-qubit-quantum-chip/",
+      "source": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 08:43:08 +0000",
+      "published_ts": 1795509788,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at the National Research Council (NRC) and the University of Warwick are taking an important step toward building practical quantum computers powerful enough to solve problems beyond the reach of today&#8217;s technology. The team has developed a new a…"
+    },
+    {
+      "title": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
+      "source": "ScienceDaily — Quantum Computers",
+      "published": "Mon, 23 Nov 2026 23:46:12 EST",
+      "published_ts": 1795495572,
+      "summary": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordinarily complex calculation in just 15 minutes, beyond the practical reach of leading classical computing methods. A novel error-detection technique also allows scientists to establish confide…"
+    },
     {
       "title": "New light-conversion tool could help speed up quantum computing",
       "link": "https://phys.org/news/2026-11-conversion-tool-quantum.html",
@@ -34,204 +122,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the leader in fault-tolerant quantum computing, today announced that it is a collaborating partner in ASQC (Application-Aware Error Correction Codesign for Scientific Quantum Computing), a Harvard-led project that received $12 million from the U.S…"
     },
     {
-      "title": "UNM Hosts First Quantum Industry Day in New Mexico",
-      "link": "https://thequantuminsider.com/2026/11/23/unm-first-quantum-industry-day-new-mexico/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 23 Nov 2026 17:09:31 +0000",
-      "published_ts": 1795453771,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The University of New Mexico’s Quantum New Mexico Institute (QNM-I) brought together industry representatives, researchers, national laboratory partners, state leaders and investors for its inaugural Quantum Industry Day on Nov. 6. The all-day event concluded UNM’…"
-    },
-    {
       "title": "Theoretical model describes a new type of atomic oscillation with cloverleaf symmetry in altermagnets",
       "link": "https://phys.org/news/2026-11-theoretical-atomic-oscillation-cloverleaf-symmetry.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Mon, 23 Nov 2026 11:20:02 EST",
       "published_ts": 1795450802,
       "summary": "A team of researchers at Martin Luther University Halle-Wittenberg (MLU) and the University of Münster has discovered a new type of atomic oscillation in altermagnets, which exhibit a striking cloverleaf symmetry. The findings were published in the journal Physical Review Letters."
-    },
-    {
-      "title": "CyberRidge Selected for The Lucrative EIC Award For Innovation In Quantum Security",
-      "link": "https://thequantuminsider.com/2026/11/23/cyberridge-european-innovation-council-co-funding/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 23 Nov 2026 16:13:07 +0000",
-      "published_ts": 1795450387,
-      "summary": "Insider Brief PRESS RELEASE &#8212; CyberRidge has been selected for co-funding by the European Innovation Council (EIC), Europe’s flagship program for breakthrough technologies. In this highly selective round, only 71 companies were chosen out of 1211 applicants. The European Commission set up the…"
-    },
-    {
-      "title": "Xairos Appoints Armen Minasian to Board of Advisors",
-      "link": "https://thequantuminsider.com/2026/11/23/xairos-appoints-armen-minasian-board-advisor/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 23 Nov 2026 13:36:39 +0000",
-      "published_ts": 1795440999,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Xairos Systems, Inc. (Xairos), a quantum technology company developing resilient timing and networking solutions, today announced the appointment of Armen Minasian to its Board of Advisors to support investment and capital strategy as the company commercializes it…"
-    },
-    {
-      "title": "CQC, CO.LAB and Outset Ventures Partner to Accelerate Quantum Commercialization",
-      "link": "https://thequantuminsider.com/2026/11/23/cqc-colab-outset-ventures-quantum-commercialisation/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 23 Nov 2026 13:24:31 +0000",
-      "published_ts": 1795440271,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The Chattanooga Quantum Collaborative (CQC), The Company Lab (CO.LAB), and New Zealand-based Outset Ventures are combining their strengths to accelerate quantum commercialization, moving quantum innovation from the lab into the hands of the people and industries t…"
-    },
-    {
-      "title": "Q.security Launches With $11.5 Million From Castle Island Ventures, New York Life Ventures and Coinbase Ventures",
-      "link": "https://thequantuminsider.com/2026/11/23/q-security-launches-with-11-5-million-from-castle-island-ventures-new-york-life-ventures-and-coinbase-ventures/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 23 Nov 2026 13:01:54 +0000",
-      "published_ts": 1795438914,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Q.security, the provider of the business-first post-quantum cryptography (PQC) remediation platform, today announced its launch from stealth with $11.5 million in seed funding led by Castle Island Ventures, with investment from New York Life Ventures and Coinbase…"
-    },
-    {
-      "title": "planqc Expands Into the UK With New Cambridge Site",
-      "link": "https://thequantuminsider.com/2026/11/23/planqc-expands-into-the-uk-with-new-cambridge-site/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 23 Nov 2026 12:36:39 +0000",
-      "published_ts": 1795437399,
-      "summary": "Insider Brief PRESS RELEASE &#8212; planqc, one of Europe’s leading developers of neutral-atom quantum computers, is expanding into the United Kingdom with the establishment of planqc UK Ltd and a new site in Cambridge. The company is investing in the double-digit millions in the UK. Cambridge will…"
-    },
-    {
-      "title": "Microsoft Builds Israeli Team to Help Companies Prepare for Quantum Threats",
-      "link": "https://thequantuminsider.com/2026/11/23/microsoft-builds-israeli-team-to-help-companies-prepare-for-quantum-threats/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 23 Nov 2026 09:17:13 +0000",
-      "published_ts": 1795425433,
-      "summary": "Insider Brief Microsoft is forming a team in Israel to help companies identify encryption that future quantum computers could break, Calcalist reported. Led by Inbar Badian, the group will develop software that uses artificial intelligence to track where organizations use encryption and flag the wea…"
-    },
-    {
-      "title": "Rotonium Unveils a Quantum Computer That Operates at Room Temperature",
-      "link": "https://thequantuminsider.com/2026/11/23/rotonium-unveils-a-quantum-computer-that-operates-at-room-temperature/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 23 Nov 2026 08:57:29 +0000",
-      "published_ts": 1795424249,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Rotonium has unveiled a quantum computer prototype that operates at room temperature, with no cryogenic cooling anywhere in the quantum chain: from the single-photon source to the processor and the detectors that read the results. The machine houses a photonic qua…"
-    },
-    {
-      "title": "Aalborg University Buys Quantum Computer to Train Engineers",
-      "link": "https://thequantuminsider.com/2026/11/23/aalborg-university-buys-quantum-computer-to-train-engineers/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 23 Nov 2026 08:40:28 +0000",
-      "published_ts": 1795423228,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Aalborg University (AAU) is purchasing a quantum computer, which will be delivered and installed during 2027. But it has not been acquired to compete with the major pharmaceutical companies, tech giants and universities using quantum computing to develop new vacci…"
-    },
-    {
-      "title": "Thermalization and quantum chaos in a pure gauge discrete non-Abelian lattice gauge theory",
-      "link": "https://arxiv.org/abs/2611.26695",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.26695v1 Announce Type: new  Abstract: Gauge theories constitute the basis of our microscopic description of fundamental physical laws, and they are a cornerstone of contemporary scientific research. Yet, how such systems thermalize far from equilibrium remains a fundamental open question…"
-    },
-    {
-      "title": "Certification of non-stabilizerness in multi-qubit systems via worst-case random access codes",
-      "link": "https://arxiv.org/abs/2611.26705",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.26705v1 Announce Type: new  Abstract: Recent works have proposed semi-device-independent frameworks to certify non-stabilizerness, but the complexity of the stabilizer polytope makes these methods infeasible beyond a few qubits. In this work, we address this limitation by moving to partia…"
-    },
-    {
-      "title": "Improved Digitization Bounds for U(1) Lattice Gauge Theory via Semiclassical Analysis",
-      "link": "https://arxiv.org/abs/2611.26720",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.26720v1 Announce Type: new  Abstract: Simulating lattice gauge theories on a digital quantum computer or using tensor network methods requires a finite-dimensional approximation of the gauge field, a process often called digitization. Controlling the resulting error is essential for asses…"
-    },
-    {
-      "title": "Entropy production from crossing a quantum separatrix",
-      "link": "https://arxiv.org/abs/2611.26737",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.26737v1 Announce Type: new  Abstract: If the Hamiltonian of a large quantum system depends on a variable parameter, its parameter-dependent energy spectrum may often form a dense lattice of avoided crossings. If the parameter slowly changes, the system's time evolution through the avoided…"
-    },
-    {
-      "title": "Efficient Tensor Decomposition of the Coulomb and Coulomb-like Potentials and Its Application to Probing Molecular Geometries Using a Quantum Computer",
-      "link": "https://arxiv.org/abs/2611.26740",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.26740v1 Announce Type: new  Abstract: We present an efficient canonical polyadic decomposition of the Coulomb and Coulomb-like potentials in real-space grid representations suited to quantum computing applications. By decomposing the matrix elements of Coulomb-like potentials into low-ran…"
-    },
-    {
-      "title": "Gravity-induced entanglement assisted by an additional interaction using magic angle calibration",
-      "link": "https://arxiv.org/abs/2611.26755",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.26755v1 Announce Type: new  Abstract: Gravity-induced entanglement provides an operational test of whether gravitational dynamics are compatible with local operations and classical communication (LOCC), but the weakness of the gravitational interaction and the presence of force noise make…"
-    },
-    {
-      "title": "Harnessing Dephasing for Quantum Reservoir Computing with a Minimum Complexity Architecture: Applications to Nonlinear Time-Series Prediction",
-      "link": "https://arxiv.org/abs/2611.26762",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.26762v1 Announce Type: new  Abstract: Quantum reservoir computing (QRC) exploits quantum dynamics for temporal information processing. Quantum noise affects the reservoir dynamics and can either impair computational performance or serve as a computational resource. However, the role of pu…"
-    },
-    {
-      "title": "Frequency-bin-encoded quantum secret sharing with fast basis switching",
-      "link": "https://arxiv.org/abs/2611.26816",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.26816v1 Announce Type: new  Abstract: Frequency-bin encoding offers unique opportunities for fiber-native quantum information processing, yet its full potential has been hampered by challenges in rapid state control and protocol scaling. Leveraging high-speed microwave processing, we over…"
-    },
-    {
-      "title": "Scheduling the quantum implementation of the Trotter decomposition for Hamiltonian simulation",
-      "link": "https://arxiv.org/abs/2611.26884",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.26884v1 Announce Type: new  Abstract: For the quantum computational task for Hamiltonian simulation, the arrangement in which sub-Hamiltonians appear in the Trotter decomposition may have a large influence on the precision, under a given circuit complexity. In this paper, we design severa…"
-    },
-    {
-      "title": "Analog Explorations of Quantum State Measurement",
-      "link": "https://arxiv.org/abs/2611.26889",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.26889v1 Announce Type: new  Abstract: The awkward disconnect in the postulates of quantum mechanics between the continuous, deterministic, linear, and unitary evolution governed by Schr\\\"odinger's equation and the discontinuous, stochastic, nonlinear, and nonunitary measurement process ha…"
-    },
-    {
-      "title": "Benchmarking Quantum Key Distribution Hardware Across Operating Conditions",
-      "link": "https://arxiv.org/abs/2611.26925",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.26925v1 Announce Type: new  Abstract: Quantum key distribution (QKD) is entering national fibre networks, but published secret key rates (SKRs) are measured over different distances, wavelengths, classical traffic loads and clock rates, so systems are hard to compare. We write the SKR as…"
-    },
-    {
-      "title": "Resonance-controlled post-selected mode entanglement in one-dimensional quantum scattering",
-      "link": "https://arxiv.org/abs/2611.26960",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.26960v1 Announce Type: new  Abstract: We study resonance-controlled post-selected mode entanglement in a one-dimensional quantum-scattering model. Two incoming electrons scatter independently from a symmetric double-barrier structure and the sector with one reflected and one transmitted e…"
-    },
-    {
-      "title": "Augmenting Quantum Neural Networks with Contractive Layers",
-      "link": "https://arxiv.org/abs/2611.27019",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.27019v1 Announce Type: new  Abstract: Classical neural networks combine diverse layers with complementary roles to achieve rich expressive capabilities across complex learning tasks. Rapid advances in quantum science and technology have motivated growing interest in their quantum counterp…"
-    },
-    {
-      "title": "Generalized Wigner-Yanase Uncertainty Bounds for Multiple Quantum Channels",
-      "link": "https://arxiv.org/abs/2611.27034",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.27034v1 Announce Type: new  Abstract: We derive uncertainty relations for quantum channels based on the generalized Wigner-Yanase skew information. For three channels, we obtain a product lower bound by optimizing over permutations of commutator and anticommutator pairings. For an arbitra…"
-    },
-    {
-      "title": "Physical Learning for Autonomous Tuning of Spin Qubits in Electrostatically Defined Quantum Dots",
-      "link": "https://arxiv.org/abs/2611.27140",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795410000,
-      "summary": "arXiv:2611.27140v1 Announce Type: new  Abstract: Tuning electrostatically defined quantum dots remains a primary bottleneck in the scalability of semiconductor spin qubits. While existing solutions rely on machine learning algorithms, these approaches require global information, introduce latency bo…"
     },
     {
       "title": "Quantum software matches classical benchmark for a molecular interaction",
@@ -320,14 +216,6 @@
       "published": "Wed, 18 Nov 2026 07:00:13 EST",
       "published_ts": 1795003213,
       "summary": "Quantum technologies, devices and systems that process, store, transfer or collect information leveraging the laws of quantum mechanics, could outperform their classical counterparts on some real-world tasks. Many of these technologies encode quantum information in qubits, which can exist in either…"
-    },
-    {
-      "title": "Photon fluctuations offer new way to probe electron dynamics in crystals",
-      "link": "https://phys.org/news/2026-11-photon-fluctuations-probe-electron-dynamics.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 17 Nov 2026 22:40:08 EST",
-      "published_ts": 1794973208,
-      "summary": "Intense laser light can make a crystal emit new colors at frequencies many times higher than that of the original beam. This process, known as high-harmonic generation, provides a powerful way to investigate the rapid motion of electrons in solids. Researchers usually study the brightness and spectr…"
     },
     {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
@@ -464,14 +352,6 @@
       "published": "Tue, 29 Sep 2026 08:02:30 EDT",
       "published_ts": 1790683350,
       "summary": "Scientists have developed and experimentally demonstrated a long-sought method for identifying W states, an important form of multi-photon quantum entanglement. The technique could make complex entangled systems much easier to measure, opening new possibilities for quantum teleportation, communicati…"
-    },
-    {
-      "title": "Quantum computing’s “dark horse” just proved it can go universal",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
-      "source": "ScienceDaily — Quantum Computers",
-      "published": "Fri, 25 Sep 2026 08:45:04 EDT",
-      "published_ts": 1790340304,
-      "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide…"
     },
     {
       "title": "New qubit architecture enables faster, more accurate operations",
