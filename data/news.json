@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1795453925,
+  "generated_ts": 1795491844,
   "items": [
+    {
+      "title": "New light-conversion tool could help speed up quantum computing",
+      "link": "https://phys.org/news/2026-11-conversion-tool-quantum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 23 Nov 2026 22:20:01 EST",
+      "published_ts": 1795490401,
+      "summary": "Want to break down some basics in the world of quantum research over dinner? Researchers at the Cockrell School of Engineering have you covered."
+    },
+    {
+      "title": "Local measurements reveal global quantum properties in a constant number of experimental runs",
+      "link": "https://phys.org/news/2026-11-local-reveal-global-quantum-properties.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 23 Nov 2026 19:00:02 EST",
+      "published_ts": 1795478402,
+      "summary": "A quantum device with more qubits is harder to verify. Describing a general quantum state takes an exponential number of parameters, and reconstructing it in full—a procedure known as state tomography—becomes impractical as the system grows. Yet most experiments do not need the full description. The…"
+    },
+    {
+      "title": "No magnets needed: Extreme voltage drives completely new kind of Hall effect",
+      "link": "https://phys.org/news/2026-11-magnets-extreme-voltage-kind-hall.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Mon, 23 Nov 2026 14:20:07 EST",
+      "published_ts": 1795461607,
+      "summary": "The Hall effect, a physical phenomenon in which a current arises perpendicular to a voltage applied across a material, has been of particular interest to physicists since it was discovered more than a century ago. Over time, physicists have broadened their understanding of the Hall effect, describin…"
+    },
+    {
+      "title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+      "link": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+      "published_ts": 1795459183,
+      "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the leader in fault-tolerant quantum computing, today announced that it is a collaborating partner in ASQC (Application-Aware Error Correction Codesign for Scientific Quantum Computing), a Harvard-led project that received $12 million from the U.S…"
+    },
+    {
+      "title": "UNM Hosts First Quantum Industry Day in New Mexico",
+      "link": "https://thequantuminsider.com/2026/11/23/unm-first-quantum-industry-day-new-mexico/",
+      "source": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 17:09:31 +0000",
+      "published_ts": 1795453771,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The University of New Mexico’s Quantum New Mexico Institute (QNM-I) brought together industry representatives, researchers, national laboratory partners, state leaders and investors for its inaugural Quantum Industry Day on Nov. 6. The all-day event concluded UNM’…"
+    },
     {
       "title": "Theoretical model describes a new type of atomic oscillation with cloverleaf symmetry in altermagnets",
       "link": "https://phys.org/news/2026-11-theoretical-atomic-oscillation-cloverleaf-symmetry.html",
@@ -72,14 +112,6 @@
       "published": "Mon, 23 Nov 2026 08:40:28 +0000",
       "published_ts": 1795423228,
       "summary": "Insider Brief PRESS RELEASE &#8212; Aalborg University (AAU) is purchasing a quantum computer, which will be delivered and installed during 2027. But it has not been acquired to compete with the major pharmaceutical companies, tech giants and universities using quantum computing to develop new vacci…"
-    },
-    {
-      "title": "Portable Quantum Eye Scanner Could Expand Access to Care in Remote Australia",
-      "link": "https://thequantuminsider.com/2026/11/23/portable-quantum-eye-scanner-could-expand-access-to-care-in-remote-australia/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 23 Nov 2026 08:24:12 +0000",
-      "published_ts": 1795422252,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers have taken a significant step towards better access to crucial eye care for Australia’s Indigenous population &#8211; potentially tackling the community’s most common cause of sight loss &#8211; after the successful trial of a pioneering remote quantum…"
     },
     {
       "title": "Thermalization and quantum chaos in a pure gauge discrete non-Abelian lattice gauge theory",
@@ -226,14 +258,6 @@
       "summary": "Combining their skills in theory and experiment, Yale researchers have observed for the first time a type of energy-carrying composite particle move in a highly unexpected way. It's a finding that could lead to advances in quantum technologies, solar energy, LEDs and other optoelectronic technologie…"
     },
     {
-      "title": "10-Member Team Drawn from Chinese Institutions Wins 2026 Gordon Bell Prize",
-      "link": "https://thequantuminsider.com/2026/11/20/10-member-team-drawn-from-chinese-institutions-wins-2026-gordon-bell-prize/",
-      "source": "The Quantum Insider",
-      "published": "Fri, 20 Nov 2026 16:13:55 +0000",
-      "published_ts": 1795191235,
-      "summary": "Insider Brief PRESS RELEASE &#8212; ACM, the Association for Computing Machinery, named a ten-member team drawn from Chinese institutions as the winner of the 2026 ACM Gordon Bell Prize for their project “Closing the FeMo-Cofactor ‘Quantum-Advantage’ Gap with Exascale Supercomputers.” The ACM Gordon…"
-    },
-    {
       "title": "Spiraling spins bring coordinated quantum motion to diamond sensors",
       "link": "https://phys.org/news/2026-11-spiraling-quantum-motion-diamond-sensors.html",
       "source": "Phys.org — Quantum Physics",
@@ -304,30 +328,6 @@
       "published": "Tue, 17 Nov 2026 22:40:08 EST",
       "published_ts": 1794973208,
       "summary": "Intense laser light can make a crystal emit new colors at frequencies many times higher than that of the original beam. This process, known as high-harmonic generation, provides a powerful way to investigate the rapid motion of electrons in solids. Researchers usually study the brightness and spectr…"
-    },
-    {
-      "title": "Quantum-gas microscope resolves the 'color' of individual atoms in a single shot",
-      "link": "https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 17 Nov 2026 19:00:01 EST",
-      "published_ts": 1794960001,
-      "summary": "In 2024, researchers at the Ultracold Quantum Gases group at ICFO built a quantum-gas microscope capable of imaging individual atoms in strontium quantum gases for the first time, marking a key enabling step for quantum simulation. At that time, the researchers imaged strontium-84, a boson that has…"
-    },
-    {
-      "title": "Quantum observers can 'agree to disagree,' but within limits, new theorem shows",
-      "link": "https://phys.org/news/2026-11-quantum-limits-theorem.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 17 Nov 2026 14:20:01 EST",
-      "published_ts": 1794943201,
-      "summary": "Two observers can start with the same description of a quantum system, follow the same probability rules and still disagree about the chance of the same outcome—even while being certain of each other's assessments."
-    },
-    {
-      "title": "Team extends a qubit's lifetime, correcting errors without measuring them",
-      "link": "https://phys.org/news/2026-11-team-qubit-lifetime-errors.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Tue, 17 Nov 2026 09:00:11 EST",
-      "published_ts": 1794924011,
-      "summary": "Quantum technologies, devices that can process, store or collect information leveraging the laws of quantum mechanics, could potentially outperform their classical counterparts on some tasks. Yet these devices are highly sensitive to changes or disturbances in their surrounding environment, which ca…"
     },
     {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
