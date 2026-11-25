@@ -1,6 +1,70 @@
 {
-  "generated_ts": 1795571478,
+  "generated_ts": 1795624904,
   "items": [
+    {
+      "title": "Quantum leap: Computing's next frontier takes shape",
+      "link": "https://phys.org/news/2026-11-quantum-frontier.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 25 Nov 2026 11:40:03 EST",
+      "published_ts": 1795624803,
+      "summary": "After several dashed predictions, quantum computing is accelerating rapidly with actual use cases and scientific breakthroughs now expected within years, not decades."
+    },
+    {
+      "title": "QuIC Welcomes the European Quantum Act, Pledges to ‘Mobilize Industry”",
+      "link": "https://thequantuminsider.com/2026/11/25/quic-welcomes-the-european-quantum-act-pledges-to-mobilize-industry/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 14:05:24 +0000",
+      "published_ts": 1795615524,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The European Quantum Industry Consortium (QuIC) welcomes the publication of the European Commission&#8217;s proposal for the European Quantum Act, marking a significant milestone in Europe&#8217;s ambition to establish itself as a global leader in quantum technolo…"
+    },
+    {
+      "title": "Guest Post: After DeepMind’s RSA Results, The Case For QKD on Critical Links",
+      "link": "https://thequantuminsider.com/2026/11/25/guest-post-after-deepminds-rsa-results-the-case-for-qkd-on-critical-links/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 12:27:15 +0000",
+      "published_ts": 1795609635,
+      "summary": "Guest Post by Ofir Joseph, Quantum Communication Researcher, University of Haifa, and Head of the Cybersecurity Program, Academic College of Tel Aviv–Yaffo Prof. Irit Hadar, Dean, Faculty of Computer and Information Science &#38; Director, Center for Cyber, Law and Policy, University of Haifa Miriam…"
+    },
+    {
+      "title": "European Commission Proposes Quantum Act and New Sovereign Tech Equity Fund",
+      "link": "https://thequantuminsider.com/2026/11/25/european-commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 11:01:30 +0000",
+      "published_ts": 1795604490,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The European Commission today proposed the Quantum Act, a new framework to help turn Europe&#8217;s quantum research into products and services, strengthen supply chains and prepare Europe&#8217;s digital systems for post-quantum cryptography. The proposal also la…"
+    },
+    {
+      "title": "ARQUE Systems and Forschungszentrum Jülich Plan 200-Qubit Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/11/25/arque-systems-forschungszentrum-julich-200-qubit-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 10:18:34 +0000",
+      "published_ts": 1795601914,
+      "summary": "Insider Brief PRESS RELEASE &#8212; ARQUE Systems, a Jülich–Aachen spin-off, aims to overcome a major hurdle in quantum computing using innovative quantum semiconductor technology. As part of the € 35 million Q-STAR.NRW project, their approach will now be tested with up to 200 qubits, helping to sti…"
+    },
+    {
+      "title": "Chulalongkorn Researchers Call for Greater Quantum Investment in Thailand",
+      "link": "https://thequantuminsider.com/2026/11/25/chulalongkorn-researchers-call-greater-quantum-investment-thailand/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 09:34:28 +0000",
+      "published_ts": 1795599268,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Chulalongkorn University physicists are urging Thailand to build quantum expertise andstrengthen research support to prepare for opportunities in computing, industry and data security. With specialists taking years to train, the university’s learning programs offe…"
+    },
+    {
+      "title": "Nexent Capital IFSC Launches $1 Billion Quantum Computing-ready AI Infrastructure & Advanced Energy Fund",
+      "link": "https://thequantuminsider.com/2026/11/25/nexent-capital-launches-1-billion-ai-infrastructure-energy-fund/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 09:17:07 +0000",
+      "published_ts": 1795598227,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Nexent Capital IFSC Private Limited (&#8220;Nexent Capital&#8221;) today announced the launch of Nexent Capital ADGM Fund I, a closed-end fund targeting US$1 billion in capital commitments — expandable up to a US$1.6 billion hard cap — dedicated to quantum-ready A…"
+    },
+    {
+      "title": "Standard Chartered Expands Quantum Computing Research Program Following Successful Research Phase",
+      "link": "https://thequantuminsider.com/2026/11/25/standard-chartered-expands-quantum-computing-research-program-following-successful-research-phase/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 08:15:02 +0000",
+      "published_ts": 1795594502,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Standard Chartered today announced the expansion of its quantum computing research programme, following the successful completion of its first year of research supported under the Financial Sector Technology &#38; Innovation (FSTI) Quantum Technology scheme, admin…"
+    },
     {
       "title": "Quantum ingenuity can sidestep limits of conventional chips—while using commercially accessible components",
       "link": "https://phys.org/news/2026-11-quantum-ingenuity-sidestep-limits-conventional.html",
@@ -50,60 +114,12 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced the public launch of CoPaNA (Concatenated Parity codes on Neutral Atoms), a three-year research project selected under the European Defence Fund (EDF) 2025 call and coordinat…"
     },
     {
-      "title": "Diraq Finalizes $38 Million CHIPS R&D Award with U.S. Department of Commerce",
-      "link": "https://thequantuminsider.com/2026/11/24/diraq-finalizes-38-million-chips-rd-award-with-u-s-department-of-commerce/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 24 Nov 2026 12:23:46 +0000",
-      "published_ts": 1795523026,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Diraq, the quantum computing pioneer, announced the finalization of an agreement with the United States Department of Commerce’s CHIPS Research and Development Office for up to $38million in federal funding under the CHIPS and Science Act, following a previously-a…"
-    },
-    {
-      "title": "Researchers Fit Quantum Circuits Into a 30 Billion-Parameter AI Model",
-      "link": "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 24 Nov 2026 12:23:06 +0000",
-      "published_ts": 1795522986,
-      "summary": "Insider Brief A quantum computer may one day serve as a computational partner to help chatbots predict what comes next, although scientists caution a lot of work remains. In an experiment, a team of researchers replaced eight layers of a large language model with a compact module that can run on a q…"
-    },
-    {
       "title": "Ultracold atoms reveal first direct view of bound-pair motion in a fracton system",
       "link": "https://phys.org/news/2026-11-ultracold-atoms-reveal-view-bound.html",
       "source": "Phys.org — Quantum Physics",
       "published": "Tue, 24 Nov 2026 06:20:01 EST",
       "published_ts": 1795519201,
       "summary": "Particles can generally move between neighboring sites in a crystal, a solid in which atoms are arranged in a regular, repeating pattern, or an optical lattice, an arrangement of laser-based traps that confines atoms. A strong potential gradient (i.e., a steep change in potential energy across a cry…"
-    },
-    {
-      "title": "Qtonic Quantum Appoints Former TRADOC Commander Gary Brito",
-      "link": "https://thequantuminsider.com/2026/11/24/gary-brito-joins-qtonic-quantum-senior-military-advisor/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 24 Nov 2026 10:16:19 +0000",
-      "published_ts": 1795515379,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Gen. Gary M. Brito, U.S. Army (Ret.), the 18th and final commanding general of U.S. Army Training and Doctrine Command (TRADOC), has joined Qtonic Quantum to lead the Army Readiness Council and serve as Senior Military Advisor to the Founders. His appointment come…"
-    },
-    {
-      "title": "QNu Labs and NIELIT Partner on Quantum Technology Training in India",
-      "link": "https://thequantuminsider.com/2026/11/24/qnu-labs-nielit-quantum-technology-training-india/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 24 Nov 2026 10:06:22 +0000",
-      "published_ts": 1795514782,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QNu Labs (www.qnulabs.com), a global leader in end-to-end hybrid quantum cybersecurity solutions, has signed a Memorandum of Understanding (MoU) with the National Institute of Electronics and Information Technology (NIELIT), an autonomous scientific society under…"
-    },
-    {
-      "title": "Accelerating Computing With Light",
-      "link": "https://thequantuminsider.com/2026/11/24/accelerating-computing-with-light/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 24 Nov 2026 08:52:49 +0000",
-      "published_ts": 1795510369,
-      "summary": "Insider Brief PRESS RELEASE &#8212; For decades, computers have steadily grown faster and more powerful. Avik Dutt, an assistant professor of mechanical engineering at the University of Maryland, envisions another dramatic leap forward — one propelled by the quantum properties of light. “With light-…"
-    },
-    {
-      "title": "Canadian Researchers Piece Together a Million-Qubit Quantum Chip",
-      "link": "https://thequantuminsider.com/2026/11/24/canadian-researchers-piece-together-a-million-qubit-quantum-chip/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 24 Nov 2026 08:43:08 +0000",
-      "published_ts": 1795509788,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Researchers at the National Research Council (NRC) and the University of Warwick are taking an important step toward building practical quantum computers powerful enough to solve problems beyond the reach of today&#8217;s technology. The team has developed a new a…"
     },
     {
       "title": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
@@ -136,14 +152,6 @@
       "published": "Mon, 23 Nov 2026 14:20:07 EST",
       "published_ts": 1795461607,
       "summary": "The Hall effect, a physical phenomenon in which a current arises perpendicular to a voltage applied across a material, has been of particular interest to physicists since it was discovered more than a century ago. Over time, physicists have broadened their understanding of the Hall effect, describin…"
-    },
-    {
-      "title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
-      "link": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
-      "source": "The Quantum Insider",
-      "published": "Mon, 23 Nov 2026 18:39:43 +0000",
-      "published_ts": 1795459183,
-      "summary": "Insider Brief PRESS RELEASE &#8212; QuEra Computing, the leader in fault-tolerant quantum computing, today announced that it is a collaborating partner in ASQC (Application-Aware Error Correction Codesign for Scientific Quantum Computing), a Harvard-led project that received $12 million from the U.S…"
     },
     {
       "title": "Theoretical model describes a new type of atomic oscillation with cloverleaf symmetry in altermagnets",
@@ -208,14 +216,6 @@
       "published": "Wed, 18 Nov 2026 19:00:04 EST",
       "published_ts": 1795046404,
       "summary": "When scientists shine a laser beam into a crystal, they typically expect a steady glow as the crystal's atoms are energized and begin to emit light. But in early 2024, while searching for something else entirely, researchers in the lab of Caltech's Andrei Faraon saw a crystal flash in a regular rhyt…"
-    },
-    {
-      "title": "Scalable photonic quantum computer provides new insights into the fundamentals that shape its performance",
-      "link": "https://phys.org/news/2026-11-scalable-photonic-quantum-insights-fundamentals.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 18 Nov 2026 17:10:12 EST",
-      "published_ts": 1795039812,
-      "summary": "Photonics-based quantum computers open up new possibilities for investigating highly complex problems in mathematics and have the potential to revolutionize fields ranging from energy and chemical research to secure communications. By utilizing the unusual properties of light particles, they can per…"
     },
     {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
