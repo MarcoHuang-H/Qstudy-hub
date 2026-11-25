@@ -1,6 +1,30 @@
 {
-  "generated_ts": 1795539200,
+  "generated_ts": 1795571478,
   "items": [
+    {
+      "title": "Quantum ingenuity can sidestep limits of conventional chips—while using commercially accessible components",
+      "link": "https://phys.org/news/2026-11-quantum-ingenuity-sidestep-limits-conventional.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 24 Nov 2026 20:00:01 EST",
+      "published_ts": 1795568401,
+      "summary": "For decades, computers have steadily grown faster and more powerful. Avik Dutt, an assistant professor of mechanical engineering at the University of Maryland, envisions another dramatic leap forward—one propelled by the quantum properties of light."
+    },
+    {
+      "title": "Quantum blueprint maps a practical path to testing unusual entanglement",
+      "link": "https://phys.org/news/2026-11-quantum-blueprint-path-unusual-entanglement.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 24 Nov 2026 17:30:02 EST",
+      "published_ts": 1795559402,
+      "summary": "Adrian Del Maestro knows how to engineer a quantum fingerprint. Rick Mukherjee has a gift for tuning atoms. Their combined expertise has taken a theory sketched out on paper and created a pathway for real experiments. The results, published in the journal Physical Review Letters, move a law-defying…"
+    },
+    {
+      "title": "New theoretical model allows for sustained entanglement between diamond qubits at greater separations",
+      "link": "https://phys.org/news/2026-11-theoretical-sustained-entanglement-diamond-qubits.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Tue, 24 Nov 2026 12:30:01 EST",
+      "published_ts": 1795541401,
+      "summary": "In a new study accepted in the journal Physical Review B, a team of physicists from the University of Delaware may have found a way to overcome limitations in maintaining the entanglement of diamond qubits. The model involves driving the qubits away from equilibrium using microwave radiation while t…"
+    },
     {
       "title": "SEALSQ Expands Quantum Highway Network Across the U.S. and Europe",
       "link": "https://thequantuminsider.com/2026/11/24/sealsq-expands-quantum-highway-network-across-the-u-s-and-europe/",
@@ -192,30 +216,6 @@
       "published": "Wed, 18 Nov 2026 17:10:12 EST",
       "published_ts": 1795039812,
       "summary": "Photonics-based quantum computers open up new possibilities for investigating highly complex problems in mathematics and have the potential to revolutionize fields ranging from energy and chemical research to secure communications. By utilizing the unusual properties of light particles, they can per…"
-    },
-    {
-      "title": "Quantum physics can verify a person's location, researchers show",
-      "link": "https://phys.org/news/2026-11-quantum-physics-person.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 18 Nov 2026 11:00:13 EST",
-      "published_ts": 1795017613,
-      "summary": "Imagine a corporate treasurer directing her company's financial network to make a $50 million wire transfer. How can the network be certain the command is coming from a secure terminal in the company's headquarters, and not a hacker's laptop across the globe?"
-    },
-    {
-      "title": "How electrons find their way to diamond's quantum defects",
-      "link": "https://phys.org/news/2026-11-electrons-diamond-quantum-defects.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 18 Nov 2026 10:20:05 EST",
-      "published_ts": 1795015205,
-      "summary": "A diamond's most useful quantum properties come from defects, places where the regular arrangement of carbon atoms is broken. One of these, a nitrogen atom situated next to a vacancy caused by a missing carbon atom, has become a key component in quantum technology."
-    },
-    {
-      "title": "Using a microwave link to transfer a three-level quantum state",
-      "link": "https://phys.org/news/2026-11-microwave-link-quantum-state.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 18 Nov 2026 07:00:13 EST",
-      "published_ts": 1795003213,
-      "summary": "Quantum technologies, devices and systems that process, store, transfer or collect information leveraging the laws of quantum mechanics, could outperform their classical counterparts on some real-world tasks. Many of these technologies encode quantum information in qubits, which can exist in either…"
     },
     {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
