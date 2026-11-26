@@ -1,6 +1,22 @@
 {
-  "generated_ts": 1795624904,
+  "generated_ts": 1795656508,
   "items": [
+    {
+      "title": "IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre",
+      "link": "https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/",
+      "source": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 18:08:13 +0000",
+      "published_ts": 1795630093,
+      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, is partnering with QAI Co., Ltd., a South Korean quantum-AI data center and cloud infrastructure company, to deliver an IQM Radiance R3 54-qubit quantum computer. The order…"
+    },
+    {
+      "title": "New quantum network entangles 123 qubits that store information in atoms' positions",
+      "link": "https://phys.org/news/2026-11-quantum-network-entangles-qubits-atoms.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Wed, 25 Nov 2026 13:00:15 EST",
+      "published_ts": 1795629615,
+      "summary": "Researchers are constantly getting closer to making practical quantum computers. Now, a team of researchers has overcome another hurdle in the process. Their study, published in Physical Review Letters, describes a new platform for manipulating entangled atomic networks in measurement-based quantum…"
+    },
     {
       "title": "Quantum leap: Computing's next frontier takes shape",
       "link": "https://phys.org/news/2026-11-quantum-frontier.html",
@@ -10,7 +26,7 @@
       "summary": "After several dashed predictions, quantum computing is accelerating rapidly with actual use cases and scientific breakthroughs now expected within years, not decades."
     },
     {
-      "title": "QuIC Welcomes the European Quantum Act, Pledges to ‘Mobilize Industry”",
+      "title": "QuIC Welcomes the European Quantum Act, Pledges to ‘Mobilize Industry’",
       "link": "https://thequantuminsider.com/2026/11/25/quic-welcomes-the-european-quantum-act-pledges-to-mobilize-industry/",
       "source": "The Quantum Insider",
       "published": "Wed, 25 Nov 2026 14:05:24 +0000",
@@ -104,14 +120,6 @@
       "published": "Tue, 24 Nov 2026 13:34:16 +0000",
       "published_ts": 1795527256,
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Art, a developer of full-stack, fault tolerant quantum computers based on trapped-ion qubits and a proprietary, dynamically reconfigurable multi-core architecture, today announced two additions to its leadership team: Mark Solomon has joined as Head of U.S…"
-    },
-    {
-      "title": "Pasqal Leads European Defence Fund Project on Fault-Tolerant Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/11/24/pasqal-leads-european-defence-fund-project-fault-tolerant-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 24 Nov 2026 13:33:45 +0000",
-      "published_ts": 1795527225,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced the public launch of CoPaNA (Concatenated Parity codes on Neutral Atoms), a three-year research project selected under the European Defence Fund (EDF) 2025 call and coordinat…"
     },
     {
       "title": "Ultracold atoms reveal first direct view of bound-pair motion in a fracton system",
@@ -208,14 +216,6 @@
       "published": "Thu, 19 Nov 2026 15:00:04 EST",
       "published_ts": 1795118404,
       "summary": "Magnets are usually associated with a familiar property: they produce a magnetic field because the magnetic moments of their electrons align. But nature allows much more unusual forms of magnetic order. An international research team has now identified compelling experimental evidence for p-wave mag…"
-    },
-    {
-      "title": "Atoms in sync: Superradiance offers a new kind of frequency comb",
-      "link": "https://phys.org/news/2026-11-atoms-sync-superradiance-kind-frequency.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Wed, 18 Nov 2026 19:00:04 EST",
-      "published_ts": 1795046404,
-      "summary": "When scientists shine a laser beam into a crystal, they typically expect a steady glow as the crystal's atoms are energized and begin to emit light. But in early 2024, while searching for something else entirely, researchers in the lab of Caltech's Andrei Faraon saw a crystal flash in a regular rhyt…"
     },
     {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
