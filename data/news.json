@@ -1,6 +1,166 @@
 {
-  "generated_ts": 1795656508,
+  "generated_ts": 1795709729,
   "items": [
+    {
+      "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+      "link": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 26 Nov 2026 12:32:21 +0000",
+      "published_ts": 1795696341,
+      "summary": "Insider Brief A Stanford physicist has proposed a quantum theory of gravity that uses the paths of light to get a finite answer for a calculation that can otherwise run to infinity. If the approach holds up, it could help reconcile quantum mechanics, which governs the behavior of matter and energy a…"
+    },
+    {
+      "title": "European Quantum Community Reacts to New Quantum Strategy",
+      "link": "https://thequantuminsider.com/2026/11/26/european-quantum-community-reacts-to-new-quantum-strategy/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 26 Nov 2026 09:40:04 +0000",
+      "published_ts": 1795686004,
+      "summary": "The European Commission proposed a Quantum Act yesterday to commercialize European quantum research, strengthen supply chains and coordinate the transition to post-quantum cryptography. The proposal would bring EU and national programs together to fund research, expand access to shared facilities an…"
+    },
+    {
+      "title": "Global Investors to Explore Australia’s Quantum Industry at 2027 Conference",
+      "link": "https://thequantuminsider.com/2026/11/26/global-investors-explore-australia-quantum-industry-2027-conference/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 26 Nov 2026 09:21:40 +0000",
+      "published_ts": 1795684900,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The foundation behind Ozempic and an early Canva backer are expected to join a growing lineup of international investment heavyweights heading to Sydney to scout Australia’s quantum industry for investment opportunities. Denmark’s Novo Nordisk Foundation is expect…"
+    },
+    {
+      "title": "Quantum eMotion Completes Acquisition of Plurilock Security",
+      "link": "https://thequantuminsider.com/2026/11/26/quantum-emotion-completes-acquisition-plurilock-security/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 26 Nov 2026 09:14:50 +0000",
+      "published_ts": 1795684490,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum eMotion Corp. (NYSE American: QNC) (TSXV: QNC) (FSE: 34Q0) (“QeM”) and Plurilock Security Inc. (TSXV: PLUR &#124; OTCQB: PLCKF) (“Plurilock”) are pleased to announce the completion of their previously announced plan of arrangement (the “Arrangement”), purs…"
+    },
+    {
+      "title": "Nordic Ministers Pledge Closer Cooperation on Quantum Research",
+      "link": "https://thequantuminsider.com/2026/11/26/nordic-ministers-pledge-closer-cooperation-on-quantum-research/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 26 Nov 2026 08:53:16 +0000",
+      "published_ts": 1795683196,
+      "summary": "Insider Brief Nordic education and research ministers pledged Thursday to work more closely on quantum research facilities, workforce training and commercialization in a bid to attract researchers, companies and investment to the region. The Nordic Council of Ministers for Education and Research ado…"
+    },
+    {
+      "title": "Sharp one-shot bounds and optimal exponents of universal randomness extraction",
+      "link": "https://arxiv.org/abs/2611.33270",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33270v1 Announce Type: new  Abstract: We introduce techniques for the study of randomness extraction against quantum side information (privacy amplification) by relating this problem to variants of hypothesis testing tasks with quadratic constraints. Building also on the recently introduc…"
+    },
+    {
+      "title": "Structure-factor witnesses of thermal entanglement: exact optimal covariance criteria for the XY chain",
+      "link": "https://arxiv.org/abs/2611.33284",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33284v1 Announce Type: new  Abstract: Which entanglement witness is optimal for a thermal many-body state, and what does its structure reveal about the equilibrium physics? We address these questions for the spin-$1/2$ XY chain in a transverse field, using the covariance-matrix criterion…"
+    },
+    {
+      "title": "Quditology: harnessing many levels for quantum information processing",
+      "link": "https://arxiv.org/abs/2611.33299",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33299v1 Announce Type: new  Abstract: Quantum computing offers the prospect of surpassing classical computation on certain tasks by leveraging quantum coherence and entanglement. However, a significant gap remains between current quantum hardware and the requirements to transcend what cla…"
+    },
+    {
+      "title": "Gauge symmetry permits extremely low-depth random unitary circuits",
+      "link": "https://arxiv.org/abs/2611.33312",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33312v1 Announce Type: new  Abstract: Continuous global symmetries can obstruct logarithmic-depth symmetric unitary $k$-designs and pseudorandom unitaries (PRUs) through long-range correlations. We ask whether gauge symmetries impose analogous limitations. For $\\mathrm{U}(1)$ lattice gaug…"
+    },
+    {
+      "title": "When does a noisy Bell pair attain the Rains bound?",
+      "link": "https://arxiv.org/abs/2611.33317",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33317v1 Announce Type: new  Abstract: Two entangled Bell-diagonal qubit states with the same singlet fraction have the same Rains bound. We prove that their attainable rates under operations preserving the positive partial transpose can nevertheless differ: the bound is attained if and on…"
+    },
+    {
+      "title": "Chiral Domain-Wall Modes in Topological Adaptive Quantum Dynamics",
+      "link": "https://arxiv.org/abs/2611.33328",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33328v1 Announce Type: new  Abstract: Quantum dynamical systems driven by both unitary evolution and measurements open a new landscape of nonequilibrium phases of matter. The role of topology in enriching this landscape remains less understood than that of entanglement and symmetry. A par…"
+    },
+    {
+      "title": "Using a static spacetime subsystem code to calculate Floquet code distance",
+      "link": "https://arxiv.org/abs/2611.33337",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33337v1 Announce Type: new  Abstract: Dynamical codes, including Floquet codes, can capture time-dependent phenomena in quantum error correction circuits that are absent from static stabilizer or subsystem codes, such as detecting regions and error propagation. They are also capable of pr…"
+    },
+    {
+      "title": "Quantum Copy Complexity of Testing Monotonicity and Other Properties",
+      "link": "https://arxiv.org/abs/2611.33340",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33340v1 Announce Type: new  Abstract: We study the sample complexity of testing monotonicity of Boolean functions when the tester is given only copies of the quantum function state $|\\psi_f\\rangle=\\frac{1}{\\sqrt{2^n}}\\sum_{x\\in\\{0,1\\}^n}|x,f(x)\\rangle$. We give a tester with sample comple…"
+    },
+    {
+      "title": "Nitrogen-Vacancy Nuclear Magnetic Resonance Spectroscopy of $^{15}$N Spins in Potassium Nitrite Solution",
+      "link": "https://arxiv.org/abs/2611.33360",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33360v1 Announce Type: new  Abstract: Nitrogen is essential in agricultural fertilizers, yet its nanoscale interfacial dynamics remain largely unexplored. Although quadrupolar broadening complicates $^{14}$N nuclear magnetic resonance (NMR) detection, $^{15}$N (I=1/2) provides well-define…"
+    },
+    {
+      "title": "Constructively Embedding Quantum Error-Correcting Codes",
+      "link": "https://arxiv.org/abs/2611.33389",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33389v1 Announce Type: new  Abstract: Implementing quantum error-correcting codes (QECCs) requires more than favorable algebraic parameters: the interactions among data qubits and ancillas must also fit physical hardware. Surface codes map naturally onto two-dimensional arrays, but many q…"
+    },
+    {
+      "title": "How Many Keys Must a Quantum Computer Break to Take Over a Blockchain? A Quantum Nakamoto Coefficient for Fifteen Proof-of-Stake Networks",
+      "link": "https://arxiv.org/abs/2611.33413",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33413v1 Announce Type: new  Abstract: Blockchains that run on proof of stake, among them Ethereum and Solana, are secured by a vote: a transaction becomes irreversible once computers holding two thirds of the deposited money have signed it. Each signature is made with a secret key whose p…"
+    },
+    {
+      "title": "Extracting Operational Entanglement from a Noise-Protected Many-Body System",
+      "link": "https://arxiv.org/abs/2611.33421",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33421v1 Announce Type: new  Abstract: Can noisy dynamics generate entanglement that stays useful at long times? Under collective dephasing, a twelve-spin kicked Ising ring evolves from a uniform product state toward an entangled stationary state that is maximally mixed in the sector fixed…"
+    },
+    {
+      "title": "Estimating the Trotter error via phase analysis",
+      "link": "https://arxiv.org/abs/2611.33438",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33438v1 Announce Type: new  Abstract: Good Trotter error estimates are crucial to correctly assess the resources required to perform an approximate time evolution with a target accuracy. General bounds for finite-size quantum systems are found to be very loose in practice, and it is there…"
+    },
+    {
+      "title": "A Realistic End-to-End Runtime Crossover Estimation for Quantum-Enhanced Training of Large-Scale Machine Learning Models",
+      "link": "https://arxiv.org/abs/2611.33454",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33454v1 Announce Type: new  Abstract: Machine Learning (ML) is one promising application domain for Quantum Computing (QC) speedups, but asymptotic complexity considerations often mask the actual engineering costs of actual end-to-end workflows. For the use case of training a linearized N…"
+    },
+    {
+      "title": "NISQ Preparation of Conditional Thermal States for Precision Thermometry",
+      "link": "https://arxiv.org/abs/2611.33461",
+      "source": "arXiv — quant-ph (latest)",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "published_ts": 1795669200,
+      "summary": "arXiv:2611.33461v1 Announce Type: new  Abstract: The ability to prepare thermal states on gate-based quantum computers is an important building block for quantum computation, both with regard to the implementation of certain classes of quantum algorithms as well as to the study of quantum thermodyna…"
+    },
     {
       "title": "IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre",
       "link": "https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/",
@@ -58,30 +218,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; ARQUE Systems, a Jülich–Aachen spin-off, aims to overcome a major hurdle in quantum computing using innovative quantum semiconductor technology. As part of the € 35 million Q-STAR.NRW project, their approach will now be tested with up to 200 qubits, helping to sti…"
     },
     {
-      "title": "Chulalongkorn Researchers Call for Greater Quantum Investment in Thailand",
-      "link": "https://thequantuminsider.com/2026/11/25/chulalongkorn-researchers-call-greater-quantum-investment-thailand/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 25 Nov 2026 09:34:28 +0000",
-      "published_ts": 1795599268,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Chulalongkorn University physicists are urging Thailand to build quantum expertise andstrengthen research support to prepare for opportunities in computing, industry and data security. With specialists taking years to train, the university’s learning programs offe…"
-    },
-    {
-      "title": "Nexent Capital IFSC Launches $1 Billion Quantum Computing-ready AI Infrastructure & Advanced Energy Fund",
-      "link": "https://thequantuminsider.com/2026/11/25/nexent-capital-launches-1-billion-ai-infrastructure-energy-fund/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 25 Nov 2026 09:17:07 +0000",
-      "published_ts": 1795598227,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Nexent Capital IFSC Private Limited (&#8220;Nexent Capital&#8221;) today announced the launch of Nexent Capital ADGM Fund I, a closed-end fund targeting US$1 billion in capital commitments — expandable up to a US$1.6 billion hard cap — dedicated to quantum-ready A…"
-    },
-    {
-      "title": "Standard Chartered Expands Quantum Computing Research Program Following Successful Research Phase",
-      "link": "https://thequantuminsider.com/2026/11/25/standard-chartered-expands-quantum-computing-research-program-following-successful-research-phase/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 25 Nov 2026 08:15:02 +0000",
-      "published_ts": 1795594502,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Standard Chartered today announced the expansion of its quantum computing research programme, following the successful completion of its first year of research supported under the Financial Sector Technology &#38; Innovation (FSTI) Quantum Technology scheme, admin…"
-    },
-    {
       "title": "Quantum ingenuity can sidestep limits of conventional chips—while using commercially accessible components",
       "link": "https://phys.org/news/2026-11-quantum-ingenuity-sidestep-limits-conventional.html",
       "source": "Phys.org — Quantum Physics",
@@ -104,22 +240,6 @@
       "published": "Tue, 24 Nov 2026 12:30:01 EST",
       "published_ts": 1795541401,
       "summary": "In a new study accepted in the journal Physical Review B, a team of physicists from the University of Delaware may have found a way to overcome limitations in maintaining the entanglement of diamond qubits. The model involves driving the qubits away from equilibrium using microwave radiation while t…"
-    },
-    {
-      "title": "SEALSQ Expands Quantum Highway Network Across the U.S. and Europe",
-      "link": "https://thequantuminsider.com/2026/11/24/sealsq-expands-quantum-highway-network-across-the-u-s-and-europe/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 24 Nov 2026 14:54:13 +0000",
-      "published_ts": 1795532053,
-      "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that it is working with data center provid…"
-    },
-    {
-      "title": "Quantum Art Appoints Mark Solomon and Tal Inbar to Business Development Roles",
-      "link": "https://thequantuminsider.com/2026/11/24/quantum-art-appoints-mark-solomon-tal-inbar-business-development/",
-      "source": "The Quantum Insider",
-      "published": "Tue, 24 Nov 2026 13:34:16 +0000",
-      "published_ts": 1795527256,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum Art, a developer of full-stack, fault tolerant quantum computers based on trapped-ion qubits and a proprietary, dynamically reconfigurable multi-core architecture, today announced two additions to its leadership team: Mark Solomon has joined as Head of U.S…"
     },
     {
       "title": "Ultracold atoms reveal first direct view of bound-pair motion in a fracton system",
