@@ -1,6 +1,14 @@
 {
-  "generated_ts": 1795709729,
+  "generated_ts": 1795742764,
   "items": [
+    {
+      "title": "SAP and planqc Expand Quantum Computing Partnership, Plan Hardware Tests in 2027",
+      "link": "https://thequantuminsider.com/2026/11/26/sap-and-planqc-expand-quantum-computing-partnership-plan-hardware-tests-in-2027/",
+      "source": "The Quantum Insider",
+      "published": "Thu, 26 Nov 2026 14:30:00 +0000",
+      "published_ts": 1795703400,
+      "summary": "Insider Brief PRESS RELEASE &#8212; SAP and planqc are expanding their collaboration in quantum computing. At the Quantum Day Munich by SAP, the two companies demonstrated the first live integration of a planqc neutral-atom quantum computer into an SAP environment. This marks an important step towar…"
+    },
     {
       "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
       "link": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
@@ -208,14 +216,6 @@
       "published": "Wed, 25 Nov 2026 11:01:30 +0000",
       "published_ts": 1795604490,
       "summary": "Insider Brief PRESS RELEASE &#8212; The European Commission today proposed the Quantum Act, a new framework to help turn Europe&#8217;s quantum research into products and services, strengthen supply chains and prepare Europe&#8217;s digital systems for post-quantum cryptography. The proposal also la…"
-    },
-    {
-      "title": "ARQUE Systems and Forschungszentrum Jülich Plan 200-Qubit Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/11/25/arque-systems-forschungszentrum-julich-200-qubit-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 25 Nov 2026 10:18:34 +0000",
-      "published_ts": 1795601914,
-      "summary": "Insider Brief PRESS RELEASE &#8212; ARQUE Systems, a Jülich–Aachen spin-off, aims to overcome a major hurdle in quantum computing using innovative quantum semiconductor technology. As part of the € 35 million Q-STAR.NRW project, their approach will now be tested with up to 200 qubits, helping to sti…"
     },
     {
       "title": "Quantum ingenuity can sidestep limits of conventional chips—while using commercially accessible components",
