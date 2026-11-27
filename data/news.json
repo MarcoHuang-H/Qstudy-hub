@@ -1,6 +1,46 @@
 {
-  "generated_ts": 1795742764,
+  "generated_ts": 1795795217,
   "items": [
+    {
+      "title": "Equal1 Selected to Advance in EIC STEP Scale Up Program For Potential Equity Investment of up to €30 Million",
+      "link": "https://thequantuminsider.com/2026/11/27/equal1-selected-to-advance-in-eic-step-scale-up-program-for-potential-equity-investment-of-up-to-e30-million/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 27 Nov 2026 15:13:24 +0000",
+      "published_ts": 1795792404,
+      "summary": "Insider Brief PRESS RELEASE &#8212; Equal1 today announced it has been selected to advance to the due-diligence phase with the European Innovation Council (EIC) Fund under the Strategic Technologies for Europe Platform (STEP) Scale Up program. The selection opens the path for a potential equity inve…"
+    },
+    {
+      "title": "Guest Post: The Encryption Upgrade Needs a Backup Plan",
+      "link": "https://thequantuminsider.com/2026/11/27/critical-infrastructure-cryptographic-agility/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 27 Nov 2026 13:27:38 +0000",
+      "published_ts": 1795786058,
+      "summary": "Guest Post By Ofir Joseph, Quantum Communication Researcher, University of Haifa, and Head of the Cybersecurity Program, Academic College of Tel Aviv–Yaffo Prof. Irit Hadar, Dean, Faculty of Computer and Information Science &#38; Director, Center for Cyber, Law and Policy, University of Haifa Miriam…"
+    },
+    {
+      "title": "Wellington Community Foundation Receives $20,000 Quantum Foundation Grant",
+      "link": "https://thequantuminsider.com/2026/11/27/wellington-community-foundation-20000-quantum-foundation-grant/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 27 Nov 2026 11:04:00 +0000",
+      "published_ts": 1795777440,
+      "summary": "Insider Brief The Wellington Community Foundation (WCF) received a $20,000 grant at the sixth annual Quantum in the Community Breakfast on Tuesday, Nov. 17, the Town-Crier reported. The foundation was one of the nonprofit organizations recognized at the event. Nonprofit leaders, community advocates…"
+    },
+    {
+      "title": "Ethereum Plans Shift to Hash-Based Signatures for Post-Quantum Security",
+      "link": "https://thequantuminsider.com/2026/11/27/ethereum-shift-hash-based-signatures-post-quantum-security/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 27 Nov 2026 10:51:41 +0000",
+      "published_ts": 1795776701,
+      "summary": "Insider Brief Ethereum&#8217;s core developers are preparing to phase out the elliptic-curve cryptography that secures the network and switch to hash-based signatures, a change meant to protect against attacks powered by quantum computers or by advances in artificial intelligence, Crypto Briefing re…"
+    },
+    {
+      "title": "Bank of England Urges Firms to Move Faster on Quantum Security",
+      "link": "https://thequantuminsider.com/2026/11/27/bank-of-england-urges-firms-to-move-faster-on-quantum-security/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 27 Nov 2026 09:12:21 +0000",
+      "published_ts": 1795770741,
+      "summary": "Insider Brief The Bank of England urged financial firms with the greatest impact on the stability of the U.K. financial system to move faster than the national timetable for adopting quantum-resistant cryptography, warning that delays at a single technology provider could disrupt services at several…"
+    },
     {
       "title": "SAP and planqc Expand Quantum Computing Partnership, Plan Hardware Tests in 2027",
       "link": "https://thequantuminsider.com/2026/11/26/sap-and-planqc-expand-quantum-computing-partnership-plan-hardware-tests-in-2027/",
@@ -42,142 +82,6 @@
       "summary": "Insider Brief PRESS RELEASE &#8212; Quantum eMotion Corp. (NYSE American: QNC) (TSXV: QNC) (FSE: 34Q0) (“QeM”) and Plurilock Security Inc. (TSXV: PLUR &#124; OTCQB: PLCKF) (“Plurilock”) are pleased to announce the completion of their previously announced plan of arrangement (the “Arrangement”), purs…"
     },
     {
-      "title": "Nordic Ministers Pledge Closer Cooperation on Quantum Research",
-      "link": "https://thequantuminsider.com/2026/11/26/nordic-ministers-pledge-closer-cooperation-on-quantum-research/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 26 Nov 2026 08:53:16 +0000",
-      "published_ts": 1795683196,
-      "summary": "Insider Brief Nordic education and research ministers pledged Thursday to work more closely on quantum research facilities, workforce training and commercialization in a bid to attract researchers, companies and investment to the region. The Nordic Council of Ministers for Education and Research ado…"
-    },
-    {
-      "title": "Sharp one-shot bounds and optimal exponents of universal randomness extraction",
-      "link": "https://arxiv.org/abs/2611.33270",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33270v1 Announce Type: new  Abstract: We introduce techniques for the study of randomness extraction against quantum side information (privacy amplification) by relating this problem to variants of hypothesis testing tasks with quadratic constraints. Building also on the recently introduc…"
-    },
-    {
-      "title": "Structure-factor witnesses of thermal entanglement: exact optimal covariance criteria for the XY chain",
-      "link": "https://arxiv.org/abs/2611.33284",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33284v1 Announce Type: new  Abstract: Which entanglement witness is optimal for a thermal many-body state, and what does its structure reveal about the equilibrium physics? We address these questions for the spin-$1/2$ XY chain in a transverse field, using the covariance-matrix criterion…"
-    },
-    {
-      "title": "Quditology: harnessing many levels for quantum information processing",
-      "link": "https://arxiv.org/abs/2611.33299",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33299v1 Announce Type: new  Abstract: Quantum computing offers the prospect of surpassing classical computation on certain tasks by leveraging quantum coherence and entanglement. However, a significant gap remains between current quantum hardware and the requirements to transcend what cla…"
-    },
-    {
-      "title": "Gauge symmetry permits extremely low-depth random unitary circuits",
-      "link": "https://arxiv.org/abs/2611.33312",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33312v1 Announce Type: new  Abstract: Continuous global symmetries can obstruct logarithmic-depth symmetric unitary $k$-designs and pseudorandom unitaries (PRUs) through long-range correlations. We ask whether gauge symmetries impose analogous limitations. For $\\mathrm{U}(1)$ lattice gaug…"
-    },
-    {
-      "title": "When does a noisy Bell pair attain the Rains bound?",
-      "link": "https://arxiv.org/abs/2611.33317",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33317v1 Announce Type: new  Abstract: Two entangled Bell-diagonal qubit states with the same singlet fraction have the same Rains bound. We prove that their attainable rates under operations preserving the positive partial transpose can nevertheless differ: the bound is attained if and on…"
-    },
-    {
-      "title": "Chiral Domain-Wall Modes in Topological Adaptive Quantum Dynamics",
-      "link": "https://arxiv.org/abs/2611.33328",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33328v1 Announce Type: new  Abstract: Quantum dynamical systems driven by both unitary evolution and measurements open a new landscape of nonequilibrium phases of matter. The role of topology in enriching this landscape remains less understood than that of entanglement and symmetry. A par…"
-    },
-    {
-      "title": "Using a static spacetime subsystem code to calculate Floquet code distance",
-      "link": "https://arxiv.org/abs/2611.33337",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33337v1 Announce Type: new  Abstract: Dynamical codes, including Floquet codes, can capture time-dependent phenomena in quantum error correction circuits that are absent from static stabilizer or subsystem codes, such as detecting regions and error propagation. They are also capable of pr…"
-    },
-    {
-      "title": "Quantum Copy Complexity of Testing Monotonicity and Other Properties",
-      "link": "https://arxiv.org/abs/2611.33340",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33340v1 Announce Type: new  Abstract: We study the sample complexity of testing monotonicity of Boolean functions when the tester is given only copies of the quantum function state $|\\psi_f\\rangle=\\frac{1}{\\sqrt{2^n}}\\sum_{x\\in\\{0,1\\}^n}|x,f(x)\\rangle$. We give a tester with sample comple…"
-    },
-    {
-      "title": "Nitrogen-Vacancy Nuclear Magnetic Resonance Spectroscopy of $^{15}$N Spins in Potassium Nitrite Solution",
-      "link": "https://arxiv.org/abs/2611.33360",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33360v1 Announce Type: new  Abstract: Nitrogen is essential in agricultural fertilizers, yet its nanoscale interfacial dynamics remain largely unexplored. Although quadrupolar broadening complicates $^{14}$N nuclear magnetic resonance (NMR) detection, $^{15}$N (I=1/2) provides well-define…"
-    },
-    {
-      "title": "Constructively Embedding Quantum Error-Correcting Codes",
-      "link": "https://arxiv.org/abs/2611.33389",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33389v1 Announce Type: new  Abstract: Implementing quantum error-correcting codes (QECCs) requires more than favorable algebraic parameters: the interactions among data qubits and ancillas must also fit physical hardware. Surface codes map naturally onto two-dimensional arrays, but many q…"
-    },
-    {
-      "title": "How Many Keys Must a Quantum Computer Break to Take Over a Blockchain? A Quantum Nakamoto Coefficient for Fifteen Proof-of-Stake Networks",
-      "link": "https://arxiv.org/abs/2611.33413",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33413v1 Announce Type: new  Abstract: Blockchains that run on proof of stake, among them Ethereum and Solana, are secured by a vote: a transaction becomes irreversible once computers holding two thirds of the deposited money have signed it. Each signature is made with a secret key whose p…"
-    },
-    {
-      "title": "Extracting Operational Entanglement from a Noise-Protected Many-Body System",
-      "link": "https://arxiv.org/abs/2611.33421",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33421v1 Announce Type: new  Abstract: Can noisy dynamics generate entanglement that stays useful at long times? Under collective dephasing, a twelve-spin kicked Ising ring evolves from a uniform product state toward an entangled stationary state that is maximally mixed in the sector fixed…"
-    },
-    {
-      "title": "Estimating the Trotter error via phase analysis",
-      "link": "https://arxiv.org/abs/2611.33438",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33438v1 Announce Type: new  Abstract: Good Trotter error estimates are crucial to correctly assess the resources required to perform an approximate time evolution with a target accuracy. General bounds for finite-size quantum systems are found to be very loose in practice, and it is there…"
-    },
-    {
-      "title": "A Realistic End-to-End Runtime Crossover Estimation for Quantum-Enhanced Training of Large-Scale Machine Learning Models",
-      "link": "https://arxiv.org/abs/2611.33454",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33454v1 Announce Type: new  Abstract: Machine Learning (ML) is one promising application domain for Quantum Computing (QC) speedups, but asymptotic complexity considerations often mask the actual engineering costs of actual end-to-end workflows. For the use case of training a linearized N…"
-    },
-    {
-      "title": "NISQ Preparation of Conditional Thermal States for Precision Thermometry",
-      "link": "https://arxiv.org/abs/2611.33461",
-      "source": "arXiv — quant-ph (latest)",
-      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "published_ts": 1795669200,
-      "summary": "arXiv:2611.33461v1 Announce Type: new  Abstract: The ability to prepare thermal states on gate-based quantum computers is an important building block for quantum computation, both with regard to the implementation of certain classes of quantum algorithms as well as to the study of quantum thermodyna…"
-    },
-    {
-      "title": "IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre",
-      "link": "https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 25 Nov 2026 18:08:13 +0000",
-      "published_ts": 1795630093,
-      "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, is partnering with QAI Co., Ltd., a South Korean quantum-AI data center and cloud infrastructure company, to deliver an IQM Radiance R3 54-qubit quantum computer. The order…"
-    },
-    {
       "title": "New quantum network entangles 123 qubits that store information in atoms' positions",
       "link": "https://phys.org/news/2026-11-quantum-network-entangles-qubits-atoms.html",
       "source": "Phys.org — Quantum Physics",
@@ -192,30 +96,6 @@
       "published": "Wed, 25 Nov 2026 11:40:03 EST",
       "published_ts": 1795624803,
       "summary": "After several dashed predictions, quantum computing is accelerating rapidly with actual use cases and scientific breakthroughs now expected within years, not decades."
-    },
-    {
-      "title": "QuIC Welcomes the European Quantum Act, Pledges to ‘Mobilize Industry’",
-      "link": "https://thequantuminsider.com/2026/11/25/quic-welcomes-the-european-quantum-act-pledges-to-mobilize-industry/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 25 Nov 2026 14:05:24 +0000",
-      "published_ts": 1795615524,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The European Quantum Industry Consortium (QuIC) welcomes the publication of the European Commission&#8217;s proposal for the European Quantum Act, marking a significant milestone in Europe&#8217;s ambition to establish itself as a global leader in quantum technolo…"
-    },
-    {
-      "title": "Guest Post: After DeepMind’s RSA Results, The Case For QKD on Critical Links",
-      "link": "https://thequantuminsider.com/2026/11/25/guest-post-after-deepminds-rsa-results-the-case-for-qkd-on-critical-links/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 25 Nov 2026 12:27:15 +0000",
-      "published_ts": 1795609635,
-      "summary": "Guest Post by Ofir Joseph, Quantum Communication Researcher, University of Haifa, and Head of the Cybersecurity Program, Academic College of Tel Aviv–Yaffo Prof. Irit Hadar, Dean, Faculty of Computer and Information Science &#38; Director, Center for Cyber, Law and Policy, University of Haifa Miriam…"
-    },
-    {
-      "title": "European Commission Proposes Quantum Act and New Sovereign Tech Equity Fund",
-      "link": "https://thequantuminsider.com/2026/11/25/european-commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund/",
-      "source": "The Quantum Insider",
-      "published": "Wed, 25 Nov 2026 11:01:30 +0000",
-      "published_ts": 1795604490,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The European Commission today proposed the Quantum Act, a new framework to help turn Europe&#8217;s quantum research into products and services, strengthen supply chains and prepare Europe&#8217;s digital systems for post-quantum cryptography. The proposal also la…"
     },
     {
       "title": "Quantum ingenuity can sidestep limits of conventional chips—while using commercially accessible components",
