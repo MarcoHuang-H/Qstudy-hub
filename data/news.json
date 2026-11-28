@@ -1,6 +1,38 @@
 {
-  "generated_ts": 1795795217,
+  "generated_ts": 1795827542,
   "items": [
+    {
+      "title": "New research establishes fundamental complexity limit for quantum circuit optimization",
+      "link": "https://phys.org/news/2026-11-fundamental-complexity-limit-quantum-circuit.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 27 Nov 2026 17:40:04 EST",
+      "published_ts": 1795819204,
+      "summary": "Quantum circuit optimization is an important research area, as the computational resources required to execute quantum algorithms remain a major challenge. In particular, two-qubit operations are generally associated with higher error rates than single-qubit gates on current quantum hardware, making…"
+    },
+    {
+      "title": "ATLAS finds hints of the hidden structure of the vacuum",
+      "link": "https://phys.org/news/2026-11-atlas-hints-hidden-vacuum.html",
+      "source": "Phys.org — Quantum Physics",
+      "published": "Fri, 27 Nov 2026 13:40:06 EST",
+      "published_ts": 1795804806,
+      "summary": "Researchers at the University of Bonn, together with colleagues from Oxford and Prague, played a leading role in analyzing particle collisions at CERN's Large Hadron Collider. The ATLAS Collaboration observed more proton collisions with the particle pattern it was looking for than expected. This cou…"
+    },
+    {
+      "title": "Quantum Computing 101: Can a Cat be Alive and Dead at The Same Time?",
+      "link": "https://thequantuminsider.com/2026/11/27/quantum-computing-101-can-a-cat-be-alive-and-dead-at-the-same-time/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 27 Nov 2026 16:51:24 +0000",
+      "published_ts": 1795798284,
+      "summary": "What is a qubit, why do quantum computers need to be colder than outer space, and what will they really be able to do? A plain-English guide to quantum computing, from Schrödinger’s cat to post-quantum cryptography."
+    },
+    {
+      "title": "Gyeonggi Province Holds Forum on Quantum and Semiconductor Industry Cooperation",
+      "link": "https://thequantuminsider.com/2026/11/27/gyeonggi-province-quantum-industry-development-forum/",
+      "source": "The Quantum Insider",
+      "published": "Fri, 27 Nov 2026 16:07:06 +0000",
+      "published_ts": 1795795626,
+      "summary": "Insider Brief PRESS RELEASE &#8212; The ‘Gyeonggi Quantum Innovation Forum and 2026 Gyeonggi Quantum-Semiconductor Convergence Industry Networking Day’, hosted by Gyeonggi Province and the Gyeonggi Business and Science Accelerator and organised by Sungkyunkwan University’s Anchor Project Group and t…"
+    },
     {
       "title": "Equal1 Selected to Advance in EIC STEP Scale Up Program For Potential Equity Investment of up to €30 Million",
       "link": "https://thequantuminsider.com/2026/11/27/equal1-selected-to-advance-in-eic-step-scale-up-program-for-potential-equity-investment-of-up-to-e30-million/",
@@ -11,11 +43,11 @@
     },
     {
       "title": "Guest Post: The Encryption Upgrade Needs a Backup Plan",
-      "link": "https://thequantuminsider.com/2026/11/27/critical-infrastructure-cryptographic-agility/",
+      "link": "https://thequantuminsider.com/2026/11/27/encryption-upgrade-needs-backup-plan/",
       "source": "The Quantum Insider",
       "published": "Fri, 27 Nov 2026 13:27:38 +0000",
       "published_ts": 1795786058,
-      "summary": "Guest Post By Ofir Joseph, Quantum Communication Researcher, University of Haifa, and Head of the Cybersecurity Program, Academic College of Tel Aviv–Yaffo Prof. Irit Hadar, Dean, Faculty of Computer and Information Science &#38; Director, Center for Cyber, Law and Policy, University of Haifa Miriam…"
+      "summary": "Guest Post By Companies preparing for quantum computers may have to confront a threat that requires no quantum computer at all. For the operators of critical infrastructure, from electric utilities and water systems to hospitals and telecom networks, the lesson is simple: keep the move to quantum-re…"
     },
     {
       "title": "Wellington Community Foundation Receives $20,000 Quantum Foundation Grant",
@@ -64,22 +96,6 @@
       "published": "Thu, 26 Nov 2026 09:40:04 +0000",
       "published_ts": 1795686004,
       "summary": "The European Commission proposed a Quantum Act yesterday to commercialize European quantum research, strengthen supply chains and coordinate the transition to post-quantum cryptography. The proposal would bring EU and national programs together to fund research, expand access to shared facilities an…"
-    },
-    {
-      "title": "Global Investors to Explore Australia’s Quantum Industry at 2027 Conference",
-      "link": "https://thequantuminsider.com/2026/11/26/global-investors-explore-australia-quantum-industry-2027-conference/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 26 Nov 2026 09:21:40 +0000",
-      "published_ts": 1795684900,
-      "summary": "Insider Brief PRESS RELEASE &#8212; The foundation behind Ozempic and an early Canva backer are expected to join a growing lineup of international investment heavyweights heading to Sydney to scout Australia’s quantum industry for investment opportunities. Denmark’s Novo Nordisk Foundation is expect…"
-    },
-    {
-      "title": "Quantum eMotion Completes Acquisition of Plurilock Security",
-      "link": "https://thequantuminsider.com/2026/11/26/quantum-emotion-completes-acquisition-plurilock-security/",
-      "source": "The Quantum Insider",
-      "published": "Thu, 26 Nov 2026 09:14:50 +0000",
-      "published_ts": 1795684490,
-      "summary": "Insider Brief PRESS RELEASE &#8212; Quantum eMotion Corp. (NYSE American: QNC) (TSXV: QNC) (FSE: 34Q0) (“QeM”) and Plurilock Security Inc. (TSXV: PLUR &#124; OTCQB: PLCKF) (“Plurilock”) are pleased to announce the completion of their previously announced plan of arrangement (the “Arrangement”), purs…"
     },
     {
       "title": "New quantum network entangles 123 qubits that store information in atoms' positions",
@@ -200,22 +216,6 @@
       "published": "Fri, 20 Nov 2026 08:00:04 EST",
       "published_ts": 1795179604,
       "summary": "Trapped within diamond's crystal lattice are tiny defects called nitrogen-vacancy (NV) centers, where a nitrogen atom sits beside an empty gap where a carbon atom should be. Because of their quantum spins, electrons trapped at these defects behave like tiny magnets, turning diamond into a highly sen…"
-    },
-    {
-      "title": "The secret of 'strange metals' may lie in quantum statistics, not collisions",
-      "link": "https://phys.org/news/2026-11-secret-strange-metals-quantum-statistics.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 19 Nov 2026 18:20:11 EST",
-      "published_ts": 1795130411,
-      "summary": "In an ordinary metal, electrons behave like well-defined particles that occasionally bump into imperfections or vibrations of the crystal. Many materials with strong electron–electron interactions, including the copper-oxide (cuprate) superconductors, break these rules. In these \"strange metals,\" el…"
-    },
-    {
-      "title": "Unusual magnetism revealed in a simple metal's electron spins",
-      "link": "https://phys.org/news/2026-11-unusual-magnetism-revealed-simple-metal.html",
-      "source": "Phys.org — Quantum Physics",
-      "published": "Thu, 19 Nov 2026 15:00:04 EST",
-      "published_ts": 1795118404,
-      "summary": "Magnets are usually associated with a familiar property: they produce a magnetic field because the magnetic moments of their electrons align. But nature allows much more unusual forms of magnetic order. An international research team has now identified compelling experimental evidence for p-wave mag…"
     },
     {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
